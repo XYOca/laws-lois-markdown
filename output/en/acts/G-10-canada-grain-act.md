@@ -1,0 +1,2958 @@
+---
+title: "Canada Grain Act"
+long_title: "An Act respecting grain"
+chapter: "G-10"
+language: "en"
+type: "act"
+---
+
+# Canada Grain Act
+
+> An Act respecting grain
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Canada Grain Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**actual producer** means a person actually engaged in the production of grain; (**producteur-exploitant**)
+
+**cash purchase ticket** means a document in prescribed form issued in respect of grain delivered to a primary elevator, process elevator or grain dealer as evidence of the purchase of the grain by the operator of the elevator or the grain dealer and entitling the holder of the document to payment, by the operator or grain dealer, of the purchase price stated in the document; (**bon de paiement**)
+
+**class**, in respect of grain, means any variety or varieties of grain designated by order of the Commission as a class for the purposes of this Act; (**classe**)
+
+**Commission** means the Canadian Grain Commission established by section 3; (**Commission**)
+
+**commissioner** means a commissioner appointed pursuant to section 3; (**commissaire**)
+
+**contaminated**[Repealed, 2020, c. 1, s. 60]
+
+**crop year** means, subject to any order of the Governor in Council made pursuant to section 115, the period commencing on August 1 in any year and terminating on July 31 in the year next following; (**campagne agricole**)
+
+**Division** means the Eastern Division or the Western Division; (**région**)
+
+**dockage** means any material intermixed with a parcel of grain, other than kernels of grain of a standard of quality fixed by or under this Act for a grade of that grain, that must and can be separated from the parcel of grain before that grade can be assigned to the grain; (**impuretés**)
+
+**Eastern Division** means that part of Canada not included in the Western Division; (**région de l’Est**)
+
+**eastern grain** means grain, other than imported grain, that is delivered into the Eastern Division; (**grain de l’Est**)
+
+**elevator** means
+  - (a) any premises in the Western Division
+    - (i) into which grain may be received or out of which grain may be discharged directly from or to railway cars or ships,
+    - (ii) constructed for the purpose of handling and storing grain received directly from producers, otherwise than as a part of the farming operation of a particular producer, and into which grain may be received, at which grain may be weighed, elevated and stored and out of which grain may be discharged, or
+    - (iii) constructed for the purpose of handling and storing grain as part of the operation of a flour mill, feed mill, seed cleaning plant, malt house, distillery, grain oil extraction plant or other grain processing plant, and into which grain may be received, at which grain may be weighed, elevated and stored and out of which grain may be discharged for processing or otherwise,
+  - (b) any premises in the Eastern Division, situated along Lake Superior, Lake Huron, Lake St. Clair, Lake Erie, Lake Ontario or the canals or other navigable waters connecting those Lakes or the St. Lawrence River or any tidal waters, and into which grain may be received directly from railway cars or ships and out of which grain may be discharged directly to ships,
+  - (c) the portion of any premises in the Eastern Division designated by regulation pursuant to subsection 116(3) that is used for the purpose of storing grain,
+  - (d) and (e) [Repealed before coming into force, 2008, c. 20, s. 3]
+including any such premises owned or operated by Her Majesty in right of Canada or a province or any agent thereof; (**installation** ou **silo**)
+
+**elevator receipt** means a document in prescribed form issued in respect of grain delivered to an elevator acknowledging receipt of the grain and, subject to any conditions contained therein or in this Act, entitling the holder of the document
+  - (a) to the delivery of grain of the same kind, grade and quantity as the grain referred to in the document, or
+  - (b) in the case of a document issued for specially binned grain, to delivery of the identical grain; (**récépissé**)
+
+**export standard sample** means, in respect of a grade of grain, a sample of grain of that grade designated by the Commission pursuant to paragraph 26(b); (**échantillon-type d’exportation**)
+
+**foreign grain**[Repealed, 2020, c. 1, s. 60]
+
+**foreign material** means any material intermixed with a parcel of grain, other than kernels of grain of a standard of quality fixed by or under this Act for a grade of that grain, that is of such a character and in such limited quantity that it need not be separated from the parcel of grain before that grade can be assigned to the grain; (**matières étrangères**)
+
+**grade name** means the name, or name and number, assigned to any grade of grain established by or under this Act and includes any abbreviation prescribed for that grade name; (**appellation de grade**)
+
+**grain** means any seed designated by regulation as a grain for the purposes of this Act; (**grain**)
+
+**grain dealer** means a person who, for reward, on his own behalf or on behalf of another person, deals in or handles western grain; (**négociant en grains**)
+
+**grain product** means any product that is produced by processing or manufacturing any grain alone or with any other grain or substance and that may be presented for storage or handling at an elevator; (**produit céréalier**)
+
+**grain receipt** means a document in prescribed form issued in respect of grain delivered to a process elevator or grain dealer acknowledging receipt of the grain and entitling the holder of the document to payment by the operator of the elevator or the grain dealer for the grain; (**accusé de réception**)
+
+**holder**, in relation to any document that entitles the person to whom it is delivered to the payment of money or the delivery of grain, means the person who, from time to time, is so entitled by virtue of
+  - (a) the issue or endorsement to him of the document, or
+  - (b) the delivery to him of the document after it has been endorsed in blank; (**détenteur**)
+
+**imported grain** means any grain grown outside Canada or the United States and includes screenings from such a grain and every grain product manufactured or processed from such a grain; (**grain importé**)
+
+**infested** means containing any injurious, noxious or troublesome insect or animal pest; (**infesté**)
+
+**inspection point** means any place at which the Commission has made provision for the inspection of grain; (**poste d’inspection**)
+
+**inspector** means a person designated as an inspector by the Commission pursuant to section 12; (**inspecteur**)
+
+**lawfully** means
+  - (a) in accordance with this Act, and
+  - (b) in respect of
+    - (i) the offering of grain for delivery to or storage in a primary elevator,
+    - (ii) the delivery of grain to a terminal elevator or process elevator or to a consignee at a destination other than an elevator, or
+    - (iii) the delivery of grain to a public carrier for carriage to any elevator or consignee referred to in subparagraph (ii),
+
+**licence** means a licence to operate an elevator or to carry on business as a grain dealer issued by the Commission; (**licence**)
+
+**licensed** means, in respect of an elevator, licensed for operation under a licence that is held by a licensee; (**agréée**)
+
+**licensee** means a person who holds a licence to operate an elevator or to carry on business as a grain dealer; (**titulaire de licence**)
+
+**manager** means, in respect of an elevator, the chief executive officer employed at the elevator by the operator or licensee of the elevator; (**directeur**)
+
+**Minister** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; (**ministre**)
+
+**official inspection** means the sampling and grading of a parcel of grain by an inspector; (**inspection officielle**)
+
+**official sample** means a sample taken from a parcel of grain by a person authorized by the Commission to take the sample or by any sampling device authorized by the Commission; (**échantillon officiel**)
+
+**official weighing** means the weighing of grain under the supervision of a person authorized by the Commission or in a manner authorized by the Commission; (**pesée officielle**)
+
+**operator** means, in respect of an elevator, the person in possession of the premises constituting the elevator, either as owner or lessee thereof or as being entitled under a contract with the owner or lessee to operate the elevator for his own benefit and advantage; (**exploitant**)
+
+**order** includes any directive to the trade issued by the Commission; (**arrêté**)
+
+**overage**[Repealed, 2012, c. 31, s. 351]
+
+**prescribed** means prescribed by regulation; (**Version anglaise seulement**)
+
+**primary elevator** means an elevator the principal use of which is the receiving of grain directly from producers for storage or forwarding or both; (**installation primaire** ou **silo primaire**)
+
+**primary standard sample** means, in respect of a grade of grain, a sample of grain of that grade designated by the Commission pursuant to paragraph 26(a); (**échantillon-type normal**)
+
+**process elevator** means an elevator the principal use of which is the receiving and storing of grain for direct manufacture or processing into other products; (**installation de transformation** ou **silo de transformation**)
+
+**producer** means, as well as an actual producer, any person entitled, as landlord, vendor or mortgagee or hypothecary creditor, to the grain produced by an actual producer or to any share of that grain; (**producteur**)
+
+**public carrier** means any railway company, any operator of an extra-provincial truck undertaking within the meaning of the *Motor Vehicle Transport Act* and any owner or operator of a ship; (**transporteur public**)
+
+**railway company** means any company operating a line of railway in one or more provinces; (**compagnie de chemin de fer**)
+
+**regulation**[Repealed, 1994, c. 45, s. 1]
+
+**screenings** means dockage that has been removed from a parcel of grain; (**criblures**)
+
+**ship** includes any description of vessel or boat used or designed for use in navigation, irrespective of method or lack of propulsion; (**navire**)
+
+**shortage**[Repealed, 2012, c. 31, s. 351]
+
+**shrinkage** means the loss in weight of grain that occurs in the handling or treating of grain; (**perte de poids**)
+
+**special binning** means the storing of a parcel or parcels of grain pursuant to a contract, in space in an elevator that is specified in the contract, for the purpose of preserving the identity of the grain; (**stockage en cellule**)
+
+**storage charge** means the charge made by the licensee of an elevator for maintaining in the elevator a stock of grain available for delivery on presentation of an elevator receipt entitling the holder to the delivery of grain in accordance with the receipt; (**frais de stockage**)
+
+**terminal elevator** means an elevator whose principal uses are the receiving of grain from another elevator and the cleaning, storing and treating of the grain before it is moved forward; (**installation terminale** ou **silo terminal**)
+
+**transfer elevator**[Repealed, 2012, c. 31, s. 351]
+
+**weigh-over**[Repealed, 2012, c. 31, s. 351]
+
+**Western Division** means all that part of Canada lying west of the meridian passing through the eastern boundary of the City of Thunder Bay, including the whole of the Province of Manitoba; (**région de l’Ouest**)
+
+**western grain** means grain, other than imported grain, that is delivered into the Western Division. (**grain de l’Ouest**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 2; R.S., 1985, c. 29 (3rd Supp.), s. 25, c. 37 (4th Supp.), s. 1; 1994, c. 45, s. 1; 1998, c. 22, s. 1; 2001, c. 13, s. 12; 2008, c. 20, s. 3; 2011, c. 25, s. 24; 2012, c. 31, s. 351
+- 2020, c. 1, s. 60
+
+</details>
+
+### 2.1 Contaminated grain
+
+Grain is contaminated for the purposes of this Act if the grain contains any substance in sufficient quantity that the grain is either
+
+- (a) adulterated for the purposes of the *Food and Drugs Act*; or
+
+- (b) contaminated within the meaning of the regulations made under section 51 of the *Safe Foods for Canadians Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, c. 1, s. 61
+
+</details>
+
+## Canadian Grain Commission
+
+### Constitution of the Commission and Commissioners
+
+### 3 Commission established
+
+There is hereby established a Commission to be known as the Canadian Grain Commission consisting of three commissioners to be appointed by the Governor in Council to hold office, during good behaviour, for a renewable term of up to seven years.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 3; R.S., 1985, c. 37 (4th Supp.), s. 2
+
+</details>
+
+### 4 Chief commissioner and assistant chief commissioner
+
+(1) The Governor in Council shall designate one of the commissioners to be chief commissioner and another commissioner to be assistant chief commissioner.
+
+**Commissioner chief executive officer**
+
+(2) The chief commissioner is the chief executive officer of the Commission and, subject to section 12, has supervision over and direction of the work and staff of the Commission.
+
+**Powers of assistant chief commissioner**
+
+(3) The assistant chief commissioner may exercise all the powers and perform all the functions of the chief commissioner in the event of the absence or incapacity of the chief commissioner or if the office of the chief commissioner is vacant.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 4; 1994, c. 45, s. 2
+
+</details>
+
+### 5 Salaries and expenses
+
+(1) Each commissioner shall be paid a salary to be fixed by the Governor in Council and is entitled to be paid reasonable travel and other expenses incurred by him while absent from his ordinary place of residence in the course of his duties under this Act.
+
+**Superannuation and compensation**
+
+(2) The commissioners are deemed to be persons employed in the public service for the purposes of the *Public Service Superannuation Act* and to be employed in the federal public administration for the purposes of the *Government Employees Compensation Act* and any regulations made under section 9 of the *Aeronautics Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 5; 2003, c. 22, s. 106(E)
+
+</details>
+
+### 6 Oath of office
+
+(1) A commissioner shall, before entering on his duties as such, take and subscribe, before a superior court judge, an oath of office in prescribed form.
+
+**Duties to be full-time duties**
+
+(2) A commissioner shall devote the whole of his time to the performance of his duties under this Act.
+
+(3) and (4) [Repealed, 1994, c. 45, s. 3]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 6; 1994, c. 45, s. 3
+
+</details>
+
+### 7 Outside interest
+
+A person is not eligible to be appointed or, subject to section 8, to continue as a commissioner if, directly or indirectly, as owner, shareholder, director, officer, partner or otherwise, that person is engaged in commercial dealings in grain or the carriage of grain or has any pecuniary or other interest in grain or the carriage of grain, other than as a producer of grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 7; 2004, c. 25, s. 106
+
+</details>
+
+### 8 Disposing of property
+
+Any commissioner in whom any property giving rise to an interest prohibited under section 7 vests by will or succession for the commissioner’s own benefit shall, within six months after the vesting, dispose of that property.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 8; 2004, c. 25, s. 106
+
+</details>
+
+### Staff
+
+### 9
+
+[Repealed, 2010, c. 12, s. 1662]
+
+### 10 Staff
+
+Any officers and employees that are necessary for the proper conduct of the business of the Commission, including managers and employees employed at elevators constructed or acquired by Her Majesty in right of Canada and administered by the Commission under this Act, shall be appointed in the manner authorized by law.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 10; 2010, c. 12, s. 1662
+
+</details>
+
+### Head Office, Meetings and Hearings
+
+### 11 Head office
+
+The head office of the Commission shall be at the City of Winnipeg, in the Province of Manitoba, but the Commission may hold meetings and hearings at such other places as the Commission considers necessary or desirable for the proper conduct of the business of the Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 9
+
+</details>
+
+### By-laws
+
+### 12 By-laws
+
+The Commission may make by-laws
+
+- (a) respecting the calling of meetings of the Commission, the regulation of its proceedings and generally for the conduct of its activities;
+
+- (b) distributing among the commissioners duties to be performed by them;
+
+- (c) specifying the duties of officers, managers and employees appointed as described in section 10;
+
+- (d) designating as an inspector for the purposes of this Act any person who, in the opinion of the Commission, is qualified to be so designated;
+
+- (e) respecting the establishment of committees of the Commission composed of commissioners or other persons or both, the delegation of duties to those committees and the fixing of quorums for meetings thereof;
+
+- (f) designating a seal to be used by the Commission to authenticate any documents issued by it; and
+
+- (g) fixing the allowance to be paid to members of grain standards committees.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 12; 1994, c. 45, s. 4; 2010, c. 12, s. 1663; 2012, c. 31, s. 352
+
+</details>
+
+### Objects of the Commission
+
+### 13 Objects
+
+Subject to this Act and any directions to the Commission issued from time to time under this Act by the Governor in Council or the Minister, the Commission shall, in the interests of the grain producers, establish and maintain standards of quality for Canadian grain and regulate grain handling in Canada, to ensure a dependable commodity for domestic and export markets.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 11
+
+</details>
+
+### Functions of the Commission
+
+### 14 Functions
+
+(1) Subject to this Act, the Commission shall, in furtherance of its objects,
+
+- (a) recommend and establish grain grades and standards for those grades and implement a system of grading and inspection for grain to reflect adequately the quality of that grain and meet the need for efficient marketing in and outside Canada;
+
+- (b) establish and apply standards and procedures regulating the handling, transportation and storage of grain and the facilities used therefor;
+
+- (c) conduct investigations and hold hearings on matters within the powers of the Commission;
+
+- (d) manage, operate and maintain every elevator constructed or acquired by Her Majesty in right of Canada, the administration of which is assigned by the Governor in Council to the Commission;
+
+- (e) undertake, sponsor and promote research in relation to grain and grain products and, in so doing,
+  - (i) may request that a grain dealer or an operator of an elevator provide it with any sample of grain, grain products or screenings in their possession that the Commission specifies,
+  - (ii) wherever appropriate, utilize technical, economic and statistical information and advice from any department or agency of the Government of Canada, and
+  - (iii) maintain an efficient and adequately equipped laboratory;
+
+- (e.1) monitor compliance with end-use certificates provided pursuant to section 87.1; and
+
+- (f) advise the Minister in respect of such matters relating to grain, grain products and screenings as the Minister may refer to the Commission for its consideration.
+
+**Restriction**
+
+(2) The Commission shall not, in operating any elevator as a primary elevator pursuant to paragraph (1)(d), purchase grain.
+
+**Delegation**
+
+(3) The Commission may, by by-law, authorize any person to exercise or perform on the Commission’s behalf, subject to such restrictions or limitations as the Commission may specify, any of the powers, duties or functions of the Commission under this Act other than the power to make any regulation, order or by-law.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 14; R.S., 1985, c. 37 (4th Supp.), s. 4; 1988, c. 65, s. 124; 2012, c. 31, s. 353
+- 2020, c. 1, s. 62
+
+</details>
+
+### Report
+
+### 15 Report
+
+The Commission shall during the month of February in each year submit to the Minister a report, in such form as the Minister may direct, on the activities of the Commission during the crop year immediately preceding and the Minister shall cause the report to be laid before Parliament within fifteen days after the receipt thereof or, if Parliament is not then sitting, on any of the first fifteen days next thereafter that either House of Parliament is sitting.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 14
+
+</details>
+
+### Export Certificates
+
+### 15.1 Export certificates
+
+The Commission may issue any certificate or other document setting out any information that the Commission considers necessary to facilitate the export of any grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, c. 1, s. 63
+
+</details>
+
+## Grain Grades, Grading and Inspection
+
+### Grain Grades
+
+### 16 Grades may be established by regulation
+
+(1) The Commission may, by regulation, establish grades and grade names for any kind of western grain and eastern grain and establish the specifications for those grades and set out a method or methods, visual or otherwise, for determining the characteristics of the grain for the purposes of meeting the quality requirements of purchasers of grain.
+
+**Coming into force of regulation**
+
+(2) Unless a regulation made under this section expressly provides otherwise, the provisions of the regulation in relation to western grain shall come into force not earlier than August 1 next following the date the regulation is made and the provisions thereof in relation to eastern grain shall come into force not earlier than July 1 next following the date the regulation is made.
+
+**Reduction in value to be minimized**
+
+(3) Any variation in a grade of grain to be made by a regulation under this section shall, where possible and consistent with increasing the acceptance of Canadian grain in export and domestic markets, be made so as to prevent or minimize any reduction in the value of existing grain of the grade to be so varied.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 16; R.S., 1985, c. 37 (4th Supp.), s. 5; 1994, c. 45, s. 5
+
+</details>
+
+### 17 and 18
+
+[Repealed, R.S., 1985, c. 37 (4th Supp.), s. 5]
+
+### 19 Grades for grain that is out of condition, etc.
+
+The Commission may, by order, establish
+
+- (a) grades and grade names for any grain
+  - (i) that is out of condition,
+  - (ii) that has been specially binned,
+  - (iii) that may be marketed on the basis of its specifications rather than a grade established by regulation, or
+  - (iv) that, by reason of its intermixture with another material, would not be eligible to have assigned to it a grade established by regulation; and
+
+- (b) grades and grade names, and specifications for those grades, for any screenings.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 19; R.S., 1985, c. 37 (4th Supp.), s. 6; 1998, c. 22, s. 25(F)
+
+</details>
+
+### Grain Standards Committees
+
+### 20 Grain standards committees
+
+(1) The Commission shall, by by-law, constitute a western grain standards committee and an eastern grain standards committee, in this Part referred to as the Western Standards Committee and the Eastern Standards Committee, for the purpose of
+
+- (a) recommending specifications for grades of grain and selecting and recommending primary standard samples and export standard samples of grain; and
+
+- (b) performing such other duties in connection with the determination of grain standards as may be assigned to each committee by the Commission.
+
+**Membership of Western Standards Committee**
+
+(2) The Commission shall, with the approval of the Minister, appoint to the Western Standards Committee
+
+- (a) a commissioner, a grain inspector and a scientist;
+
+- (b) [Repealed, 2012, c. 31, s. 354]
+
+- (c) two persons nominated by the Deputy Minister of Agriculture and Agri-Food;
+
+- (d) [Repealed, 2011, c. 25, s. 25]
+
+- (e) two persons selected from among processors of grain;
+
+- (f) two persons selected from among exporters of grain;
+
+- (g) twelve actual producers of western grain; and
+
+- (h) any additional persons not exceeding four in number that the Commission considers advisable.
+
+**Membership of Eastern Standards Committee**
+
+(3) The Commission shall, with the approval of the Minister, appoint to the Eastern Standards Committee
+
+- (a) a commissioner, a grain inspector and a scientist;
+
+- (b) one person nominated by the Deputy Minister of Agriculture and Agri-Food;
+
+- (c) four persons selected from among processors and exporters of grain;
+
+- (d) not more than four persons representative of producers of eastern grain; and
+
+- (e) such additional persons not exceeding three in number as the Commission deems advisable.
+
+**Chairman**
+
+(4) A commissioner shall preside as chairman at each meeting of a grain standards committee.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 20; R.S., 1985, c. 37 (4th Supp.), s. 7; 1994, c. 38, s. 20; 2011, c. 25, s. 25; 2012, c. 31, s. 354
+
+</details>
+
+### 21 Oath of office
+
+(1) Each member of a grain standards committee who is not a commissioner and is not employed in the federal public administration shall, before entering on his duties as a member of the committee, take an oath of office in prescribed form.
+
+**Term of office**
+
+(2) The Commission shall, by by-law, establish the terms of office of those members of a grain standards committee who are not employed in the federal public administration.
+
+**Idem**
+
+(3) Notwithstanding subsection (2) and subsections 20(2) and (3), no person, except a person employed in the federal public administration, shall serve as a member of a grain standards committee for a period of more than seven consecutive years.
+
+**Quorum**
+
+(4) The quorum of a grain standards committee shall be at least half of the number of members in office.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 21; 2003, c. 22, s. 224(E)
+
+</details>
+
+### 22 Remuneration and expenses
+
+Each member of a grain standards committee is entitled to be paid
+
+- (a) if the member is not employed in the federal public administration, an allowance for the member’s services in an amount to be fixed by by-law of the Commission; and
+
+- (b) reasonable travel and other expenses while absent from his ordinary place of residence in the course of his duties under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 22; 1994, c. 45, s. 6; 2003, c. 22, s. 224(E)
+
+</details>
+
+### Primary Standard Samples and Export Standard Samples
+
+### 23 Preparation of samples
+
+As early as possible in each crop year the Commission shall cause to be collected representative samples of the crop of western grain and the crop of eastern grain of that crop year and, from those samples and from such other samples of the stocks of grain from any previous crop year as the Commission considers to be representative of the existing stock of any grain, cause to be prepared representative samples of
+
+- (a) each grade of grain established by regulation that the Western Standards Committee or the Eastern Standards Committee considers advisable;
+
+- (b) any other grade of western grain or eastern grain for which, in the opinion of the Commission, it would be appropriate to designate primary standard samples or export standard samples or both; and
+
+- (c) any grain in respect of which the Commission wishes to obtain a recommendation pursuant to paragraphs 24(2)(b) and (c).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 23; R.S., 1985, c. 37 (4th Supp.), s. 8
+
+</details>
+
+### 24 Meetings to be convened
+
+(1) When representative samples of grain have been prepared pursuant to section 23 and such reports on the milling, baking and other qualities of the samples as the Commission deems necessary have been obtained, the Commission shall convene a meeting of each grain standards committee.
+
+**Duties of grain standards committees**
+
+(2) A grain standards committee shall examine the samples of grain supplied to the committee by the Commission and
+
+- (a) select and recommend to the Commission samples of each grade of grain for which a representative sample was prepared pursuant to paragraph 23(a) that in the opinion of such committee represent as accurately as possible the minimum of that grade;
+
+- (b) recommend to the Commission names and specifications for other grades of grain that, in the opinion of the committee, should be established for the current crop year; and
+
+- (c) select and recommend to the Commission samples of each grade of grain recommended pursuant to paragraph (b) that, in the opinion of the committee, represent as accurately as possible the minimum of that grade.
+
+**Definition of **grain standards committee****
+
+(3) In subsection (2), **grain standards committee**,
+
+- (a) in the case of western grain, means the Western Standards Committee; and
+
+- (b) in the case of eastern grain, means the Eastern Standards Committee.
+
+**Recommendation of export standard samples**
+
+(4) The Western Standards Committee shall, in respect of
+
+- (a) each grade of western red spring wheat and western amber durum wheat that, in the opinion of the Commission, is likely to be sold for export, and
+
+- (b) any other grade of western grain that the Commission refers to it for consideration,
+
+examine the samples of grain of that grade supplied to the Committee by the Commission and select and recommend to the Commission samples of the grade that, in the opinion of the Committee, represent as accurately as possible the average of grain of that grade received at any or all elevators at any or all inspection points.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 24; R.S., 1985, c. 37 (4th Supp.), s. 9
+
+</details>
+
+### 25 Delegation of duties
+
+A grain standards committee may
+
+- (a) delegate to a subcommittee of its members, which shall include an inspector, any function assigned to the committee by paragraph 24(2)(b) or (c); and
+
+- (b) if a sample of any grade of grain is not available in a crop year, or if the committee is of the opinion that the quality of a grade of grain has not varied significantly from the immediately preceding crop year, recommend to the Commission a sample approved by the Commission for that grade in a previous crop year.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 25; R.S., 1985, c. 37 (4th Supp.), s. 10
+
+</details>
+
+### 26 Designation of primary standard samples and export standard samples
+
+The Commission shall, for each crop year,
+
+- (a) on considering the recommendations of a grain standards committee made pursuant to subsection 24(2), designate primary standard samples of each grade of grain for which a representative sample was prepared pursuant to paragraph 23(a) and of such other grades of grain as the Commission considers advisable; and
+
+- (b) on considering the recommendations of the Western Standards Committee made pursuant to subsection 24(4), designate export standard samples of each grade of western grain for which a representative sample was prepared pursuant to paragraph 23(a) and of such other grades of western grain as the Commission considers advisable.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 26; R.S., 1985, c. 37 (4th Supp.), s. 11
+
+</details>
+
+### 27 Export standard samples
+
+(1) The export standard sample that is designated for a grade of grain
+
+- (a) shall be used as the visual grading standard in the grading of western grain of that grade discharged from a terminal elevator or process elevator; and
+
+- (b) constitutes the minimum visual quality of the grade for that grain.
+
+**Primary standard samples**
+
+(2) The primary standard sample that is designated for a grade of grain
+
+- (a) shall be used as a visual grading guide in the grading of grain of that grade, other than western grain discharged from a terminal elevator or process elevator; and
+
+- (b) constitutes the minimum visual quality of the grade for that grain.
+
+**Non-visual criteria of quality**
+
+(3) Where
+
+- (a) protein content is a criterion of quality that applies to a grade of grain, or
+
+- (b) any other criterion of quality that cannot be determined visually by comparison with a primary standard sample or export standard sample applies to a grade of grain,
+
+that criterion shall be taken into consideration in determining the grade of the grain.
+
+**Limitation**
+
+(4) No person shall, on the basis of the use of a primary standard sample,
+
+- (a) assign a grade to any grain that does not meet the specifications for that grade established by or under this Act; or
+
+- (b) refuse to assign a grade to any grain that meets the specifications so established for that grade.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 27; 2012, c. 31, s. 355
+
+</details>
+
+### 28 Grain of variety not registered under *Seeds Act*
+
+Notwithstanding paragraph 27(4)(b), where grain of any kind is of a variety produced from seed of a variety that is not registered under the *Seeds Act* for sale in or importation into Canada, no person shall, except with the permission of the Commission, assign to that grain a grade that is higher than the lowest grade established by regulation for that kind of grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 28; R.S., 1985, c. 49 (1st Supp.), s. 8, c. 37 (4th Supp.), s. 12
+
+</details>
+
+### Inspection of Grain
+
+### 29 Provision for inspection
+
+The Commission shall make provision for the inspection of grain at such places as the Commission may, by by-law, determine.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 23
+
+</details>
+
+### 30 Order of inspection
+
+(1) Subject to the regulations, an inspector
+
+- (a) shall, on application for inspection and in the order of receipt of applications for inspection, make an official inspection of grain at any place where provision for inspection has been made; and
+
+- (b) on making an official inspection of grain, shall take an official sample of the grain in the manner prescribed and retain the sample for fifteen days or such longer period as may be prescribed.
+
+**Grading of unofficial samples**
+
+(2) An inspector may, on application for grading, grade unofficial samples of grain in the prescribed manner.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 30; 1994, c. 45, s. 7
+
+</details>
+
+### 31 Sample to be property of the Commission
+
+A sample of grain taken pursuant to section 30 or otherwise sent to the Commission thereupon becomes the property of the Commission and shall be sold or disposed of by the Commission in the prescribed manner.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 31; R.S., 1985, c. 37 (4th Supp.), s. 13
+
+</details>
+
+### 32 Inspection certificates
+
+(1) Subject to this Act, an inspector, after making an official inspection of grain pursuant to this Act, shall issue an inspection certificate in prescribed form,
+
+- (a) if the grain was grown in Canada or the United States,
+  - (i) assigning to the grain a grade established by or under this Act or, if the grain is eligible to be assigned more than one grade, assigning to the grain the grade constituting the highest level of excellence for which the grain is eligible, and
+  - (ii) stating the dockage to be separated from the grain in order that it may be eligible for the grade so assigned; or
+
+- (b) if the grain was grown outside Canada or the United States, stating the country of origin of the grain or stating that the grain is imported grain and, in the prescribed circumstances,
+  - (i) assigning to the grain a grade established by or under this Act or, if the grain is eligible to be assigned more than one grade, assigning to the grain the grade constituting the highest level of excellence for which the grain is eligible, and
+  - (ii) stating the dockage to be separated from the grain in order that it may be eligible for the grade so assigned.
+
+**Where assignation of grade not necessary**
+
+(1.1) An inspector may, with the approval of the Commission, issue an inspection certificate in prescribed form in respect of grain that has been specially binned or that is or may be marketed on the basis of its specifications rather than a grade established by regulation without assigning any grade to the grain and, in that case, shall indicate in the certificate that the grain is specially binned or, in the case of grain that is or may be marketed on the basis of its specifications, the specifications.
+
+**Additional information**
+
+(2) An inspection certificate shall contain such information, in addition to the information specified in subsection (1) or (1.1), as the case may be, as may be authorized by the Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 32; R.S., 1985, c. 37 (4th Supp.), s. 14
+- 2020, c. 1, s. 64
+
+</details>
+
+### 33 Transmission of inspection certificate
+
+An inspection certificate issued when grain is discharged from a terminal elevator shall be transmitted with the shipping documents relating to the grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 33; 2012, c. 31, s. 356
+
+</details>
+
+### 34 Cancellation of inspection certificate
+
+An inspection certificate issued in respect of any grain later found to have gone out of condition shall be cancelled and, after a subsequent official inspection of the grain, a new inspection certificate shall be substituted for the cancelled certificate.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 28
+
+</details>
+
+### 35
+
+[Repealed, 2012, c. 31, s. 357]
+
+### 36
+
+[Repealed, 2012, c. 31, s. 357]
+
+### 37
+
+[Repealed, 2012, c. 31, s. 357]
+
+### 38
+
+[Repealed, 2012, c. 31, s. 357]
+
+### Appeals of Grain Grades
+
+### 39 Right of appeal
+
+(1) Any person who is dissatisfied with the grade assigned to grain on an official inspection may appeal the decision of the inspector in respect of any characteristics of the grain, by way of an application for reinspection of the grain, to the chief grain inspector for Canada.
+
+**Time for appeal**
+
+(2) Except with the Commission’s permission, no appeal lies under this section unless, within 15 days after the decision that is the subject of the appeal is made, notice of the appeal is given to the chief grain inspector for Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 39; 2012, c. 31, s. 358
+
+</details>
+
+### 40 Restriction on appeals
+
+Except as may be prescribed, no appeal lies under section 39 from the decision of an inspector in respect of the grade assigned
+
+- (a) in respect of a sample of grain taken on receipt of the grain into a primary elevator; or
+
+- (b) to any grain on the discharge of the grain from an elevator.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 30
+
+</details>
+
+### 41 Duties of chief grain inspector on appeal
+
+(1) If an appeal is taken, the chief grain inspector for Canada shall
+
+- (a) inspect the grain to which the appeal relates or a sample of that grain;
+
+- (b) review the decision appealed;
+
+- (c) assign to the grain the grade that he or she considers to be the appropriate grade for the grain; and
+
+- (d) if a grade is assigned to the grain that is different from the grade previously assigned to it, require all inspection certificates, and all other documents specified by the Commission, relating to the grain to be revised accordingly.
+
+**Decision is final**
+
+(2) The decision of the chief grain inspector for Canada is final and conclusive and not subject to appeal to or review by any court.
+
+**Delegation**
+
+(3) The chief grain inspector for Canada may delegate all or part of the duties and functions conferred on him or her under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 41; R.S., 1985, c. 37 (4th Supp.), s. 15; 2012, c. 31, s. 359
+
+</details>
+
+## Licences and Licensees
+
+### Licences
+
+### 42 Classes of licences
+
+The following classes of licences are hereby established for the purposes of this Act:
+
+- (a) a primary elevator licence, being a licence to operate a primary elevator;
+
+- (b) a terminal elevator licence, being a licence to operate a terminal elevator;
+
+- (c) [Repealed, 2012, c. 31, s. 360]
+
+- (d) a process elevator licence, being a licence to operate a process elevator; and
+
+- (e) a grain dealer’s licence, being a licence to carry on business as a grain dealer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 42; 2012, c. 31, s. 360
+
+</details>
+
+### 43 Subclasses of licences
+
+The Commission may, with the approval of the Governor in Council, make regulations prescribing
+
+- (a) subclasses of the licences established by section 42; and
+
+- (b) any terms and conditions of a licence of any class or subclass.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 43; 1994, c. 45, s. 9
+
+</details>
+
+### 44 Prohibition
+
+No person shall
+
+- (a) operate an elevator of a type referred to in section 42 unless
+  - (i) that person is the holder of a licence issued in respect of the elevator, or
+  - (ii) the elevator has been exempted from the licensing requirements of this Act pursuant to section 117; or
+
+- (b) carry on business as a grain dealer unless
+  - (i) that person is the holder of a grain dealer’s licence,
+  - (ii) the business of that person as a grain dealer has been exempted from the licensing requirements of this Act pursuant to section 117, or
+  - (iii) that person deals in grain only in the course of operating a licensed elevator or as a broker trading on a recognized grain exchange.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 34
+
+</details>
+
+### 45 Issue of licences — primary and process elevators and grain dealers
+
+(1) Where a person who proposes to operate a primary or process elevator or to carry on business as a grain dealer applies in writing to the Commission for a licence and the Commission is satisfied that the applicant and the elevator, if any, meet the requirements of this Act, the Commission may
+
+- (a) issue to the applicant a licence of a class or subclass determined by the Commission to be appropriate to the type of operation of that elevator or the business of that grain dealer; and
+
+- (b) subject to the regulations, fix the security to be given by the applicant, by way of bond, suretyship, insurance or otherwise, having regard to the applicant’s potential obligations for the payment of money or the delivery of grain to producers of grain who are holders of cash purchase tickets, elevator receipts or grain receipts issued pursuant to this Act in relation to grain produced by the holders.
+
+**Issue of licences — terminal and transfer elevators**
+
+(2) Where a person who proposes to operate a terminal or transfer elevator applies in writing to the Commission for a licence and the Commission is satisfied that the applicant and the elevator, if any, meet the requirements of this Act, the Commission may
+
+- (a) issue to the applicant a licence of a class or subclass determined by the Commission to be appropriate to the type of operation of that elevator; and
+
+- (b) subject to the regulations, fix the security to be given by the applicant, by way of bond, suretyship, insurance or otherwise, having regard to the applicant’s obligations for the payment of money or the delivery of grain to holders of elevator receipts issued pursuant to this Act.
+
+**Terms and conditions of licence**
+
+(3) A licence issued pursuant to this section shall be
+
+- (a) for a term not exceeding five years; and
+
+- (b) subject to such conditions, in addition to any prescribed conditions, as the Commission deems appropriate in the public interest for facilitating trade in grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 45; 1994, c. 45, s. 10; 2001, c. 4, s. 88(E)
+
+</details>
+
+### 46 Refusal to issue elevator licence
+
+(1) The Commission may refuse to issue an elevator licence if the applicant has not given the security fixed pursuant to section 45 or fails to establish to the satisfaction of the Commission that
+
+- (a) the premises that the applicant proposes to use are appropriate for the storage and handling of grain; or
+
+- (b) the elevator is or will be of such a type and in such condition and the equipment of the elevator is or will be of such a type and size and in such condition as to enable the applicant to provide, at the location where the applicant proposes to operate the elevator, the services required by or pursuant to this Act to be provided at that location by a licensee holding a licence of the class for which the applicant has applied.
+
+**Refusal to issue grain dealer’s licence**
+
+(2) The Commission may refuse to issue a grain dealer’s licence if the applicant has not given the security fixed pursuant to section 45.
+
+**Refusal of licence re convictions**
+
+(3) The Commission may refuse to issue a licence if the applicant has been convicted of an offence under this Act within the twelve months immediately preceding the application for the licence and the Commission is satisfied that it would not be in the public interest to issue a licence to the applicant.
+
+**Interpretation**
+
+(4) Nothing in this section shall be construed as a limitation on the powers of the Commission to issue or refuse to issue a licence pursuant to any other provision of this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 46; R.S., 1985, c. 37 (4th Supp.), s. 16; 1994, c. 45, s. 10
+
+</details>
+
+### 47
+
+[Repealed, 1994, c. 45, s. 10]
+
+### 48 Consultation
+
+(1) The Commission shall, at the request of an applicant for a licence, consult with the applicant with regard to any conditions that the Commission proposes to attach to the licence pursuant to paragraph 45(3)(b).
+
+**Amendment of licence**
+
+(2) The Commission may, subject to the regulations and on application by a licensee, amend any condition of a licence issued to the licensee.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 48; 1994, c. 45, s. 11
+
+</details>
+
+### 49 Additional security
+
+(1) Where the Commission has reason to believe and is of the opinion that any security given by a licensee pursuant to this Act is not sufficient, the Commission may, by order, require the licensee to give, within such period as the Commission considers reasonable, such additional security as, in the opinion of the Commission, is sufficient.
+
+**Enforcement or realization of security**
+
+(2) Any security given by a licensee as a condition of a licence may only be realized or enforced by
+
+- (a) the Commission; or
+
+- (b) any holder referred to in section 45 who has suffered loss or damage by reason of the refusal or failure of the licensee to
+  - (i) comply with this Act or any regulation or order made thereunder, or
+  - (ii) meet any of the licensee’s payment or delivery obligations to that holder on the surrender of any cash purchase ticket, elevator receipt or grain receipt issued by the licensee pursuant to this Act.
+
+(2.1) [Repealed, 1994, c. 45, s. 12]
+
+**Limitation — primary or process elevator or grain dealers**
+
+(3) Notwithstanding subsection (2), a security given by a licensee as a condition of a licence to operate a primary or process elevator or to carry on business as a grain dealer may be realized or enforced in relation to a cash purchase ticket, an elevator receipt or a grain receipt only if
+
+- (a) the licensee fails or refuses to meet any of their payment or delivery obligations to the producer of the grain to which the ticket or receipt relates within such period as may be prescribed after the day on which the grain was delivered to the licensee; and
+
+- (b) the producer of the grain has given notice in writing of the failure or refusal to the Commission within thirty days after the failure or refusal.
+
+**Limitation — terminal and transfer elevator**
+
+(4) Notwithstanding subsection (2), a security given by a licensee as a condition of a licence to operate a terminal or transfer elevator may be realized or enforced in relation to an elevator receipt only if the holder of the receipt has given notice in writing to the Commission within thirty days after the failure or refusal of the licensee to meet any of their delivery obligations to the holder.
+
+**Limitation — prescribed percentage**
+
+(5) Notwithstanding any other provision of this Act, the Commission may prescribe by regulation the percentage of the value of a cash purchase ticket, an elevator receipt or a grain receipt that may be realized or enforced against security given by a licensee, and the security may be realized or enforced in relation to the cash purchase ticket, elevator receipt or grain receipt only to the extent of the prescribed percentage.
+
+**Interpretation — failure to meet payment obligations**
+
+(6) If the failure on the part of a licensee to meet the licensee’s payment obligations is a result of their giving to the producer a cash purchase ticket or other bill of exchange that the bank or other financial institution on which it is drawn subsequently refuses to honour, that failure occurs when the cash purchase ticket or other bill of exchange is given to the producer.
+
+(7) [Repealed, 1998, c. 22, s. 6]
+
+**Insurance**
+
+(8) The Commission may require an applicant for or the holder of a primary elevator licence, a terminal elevator licence or a transfer elevator licence to obtain insurance, in accordance with the regulations, against loss of or damage to the grain stored in the elevator.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 49; R.S., 1985, c. 37 (4th Supp.), s. 17; 1994, c. 45, s. 12; 1998, c. 22, ss. 6, 25(F)
+
+</details>
+
+### 49.1 Restrictions — no liability for improper delivery of grain
+
+(1) The Commission is not liable to a producer who has delivered grain
+
+- (a) to a person who is not a licensee; or
+
+- (b) to a licensee, if the producer has not obtained a cash purchase ticket, an elevator receipt or a grain receipt from the licensee.
+
+**No liability**
+
+(2) The Commission is not liable if a licensee fails to fulfill any payment or delivery obligation owed to a holder of a grain receipt, elevator receipt or cash purchase ticket.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, c. 45, s. 13; 1998, c. 22, s. 8
+
+</details>
+
+### Charges by Licensees
+
+### 50 Charges to be filed
+
+(1) Each licensee who operates an elevator shall, before the commencement of each crop year, file with the Commission a schedule of the charges to be made at the licensed elevator in the crop year for each service to be performed under their licence.
+
+**Amendment of charges**
+
+(2) A licensee who operates an elevator may, during a crop year, file with the Commission an amended schedule of charges for services to be performed under the licence in that crop year.
+
+**Condition**
+
+(3) An amended schedule of charges is not effective until it has been filed with the Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 50; R.S., 1985, c. 37 (4th Supp.), s. 18; 1994, c. 45, s. 14
+
+</details>
+
+### 51 Charges that may be made
+
+(1) No licensee who operates an elevator shall charge or receive for any services performed under the licence at that elevator any sum greater than the lesser of
+
+- (a) the maximum charges that may be fixed by the regulations for the services, and
+
+- (b) such charges for the services as are set out in the schedule of charges filed by the licensee with the Commission.
+
+**Charge fixed includes charge determined**
+
+(2) The reference in paragraph (1)(a) to maximum charges fixed by the regulations includes a maximum charge determined pursuant to the regulations.
+
+**Temporary maximum charges**
+
+(3) Notwithstanding subsection (1), the Commission, on receiving a written complaint from an interested person with respect to the charge for a service provided by the operator of a licensed elevator, may, by order, after giving all interested persons an opportunity to be heard, fix the maximum charge or a manner for determining the maximum charge for that service.
+
+**Period of validity of order**
+
+(4) An order made under subsection (3) becomes effective on the day specified in the order, which day shall not be earlier than the day the Commission determines that the facts giving rise to the complaint occurred, and ceases to be effective at the end of the crop year in which the order is made or on such earlier day as is set out in the order for its expiration.
+
+**Cease to be in force**
+
+(5) Subsections (3) and (4) cease to be in force on July 31, 1996.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 51; 1994, c. 45, s. 14
+
+</details>
+
+### 52 Time limitation on charges
+
+(1) No storage charge in respect of grain referred to in an elevator receipt shall be made by the licensee of an elevator in respect of time subsequent to
+
+- (a) the delivery of the grain out of the elevator into a railway car or other conveyance; or
+
+- (b) the expiration of twenty-four hours after
+  - (i) a railway car or other conveyance that is capable of receiving grain discharged from the elevator and to which the grain may lawfully be delivered has been placed at the elevator to receive the grain,
+  - (ii) all charges accrued in respect of the grain have been paid or tendered, and
+  - (iii) elevator receipts requiring delivery of the grain have been surrendered or tendered.
+
+**Exception relating to ships**
+
+(2) For the purpose of subsection (1), where the conveyance placed at an elevator is a ship, the holder of elevator receipts requiring the delivery of grain shall be deemed to surrender or tender on any day only receipts for a quantity of grain that can reasonably be discharged from the elevator into the ship within twenty-four hours from the time the receipts are deemed to be surrendered or tendered.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 40
+
+</details>
+
+### 53 Charges where licensee is unable to deliver grain
+
+(1) Where, by reason of the condition of any licensed elevator or as a result of any labour stoppage by employees of a licensee of an elevator or any lockout at any licensed elevator, the licensee of the elevator is, for any period, unable to deliver grain, grain products or screenings stored in any type of storage in the elevator in accordance with an elevator receipt issued by the licensee, whether or not the holder has requested delivery pursuant to the receipt, notwithstanding section 51, the licensee shall not charge the holder of the receipt, in respect of any part of that period after the first seven days thereof, any storage charge that accrues under the receipt that exceeds the appropriate maximum storage charge prescribed pursuant to subsection (2) with respect to that type of storage.
+
+**Regulations — special maximum storage charge**
+
+(2) The Commission shall, with the approval of the Governor in Council, make regulations prescribing, with respect to a period referred to in subsection (1), a special maximum storage charge relating to any type of storage of grain, grain products or screenings in licensed elevators of any type that is lower than the maximum storage charge authorized to be charged for that storage pursuant to section 51 and, in so doing, the Commission may prescribe a different maximum storage charge with respect to any period within that period.
+
+**Application**
+
+(3) A special maximum storage charge prescribed pursuant to subsection (2) applies only in respect of a period of inability to deliver described in subsection (1) that commences after the effective date of the provision of any regulations in which that special maximum storage charge is prescribed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 53; R.S., 1985, c. 37 (4th Supp.), s. 19; 1994, c. 45, s. 15
+
+</details>
+
+### 54 Payment before delivery
+
+Nothing in this Act requires a licensee, on a request for the delivery of grain by the holder of an elevator receipt, to deliver the grain referred to in the receipt to the holder unless the receipt has been surrendered and all charges accrued under this Act have been paid.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 54; R.S., 1985, c. 37 (4th Supp.), s. 20
+
+</details>
+
+### 54.1 Recovery of charges
+
+(1) If an elevator receipt issued by the licensee of a terminal elevator has been outstanding for more than one year and any charges accruing under the receipt have accrued for more than one year and are unpaid, the licensee, with the Commission’s written permission, after giving any notice of sale to the last known holder of the receipt that may be specified by the Commission, may, on any terms and conditions that may be specified in writing by the Commission, sell the grain referred to in the receipt or grain of the same kind, grade and quantity to recover the charges.
+
+**Obligation of licensee after sale**
+
+(2) Where the licensee of an elevator sells grain under subsection (1), the licensee has no obligation to the holder of the elevator receipt issued in respect of the grain, other than to pay to the holder on surrender of the receipt the amount that the licensee received for the grain sold less the aggregate of the costs, if any, incurred in the sale of the grain and the charges accrued under this Act in respect of the grain to the date of the sale.
+
+**Warning**
+
+(3) Each elevator receipt issued by the licensee of a terminal elevator shall bear the following warning:
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 37 (4th Supp.), s. 20; 2012, c. 31, s. 365
+
+</details>
+
+## Elevators and Grain Dealers and the Handling of Grain by Licensees and Other Persons
+
+### Declaration
+
+### 55 Works for the general advantage of Canada
+
+(1) All elevators in Canada heretofore or hereafter constructed, except elevators referred to in subsection (2) or (3), are and each of them is hereby declared to be a work or works for the general advantage of Canada.
+
+**Other works**
+
+(1.1) Every flour mill, feed mill, feed warehouse and seed cleaning mill is a work for the general advantage of Canada.
+
+(2) and (3) [Repealed before coming into force, 2008, c. 20, s. 3]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 55; 2008, c. 20, s. 3; 2011, c. 25, s. 59
+
+</details>
+
+### Elevators Generally
+
+### 56 Facilities, equipment and maintenance
+
+(1) A licensee operating an elevator shall install in it such equipment, provide such facilities and maintain the equipment and structure of the elevator in such condition as may be prescribed in respect of elevators of that type or required by order of the Commission in respect of that elevator to ensure, as may be applicable, the efficient and accurate weighing, sampling, inspection, grading, drying, cleaning and accommodation of all grain, grain products and screenings received into or discharged from the elevator.
+
+**Restriction**
+
+(2) Notwithstanding subsection (1), no operator of a primary elevator shall be required pursuant to that subsection to install cleaning or drying equipment.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 56; 1998, c. 22, s. 11
+
+</details>
+
+### 57 Prohibited receipt into elevators
+
+Except as may be authorized by regulation or by order of the Commission, no licensee operating an elevator shall receive into the elevator
+
+- (a) any grain, grain product or screenings unless the grain, grain product or screenings is weighed at the elevator immediately before or during receipt;
+
+- (b) any material or substance for storage other than grain, grain products or screenings; or
+
+- (c) [Repealed, 2005, c. 24, s. 1]
+
+- (d) any grain that the operator has reason to believe is infested or contaminated.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 57; 1998, c. 22, s. 12; 2005, c. 24, s. 1
+
+</details>
+
+### 58 Grain out of condition
+
+Except as required by order of the Commission, no operator of a licensed elevator is required to receive into the elevator any grain that has gone or is likely to go out of condition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 46
+
+</details>
+
+### 58.1 *Seeds Act* and *Pest Control Products Act*
+
+No operator of a licensed elevator is required to receive into the elevator any grain that
+
+- (a) is of a variety produced from seed of a variety that is not registered under the *Seeds Act* for sale in or importation into Canada; or
+
+- (b) has in it, on it or has had applied to it a pest control product that is not registered under the *Pest Control Products Act* or any component or derivative of such a product.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, c. 1, s. 65
+
+</details>
+
+### 59 Operator to exercise care and diligence
+
+The operator of a licensed elevator shall exercise reasonable care and diligence to prevent any grain in the elevator from suffering damage or from deteriorating or going out of condition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 47
+
+</details>
+
+### Primary Elevators
+
+### 60 Receipt of grain
+
+Subject to section 58 and any order made under section 118, the operator of every licensed primary elevator shall, at all reasonable hours on each day on which the elevator is open, without discrimination and in the order in which grain arrives and is lawfully offered at the elevator, receive into the elevator all grain so lawfully offered for which there is, in the elevator, available storage accommodation of the type required by the person by whom the grain is offered.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 60; 1998, c. 22, s. 25(F)
+
+</details>
+
+### 61 Procedure on receipt of grain
+
+(1) Subject to subsection (2), if grain is lawfully offered at a licensed primary elevator for sale or storage, other than for special binning, the operator of the elevator shall, at the prescribed time and in the prescribed manner, issue a cash purchase ticket or elevator receipt stating the grade name, grade and dockage of the grain, and immediately provide it to the producer.
+
+**Dispute**
+
+(2) If the producer and the operator of the elevator do not agree as to the grade of the grain, the dockage or a prescribed grain quality characteristic, the operator shall
+
+- (a) take a sample of the grain in the prescribed manner;
+
+- (b) deal with the sample in the prescribed manner; and
+
+- (c) issue an interim elevator receipt in the prescribed form.
+
+**Commission’s report**
+
+(3) On receipt of a report from the Commission that assigns a grade in respect of the sample and that determines the dockage and each disputed grain quality characteristic, the operator of the elevator shall issue, at the prescribed time and in the prescribed manner, a cash purchase ticket or elevator receipt stating the grade name of the grain, the grade assigned in respect of the sample, the dockage so determined and each grain quality characteristic so determined, and immediately provide it to the producer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 61; 1994, c. 45, s. 16
+- 2020, c. 1, s. 66
+
+</details>
+
+### 62 Receipts for specially binned grain
+
+(1) Where grain is lawfully offered at a licensed primary elevator for special binning and the operator of the elevator agrees to specially bin the grain, the operator shall specially bin the grain offered and issue an elevator receipt in prescribed form indicating special binning.
+
+**Samples of grain to be specially binned**
+
+(2) On the receipt at a licensed primary elevator of grain to be specially binned, the operator of the elevator shall, in the manner prescribed, take a sample of the grain and deal with the sample.
+
+**Disputes**
+
+(3) Where a dispute arises between the holder of an elevator receipt indicating special binning and the operator of a licensed primary elevator in relation to the special binning, the Commission may, after affording any interested person a full and ample opportunity to be heard, examine the sample of the grain taken pursuant to subsection (2) and, if it determines that the identity of the grain has not been preserved in the elevator, make such order for payment or for the delivery of grain or both as it deems just.
+
+**Restriction**
+
+(4) No order shall be made under subsection (3) unless written notice of the dispute has been received by the Commission within 30 days after the delivery of the grain that is the subject of the dispute to a terminal elevator or process elevator.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 62; 1998, c. 22, s. 25(F); 2012, c. 31, s. 366
+
+</details>
+
+### 63 Requested treatment of grain
+
+Where
+
+- (a) a person lawfully offers grain for storage at a licensed primary elevator equipped to treat the grain in a particular manner and requests that the grain be treated in that manner before the type of storage or the grade of the grain or both are determined, and
+
+- (b) the operator of the elevator agrees to receive the grain or is required by this Act or an order of the Commission to receive the grain,
+
+the operator shall, in such manner as may be prescribed, weigh, handle and treat the grain as requested and shall issue an elevator receipt for the grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 63; 1998, c. 22, s. 25(F)
+
+</details>
+
+### 64 Verification of weight
+
+The operator of a primary elevator shall afford to any person who delivers grain to the elevator full facilities to verify the correct weight of the grain while the grain is being weighed.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 52
+
+</details>
+
+### 65 Compulsory removal of grain
+
+(1) Subject to subsection (2), the operator of a licensed primary elevator may, on at least ten days notice in writing, in a form and manner prescribed, to the last known holder of an elevator receipt issued by the operator, require the holder to take delivery from the elevator of the grain referred to in the receipt.
+
+**Restriction applicable to specially binned grain**
+
+(2) Except with the written permission of the Commission, no operator of a licensed primary elevator shall, pursuant to subsection (1), require the holder of an elevator receipt for specially binned grain to take delivery of the grain.
+
+**Failure to take delivery**
+
+(3) Where the holder of an elevator receipt issued by the operator of a licensed primary elevator fails to take delivery of the grain referred to in a notice given pursuant to subsection (1) within a period for taking delivery set out in the notice, whether or not the notice has been brought to the attention of the holder, and the holder or a subsequent holder later requests delivery of the grain referred to in the receipt, the operator of the elevator may, at the option of the operator, on surrender of the elevator receipt and payment of all charges accruing under this Act to the day on which the receipt is surrendered,
+
+- (a) deliver grain pursuant to the surrendered receipt;
+
+- (b) pay to the holder of the surrendered receipt the market price, on the day that the receipt is surrendered, for grain of the same kind, grade and quantity as the grain referred to in the receipt; or
+
+- (c) deliver to the holder of the surrendered receipt an elevator receipt issued by the operator of a licensed terminal elevator for grain of the same kind, grade and quantity as the grain referred to in the surrendered receipt.
+
+**Warning**
+
+(4) Each elevator receipt issued by the operator of a licensed primary elevator shall bear the following warning:
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 65; 1994, c. 45, s. 17; 2012, c. 31, s. 367
+
+</details>
+
+### 66 Waiver
+
+(1) The holder of an elevator receipt issued by the operator of a licensed primary elevator may, in writing in prescribed form on the receipt, waive the right to demand the delivery from the elevator of the grain referred to in the receipt.
+
+**Subsequent holders**
+
+(2) The rights of subsequent holders of an elevator receipt referred to in subsection (1) are subject to a waiver given pursuant to that subsection.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 54
+
+</details>
+
+### 67 Discharge of grain from primary elevator
+
+(1) Subject to section 86, the operator of a licensed primary elevator shall without delay discharge into a conveyance referred to in paragraph (b), to the extent of the conveyance’s capacity, the identical grain or grain of the same kind, grade and quantity that any elevator receipt issued by the operator requires if the holder of the receipt who is entitled to the delivery of grain referred to in that receipt
+
+- (a) may lawfully deliver the grain to a terminal elevator or process elevator or to a consignee at a destination other than an elevator; and
+
+- (b) has caused to be placed at the elevator, to transport the grain, a railway car or other conveyance that is capable of receiving grain discharged out of the elevator and to which the grain may lawfully be delivered.
+
+**Movement of grain forward**
+
+(2) Forthwith on the loading of a conveyance at a licensed primary elevator pursuant to subsection (1), the operator of the elevator shall, if so requested by the holder of the elevator receipt for the grain so loaded,
+
+- (a) cause the conveyance to be billed to such elevator or consignee as the holder may have lawfully directed; and
+
+- (b) on surrender of the elevator receipt and payment of the charges accrued under this Act in respect of the grain, deliver the receipt of the consignee or such other receipt as may be prescribed to the person who surrendered the elevator receipt.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 67; 2012, c. 31, s. 368
+
+</details>
+
+### 68 Purchase of elevator receipt by operator
+
+Where an operator of a licensed primary elevator who has issued an elevator receipt for grain purchases the receipt, the operator shall issue to the holder of the receipt, on the surrender of the receipt, a cash purchase ticket for the purchase price.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 56
+
+</details>
+
+### 68.1
+
+[Repealed, 2012, c. 31, s. 369]
+
+### Terminal Elevators
+
+### 69 Receipt of grain
+
+(1) Subject to section 58 and any order made under subsection (2) or section 118, an operator of a licensed terminal elevator shall, at all reasonable hours on each day on which the elevator is open, without discrimination and in the order in which grain arrives, receive into the elevator all grain that is lawfully offered at the elevator, for which there is available storage accommodation of the type required by the person who offered the grain.
+
+**Orders respecting receipt of grain**
+
+(2) The Commission may, by order, on any conditions that it may specify, authorize or require the operator of a licensed terminal elevator to receive grain that is lawfully offered for storage or transfer at the elevator otherwise than as required by subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 69; 1998, c. 22, s. 25(F); 2012, c. 31, s. 369
+
+</details>
+
+### 69.1 Weighing on receipt of grain
+
+(1) Subject to subsection (2), and unless exempted by regulation or by order of the Commission, an operator of a licensed terminal elevator shall weigh grain received into the elevator in a manner authorized by the Commission.
+
+**Weighing by third party**
+
+(2) Unless exempted by regulation or by order of the Commission, an operator shall cause the grain to be weighed by a third party authorized by the Commission and chosen by the operator, if the person who caused the grain to be delivered so requests.
+
+**Weighing in manner authorized by Commission**
+
+(3) The third party shall weigh the grain in a manner authorized by the Commission.
+
+**Access**
+
+(4) The operator shall provide the third party with access to the operator’s premises to permit the third party to weigh the grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 31, s. 369
+
+</details>
+
+### 69.2 Failure to weigh
+
+If an operator of a licensed terminal elevator does not comply with subsection 69.1(1) or (2), the person who caused the grain to be delivered may, for the purpose of settling any transaction between that person and the operator in relation to the grain, rely on any record or document that states the weight of that grain before he or she caused it to be delivered.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 31, s. 369
+
+</details>
+
+### 70 Inspection by operator
+
+(1) Subject to subsection (2), and unless exempted by regulation or by order of the Commission, an operator of a licensed terminal elevator shall inspect the grain received into the elevator in a manner authorized by the Commission.
+
+**Inspection by third party**
+
+(2) Unless exempted by regulation or by order of the Commission, the operator shall cause the grain to be inspected by a third party authorized by the Commission and chosen by the operator, if the person who caused the grain to be delivered so requests.
+
+**Third party authorized**
+
+(3) The third party shall inspect the grain in a manner authorized by the Commission.
+
+**Access**
+
+(4) The operator shall provide the third party with access to the operator’s premises to permit the third party to inspect the grain.
+
+**Disagreement — application for reinspection**
+
+(5) If there is any disagreement following an inspection under this section between the operator and the person who caused the grain to be delivered as to the grain’s grade or the dockage, either of them may, in the prescribed manner and within the prescribed time, apply to the chief grain inspector for Canada for a reinspection of the grain. If an application is made, the operator shall forward all samples of grain taken as part of the inspection, or a prescribed portion of them, to the chief grain inspector for Canada within the prescribed time.
+
+**Reinspection**
+
+(6) The chief grain inspector for Canada shall examine the samples of grain, or the portion of them, assign a grade to the grain and determine the dockage. The chief grain inspector for Canada shall provide the operator and the person who caused the grain to be delivered with a copy of his or her decision with respect to the grade and dockage.
+
+**Document revised if grade changed**
+
+(7) If the grade assigned to the grain is different from the grade previously assigned to it, the chief grain inspector for Canada shall require all inspection certificates, and all other documents specified by the Commission, relating to the grain to be revised accordingly.
+
+**Application to entire parcel of grain**
+
+(8) The decision of the chief grain inspector for Canada applies to the entire parcel of grain to which the samples relate.
+
+**Determination final**
+
+(9) The decision of the chief grain inspector for Canada is final and conclusive and not subject to appeal to or review by any court.
+
+**Delegation**
+
+(10) The chief grain inspector for Canada may delegate all or part of the duties and functions conferred on him or her under this section.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 70; 2012, c. 31, s. 369
+
+</details>
+
+### 70.1 Failure to inspect
+
+(1) If an operator of a licensed terminal elevator does not comply with subsection 70(1) or (2), the person who caused the grain to be delivered, may apply in writing to the Commission for an order referred to in subsection (4).
+
+**Samples**
+
+(2) The applicant shall sample the grain in the prescribed manner and include all prescribed samples with his or her application.
+
+**Period for making application**
+
+(3) The application shall be made to the Commission within 15 days after the day on which the grain is received in the elevator.
+
+**Commission’s order**
+
+(4) The Commission may, by order,
+
+- (a) for the purpose of settling any transaction between the applicant and the operator in relation to the grain, declare the grain to be of the highest grade for grain of the kind and class that was delivered; or
+
+- (b) require that the operator deliver, at his or her own cost, to the applicant grain that has the equivalent characteristics as the grain of the kind and class that was delivered and is of the highest grade for that grain in the same quantity as was delivered.
+
+**Determination of kind and class**
+
+(5) The order must include the Commission’s determination, based on the samples provided with the application, of the kind and class of the grain delivered and its determination of the characteristics of the grain that the applicant requests and that the Commission considers necessary.
+
+**Copy of order**
+
+(6) A copy of the order shall be forwarded in accordance with any rules made under subsection 99(2) to each person affected by the order and to any other person that may be specified in those rules.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 31, s. 369
+
+</details>
+
+### 70.2 Inspection — required by regulation or order
+
+(1) If required by regulation or by order of the Commission, an operator of a licensed terminal elevator shall cause grain received into the elevator to be weighed or inspected by a third party in the manner specified in the regulation or order or cause it to be officially weighed or officially inspected, or any combination of those weighings and inspections.
+
+**Third party**
+
+(2) The third party is authorized by the Commission and chosen by the operator.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 31, s. 369
+
+</details>
+
+### 70.3 Official weighing and inspecting before discharge
+
+(1) Unless exempted by regulation or by order of the Commission, an operator of a licensed terminal elevator shall cause the grain in the elevator — other than grain that is destined for another licensed elevator — to be officially weighed and officially inspected immediately before or during its discharge from the elevator.
+
+**Weighing and inspecting before discharge**
+
+(2) Unless exempted by regulation or by order of the Commission, an operator of a licensed terminal elevator shall weigh and inspect, in the manner authorized by the Commission, grain in the elevator that is destined for another licensed elevator immediately before or during its discharge from the elevator.
+
+**Weighing and inspecting by third party**
+
+(3) Unless exempted by regulation or by order of the Commission, the operator of the licensed terminal elevator discharging the grain shall cause it to be weighed or inspected, or both, by a third party authorized by the Commission and chosen by the operator if the operator of the licensed elevator destined to receive the grain so requests.
+
+**Third party authorized**
+
+(4) The third party shall weigh or inspect the grain, or do both, as the case may be, in a manner authorized by the Commission.
+
+**Access**
+
+(5) The operator of the licensed terminal elevator discharging the grain shall provide the third party with access to the operator’s premises to permit the third party to weigh or inspect the grain, or do both, as the case may be.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 31, s. 369
+
+</details>
+
+### 70.4 Accept or refuse to receive grain
+
+(1) If an operator of a licensed terminal elevator discharging grain does not comply with subsection 70.3(2) or (3), the operator of the licensed elevator destined to receive the grain may refuse to receive the grain.
+
+**Grain received**
+
+(2) If the operator of the licensed elevator destined to receive the grain agrees to receive it, the operator shall weigh the grain, sample it in the prescribed manner and forward all samples to the Commission.
+
+**Decision**
+
+(3) The Commission shall examine the samples, assign a grade to the grain and determine the dockage. The Commission shall provide the operator of the licensed terminal elevator discharging the grain and the operator of the licensed elevator that agreed to receive that grain with a copy of its decision with respect to the grade and dockage.
+
+**Application to entire parcel of grain**
+
+(4) The Commission’s decision with respect to the grade and dockage applies to the entire parcel of grain to which the samples relate.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 31, s. 369
+
+</details>
+
+### 70.5 Period for retaining samples
+
+An operator of a licensed terminal elevator shall retain for the prescribed period any sample of grain taken as part of an inspection under subsection 70(1) or (2) or section 70.2 or 70.3.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 31, s. 369
+
+</details>
+
+### 70.6 Dockage removed
+
+Except as may be authorized or required by regulation or by order of the Commission, an operator of a licensed terminal elevator shall remove from the grain received into the elevator the dockage that is required to be removed by the inspection certificate.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 31, s. 369
+
+</details>
+
+### 71 Elevator receipt
+
+(1) On receipt of grain into a licensed terminal elevator, the operator of the elevator shall, if the grain has been weighed under subsection 69.1(1) or (2), or inspected under subsection 70(1) or (2) or weighed or inspected — officially or otherwise — under section 70.2,
+
+- (a) immediately issue an elevator receipt for the grain and any screenings that he or she is required to report; and
+
+- (b) on surrender of the bill of lading relating to the grain, together with evidence of the payment of the charges accrued on the grain before its receipt into the elevator, deliver the elevator receipt to or on the order of the holder of the bill of lading.
+
+**Receipt for grain containing excessive moisture or intermixed with other material**
+
+(2) Despite any provision of this Act relating to the delivery of grain of the same kind, grade and quantity as that referred to in an elevator receipt, if the operator of a licensed terminal elevator issues an elevator receipt for grain to which any grade would be assignable but for its excessive moisture or intermixture with another material removable by treatment, that operator, on the drying or treatment of the grain, as the case may be, shall recall the receipt, assign the grain a grade and issue a new elevator receipt for grain of that grade that is adjusted to the grain’s dried quantity or quantity remaining after the treatment.
+
+**Warning**
+
+(3) The elevator receipt issued for grain referred to in subsection (2) on the receipt of the grain into a licensed terminal elevator shall state that the receipt is subject to recall and adjustment.
+
+**Grain owned by licensee**
+
+(4) If the operator of a licensed terminal elevator becomes the owner of grain removed from screenings in that elevator, the operator may, with the Commission’s permission, issue an elevator receipt in his or her own name for the grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 71; 2012, c. 31, s. 369
+
+</details>
+
+### 72 Specially binning grain restricted
+
+The operator of a licensed terminal elevator shall not specially bin any grain except as may be authorized by regulation and in the prescribed manner.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 72; 1998, c. 22, s. 25(F); 2005, c. 24, s. 2; 2012, c. 31, s. 370
+
+</details>
+
+### 73 Priority of claims
+
+Subject to subsection 77(3), the holder of an elevator receipt issued in respect of grain in a licensed terminal elevator is entitled, in priority to all other claims affecting the grain, to the grain referred to in the receipt or to grain in the elevator of the same kind, grade and quantity as the grain referred to in the receipt.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 73; 1994, c. 45, s. 19; 2012, c. 31, s. 371
+
+</details>
+
+### 74 Discharge from elevator
+
+(1) Subject to section 86, the operator of a licensed terminal elevator shall without delay discharge into a conveyance referred to in paragraph (b), to the extent of the conveyance’s capacity, the identical grain or grain of the same kind, grade and quantity that any elevator receipt issued by the operator requires if the holder of the receipt who may lawfully deliver grain referred to in that receipt to another elevator or to a consignee at a destination other than an elevator
+
+- (a) requests that the grain be shipped,
+
+- (b) causes to be placed at the elevator to transport the grain a conveyance that is capable of receiving grain discharged from the elevator and to which the grain may lawfully be delivered, and
+
+- (c) surrenders the elevator receipt and pays the charges accrued under this Act in respect of the grain referred to in the receipt.
+
+**Idem**
+
+(2) The operator of an elevator shall be deemed to have discharged grain forthwith as required by subsection (1) if the operator discharges grain in respect of which elevator receipts have been tendered or surrendered and the charges accrued under this Act have been tendered or paid, in the order in which conveyances for the grain are presented and as rapidly as due diligence, care and prudence justify.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 74; 2012, c. 31, s. 372
+
+</details>
+
+### 75 Limitation on receipt and discharge
+
+No operator or manager of a licensed terminal elevator shall, except with the Commission’s written permission,
+
+- (a) permit any grain that has been officially inspected on discharge from the elevator to be again received into the elevator; or
+
+- (b) permit any grain containing dockage to be discharged from the elevator.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 75; 2012, c. 31, s. 373
+
+</details>
+
+### 76 Procedure if grain requires treatment or must be disposed of
+
+(1) If any grain in a licensed terminal elevator is found to be infested or contaminated, or to have gone or to be likely to go out of condition or otherwise to require treatment,
+
+- (a) the operator of the elevator shall, without delay, inform the Commission, the principal inspector at the nearest inspection point and, if the grain is specially binned, the persons having an interest or right in the grain;
+
+- (b) the Commission shall, if it deems it necessary, arrange for the inspection of the grain;
+
+- (c) the Commission, or a person authorized by the Commission, shall give such directions as to the treatment or disposal of the grain as the circumstances require; and
+
+- (d) the operator of the elevator shall forthwith treat or dispose of the grain as so directed.
+
+**Mixing prohibited**
+
+(2) Except with the permission of the Commission, no grain in respect of which a direction has been given pursuant to subsection (1) shall thereafter be mixed with other grain.
+
+**Costs of treatment, etc.**
+
+(3) If, under a direction given under subsection (1), grain referred to in an elevator receipt indicating special binning issued by the operator of a licensed terminal elevator has been treated, shipped or otherwise disposed of, the costs incurred by the operator of the elevator in complying with the direction are recoverable from the persons having an interest or right in the grain in proportion to their respective interests or rights.
+
+**Operator not relieved of statutory or contractual obligation**
+
+(4) Nothing in this section shall be construed as relieving the operator of a licensed terminal elevator from the performance of any obligation imposed on him or her under this Act or any contract under which any grain came into or remains in the operator’s possession.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 76; 2004, c. 25, s. 107; 2012, c. 31, s. 374
+
+</details>
+
+### 77 Compulsory removal of grain
+
+(1) The operator of a licensed terminal elevator may, with the Commission’s written permission, on at least 30 days’ notice in writing, in a form and manner prescribed, to the last known holder of an elevator receipt issued by the operator, require the holder to take delivery from the elevator of the grain referred to in the receipt.
+
+**Sale of grain**
+
+(2) If the holder of an elevator receipt issued by the operator of a licensed terminal elevator fails to take delivery of the grain referred to in a notice given under subsection (1) within the period for taking delivery set out in it, whether or not the notice has been brought to his or her attention, the operator of the elevator may, on any terms that may be specified in writing by the Commission, sell the identical grain or grain of the same kind, grade and quantity.
+
+**Obligation on sale**
+
+(3) Where an operator of an elevator sells grain under subsection (2), the operator has no obligation to the holder of the elevator receipt issued in respect of the grain, other than to pay to the holder on surrender of the receipt the amount that the operator received for the grain sold less the aggregate of the costs, if any, incurred in the sale of the grain and the charges accrued under this Act in respect of the grain to the date of the sale.
+
+**Warning**
+
+(4) Each elevator receipt issued by the operator of a licensed terminal elevator shall bear the warning set out in subsection 65(4).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 77; 2012, c. 31, s. 375
+
+</details>
+
+### Process Elevators
+
+### 78 Receipt
+
+(1) Subject to any provision of this Act, any regulation or any order of the Commission, the operator of a licensed process elevator shall receive into the elevator grain lawfully delivered to the elevator at the discretion of the operator.
+
+**Issuance of receipt or ticket**
+
+(2) On the receipt of grain from a producer into a licensed process elevator, the operator of the elevator shall, at the prescribed time and in the prescribed manner, issue a grain receipt or a cash purchase ticket stating the grade name, grade and dockage of the grain, and immediately provide the producer with the grain receipt or cash purchase ticket.
+
+**Limitation on discharge**
+
+(3) Except with the permission of the Commission, no operator of a licensed process elevator shall discharge grain from the elevator, otherwise than for direct manufacture or processing into another product, unless the grain is officially inspected and officially weighed at the time of discharge and assigned a grade pursuant to this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 78; R.S., 1985, c. 37 (4th Supp.), s. 22; 1994, c. 45, s. 20
+
+</details>
+
+### 79
+
+[Repealed, 2012, c. 31, s. 376]
+
+### 80
+
+[Repealed, 2012, c. 31, s. 376]
+
+### Grain Dealers
+
+### 81 Requirement to issue grain receipt or cash purchase ticket
+
+(1) With respect to the purchase of western grain from a producer of that grain, every licensed grain dealer shall, at the prescribed time and in the prescribed manner, issue a grain receipt or cash purchase ticket stating the grade name, grade and dockage of the grain, and immediately provide it to the producer.
+
+(2) [Repealed, R.S., 1985, c. 37 (4th Supp.), s. 24]
+
+**Commission contracts**
+
+(3) No licensed grain dealer who acts for any person on a commission basis in relation to the purchase or sale of western grain by a grade name shall, except with the consent of that person, buy, sell or have any interest or right, directly or indirectly beyond the dealer’s agreed commission in the purchase or sale of the grain.
+
+**Prohibitions**
+
+(4) No licensed grain dealer shall
+
+- (a) except with the permission of the Commission, enter into a contract relating to western grain that the dealer has reason to believe is infested or contaminated; or
+
+- (b) enter into a contract that provides for the delivery of western grain to an elevator or a consignee if the grain is not lawfully receivable by the operator of the elevator or other consignee.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 81; R.S., 1985, c. 37 (4th Supp.), s. 24; 1994, c. 45, s. 22; 2004, c. 25, s. 108
+
+</details>
+
+### 82 Records and reports
+
+Every licensed grain dealer shall maintain such records of his business as a grain dealer and make such reports to the Commission in respect of that business as may be prescribed.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 68
+
+</details>
+
+### 82.1
+
+[Repealed, 2012, c. 31, s. 377]
+
+### Grain Handling Generally
+
+### 83 Contracts to be made only by licensees
+
+(1) No person in the Western Division shall, for reward, by way of a profit, commission or otherwise,
+
+- (a) act on behalf of any other person in buying, selling or arranging for the weighing, inspection or grading of western grain, or
+
+- (b) make any contract for the purchase of western grain,
+
+unless that person is a licensee or is employed by a licensee and acts only on behalf of his employer.
+
+**Exception**
+
+(2) Subject to this Act, a transaction referred to in subsection (1) may be entered into by a person who is not a licensee where the transaction is
+
+- (a) a contract for the purchase of grain without reference to any grade name on terms whereby the consideration payable under the contract for the purchase of the grain is to be paid in full at the time of the making of the contract or the delivery of the grain;
+
+- (b) a contract for the purchase of grain whereby the grain is purchased by a producer of grain for use as seed in the producer’s farming operation;
+
+- (c) a contract for the purchase of grain whereby a person who raises livestock or poultry purchases the grain for feeding the livestock or poultry; or
+
+- (d) a contract made on the premises of a recognized grain exchange by or through a broker who is a member of the exchange and duly recorded pursuant to the rules of the exchange.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 83; 1994, c. 45, s. 24
+
+</details>
+
+### Declaration Respecting Grain
+
+### 83.1 Obligation to provide declaration
+
+Every licensee and every person who sells grain to a licensee shall, in accordance with the regulations, make and provide a declaration respecting the grain to a prescribed person.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, c. 25, s. 27
+- 2020, c. 1, s. 67
+
+</details>
+
+### 83.2 Regulations
+
+The Commission may, with the approval of the Governor in Council, make regulations respecting the declaration referred to in section 83.1, including regulations prescribing
+
+- (a) its form and content;
+
+- (b) when it is to be made and provided; and
+
+- (c) the persons to whom it is to be provided.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, c. 25, s. 27
+- 2020, c. 1, s. 67
+
+</details>
+
+### 83.3 False or misleading statement
+
+No person shall knowingly make a false or misleading statement in a declaration referred to in section 83.1.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, c. 25, s. 27
+- 2020, c. 1, s. 67
+
+</details>
+
+## Carriage of Grain
+
+### General
+
+### 84 Transport, except by public carrier, restricted
+
+Except in accordance with terms and conditions prescribed under section 84.1 or with an order made under section 84.2, no person, other than a public carrier, shall transport or cause to be transported any grain into or out of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 84; 1994, c. 45, s. 25
+- 2020, c. 1, s. 67
+
+</details>
+
+### 84.1 Regulations
+
+The Commission may, with the approval of the Governor in Council, make regulations prescribing terms and conditions for the purposes of section 84.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, c. 1, s. 67
+
+</details>
+
+### 84.2 Orders
+
+The Commission may, by order, permit a person other than a public carrier, to transport or cause to be transported any grain into or out of Canada, in accordance with any terms and conditions set out in the order. If the order applies to more than one person, it applies for a period of time terminating not later than the end of the crop year in respect of which the order is made.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, c. 1, s. 67
+
+</details>
+
+### 85 Inspection of conveyances
+
+(1) An inspector
+
+- (a) may, at any time, require a public carrier to hold a conveyance of the public carrier containing grain, grain products or screenings at an inspection point for inspection or official inspection of the grain, grain products or screenings; and
+
+- (b) shall, within twenty-four hours of requiring the public carrier to hold the conveyance, inspect or officially inspect the grain, grain products or screenings.
+
+**Time for inspection**
+
+(2) A public carrier who is required to hold a conveyance at an inspection point pursuant to subsection (1)
+
+- (a) shall hold the conveyance at the inspection point until after the inspection or official inspection or the expiration of twenty-four hours from the time when the carrier is so required to hold the conveyance, whichever occurs first; and
+
+- (b) may then move the conveyance forward.
+
+**Inspection of conveyances**
+
+(3) An inspector
+
+- (a) may, at any reasonable time, inspect any conveyance that has been placed at any elevator to receive grain; and
+
+- (b) where the inspector believes on reasonable grounds that any prescribed condition exists in the conveyance to such extent that the conveyance is not in fit condition to receive grain, shall direct that grain not be discharged into the conveyance until the condition has been corrected.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 85; 1994, c. 45, s. 26
+
+</details>
+
+### 86 Discharge of grain into unfit conveyance prohibited
+
+No person shall discharge any grain out of an elevator into a conveyance and no public carrier or other person shall permit the discharge of any grain out of an elevator into any conveyance owned or operated by him, where
+
+- (a) the person or public carrier has reason to believe that any prescribed condition exists in the conveyance to such extent that the conveyance is not in fit condition to receive grain; or
+
+- (b) an inspector has directed, pursuant to subsection 85(3), that grain not be discharged into the conveyance.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 70
+
+</details>
+
+### Producer Railway Cars
+
+### 87 Application for railway cars
+
+(1) One or more producers of grain, but not more than the number that the Commission may designate by order, may apply in writing to the Commission, in the prescribed form, for a railway car to receive and carry grain to a terminal elevator or process elevator or to a consignee at a destination other than an elevator, if they have grain in sufficient quantity to fill a railway car and if it may be lawfully delivered to a railway company for carriage to those elevators or other consignee.
+
+**Allocation of cars**
+
+(2) The Commission shall, in each week, allocate to applications made by producers of grain pursuant to subsection (1), in the order in which the applications are received, available railway cars that enter each shipping control area in that week up to such number or percentage of the available cars entering the area in that week and under such terms and conditions as the Commission may order.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 87; 1994, c. 45, s. 27(F); 1998, c. 22, s. 25(F); 2012, c. 31, s. 378
+
+</details>
+
+### 87.1
+
+[Repealed, 2011, c. 25, s. 28]
+
+### 87.2
+
+[Repealed, 2011, c. 25, s. 28]
+
+### 87.3
+
+[Repealed, 2011, c. 25, s. 28]
+
+## Enforcement and Enforcement Procedures
+
+### Inspection and Seizure
+
+### 88 Inspection
+
+(1) Subject to subsection (1.1), an inspector may, at any reasonable time, enter any elevator, any premises of the licensee of an elevator or any premises of a licensed grain dealer in which the inspector has reasonable grounds to believe there is any grain, grain product or screenings owned or possessed by the licensee or any books, records or other documents relating to the operation of the elevator or the business of the grain dealer and may
+
+- (a) examine the premises and any equipment, grain, grain products and screenings found in the premises;
+
+- (a.1) take samples of the grain, grain products or screenings; and
+
+- (b) examine any books, records, bills of lading and other documents that, on reasonable grounds, the inspector believes contain any information relevant to verifying compliance with this Act and make copies of them or take extracts from them.
+
+**Warrant required to enter dwelling-house**
+
+(1.1) Where any premises referred to in subsection (1) is a dwelling-house, an inspector may not enter that dwelling-house without the consent of the occupant except under the authority of a warrant issued under subsection (1.2).
+
+**Authority to issue warrant**
+
+(1.2) Where on ex parte application a justice of the peace is satisfied by information on oath
+
+- (a) that the conditions for entry described in subsection (1) exist in relation to a dwelling-house,
+
+- (b) that entry to the dwelling-house is necessary for any purpose relating to the administration or enforcement of this Act, and
+
+- (c) that entry to the dwelling-house has been refused or that there are reasonable grounds for believing that entry thereto will be refused,
+
+the justice of the peace may issue a warrant under his hand authorizing the inspector named therein to enter that dwelling-house subject to such conditions as may be specified in the warrant.
+
+**Use of force**
+
+(1.3) In executing a warrant issued under subsection (1.2), the inspector named therein shall not use force unless the inspector is accompanied by a peace officer and the use of force has been specifically authorized in the warrant.
+
+**Certificate to be produced**
+
+(2) An inspector shall be furnished with a certificate of his designation as an inspector and, on entering any elevator or premises referred to in subsection (1), shall, if so required, produce the certificate to the person in charge thereof.
+
+**Assistance to inspectors**
+
+(3) The licensee or person in charge of any elevator or premises entered by an inspector pursuant to subsection (1) and every person found therein shall give the inspector all reasonable assistance to enable the inspector to carry out his duties and functions under this Act and shall furnish the inspector with any information he may reasonably require with respect to the administration of this Act and the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 88; R.S., 1985, c. 31 (1st Supp.), s. 13; 1988, c. 65, s. 126; 1998, c. 22, s. 17; 2011, c. 25, s. 29; 2012, c. 31, s. 379
+
+</details>
+
+### 89 Obstruction
+
+(1) No person shall obstruct or hinder an inspector in the carrying out of his duties and functions under this Act.
+
+**False statements**
+
+(2) No person shall knowingly make any false or misleading statements, either orally or in writing, to an inspector engaged in carrying out his duties and functions under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 72
+
+</details>
+
+### 90 Seizure and report
+
+(1) An inspector may seize any documents or records that he or she has reasonable grounds to believe contain or are evidence that an offence under this Act was committed — and, in any event, shall without delay report to the Commission the facts ascertained by him or her — if he or she has reasonable grounds to believe that
+
+- (a) any offence under this Act was committed;
+
+- (b) any grain, grain product or screenings in an elevator are infested or contaminated;
+
+- (c) any equipment in an elevator is in such condition that grain, grain products or screenings cannot safely or accurately be weighed or handled in the elevator; or
+
+- (d) an elevator is in any condition that causes danger to persons or loss or deterioration of grain, grain products or screenings stored in it.
+
+**Detention**
+
+(2) Documents or records seized pursuant to subsection (1) shall not be detained after the expiration of thirty days from the seizure unless before that time proceedings in respect of an offence under this Act, in respect of which the documents or records contain or are evidence, have been instituted, in which event the documents or records may be detained until the proceedings are finally concluded.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 90; 1988, c. 65, s. 127; 1994, c. 45, s. 29; 2012, c. 31, s. 380
+
+</details>
+
+### Investigations and Arbitration
+
+### 91 Investigations
+
+(1) The Commission has jurisdiction to and may, on receiving a report from an inspector pursuant to section 90 or at any other time, investigate
+
+- (a) the grading and weighing of any grain at an elevator;
+
+- (b) the deduction made from any grain for dockage or shrinkage at an elevator;
+
+- (c) [Repealed, 2012, c. 31, s. 381]
+
+- (d) any allegation that an elevator is operated in an unfair or a discriminatory manner;
+
+- (e) the loss or deterioration of any grain during storage or treatment at an elevator;
+
+- (f) the charges for services provided by a licensee pursuant to his licence;
+
+- (g) any failure or refusal of a licensee to pay any fees for services provided by the Commission or to comply with any provisions of this Act or any regulation, order or licence made or issued pursuant to this Act;
+
+- (g.1) [Repealed, 2011, c. 25, s. 30]
+
+- (h) any complaint by a person with respect to any matter within the jurisdiction of the Commission; and
+
+- (i) any other matter arising out of the performance of the duties of the Commission.
+
+**Designation**
+
+(2) The Commission may designate one commissioner to conduct any investigation under this section that is not in the nature of a hearing.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 91; 1988, c. 65, s. 128; 1998, c. 22, s. 25(F); 2011, c. 25, s. 30; 2012, c. 31, s. 381
+
+</details>
+
+### 92 Arbitration
+
+The Commission or a commissioner has capacity, with the consent of the parties involved, to act as an arbitrator in any dispute respecting grain or commercial transactions relating to grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 75
+
+</details>
+
+### 92.1 Arbitration — certain contracts
+
+(1) On the written request of one of the parties to a contract that includes provisions that are required by a regulation made under paragraph 116(1)(s.2), the Commission, a commissioner or a third party appointed by the Commission has capacity to act as an arbitrator in any dispute respecting those provisions.
+
+**Remuneration**
+
+(2) The Commission may fix the remuneration to be paid to it or, if a third party is acting as arbitrator, to the third party for the arbitration.
+
+**Determination of costs**
+
+(3) The Commission shall determine the costs related to the arbitration.
+
+**Allocation of remuneration and costs**
+
+(4) The arbitrator shall decide how to allocate between the parties the payment of the remuneration and the costs to the Commission or the third party, as the case may be.
+
+**Decision binding**
+
+(5) The arbitrator’s decisions are binding on the parties.
+
+**Third-party arbitrator**
+
+(6) If the arbitrator is a third party, the arbitrator’s decisions are deemed to be the Commission’s decisions.
+
+**Order to comply**
+
+(7) The Commission may, by order, require a licensee to comply with a decision made under this section.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 8, s. 2
+
+</details>
+
+### Orders Respecting Operations or Suspending Licences
+
+### 93 Restriction of operations and suspension of licence
+
+(1) If, on receiving the report of an inspector under section 90 or on making an investigation under section 91, the Commission has reasonable grounds to believe that a licensee has failed to comply with any condition of a licence or has committed an offence under this Act or that a condition referred to in paragraph 90(1)(b), (c) or (d) exists in a licensed elevator, the Commission may, by order,
+
+- (a) require that any grain, grain product or screenings in the elevator be weighed and inspected, for the purpose of determining the amount in stock of the grain, grain product or screenings, as the case may be, in the elevator, by the licensee or a person authorized by the Commission and, to permit the weighing and inspection, prohibit, for any period not exceeding 30 days that is specified in the order, the receipt into or removal from the premises of the elevator, or both, of any grain, grain products or screenings;
+
+- (b) in the case of a condition referred to in paragraph 90(1)(b), (c) or (d),
+  - (i) require that the condition be remedied in such manner and within such time as is specified in the order,
+  - (ii) require that such grain, grain products and screenings in the elevator as are specified in the order be stored or disposed of in such manner as the Commission considers equitable, and
+  - (iii) prohibit, for such period not exceeding thirty days as is specified in the order, any particular use of the elevator or its equipment; and
+
+- (c) whether or not the Commission exercises any of the powers conferred by paragraphs (a) and (b), in its discretion, suspend the licence to operate the elevator or the licence to carry on business as a grain dealer for such period not exceeding thirty days as is specified in the order.
+
+**Suspension of licence**
+
+(1.1) If the Commission has reasonable grounds to believe that a licensee has failed to comply with an arbitrator’s decision made under section 92.1, the Commission may, by order, suspend the licence for any period not exceeding 30 days that is specified in the order.
+
+**Licensee’s opportunity to be heard**
+
+(2) Subject to subsection (3), the Commission may not make an order under subsection (1) or (1.1) unless the Commission has afforded the licensee or their representative full and ample opportunity to be heard.
+
+**Immediate restriction or suspension**
+
+(3) If, in the circumstances of any particular case, the Commission considers it necessary in the public interest to do so, it may make an order under subsection (1) or (1.1) without first affording a licensee or their representative an opportunity to be heard but, in that event, the Commission shall, as soon as feasible after making the order, afford the licensee a full and ample opportunity to be heard.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 93; 1994, c. 45, s. 30; 1998, c. 22, s. 25(F); 2012, c. 31, s. 382; 2014, c. 8, s. 3
+
+</details>
+
+### 94 Reinstatement of licence and discontinuance of restriction
+
+(1) A prohibition or requirement contained in an order made pursuant to subsection 93(1) may be discontinued and a licence suspended pursuant to that subsection may be reinstated before the expiration of any period of prohibition or suspension specified in the order if, in the opinion of the Commission, the prohibition, requirement or suspension has ceased to be or is no longer necessary.
+
+**Extension of period of prohibition or suspension**
+
+(2) Subject to subsection (3), the Commission may, on notice in writing to any licensee affected by an order made pursuant to subsection 93(1), extend a period of prohibition or suspension ordered pursuant to that subsection and, in any such case, shall forthwith notify the licensee affected by the order of the Commission’s action.
+
+**Limitation**
+
+(3) A period of prohibition or suspension ordered pursuant to subsection 93(1) shall not be extended for any period that would result in the aggregate period of the prohibition or suspension being longer than thirty days unless
+
+- (a) before the expiration of thirty days from the commencement of the period of prohibition or suspension, proceedings have been instituted against the licensee or against the manager of the elevator in respect of an offence under this Act, in which event the period of prohibition or suspension is deemed to be extended, unless otherwise ordered by the Commission, until fourteen days after the proceedings are finally concluded; or
+
+- (b) the licensee has failed to comply with any requirement of an order made pursuant to subsection 93(1) but the Commission is satisfied that
+  - (i) the licensee has taken all reasonable measures to comply with the order and will be able to comply with it within a reasonable time, and
+  - (ii) the revocation of the licence of the licensee or the institution of proceedings referred to in paragraph (a) is not warranted in the circumstances of the case,
+  in which event the period of prohibition or suspension may be extended by order of the Commission for such further period as the Commission deems reasonable.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 94; 1998, c. 22, s. 25(F)
+
+</details>
+
+### Revocation of Licences
+
+### 95 Revocation of licence
+
+(1) The Commission may, by order, revoke a licence to operate an elevator or a licence to carry on business as a grain dealer, as the case may be, if
+
+- (a) the licensee has failed or refused to comply with any requirement of an order, in relation to the operation of an elevator, made under subsection 93(1) or paragraph 94(3)(b);
+
+- (a.1) the licensee has failed to comply with an arbitrator’s decision made under section 92.1;
+
+- (b) the licensee or the manager of a licensed elevator is found guilty of an offence under this Act;
+
+- (c) the licensee has failed to maintain their security as required by subsection 45.1(1);
+
+- (d) the licensee has failed to obtain additional security as required by any order made under subsection 49(1); or
+
+- (e) the licensee has failed to comply with any condition of a licence.
+
+**Limitation**
+
+(2) Subject to subsection (3), except with the consent of the licensee, no licence shall be revoked pursuant to subsection (1) unless the licensee or a representative of the licensee has been afforded a full and ample opportunity to be heard in the matter in relation to which the licence may be revoked.
+
+**Prior opportunity to be heard**
+
+(3) Where the Commission has, pursuant to section 93, afforded a licensee or a representative of the licensee an opportunity to be heard in relation to any matter, the Commission may, in accordance with this section, revoke the licence to operate the elevator or to operate as a grain dealer without affording the licensee a further opportunity to be heard in relation thereto.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 95; 2012, c. 31, s. 383; 2014, c. 8, s. 4
+
+</details>
+
+### Review by Minister
+
+### 96 Review by Minister
+
+The Minister may, on application made by any interested person, review any order made by the Commission refusing to issue a licence or revoking a licence and where, after considering the application and any material submitted to the Minister in connection therewith, the Minister is of the opinion that the issue of a licence should not have been refused or the licence should not have been revoked, the Minister may in his discretion direct the Commission to issue a licence or to reinstate the revoked licence, as the case may be, on such conditions, if any, relating to the licence as the Minister deems proper.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 96; 1998, c. 22, s. 25(F)
+
+</details>
+
+### Orders for Payment
+
+### 97 Orders on investigation
+
+The Commission may, after any investigation instituted under section 91 and after affording all persons having an interest in the matter under investigation a full and ample opportunity to be heard, make an order
+
+- (a) for the payment, by any complainant, licensee or other person to whom the jurisdiction of the Commission extends, of compensation to any person for loss or damage sustained by that person resulting from a contravention of or failure to comply with any provision of this Act or any regulation, order or licence made or issued pursuant to this Act; and
+
+- (b) for the payment by any licensee of any fees for services payable by the licensee to the Commission pursuant to this Act.
+
+- (c) [Repealed, 2012, c. 31, s. 384]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 97; 1998, c. 22, s. 25(F); 2012, c. 31, s. 384
+
+</details>
+
+### Public Hearings
+
+### 98 Public hearings
+
+(1) A public hearing may be held by the Commission if the Commission is satisfied that it would be in the public interest to hold such a hearing in connection with
+
+- (a) an investigation commenced under section 91; and
+
+- (b) any other matter in respect of which the Commission deems a hearing to be desirable.
+
+**Public hearings on request**
+
+(2) Where
+
+- (a) this Act requires that any person be given an opportunity to be heard in connection with the issue, refusal to issue, suspension or revocation of a licence or in connection with any investigation into a complaint referred to in paragraph 91(1)(h), and
+
+- (b) the applicant for the licence, the licensee or the person who is the subject of the complaint requests a public hearing,
+
+the Commission shall hold a public hearing to hear all persons having an interest in the matter and wishing to be heard in connection therewith.
+
+**Powers of Commission**
+
+(3) The Commission has, in relation to any public hearing held under this section, the powers of a Commissioner under Part I of the *Inquiries Act*.
+
+**Representation by counsel**
+
+(4) Any person who may be heard at a public hearing under this section may be represented by counsel at the hearing.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 80
+
+</details>
+
+### Procedure
+
+### 99 Notification of order
+
+(1) A copy of an order of the Commission refusing to issue a licence or revoking a licence or for the payment of any money or apportionment of any loss, together with any written reasons for the decision, shall, after the making of the order, be forwarded in accordance with any rules made pursuant to subsection (2) to each person affected by the order and to such other persons as may be specified in those rules.
+
+**Rules**
+
+(2) The Commission may make rules
+
+- (a) respecting the procedure for making applications, representations and complaints to the Commission and for the conduct of public hearings held by it; and
+
+- (b) generally respecting the conduct of the business of the Commission in relation to investigations and public hearings.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 99; 1998, c. 22, s. 25(F)
+
+</details>
+
+### Enforcement of Orders for Payment
+
+### 100 Filing of orders in Court
+
+(1) An order of the Commission for the payment of any money or apportionment of any loss may be filed in the Federal Court, in this Part referred to as “the Court”, after thirty days following the date on which the order is made.
+
+**Registration of order**
+
+(2) On filing in the Court under subsection (1), an order of the Commission referred to in that subsection shall be registered in the Court and, subject to subsection (4), when registered has the same force and effect, and all proceedings may be taken thereon, as if the order were a judgment obtained in the Court for a debt of the amount specified in the order plus interest to the date of payment as provided for in the order of the Commission.
+
+**Costs and charges**
+
+(3) The reasonable costs and the charges attendant on the registration of an order pursuant to this section are recoverable in like manner as if they were an amount included in the order of the Commission.
+
+**Stay of execution**
+
+(4) The Court may direct a stay of execution of an order registered pursuant to this section pending disposition of an appeal pursuant to section 101 on such terms as to the Court seem just.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 100; 1998, c. 22, s. 25(F)
+
+</details>
+
+### Appeals to Court
+
+### 101 Appeal to Court
+
+(1) An appeal from an order of the Commission for the payment of any money or apportionment of any loss lies to the Court.
+
+**Institution of appeal**
+
+(2) An appeal under subsection (1) shall be instituted by filing a notice of appeal in the Court within thirty days after the making of the order sought to be appealed from or within such further time as the Court under special circumstances allows.
+
+**Service**
+
+(3) Notice of an appeal under this section shall be served forthwith after the filing thereof on the Commission and on all interested parties.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 101; 1998, c. 22, s. 25(F)
+
+</details>
+
+### Prohibitions, Offences and Punishment
+
+### 102 Prohibition respecting grade names
+
+(1) No person shall, in the purchase or sale of grain, use a grade name established by or under this Act in any record or acknowledgement of the receipt or discharge of grain unless the person is licensed under this Act.
+
+**Exceptions**
+
+(2) Subsection (1) does not apply to a sale of grain by a producer who produced the grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 102; 1994, c. 45, s. 31
+
+</details>
+
+### 103 Prohibition respecting forms
+
+No person other than a licensee shall issue a cash purchase ticket, an elevator receipt or a grain receipt or any other document that so closely resembles one of them that confusion may be caused.
+
+- (2) [Repealed, R.S., 1985, c. 37 (4th Supp.), s. 26]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 103; R.S., 1985, c. 37 (4th Supp.), s. 26; 1994, c. 45, s. 32
+
+</details>
+
+### 104 Prohibitions respecting elevator operations
+
+No operator of a licensed elevator shall
+
+- (a) issue a cash purchase ticket acknowledging the purchase of any grain or an elevator receipt or other document purporting to acknowledge the receipt of any grain if the grain has not been purchased or received into the elevator;
+
+- (b) permit to be outstanding in respect of a quantity of grain in the elevator more than one cash purchase ticket or more than one elevator receipt or other document acknowledging receipt of the grain;
+
+- (c) except under the regulations or an order of the Commission, receive into or discharge from the elevator any grain, grain product or screenings that is infested or contaminated or that may reasonably be regarded as being infested or contaminated; or
+
+- (d) except with the permission of the Commission, mix with any grain in the elevator any material other than grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 104; 1998, c. 22, s. 25(F)
+
+</details>
+
+### 105 General prohibitions
+
+No person shall
+
+- (a) use any grade name established by or under this Act in dealing in, handling or describing any grain that does not possess the characteristics of grain of that grade;
+
+- (b) use any name, or name and number, so nearly resembling any grade name as to be calculated or likely to cause confusion with that grade name;
+
+- (c) offer for sale or storage or submit for official inspection grain that has been so treated, mixed or dealt with as to conceal its true characteristics; or
+
+- (d) except under the regulations or an order of the Commission, deliver to or receive from an elevator any grain, grain product or screenings that is infested or contaminated or that may reasonably be regarded as being infested or contaminated.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 105; 1998, c. 22, s. 25(F)
+
+</details>
+
+### 105.1
+
+[Repealed, 2011, c. 25, s. 31]
+
+### 106 Fraudulent or false acts
+
+No person shall
+
+- (a) make such representation in respect of grain, or so handle grain, that the representation or handling might reasonably be regarded as being a misleading representation made for the purpose of obtaining the issuance of an incorrect inspection certificate;
+
+- (b) represent any grain inspection certificate or end-use certificate as relating to any grain other than grain to which it properly relates; or
+
+- (c) being the operator of an elevator or an inspector or a weigher,
+  - (i) knowingly state an incorrect weight in respect of any grain delivered into or discharged from an elevator, or
+  - (ii) knowingly take or claim excessive dockage from grain received into an elevator.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 106; 1988, c. 65, s. 130
+
+</details>
+
+### 107 Offence and punishment
+
+(1) Every operator of an elevator who contravenes or fails to comply with section 72 is guilty of an offence and
+
+- (a) if an individual, is liable
+  - (i) on summary conviction, to a fine not exceeding nine thousand dollars or to imprisonment for a term not exceeding two years, or to both, or
+  - (ii) on conviction on indictment, to a fine not exceeding eighteen thousand dollars or to imprisonment for a term not exceeding four years, or to both; or
+
+- (b) if a corporation, is liable
+  - (i) on summary conviction, to a fine not exceeding thirty thousand dollars, or
+  - (ii) on conviction on indictment, to a fine not exceeding sixty thousand dollars.
+
+(1.1) [Repealed, 2011, c. 25, s. 32]
+
+**Idem**
+
+(2) Every person who contravenes any provision of this Act, other than section 72, or of the regulations or any order of the Commission, other than an order for the payment of any money or apportionment of any loss, is guilty of an offence and
+
+- (a) if an individual, is liable
+  - (i) on summary conviction, to a fine not exceeding six thousand dollars or to imprisonment for a term not exceeding one year, or to both, or
+  - (ii) on conviction on indictment, to a fine not exceeding twelve thousand dollars or to imprisonment for a term not exceeding two years, or to both; or
+
+- (b) if a corporation, is liable
+  - (i) on summary conviction, to a fine not exceeding nine thousand dollars, or
+  - (ii) on conviction on indictment, to a fine not exceeding eighteen thousand dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 107; R.S., 1985, c. 37 (4th Supp.), s. 27; 1988, c. 65, s. 131; 2011, c. 25, s. 32
+
+</details>
+
+### 108 Offence by manager, employee, agent or mandatary
+
+(1) Any manager of an elevator, or any other employee, or agent or mandatary, of the operator or licensee of an elevator, who does any act or thing directed to the commission of an offence under this Act by the operator or licensee of the elevator is a party to and guilty of the offence.
+
+**Party to offence**
+
+(2) Any employee, or agent or mandatary, of a licensed grain dealer who does any act or thing directed to the commission of an offence under this Act by the licensed grain dealer is a party to and guilty of the offence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 108; 2004, c. 25, s. 109(E)
+
+</details>
+
+### 109 Documentary evidence
+
+In any prosecution for an offence under this Act, a document purporting to have been signed by a commissioner or any officer or employee of the Commission in the course of the performance of his duties is evidence of the facts stated in the document without proof of the signature or of the official character of the person appearing to have signed the document.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 91
+
+</details>
+
+### 110 Time for commencing proceedings
+
+(1) Any proceedings by way of summary conviction in respect of an offence under this Act may be instituted at any time within two years after the time when the subject-matter of the prosecution arose.
+
+**Trial of offences**
+
+(2) A complaint or an information in respect of an offence under this Act may be heard, tried or determined by a court if the accused is resident or carrying on business within the territorial jurisdiction of that court although the matter of the complaint or information did not arise in that territorial jurisdiction.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 92
+
+</details>
+
+## General
+
+### Cash Purchase Tickets and Elevator Receipts
+
+### 111 Transfer from holder to holder
+
+(1) A cash purchase ticket or elevator receipt in prescribed form entitling the holder named in that document to the payment of money or delivery of grain in accordance with the terms of the document, and the rights arising under the document, may be transferred from holder to holder by the endorsement and delivery of the document to the endorsee.
+
+(2) [Repealed, 2012, c. 31, s. 385]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 111; 2012, c. 31, s. 385
+
+</details>
+
+### 112 Restriction on creation of charge, interest or right
+
+Despite anything in the *Bank Act*, no charge on or interest or right in grain referred to in an elevator receipt that affects the interest or right of the holder of the receipt may be created by the holder, or by the operator of a licensed elevator who issued the receipt, other than by the endorsement or delivery of the receipt to the person in whose favour the charge, interest or right is created.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 112; 2004, c. 25, s. 110
+
+</details>
+
+### 113
+
+[Repealed, 2012, c. 31, s. 386]
+
+### 114
+
+[Repealed, 2012, c. 31, s. 386]
+
+### Regulations and Orders
+
+### 115 Orders of the Governor in Council
+
+The Governor in Council may, by order,
+
+- (a) where the Governor in Council considers it necessary in the public interest to do so, require a railway company to supply railway cars for the carriage of grain and place them at any point at which the railway company supplies a service;
+
+- (b) despite anything in this Act, authorize and direct any minister of the Crown or any agency of the Government of Canada to exercise the powers in respect of the allocation of available railway cars contained in any provision of this Act, other than paragraph (a);
+
+- (c) direct that any allocation of railway cars be guided by the principle that the producer or producers should have the right to select such elevator as the producer or producers may choose or to load directly;
+
+- (d) direct that any grade established under this Act be assigned only to grain being officially inspected on discharge from a terminal elevator;
+
+- (e) vary the period of a crop year to another period of not less than three hundred and sixty-five days;
+
+- (f) direct the Commission as to the manner in which any of its operations, powers and duties shall be conducted, exercised or performed; and
+
+- (g) provide for any other matter necessary to give effect to this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 115; R.S., 1985, c. 37 (4th Supp.), s. 28(E); 2011, c. 25, s. 33; 2012, c. 31, s. 387
+
+</details>
+
+### 116 Regulations
+
+(1) The Commission may, with the approval of the Governor in Council, make regulations
+
+- (a) designating any seed as a grain for the purposes of this Act;
+
+- (b) prohibiting for any period of time or regulating the delivery of grain to elevators, the discharge of grain from elevators, the handling and treating of grain in elevators and the shipping of grain to or from elevators for the purpose of ensuring the orderly movement of grain;
+
+- (b.1) governing the handling and treatment of grain in elevators;
+
+- (c) prescribing, in respect of samples of grain, the circumstances and manner in which they may be taken;
+
+- (c.1) prescribing circumstances in which an inspector, under paragraph 32(1)(b), is to assign a grade to imported grain and to state the dockage that is to be separated from it;
+
+- (d) specifying the procedure to be followed by the parties to any contract for special binning for the purpose of ensuring the preservation of the identity of specially binned grain;
+
+- (e) prescribing the returns to be made for dockage;
+
+- (e.1) determining what constitutes a hazardous substance and governing the use, handling and storage of hazardous substances by licensed elevator operators;
+
+- (f) fixing the maximum shrinkage allowance that may be made on the delivery of grain to an elevator;
+
+- (g) governing the sale of grain by sample;
+
+- (h) respecting the receipt, inspection, handling and storage at elevators of imported grain and prescribing the period of time that it may remain in storage at any elevator;
+
+- (i) prescribing the procedure to be followed on appeals as to grades of grain;
+
+- (j) specifying the information required to be furnished by applicants for licences, including information relating to the applicant’s finan- cial situation, and the conditions on which licences may be issued;
+
+- (k) respecting the security to be obtained, by way of bond, suretyship, insurance or otherwise, for the purposes of subsection 45.1(1);
+
+- (k.1) specify the person or class of persons who may realize on or enforce security obtained by a licensee;
+
+- (k.2) specify conditions related to realizing on or enforcing security obtained by a licensee;
+
+- (k.3) exempt a licensee from the requirement to obtain security;
+
+- (l) prescribing any records to be kept by a licensee, the reports to be made by a licensee, the system of transmission or communication of those reports and the times the reports are to be made;
+
+- (m) fixing, or prescribing the manner for determining, the maximum charges for services to be made by licensees under this Act and prescribing the manner in which those charges are to be published;
+
+- (n) prescribing the form of cash purchase tickets and elevator receipts and prescribing other forms to be used pursuant to this Act and the manner in which those forms are to be used, transmitted and related to each other;
+
+- (o) prescribing the use of any system of keeping and issuing cash purchase tickets and elevator receipts;
+
+- (p) requiring licensees to submit to the Commission such information relating to the conduct and management of their affairs as the regulations may specify;
+
+- (q) respecting the circumstances and manner in which inspection certificates are to be cancelled;
+
+- (r) fixing, or prescribing the manner for determining, the fees for any service performed by or on behalf of the Commission and the fees for any licence issued by the Commission and prescribing the time and manner of payment of those fees;
+
+- (s) specifying the standards to be complied with in the construction, alteration and maintenance of any elevator and the installation and maintenance of any equipment therein;
+
+- (s.1) governing the disposal of contaminated grain;
+
+- (s.2) respecting provisions to be included in specified classes of contracts relating to grain, including provisions respecting compensation or penalties for breaches of those provisions;
+
+- (s.3) respecting arbitration for the purposes of section 92.1, including rules of procedure, eligibility requirements for requests for arbitration, the qualifications required of third parties to act as arbitrators, the rules of confidentiality and the reporting of decisions;
+
+- (t) prescribing any matter that under this Act is to be prescribed; and
+
+- (u) generally for carrying into effect the purposes and provisions of this Act.
+
+**Forms and systems other than prescribed**
+
+(2) The Commission may, in writing, permit a licensee to use any form or any system of keeping or issuing cash purchase tickets, elevator receipts or any other document designated by the Commission in addition to or in place of a prescribed form or system.
+
+**Storage premises**
+
+(3) The Commission may, by regulation made with the approval of the Governor in Council, establish a list of premises in the Eastern Division used either in whole or in part for the storage of grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 116; R.S., 1985, c. 37 (4th Supp.), s. 29; 1994, c. 45, s. 33; 1998, c. 22, s. 24; 2001, c. 4, s. 89(E); 2012, c. 31, s. 388; 2014, c. 8, s. 5
+- 2020, c. 1, s. 68
+
+</details>
+
+### 117 Exemption from requirements of Act and regulations
+
+Where, in the opinion of the Commission, the control of any type of elevator or type of grain handling operation or any particular elevator or grain handling operation is not essential for maintaining the quality, safe-keeping and orderly and efficient handling of grain in Canada, the Commission may,
+
+- (a) by regulation made with the approval of the Governor in Council, exempt that type of elevator or operation from the licensing or any other requirements of this Act or the regulations, or
+
+- (b) by order, exempt that particular elevator or operation from the licensing or any other requirements of this Act or the regulations,
+
+on such conditions and for such period as may be set out in the regulation or order.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 117; 1994, c. 45, s. 34; 1998, c. 22, s. 25(F)
+
+</details>
+
+### 118 Orders of the Commission
+
+The Commission may make orders
+
+- (a) subject to any order made by the Governor in Council under section 115, governing the allocation of available railway cars to terminal elevators and among shipping points on any line of railway;
+
+- (a.1) exempting a licensee from the requirement to obtain security;
+
+- (a.2) requiring a licensee to obtain, within any period that the Commission considers reasonable, any additional security for the purposes of subsection 49(1) that it considers sufficient;
+
+- (b) providing for the supervision of the disposition of grain contained in any elevator on the suspension or revocation of the licence issued in respect of the elevator;
+
+- (b.1) requiring an operator of a licensed terminal elevator to cause grain to be weighed or inspected by a third party authorized by the Commission and chosen by the operator or cause it to be officially weighed or officially inspected, or any combination of those, and specifying the manner of weighing or inspecting;
+
+- (c) requiring or authorizing the operator of an elevator to receive into the elevator and store or treat, in such manner as the Commission considers appropriate, grain that has gone or is likely to go out of condition;
+
+- (d) seizing infested or contaminated grain or requiring the operator of an elevator to treat or dispose of infested or contaminated grain in a manner approved by the Commission;
+
+- (e) for the purpose of ensuring the orderly movement of grain, fixing the maximum quantity of grain of any kind and grade that may be stored in any elevator at any time;
+
+- (f) providing for the equitable apportionment, among shippers, of elevator storage space in licensed terminal elevators;
+
+- (g) providing for the acceptance of deliveries of grain in the interests of producers; and
+
+- (g.1) [Repealed, 2011, c. 25, s. 34]
+
+- (h) constituting directives to the trade.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 118; 1998, c. 17, s. 32, c. 22, s. 25(F); 2011, c. 25, s. 34; 2012, c. 31, s. 389
+
+</details>
+
+### 118.1 Incorporation by reference — Commission
+
+(1) A regulation made by the Commission under this Act may incorporate by reference any document, regardless of its source, either as it exists on a particular date or as it is amended from time to time.
+
+**Accessibility**
+
+(2) The Commission shall ensure that any document that is incorporated by reference in a regulation made by it under this Act, including any amendments to the document, is accessible.
+
+**Defence**
+
+(3) A person is not liable to be found guilty of an offence for any contravention in respect of which a document that is incorporated by reference in a regulation made by the Commission under this Act is relevant unless, at the time of the alleged contravention, the document was accessible as required by subsection (2) or it was otherwise accessible to the person.
+
+**No registration or publication**
+
+(4) For greater certainty, a document that is incorporated by reference in a regulation made by the Commission under this Act is not required to be transmitted for registration or published in the *Canada Gazette* by reason only that it is incorporated by reference.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, c. 1, s. 69
+
+</details>
+
+### Her Majesty
+
+### 119 Binding on Her Majesty
+
+This Act is binding on Her Majesty in right of Canada or a province.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 101
+
+</details>
+
+### Changes in Grades
+
+### 120 Changes in grades
+
+Where any grade of grain or screenings is varied or discontinued or any grain is removed from the operation of this Act
+
+- (a) the holder of an elevator receipt for any grain or screenings of a kind or grade so varied, discontinued or removed from the operation of this Act is entitled, subject to any other provisions of this Act, on presentation of the elevator receipt and payment of the charges accrued under this Act to delivery, in accordance with the elevator receipt, of grain or screenings of the varied or discontinued grade or to grain of the kind that has been removed from the operation of this Act; and
+
+- (b) the Commission shall, on request of an owner of grain or screenings, to enable the owner to meet the requirements of an agreement made in respect of the grain or screenings prior to the coming into force of the variation, discontinuance or removal, grade the grain or screenings on the basis of the grade that has been varied or discontinued or grade the grain that has been removed from the operation of this Act as if it had not been so removed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, s. 120; R.S., 1985, c. 37 (4th Supp.), s. 30
+
+</details>
+
+### Review and Report
+
+### 120.1 Review and report
+
+Within a year after the coming into force of this section, the Minister shall cause
+
+- (a) an independent and comprehensive review of the Commission and of the provisions and operation of this Act to be conducted; and
+
+- (b) a report on the review to be laid before each House of Parliament, including a statement of any changes recommended by the authors of the review.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 24, s. 2.1
+
+</details>
+
+## Coming into Force
+
+### [^]121 Commencement
+
+(1) Paragraphs (d) and (e) of the definition **elevator** in section 2 and subsections 55(2) and (3) or any of those provisions shall come into force on a day or days to be fixed by proclamation.
+
+**Idem**
+
+(2) A proclamation bringing into force paragraph (d) or (e) of the definition **elevator** in section 2 or subsection 55(2) or (3) shall fix as the day on which such paragraph or subsection is to come into force a day that is not earlier than six months after the day the issue of the proclamation is authorized.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, c. 7, s. 116
+
+</details>
+
+
+## SCHEDULES I AND II
+
+
+## RELATED PROVISIONS
+
+### — 2012, c. 31, s. 405
+
+### 405 Transfer elevators
+
+As of the day on which subsection 351(1) comes into force, any reference to a transfer elevator is to be read as a reference to a terminal elevator in any order, licence, elevator receipt or other document made or issued under the *Canada Grain Act*.
+
+### — 2012, c. 31, s. 406
+
+### 406 Appeals
+
+Despite sections 358 and 359, sections 39 to 41 of the *Canada Grain Act*, as they read immediately before the day on which section 358 comes into force, continue to apply in relation to official inspections made under that Act before that day, and the mandate of the members of the grain appeal tribunals is extended for that purpose and the members continue to receive the allowance and expenses to which they are entitled.
+
+### — 2012, c. 31, s. 407
+
+### 407 New security
+
+Every licensee who has given security under the *Canada Grain Act* before the coming into force of section 362, shall obtain security as required by subsection 45.1(1), as enacted by that section, within 90 days after the day on which section 362 comes into force.
+
+### — 2012, c. 31, s. 408
+
+### 408 Security
+
+Security given under the *Canada Grain Act* before the day on which section 362 comes into force may be retained for the duration of its validity but in no case for no more than 90 days from the day on which that section comes into force and used for any purpose for which it was given.
+
+### — 2012, c. 31, s. 409
+
+### 409 No transfer from holder to holder
+
+An elevator receipt issued by the operator of a licensed transfer elevator in the form prescribed under the *Canada Grain Act* that has clearly appearing on the face of it the words “Not Negotiable” before the day on which section 385 comes into force is not to be transferred from holder to holder by the endorsement and delivery of the document to the endorsee.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2014, c. 8, ss. 14(1), (2)
+
+### 14 1998, c. 22
+
+(1) In this section, “other Act” means *An Act to amend the Canada Grain Act and the Agriculture and Agri-Food Administrative Monetary Penalties Act and to repeal the Grain Futures Act*, chapter 22 of the Statutes of Canada, 1998.
+
+(2) If section 4 of this Act comes into force before section 21 of the other Act, then, on the day on which that section 21 comes into force, subsection 95(1) of the *Canada Grain Act* is amended by adding the following after paragraph (a):

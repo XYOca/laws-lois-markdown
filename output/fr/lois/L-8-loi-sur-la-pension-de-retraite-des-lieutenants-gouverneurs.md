@@ -1,0 +1,329 @@
+---
+title: "Loi sur la pension de retraite des lieutenants-gouverneurs"
+long_title: "Loi prévoyant le paiement de prestations de retraite aux lieutenants-gouverneurs"
+chapter: "L-8"
+language: "en"
+type: "act"
+---
+
+# Loi sur la pension de retraite des lieutenants-gouverneurs
+
+> Loi prévoyant le paiement de prestations de retraite aux lieutenants-gouverneurs
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur la pension de retraite des lieutenants-gouverneurs*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1974-75-76, ch. 73, art. 1
+
+</details>
+
+## Définitions
+
+### 2 Définitions
+
+Les définitions qui suivent s’appliquent à la présente loi.
+
+**contributeur** Lieutenant-gouverneur qui est tenu, aux termes du paragraphe 4(1), de contribuer au Trésor, y compris :
+  - a) un lieutenant-gouverneur qui n’est plus tenu, en vertu du paragraphe 4(2), d’y contribuer;
+  - b) un lieutenant-gouverneur qui a cessé d’occuper le poste de lieutenant-gouverneur d’une province et qui a acquis le droit à une pension immédiate ou à une pension différée en vertu de la présente loi. (**contributor**)
+
+**invalide** Relativement à un contributeur, personne atteinte d’une infirmité permanente qui la rend incapable d’exercer les fonctions de sa charge ou d’exercer régulièrement une occupation sensiblement rémunératrice correspondant à ses qualifications. (**disabled**)
+
+**lieutenant-gouverneur** Personne qui occupe la charge de lieutenant-gouverneur d’une province au 2 décembre 1975 ou ultérieurement. (**Lieutenant Governor**)
+
+**pension différée** Pension qui devient payable à une personne au moment où celle-ci atteint l’âge de soixante ans. (**deferred pension**)
+
+**pension immédiate** Pension qui devient payable à une personne dès le moment où celle-ci y devient admissible. (**immediate pension**)
+
+**survivant** Personne qui, selon le cas :
+  - a) était unie par les liens du mariage :
+    - (i) à un lieutenant-gouverneur, actuel ou ancien, à son décès,
+    - (ii) à un ancien lieutenant-gouverneur au moment où il a perdu sa qualité de lieutenant-gouverneur;
+  - b) établit qu’elle cohabitait dans une union de type conjugal :
+    - (i) depuis au moins un an avec un lieutenant-gouverneur, actuel ou ancien, à son décès,
+    - (ii) avec un ancien lieutenant-gouverneur, au moment où il a perdu sa qualité de lieutenant-gouverneur. (**survivor**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. L-8, art. 2; 2000, ch. 12, art. 170; 2002, ch. 17, art. 17
+
+</details>
+
+## Pension de retraite
+
+### Prestations
+
+### 3 Pension versée au lieutenant-gouverneur
+
+(1) Sous réserve des autres dispositions de la présente loi, tout contributeur qui a contribué sous le régime de la présente loi pour cinq années de service en qualité de lieutenant-gouverneur d’une province :
+
+- a) a droit, lorsqu’il cesse d’occuper la charge de lieutenant-gouverneur d’une province :
+  - (i) s’il a atteint l’âge de soixante ans ou s’il est invalide, à une pension immédiate calculée conformément au paragraphe (2),
+  - (ii) s’il n’a pas atteint l’âge de soixante ans, sous réserve du paragraphe (3) :
+    - (A) soit à une pension différée, calculée conformément au paragraphe (2),
+    - (B) soit au remboursement intégral des contributions qu’il a faites sous le régime de la présente partie, plus les intérêts, s’il en est, calculés en application du paragraphe (5),
+
+- b) a droit, s’il devient invalide avant d’atteindre l’âge de soixante ans mais après avoir acquis le droit à une pension différée, à une pension immédiate calculée conformément au paragraphe (2) au lieu de la pension différée visée à la division a)(ii)(A).
+
+**Montant de la pension**
+
+(2) Sous réserve des autres dispositions de la présente loi, la pension à laquelle un contributeur a droit en vertu du présent article est égale aux trois dixièmes du traitement moyen que celui-ci a reçu pendant ses cinq dernières années de service en qualité de lieutenant-gouverneur d’une province.
+
+**Présomption de choix**
+
+(3) Lorsqu’un contributeur a droit, en vertu du paragraphe (1), à une pension différée ou à un remboursement de contributions, à son choix, et qu’il n’exerce pas ce choix dans les six mois qui suivent la date à laquelle il a cessé d’occuper la charge de lieutenant-gouverneur d’une province, il est réputé avoir choisi une pension différée.
+
+**Remboursement des contributions au lieutenant-gouverneur à la cessation des fonctions**
+
+(4) Tout contributeur qui n’a pas droit à une pension en vertu du paragraphe (1) au moment où il cesse d’occuper la charge de lieutenant-gouverneur d’une province a droit, lorsqu’il cesse d’occuper cette charge, au remboursement intégral des contributions qu’il a faites sous le régime de la présente partie, plus les intérêts, s’il en est, calculés en application du paragraphe (5).
+
+**Intérêts**
+
+(5) Lorsque, après le 31 décembre 1975, un contributeur, son survivant ou sa succession acquiert, en vertu des paragraphes (1) ou (4), ou des articles 8 ou 9, le droit de toucher une part quelconque des contributions faites par le contributeur sous le régime de la présente partie, le président du Conseil du Trésor calcule :
+
+- a) pour chaque année, appelée au présent paragraphe « année de contribution », le total des contributions faites par le contributeur sous le régime de la présente partie;
+
+- b) au taux de quatre pour cent l’an, les intérêts composés sur le total visé à l’alinéa a), du 31 décembre de l’année de contribution au 31 décembre précédant la cessation par le contributeur des fonctions de lieutenant-gouverneur d’une province.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. L-8, art. 3; 2000, ch. 12, art. 171; 2002, ch. 17, art. 18
+
+</details>
+
+### Contributions
+
+### 4 Contribution du lieutenant-gouverneur
+
+(1) Tout lieutenant-gouverneur contribue au Trésor à raison de six pour cent de son traitement, par retenue sur ce dernier.
+
+**Contributions non requises**
+
+(2) Nonobstant toute autre disposition de la présente partie, nul contributeur n’est tenu de contribuer ainsi que l’exige le paragraphe (1) après qu’il a contribué sous le régime de la présente loi pour un total de cinq années de service en qualité de lieutenant-gouverneur d’une province.
+
+***Loi de l’impôt sur le revenu***
+
+(3) Pour l’application de la *Loi de l’impôt sur le revenu*, toute contribution d’un lieutenant-gouverneur en vertu du paragraphe (1) est présumée être une cotisation à un régime de pension agréé.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. L-8, art. 4; 1999, ch. 31, art. 242
+
+</details>
+
+### Choix de ne pas contribuer
+
+### 5 Choix de ne pas contribuer sous le régime de l’art. 4
+
+(1) Un lieutenant-gouverneur peut choisir, par écrit, dans les six mois qui suivent sa nomination au poste de lieutenant-gouverneur d’une province, de ne pas contribuer sous le régime de l’article 4 et, s’il fait ce choix, il n’est pas tenu, nonobstant l’article 4, de contribuer sous le régime de cet article.
+
+**Remboursement des contributions**
+
+(2) Un lieutenant-gouverneur qui a fait un choix en vertu du présent article et qui a fait des contributions en application des articles 4 ou 13 a droit au remboursement intégral de ces contributions, sans intérêt.
+
+**Le choix est irrévocable**
+
+(3) Un choix fait en vertu du présent article est irrévocable.
+
+**Cas où les articles 3, 4, 7, 8 et 8.1 ne s’appliquent pas**
+
+(4) Les articles 3 et 4 ne s’appliquent pas à un lieutenant-gouverneur qui a fait un choix en vertu du présent article et les articles 7, 8 et 8.1 ne s’appliquent pas au survivant d’un lieutenant-gouverneur qui a fait un tel choix.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. L-8, art. 5; 2000, ch. 12, art. 172
+
+</details>
+
+### Distraction de versements
+
+### 6 Distraction de versements pour exécution d’une ordonnance de soutien financier
+
+(1) Lorsqu’un tribunal compétent au Canada a rendu une ordonnance enjoignant à un ancien lieutenant-gouverneur de fournir un soutien financier, les sommes qui sont payables à celui-ci sous le régime de la présente partie peuvent être distraites pour versement à la personne nommée dans l’ordonnance en conformité avec la partie II de la *Loi sur la saisie-arrêt et la distraction de pensions*.
+
+**Versements réputés avoir été faits à un prestataire de pension**
+
+(2) Pour l’application de la présente partie, tout versement fait en vertu du paragraphe (1) est réputé avoir été fait à l’ancien lieutenant-gouverneur visé à ce paragraphe.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. L-8, art. 6; 2000, ch. 12, art. 173
+
+</details>
+
+### Conjoints survivants
+
+### 7 Pension du conjoint survivant
+
+(1) Au décès d’un contributeur qui a cessé d’occuper la charge de lieutenant-gouverneur d’une province mais qui a le droit de toucher une pension immédiate ou une pension différée en vertu de l’article 3, il est payé au conjoint survivant, si celui-ci était son conjoint au moment où il a cessé d’occuper la charge de lieutenant-gouverneur d’une province, une pension égale à la moitié de la pension immédiate ou de la pension différée à laquelle le contributeur avait droit en vertu de cet article.
+
+**Idem**
+
+(2) Lorsqu’un contributeur qui, en vertu du paragraphe 4(2), n’est plus tenu de contribuer en conformité avec le paragraphe 4(1) meurt pendant qu’il occupe la charge de lieutenant-gouverneur d’une province, il est payé au conjoint survivant une pension égale à la moitié de la pension immédiate ou de la pension différée à laquelle le contributeur aurait eu droit en vertu de l’article 3 s’il avait, immédiatement avant son décès, pour quelque raison, cessé d’occuper la charge de lieutenant-gouverneur de cette province.
+
+**Versement initial de la pension au conjoint survivant**
+
+(3) Le paiement de la pension payable, en vertu du présent article, au conjoint survivant d’un contributeur, commence immédiatement après le décès du contributeur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1974-75-76, ch. 73, art. 6
+
+</details>
+
+### 8 Remboursement des contributions au conjoint survivant
+
+Lorsqu’un contributeur meurt pendant qu’il occupe la charge de lieutenant-gouverneur d’une province, et que le conjoint survivant n’a pas droit à une pension aux termes de l’article 7, il est payé au conjoint survivant le montant intégral des contributions faites par le contributeur sous le régime de la présente partie, plus les intérêts, s’il en est, calculés en application du paragraphe 3(5).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1974-75-76, ch. 73, art. 7
+
+</details>
+
+### 8.1 Choix pour un ancien lieutenant-gouverneur
+
+(1) Un ancien lieutenant-gouverneur peut, lorsque la personne à qui il est marié ou avec laquelle il cohabite dans une union de type conjugal depuis au moins un an n’aurait pas droit au versement d’une pension en vertu de l’article 7, choisir, conformément aux règlements, de réduire le montant de sa pension afin que la personne puisse avoir droit à une pension en vertu du paragraphe (2).
+
+**Paiement**
+
+(2) La personne qui était mariée à l’ancien lieutenant-gouverneur ou cohabitait avec lui dans une union de type conjugal depuis au moins un an à la date du choix effectué en application du paragraphe (1) et à la date de son décès, a droit à une pension d’un montant déterminé suivant le choix et les règlements, pourvu que ce choix ne soit pas révoqué ou réputé avoir été révoqué.
+
+**Absence de droits concurrents**
+
+(3) La personne qui a droit à une pension aux termes de l’article 7 après le décès de l’ancien lieutenant-gouverneur n’a pas droit de recevoir une pension à l’égard de celui-ci en vertu du paragraphe (2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2000, ch. 12, art. 174; 2004, ch. 16, art. 18
+
+</details>
+
+### Prestation consécutive au décès
+
+### 9 Excédent
+
+Quand, au décès d’un contributeur, il n’y a pas de conjoint survivant à qui une pension peut être payée ou un remboursement de contributions être fait en vertu de la présente loi, ou quand une personne qui a droit à une pension en vertu de la présente loi en tant que conjoint survivant d’un contributeur meurt, tout excédent du total des contributions faites par le contributeur sous le régime de la présente partie, plus les intérêts, s’il en est, calculés en application du paragraphe 3(5), sur le montant total payé au contributeur et au conjoint survivant en vertu de la présente partie, est versé, à titre de prestation consécutive au décès, à sa succession ou, s’il s’agit d’une somme inférieure à mille dollars, ainsi que peut l’ordonner le président du Conseil du Trésor.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1974-75-76, ch. 73, art. 10
+
+</details>
+
+### Paiements
+
+### 10 Paiements sur le Trésor
+
+(1) Les pensions et remboursements de contributions payables en vertu de la présente loi sont payés sur le Trésor.
+
+**Paiement des pensions**
+
+(2) Lorsqu’une pension devient payable en vertu de la présente loi, elle est payée :
+
+- a) par versements mensuels égaux, à terme échu;
+
+- b) sous réserve de l’alinéa c), au prorata pour toute période de moins d’un mois;
+
+- c) sous réserve des autres dispositions de la présente loi, durant toute la vie du prestataire et après son décès, jusqu’à la fin du mois au cours duquel il meurt.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1974-75-76, ch. 73, art. 8
+
+</details>
+
+### Règlements
+
+### 11 Règlements
+
+Le gouverneur en conseil peut, par règlement :
+
+- a) prescrire les conditions auxquelles un contributeur peut payer par versements pour toute période de service et le mode de détermination :
+  - (i) des montants à retenir sur toute somme payable à un contributeur par Sa Majesté du chef du Canada, y compris toute pension payable au contributeur en vertu de la présente loi,
+  - (ii) des sommes à recouvrer par retenue sur toute pension payable au survivant d’un contributeur en vertu de la présente loi,
+  relativement aux versements non acquittés;
+
+- b) prescrire l’examen médical à effectuer pour déterminer si un contributeur est invalide;
+
+- c) prévoir des formulaires pour l’application de la présente loi;
+
+- d) prendre des mesures relatives au choix visé à l’article 8.1, notamment en ce qui concerne :
+  - (i) la question de savoir à quel moment, de quelle manière et dans quelles circonstances le choix peut être effectué, révoqué ou réputé avoir été révoqué,
+  - (ii) la réduction de pension de l’ancien lieutenant-gouverneur lorsqu’un choix a été effectué,
+  - (iii) le montant de la pension payable en vertu du paragraphe 8.1(2),
+  - (iv) toute autre mesure qu’il estime nécessaire à l’application de l’article 8.1.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. L-8, art. 11; 2000, ch. 12, art. 175
+
+</details>
+
+## Contributions relatives aux prestations de retraite supplémentaires
+
+### 12 Définition de « compte de prestations de retraite supplémentaires »
+
+Dans la présente partie, **compte de prestations de retraite supplémentaires** désigne le compte ouvert parmi les comptes du Canada en application de la *Loi sur les prestations de retraite supplémentaires*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1974-75-76, ch. 73, art. 12
+
+</details>
+
+### 13 Contributions
+
+Tout contributeur, à l’exception d’un contributeur qui a cessé d’occuper la charge de lieutenant-gouverneur d’une province, est tenu de contribuer au compte de prestations de retraite supplémentaires, par retenue sur son traitement :
+
+- a) avant 1977, à raison d’un demi pour cent de son traitement;
+
+- b) à compter du mois de janvier 1977, à raison d’un pour cent de son traitement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1974-75-76, ch. 73, art. 13
+
+</details>
+
+### 14 *Loi de l’impôt sur le revenu*
+
+Pour l’application de la *Loi de l’impôt sur le revenu*, toute contribution d’un contributeur en vertu de l’article 13 est présumée être une cotisation à un régime de pension agréé.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. L-8, art. 14; 1999, ch. 31, art. 243
+
+</details>
+
+### 15 Montant à porter au crédit du compte de prestations de retraite supplémentaires
+
+Lorsqu’une somme est versée au compte de prestations de retraite supplémentaires en application de l’article 13, une somme égale à la somme ainsi versée est portée au crédit de ce compte.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1974-75-76, ch. 73, art. 15
+
+</details>

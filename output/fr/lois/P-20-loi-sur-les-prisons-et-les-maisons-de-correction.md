@@ -1,0 +1,362 @@
+---
+title: "Loi sur les prisons et les maisons de correction"
+long_title: "Loi concernant les prisons et maisons de correction"
+chapter: "P-20"
+language: "en"
+type: "act"
+---
+
+# Loi sur les prisons et les maisons de correction
+
+> Loi concernant les prisons et maisons de correction
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur les prisons et les maisons de correction*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. P-21, art. 1
+
+</details>
+
+## Définitions
+
+### 2 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente loi.
+
+**autorité compétente** Personne ou organisme désigné au titre de l’article 7.2. (**designated authority**)
+
+**condamné à la prison** Condamné à la prison ou envoyé dans une prison. (French version only)
+
+**lieutenant-gouverneur** Le lieutenant-gouverneur en conseil. (**lieutenant governor**)
+
+**ministre**[Abrogée, 1995, ch. 42, art. 79]
+
+**peine** S’entend notamment d’une peine spécifique infligée en vertu de la *Loi sur le système de justice pénale pour les adolescents*, laquelle comprend la partie purgée sous garde et celle purgée sous surveillance au sein de la collectivité en application de l’alinéa 42(2)n) de cette loi ou en liberté sous condition en application des alinéas 42(2)o), q) ou r) de cette loi. (**sentence**)
+
+**prison** Lieu de détention à l’exclusion d’un pénitencier au sens de la partie I de la *Loi sur le système correctionnel et la mise en liberté sous condition*. (**prison**)
+
+**prisonnier** Individu incarcéré dans une prison soit par suite d’une condamnation pour infraction aux lois fédérales ou à leurs règlements d’application, soit pour avoir omis ou refusé de contracter un engagement aux termes de l’un des articles 83.3 et 810 à 810.2 du *Code criminel*, à l’exception :
+  - a) de l’enfant, au sens de la *Loi sur les jeunes délinquants*, chapitre J-3 des Statuts revisés du Canada de 1970, dans sa version antérieure au 2 avril 1984, qui n’a pas fait l’objet de l’ordre visé à l’article 9 de cette loi;
+  - b) de l’adolescent, au sens de la *Loi sur le système de justice pénale pour les adolescents*, qui n’a pas fait l’objet d’une ordonnance, d’une détention ou d’un ordre visés à l’alinéa 76(1)a) ou aux articles 89, 92 ou 93 de cette loi. (**prisoner**)
+
+**Détention légitime**
+
+(2) Pour l’application de la présente loi ou de toute autre loi fédérale, le prisonnier qui se trouve temporairement hors d’une prison, mais placé directement sous la responsabilité ou la surveillance d’un fonctionnaire ou employé d’une prison, est en détention légitime.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. P-20, art. 2; L.R. (1985), ch. 35 (2^e^ suppl.), art. 29; 1992, ch. 20, art. 216; 1995, ch. 42, art. 79; 1997, ch. 2, art. 1, ch. 17, art. 39; 2002, ch. 1, art. 196; 2012, ch. 1, art. 198; 2015, ch. 20, art. 29, ch. 29, art. 13
+
+</details>
+
+## Application
+
+### 2.1 Application
+
+Il demeure entendu que la présente loi s’applique à Terre-Neuve-et-Labrador.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, ch. 42, art. 80; 2015, ch. 3, art. 172
+
+</details>
+
+## Incarcération et transfèrement des prisonniers
+
+### 3 Mandat de dépôt
+
+Malgré les dispositions du *Code criminel*, est considéré comme légal le mandat de dépôt qui stipule que l’individu en faisant l’objet a été condamné à la prison pour la durée mentionnée sans préciser le nom de l’établissement.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. P-21, art. 3; 1976-77, ch. 53, art. 45
+
+</details>
+
+### 4
+
+(1) [Abrogé, L.R. (1985), ch. 35 (2^e^ suppl.), art. 30]
+
+**Transfèrement interprovincial**
+
+(2) Les gouvernements provinciaux peuvent conclure entre eux des accords prévoyant le transfèrement de prisonniers d’une province à l’autre.
+
+**Effet du transfèrement**
+
+(3) Les prisonniers transférés conformément aux accords prévus au paragraphe (2) sont réputés être en détention légale dans la prison de destination; ils sont assujettis aux lois, règlements et règles en vigueur dans celle-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. P-20, art. 4; L.R. (1985), ch. 35 (2^e^ suppl.), art. 30
+
+</details>
+
+### 5
+
+(1) et (2) [Abrogés, 1992, ch. 20, art. 205]
+
+**Effet du transfèrement**
+
+(3) Les personnes transférées conformément au présent article ou en vertu d’autres accords autorisés par la loi sont réputées être en détention légale dans la prison de destination; elles sont assujetties aux lois, règlements et règles en vigueur dans celle-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. P-20, art. 5; L.R. (1985), ch. 35 (2^e^ suppl.), art. 31; 1992, ch. 20, art. 205; 1995, ch. 42, art. 81
+
+</details>
+
+## Réduction de peine méritée
+
+### 6 Réduction de peine
+
+(1) Sauf en cas de peine d’emprisonnement infligée à titre de sanction d’un outrage au tribunal en matière civile ou pénale lorsque le prisonnier est tenu par une condition de sa sentence de retourner devant ce tribunal, tout prisonnier, sous réserve du paragraphe (7.2), se voit accorder quinze jours de réduction de peine pour chaque mois au cours duquel il observe les règlements de la prison et les conditions d’octroi des permissions de sortir et participe aux programmes, à l’exception de la libération conditionnelle totale, favorisant sa réadaptation et sa réinsertion sociale, comme le prévoient les règlements pris à cet effet par le lieutenant-gouverneur de la province où il est incarcéré; pour les fractions de mois, le nombre de jours de réduction de peine se calcule au prorata.
+
+**Périodicité**
+
+(2) La première réduction de peine est accordée au plus tard à la fin du mois qui suit celui où le prisonnier a été écroué; les réductions ultérieures interviennent à des intervalles d’au plus trois mois.
+
+**Idem**
+
+(3) Pour les prisonniers écroués avant le 1^er^ juillet 1978, la date de la première réduction de peine est le 31 août 1978, les intervalles de réduction ultérieure se calculant à compter de cette date.
+
+**Déchéance**
+
+(4) La réduction de peine méritée après le 1^er^ juillet 1978 et dont bénéficiait un prisonnier qui enfreint par la suite les règles de la prison peut, à l’appréciation de la personne qui constate la violation, être annulée, en tout ou en partie.
+
+**Idem**
+
+(4.1) Lorsque la libération conditionnelle d’un prisonnier est révoquée en vertu de la *Loi sur le système correctionnel et la mise en liberté sous condition*, toute réduction de peine dont celui-ci bénéficiait est annulée.
+
+**Idem**
+
+(4.2) Lorsqu’il est mis fin à la libération conditionnelle d’un prisonnier en vertu de la *Loi sur le système correctionnel et la mise en liberté sous condition*, celui-ci continue de bénéficier de la réduction de peine qu’il a méritée en vertu de la présente loi.
+
+**Conséquence de la réduction de peine**
+
+(5) La réduction appliquée à la peine que le prisonnier, sauf celui à qui s’applique le paragraphe 127(1) de la *Loi sur le système correctionnel et la mise en liberté sous condition*, est en train de purger lui donne le droit d’être mis en liberté avant l’expiration légale de sa peine.
+
+**Transfèrement du pénitencier à la prison**
+
+(6) Le prisonnier transféré du pénitencier à la prison, autrement qu’en vertu d’un accord autorisé par le paragraphe 16(1) de la *Loi sur le système correctionnel et la mise en liberté sous condition*, bénéficie sur la partie de la peine d’emprisonnement qu’il a purgée au pénitencier de la réduction maximale de peine prévue au présent article comme s’il avait purgé cette partie de peine en prison.
+
+**Idem**
+
+(7) Le prisonnier transféré du pénitencier à la prison en vertu d’un accord autorisé par le paragraphe 16(1) de la *Loi sur le système correctionnel et la mise en liberté sous condition* a le droit d’être libéré conformément à l’article 127 de cette loi après avoir purgé la partie de la peine qu’il aurait dû purger en vertu de cet article et la période d’incarcération correspondant à la réduction de peine qui ne lui a pas été accordée ou a été annulée et ne lui a pas été réattribuée aux termes de la présente loi.
+
+**Transfèrement des adolescents à la prison**
+
+(7.1) Le prisonnier transféré d’un lieu de garde à la prison en application de l’article 743.5 du *Code criminel* bénéficie sur la partie de la peine qu’il a purgée dans le lieu de garde de la réduction maximale de peine prévue au présent article comme s’il avait purgé cette partie de peine dans une prison.
+
+**Date de mise en liberté**
+
+(7.2) Le prisonnier assujetti à une peine spécifique consistant en une mesure de placement sous garde en application des alinéas 42(2)n), o), q) ou r) de la *Loi sur le système de justice pénale pour les adolescents* qui est transféré d’un lieu de garde à la prison en vertu des articles 92 ou 93 de cette loi ou qui est condamné à la prison en application de l’article 89 de cette loi, a droit d’être mis en liberté à la date d’expiration de la période de garde de la peine spécifique visée aux alinéas 42(2)n), o), q) ou r) de cette loi.
+
+**Effet de la libération**
+
+(7.3) Le prisonnier détenu ou transféré en application des articles 89, 92 ou 93 de la *Loi sur le système de justice pénale pour les adolescents* et qui, en application du paragraphe (7.2), a le droit d’être mis en liberté est assujetti :
+
+- a) si la peine est imposée en application de l’alinéa 42(2)n) de la *Loi sur le système de justice pénale pour les adolescents*, aux articles 97 à 103 de cette loi — avec les adaptations nécessaires — en ce qui concerne le reste de la peine;
+
+- b) si la peine est imposée en application des alinéas 42(2)o), q) ou r) de cette loi, aux articles 104 à 109 de cette loi — avec les adaptations nécessaires — en ce qui concerne le reste de la peine.
+
+**Réattribution de la réduction de peine**
+
+(8) Le directeur de la prison peut réattribuer toute réduction de peine qui a été annulée en vertu du paragraphe (4).
+
+**Idem**
+
+(9) La Commission des libérations conditionnelles du Canada ou une commission provinciale des libérations conditionnelles peut réattribuer toute réduction de peine qui a été annulée en vertu du paragraphe (4.1).
+
+**Suspension et révocation de la libération conditionnelle**
+
+(10) Lorsqu’un prisonnier est réincarcéré à la suite de la suspension de sa libération conditionnelle et que celle-ci est subséquemment révoquée, celui-ci se voit accorder une réduction de peine pour la partie de sa peine qu’il a purgée pendant la suspension.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. P-20, art. 6; L.R. (1985), ch. 35 (2^e^ suppl.), art. 32; 1992, ch. 20, art. 206; 1995, ch. 42, art. 82; 2002, ch. 1, art. 197; 2012, ch. 1, art. 160 et 199
+
+</details>
+
+## Permissions de sortir
+
+### Objet et principes
+
+### 7 Objet
+
+Les programmes de permissions de sortir visent à contribuer au maintien d’une société juste, paisible et sûre en favorisant, par la prise de décisions appropriées quant au moment et aux conditions de leur sortie, la réadaptation et la réinsertion sociale des prisonniers en tant que citoyens respectueux des lois.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. P-20, art. 7; 1992, ch. 20, art. 207; 1995, ch. 42, art. 71(F) et 72(F); 1997, ch. 2, art. 2
+
+</details>
+
+### 7.1 Principes
+
+L’autorité compétente est guidée dans l’exécution de son mandat par les principes qui suivent :
+
+- a) le règlement de chaque cas doit, compte tenu de la protection de la société et de la réadaptation et de la réinsertion sociale du prisonnier, être le moins restrictif possible;
+
+- b) elle doit tenir compte de toute l’information pertinente disponible;
+
+- c) elle doit, de manière à assurer l’équité et la clarté du processus, donner au prisonnier les motifs de la décision, ainsi que tous autres renseignements pertinents, et la possibilité de la faire réviser;
+
+- d) elle doit faire l’échange, au moment opportun, des renseignements utiles dont elle dispose avec les autres éléments du système de justice pénale et tenir ses directives et programmes de permissions de sortir à la disposition des prisonniers, des victimes et du public.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 2, art. 2
+
+</details>
+
+### Autorité compétente
+
+### 7.2 Désignation par le lieutenant-gouverneur
+
+(1) Pour l’application de la présente loi, chaque lieutenant-gouverneur peut désigner, pour sa province, les personnes ou organismes responsables de l’octroi des permissions de sortir.
+
+**Approbation de la commission provinciale des libérations conditionnelles**
+
+(2) Le lieutenant-gouverneur d’une province pour laquelle a été instituée une commission provinciale des libérations conditionnelles peut décréter que seule cette commission peut autoriser et approuver les permissions de sortir sans escorte hors d’une prison de cette province.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 2, art. 2
+
+</details>
+
+### Modalités d’octroi
+
+### 7.3 Octroi
+
+(1) L’autorité compétente peut accorder à un prisonnier une permission de sortir avec ou sans escorte, assortie des conditions qu’elle peut fixer, si elle l’estime souhaitable :
+
+- a) pour des raisons médicales ou humanitaires;
+
+- b) pour la réadaptation ou la réinsertion sociale du prisonnier;
+
+- c) pour les mêmes raisons que celles pouvant être prévues au titre d’une loi de la province relativement à l’octroi de permissions de sortir, dans la mesure où elles sont conformes à l’énoncé d’objet et aux principes prévus aux articles 7 et 7.1.
+
+**Critères d’admissibilité**
+
+(2) Elle accorde cette permission en appliquant les mêmes critères d’admissibilité que ceux établis, le cas échéant, sous le régime d’une telle loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 2, art. 2
+
+</details>
+
+### 7.4 Durée de la permission : général
+
+(1) La permission de sortir est accordée pour une période maximale de soixante jours; elle peut être renouvelée pour des périodes additionnelles d’au plus soixante jours chacune après réexamen du dossier.
+
+**Durée de la permission : raisons médicales**
+
+(2) La permission de sortir pour des raisons médicales peut être accordée pour une période indéfinie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 2, art. 2
+
+</details>
+
+### Suspension, annulation et révocation
+
+### 7.5 Motifs
+
+L’autorité compétente peut, soit avant, soit après la sortie du prisonnier, suspendre, annuler ou révoquer la permission de sortir dans les cas suivants :
+
+- a) la suspension, l’annulation ou la révocation paraît nécessaire et justifiée par suite de la violation d’une des conditions, ou pour empêcher une telle violation;
+
+- b) les motifs de la décision d’accorder la permission ont changé ou n’existent plus;
+
+- c) on a procédé au réexamen du dossier à la lumière de renseignements qui n’auraient pu raisonnablement être communiqués lors de l’octroi de la permission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 2, art. 2
+
+</details>
+
+### 7.6 Arrestation et incarcération
+
+(1) L’autorité compétente qui suspend, annule ou révoque la permission de sortir du prisonnier, ou la personne qu’elle peut désigner, peut autoriser l’arrestation et l’incarcération de celui-ci par mandat ou par avis de suspension, d’annulation ou de révocation.
+
+**Mandat ou avis**
+
+(2) Le mandat ou l’avis — ou une copie de ceux-ci transmise par moyen électronique — est exécuté par l’agent de la paix destinataire; il peut l’être sur tout le territoire canadien comme s’il avait été initialement délivré ou postérieurement visé par un juge de paix ou une autre autorité légitime du ressort où il est exécuté.
+
+**Arrestation sans mandat ou avis**
+
+(3) L’agent de la paix peut arrêter une personne sans mandat ou avis et la mettre sous garde s’il a des motifs raisonnables de croire qu’un mandat ou un avis a été délivré contre elle en vertu du présent article et est toujours en vigueur.
+
+**Délai d’exécution**
+
+(4) Le mandat ou l’avis — ou une copie de ceux-ci transmise par moyen électronique — est exécuté dans les quarante-huit heures suivant l’arrestation, à défaut de quoi la personne arrêtée en vertu du paragraphe (3) doit être relâchée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 2, art. 2
+
+</details>
+
+### Effet sur la date de libération
+
+### 8 Effet sur la date de libération
+
+Si la date prévue pour sa libération tombe au cours de la période de sortie, le prisonnier est réputé, en ce qui touche les conséquences juridiques de sa libération, avoir été libéré le jour de prise d’effet de la sortie.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. P-21, art. 9; 1976-77, ch. 53, art. 45
+
+</details>
+
+## Jeunes contrevenants
+
+### 9
+
+[Abrogé, L.R. (1985), ch. 24 (2^e^ suppl.), art. 49]
+
+### 10 et 11
+
+[Abrogés, L.R. (1985), ch. 35 (2^e^ suppl.), art. 33]
+
+### 12
+
+[Abrogé, L.R. (1985), ch. 1 (1^er^ suppl.), art. 1]
+
+### 13
+
+[Abrogé, L.R. (1985), ch. 1 (1^er^ suppl.), art. 2]
+
+
+## DISPOSITIONS CONNEXES
+
+### — 1992, ch. 20, par. 218(1)
+
+### 218 Accords fédéro-provinciaux
+
+(1) Les accords conclus au titre de la *Loi sur les pénitenciers* ou de la *Loi sur les prisons et les maisons de correction* toujours valides à l’entrée en vigueur de l’article 214 sont réputés, dans la mesure où ils peuvent être conclus sous le régime des paragraphes 15(3) ou 16(1) de la présente loi, conclus sous le régime de ce paragraphe.

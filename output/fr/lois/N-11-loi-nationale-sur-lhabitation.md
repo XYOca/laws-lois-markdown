@@ -1,0 +1,2135 @@
+---
+title: "Loi nationale sur l’habitation"
+long_title: "Loi favorisant la construction de nouvelles maisons, la réparation et la modernisation de maisons existantes, ainsi que l’amélioration des conditions de logement et de vie"
+chapter: "N-11"
+language: "en"
+type: "act"
+---
+
+# Loi nationale sur l’habitation
+
+> Loi favorisant la construction de nouvelles maisons, la réparation et la modernisation de maisons existantes, ainsi que l’amélioration des conditions de logement et de vie
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi nationale sur l’habitation*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 1
+
+</details>
+
+## Définitions
+
+### 2 Définitions
+
+Les définitions qui suivent s’appliquent à la présente loi.
+
+**association personnalisée** Personne morale dont les propriétaires, membres ou actionnaires ne retirent pas personnellement de bénéfices. (**non-profit corporation**)
+
+**bande indienne**[Abrogée, 1999, ch. 27, art. 1]
+
+**banque**[Abrogée, L.R. (1985), ch. 25 (4^e^ suppl.), art. 1]
+
+**caisse d’assistance locative**[Abrogée, 1999, ch. 27, art. 1]
+
+**communauté urbaine** Groupe formé par une grande ville et une ou plusieurs municipalités limitrophes étroitement associées à elle sur le plan économique. (**metropolitan area**)
+
+**constructeur** Personne qui construit des maisons destinées à la vente ou à la location. (**builder**)
+
+**coût de construction** Ensemble des éléments suivants :
+  - a) le montant le moins élevé du coût ou de la valeur estimative du terrain, ou, s’il s’agit d’un terrain acquis par donation ou legs, sa valeur estimative;
+  - b) les dépenses effectives de construction;
+  - c) les honoraires d’architecte, les frais juridiques et autres ainsi que les frais financiers nécessaires pour achever la maison ou l’ensemble d’habitation;
+  - d) lorsque les travaux sont exécutés par le propriétaire, le montant que la Société peut fixer comme valeur de ces travaux;
+  - e) les frais d’aménagement du terrain et les frais financiers. (**cost of construction**)
+
+**coût de construction d’un logement familial**[Abrogée, 1999, ch. 27, art. 1]
+
+**coût de transformation**[Abrogée, 1999, ch. 27, art. 1]
+
+**ensemble d’habitation**
+  - a) Tout ou partie d’un bâtiment ou d’un ouvrage mobile, destiné à abriter des êtres humains;
+  - b) bien destiné à être amélioré, transformé ou aménagé pour servir à l’habitation ou pour fournir des services liés à celle-ci;
+  - c) bien — notamment terrain, bâtiment, ouvrage mobile et installations publiques ou destinées aux loisirs, au commerce, au stationnement ou à la prestation de services à la collectivité — associé à l’habitation. (**housing project**)
+
+**ensemble d’habitation coopératif**[Abrogée, 1999, ch. 27, art. 1]
+
+**ensemble d’habitation HLM** ou **HLM** Ensemble d’habitation locatif destiné à loger, de façon convenable, sécuritaire et salubre, et en conformité avec les normes approuvées par la Société, des familles à faible revenu ou toutes autres personnes que désigne la Société, eu égard à la pénurie de logements :
+  - a) à son appréciation, dans le cas d’un ensemble d’habitation dont elle est propriétaire;
+  - b) aux termes d’une entente avec le propriétaire, dans le cas contraire. (**low-rental housing project**)
+
+**ensemble d’habitation locatif** Ensemble d’habitation occupé ou destiné à être occupé principalement par une ou plusieurs personnes qui n’en sont pas propriétaires. (**rental housing project**)
+
+**exploitation agricole**[Abrogée, 1999, ch. 27, art. 1]
+
+**famille à faible revenu** Famille dont le revenu familial global est, selon la Société, insuffisant pour lui permettre de louer une habitation proportionnée à ses besoins aux prix pratiqués sur le marché locatif de la région où elle habite. (**family of low income**)
+
+**frais à la charge des emprunteurs**[Abrogée, L.R. (1985), ch. 25 (4^e^ suppl.), art. 1]
+
+**habitation multifamiliale**[Abrogée, 1999, ch. 27, art. 1]
+
+**hypothèque**[Abrogée, 1999, ch. 27, art. 1]
+
+**Indien**[Abrogée, 1999, ch. 27, art. 1]
+
+**logement familial** Logement où une famille peut vivre, dormir, manger et faire la cuisine, et doté d’installations sanitaires, indépendamment de tous autres équipements essentiels partagés avec d’autres logements du même type. (**family housing unit**)
+
+**maison** Tout ou partie d’un bâtiment ou ouvrage mobile, destiné à abriter des êtres humains et contenant au plus deux logements familiaux, ainsi que tous les droits se rattachant à la propriété de celui-ci. (**house**)
+
+**maison jumelée**[Abrogée, L.R. (1985), ch. 25 (4^e^ suppl.), art. 1]
+
+**maison unifamiliale**[Abrogée, L.R. (1985), ch. 25 (4^e^ suppl.), art. 1]
+
+**ministre** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (**Minister**)
+
+**municipalité** Ville, communauté urbaine, village, comté, canton, district, circonscription rurale ou autre circonscription ayant la personnalité morale. (**municipality**)
+
+**organisme agréé de crédit à tempérament**[Abrogée, L.R. (1985), ch. 25 (4^e^ suppl.), art. 1]
+
+**personne** Sont compris parmi les personnes les groupes de personnes, les organisations, les municipalités, ainsi que les ministères et organismes fédéraux et provinciaux. (**person**)
+
+**plan d’urbanisme** Plan directeur de développement local et d’occupation du sol préparé par un service d’urbanisme local et légalement adopté par une municipalité ou en son nom. (**official community plan**)
+
+**prêt à l’amélioration** ou **prêt à l’amélioration de maisons**[Abrogée, L.R. (1985), ch. 25 (4^e^ suppl.), art. 1]
+
+**prêt approuvé**[Abrogée, 1999, ch. 27, art. 1]
+
+**prêt assuré** Prêt qui est assuré par la Société dans le cadre de la partie I. (**insured loan**)
+
+**prêteur**[Abrogée, 1999, ch. 27, art. 1]
+
+**prêteur agréé** Personne agréée conformément à l’article 5. (**approved lender**)
+
+**prêt garanti à l’amélioration** ou **prêt garanti à l’amélioration de maisons**[Abrogée, L.R. (1985), ch. 25 (4^e^ suppl.), art. 1]
+
+**propriétaire**[Abrogée, 1999, ch. 27, art. 1]
+
+**région désignée**[Abrogée, 1999, ch. 27, art. 1]
+
+**règlement**[Abrogée, 2012, ch. 19, art. 350]
+
+**réserve**[Abrogée, 1999, ch. 27, art. 1]
+
+**Société** La Société canadienne d’hypothèques et de logement constituée par la *Loi sur la Société canadienne d’hypothèques et de logement*. (**Corporation**)
+
+**société immobilière à dividendes limités** Personne morale constituée pour construire, détenir et administrer un ensemble d’habitation HLM et dont les dividendes ne peuvent, aux termes de ses statuts ou de son acte constitutif, être supérieurs à cinq pour cent l’an. (**limited-dividend housing company**)
+
+**titre**[Abrogée, L.R. (1985), ch. 25 (4^e^ suppl.), art. 1]
+
+**unité en copropriété**[Abrogée, 1999, ch. 27, art. 1]
+
+**valeur d’emprunt**[Abrogée, 1999, ch. 27, art. 1]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 2; L.R. (1985), ch. 20 (2^e^ suppl.), art. 7, ch. 25 (4^e^ suppl.), art. 1; 1992, ch. 1, art. 142, ch. 32, art. 5; 1994, ch. 35, art. 38; 1999, ch. 27, art. 1; 2012, ch. 19, art. 350
+
+</details>
+
+### 2.1 Assimilation au prêt
+
+(1) Pour l’application de la présente loi, toute opération aux termes de laquelle une personne devient créancière d’une autre est considérée comme un prêt de cette personne à l’autre.
+
+**Assimilation au propriétaire**
+
+(2) Le locataire, l’acheteur aux termes d’une entente et l’occupant sont assimilés au propriétaire si les circonstances sont telles que, de l’avis de la Société, ils devraient être considérés comme tel.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 27, art. 2
+
+</details>
+
+## Objet
+
+### 3 Objet
+
+La présente loi a pour objet, en matière de financement de l’habitation, de favoriser l’accès à une diversité de logements abordables, d’encourager l’accessibilité à des sources de financement ainsi que la concurrence et l’efficience dans ce domaine, d’assurer la disponibilité de fonds suffisants à faible coût et de contribuer à l’essor du secteur de l’habitation au sein de l’économie nationale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 3; 1992, ch. 32, art. 6; 1999, ch. 27, art. 2
+
+</details>
+
+## Droits et obligations de la société
+
+### 4 Droits et obligations de la Société
+
+Les droits et les obligations contractés par la Société aux termes de la présente loi, en son nom ou au nom de Sa Majesté, constituent des droits ou des obligations de Sa Majesté.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 4
+
+</details>
+
+### 4.1
+
+[Abrogé, 1999, ch. 27, art. 3]
+
+## Prêteurs agréés
+
+### 5 Agrément
+
+(1) La Société peut agréer des personnes comme prêteurs pour l’application de la présente loi.
+
+**Durée de validité**
+
+(2) L’agrément ou son renouvellement est valable pour la période fixée par la Société.
+
+**Conditions**
+
+(3) La Société peut, même après l’agrément, fixer des conditions relatives au prêteur agréé.
+
+**Suspension ou annulation**
+
+(4) La Société peut suspendre ou annuler l’agrément.
+
+**Droits**
+
+(5) La Société peut établir le barème des droits exigibles en ce qui a trait à l’agrément et à la surveillance des prêteurs agréés.
+
+**Règlements**
+
+(6) Sur recommandation du ministre des Finances, le gouverneur en conseil peut prendre des règlements concernant l’agrément des prêteurs agréés, y compris des règlements fixant les critères auxquels une personne doit répondre pour pouvoir être agréée comme tel.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 5; L.R. (1985), ch. 25 (4^e^ suppl.), art. 2; 1999, ch. 27, art. 3; 2011, ch. 15, art. 22
+
+</details>
+
+### 6 Pouvoirs des prêteurs agréés
+
+(1) Par dérogation aux dispositions de toute autre loi ou règle de droit limitant ses pouvoirs, le prêteur agréé relevant de la compétence du Parlement peut, sous réserve du paragraphe (2) :
+
+- a) consentir des prêts aux conditions et selon les modalités fixées sous le régime de la présente loi;
+
+- b) acquérir auprès de la Société une obligation garantie en faveur de celle-ci et que la Société elle-même garantit ou assure;
+
+- c) aliéner ou acquérir des prêts assurés, ainsi que la garantie prise à leur égard;
+
+- d) remettre en gage ou nantissement, à la Société ou à un prêteur agréé, un prêt assuré en garantie du remboursement d’une somme empruntée, et emprunter à la Société ou à un prêteur agréé de l’argent sur la garantie d’un prêt assuré;
+
+- e) administrer un prêt assuré pour le détenteur du prêt et au nom de celui-ci;
+
+- f) en conformité avec les conditions et modalités fixées par la Société, agir au nom de celle-ci pour ce qui est de l’exercice des pouvoirs et fonctions qui lui sont conférés par la partie I, et de l’octroi et de l’administration des prêts qu’elle est habilitée à consentir.
+
+**Restriction**
+
+(2) La Société peut restreindre les pouvoirs que le prêteur agréé peut exercer en vertu du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 6; 1999, ch. 27, art. 3
+
+</details>
+
+## Assurance de prêts à l’habitation, garantie et protection
+
+### 7 Définitions
+
+Les définitions qui suivent s’appliquent à la présente partie.
+
+**commissaire de l’Agence de la consommation en matière financière du Canada** Le commissaire de l’Agence de la consommation en matière financière du Canada nommé en vertu de l’article 4 de la *Loi sur l’Agence de la consommation en matière financière du Canada*. (**Commissioner of the Financial Consumer Agency of Canada**)
+
+**gouverneur de la Banque du Canada** Le gouverneur de la Banque du Canada nommé en vertu de l’article 6 de la *Loi sur la Banque du Canada*. (**Governor of the Bank of Canada**)
+
+**président de la Société d’assurance-dépôts du Canada**[Abrogée, 2016, ch. 7, art. 171]
+
+**prêt à l’habitation** S’entend du prêt qui remplit l’une ou l’autre des conditions suivantes :
+  - a) il porte sur un ensemble d’habitation;
+  - b) il est garanti, du moins en partie, par une sûreté visant un ensemble d’habitation ou par un accord relatif à l’usage, l’occupation ou l’aliénation d’un ensemble d’habitation;
+  - c) il est destiné à l’acquisition d’une participation dans une personne qui, directement ou indirectement, est propriétaire d’un ensemble d’habitation, le loue ou l’exploite;
+  - d) il est destiné à refinancer une dette qui, de l’avis de la Société, est liée à un ensemble d’habitation ou à une participation visée à l’alinéa c). (**housing loan**)
+
+**surintendant** Le surintendant des institutions financières nommé en vertu de l’article 5 de la *Loi sur le Bureau du surintendant des institutions financières*. (**Superintendent**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 7; L.R. (1985), ch. 25 (4^e^ suppl.), art. 3; 1992, ch. 32, art. 8(F); 1999, ch. 27, art. 3; 2012, ch. 19, art. 351; 2016, ch. 7, art. 171
+
+</details>
+
+### 7.1 Objet
+
+La Société a pour objet, dans le cadre de l’exercice de ses activités en vertu de la présente partie ou de la partie I.1 :
+
+- a) d’encourager le fonctionnement efficace et la compétitivité du marché du financement de l’habitation;
+
+- b) d’encourager la stabilité du système financier, notamment du marché de l’habitation, et de contribuer à celle-ci;
+
+- c) de tenir dûment compte des risques de pertes que la Société encourt.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 351
+
+</details>
+
+### 8 Assurance des prêts
+
+(1) La Société peut assurer les risques liés à des prêts à l’habitation.
+
+**Bénéficiaires**
+
+(2) L’assurance des prêts à l’habitation, dans le cas des prêteurs, est destinée à les indemniser si les emprunteurs manquent à leurs obligations; les obligations des emprunteurs et des tiers ne sont pas modifiées du fait de l’assurance ou de l’indemnisation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 8; L.R. (1985), ch. 25 (4^e^ suppl.), art. 4; 1999, ch. 27, art. 3
+
+</details>
+
+### 8.1 Règlements du ministre des Finances
+
+(1) Le ministre des Finances peut, après consultation du gouverneur de la Banque du Canada et du surintendant, prendre des règlements concernant des catégories de prêts à l’habitation et les critères applicables aux prêts de chaque catégorie pour que la Société puisse assurer les risques qui leur sont liés.
+
+**Critère concernant les garanties de paiement**
+
+(1.1) Tout critère fixé par règlement en vertu du paragraphe (1) et relatif aux garanties de paiements visées au paragraphe 14(1) peut s’appliquer à un prêt assuré existant.
+
+**Entrée en vigueur**
+
+(2) Le règlement pris en vertu du présent article entre en vigueur à la date de sa publication dans la *Gazette du Canada* ou à la date ultérieure qui y est prévue. Dans les cas où il met en oeuvre une mesure — budgétaire ou non — annoncée publiquement, le règlement peut toutefois avoir un effet rétroactif, s’il comporte une disposition en ce sens, auquel cas il ne peut entrer en vigueur avant la date où la mesure est ainsi annoncée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 25 (4^e^ suppl.), art. 5; 1999, ch. 27, art. 3; 2011, ch. 15, art. 23; 2012, ch. 19, art. 357; 2014, ch. 20, art. 316
+
+</details>
+
+### 8.2 Frais pour risque courus par Sa Majesté
+
+Le ministre des Finances peut imposer à la Société des droits, payables au receveur général du Canada, à titre d’indemnité pour les risques qui découlent de l’assurance liée aux prêts à l’habitation qu’elle fournit et que, en sa qualité de mandataire, elle fait courir à Sa Majesté. Il en avise la Société par écrit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, ch. 15, art. 23
+
+</details>
+
+### 9 Paiements par la Société pour l’achèvement des travaux
+
+Dans les cas où elle a assuré un prêt destiné à financer l’achèvement des travaux relatifs à un ensemble d’habitation ou la fourniture des matériaux pour celui-ci, la Société peut consentir un prêt ou verser des montants pour l’achèvement des travaux, la fourniture des matériaux ou le paiement des créances si les travaux n’ont pas été achevés ou payés ou si les matériaux n’ont pas tous été fournis ou payés.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 9; L.R. (1985), ch. 25 (4^e^ suppl.), art. 6; 1999, ch. 27, art. 3
+
+</details>
+
+### 10 Paiements par la Société en cas de manquement aux obligations
+
+(1) La Société peut faire des paiements au prêteur agréé ou au détenteur d’un prêt assuré et consentir des prêts ou verser des montants à un emprunteur ou au cessionnaire des droits de celui-ci afin d’éviter un manquement aux obligations liées à un prêt assuré ou d’y remédier, même en partie, de faciliter la modification des modalités de paiement du prêt ou de protéger de quelque autre façon ses intérêts en tant qu’assureur.
+
+**Subrogation**
+
+(2) Les paiements faits au prêteur agréé ou au détenteur d’un prêt assuré dans le cadre du paragraphe (1) ont pour effet de subroger la Société dans les droits du prêteur agréé ou du détenteur dans la mesure du montant payé; celle-ci peut en poursuivre l’exécution en son nom ou celui du prêteur ou du détenteur. Toutefois, les sommes recouvrées par le prêteur ou le détenteur sont imputées en premier lieu à sa créance dans le cadre du prêt.
+
+**Renonciation**
+
+(3) La Société peut renoncer à la subrogation visée au paragraphe (2).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 10; L.R. (1985), ch. 20 (2^e^ suppl.), art. 8, ch. 25 (4^e^ suppl.), art. 7; 1999, ch. 27, art. 3
+
+</details>
+
+### 11 Plafond
+
+Malgré les autres dispositions de la présente loi, le plafond du total impayé et assuré de tous les prêts assurés est la somme des montants suivants :
+
+- a) huit cents milliards de dollars;
+
+- b) les montants supplémentaires que le Parlement autorise, à la date de sanction de la *Loi n^o^ 1 d’exécution du budget de 2024* ou après cette date, par une loi de crédits ou une autre loi fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 11; 1992, ch. 32, art. 9; 1999, ch. 27, art. 3
+- 2020, ch. 5, art. 47
+- 2024, ch. 17, art. 150
+
+</details>
+
+### 11.1
+
+[Abrogé, 2024, ch. 17, art. 151]
+
+### 11.2 et 11.3
+
+[Abrogés, 1999, ch. 27, art. 3]
+
+### 12 Administration de prêts à l’habitation
+
+La Société peut administrer un prêt à l’habitation par contrat conclu avec le détenteur de ce prêt.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 12; L.R. (1985), ch. 25 (4^e^ suppl.), art. 9; 1992, ch. 32, art. 11; 1999, ch. 27, art. 3
+
+</details>
+
+### 13 Pouvoir de consentir des prêts
+
+La Société peut consentir un prêt à l’habitation dans les cas suivants :
+
+- a) l’emprunteur ne peut autrement obtenir un tel prêt;
+
+- b) elle a l’intention soit de lui verser une contribution, soit de lui consentir un autre prêt ou de lui faire des avances sur un autre prêt, soit encore de lui faire remise de tout montant;
+
+- c) elle est partie à une entente concernant l’exploitation de l’ensemble d’habitation qui fait l’objet du prêt.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 13; L.R. (1985), ch. 25 (4^e^ suppl.), art. 9; 1992, ch. 32, art. 12; 1999, ch. 27, art. 3
+
+</details>
+
+### 14 Garantie
+
+(1) La Société peut, avec l’approbation du ministre des Finances et selon les conditions éventuelles établies par lui, garantir le paiement de tout ou partie du capital ou des intérêts — ou des deux — relatifs à des titres fondés sur des prêts à l’habitation. Les conditions peuvent notamment concerner le montant et le prix d’une garantie, les caractéristiques des titres qui seront garantis et le mode d’émission de ces titres.
+
+**Règlements — gouverneur en conseil**
+
+(2) Le gouverneur en conseil peut, sur recommandation du ministre des Finances, prendre des règlements concernant les caractéristiques des entités qui peuvent émettre ou vendre de tels titres.
+
+**Règlements — ministre des Finances**
+
+(3) Le ministre des Finances peut prendre des règlements concernant les caractéristiques des prêts à l’habitation.
+
+**Indemnisation**
+
+(4) Le ministre des Finances peut fixer le droit que la Société doit verser au receveur général du Canada pour indemniser Sa Majesté de l’exposition aux risques découlant des garanties visées au paragraphe (1). Il en avise la Société par écrit.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 14; L.R. (1985), ch. 25 (4^e^ suppl.), art. 9; 1992, ch. 32, art. 13; 1999, ch. 27, art. 3; 2012, ch. 19, art. 352
+
+</details>
+
+### 14.1 Interdiction
+
+Il est interdit à la Société de garantir le paiement de tout ou partie du capital ou des intérêts — ou des deux — relatifs à des obligations sécurisées au sens de l’article 21.5.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 25 (4^e^ suppl.), art. 9; 1999, ch. 27, art. 3; 2012, ch. 19, art. 353
+
+</details>
+
+### 14.2 à 14.8
+
+[Abrogés, 1999, ch. 27, art. 3]
+
+### 15 Plafond
+
+(1) Par dérogation aux autres dispositions de la présente loi et sous réserve du paragraphe (2), le total des montants en capital garantis et impayés relativement aux émissions des titres qui font l’objet d’une garantie visée à l’article 14 et en vigueur ne peut être supérieur au plafond applicable au titre de l’article 11.
+
+**Plafond – autres lois**
+
+(2) Le total des montants en capital garantis et impayés ne peut être supérieur au montant que le Parlement autorise par une loi de crédits ou une autre loi fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 15; 1999, ch. 27, art. 3; 2012, ch. 19, art. 354
+
+</details>
+
+### 15.1
+
+[Abrogé, 1999, ch. 27, art. 3]
+
+### 16 Protection
+
+La Société peut fournir une protection contre les effets des changements des taux d’intérêt applicables aux prêts à l’habitation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 16; L.R. (1985), ch. 25 (4^e^ suppl.), art. 11; 1992, ch. 32, art. 19; 1999, ch. 27, art. 3
+
+</details>
+
+### 17 Acquisition et vente d’obligations
+
+La Société peut :
+
+- a) acquérir des prêts à l’habitation ou des droits sur ceux-ci;
+
+- b) consentir des prêts aux détenteurs de prêts à l’habitation;
+
+- c) vendre toute obligation dont elle est titulaire et, si le contrat conclu avec l’acheteur le prévoit, continuer de gérer l’obligation;
+
+- d) émettre des titres fondés sur des prêts à l’habitation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 17; L.R. (1985), ch. 25 (4^e^ suppl.), art. 12; 1992, ch. 32, art. 20; 1999, ch. 27, art. 3
+
+</details>
+
+### 17.1 Assurance hypothécaire
+
+La Société peut fournir au liquidateur d’une société, société de secours ou société étrangère au sens du paragraphe 2(1) de la *Loi sur les sociétés d’assurances* des services relatifs aux opérations d’assurance hypothécaire de celle-ci et acquérir ou réassurer toutes les polices d’assurance hypothécaire de celle-ci ou certaines d’entre elles.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2007, ch. 6, art. 440
+
+</details>
+
+### 18 Réassurance
+
+(1) La Société peut faire réassurer les risques qu’elle couvre dans le cadre de la présente partie, notamment au titre des assurances, garanties ou protections.
+
+**Versement de montants au receveur général**
+
+(2) La Société peut verser au receveur général les montants déterminés aux termes du plan d’entreprise approuvé dans le cadre de l’article 122 de la *Loi sur la gestion des finances publiques*, à titre d’indemnité pour les risques que, en sa qualité de mandataire, elle fait courir à Sa Majesté dans le cadre de la présente partie. Les versements constituent des dépenses supportées par la Société au titre des activités qu’elle exerce dans le cadre de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 18; L.R. (1985), ch. 25 (4^e^ suppl.), art. 12; 1992, ch. 32, art. 21; 1999, ch. 27, art. 3
+
+</details>
+
+### 19 Conditions d’exercice des pouvoirs
+
+Sous réserve des règlements pris en vertu de la présente partie, la Société peut :
+
+- a) fixer les conditions et modalités d’exercice des pouvoirs et fonctions qui lui sont conférés par la présente partie, y compris quant aux versements qu’elle doit faire pour donner suite aux demandes de règlement dans le cadre des assurances, garanties ou autres protections qu’elle accorde;
+
+- b) établir le barème des primes et des droits exigibles ou des prix à payer dans le cadre de l’exercice des pouvoirs et fonctions qui lui sont conférés par la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 19; L.R. (1985), ch. 25 (4^e^ suppl.), art. 13; 1992, ch. 32, art. 22; 1999, ch. 27, art. 3; 2012, ch. 19, art. 355
+
+</details>
+
+### 20 Mandataires
+
+La Société peut autoriser un prêteur agréé à agir en son nom pour ce qui est de l’exercice des pouvoirs et fonctions que lui confère la présente partie et ce, même s’il s’agit d’un prêt consenti ou administré par ce prêteur agréé.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 20; L.R. (1985), ch. 25 (4^e^ suppl.), art. 14; 1999, ch. 27, art. 3
+
+</details>
+
+### 20.1 et 20.2
+
+[Abrogés, 1999, ch. 27, art. 3]
+
+### 21 Constitution de fonds
+
+(1) La Société est tenue de mettre en place des fonds à titre de provisions pour les demandes de règlement, les pertes, les dépenses et les frais relatifs aux activités qu’elle exerce dans le cadre de la présente partie.
+
+**Plan d’entreprise**
+
+(2) Le plan d’entreprise établi chaque année par la Société en application de l’article 122 de la *Loi sur la gestion des finances publiques* doit comporter une proposition relative à l’utilisation à une ou plusieurs des fins suivantes des bénéfices provenant des activités qu’elle exerce dans le cadre de la présente partie et qui ne sont pas portés au crédit des fonds prévus au paragraphe (1) :
+
+- a) capitalisation des activités exercées par la Société dans le cadre de la présente partie;
+
+- b) paiement de dividendes au Trésor;
+
+- c) utilisation en application de la présente loi ou de la *Loi sur la Société canadienne d’hypothèques et de logement* ou toute autre fin, relative à l’habitation, autorisée par le Parlement;
+
+- d) non-répartition.
+
+**Mise en oeuvre de la proposition**
+
+(3) La Société est autorisée à mettre en oeuvre la proposition visée au paragraphe (2) si le plan d’entreprise où elle figure est approuvé dans le cadre de l’article 122 de la *Loi sur la gestion des finances publiques*.
+
+**Non-application**
+
+(4) L’article 29 de la *Loi sur la Société canadienne d’hypothèques et de logement* ne s’applique pas aux bénéfices réalisés par la Société dans le cadre des activités prévues à la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 21; L.R. (1985), ch. 25 (4^e^ suppl.), art. 16; 1992, ch. 32, art. 25; 1995, ch. 47, art. 1; 1999, ch. 27, art. 3
+
+</details>
+
+### 21.1 Obligation de conservation de renseignements, livres et documents
+
+(1) La Société tient et conserve les livres et documents — et conserve les renseignements — sur ses activités dans le cadre de la présente partie et de la partie I.1, notamment ceux qui sont précisés par règlement.
+
+**Obligation de fournir des renseignements, etc.**
+
+(2) Elle fournit sans délai au ministre des Finances, à la demande de celui-ci, toute copie de livre ou document ou tout renseignement qu’elle est tenue de conserver.
+
+**Communication de renseignements, etc.**
+
+(3) Le ministre des Finances peut communiquer les renseignements et copies de livres ou de documents obtenus au titre du paragraphe (2) au surintendant, au gouverneur de la Banque du Canada, au premier dirigeant de la Société d’assurance-dépôts du Canada et au commissaire de l’Agence de la consommation en matière financière du Canada.
+
+**Accessibilité au public**
+
+(4) La Société rend accessible au public les livres, documents et renseignements réglementaires.
+
+**Règlements**
+
+(5) Le gouverneur en conseil peut, sur recommandation du ministre des Finances, prendre des règlements prévoyant les modalités de tenue et de conservation des livres et documents et de conservation de renseignements, ainsi que les modalités selon lesquelles les livres, documents et renseignements sont mis à la disposition du public.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (1^er^ suppl.), art. 1, ch. 25 (4^e^ suppl.), art. 17(A); 1999, ch. 27, art. 3; 2011, ch. 15, art. 24; 2012, ch. 19, art. 358; 2016, ch. 7, art. 172
+
+</details>
+
+### 21.2 Examen ou enquête
+
+(1) Le surintendant, au moins une fois par année civile, procède ou fait procéder à un examen ou à une enquête en vue de vérifier si la Société exerce une ou plusieurs de ses activité dans le cadre de la présente partie et de la partie I.1 conformément aux bonnes pratiques de commerce, notamment si elle tient dûment compte des risques de pertes qu’elle encourt.
+
+**Droit d’obtenir communication des pièces**
+
+(2) Pour l’examen ou l’enquête prévu au paragraphe (1), le surintendant ou toute personne agissant sous ses ordres :
+
+- a) a accès aux livres et aux documents détenus par la Société ou en son nom et portant sur ses activités;
+
+- b) peut exiger des administrateurs, des dirigeants ou des vérificateurs de la Société qu’ils lui fournissent, dans la mesure du possible, les renseignements et éclaircissements qu’il réclame sur les activités de celle-ci.
+
+**Rapport à la Société et aux ministres**
+
+(3) Le surintendant fait rapport des résultats de l’examen ou de l’enquête, notamment les recommandations :
+
+- a) au conseil d’administration de la Société;
+
+- b) au ministre et au ministre des Finances.
+
+**Proposition dans le plan d’entreprise**
+
+(4) Le plan d’entreprise établi chaque année par la Société en application de l’article 122 de la *Loi sur la gestion des finances publiques* doit comporter une proposition indiquant la manière dont la Société répondra aux recommandations.
+
+**Obligation de fournir des renseignements, etc.**
+
+(5) La Société fournit sans délai au surintendant, à la demande de celui-ci, toute copie de livre ou document ou tout renseignement sur ses activités qu’elle est tenue de conserver dans le cadre de la présente partie ou de la partie I.1.
+
+**Caractère confidentiel des renseignements**
+
+(6) Sous réserve des autres dispositions de la présente loi, sont confidentiels et doivent être traités comme tels les renseignements portant sur les activités de la Société dans le cadre de la présente partie et de la partie I.1, notamment ceux qui concernent une personne faisant affaire avec elle, et obtenus par le surintendant ou par toute personne agissant sous les ordres de celui-ci.
+
+**Communication de renseignements, etc**
+
+(7) Le surintendant peut communiquer aux personnes ci-après toute copie de livre ou document ou tout renseignement obtenu au titre de la présente partie ou de la partie I.1 :
+
+- a) le ministre et le ministre des Finances;
+
+- b) le gouverneur de la Banque du Canada;
+
+- c) le premier dirigeant de la Société d’assurance-dépôts du Canada;
+
+- d) le commissaire de l’Agence de la consommation en matière financière du Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (1^er^ suppl.), art. 1; 1999, ch. 27, art. 3; 2011, ch. 15, art. 24; 2012, ch. 19, art. 358; 2016, ch. 7, art. 173
+
+</details>
+
+### 21.3 Détermination du surintendant
+
+(1) Le surintendant doit, avant le 31 décembre de chaque année, déterminer le montant total des dépenses engagées pendant l’exercice précédent dans le cadre de l’application de l’article 21.2.
+
+**Obligation de la Société**
+
+(2) La Société doit payer ce montant dans les trente jours de l’avis écrit du surintendant.
+
+**Exercice**
+
+(3) Pour l’application du paragraphe (1), l’exercice s’entend de la période commençant le 1^er^ avril et se terminant le 31 mars de l’année suivante.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (1^er^ suppl.), art. 1, ch. 25 (4^e^ suppl.), art. 18; 1992, ch. 32, art. 26; 1999, ch. 27, art. 3; 2011, ch. 15, art. 24; 2012, ch. 19, art. 358
+
+</details>
+
+### 21.4 Règlements
+
+Sur recommandation du ministre des Finances, le gouverneur en conseil peut prendre des règlements concernant les activités de la Société dans le cadre de la présente partie, notamment en ce qui concerne :
+
+- a) les conditions et les limites auxquelles elles sont assujetties;
+
+- b) les circonstances et les modalités selon lesquelles elle peut exercer ces activités;
+
+- c) toute mesure d’ordre réglementaire prévue par la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (1^er^ suppl.), art. 1, ch. 25 (4^e^ suppl.), art. 19; 1992, ch. 32, art. 27; 1999, ch. 27, art. 3; 2011, ch. 15, art. 24; 2012, ch. 19, art. 358
+
+</details>
+
+## Obligations sécurisées
+
+### Définitions
+
+### 21.5 Définitions
+
+Les définitions qui suivent s’appliquent à la présente partie.
+
+**contrat dérivé** Contrat financier dont les obligations sont dérivées d’un ou de plusieurs éléments de référence sous-jacents ou qui se rapportent à un ou plusieurs de ces éléments ou en sont fonction. (**derivatives agreement**)
+
+**émetteur inscrit** Institution inscrite au registre en vertu de l’article 21.53. (**registered issuer**)
+
+**garantie d’obligations sécurisées** Prêts ou autres actifs affectés en garantie du remboursement du principal et du paiement des intérêts et autres sommes dues relativement aux obligations sécurisées émises dans le cadre d’un programme inscrit.  (**covered bond collateral**)
+
+**groupe** S’entend au sens de l’article 2 de la *Loi sur les banques*. (**affiliate**)
+
+**obligation sécurisée** S’entend, sauf pour l’application de l’alinéa 21.53b), d’un titre de créance dont le remboursement — en principal et en intérêts — est garanti par des prêts et autres actifs détenus par une société garante. (**covered bond**)
+
+**programme inscrit** Programme inscrit au registre en vertu de l’article 21.55. (**registered program**)
+
+**registre** Le registre établi en vertu de l’article 21.51. (**registry**)
+
+**société garante** S’agissant d’un programme inscrit, entité qui détient les prêts et autres actifs composant la garantie d’obligations sécurisées dans le but de les isoler juridiquement des prêts et autres actifs de l’émetteur inscrit et qui est constituée principalement à cette fin. (**guarantor entity**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (1^er^ suppl.), art. 1; 1992, ch. 32, art. 28; 1999, ch. 27, art. 3; 2012, ch. 19, art. 356
+
+</details>
+
+### Mise en place du cadre juridique
+
+### 21.51 Registre
+
+(1) La Société établit et tient à jour un registre qui contient :
+
+- a) les noms et adresses d’affaires des émetteurs inscrits;
+
+- b) une liste des programmes inscrits et des renseignements s’y rapportant, notamment le nom des fournisseurs de services essentiels pour la société garante;
+
+- c) une liste des émetteurs inscrits qui font l’objet de la suspension visée au paragraphe 21.62(1) ainsi que le motif de la suspension;
+
+- d) tout autre renseignement qu’elle estime nécessaire;
+
+- e) tout renseignement prévu par règlement.
+
+**Accessible au public**
+
+(2) La Société rend le registre accessible au public par Internet et par tout autre moyen qu’elle estime indiqué.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.52 Demande d’inscription — émetteur inscrit
+
+(1) Les institutions ci-après peuvent demander leur inscription au registre à titre d’émetteur inscrit :
+
+- a) les institutions financières fédérales au sens de l’article 2 de la *Loi sur les banques*;
+
+- b) les sociétés coopératives de crédit constituées en personne morale et régies par une loi provinciale.
+
+**Exigences**
+
+(2) Le demandeur remet à la Société, selon les modalités qu’elle fixe, les droits exigés et les renseignements qu’elle estime nécessaires à l’inscription.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.53 Inscription
+
+La Société peut inscrire l’institution au registre si, à la fois :
+
+- a) elle est d’avis que les exigences prévues sous le régime de la présente partie sont respectées;
+
+- b) l’institution prend l’engagement de ne pas émettre de titres de créance communément appelés obligations sécurisées, sauf dans le cadre d’un programme inscrit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.54 Demande d’inscription — programme
+
+(1) L’émetteur inscrit peut demander l’inscription au registre d’un programme prévoyant l’émission d’obligations sécurisées.
+
+**Exigences**
+
+(2) L’émetteur inscrit remet à la Société, selon les modalités fixées par elle, les droits exigés et les renseignements visés au paragraphe (3).
+
+**Contenu de la demande**
+
+(3) La demande contient une description complète du programme et, notamment, les renseignements suivants :
+
+- a) le nom de l’entité qui agira à titre de société garante et sa nature juridique;
+
+- b) le détail des prêts et autres actifs qui seront détenus comme garantie d’obligations sécurisées et leur valeur;
+
+- c) le rapport minimal et maximal exigé en vertu du programme entre la valeur des obligations sécurisées qui seront émises et celle des prêts et autres actifs qui seront détenus comme garantie d’obligations sécurisées;
+
+- d) le détail des liens contractuels entre l’émetteur inscrit et l’entité qui agira à titre de société garante;
+
+- e) le nom des fournisseurs de services essentiels pour l’entité qui agira à titre de société garante, le détail des services qui doivent lui être fournis ainsi que les circonstances dans lesquelles l’émetteur inscrit ou un membre de son groupe doit être remplacé à titre de fournisseur de services;
+
+- f) le nom de toute partie au contrat dérivé conclu avec l’entité qui agira à titre de société garante;
+
+- g) tout autre renseignement que la Société estime nécessaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.55 Inscription
+
+La Société peut inscrire le programme si elle est d’avis que toutes les exigences prévues sous le régime de la présente partie sont respectées.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.56 Décision
+
+(1) La Société avise par écrit le demandeur de sa décision de procéder à son inscription ou à l’inscription d’un de ses programmes.
+
+**Retrait de la demande**
+
+(2) Le demandeur peut retirer sa demande par avis écrit à la Société envoyé avant la date de réception de l’avis visé au paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.57 Retrait d’un programme inscrit
+
+(1) La Société peut, à la demande de l’émetteur inscrit, radier du registre un programme inscrit seulement si aucune des obligations sécurisées émises en vertu de ce programme n’est en circulation.
+
+**Retrait d’un émetteur inscrit**
+
+(2) La Société peut, à la demande d’un émetteur inscrit, le radier du registre seulement si celui-ci n’a aucun programme inscrit au registre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.58 Conditions
+
+La Société peut, en tout temps, fixer des conditions ou restrictions à l’égard des émetteurs inscrits ou aux programmes inscrits.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.59 Droits
+
+(1) La Société peut fixer les droits applicables aux demandes d’inscription visées aux paragraphes 21.52(1) et 21.54(1) ainsi que les autres droits à payer par les émetteurs inscrits.
+
+**Limite**
+
+(2) Les droits sont fixés, conformément aux règlements, de manière à correspondre aux dépenses engagées par la Société dans l’exercice des attributions qui lui sont conférées en vertu de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.6 Actifs admissibles
+
+(1) Seuls les prêts garantis par un immeuble résidentiel de quatre unités d’habitation ou moins situé au Canada ou les actifs prévus par règlement peuvent être détenus comme garantie d’obligations sécurisées.
+
+**Actifs de remplacement**
+
+(2) Malgré le paragraphe (1), la garantie d’obligations sécurisées peut comprendre des valeurs et titres émis par le gouvernement du Canada ainsi que des actifs prévus par règlement.
+
+**Valeur maximale des actifs de remplacement**
+
+(3) À moins qu’un règlement n’ait été pris en application de l’alinéa 21.66g), la valeur des actifs visés au paragraphe (2) ne peut excéder dix pour cent de la valeur totale des prêts ou autres actifs détenus comme garantie d’obligations sécurisées.
+
+**Restriction**
+
+(4) Malgré les paragraphes (1) et (2), les prêts ci-après ne peuvent être détenus comme garantie d’obligations sécurisées :
+
+- a) les prêts garantis par un immeuble résidentiel qui sont assurés par la Société;
+
+- b) les prêts garantis par un immeuble résidentiel qui sont assurés en vertu d’un contrat d’assurance protégé sous le régime de la *Loi sur la protection de l’assurance hypothécaire résidentielle*;
+
+- c) les prêts garantis par un immeuble résidentiel si la somme du prêt et du solde impayé de toute hypothèque de rang égal ou supérieur excède quatre-vingts pour cent de la valeur de l’immeuble au moment du prêt.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356 et 366
+
+</details>
+
+### 21.61 Confidentialité
+
+(1) Sauf disposition contraire de la présente partie ou de la partie I, les renseignements recueillis sous le régime de la présente partie par la Société sont confidentiels et doivent être traités comme tels.
+
+**Utilisation**
+
+(2) Ils ne peuvent être utilisés par elle qu’aux seules fins auxquelles ils ont été recueillis.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.62 Suspension
+
+(1) La Société peut suspendre le droit de l’émetteur inscrit d’émettre de nouvelles obligations sécurisées dans le cadre d’un programme inscrit.
+
+**Avis**
+
+(2) Le cas échéant, elle en avise par écrit l’émetteur inscrit, motifs à l’appui, au plus tard trente jours avant la prise d’effet de la suspension.
+
+**Avis**
+
+(3) Elle transmet une copie de l’avis et des motifs :
+
+- a) dans le cas d’une institution financière fédérale au sens de l’article 2 de la *Loi sur les banques*, au surintendant des institutions financières nommé en application du paragraphe 5(1) de la *Loi sur le Bureau du surintendant des institutions financières*;
+
+- b) dans le cas d’une société coopérative de crédit constituée en personne morale et régie par une loi provinciale, à l’organisme qui la régit.
+
+**Cessation de la suspension**
+
+(4) Elle peut mettre fin à la suspension, auquel cas elle en avise par écrit l’émetteur inscrit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### Protection en cas d’insolvabilité et de faillite
+
+### 21.63 Obligation sécurisée
+
+Aucune règle de droit fédérale ou provinciale portant sur la faillite ou l’insolvabilité ni aucune ordonnance d’un tribunal relative à une réorganisation, un arrangement ou une mise sous séquestre découlant d’une faillite ou d’une insolvabilité ne peuvent avoir pour effet d’empêcher les opérations ci-après si elles sont effectuées conformément aux contrats relatifs aux obligations sécurisées émises dans le cadre d’un programme inscrit :
+
+- a) le paiement de toute somme, notamment une somme due à un émetteur inscrit;
+
+- b) la compensation des obligations;
+
+- c) toute opération à l’égard d’une garantie d’obligations sécurisées, notamment :
+  - (i) la vente, la demande en forclusion ou, au Québec, la demande en délaissement,
+  - (ii) la compensation ou l’affectation du produit de la garantie d’obligations sécurisées ou de sa valeur;
+
+- d) la résiliation de ces contrats.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.64 Cession authentique
+
+Malgré toute règle de droit fédérale ou provinciale portant sur la faillite ou l’insolvabilité ou toute ordonnance d’un tribunal relative à une réorganisation, un arrangement ou une mise sous séquestre découlant d’une faillite ou d’une insolvabilité, le transfert par un émetteur inscrit, une entité de son groupe ou une entité réglementaire à une société garante des prêts et autres actifs qui seront détenus comme garantie d’obligations sécurisées :
+
+- a) est opposable à tous;
+
+- b) ne peut être frappé de nullité ou faire l’objet d’un recours en nullité;
+
+- c) ne peut faire l’objet d’aucun autre recours ouvert aux créanciers de l’émetteur inscrit;
+
+- d) ne constitue pas une disposition frauduleuse, une préférence injuste ou autre transaction révisable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### 21.65 Non-application
+
+Les articles 21.63 et 21.64 ne s’appliquent pas aux contrats relatifs aux obligations sécurisées émises dans le cadre d’un programme inscrit par un émetteur inscrit pendant la période où son droit d’émettre de nouvelles obligations est suspendu en application de l’article 21.62, ni aux transferts à une société garante des prêts et autres actifs devant être détenus comme garantie d’obligations sécurisées pour ces obligations.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+### Règlements
+
+### 21.66 Règlements
+
+Le ministre des Finances peut, par règlement, prendre les mesures nécessaires à l’application de la présente partie, et notamment :
+
+- a) exclure de la définition d’**obligation sécurisée** certains titres de créance;
+
+- b) exclure de la définition de **garantie d’obligations sécurisées** certaines sommes dues par la société garante à l’émetteur inscrit;
+
+- c) établir les exigences à respecter relativement à l’inscription au registre d’une institution ou d’un programme prévoyant l’émission d’obligations sécurisées;
+
+- d) régir les demandes d’inscription faites au titre des articles 21.52 ou 21.54;
+
+- e) régir le recouvrement des dépenses pour l’application de l’article 21.59;
+
+- f) prévoir des exigences supplémentaires relativement aux prêts mentionnés au paragraphe 21.6(1);
+
+- g) prévoir les circonstances dans lesquelles une société garante peut détenir les actifs visés au paragraphe 21.6(2) et, selon ces circonstances, le ratio maximal de la valeur de ces actifs par rapport à la valeur totale des prêts ou autres actifs détenus comme garantie d’obligations sécurisées;
+
+- h) prendre toute mesure réglementaire prévue par la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 356
+
+</details>
+
+## Logements locatifs
+
+### 22 Revenu locatif garanti
+
+(1) La Société peut conclure des contrats avec des constructeurs en vue de garantir, pour le montant qu’elle fixe et sur une période d’au plus trente ans, le rendement financier, une fois les travaux de construction achevés, d’ensembles d’habitation locatifs.
+
+**Engagement**
+
+(2) La Société peut s’engager envers un constructeur à conclure avec lui un contrat au titre du paragraphe (1) s’il construit un ensemble d’habitation locatif.
+
+**Conditions**
+
+(3) La Société peut fixer les conditions et modalités relatives aux contrats prévus au paragraphe (1), notamment en ce qui concerne :
+
+- a) les droits afférents à la garantie visée au paragraphe (1);
+
+- b) l’exploitation et l’occupation de l’ensemble d’habitation;
+
+- c) les restrictions relatives à l’aliénation ou à la location de l’ensemble d’habitation, d’une partie de celui-ci ou d’un droit sur celui-ci ou à la constitution de sûretés sur l’ensemble d’habitation, la partie ou le droit;
+
+- d) la limite applicable au rendement financier de l’ensemble d’habitation;
+
+- e) le droit pour elle de prévoir la destination de tout revenu excédant le montant de la limite.
+
+**Consentement requis**
+
+(4) Les droits et obligations du constructeur de l’ensemble d’habitation locatif découlant du contrat visé au paragraphe (1) sont personnels, le contrat ne pouvant être cédé à un propriétaire subséquent qu’avec le consentement écrit de la Société.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 22; 1992, ch. 32, art. 29; 1999, ch. 27, art. 4
+
+</details>
+
+### 23 Prêts pour ensemble d’habitation locatif
+
+(1) Par dérogation aux restrictions à son pouvoir de prêter ou de placer de l’argent, contenues dans toute loi ou autre règle de droit, le prêteur agréé relevant de la compétence du Parlement peut :
+
+- a) consentir des prêts à l’égard d’ensembles d’habitation locatifs pour lesquels un engagement a été contracté au titre du paragraphe 22(2) ou dont le rendement financier est garanti par la Société au titre de l’article 22;
+
+- b) aliéner ou acquérir des prêts consentis à l’égard d’ensembles d’habitation locatifs dont le rendement financier est garanti par la Société au titre de l’article 22, ainsi que la sûreté afférente à la garantie.
+
+**Conditions et modalités**
+
+(2) Le prêt visé au paragraphe (1) ne peut être consenti que s’il est approuvé par la Société; celle-ci peut l’assujettir aux conditions et modalités qu’elle juge indiquées.
+
+**Restriction**
+
+(3) La Société peut restreindre les pouvoirs que le prêteur agréé peut exercer en vertu du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 23; 1992, ch. 32, art. 30; 1999, ch. 27, art. 4
+
+</details>
+
+### 24 Prêt par la Société
+
+La Société peut, aux conditions et selon les modalités qu’elle fixe, consentir un prêt à une personne qui, à son avis, ne peut obtenir un prêt visé à l’alinéa 23(1)a).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 24; 1999, ch. 27, art. 4
+
+</details>
+
+### 24.1
+
+[Abrogé, 1999, ch. 27, art. 4]
+
+### 25 Prêts, etc., relatifs aux ensembles d’habitation locatifs
+
+(1) La Société peut consentir des prêts et verser des contributions à l’égard d’ensembles d’habitation locatifs et consentir des prêts pour refinancer une dette qui, à son avis, est liée à un ensemble d’habitation locatif, et faire remise de montants exigibles sur les prêts.
+
+**Conditions**
+
+(2) La Société peut fixer les conditions et modalités relatives à tout prêt ou à toute contribution ou remise effectués dans le cadre du paragraphe (1), notamment en ce qui concerne :
+
+- a) l’exploitation et l’occupation de l’ensemble d’habitation;
+
+- b) les restrictions relatives à l’aliénation ou à la location de l’ensemble d’habitation, d’une partie de celui-ci ou d’un droit sur celui-ci ou à la constitution de sûretés sur l’ensemble d’habitation, la partie ou le droit;
+
+- c) la limite applicable au rendement financier de l’ensemble d’habitation;
+
+- d) le droit pour elle de prévoir la destination de tout revenu excédant le montant de la limite.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 25; L.R. (1985), ch. 25 (4^e^ suppl.), art. 21; 1991, ch. 47, art. 738; 1999, ch. 27, art. 4
+
+</details>
+
+### 26 à 31
+
+[Abrogés, 1999, ch. 27, art. 4]
+
+### 32 Compagnie d’assurance-vie — Placements
+
+(1) Par dérogation aux restrictions à son pouvoir de prêter ou de placer de l’argent, contenues dans toute loi ou autre règle de droit, une compagnie d’assurance-vie relevant de la compétence du Parlement peut :
+
+- a) sous réserve des conditions mentionnées au paragraphe (2), investir, jusqu’à concurrence du montant — ne dépassant pas cinq pour cent du total de son actif au Canada — indiqué dans son dernier relevé annuel produit en vertu de l’article 665 de la *Loi sur les sociétés d’assurances*, dans l’achat de terrains et dans la construction sur ces terrains d’un ensemble d’habitation HLM — HLM pouvant signifier ici des logements à prix modiques ou modérés —, d’immeubles ou d’installations destinés aux magasins de détail, boutiques, bureaux et autres services communautaires, à l’exclusion des hôtels, qu’elle estime appropriés et convenables aux locataires de cet ensemble d’habitation;
+
+- b) détenir, maintenir, réparer, modifier, démolir, reconstruire, gérer, vendre ou céder la totalité ou une partie des terrains ainsi acquis et des améliorations y apportées, ou percevoir ou recevoir un revenu provenant de ceux-ci.
+
+**Conditions des placements prévus au par. (1)**
+
+(2) Le placement visé au paragraphe (1) est assujetti aux conditions suivantes :
+
+- a) l’ensemble d’habitation doit, à la discrétion de la Société, être construit en conformité ou en harmonie avec un plan d’urbanisme qu’elle juge satisfaisant;
+
+- b) l’ensemble d’habitation doit être conçu de façon à loger des familles à revenu faible ou modéré, et la Société peut fixer le coût moyen maximal par pièce, par logement familial ou par personne à loger;
+
+- c) la compagnie doit soumettre à la Société une demande en la forme établie par cette dernière, accompagnée des documents ou renseignements suivants :
+  - (i) une carte indiquant l’emplacement du terrain et des structures situées sur celui-ci dont la compagnie juge l’achat nécessaire à l’ensemble d’habitation,
+  - (ii) un plan et des devis préparés par un architecte indiquant les immeubles ou améliorations prévus pour l’ensemble d’habitation,
+  - (iii) une estimation du coût de l’ensemble d’habitation préparée par un architecte ou un ingénieur et approuvée par la compagnie,
+  - (iv) une estimation des loyers à percevoir pour les logements familiaux et autres services, pour assurer un rendement minimal de six pour cent l’an sur le coût de l’ensemble d’habitation après paiement des taxes, assurances, frais d’exploitation et d’entretien, et du montant annuel suffisant pour amortir le coût de la construction de l’ensemble d’habitation, déduction faite du coût du terrain, pendant la durée d’utilisation estimative de l’ensemble d’habitation d’au plus cinquante ans à compter de la date de son achèvement,
+  - (v) tous autres renseignements ou documents que la Société peut exiger;
+
+- d) il est approuvé par la Société.
+
+**Garantie aux compagnies d’assurance-vie**
+
+(3) La Société doit garantir à la compagnie d’assurance-vie, pour la période durant laquelle celle-ci conserve la propriété de la totalité ou d’une partie de l’ensemble d’habitation, un revenu net de trois pour cent l’an du coût de celui-ci, pour toute année suivant son achèvement, pour une période ne dépassant pas sa durée d’utilisation estimative d’au plus cinquante ans, dans les cas où la compagnie convient avec elle de ce qui suit :
+
+- a) de tenir, à la satisfaction de la Société, des livres et registres distincts relativement à un ensemble d’habitation locatif dans lequel la compagnie effectue un placement au titre du présent article, et d’en permettre, en tout temps, l’examen à celle-ci;
+
+- b) d’établir une réserve relativement à l’ensemble d’habitation comprenant tous les bénéfices nets, perçus au cours d’une année postérieure à son achèvement, au-delà de sept pour cent l’an sur son coût;
+
+- c) de rembourser sur la réserve toutes avances consenties par la Société au titre de la garantie ainsi donnée.
+
+**Définition de **revenu net d’une année****
+
+(4) Pour l’application du présent article, **revenu net d’une année** s’entend du montant égal aux bénéfices nets annuels provenant de l’ensemble d’habitation, calculé en déduisant du total des revenus annuels de celui-ci les frais y relatifs engagés pendant l’année, y compris les provisions pour impôts, assurances, réparations et entretien, les intérêts, ainsi qu’un montant suffisant pour amortir son coût de construction et le coût du terrain pendant sa durée d’utilisation estimative.
+
+**Plusieurs compagnies**
+
+(5) Plusieurs compagnies d’assurance-vie peuvent développer, posséder et administrer conjointement un ensemble d’habitation locatif au titre du présent article.
+
+**Désignation de prêteurs agréés**
+
+(6) Le gouverneur en conseil peut désigner, pour l’application du présent article :
+
+- a) un prêteur agréé relevant de la compétence du Parlement et, le cas échéant, les paragraphes (1) à (5) s’appliquent, avec les adaptations nécessaires, à ce dernier, sauf que le montant que celui-ci peut investir ne peut dépasser cinq pour cent de son actif au Canada ou le montant approuvé par le gouverneur en conseil pour l’application du présent paragraphe;
+
+- b) un prêteur agréé ne relevant pas de la compétence du Parlement, mais autorisé à faire des placements visés par le présent article et, le cas échéant, les paragraphes (2) à (5) s’appliquent, avec les adaptations nécessaires, à ce dernier, sauf que le montant des placements à l’égard desquels des garanties peuvent être données au titre du présent article ne peut dépasser cinq pour cent de son actif au Canada ou le montant approuvé par le gouverneur en conseil pour l’application du présent paragraphe.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 32; L.R. (1985), ch. 18 (3^e^ suppl.), art. 37; 1991, ch. 47, art. 739; 1999, ch. 27, art. 5
+
+</details>
+
+### 33 Pouvoirs de la Société en matière administrative
+
+(1) La Société peut :
+
+- a) établir, pour l’application de l’article 32, le mode de calcul du coût d’un ensemble d’habitation locatif;
+
+- b) ajuster le coût d’un ensemble d’habitation locatif si une partie de celui-ci est vendue ou s’il est agrandi;
+
+- c) établir le mode de calcul des bénéfices nets pour l’application de l’article 32;
+
+- d) prendre toutes mesures qu’elle juge utiles à l’application du présent article et de l’article 32 et à la protection de ses intérêts.
+
+**Acquisition de terrains par une compagnie d’assurance-vie**
+
+(2) Une compagnie d’assurance-vie relevant de la compétence du Parlement peut, antérieurement à l’approbation d’un placement au titre de l’alinéa 32(2)d), par dérogation à toutes restrictions à son pouvoir de placer de l’argent, contenues dans une loi ou autre règle de droit, avec l’approbation de la Société, acheter des terrains en vue de faire un placement au titre des paragraphes 32(1) et (2), et les détenir et les administrer conformément aux conditions que la Société peut fixer.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 18
+
+</details>
+
+### 34 et 35
+
+[Abrogés, 1999, ch. 27, art. 6]
+
+### 36 et 37
+
+[Abrogés, 1992, ch. 32, art. 34]
+
+## Lotissement
+
+### 38 Définition de **placement**
+
+Pour l’application de la présente partie, **placement** s’entend du prix d’achat du terrain, du coût des travaux d’aménagement des infrastructures et de l’aménagement de parcs, de places publiques et de services appropriés à un quartier résidentiel, ainsi que des frais d’administration et autres engagés par la compagnie relativement au terrain et approuvés par la Société, y compris les taxes, les assurances, les réparations et l’entretien.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 20
+
+</details>
+
+### 39 Achat de terrains destinés à un quartier résidentiel
+
+(1) Par dérogation aux restrictions à son pouvoir de prêter ou de placer de l’argent, contenues dans une loi ou autre règle de droit, toute compagnie d’assurance-vie, société de fiducie ou société de prêt relevant de la compétence du Parlement, désignée « compagnie » dans la présente partie, peut :
+
+- a) investir, sous réserve des conditions énoncées au paragraphe (2), dans l’achat et l’amélioration de terrains destinés à un quartier résidentiel, jusqu’à concurrence d’un montant qui, ajouté à la somme globale investie par celle-ci au titre de l’article 32, ne dépasse pas la limite imposée par l’article 32 ou 33 ou en application de celui-ci;
+
+- b) sous réserve des autres dispositions de la présente partie, détenir, entretenir, réparer, modifier, démolir, améliorer, gérer, vendre ou céder la totalité ou une partie des terrains ainsi acquis et des améliorations y apportées, ou percevoir ou recevoir un revenu provenant de ceux-ci.
+
+**Conditions du placement**
+
+(2) Le placement visé au paragraphe (1) est assujetti aux conditions suivantes :
+
+- a) le terrain convient, de l’avis de la Société, à un quartier résidentiel;
+
+- b) la Société est satisfaite du prix d’achat du terrain;
+
+- c) la Société considère utiles les améliorations à faire et estime leur coût raisonnable;
+
+- d) la compagnie présente à la Société une demande en la forme établie par cette dernière, contenant tous les renseignements et accompagnée des documents exigés par la Société;
+
+- e) le placement a été approuvé par écrit par la Société;
+
+- f) la compagnie a conclu un contrat avec la Société en conformité avec le paragraphe (3).
+
+**Garantie du revenu et des intérêts**
+
+(3) La Société doit garantir à la compagnie, pour la période où cette dernière conserve la propriété de la totalité ou d’une partie du terrain visé par un placement au titre de la présente partie, ne dépassant pas la période fixée au contrat, d’au plus cinq ans à compter de la date d’acquisition du terrain par la compagnie, le remboursement d’un montant égal au placement de la compagnie, avec intérêt d’au plus trois pour cent, composé annuellement, au taux indiqué dans le contrat, dans les cas où la compagnie convient avec elle de ce qui suit :
+
+- a) d’acquérir un terrain et d’y effectuer des améliorations en conformité avec la présente partie;
+
+- b) de tenir, à la satisfaction de la Société, des livres et registres distincts concernant ce terrain, les frais engagés relativement à celui-ci, les améliorations y apportées et les ventes de parties de ce terrain, et d’en permettre, en tout temps, l’examen à la Société;
+
+- c) de vendre ce terrain au prix fixé par la Société et aux conditions qu’elle juge satisfaisantes ou fixées au contrat.
+
+**Autres stipulations du contrat**
+
+(4) Le contrat mentionné au paragraphe (3) peut également prévoir :
+
+- a) que la compagnie doit organiser l’aménagement du terrain à la satisfaction de la Société et ne peut vendre le terrain que si l’acheteur s’engage à n’y ériger que des structures conformes au plan de la zone et aux normes de construction fixées par la Société au titre de la présente loi;
+
+- b) d’autres mesures à prendre conjointement par la Société et la compagnie, que la Société estime utiles à l’application de la présente partie et à la protection de ses intérêts.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 20
+
+</details>
+
+### 40 Détermination du montant du placement, de l’intérêt et du recouvrement
+
+(1) La Société doit, lorsque le terrain a été entièrement vendu par la compagnie ou à la fin de la période mentionnée au contrat visé au paragraphe 39(3), si elle est antérieure :
+
+- a) déterminer le montant global du placement de la compagnie dans le terrain et de l’intérêt y afférent, au taux fixé au contrat et composé annuellement;
+
+- b) déterminer le montant recouvré par la compagnie par la vente de parties du terrain ou d’autres revenus provenant du terrain.
+
+**Paiement de l’excédent par la Société**
+
+(2) Si le montant visé à l’alinéa (1)a) excède celui visé à l’alinéa (1)b), la Société paie l’excédent à la compagnie et cette dernière lui cède et transfère la partie invendue du terrain.
+
+**Paiement de l’excédent par la compagnie**
+
+(3) Si le montant visé à l’alinéa (1)b) excède celui visé à l’alinéa (1)a), la compagnie paie l’excédent à la Société.
+
+**Achat conjoint par des compagnies**
+
+(4) Plusieurs compagnies peuvent acheter et améliorer conjointement des terrains destinés à un quartier résidentiel au titre de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 20
+
+</details>
+
+### 41 Assimilation de prêteurs à des compagnies
+
+(1) Le gouverneur en conseil peut assimiler à une compagnie, pour l’application de la présente partie :
+
+- a) un prêteur agréé relevant de la compétence du Parlement et, le cas échéant, les articles 38 à 40 s’appliquent, compte tenu des adaptations de circonstance, au prêteur, sauf que le montant que celui-ci peut investir ne peut dépasser cinq pour cent de son actif au Canada ou le montant approuvé par le gouverneur en conseil pour l’application de la présente partie;
+
+- b) un prêteur agréé ne relevant pas de la compétence du Parlement, mais autorisé à faire des placements mentionnés dans la présente partie et, le cas échéant, les articles 38 à 40 s’appliquent, compte tenu des adaptations de circonstance, au prêteur, mais le montant des placements à l’égard desquels des garanties peuvent être données au titre de la présente partie ne peut dépasser cinq pour cent de son actif au Canada ou le montant approuvé par le gouverneur en conseil pour l’application de la présente partie.
+
+**Règlements**
+
+(2) Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente partie qu’il estime utile.
+
+**Prise de mesures utiles par la Société**
+
+(3) La Société peut prendre toute mesure qu’elle estime utile à l’application de la présente partie et à la protection de ses intérêts.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 20
+
+</details>
+
+## Acquisition des terrains et location-financement
+
+### 42 Acquisition
+
+(1) La Société peut, dans l’intention de les louer à prix modique à des associations personnalisées :
+
+- a) acquérir des terrains, notamment par achat ou location;
+
+- b) y faire effectuer les travaux d’aménagement des infrastructures, les améliorer et les aménager à des fins d’habitation.
+
+**Location de terrains**
+
+(2) La Société peut louer les terrains acquis au titre du paragraphe (1) à des associations personnalisées, à un prix minimal établi conformément aux règlements.
+
+(3) et (4) [Abrogés, 1992, ch. 32, art. 35]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 42; 1992, ch. 32, art. 35
+
+</details>
+
+## [Abrogée, L.R. (1985), ch. 25 (4e suppl.), art. 23]
+
+## Réparation, remise en état, amélioration et transformation des immeubles
+
+### 51 Prêts, etc., pour la réparation et la modification
+
+(1) La Société peut consentir des prêts et verser des contributions en vue d’aider à la réparation, à la remise en état, à la modification, à l’amélioration ou à la transformation d’ensembles d’habitation et faire remise de montants exigibles sur les prêts.
+
+**Conditions préalables**
+
+(2) La Société peut fixer les conditions et modalités relatives à tout prêt ou à toute contribution ou remise effectués dans le cadre du paragraphe (1), notamment en ce qui concerne :
+
+- a) l’exploitation et l’occupation de l’ensemble d’habitation;
+
+- b) les restrictions relatives à l’aliénation ou à la location de l’ensemble d’habitation, d’une partie de celui-ci ou d’un droit sur celui-ci ou à la constitution de sûretés sur l’ensemble d’habitation, la partie ou le droit;
+
+- c) la limite applicable au rendement financier de l’ensemble d’habitation;
+
+- d) le droit pour elle de prévoir la destination de tout revenu excédant le montant de la limite.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 51; L.R. (1985), ch. 20 (2^e^ suppl.), art. 9; 1992, ch. 32, art. 36; 1999, ch. 27, art. 7
+
+</details>
+
+### 52 à 55
+
+[Abrogés, 1999, ch. 27, art. 7]
+
+### 56
+
+[Abrogé, 1992, ch. 32, art. 39]
+
+## Aide destinée à faciliter l’accession à la propriété et l’occupation des habitations
+
+### 57 Prêts, etc., relatifs aux habitations occupées par leurs propriétaires
+
+(1) La Société peut consentir des prêts et verser des contributions à l’égard d’un ensemble d’habitation occupé ou destiné à être occupé par le propriétaire de celui-ci, acquérir un droit ou un intérêt dans un tel ensemble, faire des placements afin d’acquérir un tel droit ou intérêt et consentir des prêts destinés à refinancer une dette qui, à son avis, est liée à un tel ensemble. Elle peut aussi faire remise de montants exigibles sur les prêts.
+
+**Conditions et modalités**
+
+(2) La Société peut, avec l’approbation du ministre des Finances, fixer les conditions et modalités relatives à tout prêt ou placement ou à toute contribution, acquisition ou remise effectués dans le cadre du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 57; 1999, ch. 27, art. 8
+- 2019, ch. 29, art. 312
+
+</details>
+
+### 58 Prêts, etc., relatifs aux frais d’habitation
+
+(1) La Société peut consentir des prêts et verser des contributions destinés à faciliter le paiement de frais qui, de l’avis de la Société, sont liés à l’habitation ou à servir d’allocation pour ces frais, et faire remise de montants exigibles sur les prêts.
+
+**Conditions**
+
+(2) La Société peut fixer les conditions et modalités relatives à tout prêt ou à toute contribution ou remise effectués dans le cadre du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 58; 1991, ch. 47, art. 740; 1999, ch. 27, art. 8
+
+</details>
+
+### 59 et 60
+
+[Abrogés, 1999, ch. 27, art. 8]
+
+### 61 Prêts, etc., à des associations coopératives
+
+(1) La Société peut consentir des prêts et verser des contributions aux associations coopératives et à leurs membres relativement à des ensembles d’habitation et leur consentir des prêts pour refinancer des dettes qui, à son avis, sont liées à des ensembles d’habitation. Elle peut également faire remise de montants exigibles sur les prêts.
+
+**Conditions**
+
+(2) La Société peut fixer les conditions et modalités relatives à tout prêt ou à toute contribution ou remise effectués dans le cadre du paragraphe (1), notamment en ce qui concerne :
+
+- a) l’exploitation et l’occupation de l’ensemble d’habitation;
+
+- b) les restrictions relatives à l’aliénation ou à la location de l’ensemble d’habitation, d’une partie de celui-ci ou de droits sur celui-ci ou à la constitution de sûretés sur l’ensemble d’habitation, la partie ou le droit.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 61; 1999, ch. 27, art. 9
+
+</details>
+
+### 62 à 72
+
+[Abrogés, 1999, ch. 27, art. 9]
+
+## Recherche en matière d’habitation, urbanisme et activité internationale
+
+### 73 Enquêtes sur les conditions d’habitation
+
+Il incombe à la Société de faire tenir des enquêtes sur les conditions d’habitation et sur la suffisance des facilités de logement au Canada ou dans une partie du Canada et de faire prendre des mesures pour assurer la distribution de renseignements favorisant la construction ou la fourniture de facilités de logement plus convenables et améliorées, ainsi que la compréhension et l’adoption de plans d’urbanisme au Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 35
+
+</details>
+
+### 74 Pouvoirs généraux et spéciaux de la Société
+
+En vue de s’acquitter de la responsabilité que lui attribue la présente partie, la Société peut :
+
+- a) faire tenir des enquêtes sur les conditions d’habitation et sur la suffisance des facilités de logement au Canada ou dans une partie du Canada et sur les mesures qui peuvent être prises pour les améliorer;
+
+- b) faire procéder à des études sur les enquêtes relatives aux conditions d’habitation et aux facilités de logement effectuées ailleurs qu’au Canada et sur les mesures prises, les plans établis ou les propositions présentées ailleurs qu’au Canada en vue de leur amélioration;
+
+- c) faire tenir des enquêtes sur les facteurs qui influent sur le coût de construction des facilités de logement et sur les mesures qui peuvent être prises pour assurer l’économie et l’efficacité accrue de la construction;
+
+- d) faire dresser des plans et dessins de maisons économiques à construire pouvant offrir, à son avis, des facilités convenables, et assurer leur vente ou distribution de la manière qu’elle juge appropriée;
+
+- e) faire préparer et distribuer de la documentation et faire tenir des conférences publiques en vue de favoriser la compréhension de l’opportunité de l’aménagement foncier, de l’aménagement urbain et de l’aménagement du territoire et des principes qui s’y rattachent;
+
+- f) faire procéder à des études sur l’utilisation des terrains et sur l’aménagement urbain et faire prendre des mesures visant à assurer la distribution de renseignements et de conseils sur l’établissement d’organismes d’aménagement urbain, et sur l’aménagement du territoire, en collaboration avec les autorités locales ou autres ayant compétence en ce domaine, en vue de faciliter la coordination entre l’aménagement urbain et l’aménagement des services publics;
+
+- g) faire prendre toutes autres mesures qu’elle peut juger utiles en vue de favoriser la construction de facilités de logement qui, à son avis, sont solides et économiques et d’encourager le développement de meilleures habitations et d’aménagements judicieux de collectivités.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 36
+
+</details>
+
+### 75 Recherches et enquêtes techniques, etc.
+
+(1) Sous réserve du paragraphe (2), la Société peut :
+
+- a) faire préparer et entreprendre, directement ou en collaboration avec d’autres ministères ou organismes fédéraux, avec un gouvernement provincial ou avec une municipalité, une université, un établissement d’enseignement ou une personne, des programmes de recherches et des enquêtes techniques sur l’amélioration et le développement des méthodes de construction, des normes, des matériaux, des appareils, de la fabrication, de l’aménagement, de la conception et d’autres facteurs que comporte la construction ou la fourniture de facilités de logement améliorées au Canada et coordonner ces programmes ou mesures avec des programmes ou mesures semblables entrepris au Canada;
+
+- b) conclure des contrats pour la production ou le développement de matériaux, d’appareils ou de parties constituantes de maisons durant le stade d’essai de la production ou du développement, et pour l’essai de ces matériaux, appareils ou parties constituantes;
+
+- c) entreprendre la publication et la distribution de publications, coordonnant les résultats des recherches et enquêtes techniques, des programmes et essais en question en la forme la plus utile au public ou à l’industrie du bâtiment;
+
+- d) organiser des concours pour la création de plans, dessins et devis qui, à son avis, peuvent servir à la construction de maisons à bas prix, et acheter ces plans ou autrement rémunérer les participants;
+
+- e) offrir ou faire offrir, de la manière qu’elle juge appropriée ou en collaboration avec tout autre ministère ou organisme fédéral, avec un gouvernement provincial ou avec une université, un établissement d’enseignement ou une personne, un programme de formation ou des facilités d’enseignement qui, à son avis, aideront à la construction ou à la conception de logements familiaux, à l’aménagement foncier ou urbain, à la gestion ou l’exploitation d’ensembles d’habitation ou à l’élaboration et l’application d’une politique du logement;
+
+- f) passer un contrat avec un fabricant d’appareils de plomberie ou de chauffage ou d’autres parties constituantes de maisons pour la production expérimentale de tels appareils ou parties d’après des dessins normalisés qui, à son avis, peuvent être fabriqués ou produits à bas prix;
+
+- g) construire des logements familiaux à des fins expérimentales sur des terrains qu’elle possède ou acquerra à cette fin;
+
+- h) conclure des arrangements avec une province ou une municipalité, avec l’approbation du gouvernement de la province où celle-ci est située, en vue de diriger des études spéciales sur la condition des zones urbaines, sur la manière d’améliorer le logement, et sur le besoin de logement additionnel ou de réaménagement urbain;
+
+- i) entreprendre ou faire entreprendre des programmes expérimentaux ou d’aménagement susceptibles de l’aider à élaborer et appliquer une politique du logement destinée à répondre aux besoins des diverses collectivités au Canada;
+
+- j) exercer des activités de recherche et de planification et fournir de l’information et des services en ce qui concerne le financement de l’habitation, l’accès à une diversité de logements abordables, le cadre de vie ou l’urbanisme ou qui sont destinés à contribuer à l’essor du secteur de l’habitation au sein de l’économie nationale.
+
+**Approbation nécessaire**
+
+(2) L’exercice des pouvoirs de la Société visés aux alinéas (1)g) et i) est assujetti à l’approbation du gouverneur en conseil.
+
+**Garantie des ventes**
+
+(3) La Société peut, avec l’approbation du gouverneur en conseil, passer un contrat avec un fabricant mentionné à l’alinéa (1)f) en vue d’assurer la vente, au prix convenu et spécifié au contrat, des appareils ou parties constituantes mentionnés à cet alinéa, fabriqués ou produits en vue de leur installation ou de leur usage dans des maisons, si le fabricant produit le volume prévu au contrat.
+
+**Contrats de vente et de distribution**
+
+(4) La Société peut, avec la même approbation, passer des contrats avec le fabricant ou avec toute autre personne en vue de la vente ou de la distribution des appareils ou parties constituantes de la manière qu’elle juge appropriée.
+
+**Restriction**
+
+(5) La responsabilité maximale éventuelle de la Société au titre de contrats conclus en application du paragraphe (3) ne peut à aucun moment dépasser dix millions de dollars, et tout paiement au titre de ces contrats peut être effectué en application de l’article 29 de la *Loi sur la gestion des finances publiques*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 75; 1999, ch. 27, art. 11
+
+</details>
+
+### 76 Aide relative à des propositions
+
+(1) La Société peut conclure des accords, consentir des prêts et verser des contributions pour l’élaboration, la mise en oeuvre ou le financement de propositions qui se rapportent à un ensemble d’habitation, à l’accès à une diversité de logements abordables, au cadre de vie ou à l’urbanisme ou qui sont destinées à contribuer à l’essor du secteur de l’habitation au sein de l’économie nationale, et faire remise de montants exigibles sur les prêts.
+
+**Conditions**
+
+(2) La Société peut fixer les conditions et modalités relatives à tout accord conclu ou à tout prêt ou toute contribution ou remise effectués dans le cadre du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 76; 1999, ch. 27, art. 12
+
+</details>
+
+### 77 Activité internationale et soutien à l’exportation
+
+(1) La Société peut :
+
+- a) promouvoir et développer l’exportation du savoir-faire, de la recherche, des services et des produits canadiens dans le domaine de l’habitation, du cadre de vie et de l’urbanisme;
+
+- b) participer et fournir de l’aide au développement, à l’étranger, du secteur de l’habitation, de l’urbanisme, du financement de l’habitation et du cadre de vie et procéder à des enquêtes dans ces domaines, directement ou par l’intermédiaire d’autres personnes, y compris des gouvernements étrangers ou organismes de ceux-ci ou des organisations non gouvernementales.
+
+**Conditions d’exercice des pouvoirs**
+
+(2) La Société peut fixer les conditions et modalités d’exercice des pouvoirs et fonctions qui lui sont conférés par le paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 77; L.R. (1985), ch. 25 (4^e^ suppl.), art. 25; 1992, ch. 32, art. 41; 1999, ch. 27, art. 12
+
+</details>
+
+## Logement public
+
+### 78 Définition de **organisme de logement public**
+
+Pour l’application de la présente partie, **organisme de logement public** s’entend d’une personne morale habilitée à acquérir ou à aménager des terrains destinés à un ensemble d’habitation, ou à construire, acquérir ou gérer un ensemble d’habitation, et qui appartient exclusivement :
+
+- a) au gouvernement d’une province ou à un organisme de celui-ci;
+
+- b) à une ou plusieurs municipalités d’une province;
+
+- c) au gouvernement d’une province ou à un organisme de celui-ci et à une ou plusieurs municipalités de cette province.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 78; 1999, ch. 27, art. 13
+
+</details>
+
+### 79 Programmes conjoints avec les provinces
+
+La Société peut entreprendre, conjointement avec le gouvernement d’une province ou tout organisme de celui-ci ou avec un organisme de logement public, des programmes en vue de :
+
+- a) l’acquisition et l’aménagement de terrains à des fins d’habitation ou à toute fin liée à celle-ci;
+
+- b) la construction d’ensembles d’habitation pour la vente ou la location;
+
+- c) l’acquisition et l’amélioration d’immeubles existants et leur transformation en ensembles d’habitation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 79; L.R. (1985), ch. 25 (4^e^ suppl.), art. 26; 1992, ch. 32, art. 42; 1999, ch. 27, art. 13
+
+</details>
+
+### 80 Prêt, etc., à une province, une municipalité ou un organisme de logement public
+
+(1) La Société peut consentir des prêts et verser des contributions à une province, à une municipalité ou à un organisme de logement public en vue de faciliter l’acquisition ou l’aménagement de terrains à des fins d’habitation ou à des fins accessoires à celles-ci et consentir des prêts pour refinancer une dette qui, à son avis, est liée à l’acquisition ou à l’aménagement de terrains à ces fins, et faire remise de montants exigibles sur les prêts.
+
+**Conditions**
+
+(2) La Société peut fixer les conditions et modalités relatives à tout prêt ou à toute contribution ou remise effectués dans le cadre du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 80; 1999, ch. 27, art. 13
+
+</details>
+
+### 81 à 83
+
+[Abrogés, 1999, ch. 27, art. 13]
+
+## Collectivités nouvelles
+
+### Accords fédéro-provinciaux
+
+### 84 Programmes conjoints
+
+(1) La Société peut, en application d’accords conclus par le gouvernement fédéral et un gouvernement provincial, entreprendre, conjointement avec ce dernier ou avec un organisme ou une personne morale désignés dans l’accord, un programme visant :
+
+- a) l’acquisition de terrains pour une collectivité nouvelle, y compris les terrains devant servir soit aux voies de communication entre cette dernière et d’autres collectivités, soit à des espaces publics libres aménagés dans la collectivité nouvelle, l’entourant ou la séparant de toute autre collectivité;
+
+- b) l’organisation de la collectivité nouvelle;
+
+- c) la conception et l’installation des services d’utilité publique et autres services nécessaires à l’organisation de la collectivité et dont la propriété est normalement publique.
+
+**Conditions régissant la conclusion des accords**
+
+(2) Nul accord ne peut être conclu en application du présent article à moins que la province ne dévoile ses plans concernant la croissance urbaine, y compris la situation, la taille et l’ordre de croissance des autres collectivités nouvelles et que la Société ne juge ces plans satisfaisants.
+
+**Accords avec les provinces**
+
+(3) Par dérogation à l’article 17 de la *Loi sur la Société canadienne d’hypothèques et de logement*, tout accord visé au paragraphe (1) doit être signé au nom du gouvernement du Canada, par le ministre, avec l’approbation du gouverneur en conseil, et doit :
+
+- a) désigner la collectivité nouvelle à l’égard de laquelle un programme peut être entrepris ainsi que l’organisme ou la personne morale qui seront chargés de l’organisation et du développement de cette collectivité;
+
+- b) prévoir les mesures à prendre pour que le public bénéficie des avantages économiques provenant des terrains et des services à l’égard desquels un accord est conclu au titre du présent article;
+
+- c) contenir les autres dispositions jugées utiles à l’application du présent article.
+
+(4) et (5) [Abrogés, 1999, ch. 27, art. 14]
+
+(6) et (7) [Abrogés, 1992, ch. 32, art. 43]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 84; 1992, ch. 32, art. 43; 1999, ch. 27, art. 14
+
+</details>
+
+### Prêts
+
+### 85 Prêts relatifs à des collectivités nouvelles
+
+(1) La Société peut, sur demande d’une province et avec l’approbation du gouverneur en conseil, consentir un prêt à cette province ou à un organisme ou à une personne morale désignés par la province, aux fins :
+
+- a) d’acquérir des terrains pour une collectivité nouvelle, y compris des terrains devant servir soit aux voies de communication entre cette dernière et d’autres collectivités, soit à des espaces publics libres aménagés dans la collectivité nouvelle, l’entourant ou la séparant de toute autre collectivité;
+
+- b) d’organiser la collectivité nouvelle;
+
+- c) de concevoir et d’installer les services d’utilité publique et autres services nécessaires à l’organisation de la collectivité et dont la propriété est normalement publique.
+
+**Conditions régissant les prêts**
+
+(2) Nul prêt ne peut être consenti au titre du présent article à moins que :
+
+- a) d’une part, la province intéressée :
+  - (i) ne désigne l’organisme ou la personne morale qui seront chargés de l’organisation et du développement de la collectivité nouvelle, si le prêt doit être consenti à la province et non à l’organisme ou à la personne morale,
+  - (ii) ne prévoie les mesures à prendre pour que le public bénéficie des avantages économiques provenant des terrains et des services à l’égard desquels des prêts sont consentis au titre du présent article,
+  - (iii) ne dévoile ses plans concernant la croissance urbaine, y compris la situation, la taille et l’ordre de croissance des autres collectivités nouvelles;
+
+- b) d’autre part, la Société ne juge ces mesures et ces plans satisfaisants.
+
+(3) [Abrogé, 1999, ch. 27, art. 15]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 85; 1999, ch. 27, art. 15
+
+</details>
+
+### 86 Réduction de la dette
+
+La Société peut faire remise à l’emprunteur d’une partie d’un prêt consenti au titre de l’article 85 ne dépassant pas cinquante pour cent du montant utilisé à l’une des fins suivantes, si elle est convaincue que tel en a été l’usage :
+
+- a) l’organisation d’une collectivité nouvelle;
+
+- b) l’acquisition de terrains utilisés pour des installations récréatives ou des installations consacrées à d’autres activités sociales de la collectivité.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1973-74, ch. 18, art. 19
+
+</details>
+
+## Prêts pour des ensembles d’habitation destinés aux étudiants
+
+### 87 Définition de **association de bienfaisance**
+
+Pour l’application de la présente partie, **association de bienfaisance** s’entend d’une personne morale constituée exclusivement à des fins de charité, dont aucune partie du revenu n’est payable à un propriétaire, membre ou actionnaire de celle-ci ni mise à sa disposition pour son avantage personnel.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 87; 1999, ch. 27, art. 16
+
+</details>
+
+### 88 Prêts, etc., visant des ensembles d’habitation destinés à des étudiants
+
+(1) Sous réserve du paragraphe (2), la Société peut, relativement à des ensembles d’habitation destinés à des étudiants et à leur famille, consentir des prêts et verser des contributions aux provinces ou organismes provinciaux, aux municipalités ou organismes municipaux, aux hôpitaux, aux commissions scolaires, aux universités, aux collèges, aux associations coopératives ou aux associations de bienfaisance, et faire remise de montants exigibles sur les prêts.
+
+**Consentement de la province**
+
+(2) Les prêts, contributions ou remises prévus au présent article ne peuvent s’effectuer qu’avec le consentement du gouvernement de la province dans laquelle est ou sera situé l’ensemble d’habitation en cause.
+
+**Exception**
+
+(3) Le paragraphe (2) ne s’applique pas quand les prêts, contributions ou remises sont destinés à une province.
+
+**Conditions**
+
+(4) La Société peut fixer les modalités et conditions relatives à tout prêt ou à toute contribution ou remise effectués dans le cadre du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 88; 1999, ch. 27, art. 16
+
+</details>
+
+### 89 et 90
+
+[Abrogés, 1999, ch. 27, art. 16]
+
+## Services communautaires
+
+### 91 Subventions pour services communautaires
+
+(1) La Société peut verser à une province ou à toute administration locale constituée par une loi de cette province, dans les conditions fixées par accord conclu avec celle-ci et pour chaque période du programme qui y est définie, des subventions destinées au remboursement des dépenses entraînées par la fourniture, la création, le développement et l’amélioration des services communautaires déterminés dans l’accord ou destinées au paiement des résultats qui y ont été obtenus.
+
+**Répartition des subventions**
+
+(2) Les subventions prévues au paragraphe (1) sont réparties entre les administrations locales déclarées admissibles dans les conditions fixées par l’accord visé à ce paragraphe.
+
+**Approbation du gouverneur en conseil**
+
+(3) Un accord prévu au paragraphe (1) est inopérant tant qu’il n’a pas été approuvé par décret du gouverneur en conseil.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1978-79, ch. 16, art. 10
+
+</details>
+
+## Développement du secteur de l’habitation
+
+### 92 Pouvoirs de la Société
+
+(1) La Société peut :
+
+- a) acquérir des terrains ou des ensembles d’habitation par achat, bail ou autrement;
+
+- b) faire effectuer les travaux d’aménagement des infrastructures, relatifs à ces terrains, apporter des améliorations et les aménager à des fins d’habitation;
+
+- c) construire, transformer ou améliorer des ensembles d’habitation;
+
+- d) acquérir des matériaux et des accessoires de construction ainsi que d’autres biens meubles à utiliser relativement à des ensembles d’habitation.
+
+**Idem**
+
+(2) La Société peut :
+
+- a) détenir, exploiter, gérer, chauffer, entretenir, surveiller, modifier, remettre à neuf, améliorer, réparer, démolir et récupérer des biens qu’elle a acquis ou y faire des additions;
+
+- b) acquérir de Sa Majesté la tenure à bail ou un autre droit de Sa Majesté sur des maisons ou des ensembles d’habitation;
+
+- c) administrer des ensembles d’habitation ou fournir des services relativement à ceux-ci;
+
+- d) obtenir la participation de municipalités à des ensembles d’habitation;
+
+- e) conclure des contrats pour prendre des mesures accessoires à l’application du présent article.
+
+(3) et (4) [Abrogés, L.R. (1985), ch. 25 (4^e^ suppl.), art. 27]
+
+***Loi sur la Société canadienne d’hypothèques et de logement***
+
+(5) Les biens acquis par la Société au titre du présent article, le produit de la vente de ceux-ci ainsi que le revenu en provenant sont assujettis à la *Loi sur la Société canadienne d’hypothèques et de logement*.
+
+(6) [Abrogé, L.R. (1985), ch. 25 (4^e^ suppl.), art. 27]
+
+(7) [Abrogé, 1999, ch. 27, art. 18]
+
+(8) et (9) [Abrogés, 1992, ch. 32, art. 45]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 92; L.R. (1985), ch. 25 (4^e^ suppl.), art. 27; 1992, ch. 32, art. 45; 1999, ch. 27, art. 18
+
+</details>
+
+### 93 Contrats avec des constructeurs
+
+(1) La Société peut conclure des contrats avec des constructeurs en vue d’encourager la construction de maisons devant être vendues à des propriétaires éventuels de leur propre demeure.
+
+**Conditions**
+
+(2) Le contrat prévu au paragraphe (1) ne peut être conclu qu’à l’égard de maisons dont la construction est facilitée par des prêts consentis en application de la présente loi, et doit prévoir que :
+
+- a) le constructeur devra financer la construction de ces maisons en application de la présente loi;
+
+- b) le constructeur devra offrir en vente chacune de ces maisons à un prix ne dépassant pas le prix fixé au contrat;
+
+- c) la Société conviendra qu’en contrepartie du paiement, par le constructeur, de la somme fixée par le gouverneur en conseil, elle achètera au constructeur, dans un délai d’un an à compter de son achèvement et au prix fixé au contrat, toute maison construite en application de celui-ci et non vendue.
+
+**Autres conditions**
+
+(3) Un contrat conclu avec un constructeur au titre du présent article peut prévoir :
+
+- a) que le constructeur ne pourra, durant la période fixée par la Société, offrir ces maisons en vente qu’à des anciens combattants ou à des personnes se livrant à la production de matériel de défense au sens de la *Loi sur la production de défense*;
+
+- b) toutes autres mesures d’application du présent article que la Société estime nécessaires ou toutes mesures visant la protection de ses intérêts.
+
+**Définition de **ancien combattant****
+
+(4) Pour l’application du présent article, **ancien combattant** désigne une personne qui a touché ou a droit de toucher une gratification de service de guerre prévue dans la *Loi sur les indemnités de service de guerre*, chapitre W-4 des Statuts revisés du Canada de 1970. Y est assimilé quiconque a fait du service actif :
+
+- a) dans l’une des forces navales ou des forces de l’armée de Terre-Neuve ou, ayant été recruté à Terre-Neuve, dans l’une des forces navales, des forces de l’armée ou des forces aériennes levées à Terre-Neuve par le Royaume-Uni ou pour son compte;
+
+- b) dans toute autre force navale, force de l’armée ou force aérienne de Sa Majesté et qui, au moment de son enrôlement dans cette force, était domicilié à Terre-Neuve.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 93; 1999, ch. 27, art. 19(A)
+
+</details>
+
+### 94
+
+[Abrogé, 1999, ch. 27, art. 20]
+
+### 95 Prêts, etc., destinés au coût en capital et aux frais d’exploitation
+
+(1) La Société peut consentir des prêts et verser des contributions pour faciliter le paiement du coût en capital et des frais d’exploitation d’ensembles d’habitation et faire remise de montants exigibles sur les prêts.
+
+**Conditions**
+
+(2) La Société peut fixer les modalités et conditions relatives à tout prêt ou à toute contribution ou remise effectués dans le cadre du paragraphe (1), notamment en ce qui concerne :
+
+- a) l’exploitation et l’occupation de l’ensemble d’habitation;
+
+- b) les restrictions relatives à l’aliénation ou à la location de l’ensemble d’habitation, d’une partie de celui-ci ou d’un droit sur celui-ci ou la constitution de sûretés sur l’ensemble d’habitation, la partie ou le droit;
+
+- c) les limites applicables au rendement financier de l’ensemble d’habitation;
+
+- d) le droit pour elle de prévoir la destination de tout montant excédant le montant des limites.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 95; L.R. (1985), ch. 20 (2^e^ suppl.), art. 11; 1992, ch. 32, art. 46; 1999, ch. 27, art. 20
+
+</details>
+
+## Dispositions générales
+
+### 96
+
+(1) et (2) [Abrogés, L.R. (1985), ch. 25 (4^e^ suppl.), art. 28]
+
+(3) [Abrogé, 1992, ch. 32, art. 47]
+
+### 97 Clause automatique
+
+(1) Toute entente à laquelle est partie la Société concernant l’exploitation d’un ensemble d’habitation comporte l’interdiction, sauf avec l’agrément de celle-ci ou dans les cas réglementaires, d’aliéner — notamment par vente —, de louer pour une période de plus de trois ans et de mettre en garantie, de quelque façon que ce soit, en vue d’assurer un paiement ou l’exécution d’une obligation, tout ou partie de cet ensemble.
+
+**Effet**
+
+(2) Cette interdiction ne modifie en rien les autres conditions prévues par la présente loi ou fixées en conformité avec celle-ci.
+
+**Enregistrement**
+
+(3) En acquittant les droits exigibles, la Société peut, conformément à la procédure normale d’enregistrement des documents concernant les biens immeubles ou les droits sur ceux-ci, faire enregistrer l’entente visée au paragraphe (1) à l’égard de l’ensemble d’habitation en cause.
+
+**Effet de l’enregistrement**
+
+(4) L’enregistrement vaut dès lors avis de l’entente au même titre que celui de tout autre document concernant les biens immeubles ou les droits sur ceux-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 97; L.R. (1985), ch. 25 (4^e^ suppl.), art. 29; 1992, ch. 32, art. 48
+
+</details>
+
+### 97.1 Demande d’engagements
+
+(1) La Société peut exiger des engagements de toute personne à qui elle a soit consenti un prêt à un taux d’intérêt inférieur au taux offert sur le marché libre ou à celui fixé par elle à titre de taux du marché, soit versé une contribution, soit encore fait remise d’une somme.
+
+**Engagements**
+
+(2) Ces engagements consistent à observer les conditions d’exploitation, d’occupation résidentielle ou autres fixées par la Société ou, en cas de manquement à l’une d’entre elles, à :
+
+- a) payer à celle-ci un montant égal à la différence entre l’intérêt versé par l’emprunteur et celui qui aurait été exigible au taux supérieur visé au paragraphe (1);
+
+- b) lui rembourser toutes les contributions qu’elle a versées;
+
+- c) lui rembourser toutes les sommes dont elle a fait remise.
+
+**Application**
+
+(3) Le présent article s’applique même dans le cas où le taux, les contributions ou la remise sont assortis de conditions.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 32, art. 48
+
+</details>
+
+### 98
+
+[Abrogé, 1999, ch. 27, art. 21]
+
+### 99 Disponibilité des services et moyens
+
+Moyennant les droits qu’elle peut fixer, la Société peut fournir des services et autres moyens :
+
+- a) en ce qui touche la gestion et l’aménagement fonciers, le lotissement ou l’inspection et l’évaluation des biens-fonds, à des fins d’habitation, aux ministères, secteurs et organismes du gouvernement fédéral, ainsi qu’à tout organe soit constitué sous le régime d’une loi fédérale et responsable en dernier ressort devant le Parlement par l’intermédiaire d’un ministre fédéral, soit désigné à cet effet par le gouverneur en conseil;
+
+- b) en ce qui touche l’inspection des biens, au garant — même éventuel — dont la garantie est — ou serait — fournie au titre d’un programme de garantie reconnu par la Société;
+
+- c) afin de favoriser la mise en oeuvre, au moindre coût, d’accords fédéro-provinciaux en matière d’habitation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 99; 1992, ch. 32, art. 49; 1999, ch. 27, art. 22
+
+</details>
+
+### 99.1 Entente
+
+La Société peut conclure une entente avec une province, un organisme provincial ou un organisme de logement public, au sens de l’article 78, concernant l’exercice par ceux-ci de ceux de ses pouvoirs et fonctions qu’elle spécifie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 25 (4^e^ suppl.), art. 30
+
+</details>
+
+### 99.2 Droits
+
+La Société peut fixer et percevoir les droits à verser et la somme à payer pour les services, les produits, les équipements, le matériel et les installations qu’elle fournit, et pour les activités qu’elle exerce, dans le cadre de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 27, art. 23
+
+</details>
+
+### 100 Comités consultatifs
+
+La Société peut, avec l’approbation du ministre, pour se faire aider dans l’exercice de ses attributions au titre de la présente loi, nommer les comités consultatifs qu’elle estime utiles, et payer aux membres de ces comités les frais de déplacement et autres entraînés par leur présence aux réunions de ces comités.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. N-10, art. 38
+
+</details>
+
+### 100.1 Financement de la Société
+
+Le ministre doit, sur les fonds affectés au besoin à cette fin par le Parlement, payer à la Société le montant des frais et dépenses qu’elle a engagés pour l’application des parties IV, VI, VII, IX, X, XI, XII et XIII et des articles 25, 92, 95 et 100, et lui rembourser les sommes suivantes :
+
+- a) les contributions qu’elle a versées au titre des articles 25, 51, 57, 58, 61, 76, 80, 88, 91 et 95;
+
+- b) les sommes qu’elle a prêtées et dont elle a fait remise au titre des articles 25, 51, 57, 58, 61, 76, 80, 86, 88 et 95;
+
+- c) les pertes qu’elle a subies à l’égard des prêts ou garanties consentis au titre des parties II, VI, VII, X, XI et XII et des articles 76 et 95, à l’égard des terrains qu’elle a loués au titre du paragraphe 42(2) et à l’égard de la vente ou de l’exploitation d’ensembles d’habitation dans le cadre de l’article 92;
+
+- d) les pertes résultant des achats qui doivent être effectués en application de l’alinéa 93(2)c);
+
+- e) les frais engagés pour l’application de la partie IX et de l’article 100;
+
+- f) les pertes qu’elle a subies à l’égard des programmes prévus aux articles 79 et 84;
+
+- g) les frais et dépenses qu’elle a engagés pour la mise en oeuvre des ententes conclues sous le régime de l’article 99.1 ou sous le régime de l’article 28.1 de la *Loi sur la Société canadienne d’hypothèques et de logement*;
+
+- h) les sommes qu’elle a versées pour rembourser une partie à une entente visée à l’alinéa g) des pertes, contributions, remises ou frais que cette partie a supportés et qui seraient visés aux alinéas a) à f) si la Société en était chargée;
+
+- i) les sommes qu’elle a versées pour payer à une partie à une entente visée à l’alinéa g) les montants que cette partie a l’intention d’engager en vertu de l’entente pour toute mesure qui pourrait faire l’objet d’un remboursement en vertu du présent article si elle était prise par la Société.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 27, art. 24
+
+</details>
+
+### 101 Règlements
+
+Le gouverneur en conseil peut, par règlement, prendre toute mesure utile à l’application de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 101; 1999, ch. 27, art. 24
+
+</details>
+
+### Rapport annuel
+
+### 102 Rapport annuel
+
+(1) La Société présente au ministre, au plus tard le 31 mars de chaque année, un rapport sur l’application de la présente loi, sur les prêts consentis au titre de celle-ci pendant l’année civile précédente et sur l’administration des prêts consentis au titre de la *Loi nationale sur l’habitation*, chapitre 188 des Statuts revisés du Canada de 1952.
+
+**Dépôt devant le Parlement**
+
+(2) Le rapport est déposé devant chaque chambre du Parlement dans les quinze premiers jours de séance suivant sa réception par le ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-11, art. 102; L.R. (1985), ch. 25 (4^e^ suppl.), art. 31; 1992, ch. 32, art. 50(A)
+
+</details>
+
+
+## DISPOSITIONS CONNEXES
+
+### — 1992, ch. 32, par. 7(2)
+
+### 7 Disposition transitoire
+
+(2) Est réputé avoir reçu l’agrément visé à l’article 4.1 de la même loi, édicté par le paragraphe (1), le prêteur qui, lors de l’entrée en vigueur de celui-ci, était prêteur agréé.
+
+### — 1992, ch. 32, par. 20(3)
+
+### 20 Disposition transitoire
+
+(3) Les prêts visés à l’alinéa 97(2)a) de la même loi — dans sa version en vigueur le 20 juillet 1988 — sont, pour l’application de l’article 17 de cette loi, réputés avoir été consentis au titre du paragraphe 15.1(1) de cette loi.
+
+### — 1992, ch. 32, art. 51
+
+### 51 Dispositions réglementaires
+
+(1) Les paragraphes 82(2) et 82.1(1) du *Règlement national sur les prêts pour l’habitation* restent en vigueur, en leur état lors de l’entrée en vigueur du présent article, jusqu’à la fixation du montant ou des modalités visés à l’alinéa 51(2)b) de la même loi édicté par l’article 36 de la présente loi.
+
+**Idem**
+
+(2) Les paragraphes 82(3) et 82.1(2) du *Règlement national sur les prêts pour l’habitation* restent en vigueur, en leur état lors de l’entrée en vigueur du présent article, jusqu’à la fixation du montant ou des modalités visés à l’article 52 de la même loi édicté par l’article 37 de la présente loi.
+
+**Idem**
+
+(3) L’article 82.2 du *Règlement national sur les prêts pour l’habitation* reste en vigueur, en son état lors de l’entrée en vigueur du présent article, jusqu’à la fixation du montant ou des modalités visés au paragraphe 54(2) de la même loi modifié par le paragraphe 38(2) de la présente loi.
+
+**Idem**
+
+(4) Le paragraphe 82(1) et l’annexe III du *Règlement national sur les prêts pour l’habitation* restent en vigueur, en leur état lors de l’entrée en vigueur du présent article, tant que le reste n’importe laquelle des dispositions suivantes : les paragraphes 82(2) et (3), 82.1(1) et (2) ainsi que l’article 82.2 de ce règlement.
+
+### — 1995, ch. 47, art. 2
+
+### 2 Application
+
+La présente loi s’applique aux années civiles 1994 et suivantes.
+
+### — 1999, ch. 27, art. 38
+
+### 38 Maintien — ententes
+
+Sauf dans la mesure où la Société canadienne d’hypothèques et de logement renonce à leur application, les dispositions de la *Loi nationale sur l’habitation* et du *Règlement national sur les prêts pour l’habitation*, dans leur version antérieure à leur modification ou abrogation par la présente loi, continuent de s’appliquer aux ententes conclues par la Société avant cette modification ou abrogation.
+
+### — 1999, ch. 27, art. 39
+
+### 39 Maintien — obligations de paiement et de remboursement
+
+Les dispositions de la *Loi nationale sur l’habitation* applicables en matière de paiements ou remboursements à la Société canadienne d’hypothèques et de logement par le ministre chargé de l’application de la *Loi nationale sur l’habitation*, sur les fonds affectés au besoin par le Parlement ou sur le Trésor, et qui sont modifiées ou abrogées par la présente loi continuent de s’appliquer, dans leur version antérieure à cette modification ou abrogation, à toute obligation de paiement ou de remboursement à la Société qui découle de l’application de cette loi dans sa version antérieure à cette modification ou abrogation.
+
+### — 1999, ch. 27, art. 40
+
+### 40 Présomption d’agrément
+
+Est réputé avoir reçu l’agrément visé à l’article 5 de la *Loi nationale sur l’habitation*, édicté par l’article 3 de la présente loi, le prêteur qui était prêteur agréé la veille de la sanction de la présente loi.
+
+### — 1999, ch. 27, art. 41
+
+### 41 Maintien de certains fonds
+
+(1) Malgré l’article 3, la Société canadienne d’hypothèques et de logement peut maintenir le Fonds d’assurance hypothécaire et le Fonds de garantie des titres hypothécaires visés respectivement aux articles 16 et 21.3 de la *Loi nationale sur l’habitation* dans leur version antérieure à la date de sanction de la présente loi et y faire les opérations prévues au paragraphe (2).
+
+**Opérations sur les fonds**
+
+(2) La Société canadienne d’hypothèques et de logement peut effectuer sur les fonds visés au paragraphe (1) les versements et les prélèvements, et les transferts d’éléments d’actif, utiles à l’application de la *Loi nationale sur l’habitation* ou à l’exercice de ses activités.
+
+### — 2012, ch. 19, art. 365
+
+### 365 Garanties fournies avant l’entrée en vigueur de l’article 352
+
+Une garantie fournie par la Société canadienne d’hypothèques et de logement en vertu de l’article 14 de la *Loi nationale sur l’habitation* avant l’entrée en vigueur de l’article 352 de la présente loi ne requiert pas l’approbation du ministre.

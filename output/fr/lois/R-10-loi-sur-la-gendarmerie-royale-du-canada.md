@@ -1,0 +1,4655 @@
+---
+title: "Loi sur la Gendarmerie royale du Canada"
+long_title: "Loi concernant la Gendarmerie royale du Canada"
+chapter: "R-10"
+language: "en"
+type: "act"
+---
+
+# Loi sur la Gendarmerie royale du Canada
+
+> Loi concernant la Gendarmerie royale du Canada
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur la Gendarmerie royale du Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-9, art. 1
+
+</details>
+
+## Définitions
+
+### 2 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente loi.
+
+**autorité disciplinaire** S’entend, relativement à un membre, de toute personne désignée en vertu du paragraphe (3) à l’égard de ce membre. (**conduct authority**)
+
+**code de déontologie** Les règlements pris en application de l’article 38. (**Code of Conduct**)
+
+**Comité** Le Comité externe d’examen de la Gendarmerie royale du Canada constitué par l’article 25. (**Committee**)
+
+**commissaire** Le commissaire de la Gendarmerie royale du Canada. (**Commissioner**)
+
+**Commission** La Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada, constituée par le paragraphe 45.29(1). (**Commission**)
+
+**enfant** Toute personne âgée de moins de dix-huit ans ou qui, en l’absence de preuve contraire, paraît ne pas avoir atteint cet âge. (**child**)
+
+**Gendarmerie** La Gendarmerie royale du Canada. (**Force**)
+
+**membre** Personne nommée en vertu de l’article 5 ou des paragraphes 6(3) ou (4) ou 7(1) et employée au sein de la Gendarmerie. (**member**)
+
+**ministre** Le ministre de la Sécurité publique et de la Protection civile. (**Minister**)
+
+**officier** Membre nommé en vertu de l’article 5 ou des paragraphes 6(3) ou (4). (**officer**)
+
+**officier compétent**[Abrogée, 2013, ch. 18, art. 2]
+
+**procédure** S’entend, relativement à la Commission, de toute enquête ou audience de celle-ci à l’égard d’une plainte déposée au titre des parties VII ou VII.2. (**proceedings**)
+
+**représentant** Personne qui représente ou assiste un membre ou toute autorité disciplinaire conformément à l’article 47.1. (**representative**)
+
+**tuteur** À l’égard d’un enfant, toute personne — autre que son père ou sa mère — légalement tenue de subvenir à ses besoins ou qui en assume, en droit ou en fait, la garde ou la surveillance. (**guardian**)
+
+**Consignes du commissaire**
+
+(2) Les règles à caractère permanent que le commissaire établit en vertu de la présente loi sont appelées consignes du commissaire.
+
+**Désignation**
+
+(3) Le commissaire peut désigner toute personne à titre d’autorité disciplinaire à l’égard d’un membre pour l’application de la présente loi ou de telle de ses dispositions.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 2; L.R. (1985), ch. 8 (2^e^ suppl.), art. 1; 2005, ch. 10, art. 34; 2013, ch. 18, art. 2 et 79
+
+</details>
+
+## Constitution et organisation
+
+### Composition de la Gendarmerie
+
+### 3 Force de police pour le Canada
+
+Est maintenue pour le Canada une force de police composée d’officiers et autres membres et appelée Gendarmerie royale du Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-9, art. 3
+
+</details>
+
+### 4 Rôle de la Gendarmerie
+
+La Gendarmerie peut être employée partout, aussi bien à l’intérieur qu’à l’extérieur du Canada, où le décide le gouverneur en conseil.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-9, art. 4
+
+</details>
+
+### Commissaire
+
+### 5 Nomination
+
+(1) Le gouverneur en conseil peut nommer, à titre amovible, un officier appelé commissaire de la Gendarmerie royale du Canada, qui, sous la direction du ministre, a pleine autorité sur la Gendarmerie et tout ce qui s’y rapporte.
+
+**Délégation**
+
+(2) Le commissaire peut déléguer à tout membre, aux conditions qu’il fixe, les pouvoirs ou fonctions que lui attribue la présente loi, à l’exception du pouvoir de délégation que lui accorde le présent paragraphe, du pouvoir que lui accorde la présente loi d’établir des règles et des pouvoirs et fonctions visés aux paragraphes 45.4(5) et 45.41(10).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 5; L.R. (1985), ch. 8 (2^e^ suppl.), art. 2; 2013, ch. 18, art. 3 et 77
+
+</details>
+
+### Officiers et membres
+
+### 6 Autres officiers
+
+(1) Les officiers comprennent, outre le commissaire et les titulaires des grades désignés par le gouverneur en conseil :
+
+- a) des sous-commissaires;
+
+- b) des commissaires adjoints;
+
+- c) des surintendants principaux;
+
+- d) des surintendants;
+
+- e) des inspecteurs.
+
+- f) [Abrogé, L.R. (1985), ch. 8 (2^e^ suppl.), art. 3]
+
+**Effectifs maximaux**
+
+(2) Le nombre maximal d’officiers de chaque grade est fixé par le Conseil du Trésor.
+
+**Nomination des sous-commissaires**
+
+(3) Le gouverneur en conseil peut nommer, à titre amovible, toute personne au grade de sous-commissaire.
+
+**Nomination des autres officiers**
+
+(4) Le commissaire peut nommer toute personne aux autres grades d’officier et, par voie de promotion, un officier à un grade supérieur autre que le grade de sous-commissaire.
+
+**Commissions**
+
+(5) Le gouverneur en conseil peut autoriser l’émission d’une commission sous le grand sceau à un officier lors de sa première nomination ou sur recommandation du commissaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 6; L.R. (1985), ch. 8 (2^e^ suppl.), art. 3 et 24(A); 2013, ch. 18, art. 5
+
+</details>
+
+### 6.1 Officiers commandants
+
+(1) Le gouverneur en conseil peut, sur la recommandation du ministre, désigner à titre amovible un officier commandant pour chacune des divisions de la Gendarmerie.
+
+**Recommandation**
+
+(2) La recommandation du ministre doit être faite sur la recommandation du commissaire.
+
+**Absence ou empêchement**
+
+(3) En cas d’absence ou d’empêchement de l’officier commandant ou de vacance de son poste, le commissaire peut autoriser un autre officier à le remplacer; l’autorisation ne peut cependant dépasser cent quatre-vingts jours sans l’approbation du gouverneur en conseil.
+
+**Fin de la désignation**
+
+(4) L’officier qui exerce les fonctions d’officier commandant cesse d’agir à ce titre s’il n’est plus officier de la Gendarmerie; toutefois, le présent paragraphe n’a pas pour effet d’empêcher qu’il soit mis fin à la désignation de l’officier pour une autre raison.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 7
+
+</details>
+
+### 7 Nomination et désignation
+
+(1) Le commissaire peut nommer les membres qui ne sont pas officiers et, par voie de promotion, nommer un membre qui n’est pas officier à un grade ou échelon supérieur, autre qu’au grade de sous-commissaire, pour lequel il existe une vacance.
+
+**Grades et échelons**
+
+(2) Les grades et échelons des membres qui ne sont pas officiers ainsi que le nombre maximal de postes à pourvoir dans chaque grade et échelon sont fixés par le Conseil du Trésor.
+
+(3) à (5) [Abrogés, 2013, ch. 18, art. 8]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 7; L.R. (1985), ch. 8 (2^e^ suppl.), art. 4, ch. 1 (4^e^ suppl.), art. 45(F); 2013, ch. 18, art. 8
+
+</details>
+
+### 8 Durée des fonctions
+
+(1) Le membre nommé en vertu des paragraphes 6(4) ou 7(1) occupe ses fonctions pour une durée indéterminée, sauf si le commissaire a prévu une durée déterminée.
+
+**Expiration de la période fixée**
+
+(2) Le membre nommé pour une durée déterminée perd sa qualité de membre à l’expiration de la période fixée ou de toute période de prolongation fixée en vertu du paragraphe (3).
+
+**Prolongation**
+
+(3) Le commissaire peut prolonger la durée des fonctions du membre nommé pour une durée déterminée. Cette prolongation n’est pas assimilée à la nomination prévue aux paragraphes 6(4) ou 7(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 8; L.R. (1985), ch. 8 (2^e^ suppl.), art. 4, ch. 1 (4^e^ suppl.), art. 45(F); 2013, ch. 18, art. 9
+
+</details>
+
+### 9
+
+[Abrogé, 2013, ch. 18, art. 9]
+
+### Qualités requises
+
+### 9.1 Qualités requises
+
+(1) Sous réserve du paragraphe (2), ne sont nommés membres que les citoyens canadiens de bonne réputation et possédant les aptitudes physiques nécessaires; les membres qui ne sont pas officiers doivent en outre réunir les autres qualités que peut imposer, par règle, le commissaire.
+
+**Exception**
+
+(2) À défaut de personnes réunissant toutes les qualités prévues au paragraphe (1), quiconque n’est pas citoyen canadien mais réunit les autres qualités qui lui sont applicables peut être nommé membre.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 4
+
+</details>
+
+### Révocation
+
+### 9.2 Révocation de nomination
+
+Le pouvoir du commissaire de nommer une personne à titre de membre ou de nommer un membre par voie de promotion à un grade ou échelon supérieur lui confère le pouvoir de révoquer la nomination et de prendre des mesures correctives dans le cas où il est convaincu qu’une erreur, une omission ou une conduite irrégulière a influé sur le choix de la personne ou du membre nommé.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 10
+
+</details>
+
+### Stagiaires
+
+### 9.3 Durée de la période de stage
+
+(1) La personne nommée à titre de membre est considérée comme stagiaire pendant la période que fixe, par règle, le commissaire.
+
+**Précision**
+
+(2) Une nouvelle nomination, une rétrogradation ou le transfert d’un poste à un autre n’interrompt pas la période de stage.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 10
+
+</details>
+
+### 9.4 Licenciement
+
+(1) À tout moment au cours de la période de stage, le commissaire peut licencier un membre en l’avisant qu’il sera licencié au terme du délai de préavis fixé par règle établie par le commissaire. Le membre perd sa qualité de membre au terme de ce délai.
+
+**Indemnité tenant lieu de préavis**
+
+(2) Au lieu de donner le préavis prévu au paragraphe (1), le commissaire peut aviser le membre de son licenciement et du fait qu’une indemnité équivalant au salaire auquel il aurait eu droit au cours de la période de préavis lui sera versée. Le membre perd sa qualité de membre à la date fixée par le commissaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 10
+
+</details>
+
+### Démission
+
+### 9.5 Démission
+
+Le membre qui a l’intention de démissionner de la Gendarmerie en donne avis, par écrit, au commissaire; il perd sa qualité de membre à la date précisée par écrit par le commissaire au moment de l’acceptation de la démission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 10
+
+</details>
+
+### Gendarmes spéciaux
+
+### 9.6 Nomination
+
+(1) Le commissaire peut, à la demande d’un ministère, au sens de l’article 2 de la *Loi sur la gestion des finances publiques*, ou dans les cas où il le juge nécessaire ou dans l’intérêt public, nommer des gendarmes spéciaux à titre surnuméraire, pour des périodes maximales de douze mois, en vue d’assurer l’ordre public.
+
+**Révocation**
+
+(2) Le commissaire peut révoquer la nomination de tout gendarme spécial à titre surnuméraire.
+
+**Aucun privilège ou avantage**
+
+(3) Les gendarmes spéciaux nommés à titre surnuméraire n’ont droit à aucun des privilèges ou avantages pécuniaires prévus par la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 10
+
+</details>
+
+### Personnel civil
+
+### 10 Nomination ou emploi
+
+La nomination ou l’emploi du personnel civil nécessaire à l’exercice des attributions de la Gendarmerie sont régis par la *Loi sur l’emploi dans la fonction publique*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 10; L.R. (1985), ch. 8 (2^e^ suppl.), art. 5; 2013, ch. 18, art. 11
+
+</details>
+
+### Réserve
+
+### 11 Constitution
+
+(1) Le gouverneur en conseil peut, par règlement, constituer une réserve de la Gendarmerie royale du Canada, en nommer les réservistes et définir leurs pouvoirs et fonctions.
+
+**Application de la présente loi**
+
+(2) Sauf disposition contraire des règlements pris aux termes du paragraphe (1), la présente loi ne s’applique pas aux réservistes.
+
+***Loi sur la pension de retraite de la Gendarmerie royale du Canada***
+
+(3) Malgré le paragraphe 3(3) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, pour l’application de cette loi, de la *Loi sur la pension de la fonction publique* et de la *Loi sur la pension de retraite des Forces canadiennes*, les réservistes ne sont pas réputés être employés dans la fonction publique au sens du paragraphe 3(1) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 11; 2013, ch. 18, art. 11
+
+</details>
+
+### Agents de la paix
+
+### 11.1 Officiers
+
+(1) Les officiers ont qualité d’agent de la paix partout au Canada et ont les pouvoirs et l’immunité conférés de droit aux agents de la paix, jusqu’à ce qu’ils perdent leur qualité d’officier.
+
+**Désignation à titre d’agent de la paix**
+
+(2) Le commissaire peut désigner comme agent de la paix tout membre, autre qu’un officier, tout gendarme spécial nommé en vertu du paragraphe 9.6(1), toute personne nommée à titre de réserviste en application des règlements ou toute autre personne subordonnée au commissaire.
+
+**Pouvoirs et immunité**
+
+(3) Les personnes désignées en vertu du paragraphe (2) ont les mêmes pouvoirs et immunité que les officiers visés au paragraphe (1), jusqu’à ce que leur désignation prenne fin ou soit révoquée ou qu’elles perdent leur qualité de membre, de gendarme spécial ou de réserviste ou cessent d’être subordonnées au commissaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 11
+
+</details>
+
+### Certificats
+
+### 11.2 Certificats
+
+(1) Le commissaire peut délivrer :
+
+- a) dans le cas d’un membre, un certificat attestant que le titulaire a cette qualité ainsi que, le cas échéant, celle d’agent de la paix;
+
+- b) dans le cas de toute autre personne subordonnée au commissaire et désignée comme agent de la paix en vertu du paragraphe 11.1(2), un certificat attestant que le titulaire a cette qualité.
+
+**Valeur probante**
+
+(2) Tout certificat visé au paragraphe (1) et présenté comme tel est admissible en preuve et fait foi de son contenu devant tous les tribunaux et dans toutes les procédures.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 11
+
+</details>
+
+### Suspension
+
+### 12 Suspension
+
+Le commissaire peut suspendre tout membre qui a contrevenu, contrevient ou est soupçonné de contrevenir à l’une des dispositions du code de déontologie ou d’une loi fédérale ou provinciale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 12; L.R. (1985), ch. 8 (2^e^ suppl.), art. 6; 2013, ch. 18, art. 11
+
+</details>
+
+### 12.1
+
+[Abrogé, 2013, ch. 18, art. 11]
+
+### Quartier général
+
+### 13 Lieu
+
+Le quartier général de la Gendarmerie et les bureaux du commissaire sont situés à Ottawa.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-9, art. 14
+
+</details>
+
+### Serments
+
+### 14 Serments
+
+(1) Avant d’entrer en fonctions, les membres prêtent le serment d’allégeance de même que les serments figurant à l’annexe.
+
+**Prestation des serments**
+
+(2) Les serments visés au paragraphe (1), de même que tous autres serments ou déclarations nécessaires ou exigés, peuvent être prêtés par le commissaire en présence d’un juge, juge de la cour provinciale ou juge de paix dans sa circonscription judiciaire au Canada, et par tout autre membre de la Gendarmerie en présence du commissaire, de tout officier ou de toute personne habilitée à faire prêter les serments ou affidavits.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 14; L.R. (1985), ch. 27 (1^er^ suppl.), art. 203, ch. 8 (2^e^ suppl.), art. 8
+
+</details>
+
+### Intérim du commissaire
+
+### 15 En l’absence du commissaire
+
+(1) En cas d’absence ou d’empêchement du commissaire ou de vacance de son poste, l’intérim est assuré, avec plein exercice des pouvoirs et fonctions attribués au commissaire par la présente loi ou toute autre loi, par le sous-commissaire le plus ancien en poste au quartier général de la Gendarmerie.
+
+**En l’absence du commissaire et des sous-commissaires**
+
+(2) En cas d’absence ou d’empêchement du commissaire et de tous les sous-commissaires ou de vacance de leurs postes, l’intérim du commissaire est assuré, avec plein exercice des pouvoirs et fonctions attribués au commissaire par la présente loi ou toute autre loi, par le commissaire adjoint le plus ancien en poste au quartier général de la Gendarmerie.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-9, art. 16
+
+</details>
+
+### 16
+
+[Abrogé, L.R. (1985), ch. 8 (2^e^ suppl.), art. 9]
+
+### 17
+
+[Abrogé, L.R. (1985), ch. 8 (2^e^ suppl.), art. 10]
+
+### Fonctions
+
+### 18 Obligations
+
+Sous réserve des ordres du commissaire, les membres qui ont qualité d’agent de la paix sont tenus :
+
+- a) de remplir toutes les fonctions des agents de la paix en ce qui concerne le maintien de la paix, la prévention du crime et des infractions aux lois fédérales et à celles en vigueur dans la province où ils peuvent être employés, ainsi que l’arrestation des criminels, des contrevenants et des autres personnes pouvant être légalement mises sous garde;
+
+- b) d’exécuter tous les mandats — ainsi que les obligations et services s’y rattachant — qui peuvent, aux termes de la présente loi, des autres lois fédérales ou de celles en vigueur dans une province, légalement l’être par des agents de la paix;
+
+- c) de remplir toutes les fonctions qui peuvent être légalement exercées par des agents de la paix en matière d’escorte ou de transfèrement de condamnés, ou d’autres personnes sous garde, à destination ou à partir de quelque lieu que ce soit : tribunal, asile, lieu de punition ou de détention, ou autre;
+
+- d) d’exercer les autres attributions déterminées par le gouverneur en conseil ou le commissaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-9, art. 18
+
+</details>
+
+### 19
+
+[Abrogé, L.R. (1985), ch. 8 (2^e^ suppl.), art. 11]
+
+### 20 Arrangements avec les provinces
+
+(1) Avec l’agrément du gouverneur en conseil, le ministre peut conclure, avec le gouvernement d’une province, des arrangements pour l’utilisation de la Gendarmerie, ou d’un élément de celle-ci, en vue de l’administration de la justice dans la province et de la mise en oeuvre des lois qui y sont en vigueur.
+
+**Arrangements avec les municipalités**
+
+(2) Avec l’agrément du gouverneur en conseil et du lieutenant-gouverneur en conseil d’une province, le ministre peut conclure, avec toute municipalité de cette province, des arrangements pour l’utilisation de la Gendarmerie, ou d’un élément de celle-ci, en vue de l’administration de la justice dans la municipalité et de la mise en oeuvre des lois qui y sont en vigueur.
+
+**Paiement des services**
+
+(3) Avec l’agrément du Conseil du Trésor, le ministre peut, dans le cadre des arrangements visés aux paragraphes (1) ou (2), convenir avec la province ou la municipalité du montant à payer pour les services de la Gendarmerie.
+
+**Subordination à la Gendarmerie**
+
+(4) Les arrangements conclus aux termes des paragraphes (1) ou (2) peuvent prévoir le passage sous l’autorité de la Gendarmerie des officiers et autres membres des forces de police provinciales ou municipales.
+
+**Rapport au Parlement**
+
+(5) Dans les quinze jours de la conclusion de l’un des arrangements visés aux paragraphes (1) ou (2), le ministre en fait déposer une copie devant le Parlement ou, s’il ne siège pas, dans les quinze jours de séance ultérieurs de l’une ou l’autre chambre.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-9, art. 20
+
+</details>
+
+### Gestion des ressources humaines
+
+### 20.1 Pouvoirs du Conseil du Trésor
+
+Outre les pouvoirs qu’il est autorisé à exercer en vertu de l’article 11.1 de la *Loi sur la gestion des finances publiques*, le Conseil du Trésor peut, dans l’exercice de ses attributions en matière de gestion des ressources humaines prévues à l’alinéa 7(1)e) de cette loi :
+
+- a) déterminer des catégories de membres;
+
+- b) élaborer des lignes directrices ou des directives sur l’exercice des pouvoirs conférés au commissaire par les alinéas 20.2(1)h) et i) et sur les rapports que celui-ci doit établir au sujet de l’exercice de ces pouvoirs.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 12 et 13
+
+</details>
+
+### 20.2 Pouvoirs du commissaire
+
+(1) Le commissaire peut :
+
+- a) déterminer les besoins en matière d’apprentissage, de formation et de perfectionnement des membres et fixer les conditions de mise en oeuvre de cet apprentissage, de cette formation et de ce perfectionnement;
+
+- b) prévoir les primes susceptibles d’être accordées aux membres pour résultats exceptionnels ou toutes autres réalisations méritoires dans le cadre de leurs fonctions, pour des inventions ou pour des idées pratiques d’amélioration;
+
+- c) exiger qu’un membre subisse un examen médical ou une évaluation par une personne compétente qu’il désigne afin d’évaluer la capacité du membre d’exercer ses fonctions ou de participer à des procédures en matière de conduite, autre qu’une audience convoquée en vertu du paragraphe 41(1);
+
+- d) recommander le licenciement d’un sous-commissaire dans les cas où il est d’avis que son rendement est insuffisant;
+
+- e) licencier ou rétrograder tout membre, autre qu’un sous-commissaire, dans le cas où il est d’avis que son rendement est insuffisant;
+
+- f) recommander, pour des raisons autres qu’une contravention à une disposition du code de déontologie, le licenciement de tout sous-commissaire;
+
+- g) licencier ou rétrograder tout membre, autre qu’un sous-commissaire, pour des raisons autres que la contravention à une disposition du code de déontologie;
+
+- h) recommander le licenciement de tout sous-commissaire à qui une offre d’emploi est faite en raison du transfert d’une activité ou entreprise de la Gendarmerie à toute autre entité;
+
+- i) licencier tout membre, autre qu’un sous-commissaire, à qui une offre d’emploi est faite en raison du transfert d’une activité ou entreprise de la Gendarmerie à toute autre entité;
+
+- j) recommander le licenciement de tout sous-commissaire par mesure d’économie ou d’efficacité à la Gendarmerie;
+
+- k) licencier tout membre, autre qu’un sous-commissaire, par mesure d’économie ou d’efficacité à la Gendarmerie;
+
+- l) élaborer les procédures concernant les enquêtes et le règlement des différends auxquels donne lieu le harcèlement qui aurait été pratiqué par un membre.
+
+**Motifs nécessaires**
+
+(2) La recommandation de licenciement découlant de l’application des alinéas (1)d) ou f) et le licenciement ou la rétrogradation découlant de l’application des alinéas (1)e) ou g) doivent être motivés.
+
+**Délégation**
+
+(3) Malgré le paragraphe 5(2), le commissaire peut déléguer à ses subordonnés, aux conditions qu’il fixe, tel de ses pouvoirs prévus au paragraphe (1).
+
+**Subdélégation**
+
+(4) Les délégataires visés au paragraphe (3) peuvent, sous réserve des conditions de la délégation, subdéléguer à toute autre personne subordonnée au commissaire les pouvoirs qu’ils ont reçus.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 13
+
+</details>
+
+### Règlements et règles
+
+### 21 Règlements
+
+(1) Le gouverneur en conseil peut prendre des règlements :
+
+- a) concernant l’exercice des pouvoirs du commissaire prévus aux alinéas 20.2(1)a) à g) et j) à l);
+
+- b) sur l’organisation, la conduite, l’exercice des fonctions, la discipline, l’efficacité et la bonne administration de la Gendarmerie;
+
+- b.1) concernant les compétences des personnes pouvant être désignées en vertu du paragraphe 2(3) qui ne sont pas subordonnées au commissaire et les circonstances relatives à leur désignation;
+
+- b.2) concernant la nomination et les compétences des membres des comités de déontologie constitués en vertu de l’article 43;
+
+- b.3) concernant le délai de conservation des documents liés à l’enquête et à la procédure prévues sous le régime de la partie IV;
+
+- b.4) concernant la signification des documents autorisés ou exigés sous le régime de la présente loi, notamment l’établissement de présomptions et de règles de preuve;
+
+- c) de façon générale, sur la mise en oeuvre de la présente loi.
+
+**Règles**
+
+(2) Sous réserve des autres dispositions de la présente loi et de ses règlements, le commissaire peut établir des règles :
+
+- a) prévoyant une période de stage pour l’application du paragraphe 9.3(1);
+
+- b) concernant la décision de licencier un membre au titre de l’article 9.4 et la procédure de plainte à l’égard de cette décision;
+
+- c) prévoyant un délai de préavis pour l’application du paragraphe 9.4(1);
+
+- d) concernant le pouvoir du commissaire prévu au paragraphe 22(2) d’exiger la cessation du versement de la solde et des indemnités des membres;
+
+- e) concernant l’application des alinéas 20.2(1)a), b), c) et l);
+
+- f) concernant la décision de recommander le licenciement d’un sous-commissaire au titre de l’un des alinéas 20.2(1)d), f) et j);
+
+- g) concernant la décision de licencier ou de rétrograder un membre au titre de l’un des alinéas 20.2(1)e), g) et k);
+
+- h) visant à définir **test standardisé** pour l’application du paragraphe 31(4.1);
+
+- i) concernant l’exercice par les membres de leurs fonctions;
+
+- j) établissant les compétences de base pour l’exercice par les membres de leurs fonctions;
+
+- k) concernant la conduite des membres;
+
+- l) concernant la désignation d’une personne comme autorité disciplinaire;
+
+- m) concernant l’organisation, l’efficacité et la bonne administration de la Gendarmerie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 21; L.R. (1985), ch. 8 (2^e^ suppl.), art. 12; 2013, ch. 18, art. 14
+
+</details>
+
+### Solde et indemnités
+
+### 22 Fixation par le Conseil du Trésor
+
+(1) Le Conseil du Trésor établit la solde et les indemnités à verser aux membres de la Gendarmerie.
+
+**Cas de rétrogradation**
+
+(1.1) La rétrogradation d’un membre conformément à la présente loi entraîne la réduction du barème de sa solde au barème de la solde la plus élevée du grade ou échelon auquel il est reporté, qui ne dépasse pas le barème de sa solde au moment de sa rétrogradation.
+
+**Cessation de la solde et des indemnités**
+
+(2) Le commissaire peut exiger la cessation du versement de la solde et des indemnités d’un membre dans l’un ou l’autre des cas suivants :
+
+- a) selon le commissaire :
+  - (i) le membre ne peut s’acquitter de ses fonctions parce qu’il ne possède plus l’une des compétences de base établies dans les règles relativement à l’exercice des fonctions d’un membre,
+  - (ii) il s’absente sans autorisation,
+  - (iii) il abandonne sans autorisation l’une quelconque des fonctions qui lui ont été assignées;
+
+- b) le commissaire a suspendu le membre de ses fonctions en vertu de l’article 12;
+
+- c) le membre est un sous-commissaire visé par toute recommandation de licenciement prévue à l’un des alinéas 20.2(1)d), f), h) et j).
+
+**Emprisonnement**
+
+(3) Pour l’application de l’alinéa (2)a), le membre est réputé être absent sans autorisation lorsque, notamment, il est mis sous garde ou purge une peine d’emprisonnement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 22; L.R. (1985), ch. 8 (2^e^ suppl.), art. 13; 2013, ch. 18, art. 15
+
+</details>
+
+### Caisse fiduciaire de bienfaisance
+
+### 23 Versement de gratifications à la Caisse
+
+(1) Sauf instruction contraire du ministre, sont versés à la Caisse fiduciaire de bienfaisance de la Gendarmerie les honoraires, frais, rétributions ou commissions, sauf la solde ou les indemnités visées à l’article 22, ainsi que les dons, prix et legs alloués ou convertis en argent, sauf les dons ou récompenses visés au paragraphe (3), qu’un membre a gagnés ou qui lui ont été attribués, versés ou accordés dans le cadre de ses fonctions dans la Gendarmerie.
+
+**Versement des soldes et confiscations à la Caisse**
+
+(2) Par dérogation à toute autre loi, sont versés à la Caisse fiduciaire de bienfaisance de la Gendarmerie les soldes confisquées en vertu de la présente loi et le produit des confiscations et saisies alloué à un membre relativement à l’exercice de ses fonctions dans la Gendarmerie.
+
+**Utilisation des gratifications**
+
+(3) Les montants versés à la Caisse fiduciaire de bienfaisance en application du présent article sont utilisés :
+
+- a) au profit des membres et anciens membres et des personnes à leur charge;
+
+- b) pour l’octroi de récompenses, primes ou indemnités aux personnes qui aident la Gendarmerie dans l’accomplissement de sa mission, lorsque le ministre estime que les services rendus méritent d’être reconnus;
+
+- c) pour l’octroi de récompenses, pour bonne conduite ou services méritoires, aux personnes nommées ou employées sous le régime de la présente loi;
+
+- d) à toute autre fin à l’avantage de la Gendarmerie, selon les instructions du ministre.
+
+**Règlements**
+
+(4) Le gouverneur en conseil peut prendre les règlements qu’il juge utiles pour régir la gestion et l’emploi, notamment par prêt ou subvention, de tout montant versé à la Caisse fiduciaire de bienfaisance au titre du présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 23; L.R. (1985), ch. 8 (2^e^ suppl.), art. 14
+
+</details>
+
+### Destination des biens recueillis
+
+### 24 Biens abandonnés ou perdus
+
+Le commissaire peut aliéner, de la manière qu’il estime indiquée dans les circonstances, les biens meubles dont des membres ont, dans l’exercice de leurs fonctions au Yukon, dans les Territoires du Nord-Ouest ou au Nunavut, acquis la possession, lorsqu’il lui apparaît que, selon le cas :
+
+- a) ces biens ont été abandonnés par leur propriétaire ou la personne y ayant droit;
+
+- b) les efforts nécessaires ont été faits — mais en vain — pour retrouver le propriétaire de ces biens ou la personne y ayant droit.
+
+Le produit éventuel de l’aliénation, notamment par vente, ainsi que tous semblables biens consistant en argent sont versés au Trésor.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 24; L.R. (1985), ch. 8 (2^e^ suppl.), art. 24(A); 1993, ch. 28, art. 78; 2002, ch. 7, art. 235(A)
+
+</details>
+
+### Commissions d’enquête
+
+### 24.1 Commissions d’enquête
+
+(1) Le ministre ou le commissaire peut constituer les personnes qu’il estime indiquées en commission chargée d’enquêter et de faire rapport sur toute question liée à l’organisation, la formation, la conduite, l’exercice des fonctions, la discipline, l’efficacité et la bonne administration de la Gendarmerie ou touchant un membre ou une autre personne nommée ou employée sous le régime de la présente loi.
+
+**Précision**
+
+(1.1) Il est entendu que le pouvoir visé au paragraphe (1) comprend celui de nommer les membres de la Commission.
+
+**Objet de l’enquête**
+
+(2) Le ministre ou le commissaire saisit par écrit la commission d’enquête de la question sur laquelle elle doit faire rapport.
+
+**Pouvoirs de la commission d’enquête**
+
+(3) La commission d’enquête dispose, relativement à la question dont elle est saisie, des pouvoirs suivants :
+
+- a) assigner des témoins, les enjoindre à témoigner sous serment, oralement ou par écrit, et à produire les documents et pièces dont ils ont la responsabilité et que la commission estime nécessaires à une enquête et étude complètes;
+
+- b) recevoir des serments;
+
+- c) recevoir et accepter les éléments de preuve et renseignements, fournis sous serment ou sous forme d’affidavit, qu’elle estime indiqués, qu’ils soient ou non recevables devant un tribunal;
+
+- d) procéder à l’examen des dossiers ou registres et aux enquêtes qu’elle juge nécessaires.
+
+**Droits des intéressés**
+
+(4) Toute personne dont la commission d’enquête étudie la conduite ou les activités ou qui convainc celle-ci qu’elle a dans la question dont la commission est saisie un intérêt direct et réel doit avoir toute latitude de présenter devant celle-ci des éléments de preuve, de contre-interroger les témoins et de faire des observations, soit personnellement, soit par l’intermédiaire d’un avocat ou autre représentant.
+
+**Représentation des témoins**
+
+(5) La commission d’enquête doit permettre aux témoins de se faire représenter par un avocat ou par un autre représentant.
+
+**Restrictions**
+
+(6) Par dérogation au paragraphe (3), la commission d’enquête ne peut recevoir ou accepter :
+
+- a) sous réserve du paragraphe (7), des éléments de preuve ou autres renseignements non recevables devant un tribunal du fait qu’ils sont protégés par le droit de la preuve;
+
+- b) les réponses ou déclarations faites à la suite des questions visées aux paragraphes 35(8), 40(2), 45.1(5) ou 45.65(2);
+
+- c) les réponses ou déclarations faites à la suite des questions visées au paragraphe (7) devant une autre commission d’enquête nommée en vertu du présent article;
+
+- d) les réponses ou déclarations faites dans le cadre d’une tentative de règlement à l’amiable faite sous le régime des parties VII ou VII.2.
+
+**Obligation des témoins de déposer**
+
+(7) Au cours d’une enquête tenue par la commission d’enquête, un témoin n’est pas dispensé de répondre aux questions portant sur l’objet de l’enquête lorsque la commission l’exige, au motif que sa réponse peut l’incriminer ou l’exposer à des poursuites ou à une peine.
+
+**Non-recevabilité des réponses**
+
+(8) Dans le cas où le témoin est un membre, les réponses ou déclarations faites à la suite des questions visées au paragraphe (7) ne peuvent être utilisées ni ne sont recevables contre lui dans le cadre d’une procédure prévue à la partie IV, sauf une procédure portant sur une allégation selon laquelle il a fait une telle réponse ou déclaration, qu’il savait fausse, dans l’intention de tromper.
+
+**Huis clos**
+
+(9) Sauf instruction contraire du ministre ou du commissaire qui a constitué la commission d’enquête, l’enquête ainsi que les audiences de celle-ci se tiennent à huis clos.
+
+**Exceptions**
+
+(10) Par dérogation au paragraphe (9) :
+
+- a) les parents peuvent assister au témoignage de leur enfant devant la commission d’enquête ou le tuteur, à celui de son pupille;
+
+- b) un membre peut, s’il en reçoit l’autorisation de la commission d’enquête, assister à une audience à titre d’observateur afin de se familiariser avec la procédure prévue au présent article.
+
+**Remise des pièces**
+
+(11) Les documents et autres pièces produits devant la commission d’enquête en vertu du présent article sont remis à la personne qui les a produits, si elle en fait la demande, dans un délai raisonnable après la clôture de l’enquête de la commission et l’achèvement de son rapport.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 15; 2013, ch. 18, art. 16, 77 et 80
+
+</details>
+
+## Comité externe d’examen de la Gendarmerie royale du Canada
+
+### Constitution et organisation du Comité
+
+### 25 Constitution du Comité
+
+(1) Est constitué le Comité externe d’examen de la Gendarmerie royale du Canada, composé d’au plus cinq membres, dont le président et un vice-président, nommés par décret du gouverneur en conseil.
+
+**Temps plein ou temps partiel**
+
+(2) Le président est membre à plein temps du Comité. Les autres membres peuvent être nommés à temps plein ou à temps partiel.
+
+**Mandat**
+
+(3) Les membres du Comité sont nommés, à titre inamovible, pour un mandat de cinq ans au maximum, sous réserve de révocation par décret du gouverneur en conseil pour motif valable.
+
+**Nouveau mandat**
+
+(4) Les membres du Comité peuvent recevoir un nouveau mandat.
+
+**Admissibilité**
+
+(5) Un membre de la Gendarmerie ne peut faire partie du Comité.
+
+**Traitement des membres à plein temps**
+
+(6) Les membres à plein temps du Comité reçoivent, pour leur participation aux travaux du Comité, le traitement approuvé par décret du gouverneur en conseil.
+
+**Honoraires des membres à temps partiel**
+
+(7) Les membres à temps partiel du Comité reçoivent, pour leur participation aux travaux du Comité, les honoraires approuvés par décret du gouverneur en conseil.
+
+**Indemnités**
+
+(8) Les membres du Comité ont droit aux frais de déplacement et de séjour entraînés par l’accomplissement, hors de leur lieu ordinaire de résidence, de leurs fonctions au sein du Comité.
+
+**Pension de retraite et autres bénéfices des membres à plein temps**
+
+(9) Les membres à plein temps du Comité sont réputés faire partie de la fonction publique pour l’application de la *Loi sur la pension de la fonction publique* et de l’administration publique fédérale pour l’application de la *Loi sur l’indemnisation des agents de l’État* et des règlements pris en vertu de l’article 9 de la *Loi sur l’aéronautique*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 25; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2003, ch. 22, art. 216(A); 2013, ch. 18, art. 41(A)
+
+</details>
+
+### 26 Président du Comité
+
+(1) Le président du Comité en assure la direction et contrôle la gestion de son personnel.
+
+**Absence ou empêchement**
+
+(2) En cas d’absence ou d’empêchement du président du Comité ou de vacance de son poste, le ministre peut autoriser le vice-président à le remplacer.
+
+**Délégation**
+
+(3) Le président du Comité peut déléguer au vice-président les pouvoirs et fonctions que lui attribue la présente loi, à l’exception du pouvoir de délégation que lui accorde le présent paragraphe et des fonctions visées à l’article 30.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 26; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 41(A)
+
+</details>
+
+### 27 Siège
+
+(1) Le siège du Comité est fixé, au Canada, au lieu désigné par décret du gouverneur en conseil.
+
+**Personnel**
+
+(2) Le personnel nécessaire à l’exécution des travaux du Comité est nommé conformément à la *Loi sur l’emploi dans la fonction publique*.
+
+**Idem**
+
+(3) Le Comité peut, avec l’approbation du Conseil du Trésor :
+
+- a) engager, à titre temporaire, des experts compétents dans des domaines relevant du champ d’activité du Comité pour assister celui-ci dans l’exercice de ses pouvoirs et fonctions;
+
+- b) fixer et payer leur rémunération et leurs frais.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 27; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16
+
+</details>
+
+### Fonctions
+
+### 28 Fonctions du Comité
+
+(1) Le Comité exerce les fonctions que lui attribue la présente loi.
+
+**Fonctions du président du Comité**
+
+(2) Le président du Comité exerce les fonctions que lui attribue la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 28; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 41(A)
+
+</details>
+
+### 28.1 Normes de service régissant les délais
+
+Le Comité établit et rend publiques des normes de service concernant les délais pour le traitement des griefs et des dossiers d’appels qui font l’objet d’un renvoi devant lui et prévoyant les circonstances dans lesquelles ces délais ne s’appliquent pas ou peuvent être prorogés.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 17
+
+</details>
+
+### Règles
+
+### 29 Règles
+
+Sous réserve des autres dispositions de la présente loi et de ses règlements, le Comité peut établir des règles concernant :
+
+- a) ses séances;
+
+- b) de façon générale, l’expédition de ses affaires et des questions dont il est saisi, y compris la pratique et la procédure qui lui sont applicables;
+
+- c) la répartition de ses travaux entre ses membres et la désignation de ces derniers pour examiner les griefs ou les affaires dont il est saisi;
+
+- d) de façon générale, l’exercice des fonctions que la présente loi lui attribue.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 29; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 18
+
+</details>
+
+### Rapport annuel
+
+### 30 Rapport annuel
+
+(1) Le président du Comité présente au ministre, dans les trois premiers mois de chaque exercice, le rapport d’activité du Comité pour l’exercice précédent, et y joint ses recommandations, le cas échéant. Le ministre le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+**Normes de service concernant les délais à respecter**
+
+(2) Le rapport contient des renseignements concernant le rendement du Comité en ce qui a trait aux normes de service établies en vertu de l’article 28.1.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 30; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 19 et 41(A)
+
+</details>
+
+## Griefs
+
+### Interprétation
+
+### 30.1 Application aux anciens membres
+
+Les dispositions de la présente partie relatives aux griefs s’appliquent aussi aux anciens membres en ce qui concerne le licenciement de la Gendarmerie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 20
+
+</details>
+
+### Gestion des conflits
+
+### 30.2 Système de gestion informelle des conflits
+
+Sous réserve des lignes directrices ou des directives élaborées par le Conseil du Trésor, le commissaire établit un système de gestion informelle des conflits et avise les membres qu’ils peuvent y avoir recours.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 20
+
+</details>
+
+### Présentation des griefs
+
+### 31 Règle
+
+(1) Sous réserve des paragraphes (1.01) à (3), le membre à qui une décision, un acte ou une omission liés à la gestion des affaires de la Gendarmerie causent un préjudice peut présenter son grief par écrit à chacun des niveaux que prévoit la procédure applicable aux griefs prévue par la présente partie dans le cas où la présente loi, ses règlements ou les consignes du commissaire ne prévoient aucune autre procédure pour réparer ce préjudice.
+
+**Réserve**
+
+(1.01) Tout grief qui porte sur l’interprétation ou l’application à l’égard d’un membre de toute disposition d’une convention collective ou d’une décision arbitrale doit être présenté sous le régime de la *Loi sur les relations de travail dans le secteur public fédéral*.
+
+**Réserve**
+
+(1.1) Le membre ne peut présenter de grief si un recours administratif de réparation lui est ouvert sous le régime d’une autre loi fédérale, à l’exception d’un recours administratif prévu par la *Loi canadienne sur les droits de la personne*.
+
+**Réserve**
+
+(1.2) Malgré le paragraphe (1.1), le membre ne peut présenter de grief relativement au droit à la parité salariale pour l’exécution de fonctions équivalentes.
+
+**Réserve**
+
+(1.3) Le membre ne peut présenter de grief portant sur une mesure prise en vertu d’une instruction, d’une directive ou d’un règlement établis par le gouvernement du Canada, ou au nom de celui-ci, dans l’intérêt de la sécurité du pays ou de tout État allié ou associé au Canada.
+
+**Force probante absolue du décret**
+
+(1.4) Pour l’application du paragraphe (1.3), tout décret du gouverneur en conseil constitue une preuve concluante de ce qui y est énoncé au sujet des instructions, directives ou règlements établis par le gouvernement du Canada, ou au nom de celui-ci, dans l’intérêt de la sécurité du pays ou de tout État allié ou associé au Canada.
+
+**Prescription**
+
+(2) Un grief visé à la présente partie doit être présenté :
+
+- a) au premier niveau de la procédure applicable aux griefs, dans les trente jours suivant celui où le membre qui a subi un préjudice a connu ou aurait normalement dû connaître la décision, l’acte ou l’omission donnant lieu au grief;
+
+- b) à tous les autres niveaux de la procédure applicable aux griefs, dans les quatorze jours suivant la signification au membre de la décision relative au grief rendue par le niveau inférieur immédiat.
+
+**Restriction**
+
+(3) Ne peut faire l’objet d’un grief en vertu de la présente partie une nomination faite par le commissaire à un poste visé au paragraphe (7).
+
+**Documentation**
+
+(4) Sous réserve du paragraphe (4.1) et des restrictions imposées en vertu de l’alinéa 36b), le membre qui présente un grief peut consulter la documentation pertinente placée sous la responsabilité de la Gendarmerie et dont il a besoin pour bien présenter son grief.
+
+**Communication de test standardisé**
+
+(4.1) Le membre ne peut consulter un test standardisé utilisé par la Gendarmerie ou des renseignements relatifs à celui-ci si, selon le commissaire, la communication aurait pour effet de nuire à la validité ou à l’utilisation continue de ce test ou porterait atteinte aux résultats d’un tel test en conférant un avantage indu à une quelconque personne.
+
+**Définition de **test standardisé****
+
+(4.2) Au présent article, **test standardisé** s’entend au sens des règles établies par le commissaire.
+
+**Aucune sanction liée à la présentation d’un grief**
+
+(5) Le fait qu’un membre présente un grief en vertu de la présente partie ne doit entraîner aucune peine disciplinaire ni aucune autre sanction relativement à son emploi ou à la durée de son emploi dans la Gendarmerie.
+
+**Décision**
+
+(6) La personne qui constitue un niveau de la procédure applicable aux griefs rend une décision écrite et motivée dans les meilleurs délais après la présentation et l’étude du grief, et en signifie copie au membre intéressé, ainsi qu’au président du Comité en cas de renvoi devant le Comité en vertu de l’article 33.
+
+**Exclusions**
+
+(7) Le gouverneur en conseil peut, par règlement, déterminer, pour l’application du paragraphe (3), les postes dont le titulaire relève du commissaire, directement ou par l’intermédiaire d’une autre personne.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 31; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 1994, ch. 26, art. 63(F); 2013, ch. 18, art. 21; 2017, ch. 9, art. 40
+
+</details>
+
+### 32 Dernier niveau
+
+(1) Le commissaire constitue le dernier niveau de la procédure applicable aux griefs; sa décision est définitive et exécutoire.
+
+**Non-assujettissement du commissaire**
+
+(2) Le commissaire n’est pas lié par les conclusions ou les recommandations contenues dans un rapport portant sur un grief renvoyé devant le Comité conformément à l’article 33; s’il choisit de s’en écarter, il doit toutefois motiver son choix dans sa décision.
+
+**Annulation ou modification de la décision**
+
+(3) Par dérogation au paragraphe (1), le commissaire peut annuler ou modifier sa décision à l’égard d’un grief visé à la présente partie si de nouveaux faits lui sont soumis ou s’il constate avoir fondé sa décision sur une erreur de fait ou de droit.
+
+**Délégation**
+
+(4) Le commissaire peut déléguer à ses subordonnés tel de ses pouvoirs ou fonctions prévus au présent article ou à l’article 33.
+
+**Subdélégation**
+
+(5) Les délégataires visés au paragraphe (4) ne peuvent subdéléguer à aucune autre personne les pouvoirs ou fonctions qu’ils ont reçus.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 32; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 1990, ch. 8, art. 65; 2002, ch. 8, art. 182; 2013, ch. 18, art. 22
+
+</details>
+
+### Renvoi devant le Comité
+
+### 33 Renvoi devant le Comité
+
+(1) Avant d’étudier un grief d’une catégorie visée par règlement pris en vertu du paragraphe (4), le commissaire le renvoie devant le Comité.
+
+**Idem**
+
+(2) Par dérogation au paragraphe (1), le membre qui présente un grief au commissaire peut lui demander de ne pas le renvoyer devant le Comité; le commissaire peut accéder à cette demande, ou la rejeter s’il estime plus indiqué un renvoi devant le Comité.
+
+**Documents à transmettre au Comité**
+
+(3) En cas de renvoi d’un grief devant le Comité conformément au présent article, le commissaire transmet au président du Comité une copie :
+
+- a) des argumentations écrites faites à chaque niveau de la procédure applicable aux griefs par le membre qui présente le grief;
+
+- b) des décisions rendues à chaque niveau de cette procédure;
+
+- c) de la documentation pertinente placée sous la responsabilité de la Gendarmerie.
+
+**Griefs qui doivent être renvoyés devant le Comité**
+
+(4) Le gouverneur en conseil peut, par règlement, prescrire, pour l’application du paragraphe (1), les catégories de griefs qui doivent faire l’objet d’un renvoi devant le Comité.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 33; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 41(A)
+
+</details>
+
+### 34 Examen par le président du Comité
+
+(1) Le président du Comité examine tous les griefs qui sont renvoyés devant le Comité conformément à l’article 33.
+
+**Rapport du président du Comité**
+
+(2) Après examen du grief, le président du Comité, s’il est d’accord avec la décision de la Gendarmerie, rédige et transmet un rapport écrit à cet effet au commissaire et au membre qui a présenté ce grief.
+
+**Idem**
+
+(3) Après examen du grief, le président du Comité, s’il n’est pas d’accord avec la décision de la Gendarmerie ou s’il estime qu’une enquête plus approfondie est indiquée, peut :
+
+- a) soit rédiger et transmettre au commissaire et au membre qui a présenté ce grief un rapport exposant ses conclusions et recommandations;
+
+- b) soit ordonner la tenue d’une audience pour enquêter sur le grief.
+
+**Audience**
+
+(4) Le président du Comité, s’il décide d’ordonner la tenue d’une audience, désigne le ou les membres du Comité qui la tiendront et transmet au commissaire et au membre qui a présenté le grief un avis écrit de sa décision.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 34; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 41(A)
+
+</details>
+
+### 35 Comité
+
+(1) Pour l’application du présent article, le ou les membres qui tiennent une audience pour enquêter sur un grief sont réputés être le Comité.
+
+**Avis**
+
+(2) Le Comité signifie aux parties un avis écrit de la date, de l’heure et du lieu de l’audience.
+
+**Séances du Comité**
+
+(3) Lorsqu’une partie désire comparaître devant le Comité, celui-ci siège à la date, à l’heure et à l’endroit au Canada qu’il détermine eu égard à la situation des parties.
+
+**Pouvoirs du Comité**
+
+(4) Le Comité dispose, relativement au grief dont il est saisi, des pouvoirs dont jouit une commission d’enquête en vertu des alinéas 24.1(3)a), b) et c).
+
+**Droits des intéressés**
+
+(5) Les parties et toute personne qui convainc le Comité qu’elle a un intérêt direct et réel dans le grief dont celui-ci est saisi doivent avoir toute latitude de présenter des éléments de preuve à l’audience, d’y contre-interroger les témoins et d’y faire des observations, soit personnellement, soit par l’intermédiaire d’un avocat ou autre représentant.
+
+**Représentation des témoins**
+
+(6) Le Comité doit permettre aux témoins de se faire représenter à l’audience par avocat ou par un autre représentant.
+
+**Restriction**
+
+(7) Par dérogation au paragraphe (4) mais sous réserve du paragraphe (8), le Comité ne peut recevoir ou accepter des éléments de preuve ou autres renseignements non recevables devant un tribunal du fait qu’ils sont protégés par le droit de la preuve.
+
+**Obligation des témoins de déposer**
+
+(8) Au cours d’une audience, un témoin n’est pas dispensé de répondre aux questions portant sur le grief dont est saisi le Comité lorsque ce dernier l’exige, au motif que sa réponse peut l’incriminer ou l’exposer à des poursuites ou à une peine.
+
+**Non-recevabilité des réponses**
+
+(9) Dans le cas où le témoin est un membre, les réponses ou déclarations faites à la suite des questions visées au paragraphe (8) ne peuvent être utilisées ni ne sont recevables contre lui dans le cadre d’une procédure prévue à la partie IV, sauf une procédure portant sur une allégation selon laquelle il a fait une telle réponse ou déclaration, qu’il savait fausse, dans l’intention de tromper.
+
+**Huis clos**
+
+(10) Les audiences se tiennent à huis clos; toutefois :
+
+- a) les parents peuvent assister au témoignage de leur enfant à une audience ou le tuteur, à celui de son pupille;
+
+- b) un membre peut, s’il en reçoit l’autorisation du Comité, assister à une audience à titre d’observateur afin de se familiariser avec la procédure prévue au présent article.
+
+**Remise des pièces**
+
+(11) Les documents et autres pièces produits devant le Comité en vertu du présent article sont remis à la personne qui les a produits, si elle en fait la demande, dans un délai raisonnable après l’achèvement du rapport du Comité.
+
+**Frais**
+
+(12) Lorsque le Comité siège, au Canada, ailleurs qu’au lieu de résidence habituel du membre dont il étudie le grief, ou de son avocat ou autre représentant, ce membre ou son avocat ou autre représentant a droit, selon l’appréciation du Comité et selon les normes établies par le Conseil du Trésor, aux frais de déplacement et de séjour engagés par lui pour sa comparution devant le Comité.
+
+**Rapports**
+
+(13) À la conclusion d’une audience, le Comité établit et transmet aux parties et au commissaire un rapport écrit exposant ses conclusions et recommandations au sujet du grief dont il a été saisi.
+
+**Définition de **parties****
+
+(14) Au présent article, **parties** s’entend :
+
+- a) dans le cas de toute catégorie de griefs faisant l’objet d’un renvoi devant le Comité en vertu de l’article 33, de la personne désignée par le commissaire pour l’application du présent article et du membre dont le grief fait l’objet d’un renvoi devant le Comité en vertu de l’article 33;
+
+- b) dans le cas d’un appel visé au paragraphe 45.11(1) dont le dossier fait l’objet d’un renvoi devant le Comité en vertu du paragraphe 45.15(1), du membre dont la conduite fait l’objet de la décision du comité de déontologie et de l’autorité disciplinaire qui a convoqué l’audience relative à cette décision;
+
+- c) dans le cas d’un appel visé au paragraphe 45.11(3) dont le dossier fait l’objet d’un renvoi devant le Comité en vertu du paragraphe 45.15(1), du membre qui a interjeté l’appel et de l’autorité disciplinaire qui a rendu les conclusions ou pris les mesures visées par l’appel.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 35; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 23
+
+</details>
+
+### Règles
+
+### 36 Règles
+
+Sous réserve des autres dispositions de la présente loi et de ses règlements, le commissaire peut établir des règles pour régir la présentation et l’étude des griefs sous le régime de la présente partie, et notamment :
+
+- a) pour déterminer lesquels de ses subordonnés ou quelles catégories de ceux-ci constitueront les différents niveaux que prévoit la procédure applicable aux griefs;
+
+- b) pour imposer, au nom de la sécurité ou de la protection de la vie privée, des restrictions au droit que le paragraphe 31(4) accorde à un membre qui présente un grief de consulter la documentation pertinente placée sous la responsabilité de la Gendarmerie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 36; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 1994, ch. 26, art. 64(F); 2013, ch. 18, art. 24
+
+</details>
+
+### Recommandation de licencier un sous-commissaire
+
+### 36.1 Recommandation de licencier un sous-commissaire
+
+Lorsque le commissaire recommande, en vertu de l’un des alinéas 20.2(1)d), f), h) et j), qu’un sous-commissaire soit licencié de la Gendarmerie, la recommandation ne peut être transmise au gouverneur en conseil avant l’expiration du délai accordé pour présenter un grief sous le régime de la présente partie. Lorsqu’un grief est présenté, la recommandation est transmise seulement si le grief est refusé au dernier niveau.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 25
+
+</details>
+
+## Déontologie
+
+### Objet
+
+### 36.2 Objet
+
+La présente partie a pour objet :
+
+- a) d’établir les responsabilités des membres;
+
+- b) de prévoir l’établissement d’un code de déontologie qui met l’accent sur l’importance de maintenir la confiance du public et renforce les normes de conduite élevées que les membres sont censés observer;
+
+- c) de favoriser la responsabilité et la responsabilisation des membres pour ce qui est de promouvoir et de maintenir la bonne conduite au sein de la Gendarmerie;
+
+- d) d’établir un cadre pour traiter les contraventions aux dispositions du code de déontologie de manière équitable et cohérente au niveau le plus approprié de la Gendarmerie;
+
+- e) de prévoir des mesures disciplinaires adaptées à la nature et aux circonstances des contraventions aux dispositions du code de déontologie et, s’il y a lieu, des mesures éducatives et correctives plutôt que punitives.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 26
+
+</details>
+
+### Responsabilités
+
+### 37 Responsabilités
+
+Il incombe à tout membre :
+
+- a) de respecter les droits de toutes personnes;
+
+- b) de maintenir l’intégrité du droit et de son application ainsi que de l’administration de la justice;
+
+- c) de remplir ses fonctions avec promptitude, impartialité et diligence, conformément au droit et sans abuser de son autorité;
+
+- d) d’éviter tout conflit d’intérêt réel, apparent ou possible;
+
+- e) de veiller à ce que l’inconduite des membres ne soit pas cachée ou ne se répète pas;
+
+- f) d’être incorruptible, de ne pas rechercher ni accepter des avantages particuliers dans l’exercice de ses fonctions et de ne jamais contracter une obligation qui puisse entraver l’exécution de ses fonctions;
+
+- g) de se conduire en tout temps d’une façon courtoise, respectueuse et honorable;
+
+- h) de maintenir l’honneur de la Gendarmerie, ses principes et ses objets.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 37; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 27
+
+</details>
+
+### Code de déontologie
+
+### 38 Code de déontologie
+
+Le gouverneur en conseil peut prendre des règlements, appelés code de déontologie, pour régir la conduite des membres.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 38; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16
+
+</details>
+
+### 39 Contravention au code de déontologie
+
+(1) Tout membre à qui l’on impute une contravention à l’une des dispositions du code de déontologie peut être jugé selon la présente loi au Canada ou à l’extérieur du Canada :
+
+- a) que la contravention alléguée ait été ou non commise au Canada;
+
+- b) que le membre ait été ou non accusé d’une infraction constituée par la contravention alléguée, en faisant partie ou s’y rattachant, ou qu’il ait ou non été jugé, acquitté, libéré, reconnu coupable ou condamné par un tribunal relativement à une telle infraction.
+
+**Compétence des tribunaux**
+
+(2) La présente loi n’a pas pour effet d’empêcher les tribunaux de juger un membre pour les infractions relevant de leur compétence.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 39; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 28
+
+</details>
+
+### Enquête
+
+### 39.1 Règles — mesures disciplinaires
+
+Le commissaire établit des règles :
+
+- a) établissant les mesures disciplinaires, autres que le congédiement ou la recommandation de congédiement, qui peuvent être prises relativement à la contravention à une disposition du code de déontologie et précisant lesquelles parmi ces mesures chaque catégorie d’autorités disciplinaires peut imposer;
+
+- b) concernant les appels interjetés sous le régime de la présente partie et, notamment :
+  - (i) la prescription des délais d’appel applicables et leur prorogation,
+  - (ii) la pratique et la procédure.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 39.2 Règles — enquêtes
+
+Le commissaire peut établir des règles :
+
+- a) concernant les enquêtes sur les contraventions aux dispositions du code de déontologie;
+
+- b) concernant l’exercice des pouvoirs des autorités disciplinaires prévus au paragraphe 42(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 40 Enquête
+
+(1) Lorsqu’il apparaît à l’autorité disciplinaire d’un membre que celui-ci a contrevenu à l’une des dispositions du code de déontologie, elle tient ou fait tenir l’enquête qu’elle estime nécessaire pour lui permettre d’établir s’il y a réellement contravention.
+
+**Obligation du membre de répondre**
+
+(2) Au cours d’une enquête tenue en vertu du paragraphe (1), aucun membre n’est dispensé de répondre aux questions portant sur l’objet de l’enquête, lorsque la personne menant l’enquête l’exige, au motif que sa réponse peut l’incriminer ou l’exposer à une procédure ou action pénale, civile ou administrative.
+
+**Non-recevabilité des réponses**
+
+(3) Les réponses ou déclarations faites à la suite des questions visées au paragraphe (2) ne peuvent être utilisées ni ne sont recevables dans le cadre d’une procédure ou d’une action pénale, civile ou administrative, sauf dans le cadre d’une procédure engagée sous le régime de la présente partie portant sur l’allégation selon laquelle le membre a fait une telle réponse ou déclaration, qu’il savait fausse, dans l’intention de tromper.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 40; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 29
+
+</details>
+
+### 40.1 Définitions
+
+Les définitions qui suivent s’appliquent aux articles 40.2 à 40.8.
+
+**document** Tout support sur lequel est enregistré ou marqué quelque chose qui peut être lu ou compris par une personne physique, un ordinateur ou un autre dispositif. (**document**)
+
+**juge de paix** S’entend au sens de l’article 2 du *Code criminel*. (**justice**)
+
+**nuit** S’entend au sens de l’article 2 du *Code criminel*. (**night**)
+
+**personne** S’entend au sens de l’article 2 du *Code criminel*. (**person**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 40.2 Mandat
+
+(1) Sur demande ex parte approuvée par un officier désigné par le commissaire pour l’application du présent article, le juge de paix peut décerner un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il y a des motifs raisonnables de croire à la présence dans un lieu ou un contenant, qui n’est pas sous la responsabilité de la Gendarmerie, d’une chose qui constitue une preuve liée à la contravention à l’une des dispositions du code de déontologie.
+
+**Maison d’habitation**
+
+(2) La demande indique si le lieu est une maison d’habitation.
+
+**Pouvoirs**
+
+(3) Le mandat peut autoriser, sous réserve des conditions fixées, un agent de la paix et tout autre individu qui y est nommé à perquisitionner dans le lieu et à saisir toute chose spécifiée dans le mandat.
+
+**Télémandats**
+
+(4) L’agent de la paix peut demander que le mandat visé au présent article lui soit délivré par téléphone ou à l’aide d’un autre moyen de télécommunication, sur le fondement d’une dénonciation transmise par l’un quelconque de ces moyens; l’article 487.1 du *Code criminel* s’applique alors avec les adaptations nécessaires.
+
+**Exécution d’un mandat de perquisition**
+
+(5) Le mandat délivré en vertu du présent article est exécuté de jour, à moins que les conditions suivantes ne soient réunies :
+
+- a) le juge de paix est convaincu qu’il existe des motifs raisonnables de l’exécuter la nuit;
+
+- b) la dénonciation énonce ces motifs raisonnables;
+
+- c) le libellé du mandat en autorise l’exécution la nuit.
+
+**Usage d’un ordinateur et du matériel de reprographie**
+
+(6) La personne autorisée, en vertu du présent article, à fouiller des données contenues dans un ordinateur se trouvant dans le lieu peut :
+
+- a) utiliser ou faire utiliser tout ordinateur se trouvant dans le lieu pour vérifier les données que celui-ci contient ou auxquelles il donne accès;
+
+- b) reproduire ou faire reproduire des données sous forme d’imprimé ou toute autre forme intelligible;
+
+- c) saisir tout imprimé ou sortie de données pour examen ou reproduction;
+
+- d) utiliser ou faire utiliser le matériel se trouvant dans le lieu pour reproduire des données.
+
+**Reçu et rapport**
+
+(7) La personne qui saisit une chose en vertu du présent article remet un reçu au saisi et, dans les meilleurs délais, présente un rapport de la saisie au juge de paix.
+
+**Remise ou détention des choses saisies**
+
+(8) Dans le cas où un rapport de la saisie est présenté au juge de paix, celui-ci doit :
+
+- a) si le propriétaire légitime ou la personne qui a droit à la possession légitime de la chose saisie est connu, ordonner qu’elle lui soit remise à moins que la personne qui en a la garde ne le convainque que sa détention est nécessaire pour toute procédure engagée sous le régime de la présente partie;
+
+- b) si la personne qui en a la garde le convainc qu’elle devrait être détenue, ordonner qu’elle soit placée sous la garde de la Gendarmerie jusqu’à la conclusion de la procédure.
+
+**Demande d’ordonnance de remise**
+
+(9) Sur demande du saisi et après avoir donné un préavis de trois jours francs au commissaire, le juge de paix peut rendre une ordonnance en vue de la restitution de la chose au saisi s’il est convaincu qu’il n’est plus nécessaire de la retenir pour les besoins de l’enquête ou de toute procédure engagée sous le régime de la présente partie et découlant de l’enquête.
+
+**Entreposage et déplacement**
+
+(10) L’agent de la paix peut entreposer une chose saisie en vertu du présent article sur le lieu même de la saisie; il peut aussi, à son appréciation, la faire transférer dans un autre lieu.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 40.3 Ordonnance de communication
+
+(1) Sur demande ex parte, le juge de paix peut ordonner à toute personne de communiquer à l’agent de la paix nommé dans l’ordonnance un document qui est la copie d’un document qui est en sa possession ou à sa disposition au moment où il reçoit l’ordonnance ou d’établir et de communiquer un document comportant des données qui sont en sa possession ou à sa disposition à ce moment.
+
+**Conditions préalables à l’ordonnance**
+
+(2) Il ne rend l’ordonnance que s’il est convaincu, sur la foi d’une dénonciation sous serment, qu’il existe des motifs raisonnables de croire que le document constitue une preuve liée à la contravention à l’une des dispositions du code de déontologie.
+
+**Limite**
+
+(3) Aucune ordonnance ne peut être rendue à l’encontre d’un membre faisant l’objet d’une enquête relative à une contravention alléguée à l’une des dispositions du code de déontologie l’obligeant à communiquer ou à établir et à communiquer un document lié à cette contravention.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 40.4 Conditions
+
+(1) L’ordonnance rendue en vertu du paragraphe 40.3(1) peut être assortie des conditions que le juge de paix estime indiquées, notamment pour protéger les communications privilégiées entre la personne habilitée à donner des avis juridiques et son client.
+
+**Effet de l’ordonnance**
+
+(2) L’ordonnance a effet partout au Canada.
+
+**Pouvoir de révoquer ou de modifier**
+
+(3) Sur demande ex parte d’un agent de la paix, le juge de paix qui a rendu l’ordonnance peut, sur la foi d’une dénonciation sous serment, la révoquer ou la modifier. L’agent de la paix avise, dans les meilleurs délais, la personne assujettie à l’ordonnance de la révocation de celle-ci ou de sa modification.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 40.5 Précisions concernant des ordonnances de communication
+
+L’ordonnance rendue en vertu du paragraphe 40.3(1) précise le lieu et la forme de la communication du document, le délai dans lequel elle doit être faite ainsi que le nom de l’agent de la paix à qui elle doit être faite.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 40.6 Valeur probante des copies
+
+Toute copie communiquée en application du paragraphe 40.3(1) est, à la condition d’être certifiée conforme à l’original par affidavit, admissible en preuve dans toute procédure engagée sous le régime de la présente partie et a la même valeur probante que l’original aurait eue s’il avait été déposé en preuve de la façon normale.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 40.7 Demande d’exemption
+
+(1) Toute personne visée par l’ordonnance rendue en vertu du paragraphe 40.3(1) peut, avant l’expiration de l’ordonnance, demander par écrit au juge de paix qui l’a rendue ou à un autre juge de paix de l’exempter de l’obligation de communiquer ou d’établir et de communiquer tout document.
+
+**Préavis**
+
+(2) Elle ne peut présenter une demande qu’à la condition d’avoir donné, dans les quinze jours suivant celui où l’ordonnance est rendue, un préavis de son intention à l’agent de la paix nommé dans l’ordonnance auprès duquel le document doit être produit.
+
+**Conséquence de la demande d’exemption**
+
+(3) L’exécution de l’ordonnance de communication est suspendue jusqu’à ce qu’une décision définitive soit rendue sur la demande.
+
+**Exemption**
+
+(4) Le juge de paix peut accorder l’exemption s’il est convaincu que, selon le cas :
+
+- a) la communication révélerait des renseignements protégés, notamment par des règles de droit;
+
+- b) il serait déraisonnable d’obliger l’intéressé à communiquer les documents, données ou renseignements;
+
+- c) les documents, données ou renseignements ne sont ni en la possession de l’intéressé ni à sa disposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 40.8 Documents incriminants
+
+Nul n’est dispensé de se conformer à une ordonnance rendue en vertu du paragraphe 40.3(1) du fait que des documents à communiquer peuvent tendre à l’incriminer ou à l’exposer à quelque procédure ou action pénale, civile ou administrative; toutefois, les documents qu’un particulier est tenu d’établir ne peuvent être utilisés ou admis en preuve contre lui dans le cadre de poursuites criminelles intentées contre lui par la suite, sauf en ce qui concerne les poursuites pour toute infraction prévue aux articles 132, 136 ou 137 du *Code criminel*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 29
+
+</details>
+
+### 41 Avis — officier désigné
+
+(1) Lorsqu’il apparaît à l’autorité disciplinaire d’un membre que celui-ci a contrevenu à l’une des dispositions du code de déontologie et que, eu égard à la gravité de la contravention et aux circonstances, les mesures disciplinaires prévues dans les règles ne seraient pas suffisantes, elle convoque une audience pour enquêter sur la contravention qui aurait été commise en signalant celle-ci à l’officier désigné par le commissaire pour l’application du présent article.
+
+**Prescription**
+
+(2) L’autorité disciplinaire ne peut convoquer une audience, relativement à une contravention au code de déontologie qui aurait été commise par un membre, plus d’un an après que la contravention et l’identité du membre en cause ont été portées à la connaissance de l’autorité disciplinaire qui tient ou fait tenir l’enquête.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 41; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 29
+
+</details>
+
+### 42 Mesures imposées par l’autorité disciplinaire
+
+(1) Si l’autorité disciplinaire d’un membre est convaincue, selon la prépondérance des probabilités, que celui-ci a contrevenu à l’une des dispositions du code de déontologie et que, eu égard à la gravité de la contravention et aux circonstances, les mesures disciplinaires prévues dans les règles sont suffisantes, elle peut lui imposer une ou plusieurs de ces mesures.
+
+**Prescription**
+
+(2) Les mesures disciplinaires visées au paragraphe (1) ne peuvent être prises plus d’un an après que la contravention et l’identité du membre en cause ont été portées à la connaissance de l’autorité disciplinaire qui tient ou fait tenir l’enquête.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 42; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 1990, ch. 8, art. 66; 2002, ch. 8, art. 182; 2013, ch. 18, art. 29
+
+</details>
+
+### Comités de déontologie
+
+### 43 Nomination
+
+(1) Dès qu’il est avisé en vertu du paragraphe 41(1) qu’un membre aurait contrevenu à l’une des dispositions du code de déontologie, l’officier désigné pour l’application de ce paragraphe constitue, sous réserve des règlements, un comité de déontologie composé d’une ou de plusieurs personnes pour décider si le membre y a contrevenu.
+
+**Avis**
+
+(2) Dans les meilleurs délais après avoir constitué le comité de déontologie, l’autorité disciplinaire qui a convoqué l’audience signifie au membre en cause un avis écrit l’informant qu’un comité de déontologie décidera s’il y a eu contravention.
+
+**Contenu de l’avis**
+
+(3) L’avis peut énoncer plus d’une contravention aux dispositions du code de déontologie et contient les éléments suivants :
+
+- a) un énoncé distinct de chaque contravention reprochée;
+
+- b) un énoncé détaillé de l’acte ou de l’omission constituant chaque contravention reprochée;
+
+- c) le nom des membres du comité de déontologie;
+
+- d) l’énoncé du droit d’opposition du membre à la nomination de toute personne au comité de déontologie, comme le prévoit l’article 44.
+
+**Énoncé détaillé**
+
+(4) L’énoncé détaillé contenu dans l’avis doit être suffisamment précis et mentionner, si possible, le lieu et la date où se serait produite chaque contravention afin que le membre qui en reçoit signification puisse connaître la nature des contraventions reprochées et préparer sa réponse en conséquence.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 43; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 29
+
+</details>
+
+### 44 Opposition à la nomination
+
+(1) Le membre à qui est signifié l’avis visé au paragraphe 43(2) peut, dans les sept jours suivant la signification, adresser par écrit à l’officier désigné par le commissaire pour l’application du paragraphe 43(1) son opposition à la nomination de toute personne au comité de déontologie; sur réception de l’opposition, l’officier ainsi désigné soit la rejette, soit l’accueille et nomme une autre personne.
+
+**Motifs**
+
+(2) L’opposition visée au paragraphe (1) doit être motivée.
+
+**Avis**
+
+(3) L’officier désigné signifie au membre qui s’est opposé un avis écrit de sa décision et de ses motifs; s’il accueille l’opposition :
+
+- a) il nomme une nouvelle personne au comité de déontologie;
+
+- b) il inclut dans l’avis :
+  - (i) le nom de cette personne,
+  - (ii) la mention du droit d’opposition du membre à la nomination de cette personne, comme il est prévu au présent article.
+
+**Opposition**
+
+(4) Les dispositions du présent article s’appliquent, compte tenu des adaptations de circonstance, à la nomination d’une personne en vertu du paragraphe (3) comme si l’avis mentionnant le nom de cette dernière était l’avis visé au paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 44; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 29
+
+</details>
+
+### 45 Mandat
+
+(1) Le comité de déontologie décide, selon la prépondérance des probabilités, si les allégations de contravention à l’une ou plusieurs des dispositions du code de déontologie énoncées dans l’avis signifié en vertu du paragraphe 43(2) ont été établies.
+
+**Pouvoirs du comité de déontologie**
+
+(2) Le comité de déontologie possède, relativement à l’affaire qu’il préside, les pouvoirs conférés à une commission d’enquête par les alinéas 24.1(3)a) à c).
+
+**Décision par écrit**
+
+(3) La décision du comité de déontologie est consignée par écrit; elle comprend notamment l’exposé de ses conclusions sur les questions de fait essentielles à la décision, les motifs de la décision et l’énoncé, le cas échéant, de la mesure disciplinaire imposée en vertu du paragraphe (4).
+
+**Mesure disciplinaire**
+
+(4) Si le comité de déontologie décide qu’un membre a contrevenu à l’une des dispositions du code de déontologie, il prend à son égard une ou plusieurs des mesures disciplinaires suivantes :
+
+- a) il recommande que le membre soit congédié de la Gendarmerie, s’il est sous-commissaire, ou, s’il ne l’est pas, le congédie de la Gendarmerie;
+
+- b) il ordonne au membre de démissionner de la Gendarmerie, et si ce dernier ne s’exécute pas dans les quatorze jours suivants, il prend à son égard la mesure visée à l’alinéa a);
+
+- c) il impose une ou plusieurs des mesures disciplinaires prévues dans les règles.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 45; L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 29
+
+</details>
+
+### Audience
+
+### 45.1 Parties
+
+(1) L’autorité disciplinaire qui a convoqué l’audience en vertu du paragraphe 41(1) ainsi que le membre dont la conduite fa it l’objet de l’audience y sont tous deux parties.
+
+**Audiences publiques**
+
+(2) Les audiences sont publiques; toutefois, le comité de déontologie, de sa propre initiative ou sur demande de toute partie, peut ordonner que toute partie de l’audience soit tenue à huis clos s’il estime :
+
+- a) que des renseignements dont la communication risquerait vraisemblablement de porter préjudice à la défense du Canada ou d’États alliés ou associés avec le Canada ou à la détection, à la prévention ou à la répression d’activités hostiles ou subversives seront probablement révélés au cours de l’audience;
+
+- b) que des renseignements risquant d’entraver le contrôle d’application de la loi seront probablement révélés au cours de l’audience;
+
+- c) que des renseignements concernant les ressources pécuniaires ou la vie privée d’une personne dont l’intérêt ou la sécurité l’emporte sur l’intérêt du public à l’égard de ces renseignements seront probablement révélés au cours de l’audience;
+
+- d) par ailleurs, que les circonstances exigent une telle mesure.
+
+**Représentation des témoins**
+
+(3) Le comité de déontologie doit permettre aux témoins de se faire représenter à l’audience par un conseiller juridique ou par un représentant.
+
+**Restriction**
+
+(4) Malgré le paragraphe 45(2) mais sous réserve du paragraphe (5), le comité de déontologie ne peut recevoir ou accepter des éléments de preuve ou autres renseignements non recevables devant un tribunal du fait qu’ils sont protégés par le droit de la preuve.
+
+**Obligation des témoins de déposer**
+
+(5) Au cours de l’audience, aucun témoin n’est dispensé de répondre aux questions portant sur l’affaire dont est saisi le comité de déontologie, lorsque ce dernier l’exige, au motif que sa réponse peut l’incriminer ou l’exposer à une procédure ou action pénale, civile ou administrative.
+
+**Non-recevabilité des réponses**
+
+(6) Lorsque le témoin est un membre, les réponses ou déclarations faites à la suite des questions visées au paragraphe (5) ne peuvent être utilisées ni ne sont recevables dans le cadre d’une procédure prévue à la partie IV portant sur une allégation selon laquelle il a contrevenu à l’une des dispositions du code de déontologie, sauf si la procédure porte sur une allégation selon laquelle il a fait une telle réponse ou déclaration, qu’il savait être fausse, dans l’intention de tromper.
+
+**Ordonnance limitant la publication**
+
+(7) Le comité de déontologie peut, de sa propre initiative ou sur demande de toute personne, rendre une ordonnance interdisant à quiconque de publier ou de diffuser de quelque façon que ce soit tout renseignement qui, à la fois :
+
+- a) permettrait d’établir l’identité d’un plaignant, d’un témoin ou d’une personne âgée de moins de dix-huit ans;
+
+- b) a été communiqué pendant toute partie de l’audience tenue à huis clos.
+
+**Absence du membre**
+
+(8) Le comité de déontologie peut, dans les circonstances prévues par les règles, tenir l’audience en l’absence du membre dont la conduite fait l’objet de l’audience.
+
+**Examen médical**
+
+(9) Si le membre dont la conduite fait l’objet de l’audience s’absente pour un motif d’ordre médical, le comité de déontologie peut exiger qu’il subisse un examen médical ou une évaluation par la personne compétente que le comité désigne afin de vérifier si cette absence est justifiée. Si le membre omet sans raison de se présenter à l’examen médical ou à l’évaluation, le comité peut tenir l’audience en son absence.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 29
+
+</details>
+
+### Appel
+
+### 45.11 Appel interjeté au commissaire — décision du comité de déontologie
+
+(1) Tout membre dont la conduite fait l’objet d’une décision du comité de déontologie ou l’autorité disciplinaire qui a convoqué l’audience relative à cette décision peut, dans les délais prévus aux règles, faire appel de la décision devant le commissaire :
+
+- a) soit en ce qui concerne la conclusion selon laquelle est établie ou non, selon le cas, une contravention alléguée à une disposition du code de déontologie;
+
+- b) soit en ce qui concerne toute mesure disciplinaire imposée après la conclusion visée à l’alinéa a).
+
+**Application aux anciens membres**
+
+(2) Le paragraphe (1) s’applique par ailleurs aux anciens membres à l’égard d’un appel en ce qui concerne le congédiement de la Gendarmerie.
+
+**Appel interjeté au commissaire — décision de l’autorité disciplinaire**
+
+(3) Tout membre dont la conduite fait l’objet d’une décision de l’autorité disciplinaire peut, dans les délais prévus dans les règles, faire appel de la décision devant le commissaire :
+
+- a) soit en ce qui concerne la conclusion selon laquelle est établie une contravention alléguée à une disposition du code de déontologie;
+
+- b) soit en ce qui concerne toute mesure disciplinaire imposée après la conclusion visée à l’alinéa a).
+
+**Motifs d’appel**
+
+(4) Le commissaire entend tout appel, quel qu’en soit le motif.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 29
+
+</details>
+
+### 45.12
+
+[Abrogé, 2013, ch. 18, art. 29]
+
+### 45.13
+
+[Abrogé, 2013, ch. 18, art. 29]
+
+### 45.14
+
+[Abrogé, 2013, ch. 18, art. 29]
+
+### 45.15 Renvoi devant le Comité
+
+(1) Avant d’étudier un appel relatif aux mesures disciplinaires ci-après ou aux conclusions qui les ont justifiées, le commissaire renvoie le dossier devant le Comité :
+
+- a) une pénalité financière qui excède une somme équivalente à une journée de salaire du membre;
+
+- b) la rétrogradation;
+
+- c) l’ordre de démissionner;
+
+- d) une recommandation de congédiement;
+
+- e) le congédiement.
+
+(2) [Abrogé, 2013, ch. 18, art. 30]
+
+**Demande du membre**
+
+(3) Par dérogation au paragraphe (1), le membre dont la cause est portée en appel devant le commissaire peut lui demander de ne pas la renvoyer devant le Comité; le commissaire peut accéder à cette demande, ou la rejeter s’il estime plus indiqué un renvoi devant le Comité.
+
+(4) [Abrogé, 2013, ch. 18, art. 30]
+
+**Dispositions applicables**
+
+(5) Les articles 34 et 35 s’appliquent, compte tenu des adaptations de circonstance, aux affaires renvoyées devant le Comité conformément au présent article, comme s’il s’agissait d’un grief renvoyé devant ce même Comité conformément à l’article 33.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 30
+
+</details>
+
+### 45.16 Décisions rendues en appel : conclusion du comité de déontologie
+
+(1) Le commissaire peut, lorsqu’il est saisi d’un appel interjeté contre la conclusion d’un comité de déontologie :
+
+- a) soit rejeter l’appel et confirmer la conclusion portée en appel;
+
+- b) soit accueillir l’appel et ordonner la tenue d’une nouvelle audience portant sur l’allégation qui a donné lieu à la conclusion contestée ou rendre la conclusion que, selon lui, le comité de déontologie aurait dû rendre.
+
+**Décisions rendues en appel : conclusion de l’autorité disciplinaire**
+
+(2) Le commissaire peut, lorsqu’il est saisi d’un appel interjeté contre une conclusion d’une autorité disciplinaire :
+
+- a) soit rejeter l’appel et confirmer la conclusion portée en appel;
+
+- b) soit accueillir l’appel et rendre la conclusion que, selon lui, l’autorité disciplinaire aurait dû rendre.
+
+**Décision concernant une mesure disciplinaire**
+
+(3) Le commissaire peut, lorsqu’il est saisi d’un appel interjeté contre une mesure disciplinaire imposée par le comité de déontologie ou l’autorité disciplinaire :
+
+- a) soit rejeter l’appel et confirmer la mesure disciplinaire;
+
+- b) soit accueillir l’appel et annuler la mesure disciplinaire imposée ou, sous réserve des paragraphes (4) ou (5), imposer toute autre mesure disciplinaire.
+
+**Limite**
+
+(4) Lorsque l’appel vise une mesure disciplinaire imposée par une autorité disciplinaire, le commissaire ne peut imposer une mesure disciplinaire en vertu de l’alinéa (3)b) que si elle est prévue par les règles.
+
+**Précision**
+
+(5) Lorsque l’appel vise une mesure disciplinaire imposée par un comité de déontologie, le commissaire peut imposer toute mesure disciplinaire visée à l’alinéa (3)b) que le comité aurait pu imposer, notamment recommander que le membre soit congédié de la Gendarmerie, s’il est sous-commissaire, ou, s’il ne l’est pas, le congédier de la Gendarmerie.
+
+**Nouvelle audience**
+
+(6) Lorsque le commissaire ordonne, conformément au paragraphe (1), la tenue d’une nouvelle audience portant sur une allégation, un comité de déontologie chargé de la conduite de l’audience est nommé conformément à la présente partie; l’audience est tenue conformément à la présente partie comme s’il s’agissait de la première audience relativement à cette allégation.
+
+**Décision**
+
+(7) Le commissaire rend, dans les meilleurs délais, une décision écrite et motivée sur tout appel dont il est saisi.
+
+**Rapport du Comité ou de son président**
+
+(8) Lorsqu’un dossier fait l’objet d’un renvoi devant le Comité en application de l’article 45.15, le commissaire tient compte des conclusions ou des recommandations contenues dans le rapport du Comité ou de son président, mais il n’est pas lié par celles-ci; s’il choisit de s’en écarter, il doit toutefois motiver son choix dans sa décision.
+
+**Caractère définitif de la décision**
+
+(9) La décision du commissaire portant sur un appel est définitive et exécutoire.
+
+**Annulation ou modification de la décision**
+
+(10) Malgré le paragraphe (9), le commissaire peut annuler ou modifier sa décision à l’égard d’un appel interjeté en vertu de l’article 45.11 si de nouveaux faits lui sont soumis ou s’il constate qu’il a fondé sa décision sur une erreur de fait ou de droit.
+
+**Délégation**
+
+(11) Le commissaire peut déléguer à ses subordonnés tel de ses pouvoirs ou fonctions prévus au présent article.
+
+**Subdélégation**
+
+(12) Les délégataires visés au paragraphe (11) ne peuvent subdéléguer à aucune autre personne les pouvoirs ou fonctions qu’ils ont reçus.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 1990, ch. 8, art. 67; 2002, ch. 8, art. 182; 2013, ch. 18, art. 31
+
+</details>
+
+### 45.17 Recommandation de congédier un sous-commissaire
+
+Lorsqu’un comité de déontologie recommande, en vertu de l’alinéa 45(4)a), qu’un sous-commissaire soit congédié de la Gendarmerie, la recommandation ne peut être transmise au gouverneur en conseil avant l’expiration du délai accordé pour interjeter appel en vertu du paragraphe 45.11(1). Lorsque l’appel est interjeté, la recommandation n’est transmise que si l’appel est rejeté.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 31
+
+</details>
+
+### Avis
+
+### 45.171 Avis au plaignant et à la Commission
+
+Si un particulier dépose une plainte en vertu du paragraphe 45.53(1) concernant la conduite d’un membre et que celle-ci constitue une contravention alléguée à l’une des dispositions du code de déontologie, la Commission et le particulier doivent être avisés, dans les meilleurs délais après le prononcé de toute décision définitive relative à cette contravention sous le régime de la présente partie ou après l’expiration du délai d’appel prévu sous le régime de la présente partie, de la décision et de toute mesure disciplinaire prise à l’égard du membre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 32 et 77
+
+</details>
+
+### 45.172 Avis à la personne qui a présenté des observations
+
+Si la Gendarmerie reçoit d’une personne des observations relatives à une contravention à l’une des dispositions du code de déontologie qui aurait été commise par un membre et que cette dernière a eu la possibilité de les présenter au titre du paragraphe 45.57(1), la personne doit être avisée, dans les meilleurs délais après le prononcé de toute décision définitive relative à une contravention alléguée sous le régime de la présente partie ou après l’expiration du délai d’appel, de la décision et de toute mesure disciplinaire prise à l’égard du membre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 32 et 77
+
+</details>
+
+### 45.173 Avis au président de la Commission
+
+Si le président de la Commission dépose une plainte en vertu du paragraphe 45.59(1) concernant la conduite d’un membre et que celle-ci constitue une contravention alléguée à l’une des dispositions du code de déontologie, il doit être avisé, dans les meilleurs délais après le prononcé de toute décision définitive relative à cette contravention sous le régime de la présente partie ou après l’expiration du délai d’appel, de la décision et de toute mesure disciplinaire prise à l’égard du membre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 32 et 77
+
+</details>
+
+## Conseil consultatif de gestion
+
+### 45.18 Constitution
+
+(1) Est constitué le Conseil consultatif de gestion.
+
+**Mission**
+
+(2) Le Conseil consultatif de gestion a pour mission de fournir au commissaire, de sa propre initiative ou à la demande de ce dernier, des conseils, des renseignements et des rapports relativement à l’administration et à la gestion de la Gendarmerie, notamment en ce qui a trait :
+
+- a) à l’élaboration et à la mise en oeuvre de plans de modernisation et de transformation;
+
+- b) à l’utilisation efficace et efficiente des ressources;
+
+- c) aux mesures à prendre pour atténuer les risques organisationnels;
+
+- d) à l’élaboration et à la mise en oeuvre de politiques et de contrôles de gestion qui favorisent les opérations de la Gendarmerie;
+
+- e) à l’élaboration et à la mise en oeuvre de plans organisationnels et stratégiques;
+
+- f) à l’élaboration et à la mise en oeuvre de budgets de fonctionnement et d’investissement.
+
+**Considération**
+
+(2.1) Dans l’exécution de sa mission, le Conseil consultatif de gestion prend en considération les répercussions, sur les femmes, les hommes et les personnes de diverses identités de genre, de ses conseils en tenant compte de l’interaction du sexe et du genre avec d’autres facteurs identitaires.
+
+**Copie ou résumé au ministre**
+
+(3) Le Conseil consultatif de gestion peut donner au ministre une copie ou un résumé des conseils, des renseignements et des rapports qu’il a fournis au commissaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 33
+- 2019, ch. 29, art. 222
+
+</details>
+
+### 45.19 Composition
+
+(1) Le Conseil consultatif de gestion est composé d’au plus treize membres nommés par le gouverneur en conseil sur recommandation du ministre.
+
+**Consultation**
+
+(2) Avant de faire la recommandation au gouverneur en conseil, le ministre peut consulter les gouvernements avec lesquels il a conclu des arrangements en vertu du paragraphe 20(1).
+
+**Facteurs à prendre en considération**
+
+(2.1) Lorsqu’il fait la recommandation, le ministre prend en considération l’importance de former un conseil qui est représentatif de la diversité de la société canadienne et dont les membres possèdent l’expérience et la compétence nécessaires à l’exécution de sa mission.
+
+**Mandat**
+
+(3) Les membres sont nommés, à temps partiel et à titre amovible, pour des mandats renouvelables respectifs d’au plus quatre ans, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus la moitié des membres.
+
+**Président et vice-président**
+
+(4) Le gouverneur en conseil désigne le président et le vice-président du Conseil consultatif de gestion parmi les membres de celui-ci.
+
+**Absence du président**
+
+(5) En cas d’absence ou d’empêchement du président ou de vacance de son poste, le vice-président assume la présidence; cependant, l’intérim ne peut dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
+
+**Absence du président et du vice-président**
+
+(6) En cas d’absence ou d’empêchement du président et du vice-président ou de vacance de leurs postes, le ministre peut désigner le président intérimaire parmi les autres membres du Conseil consultatif de gestion; cependant, l’intérim ne peut dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
+
+**Habilitation de sécurité**
+
+(7) Les membres du Conseil consultatif de gestion sont tenus d’obtenir et de conserver l’habilitation de sécurité requise délivrée par le gouvernement fédéral.
+
+**Qualités requises des membres**
+
+(8) Nul ne peut être nommé membre ni continuer à occuper cette charge si, selon le cas :
+
+- a) il est un membre ou une autre personne nommée ou employée sous le régime de la partie I;
+
+- b) il est ni citoyen canadien ni **résident permanent** au sens du paragraphe 2(1) de la *Loi sur l’immigration et la protection des réfugiés*;
+
+- c) il est **titulaire de charge publique** au sens du paragraphe 2(1) de la *Loi sur les conflits d’intérêts*, à moins de l’être en raison de sa nomination à titre de membre du Conseil consultatif de gestion;
+
+- d) il occupe un poste à temps plein au sein de l’administration publique fédérale ou est employé à temps plein par une autorité provinciale ou municipale;
+
+- e) il est membre du Sénat, de la Chambre des communes, d’une législature provinciale ou d’un conseil municipal, ou fait partie de leur personnel.
+
+**Rémunération**
+
+(9) Les membres du Conseil consultatif de gestion reçoivent la rémunération fixée par le gouverneur en conseil.
+
+**Indemnités**
+
+(10) Ils sont indemnisés des frais de déplacement et de séjour entraînés par l’exercice de leurs attributions hors du lieu de leur résidence habituelle, conformément aux directives du Conseil du Trésor.
+
+**Administration publique fédérale**
+
+(11) Ils sont réputés appartenir à l’administration publique fédérale pour l’application de la *Loi sur l’indemnisation des agents de l’État* et des règlements pris en vertu de l’article 9 de la *Loi sur l’aéronautique*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 1993, ch. 34, art. 111(F); 2013, ch. 18, art. 33
+- 2019, ch. 29, art. 222
+
+</details>
+
+### 45.2 Réunions
+
+(1) Le Conseil consultatif de gestion tient, aux date, heure et lieu fixés par le président, un minimum d’une réunion par trimestre d’exercice.
+
+**Réunions trimestrielles en personne**
+
+(2) Les membres du Conseil consultatif de gestion sont tenus de se réunir en personne une fois par trimestre d’exercice.
+
+**Télécommunication**
+
+(3) À l’exception des réunions visées au paragraphe (2), les réunions du Conseil consultatif de gestion peuvent se tenir par tout moyen de télécommunication permettant à tous les participants de communiquer adéquatement entre eux. Les personnes qui participent ainsi à ces réunions sont réputées y être présentes.
+
+**Voix consultative**
+
+(4) Le sous-ministre de la Sécurité publique et de la Protection civile et le commissaire, ou leur délégué, sont avisés de la tenue des réunions du Conseil consultatif de gestion, auxquelles ils peuvent participer avec voix consultative.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 33
+- 2019, ch. 29, art. 222
+
+</details>
+
+### 45.21 Questions administratives
+
+Le Conseil consultatif de gestion peut :
+
+- a) fixer ses priorités et développer ses plans de travail;
+
+- b) établir des procédures régissant l’exercice de ses activités;
+
+- c) fixer le quorum de ses réunions.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 33
+- 2019, ch. 29, art. 222
+
+</details>
+
+### 45.22 Droit d’accès aux renseignements
+
+(1) Sous réserve du paragraphe (2) et sur demande du Conseil consultatif de gestion, le commissaire lui donne accès, en temps opportun, aux renseignements qui relèvent de la Gendarmerie ou qui sont en sa possession et que le Conseil consultatif de gestion considère comme nécessaires à l’exécution de sa mission.
+
+**Exceptions**
+
+(2) Le Conseil consultatif de gestion n’a pas accès aux renseignements qui relèvent de la Gendarmerie ou qui sont en sa possession, dans les cas suivants :
+
+- a) le fait de lui donner accès à ces renseignements risque de compromettre une enquête ou une poursuite ou d’y nuire;
+
+- b) ces renseignements révèlent des renseignements personnels;
+
+- c) ces renseignements sont des **renseignements confidentiels du Conseil privé de la Reine pour le Canada**, au sens du paragraphe 39(2) de la *Loi sur la preuve au Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 33
+- 2019, ch. 29, art. 222
+
+</details>
+
+### 45.23 Non-renonciation
+
+Il est entendu que le fait que le commissaire donne, au Conseil consultatif de gestion, accès à des renseignements protégés par toute immunité reconnue par le droit de la preuve, par le secret professionnel de l’avocat ou du notaire ou par le privilège relatif au litige ne constitue pas une renonciation à l’immunité, au secret professionnel ou au privilège.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 33
+- 2019, ch. 29, art. 222
+
+</details>
+
+### 45.24 Rapports statistiques ou analytiques
+
+Sur demande du Conseil consultatif de gestion, le commissaire prépare, sur le fondement des renseignements qui relèvent de la Gendarmerie ou qui sont en sa possession, les rapports statistiques ou analytiques que le Conseil consultatif de gestion considère comme nécessaires à l’exécution de sa mission. Il fournit ces rapports au Conseil consultatif de gestion.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 33
+- 2019, ch. 29, art. 222
+
+</details>
+
+### 45.25
+
+[Abrogé, 2013, ch. 18, art. 33]
+
+### 45.26
+
+[Abrogé, 2013, ch. 18, art. 33]
+
+### 45.27
+
+[Abrogé, 2013, ch. 18, art. 33]
+
+### 45.28
+
+[Abrogé, 2013, ch. 18, art. 33]
+
+## Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada
+
+### Constitution et organisation
+
+### 45.29 Constitution
+
+(1) Est constituée la Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada, composée d’un président et d’au plus quatre autres membres, dont l’un peut être un vice-président, nommés par le gouverneur en conseil.
+
+**Inadmissibilité**
+
+(2) Est inadmissible à titre de membre de la Commission quiconque :
+
+- a) est un membre ou un ancien membre;
+
+- b) n’est ni citoyen canadien ni résident permanent au sens du paragraphe 2(1) de la *Loi sur l’immigration et la protection des réfugiés*.
+
+**Considération avant la nomination**
+
+(3) Le gouverneur en conseil, avant de nommer une personne membre de la Commission, tient compte de la nécessité d’assurer la représentation des régions.
+
+**Renouvellement du mandat**
+
+(4) Le mandat des membres de la Commission peut être renouvelé.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2003, ch. 22, art. 217(A); 2013, ch. 18, art. 35
+
+</details>
+
+### 45.3 Temps plein ou temps partiel
+
+(1) Le président est membre à temps plein de la Commission. Les autres membres peuvent être nommés à temps plein ou à temps partiel.
+
+**Mandat**
+
+(2) Les membres de la Commission occupent leur charge à titre inamovible pour un mandat d’au plus cinq ans, sous réserve de révocation par le gouverneur en conseil pour motif valable.
+
+**Rémunération**
+
+(3) Les membres de la Commission reçoivent la rémunération fixée par le gouverneur en conseil.
+
+**Indemnités**
+
+(4) Ils sont indemnisés des frais, notamment des frais de déplacement et de séjour, engagés dans le cadre de l’exercice de leurs attributions hors de leur lieu habituel, soit de travail, s’ils sont à temps plein, soit de résidence, s’ils sont à temps partiel, conformément aux directives du Conseil du Trésor.
+
+**Application de la *Loi sur la pension de la fonction publique***
+
+(5) Les membres à temps plein de la Commission sont réputés faire partie de la fonction publique pour l’application de la *Loi sur la pension de la fonction publique*.
+
+**Application d’autres lois**
+
+(6) Les membres de la Commission sont réputés appartenir à l’administration publique fédérale pour l’application de la *Loi sur l’indemnisation des agents de l’État* et des règlements pris en vertu de l’article 9 de la *Loi sur l’aéronautique*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.31 Président de la Commission
+
+(1) Le président de la Commission en est le premier dirigeant et en assure la direction et contrôle la gestion de son personnel.
+
+**Délégation**
+
+(2) Il peut déléguer au vice-président ou, en cas de vacance de son poste, à tout autre membre de la Commission, les pouvoirs et fonctions que lui attribue la présente loi, à l’exception du pouvoir de délégation que lui accorde le présent paragraphe et des pouvoirs et fonctions visés aux paragraphes 45.4(5), 45.41(10), 45.47(2) et 45.85(3).
+
+**Absence ou empêchement**
+
+(3) En cas d’absence ou d’empêchement du président de la Commission ou de vacance de son poste, le vice-président exerce les pouvoirs et fonctions attribués au président. En cas d’absence ou d’empêchement du vice-président ou en cas de vacance de son poste, le ministre peut autoriser un autre membre de la Commission à remplacer le président et à exercer les pouvoirs et fonctions de celui-ci; l’autorisation ne peut cependant dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.32 Siège
+
+(1) Le siège de la Commission est fixé dans la ville d’Ottawa.
+
+**Bureaux**
+
+(2) La Commission peut établir des bureaux dans toute région du Canada.
+
+**Personnel**
+
+(3) Le personnel nécessaire à l’exécution des travaux de la Commission est nommé conformément à la *Loi sur l’emploi dans la fonction publique*.
+
+**Assistance d’un expert**
+
+(4) La Commission peut, avec l’approbation du Conseil du Trésor :
+
+- a) engager, à titre temporaire, des experts compétents dans des domaines relevant de son champ d’activité pour l’assister dans l’exercice des pouvoirs et fonctions que lui attribue la présente loi;
+
+- b) fixer et payer leur rémunération et leurs frais.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### Pouvoirs et fonctions
+
+### 45.33 Attributions de la Commission
+
+La Commission exerce les pouvoirs et fonctions que lui attribue la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.34 Examen et rapport
+
+(1) Dans le but de veiller à ce que la Gendarmerie exerce ses activités conformément à la présente loi ou à la *Loi sur le programme de protection des témoins*, à leurs règlements, à toute directive donnée par le ministre en vertu de ceux-ci ou aux politiques, procédures ou lignes directrices régissant ses opérations, la Commission peut, de sa propre initiative ou à la demande du ministre, effectuer l’examen d’activités précises et présenter un rapport au ministre et au commissaire.
+
+**Exigences**
+
+(2) Pour effectuer un examen de sa propre initiative, la Commission doit être convaincue :
+
+- a) qu’elle dispose des ressources nécessaires pour effectuer l’examen et que le traitement des plaintes en application de la partie VII n’en sera pas compromis;
+
+- b) qu’aucun autre examen ou enquête n’a été entrepris sur une question similaire par une entité fédérale ou provinciale.
+
+**Avis**
+
+(3) Avant d’effectuer un examen de sa propre initiative, la Commission est tenue de transmettre un avis au ministre indiquant qu’elle estime s’être acquittée des exigences prévues au paragraphe (2) et donnant les motifs à l’appui de l’examen.
+
+**Politiques, procédures et lignes directrices**
+
+(4) La Commission inclut dans son rapport les conclusions et les recommandations qu’elle estime indiquées quant au bien-fondé, à la pertinence, à l’adéquation ou à la clarté de toute politique, procédure ou ligne directrice régissant les opérations de la Gendarmerie.
+
+**Copie du rapport pour les ministres provinciaux**
+
+(5) La Commission peut fournir une copie du rapport au ministre de qui relève au premier chef l’administration des forces de police d’une province à l’égard de laquelle le ministre a conclu des arrangements avec le gouvernement de la province en vertu de l’article 20.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.35 Examen pour faire suite à la demande d’une province
+
+(1) Si le ministre a conclu des arrangements avec le gouvernement d’une province en vertu de l’article 20, le ministre de qui relève au premier chef l’administration des forces de police dans la province peut demander au ministre qu’il demande à la Commission d’effectuer un examen des activités de la Gendarmerie qu’il précise et qui sont exercées dans sa province.
+
+**Rapport**
+
+(2) Lorsqu’elle effectue un examen sous le régime du présent article, la Commission présente un rapport au ministre, au ministre de la province qui en a fait la demande et au commissaire, et elle peut en fournir une copie à tout autre ministre de qui relève au premier chef l’administration des forces de police d’une province.
+
+**Conclusions et recommandations**
+
+(3) La Commission inclut dans son rapport les conclusions et les recommandations qu’elle estime indiquées relativement :
+
+- a) à la question de savoir si les activités de la Gendarmerie sont exercées conformément à la présente loi, à la *Loi sur le programme de protection des témoins*, à leurs règlements, à toute directive donnée par le ministre en vertu de ceux-ci ou aux politiques, procédures ou lignes directrices régissant ses opérations;
+
+- b) au bien-fondé, à la pertinence, à l’adéquation ou à la clarté de ces politiques, procédures ou lignes directrices.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 1996, ch. 15, art. 22; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.351 Sécurité nationale
+
+(1) La Commission n’a pas compétence pour effectuer l’examen d’activités liées à la sécurité nationale.
+
+**Renvoi**
+
+(2) Elle renvoie à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement toute question liée à la sécurité nationale soulevée par une demande d’examen présentée au titre des articles 45.34 ou 45.35.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, ch. 13, art. 41
+
+</details>
+
+### 45.36 Pouvoirs
+
+(1) Lorsqu’elle effectue l’examen visé aux articles 45.34 ou 45.35, la Commission peut exercer les mêmes pouvoirs que ceux prévus aux alinéas 45.65(1)a) à d).
+
+**Application**
+
+(2) Les paragraphes 45.65(2) à (6) s’appliquent à l’exercice des pouvoirs prévus au paragraphe (1), avec les adaptations nécessaires.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.37 Normes de service régissant les délais
+
+La Commission établit et rend publiques des normes de service concernant les délais pour le traitement des plaintes et prévoyant les circonstances dans lesquelles ces délais ne s’appliquent pas ou peuvent être prorogés.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.38 Éducation et information
+
+La Commission peut mettre en oeuvre à l’intention du public des programmes d’éducation et d’information visant à mieux faire connaître son mandat, effectuer des recherches et consulter des personnes ou entités, au Canada ou à l’étranger, relativement à ce mandat et agir en collaboration avec celles-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### Dispositions relatives aux renseignements
+
+### 45.39 Droit d’accès
+
+(1) Sous réserve des articles 45.4 et 45.42, la Commission a un droit d’accès aux renseignements qui relèvent de la Gendarmerie ou qui sont en sa possession et qu’elle considère comme pertinents à l’égard de l’exercice des pouvoirs et fonctions que lui attribuent les parties VI et VII.
+
+**Accès aux documents**
+
+(2) La Commission exerce son droit d’accès, notamment par la consultation de tout ou partie de documents et par l’obtention de copies de tout ou partie de ceux-ci.
+
+**Indication des renseignements**
+
+(3) Lorsqu’il est d’avis que la communication des renseignements visés au paragraphe (1) qui ne sont pas des renseignements protégés, au sens du paragraphe 45.4(1), à toute personne ou entité autre que les membres et le personnel de la Commission ou les personnes agissant pour son compte risquerait de causer un préjudice sérieux à une personne, le commissaire désigne ces renseignements à la Commission lorsqu’il lui donne accès à ceux-ci.
+
+**Application**
+
+(4) Sous réserve d’une autre loi fédérale qui y renvoie expressément, le présent article s’applique malgré toute autre loi fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.4 Définition de **renseignement protégé**
+
+(1) Pour l’application du présent article et des articles 45.41 à 45.48, **renseignement protégé** s’entend de tout renseignement à l’égard duquel un privilège ou la confidentialité peut être invoqué, notamment :
+
+- a) tout renseignement protégé par le secret professionnel liant le conseiller juridique à son client ou par le privilège de l’informateur;
+
+- b) tout renseignement dont la communication est visée au paragraphe 11(1) de la *Loi sur le Programme de protection des témoins*;
+
+- c) [Abrogé, 2013, ch. 29, art. 23]
+
+- d) tout renseignement opérationnel spécial, au sens du paragraphe 8(1) de la *Loi sur l’ingérence étrangère et la protection de l’information*;
+
+- e) tout élément d’information ou renseignement de la nature de ceux mentionnés à l’un des alinéas a) à f) de la définition de **renseignements opérationnels spéciaux**, au paragraphe 8(1) de la *Loi sur l’ingérence étrangère et la protection de l’information*, concernant toute force de police ou Interpol ou toute autre organisation policière internationale similaire, ou reçu de celles-ci;
+
+- f) tout renseignement médical qui a trait à un membre ou à toute autre personne nommée ou employée sous le régime de la partie I.
+
+**Renseignements protégés**
+
+(2) Malgré la confidentialité des renseignements protégés, la Commission a un droit d’accès à ceux d’entre eux qui relèvent de la Gendarmerie ou qui sont en sa possession, s’ils sont pertinents et nécessaires pour l’examen visé aux articles 45.34 ou 45.35 ou pour une enquête, une révision ou une audience tenues sous le régime de la partie VII.
+
+**Accès aux documents**
+
+(3) Le droit d’accès de la Commission comprend le droit de consulter tout ou partie des documents et, sous réserve de l’approbation du commissaire, d’obtenir des copies de tout ou partie de ceux-ci.
+
+**Motivation du refus**
+
+(4) Si le commissaire refuse à la Commission l’accès à des renseignements protégés prévu au présent article, il indique à la Commission, tout en évitant de divulguer les renseignements :
+
+- a) les raisons pour lesquelles ces renseignements ne sont pas pertinents ou nécessaires relativement aux fins visées par la Commission;
+
+- b) la nature et la date des renseignements protégés.
+
+**Protocole d’entente**
+
+(5) Le président de la Commission et le commissaire peuvent conclure un protocole d’entente qui établit les principes et la procédure relatifs à l’accès aux renseignements protégés prévu au présent article et ceux relatifs à leur protection.
+
+**Règlements**
+
+(6) Le gouverneur en conseil peut prendre des règlements concernant la procédure d’exercice du droit d’accès de la Commission aux renseignements protégés prévu au présent article et la procédure relative à leur protection.
+
+**Application**
+
+(7) Sous réserve d’une autre loi fédérale qui y renvoie expressément, le présent article ou tout règlement pris en vertu du paragraphe (6) s’applique malgré toute autre loi fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35, ch. 29, art. 23
+- 2024, ch. 16, art. 57
+
+</details>
+
+### 45.41 Ancien juge ou autre particulier
+
+(1) Lorsque le commissaire refuse à la Commission l’accès aux renseignements protégés prévu au paragraphe 45.4(2), le ministre, à la demande de la Commission, nomme un ancien juge de la cour supérieure d’une province ou de la Cour fédérale ou un autre particulier appartenant à une catégorie prévue par règlement pour examiner ces renseignements et pour formuler des observations à l’intention de la Commission et du commissaire. L’ancien juge ou l’autre particulier est tenu d’obtenir une habilitation de sécurité délivrée par le gouvernement fédéral et de prêter le serment du secret mentionné à l’alinéa 45.45(1)a).
+
+**Avis de nomination**
+
+(2) Lorsqu’un ancien juge ou un autre particulier est nommé au titre du paragraphe (1), le ministre en avise le président de la Commission et le commissaire. Ceux-ci bénéficient d’un délai de trente jours suivant la transmission de l’avis pour présenter leurs observations à l’ancien juge ou à l’autre particulier ou d’un délai prolongé, d’au plus soixante jours, accordé par l’un ou l’autre de ceux-ci.
+
+**Droit d’accès de l’ancien juge ou de l’autre particulier**
+
+(3) Aux fins d’examen, l’ancien juge ou l’autre particulier a accès aux renseignements protégés.
+
+**Observations**
+
+(4) L’ancien juge ou l’autre particulier examine les renseignements et présente ses observations au président de la Commission et au commissaire :
+
+- a) quant à la nature confidentielle des renseignements;
+
+- b) quant à la pertinence et à la nécessité des renseignements relativement aux fins visées.
+
+**Interdiction**
+
+(5) Lorsqu’il fait des observations en application du paragraphe (4), l’ancien juge ou l’autre particulier ne peut les formuler d’une manière qui révèle ou permettrait de découvrir un renseignement protégé.
+
+**Critères**
+
+(6) Avant de faire ses observations, l’ancien juge ou l’autre particulier tient compte des facteurs suivants :
+
+- a) les raisons pour lesquelles la Commission demande l’accès aux renseignements;
+
+- b) les raisons pour lesquelles le commissaire refuse l’accès aux renseignements;
+
+- c) la possibilité pour la Commission d’exercer convenablement ses pouvoirs ou fonctions sans accès à ces renseignements.
+
+**Délai**
+
+(7) L’ancien juge ou l’autre particulier présente ses observations dans les trente jours suivant l’expiration du délai de trente jours prévu au paragraphe (2) ou dans un délai prolongé, d’au plus soixante jours, accordé par le ministre.
+
+**Confidentialité**
+
+(8) Les observations sont confidentielles et l’ancien juge, l’autre particulier, la Commission et la Gendarmerie ne peuvent les communiquer qu’au ministre.
+
+**Immunité et non-assignation**
+
+(9) L’article 45.5 s’applique à l’ancien juge ou à l’autre particulier comme s’il était un membre de la Commission.
+
+**Considération des observations**
+
+(10) Après la réception des observations de l’ancien juge ou de l’autre particulier, le président de la Commission révise la décision de celle-ci de demander l’accès et le commissaire révise sa propre décision de refuser de communiquer des renseignements, et ce en tenant compte de ces observations.
+
+**Restriction**
+
+(11) Aucune demande de contrôle judiciaire relativement à la décision de la Commission de demander l’accès ou à celle du commissaire de refuser de communiquer des renseignements protégés n’est admise avant que l’ancien juge ou l’autre particulier n’ait fait ses observations.
+
+**Règlements**
+
+(12) Le gouverneur en conseil peut, par règlement, prévoir des catégories de particuliers pour l’application du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.42 Exceptions
+
+(1) Malgré l’article 45.4, la Commission n’a pas accès aux renseignements qui relèvent de la Gendarmerie ou qui sont en sa possession si ceux-ci révèlent :
+
+- a) des renseignements ayant trait à une demande de services juridiques ou d’indemnisation par Sa Majesté du chef du Canada faite par un membre ou toute autre personne nommée ou employée sous le régime de la partie I;
+
+- b) des communications visées au paragraphe 47.1(2);
+
+- c) des renseignements qui sont protégés par le privilège du secret professionnel liant le conseiller juridique à son client et qui concernent les avis à un membre ou à toute autre personne nommée ou employée sous le régime de la partie I lorsque le privilège peut être invoqué par le membre ou toute autre personne mais non par la Gendarmerie;
+
+- d) des renseignements protégés par le privilège du secret professionnel liant le conseiller juridique à son client qui concernent les rapports de la Gendarmerie avec la Commission lorsque ce privilège peut être invoqué par la Gendarmerie, notamment :
+  - (i) des avis juridiques sur la façon d’agir de la Gendarmerie avec la Commission,
+  - (ii) les procès-verbaux de réunions tenues par la Gendarmerie portant sur sa façon d’agir avec la Commission;
+
+- e) tout rapport qui est établi à l’intention du commissaire pour toute réunion de la Gendarmerie et de la Commission et qui contient une analyse ou des conseils concernant la réunion.
+
+**Restriction — caractère confidentiel**
+
+(2) La présente partie n’a pas pour effet d’autoriser la communication à la Commission des renseignements confidentiels du Conseil privé de la Reine pour le Canada visés au paragraphe 39(1) de la *Loi sur la preuve au Canada*. Si de tels renseignements lui sont communiqués, la Commission ne peut les utiliser.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.43 Utilisation des renseignements protégés
+
+Lorsqu’elle a obtenu accès à des renseignements protégés à l’une des fins visées au paragraphe 45.4(2), la Commission ne peut les utiliser à d’autres fins.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.44 Protection des renseignements
+
+(1) La Commission peut, par règlement, établir des mesures afin de protéger tout renseignement qui relève d’elle ou qui est en sa possession.
+
+**Consultation et approbation**
+
+(2) Sous réserve du paragraphe 45.47(2), lorsque la Commission obtient l’accès à des renseignements visés au paragraphe 45.39(3) ou à des renseignements protégés de la Gendarmerie, aucun membre de la Commission ou de son personnel et aucune autre personne agissant pour son compte ne doit distribuer un document ou rapport contenant ou divulguant ces renseignements, en tout ou en partie, avant d’avoir obtenu l’approbation du commissaire.
+
+**Délai**
+
+(3) Dans les meilleurs délais après avoir été consulté en application du paragraphe (2), le commissaire indique s’il approuve le document ou le rapport pour distribution aux termes de ce paragraphe.
+
+**Règlements**
+
+(4) Le gouverneur en conseil peut prendre des règlements concernant les mesures de protection de tout renseignement qui relève de la Commission ou qu’elle a en sa possession.
+
+**Incompatibilité**
+
+(5) En cas d’incompatibilité, les dispositions des règlements pris en vertu du paragraphe (4) l’emportent sur les dispositions incompatibles des règlements pris en vertu du paragraphe (1).
+
+**Obligation de respecter les règlements**
+
+(6) Sous réserve du paragraphe (5), les membres et le personnel de la Commission et toute autre personne agissant pour son compte sont tenus de respecter les règlements pris en vertu des paragraphes (1) et (4).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.45 Conditions de sécurité
+
+(1) Les membres et le personnel de la Commission, toute autre personne agissant pour son compte et l’ancien juge ou l’autre particulier nommé en vertu du paragraphe 45.41(1) sont tenus :
+
+- a) d’obtenir et de conserver l’habilitation de sécurité requise délivrée par le gouvernement fédéral et de prêter le serment du secret prévu par règlement;
+
+- b) de satisfaire aux exigences de sécurité prévues sous le régime de la présente partie et de la *Loi sur l’ingérence étrangère et la protection de l’information*;
+
+- c) de respecter les règles et procédures relatives à la manipulation, à la conservation, au transport et à la transmission en toute sécurité de renseignements ou documents, notamment toute exigence énoncée dans une politique, ligne directrice ou directive du Conseil du Trésor.
+
+**Règlement**
+
+(2) Le gouverneur en conseil peut, par règlement, prévoir le serment du secret visé à l’alinéa (1)a).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 1996, ch. 15, art. 23; 2013, ch. 18, art. 34 et 35
+- 2024, ch. 16, art. 57
+
+</details>
+
+### 45.46 Réserve
+
+(1) La Commission ne peut communiquer les renseignements visés au paragraphe 45.39(3) qu’elle reçoit de la Gendarmerie à une personne ou entité autre que ses membres, son personnel ou les personnes agissant pour son compte, à moins que le commissaire ne lui indique qu’il est convaincu de ce qui suit :
+
+- a) la personne ou l’entité prendra des mesures raisonnables pour protéger les renseignements;
+
+- b) la personne ou l’entité exigera de tous ses membres, employés et dirigeants et des autres personnes agissant pour son compte qu’ils se conforment à des exigences équivalentes à celles mentionnées à l’article 45.45;
+
+- c) la personne ou l’entité a convenu de toute mesure qui aiderait la Gendarmerie à vérifier qu’elle s’est acquittée des obligations visées aux alinéas a) et b), notamment en fournissant tout renseignement ou document demandé par la Gendarmerie et en permettant à celle-ci d’entrer dans ses locaux et installations d’archivage d’informations et de les inspecter.
+
+**Délai**
+
+(2) Lorsque la Commission indique au commissaire qu’elle veut communiquer les renseignements visés au paragraphe 45.39(3) à une personne ou à une entité autre que ses membres, son personnel ou les personnes agissant pour son compte, le commissaire indique à la Commission dans les meilleurs délais s’il est convaincu que la personne ou l’entité s’est acquittée des obligations visées aux alinéas (1)a) et b) et qu’elle a convenu des mesures visées à l’alinéa (1)c).
+
+**Règlements**
+
+(3) Le gouverneur en conseil peut prendre des règlements concernant la communication par la Commission des renseignements visés au paragraphe 45.39(3) à des personnes ou entités autres que ses membres, son personnel ou les personnes agissant pour son compte et concernant les mesures que ces personnes ou entités doivent prendre pour protéger ces renseignements.
+
+**Obligations des tiers**
+
+(4) Toute personne qui a reçu des renseignements au titre du présent article est tenue de respecter les règlements pris en vertu du paragraphe (3).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.47 Interdiction : Commission
+
+(1) Sauf autorisation prévue au paragraphe (2), il est interdit à tout membre de la Commission ou de son personnel et à toute autre personne agissant pour son compte, sachant qu’il s’agit d’un renseignement protégé auquel il a eu accès au titre du paragraphe 45.4(2), de fournir à quiconque un tel renseignement ou de permettre à quiconque d’y avoir accès ou de ne pas se soucier de sa nature confidentielle.
+
+**Exception**
+
+(2) Avec l’autorisation du président de la Commission, toute personne visée au paragraphe (1) peut communiquer des renseignements protégés :
+
+- a) au procureur général du Canada ou d’une province si, d’une part, le président de la Commission est d’avis que les renseignements portent sur la perpétration par un administrateur, un dirigeant ou un employé d’une institution fédérale d’une infraction prévue par une loi fédérale ou provinciale et qu’il existe des éléments de preuve sur sa perpétration et, d’autre part, les renseignements sont nécessaires pour une poursuite criminelle, sur déclaration de culpabilité par procédure sommaire ou par acte d’accusation, engagée par dépôt d’une dénonciation ou d’un acte d’accusation, en vertu d’une loi fédérale;
+
+- b) au ministre, sauf dans le rapport annuel visé à l’article 45.52;
+
+- c) au commissaire, lorsque le président de la Commission est d’avis que les renseignements lui sont nécessaires pour l’exercice des pouvoirs et fonctions que lui attribue la présente loi;
+
+- d) à l’ancien juge ou à l’autre particulier pour l’application de l’article 45.41.
+
+**Communication de renseignements — procédure judiciaire**
+
+(3) Nul membre de la Commission ou de son personnel et nulle autre personne agissant pour son compte ne peut être contraint, dans le cadre d’une procédure ou d’une action pénale, civile ou administrative, à témoigner ou à produire quoi que ce soit relativement à un renseignement protégé qu’il a obtenu au titre du paragraphe 45.4(2).
+
+**Application**
+
+(4) Sous réserve de toute autre loi fédérale qui y renvoie expressément, le présent article s’applique malgré toute autre loi fédérale, à l’exception de la *Loi sur l’accès à l’information* et de la *Loi sur la protection des renseignements personnels*.
+
+**Application**
+
+(5) Le présent article s’applique malgré le paragraphe 13(1) de la Loi sur le vérificateur général et le paragraphe 79.4(1) de la *Loi sur le Parlement du Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 16; 2013, ch. 18, art. 35; 2017, ch. 20, art. 173.1
+
+</details>
+
+### 45.48 Interdiction : ancien juge ou autre particulier
+
+Il est interdit à l’ancien juge ou à l’autre particulier nommé en vertu du paragraphe 45.41(1), sachant qu’il s’agit d’un renseignement protégé auquel il a eu accès au titre du paragraphe 45.41(3), de fournir à quiconque un tel renseignement ou de permettre à quiconque d’y avoir accès ou de ne pas se soucier de sa nature confidentielle.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 369; 2013, ch. 18, art. 35
+
+</details>
+
+### Règles
+
+### 45.49 Règles
+
+(1) Sous réserve des autres dispositions de la présente loi et de ses règlements, la Commission peut établir des règles concernant :
+
+- a) ses séances;
+
+- b) la fixation du quorum pour l’exercice des fonctions que la présente loi lui attribue;
+
+- c) de façon générale, l’expédition de ses affaires et des questions dont elle est saisie, y compris la pratique et la procédure qui lui sont applicables;
+
+- d) la répartition de ses travaux entre ses membres;
+
+- e) de façon générale, l’exercice des fonctions que la présente loi lui attribue.
+
+**Publication préalable**
+
+(2) Les règles proposées sont publiées dans la *Gazette du Canada*, et il est donné aux intéressés la possibilité de présenter des observations à leur sujet.
+
+**Modification**
+
+(3) La modification des règles proposées n’entraîne cependant pas de nouvelle publication.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 369; 2013, ch. 18, art. 35
+
+</details>
+
+### Immunité
+
+### 45.5 Immunité
+
+(1) Les membres et le personnel de la Commission et les personnes agissant pour son compte ou sous sa direction bénéficient de l’immunité en matière pénale, civile ou administrative pour les actes accomplis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel des pouvoirs et fonctions conférés à la Commission ou à son président par la présente loi.
+
+**Non-assignation**
+
+(2) En ce qui concerne les questions portées à leur connaissance ou à celle de la Commission dans l’exercice des pouvoirs et fonctions conférés à la Commission ou à son président, les membres et le personnel de la Commission et les personnes agissant pour son compte ou sous sa direction ne peuvent être contraints à témoigner et ne sont des témoins compétents que dans le cadre des poursuites intentées pour une infraction prévue par la présente loi ou par la *Loi sur l’ingérence étrangère et la protection de l’information* ou dans celles intentées sur le fondement des articles 132 ou 136 du *Code criminel*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 369; 2013, ch. 18, art. 35
+- 2024, ch. 16, art. 57
+
+</details>
+
+### Rapports
+
+### 45.51 Rapports spéciaux
+
+(1) La Commission peut, de sa propre initiative ou à la demande du ministre, présenter à celui-ci un rapport spécial sur toute question relevant des pouvoirs et fonctions que lui attribue la présente loi.
+
+**Exemption**
+
+(2) Lorsqu’elle présente un rapport au ministre au titre du paragraphe (1), l’article 45.43 et le paragraphe 45.44(2) ne s’appliquent pas aux renseignements visés au paragraphe 45.39(3) ou aux renseignements protégés, au sens du paragraphe 45.4(1), contenus dans le rapport.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 369; 2013, ch. 18, art. 35
+
+</details>
+
+### 45.52 Rapport annuel
+
+(1) Le président de la Commission présente au ministre, dans les trois premiers mois suivant la fin de chaque exercice, le rapport d’activité de la Commission pour cet exercice et y joint les recommandations de la Commission, le cas échéant. Le ministre fait déposer une copie du rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+**Rapport annuel — provinces**
+
+(2) La Commission présente à chaque ministre provincial de qui relève au premier chef l’administration des forces de police d’une province à l’égard de laquelle le gouvernement a conclu des arrangements avec le ministre en vertu de l’article 20, un rapport indiquant, pour la province et pour chaque exercice, le nombre et le sujet des plaintes sur toute conduite survenue dans celle-ci, la manière dont les plaintes ont été réglées et toute tendance qui se dégage. La Commission présente une copie de ce rapport au ministre et au commissaire.
+
+**Normes de service concernant les délais à respecter**
+
+(3) Les renseignements concernant le rendement de la Commission relativement aux normes de service établies en vertu de l’article 45.37 sont inclus dans les rapports.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+## Enquêtes, révisions et audiences relatives aux plaintes
+
+### Plaintes
+
+### 45.53 Plaintes
+
+(1) Tout particulier peut déposer une plainte concernant la conduite, dans l’exercice de fonctions prévues par la présente loi ou la *Loi sur le programme de protection des témoins*, de toute personne qui, au moment de la conduite reprochée, était un membre ou une autre personne nommée ou employée sous le régime de la partie I.
+
+**Pouvoir discrétionnaire de la Commission**
+
+(2) La Commission peut refuser d’examiner toute plainte déposée en vertu du paragraphe (1) si elle est d’avis :
+
+- a) que la plainte a été examinée comme il se doit dans le cadre d’une procédure prévue par la présente loi ou toute autre loi fédérale ou qu’elle aurait avantage à l’être;
+
+- b) qu’elle est futile ou vexatoire ou a été portée de mauvaise foi;
+
+- c) qu’elle est déposée par un particulier qui :
+  - (i) n’est pas visé par cette conduite,
+  - (ii) n’est pas le tuteur, le curateur, le mandataire en cas d’incapacité ou une autre personne autorisée à agir pour le compte du particulier visé par cette conduite,
+  - (iii) n’a ni vu ni entendu cette conduite ou ses effets parce qu’il n’était pas présent au moment et au lieu où cette conduite ou ses effets sont survenus,
+  - (iv) n’a pas obtenu le consentement écrit lui permettant de déposer une plainte de la part du particulier visé par cette conduite,
+  - (v) n’a subi aucune perte, aucun dommage, aucune détresse, aucun danger ou aucun inconvénient du fait de cette conduite.
+
+**Plainte relative à une décision rendue en vertu de la partie IV**
+
+(3) La Commission doit refuser d’examiner toute plainte concernant une décision rendue sous le régime de la partie IV.
+
+**Plainte d’un membre ou de certaines autres personnes**
+
+(4) La Commission doit refuser d’examiner toute plainte déposée en vertu du paragraphe (1) par un membre ou toute autre personne nommée ou employée sous le régime de la partie I lorsqu’elle a été examinée ou aurait pu l’être comme il se doit dans le cadre d’une procédure prévue par la présente loi ou toute autre loi fédérale ou qu’elle aurait avantage à l’être.
+
+**Sécurité nationale**
+
+(4.1) La Commission doit refuser d’examiner toute plainte concernant des activités étroitement liées à la sécurité nationale et renvoyer la plainte à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement.
+
+**Avis de renvoi**
+
+(4.2) La Commission avise du renvoi de la plainte à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement le commissaire, puis le plaignant.
+
+**Délai**
+
+(5) La plainte est déposée dans l’année suivant la date de survenance de la conduite reprochée ou dans le délai prolongé en vertu du paragraphe (6).
+
+**Prolongation du délai**
+
+(6) La Commission ou le commissaire, selon le cas, peut prolonger le délai de dépôt si l’un ou l’autre est d’avis que la prolongation est justifiée et ne va pas à l’encontre de l’intérêt public.
+
+**Avis**
+
+(7) Si la plainte est déposée après l’expiration du délai d’un an suivant la date de survenance de la conduite reprochée et que le commissaire ne prolonge pas le délai pour son dépôt, il doit en aviser le plaignant et la Commission.
+
+**Dépôt de la plainte**
+
+(8) La plainte est déposée, selon le cas :
+
+- a) auprès de la Commission;
+
+- b) auprès d’un membre ou de toute autre personne nommée ou employée sous le régime de la partie I;
+
+- c) auprès de l’autorité provinciale habilitée à recevoir des plaintes contre une force de police dans la province d’origine du sujet de la plainte.
+
+**Assistance**
+
+(9) La Commission prend des mesures pour fournir de l’aide, sur demande, au particulier qui veut déposer une plainte.
+
+**Avis aux autres personnes ou à l’autorité provinciale**
+
+(10) Dans les meilleurs délais après la réception de la plainte, l’entité ou la personne visée au paragraphe (8) en accuse réception par écrit au plaignant et en avise par écrit le commissaire et les entités visées aux alinéas (8)a) et c).
+
+**Activités secrètes**
+
+(11) La Commission et la Gendarmerie sont autorisées à accuser réception de la plainte ou à prendre toute autre mesure à l’égard du plaignant qui ne révèle pas ou qui ne permettrait pas de découvrir ce qui suit :
+
+- a) le fait qu’un lieu, une personne, un groupe, un organisme ou une entité a fait, fait ou fera l’objet d’une enquête secrète ou d’activités secrètes de collecte d’information ou de renseignements;
+
+- b) l’identité de toute personne qui a exercé, exerce ou pourrait être appelée à exercer de telles activités.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+- 2019, ch. 13, art. 42
+
+</details>
+
+### 45.54 Avis
+
+Dans les meilleurs délais après avoir été avisé du dépôt d’une plainte, le commissaire avise par écrit le membre ou l’autre personne en cause de la teneur de la plainte, pour autant qu’il soit d’avis qu’une telle mesure ne risque pas de compromettre la tenue d’une enquête sur la question ou d’y nuire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### Retrait de la plainte
+
+### 45.55 Retrait
+
+(1) Le plaignant peut, à tout moment, retirer sa plainte par avis écrit en ce sens à la Commission.
+
+**Assistance**
+
+(2) La Commission prend des mesures pour fournir de l’aide, sur demande, au particulier qui veut retirer sa plainte.
+
+**Avis de retrait**
+
+(3) Dans les meilleurs délais après la réception de la demande de retrait, la Commission en avise par écrit le commissaire et l’autorité provinciale habilitée à recevoir des plaintes contre une force de police dans la province d’origine du sujet de la plainte.
+
+**Avis au membre ou à l’autre personne en cause**
+
+(4) Lorsqu’il reçoit l’avis mentionné au paragraphe (3), le commissaire avise par écrit le membre ou l’autre personne en cause du retrait de la plainte.
+
+**Enquête ou audience à la suite du retrait**
+
+(5) Malgré son retrait, une plainte peut être le sujet d’une enquête, d’une révision ou d’une audience prévue par la présente partie.
+
+**Conservation de la preuve**
+
+(6) Le commissaire veille à ce que toute preuve liée à la plainte soit protégée et conservée.
+
+**Règlements**
+
+(7) Le gouverneur en conseil peut prendre des règlements concernant le délai de protection et de conservation de la preuve.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### Règlement à l’amiable des plaintes
+
+### 45.56 Règlement à l’amiable
+
+(1) Dans les meilleurs délais après la réception de l’avis de la plainte, le commissaire examine la possibilité de régler la plainte à l’amiable et, moyennant le consentement du plaignant et du membre ou de l’autre personne en cause, il peut tenter de la régler ainsi.
+
+**Inadmissibilité**
+
+(2) La réponse ou la déclaration faite, dans le cadre d’une tentative de règlement à l’amiable, par le plaignant ou le membre ou l’autre personne en cause ne peut être utilisée ni admise contre ceux-ci, sauf dans les cas suivants :
+
+- a) une poursuite intentée sur le fondement des articles 132 ou 136 du *Code criminel*;
+
+- b) une poursuite civile ou administrative portant sur l’allégation selon laquelle l’intéressé a fait une réponse ou une déclaration qu’il savait fausse, dans l’intention de tromper.
+
+**Approbation écrite du règlement à l’amiable**
+
+(3) Les modalités de tout règlement à l’amiable sont consignées et approuvées par écrit par le plaignant et par le membre ou l’autre personne en cause. Une copie de ce règlement et de ces modalités est fournie à la Commission.
+
+**Règlements**
+
+(4) Le gouverneur en conseil peut, par règlement, prévoir les catégories de plaintes qui ne peuvent être réglées à l’amiable par le commissaire.
+
+**Précision**
+
+(5) Il est entendu que le présent article n’empêche pas la Commission de régler à l’amiable toute plainte dont elle est saisie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### Observations
+
+### 45.57 Droit de présenter des observations
+
+(1) Dans le cas de la plainte déposée sous le régime de la présente partie, les personnes ci-après ont la possibilité de présenter leurs observations relativement aux conséquences qu’a eu sur elles la conduite d’un membre ou d’une autre personne :
+
+- a) le plaignant;
+
+- b) le tuteur, le curateur, le mandataire en cas d’incapacité ou toute autre personne autorisée à agir pour le compte du particulier visé par cette conduite;
+
+- c) le particulier qui a obtenu le consentement écrit lui permettant de présenter des observations de la part de celui visé par cette conduite.
+
+**Communication et utilisation**
+
+(2) La Commission communique à la Gendarmerie dans les meilleurs délais les observations qu’elle a reçues concernant la plainte, y compris les renseignements personnels qui s’y trouvent. L’autorité disciplinaire ou le comité de déontologie prend en considération ces observations au moment de déterminer la mesure disciplinaire à prendre sous le régime de la partie IV.
+
+**Règlements**
+
+(3) Le gouverneur en conseil peut prendre des règlements concernant la présentation des observations au titre du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35 et 77
+
+</details>
+
+### 45.58 Dossier
+
+(1) Le commissaire et la Commission établissent et conservent un dossier pour toutes les plaintes qu’ils reçoivent en application de la présente partie, notamment pour les plaintes réglées à l’amiable et celles retirées par le plaignant.
+
+**Renseignement**
+
+(2) Sous réserve des articles 45.4 et 45.42, le commissaire fournit à la Commission, sur demande, tout renseignement contenu dans un tel dossier.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### Plaintes déposées par le président de la Commission
+
+### 45.59 Plaintes déposées par le président de la Commission
+
+(1) Le président de la Commission peut déposer une plainte s’il est convaincu qu’il existe des motifs raisonnables d’enquêter sur la conduite, dans l’exercice de fonctions prévues par la présente loi ou la *Loi sur le programme de protection des témoins*, de toute personne qui, au moment de la conduite reprochée, était un membre ou toute autre personne nommée ou employée sous le régime de la partie I.
+
+**Président : plaignant**
+
+(2) Sauf si le contexte s’y oppose, dans la présente partie, la mention du plaignant à l’égard d’une plainte déposée en vertu du paragraphe (1) vaut mention du président de la Commission.
+
+**Avis au commissaire et au ministre**
+
+(3) Le président de la Commission avise le ministre et le commissaire des plaintes qu’il dépose en vertu du paragraphe (1).
+
+**Avis au membre**
+
+(4) Dès qu’il est avisé d’une plainte conformément au paragraphe (3), le commissaire avise par écrit le membre ou l’autre personne en cause de la teneur de la plainte, pour autant qu’il soit d’avis qu’une telle mesure ne risque pas de compromettre la tenue d’une enquête sur la question ou d’y nuire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### Enquête sur les plaintes par la Gendarmerie
+
+### 45.6 Enquête par la Gendarmerie
+
+(1) Sous réserve du paragraphe (2) et de l’article 45.61, la Gendarmerie enquête sur toute plainte déposée au titre de la présente partie selon les règles établies en vertu de l’article 45.62.
+
+**Interdiction d’enquêter**
+
+(2) La Gendarmerie ne peut tenir ou poursuivre une enquête sur une plainte lorsque la Commission avise le commissaire qu’elle enquêtera ou convoquera elle-même une audience sur la plainte.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.61 Plainte — droit de refuser ou de clore une enquête
+
+(1) Le commissaire peut ordonner à la Gendarmerie de ne pas enquêter ou de cesser d’enquêter sur une plainte, à l’exception de celle déposée en vertu du paragraphe 45.59(1), si, à son avis :
+
+- a) tout motif de refus de la Commission visé aux alinéas 45.53(2)a), b) ou c) ou au paragraphe 45.53(3) s’applique;
+
+- b) compte tenu des circonstances, il n’est pas nécessaire ni possible en pratique de commencer une enquête ou de poursuivre l’enquête déjà commencée.
+
+**Plainte — obligation d’intervenir et de refuser**
+
+(2) Lorsqu’une plainte déposée par un membre ou toute autre personne nommée ou employée sous le régime de la partie I a été examinée ou aurait pu l’être comme il se doit dans le cadre d’une procédure prévue par la présente loi ou toute autre loi fédérale ou aurait avantage à l’être, le commissaire ordonne à la Gendarmerie de ne pas enquêter ou de cesser d’enquêter.
+
+**Avis au plaignant et au membre**
+
+(3) Lorsqu’il ordonne à la Gendarmerie de ne pas enquêter ou de cesser d’enquêter, le commissaire transmet par écrit au plaignant et au membre ou à l’autre personne en cause un avis motivé de la décision faisant état du droit qu’a le plaignant, dans les soixante jours suivant la réception de l’avis, en cas de désaccord, de renvoyer la plainte devant la Commission pour révision.
+
+**Avis à la Commission**
+
+(4) Le commissaire avise la Commission lorsqu’il agit en application du présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.62 Règles
+
+Le commissaire peut établir des règles de procédure à l’intention de la Gendarmerie sur la manière d’aviser les personnes, d’enquêter sur une plainte ou d’en disposer dans le cadre de la présente partie, ou, de façon générale, sur la manière de la traiter.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.63 Compte rendu
+
+Au plus tard quarante-cinq jours après avoir été avisé d’une plainte et, par la suite, tous les mois pendant la durée de l’enquête, le commissaire avise par écrit le plaignant et le membre ou l’autre personne en cause de l’état d’avancement de l’enquête, pour autant qu’il soit d’avis qu’une telle mesure ne risque pas de compromettre la conduite de toute autre enquête sur la question ou d’y nuire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.64 Rapport
+
+Dans les meilleurs délais après l’enquête, le commissaire établit et transmet au plaignant, au membre ou à l’autre personne en cause et à la Commission un rapport qui comporte les éléments suivants :
+
+- a) un résumé de la plainte;
+
+- b) les conclusions de l’enquête;
+
+- c) un résumé des mesures prises ou projetées pour régler la plainte;
+
+- d) la mention du droit qu’a le plaignant, dans les soixante jours suivant la réception du rapport, en cas de désaccord avec le règlement de la plainte, de renvoyer celle-ci devant la Commission pour révision.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### Pouvoirs de la Commission relativement aux plaintes
+
+### 45.65 Pouvoirs
+
+(1) La Commission peut, relativement à la plainte dont elle est saisie :
+
+- a) assigner et contraindre les témoins à comparaître devant elle, à déposer verbalement ou par écrit sous la foi du serment et à produire les documents et les choses qu’elle juge pertinents pour enquêter, instruire une audience et examiner la plainte à fond, au même titre qu’une cour supérieure d’archives;
+
+- b) faire prêter serment;
+
+- c) recevoir des éléments de preuve ou des renseignements, fournis sous serment, sous forme d’affidavit ou par tout autre moyen qu’elle estime indiqué, indépendamment de leur admissibilité devant un tribunal;
+
+- d) procéder à l’examen des dossiers ou registres et aux enquêtes qu’elle juge nécessaires.
+
+**Obligation des témoins de déposer**
+
+(2) Nul n’est dispensé de répondre à une question ou de produire un document ou une chose, lorsque la Commission l’exige, au motif que la réponse ou la déclaration faite à la suite de la question ou le document ou la chose peuvent tendre à l’incriminer ou à l’exposer à quelque procédure ou action pénale, civile ou administrative.
+
+**Inadmissibilité**
+
+(3) La déposition ou le document ou la chose exigés par la Commission et la preuve qu’ils établissent ne peuvent être utilisés ni admis contre le témoin, sauf dans les cas suivants :
+
+- a) une poursuite intentée sur le fondement des articles 132 ou 136 du *Code criminel*;
+
+- b) une poursuite civile ou administrative portant sur l’allégation selon laquelle l’intéressé a fait une réponse ou déclaration qu’il savait fausse, dans l’intention de tromper.
+
+**Restriction**
+
+(4) Malgré le paragraphe (1), la Commission ne peut recevoir ou accepter :
+
+- a) les réponses ou déclarations faites à la suite des questions visées aux paragraphes 24.1(7), 35(8), 40(2) ou 45.1(5);
+
+- b) les réponses ou déclarations faites à la suite des questions visées au paragraphe (2) lors de toute enquête ou audience portant sur une autre plainte;
+
+- c) les réponses ou déclarations faites dans le cadre d’une tentative de règlement à l’amiable prévue à l’article 45.56.
+
+**Restriction**
+
+(5) Malgré l’alinéa (1)a), la Commission ne peut contraindre la production de tout document ou de toute chose auxquels elle a accès au titre du paragraphe 45.4(2).
+
+**Indemnités : témoins**
+
+(6) À l’exception des membres, les témoins assignés à comparaître peuvent, à l’appréciation de la Commission, recevoir les indemnités accordées aux témoins assignés devant la Cour fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35 et 77
+
+</details>
+
+### Enquête par la Commission
+
+### 45.66 Pouvoir discrétionnaire de la Commission
+
+(1) Lorsque le président de la Commission est d’avis qu’il serait dans l’intérêt public de le faire, la Commission enquête ou convoque une audience à l’égard d’une plainte dont elle est saisie ou avisée au titre de la présente partie.
+
+**Avis au commissaire et au ministre**
+
+(2) La Commission avise le ministre et le commissaire de toute enquête ou audience convoquée au titre du présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.67 Plainte — droit de refuser ou de clore une enquête
+
+(1) La Commission peut décider de cesser d’enquêter si, à son avis :
+
+- a) l’un ou l’autre des motifs de refus qu’elle peut invoquer en vertu des alinéas 45.53(2)a), b) ou c) s’applique;
+
+- b) compte tenu des circonstances, il n’est pas nécessaire ni possible en pratique de poursuivre l’enquête.
+
+**Obligation de clore une enquête**
+
+(2) La Commission cesse d’enquêter si l’un ou l’autre des paragraphes 45.53(3) ou (4) s’applique.
+
+**Renvoi — sécurité nationale**
+
+(2.1) Si le paragraphe 45.53(4.1) s’applique, la Commission cesse d’enquêter et renvoie la plainte à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement.
+
+**Avis au commissaire et au plaignant**
+
+(3) Sous réserve du paragraphe (3.1), si elle cesse d’enquêter, la Commission transmet par écrit un avis motivé de la cessation au commissaire et au plaignant.
+
+**Avis — application du paragraphe (2.1)**
+
+(3.1) Si elle cesse d’enquêter en application du paragraphe (2.1), la Commission transmet par écrit un avis de la cessation et du renvoi au commissaire, puis au plaignant.
+
+**Avis au membre ou à une autre personne visée par la plainte**
+
+(4) Après avoir reçu l’avis, le commissaire avise le membre ou l’autre personne en cause de la cessation et, le cas échéant, du renvoi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+- 2019, ch. 13, art. 43
+
+</details>
+
+### 45.68 Réunion des plaintes
+
+La Commission peut réunir deux ou plusieurs plaintes lorsqu’elle est d’avis que cela serait indiqué en vue de l’enquête, de la révision ou de l’audience.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.69 Compte rendu
+
+Au plus tard quarante-cinq jours après avoir été avisée d’une plainte et, par la suite, tous les mois pendant la durée de l’enquête, la Commission avise par écrit le plaignant et le membre ou l’autre personne en cause de l’état d’avancement de l’enquête, pour autant qu’elle soit d’avis qu’une telle mesure ne risque pas de compromettre la conduite de toute autre enquête sur la question ou d’y nuire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### Plaintes renvoyées à la Commission
+
+### 45.7 Renvoi devant la Commission
+
+(1) Le plaignant qui n’est pas satisfait de la décision rendue en vertu de l’article 45.61 ou du rapport visé à l’article 45.64 peut, dans les soixante jours suivant la réception de l’avis de la décision ou du rapport, renvoyer sa plainte pour révision par demande écrite à la Commission.
+
+**Prolongation du délai**
+
+(2) La Commission peut prolonger le délai pour renvoyer la plainte si elle est d’avis que la prolongation est justifiée et ne va pas à l’encontre de l’intérêt public.
+
+**Documents à transmettre**
+
+(3) En cas de renvoi devant la Commission en vertu du paragraphe (1) :
+
+- a) la Commission avise le commissaire du renvoi;
+
+- b) le commissaire transmet à la Commission une copie de l’avis visé au paragraphe 45.61(3) ou du rapport visé à l’article 45.64.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.71 Révision par la Commission
+
+(1) La Commission révise toute plainte qui lui est renvoyée en vertu de l’article 45.7.
+
+**Commission est satisfaite**
+
+(2) Après révision de la plainte, la Commission, lorsqu’elle juge satisfaisant le rapport ou la décision du commissaire, établit et transmet par écrit un rapport à cet effet au ministre, au commissaire, au plaignant et au membre ou à l’autre personne en cause.
+
+**Commission n’est pas satisfaite**
+
+(3) Après révision de la plainte, la Commission, si elle ne juge pas satisfaisant le rapport ou la décision du commissaire, ou est d’avis qu’une enquête plus approfondie est indiquée, peut :
+
+- a) soit établir et transmettre au ministre et au commissaire un rapport écrit énonçant les conclusions qu’elle estime indiquées relativement au rapport ou à la décision et les recommandations qu’elle estime indiquées relativement à la plainte;
+
+- b) soit demander au commissaire d’ordonner à la Gendarmerie d’enquêter sur la plainte, notamment de façon plus approfondie;
+
+- c) soit enquêter sur la plainte, notamment de façon plus approfondie, ou convoquer une audience à son égard.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.72 Réponse du commissaire
+
+(1) Dans les meilleurs délais après la réception du rapport visé à l’alinéa 45.71(3)a), le commissaire est tenu de fournir par écrit au ministre et à la Commission une réponse qui fait état de toute mesure additionnelle qui a été ou sera prise relativement à la plainte. S’il choisit de s’écarter des conclusions ou des recommandations énoncées dans le rapport, il motive sa décision dans la réponse.
+
+**Rapport final de la Commission**
+
+(2) Après examen de la réponse, la Commission établit un rapport écrit final énonçant les conclusions et les recommandations qu’elle estime indiquées relativement à la plainte et elle en transmet copie au ministre, au commissaire, au plaignant et au membre ou à l’autre personne en cause et, lorsqu’il existe un arrangement conclu en vertu de l’article 20, au ministre provincial de qui relève au premier chef l’administration des forces de police de la province partie à l’arrangement dans laquelle la conduite qui fait l’objet de la plainte est survenue.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### Audience
+
+### 45.73 Audience
+
+(1) Lorsque la Commission décide de convoquer une audience pour enquêter sur une plainte en vertu de l’article 45.66 ou de l’alinéa 45.71(3)c), le président de la Commission désigne un ou plusieurs membres pour tenir l’audience et transmet un avis écrit de sa décision au ministre, au commissaire, au plaignant et au membre ou à l’autre personne en cause.
+
+**Commission**
+
+(2) Pour l’application du présent article, sont réputés être la Commission le ou les membres de celle-ci qui tiennent l’audience.
+
+**Définition de **partie****
+
+(3) Au présent article, **partie** s’entend de l’officier désigné par le commissaire au titre de la présente partie, du membre ou de l’autre personne en cause et du plaignant.
+
+**Avis**
+
+(4) La Commission signifie aux parties un avis écrit des date, heure et lieu de l’audience.
+
+**Séances de la Commission**
+
+(5) La Commission siège aux date, heure et lieu au Canada qu’elle fixe, compte tenu de ce qui pourrait convenir aux parties qui souhaitent comparaître devant elle.
+
+**Audiences publiques**
+
+(6) Les audiences sont publiques; toutefois, la Commission peut, de sa propre initiative ou sur demande de toute partie ou de tout témoin, ordonner que tout ou partie d’une audience soit tenue à huis clos ou en l’absence d’une partie, si elle estime :
+
+- a) que des renseignements risquant vraisemblablement de porter préjudice à la défense du Canada ou d’États alliés ou associés avec le Canada ou à la détection, à la prévention ou à la répression d’activités hostiles ou subversives seront probablement révélés au cours de l’audience;
+
+- b) que des renseignements risquant vraisemblablement d’entraver le contrôle d’application de la loi seront probablement révélés au cours de l’audience;
+
+- c) que des renseignements concernant les ressources pécuniaires ou la vie privée d’une personne dont l’intérêt ou la sécurité l’emporte sur l’intérêt du public à l’égard de ces renseignements seront probablement révélés au cours de l’audience;
+
+- d) que des renseignements risquant vraisemblablement de révéler des renseignements protégés, au sens du paragraphe 45.4(1), seront probablement révélés au cours de l’audience;
+
+- e) par ailleurs, que les circonstances exigent une telle mesure.
+
+**Droits des intéressés**
+
+(7) Les parties et toute personne qui convainc la Commission qu’elle a un intérêt direct et réel dans la plainte dont la Commission est saisie ont la possibilité de présenter des éléments de preuve à l’audience, d’y contre-interroger les témoins et d’y faire des observations, soit personnellement, soit par l’intermédiaire d’un conseiller juridique.
+
+**Représentation des témoins**
+
+(8) La Commission permet aux témoins de se faire représenter à l’audience par un conseiller juridique.
+
+**Officier désigné**
+
+(9) L’officier désigné par le commissaire pour l’application de la présente partie peut se faire représenter ou aider à l’audience par une autre personne.
+
+**Secret professionnel**
+
+(10) Lorsque l’officier visé au paragraphe (9) se fait représenter ou assister par une autre personne, les communications confidentielles qu’ils échangent relativement à l’audience sont, pour l’application de la présente loi, protégées comme si elles étaient des communications confidentielles échangées par l’officier et son conseiller juridique.
+
+**Frais**
+
+(11) Lorsque la Commission siège, au Canada, ailleurs qu’au lieu de résidence habituel du membre ou de l’autre personne en cause, du plaignant ou de leur conseiller juridique, ce membre, cette personne, ce plaignant ou ce conseiller a droit, selon l’appréciation de la Commission et conformément aux directives du Conseil du Trésor, aux frais de déplacement et de séjour engagés par lui pour sa comparution devant la Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35 et 77
+
+</details>
+
+### Suspension et procédures conjointes
+
+### 45.74 Obligation de suspendre
+
+(1) La Commission suspend l’enquête, la révision ou l’audience portant sur une plainte si elle est d’avis que sa poursuite compromettrait une enquête ou une procédure en matière pénale en cours, ou y nuirait sérieusement.
+
+**Obligation de suspendre**
+
+(2) La Commission suspend l’enquête, la révision ou l’audience portant sur une plainte si le commissaire lui indique par écrit, avec motifs à l’appui, qu’il est d’avis que sa poursuite compromettrait une enquête ou une procédure en matière pénale en cours, ou y nuirait sérieusement.
+
+**Pouvoir de suspendre**
+
+(3) La Commission peut suspendre l’enquête, la révision ou l’audience portant sur une plainte si elle est d’avis que sa poursuite compromettrait une procédure civile ou administrative en cours, ou y nuirait sérieusement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.75 Enquête, révision ou audience tenue conjointement
+
+(1) Lorsqu’une plainte porte à la fois sur la conduite d’un membre ou de toute autre personne nommée ou employée au titre de la partie I et sur celle d’un agent responsable du contrôle d’application de la loi de toute autre entité publique au Canada ou à l’étranger, la Commission peut tenir une enquête, une révision ou une audience sur la plainte conjointement avec l’entité publique ayant des compétences similaires en matière de plaintes à l’égard de tels agents dans le ressort concerné.
+
+**Règlements**
+
+(2) Le gouverneur en conseil peut prendre des règlements concernant les enquêtes, les révisions et les audiences conjointes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### Rapports d’enquête et d’audience
+
+### 45.76 Rapport provisoire
+
+(1) Au terme de l’enquête ou de l’audience, la Commission établit et transmet au ministre et au commissaire un rapport écrit énonçant les conclusions et les recommandations qu’elle estime indiquées.
+
+**Réponse du commissaire**
+
+(2) Le commissaire est tenu, dans les meilleurs délais, de fournir par écrit au ministre et au président de la Commission une réponse qui fait état de toute mesure additionnelle qui a été ou sera prise relativement à la plainte. S’il choisit de s’écarter des conclusions ou des recommandations énoncées dans le rapport, il motive sa décision dans sa réponse.
+
+**Rapport final de la Commission**
+
+(3) Après examen de la réponse, la Commission établit un rapport écrit final énonçant les conclusions et les recommandations qu’elle estime indiquées relativement à la plainte et elle en transmet copie au ministre, au commissaire, au plaignant et au membre ou à l’autre personne en cause et, lorsqu’il existe un arrangement conclu en vertu de l’article 20, au ministre provincial de qui relève au premier chef l’administration des forces de police de la province partie à l’arrangement dans laquelle la conduite qui fait l’objet de la plainte est survenue.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.77 Conclusions et recommandations définitives
+
+Les conclusions et les recommandations énoncées dans le rapport final de la Commission mentionné aux paragraphes 45.72(2) ou 45.76(3) sont définitives et ne sont pas susceptibles d’appel ou de révision en justice.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.78 Remise
+
+La Commission ou la Gendarmerie remet, sur demande, les documents et autres choses à la personne qui les a produits dans un délai raisonnable après l’achèvement du rapport final de la Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+## Incidents graves
+
+### 45.79 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente partie.
+
+**autorité désignée** Personne, organisme ou autre autorité désignée par le lieutenant-gouverneur en conseil d’une province en vertu du paragraphe (2). (**designated authority**)
+
+**blessure grave** Toute lésion psychologique ou corporelle prévue par règlement. (**serious injury**)
+
+**incident grave** Tout incident qui met en cause un membre, toute autre personne qui assiste la Gendarmerie dans l’exercice de ses fonctions en vertu de la présente loi ou toute autre personne nommée ou employée au titre de la partie I, et au cours duquel les actes d’une de ces personnes :
+  - a) peuvent avoir donné lieu à des blessures graves ou à la mort d’une personne;
+  - b) peuvent avoir constitué une infraction à une loi fédérale ou provinciale à l’égard de laquelle il serait dans l’intérêt public qu’un organisme d’enquête ou une force de police autre que la Gendarmerie enquête, selon la décision prise par soit le ministre, soit le commissaire, soit le ministre provincial de qui relève au premier chef l’administration des forces de police d’une province avec laquelle le ministre a conclu des arrangements en vertu de l’article 20 et dans laquelle l’incident serait survenu. (**serious incident**)
+
+**organisme d’enquête** Entité provinciale, autre qu’une force de police, qui peut notamment exercer les pouvoirs nécessaires pour effectuer des enquêtes sur des incidents graves afin de vérifier si une infraction à une loi fédérale ou provinciale a été commise. (**investigative body**)
+
+**Désignation**
+
+(2) Le lieutenant-gouverneur en conseil d’une province peut désigner une personne, un organisme ou toute autre autorité pour l’application de la présente partie et de la partie VII.2.
+
+**Règlements**
+
+(3) Le gouverneur en conseil peut, pour l’application de la définition de **blessure grave** au paragraphe (1), prévoir par règlement les lésions psychologiques ou corporelles.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35 et 81
+
+</details>
+
+### 45.8 Avis
+
+Dans les meilleurs délais après un incident grave, le commissaire en avise l’autorité désignée de la province dans laquelle l’incident serait survenu.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.81 Obligation de considérer l’organisme d’enquête
+
+(1) Lorsqu’il y a un organisme d’enquête dans la province dans laquelle l’incident grave serait survenu, l’autorité désignée considère celui-ci en premier pour tenir l’enquête.
+
+**Nomination d’une force de police**
+
+(2) S’il n’y a pas d’organisme d’enquête ou qu’elle n’a pas nommé l’organisme d’enquête considéré, l’autorité désignée peut nommer une force de police pour enquêter.
+
+**Renvoi par la Gendarmerie**
+
+(3) Lorsque l’autorité désignée nomme un organisme d’enquête ou une force de police pour enquêter, la Gendarmerie renvoie l’enquête à l’organisme d’enquête ou à la force de police dans les meilleurs délais.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.82 Demande à une force de police
+
+(1) S’il n’y a pas d’autorité désignée dans la province en cause ou que l’autorité désignée avise la Gendarmerie qu’aucun organisme d’enquête ou force de police ne sera nommé pour enquêter, la Gendarmerie, dans les meilleurs délais, demande à un organisme d’enquête ou à une force de police d’enquêter sur l’incident grave après avoir considéré l’expertise et les ressources à la disposition de l’organisme ou de la force de police.
+
+**Enquête par la Gendarmerie**
+
+(2) Lorsque l’organisme d’enquête ou la force de police avise la Gendarmerie qu’il refuse d’enquêter sur l’incident grave à sa demande, et que cette dernière considère qu’il n’y a pas d’autre organisme d’enquête ou force de police indiqué pour le faire, elle avise la Commission dans les meilleurs délais de son intention d’enquêter elle-même sur l’incident grave et enquête sur cet incident.
+
+**Obligations**
+
+(3) La Gendarmerie est tenue de prendre toute mesure raisonnable au titre du présent article pour trouver un organisme d’enquête ou une force de police pour enquêter sur l’incident grave et elle est tenue de conserver des preuves écrites de ses efforts en ce sens.
+
+**Rapport**
+
+(4) Le commissaire transmet au président de la Commission un rapport sur les mesures que la Gendarmerie a prises au titre du paragraphe (3).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.83 Observateur — enquête par une autre force de police
+
+(1) Lorsqu’une force de police est nommée en vertu du paragraphe 45.81(2) ou accepte d’enquêter à la suite d’une demande faite en vertu du paragraphe 45.82(1) sur un incident grave et que l’autorité désignée n’a pas nommé d’observateur :
+
+- a) le commissaire avise la Commission de l’incident grave dans les meilleurs délais;
+
+- b) la Commission peut, avec l’accord du ministre provincial de qui relève au premier chef l’administration des forces de police de la province dans laquelle l’incident serait survenu, nommer un observateur afin qu’il vérifie si l’enquête se déroule avec impartialité.
+
+**Observateur — Gendarmerie**
+
+(2) Lorsqu’elle enquête sur un incident grave, la Gendarmerie permet à l’observateur nommé par l’autorité désignée ou par la Commission en vertu du paragraphe (3) de vérifier si l’enquête se déroule avec impartialité.
+
+**Nomination de l’observateur**
+
+(3) Lorsque l’autorité désignée ne nomme pas d’observateur, la Commission peut en nommer un afin qu’il vérifie si la Gendarmerie agit avec impartialité au cours de l’enquête.
+
+**Aucun observateur**
+
+(4) Lorsqu’aucun observateur n’est nommé en vertu des paragraphes (2) ou (3), le commissaire est tenu de transmettre au président de la Commission un rapport sur les mesures qui ont été ou qui seront prises par la Gendarmerie pour veiller à ce que l’enquête se déroule avec impartialité.
+
+**Immunité**
+
+(5) Lorsqu’un observateur est nommé par l’autorité désignée pour l’application de la présente partie, il bénéficie de la même immunité que l’observateur nommé par la Commission sous le régime du paragraphe 45.5(1).
+
+**Observateur contraignable**
+
+(6) Malgré le paragraphe 45.5(2) et sous réserve de l’article 45.86, en ce qui concerne les questions dont il prend connaissance dans l’exercice des pouvoirs et fonctions qui lui sont conférés sous le régime de la présente partie, l’observateur peut être contraint à témoigner dans toute enquête ou procédure ou action pénale, civile ou administrative.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.84 Recommandations
+
+Lorsqu’il a des préoccupations quant à l’impartialité de l’enquête, l’observateur peut en informer la Gendarmerie ou l’autre force de police, selon le cas, et il peut faire des recommandations quant aux mesures qu’il considère indiquées pour répondre aux préoccupations soulevées.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.85 Rapport
+
+(1) L’observateur présente, en conformité avec les règlements, un rapport portant sur l’impartialité de l’enquête effectuée sur l’incident grave au président de la Commission, au commissaire et, si une force de police autre que la Gendarmerie a enquêté, au chef de cette force.
+
+**Réponse**
+
+(2) Lorsque le rapport fait état de préoccupations quant à l’impartialité de l’enquête, le commissaire fournit au président de la Commission une réponse par écrit comportant un énoncé des mesures qui ont été prises ou qui seront prises par la Gendarmerie pour répondre aux préoccupations énoncées dans le rapport. Lorsqu’une force de police autre que la Gendarmerie a effectué l’enquête, une telle réponse est fournie par le chef de cette force.
+
+**Rapport sur la réponse**
+
+(3) Lorsqu’il n’est pas satisfait de la réponse du commissaire ou du chef du service de police, le président de la Commission transmet un rapport à ce sujet au procureur général de la province où l’incident serait survenu et au ministre provincial de qui relève au premier chef l’administration des forces de police de cette province.
+
+**Transmission du rapport**
+
+(4) Le président de la Commission transmet le rapport établi en application du paragraphe (3) au ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.86 Renseignements protégés
+
+La présente partie n’a pas pour effet d’autoriser la communication à l’observateur des renseignements protégés au sens du paragraphe 45.4(1). Si de tels renseignements lui sont communiqués, l’observateur ne peut les utiliser ou les communiquer.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+### 45.87 Règlements
+
+Le gouverneur en conseil peut prendre des règlements :
+
+- a) concernant les critères et modalités de nomination d’un observateur en vertu des paragraphes 45.83(1) ou (3);
+
+- b) concernant la portée du rôle de l’observateur;
+
+- c) concernant les obligations de l’observateur au sujet des rapports;
+
+- d) concernant l’accès aux notes, aux rapports ou à tout autre document établi par l’observateur dans le cadre d’une enquête et l’emploi de ceux-ci;
+
+- e) prévoyant le délai applicable à la réponse fournie par le commissaire ou le chef d’une force de police au titre du paragraphe 45.85(2);
+
+- f) prévoyant toute autre mesure nécessaire pour l’application de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 35
+
+</details>
+
+## Examen des opérations transfrontalières intégrées de contrôle d’application de la loi
+
+### Définitions
+
+### 45.88 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente partie.
+
+**agent désigné** S’entend au sens de l’article 2 de la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*. (**designated officer**)
+
+**autorité centrale** L’autorité centrale du Canada désignée par l’article 5 de la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*. (**Central Authority**)
+
+**autorité désignée** S’entend au sens du paragraphe 45.79(1). (**designated authority**)
+
+**blessure grave** S’entend au sens du paragraphe 45.79(1). (**serious injury**)
+
+**incident grave** Tout incident qui met en cause un agent désigné dans l’exercice de ses attributions dans le cadre d’une opération intégrée transfrontalière ou toute autre personne qui l’assiste dans l’exercice de celles-ci et au cours duquel les actes d’une de ces personnes :
+  - a) peuvent avoir donné lieu à des blessures graves ou à la mort d’une personne;
+  - b) peuvent avoir constitué une infraction à une loi fédérale ou provinciale à l’égard de laquelle il serait dans l’intérêt public d’enquêter, selon la décision prise par soit le ministre, soit l’autorité centrale, soit le ministre de qui relève au premier chef l’administration des forces de police de la province dans laquelle l’incident serait survenu. (**serious incident**)
+
+**opération transfrontalière intégrée** S’entend au sens de l’article 2 de la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*. (**integrated cross-border operation**)
+
+**organisme d’enquête** S’entend au sens du paragraphe 45.79(1). (**investigative body**)
+
+**Précision — présente partie**
+
+(2) Pour l’application des articles 45.9 à 45.991, il est entendu que la mention, dans toute disposition qui s’applique dans la présente partie au titre de l’article 45.9, du paragraphe 45.94(1) ou de l’article 45.98, d’une telle disposition vaut mention de cette disposition dans sa version modifiée conformément à l’article 45.9, au paragraphe 45.94(1) ou à l’article 45.98, selon le cas.
+
+**Précision — articles 50.2 et 50.3**
+
+(3) Il est entendu que la mention, aux articles 50.2 et 50.3, de toute disposition qui s’applique dans la présente partie au titre de l’article 45.9 ou 45.98 vaut aussi mention de cette disposition dans sa version modifiée conformément à l’article 45.9 ou 45.98, selon le cas.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### Objet
+
+### 45.89 Objet
+
+La présente partie a pour objet :
+
+- a) de définir le rôle de la Commission dans le traitement des plaintes liées aux opérations transfrontalières intégrées et dans l’examen de ces opérations;
+
+- b) d’établir des exigences relativement aux enquêtes sur les incidents graves liés à de telles opérations.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### Application des articles 45.34 à 45.51
+
+### 45.9 Application de certaines dispositions
+
+Les articles 45.34 à 45.51, à l’exception du paragraphe 45.34(5) et de l’article 45.35, s’appliquent dans la présente partie, avec les adaptations nécessaires et les modifications suivantes :
+
+- a) la mention de la présente loi ou de la *Loi sur le programme de protection des témoins*, au paragraphe 45.34(1) et à l’alinéa 45.47(2)c), vaut mention de la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*;
+
+- b) sauf au paragraphe 45.4(5), la mention du commissaire vaut mention de l’autorité centrale;
+
+- c) la mention du commissaire, au paragraphe 45.4(5), vaut mention du commissaire agissant à titre d’autorité centrale;
+
+- d) la mention des activités de la Gendarmerie, au paragraphe 45.34(1), vaut mention d’opérations transfrontalières intégrées;
+
+- e) la mention des opérations de la Gendarmerie, aux paragraphes 45.34(1) et (4), vaut mention d’opérations transfrontalières intégrées;
+
+- f) la mention de l’article 45.35, aux paragraphes 45.36(1) et 45.4(2), vaut mention de l’article 45.92;
+
+- g) la mention de la Gendarmerie, aux paragraphes 45.39(1) et 45.4(2), au passage du paragraphe 45.42(1) précédant l’alinéa a), au paragraphe 45.44(2) et au passage du paragraphe 45.46(1) précédant l’alinéa a), vaut mention de la Gendarmerie, de l’autorité centrale ou de tout agent désigné qui a été nommé en vertu du paragraphe 7(1) de la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*;
+
+- h) la mention de la Gendarmerie, au paragraphe 45.41(8) et aux alinéas 45.42(1)c) et d) et 45.46(1)c), vaut mention de l’autorité centrale;
+
+- i) la mention des parties VI et VII, au paragraphe 45.39(1), vaut mention des articles 45.91 à 45.93, du paragraphe 45.94(2) et des articles 45.95 à 45.97 ainsi que des dispositions qui s’appliquent dans la partie VII.2 au titre de l’article 45.9 ou du paragraphe 45.94(1);
+
+- j) la mention d’un membre ou de toute autre personne nommée ou employée sous le régime de la partie I, aux alinéas 45.4(1)f) et 45.42(1)a) et c), vaut mention de tout agent désigné qui a été nommé en vertu de l’alinéa 7(1)a) de la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*;
+
+- k) la mention de toute réunion de la Gendarmerie et de la Commission, à l’alinéa 45.42(1)e), vaut mention de toute réunion avec la Commission;
+
+- l) la mention de la partie VII, au paragraphe 45.4(2), vaut mention des articles 45.91 à 45.93, du paragraphe 45.94(2) et des articles 45.95 à 45.97 ainsi que des dispositions qui s’appliquent dans la partie VII.2 au titre de l’article 45.9 ou du paragraphe 45.94(1);
+
+- m) la mention de l’article 45.52, à l’alinéa 45.47(2)b), vaut mention de l’article 45.93.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### Rapport
+
+### 45.91 Copie du rapport pour les ministres provinciaux
+
+La Commission peut fournir une copie du rapport visé à l’article 45.34, préparé au titre de la présente partie, au ministre de qui relève au premier chef l’administration des forces de police dans toute province où des opérations transfrontalières intégrées peuvent avoir lieu.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### 45.92 Examen pour faire suite à la demande d’une province
+
+(1) Le ministre de qui relève au premier chef l’administration des forces de police dans la province peut demander au ministre de demander à la Commission d’effectuer un examen des opérations transfrontalières intégrées qu’il précise et qui sont exercées dans sa province.
+
+**Rapport**
+
+(2) Lorsqu’elle effectue un examen sous le régime du présent article, la Commission présente un rapport au ministre, au ministre provincial qui a demandé l’examen et à l’autorité centrale, et elle peut en fournir une copie à tout autre ministre de qui relève au premier chef l’administration des forces de police d’une province.
+
+**Conclusions et recommandations**
+
+(3) La Commission inclut dans son rapport les conclusions et les recommandations qu’elle estime indiquées relativement :
+
+- a) à la question de savoir si les opérations transfrontalières intégrées sont conformes à la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*, à ses règlements, à toute directive donnée par le ministre en vertu de cette loi ou aux politiques, procédures ou lignes directrices régissant ces opérations;
+
+- b) au bien-fondé, à la pertinence, à l’adéquation ou à la clarté de ces politiques, procédures ou lignes directrices.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### 45.93 Rapport annuel — provinces
+
+(1) Pour chaque exercice durant lequel a été déposée sous le régime de la présente partie une plainte liée à une opération transfrontalière intégrée qui s’est déroulée dans une province donnée ou durant lequel une telle plainte a été réglée, la Commission présente au ministre de qui relève au premier chef l’administration des forces de police de la province, un rapport indiquant, pour la province, le nombre et le sujet des plaintes sur toute conduite survenue dans celle-ci, la manière dont les plaintes ont été réglées, le cas échéant, et toute tendance qui se dégage. La Commission présente une copie de ce rapport au ministre et au commissaire.
+
+**Normes de service concernant les délais à respecter**
+
+(2) Les renseignements concernant le rendement de la Commission relativement aux normes de service établies en application de l’article 45.37 sont inclus dans les rapports.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### Enquêtes, révisions et audiences relatives aux plaintes
+
+### 45.94 Application de certaines dispositions
+
+(1) Les articles 45.53 à 45.78, à l’exception du paragraphe 45.57(2) et des articles 45.62 et 45.75, s’appliquent dans la présente partie, avec les adaptations nécessaires et les modifications suivantes :
+
+- a) la mention du commissaire vaut mention de l’autorité centrale;
+
+- b) la mention du membre ou de l’autre personne en cause dans la plainte vaut mention de l’agent désigné en cause dans celle-ci;
+
+- c) sauf à l’alinéa 45.53(8)b), la mention d’un membre ou de toute autre personne nommée ou employée sous le régime de la partie I vaut mention de l’agent désigné;
+
+- d) la mention de la partie IV, au paragraphe 45.53(3), vaut mention de la partie IV ou de dispositions comparables des lois d’une province, des États-Unis ou de l’un de ses États;
+
+- e) sauf au paragraphe 45.53(11), à l’article 45.6, aux paragraphes 45.61(1) à (3), à l’alinéa 45.71(3)b) et à l’article 45.78, la mention de la Gendarmerie vaut mention de l’autorité centrale;
+
+- f) la mention de la Gendarmerie, à l’article 45.6, aux paragraphes 45.61(1) à (3) et à l’alinéa 45.71(3)b), vaut mention de la ou des personnes chargées, par l’autorité centrale, du traitement de la plainte;
+
+- g) la mention de la Gendarmerie, au paragraphe 45.53(11) et à l’article 45.78, vaut mention de l’autorité centrale et de la ou des personnes chargées, par l’autorité centrale, du traitement de la plainte;
+
+- h) la mention d’un membre ou d’une autre personne, au paragraphe 45.57(1), et la mention d’un membre, au paragraphe 45.65(6), valent mention de l’agent désigné;
+
+- i) la mention de la présente loi ou de la *Loi sur le programme de protection des témoins*, aux paragraphes 45.53(1) et 45.59(1), vaut mention de la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*.
+
+**Communication et utilisation à des fins disciplinaires**
+
+(2) La Commission communique à l’autorité centrale dans les meilleurs délais les observations visées au paragraphe 45.57(1) qu’elle a reçues en application de la présente partie au sujet de la plainte, y compris les renseignements personnels qui s’y trouvent. L’autorité centrale peut à son tour les communiquer aux personnes ci-après, mais seulement dans le but de permettre la prise d’éventuelles mesures disciplinaires à l’encontre de l’agent désigné en cause :
+
+- a) toute personne qu’elle estime en mesure de prendre de telles mesures, si l’agent désigné en cause a été nommé en vertu du paragraphe 7(1) de la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*;
+
+- b) la personne désignée comme autorité centrale des États-Unis chargée de la mise en oeuvre de l’accord au sens de l’article 2 de cette loi, si l’agent désigné en cause a été nommé en vertu du paragraphe 8(1) de la même loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### 45.95 Enquêtes conjointes
+
+(1) Lorsqu’une plainte porte sur la conduite d’un agent désigné, la Commission peut tenir une enquête, une révision ou une audience sur la plainte conjointement avec l’entité publique ayant des compétences similaires en matière de plaintes du public contre les agents responsables du contrôle d’application de la loi dans tout ressort concerné, au Canada ou à l’étranger.
+
+**Règlements**
+
+(2) Le gouverneur en conseil peut prendre des règlements concernant les enquêtes, révisions et audiences conjointes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### 45.96 Règles
+
+L’autorité centrale peut établir des règles de procédure concernant le traitement des plaintes dans le cadre de la présente partie, notamment à l’égard des enquêtes et du règlement des plaintes. Ces règles s’appliquent à elle et aux personnes qu’elle charge du traitement des plaintes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### 45.97 Rapport final
+
+Le président de la Commission transmet le rapport visé aux paragraphes 45.72(2) ou 45.76(3) et préparé au titre de la présente partie au ministre de qui relève au premier chef l’administration des forces de police de chacune des provinces où l’opération transfrontalière intégrée a eu lieu.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### Incident grave
+
+### 45.98 Application de certaines dispositions
+
+Les articles 45.8 à 45.87 s’appliquent dans la présente partie, avec les adaptations nécessaires et la modification suivante : la mention du commissaire, à l’article 45.8, vaut mention de l’autorité centrale.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### 45.99 Avis
+
+Lorsque l’autorité centrale avise, en application de l’article 45.8, l’autorité désignée de l’incident grave, elle en avise aussi le commissaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+### 45.991 Avis — organisme d’enquête
+
+(1) Dès que possible après le début d’une enquête à l’égard d’un incident grave, le commissaire avise l’autorité centrale du nom de la force de police ou de l’organisme d’enquête chargé de l’enquête.
+
+**Avis — observateur**
+
+(2) Si le commissaire apprend qu’un observateur a été nommé par l’autorité désignée ou par la Commission afin de vérifier si l’enquête portant sur un incident grave se déroule avec impartialité, il en avise l’autorité centrale dès que possible.
+
+**Avis — recommandations, etc.**
+
+(3) Le commissaire envoie, le plus tôt possible, à l’autorité centrale :
+
+- a) les recommandations visées à l’article 45.84 que la Gendarmerie reçoit de l’observateur en application de la présente partie;
+
+- b) le rapport visé au paragraphe 45.85(1) que l’observateur lui présente en application de la présente partie;
+
+- c) la réponse visée au paragraphe 45.85(2) qu’il fournit en application de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 78
+
+</details>
+
+## Dispositions générales
+
+### Dispositions diverses d’application générale
+
+### 46 Définition de **commission**
+
+(1) Au présent article et aux articles 47 à 47.3, **commission** s’entend :
+
+- a) d’une commission d’enquête constituée en vertu de l’article 24.1;
+
+- b) d’un comité de déontologie nommé en vertu des articles 43 ou 44;
+
+- c) sauf pour l’application du paragraphe (4), du Comité.
+
+**Définition de **commission** — articles 47.1 à 47.3**
+
+(1.1) Aux articles 47.1 à 47.3, **commission** s’entend notamment de la Commission.
+
+**Procédures**
+
+(2) La commission donne suite aux procédures engagées devant elle d’une façon aussi simple et rapide que le permettent les circonstances et l’équité.
+
+**Frais des témoins**
+
+(3) À l’exception d’un membre, quiconque est assigné devant une commission peut recevoir, selon l’appréciation de la commission, les frais et indemnités accordés aux témoins assignés devant la Cour fédérale.
+
+**Règles**
+
+(4) Sous réserve du paragraphe (5), le commissaire peut établir des règles pour régir la procédure et la pratique à suivre devant une commission — autre que la Commission —, la conduite de ses travaux et l’exercice des fonctions que lui attribue la présente loi.
+
+**Idem**
+
+(5) Le ministre peut établir des règles pour régir la procédure et la pratique à suivre devant une commission d’enquête qu’il nomme conformément à l’article 24.1, la conduite des travaux de celle-ci, de même que l’exercice des pouvoirs et fonctions que lui attribue la présente loi. Il peut toutefois, au lieu de ces règles, adopter en tout ou en partie, celles qui sont établies conformément au paragraphe (4).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 46; L.R. (1985), ch. 8 (2^e^ suppl.), art. 18; 2013, ch. 18, art. 36 et 77
+
+</details>
+
+### 47 Immunité judiciaire
+
+Personne ne peut être poursuivi en raison de ce qu’il a fait, dit ou rapporté de bonne foi au cours des procédures tenues devant la commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 47; L.R. (1985), ch. 8 (2^e^ suppl.), art. 18
+
+</details>
+
+### 47.01 Immunité
+
+Toute autorité disciplinaire ou toute personne nommée à titre de membre d’un comité de déontologie bénéficie de l’immunité en matière pénale, civile ou administrative pour les actes accomplis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel de ses attributions sous le régime de la partie IV.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 37
+
+</details>
+
+### 47.1 Représentation
+
+(1) Sous réserve des règles établies conformément au paragraphe (3), toute personne peut représenter ou assister un membre ou une autorité disciplinaire :
+
+- a) lors de la présentation d’un grief sous le régime de la partie III;
+
+- b) lors des procédures tenues devant une commission;
+
+- c) lors d’un appel interjeté en vertu des paragraphes 45.11(1) ou (3).
+
+**Secret professionnel**
+
+(2) Lorsqu’un membre ou une autorité disciplinaire se fait représenter ou assister par une autre personne, les communications confidentielles qu’ils échangent relativement au grief, aux procédures ou à l’appel sont, pour l’application de la présente loi, protégées comme si elles étaient des communications confidentielles échangées entre le membre ou l’autorité disciplinaire et son conseiller juridique.
+
+**Règles**
+
+(3) Le commissaire peut établir des règles pour prescrire :
+
+- a) quelles sont les personnes ou catégories de personnes qui ne peuvent représenter ou assister un membre ou une autorité disciplinaire;
+
+- b) quelles sont les circonstances dans lesquelles une personne ne peut représenter ou assister un membre ou une autorité disciplinaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 18; 2013, ch. 18, art. 37
+
+</details>
+
+### 47.2
+
+[Abrogé, 2013, ch. 18, art. 37]
+
+### 47.3 Assimilation à procédures judiciaires
+
+L’article 16 de la *Loi sur la preuve au Canada* s’applique à une procédure devant une commission comme si :
+
+- a) cette procédure était une procédure judiciaire;
+
+- b) la commission était un juge, juge de paix ou autre fonctionnaire présidant.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 18
+
+</details>
+
+### 47.4 Prorogation des délais
+
+(1) Le commissaire, s’il est convaincu que les circonstances le justifient, peut, de sa propre initiative ou sur demande à cet effet, après en avoir dûment avisé les membres intéressés, proroger les délais prévus aux paragraphes 31(2), 41(2), 42(2) et 44(1) pour l’accomplissement d’un acte; il peut également spécifier les conditions applicables à cet égard.
+
+**Exception**
+
+(1.1) Le commissaire n’avise pas les membres intéressés s’il estime que l’avis risque de compromettre la tenue d’une enquête relativement à une infraction à une loi fédérale ou d’y nuire.
+
+**Mention du délai**
+
+(2) Lorsqu’il y a prorogation d’un délai en vertu du présent article, toute mention du délai dans la présente loi s’interprète comme désignant le délai prorogé.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 18; 2013, ch. 18, art. 38
+
+</details>
+
+### 47.5 Preuve irrecevable
+
+Aucune preuve établissant que des mesures disciplinaires visées à la partie IV ont été imposées contre un membre ne peut être utilisée ni n’est recevable contre ce dernier dans des poursuites pénales.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 18; 2013, ch. 18, art. 39
+
+</details>
+
+### Infractions
+
+### 48 Corruption, etc.
+
+(1) Commet une infraction punissable par procédure sommaire quiconque, selon le cas :
+
+- a) [Abrogé, L.R. (1985), ch. 8 (2^e^ suppl.), art. 19]
+
+- b) conclut avec un membre une entente l’incitant de quelque manière que ce soit à faillir à son devoir;
+
+- c) concerte ou tolère une action permettant de se soustraire à l’un des règlements, règles, décrets, ordonnances ou arrêtés pris aux termes de la partie I.
+
+(2) [Abrogé, L.R. (1985), ch. 8 (2^e^ suppl.), art. 19]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 48; L.R. (1985), ch. 8 (2^e^ suppl.), art. 19 et 24(A)
+
+</details>
+
+### 49 Emploi illégal du nom de la Gendarmerie
+
+(1) Commet une infraction punissable par procédure sommaire quiconque, sans l’autorisation du commissaire, emploie, pour composer, en tout ou en partie, la dénomination sociale d’une personne morale, d’une compagnie, d’une société de personnes ou d’une association non personnalisée, dans une annonce ou à quelque fin commerciale, ou encore de manière à donner ou laisser entendre que la Gendarmerie utilise certains services ou marchandises ou en approuve ou sanctionne l’utilisation :
+
+- a) le nom de la Gendarmerie ou toute abréviation de ce nom, ou tous mots ou lettres susceptibles d’être confondus avec celui-ci;
+
+- b) toute image ou autre représentation d’un membre;
+
+- c) tout insigne, symbole ou écusson de la Gendarmerie.
+
+**Usurpation d’identité**
+
+(2) Commet une infraction punissable par procédure sommaire quiconque, sans l’autorisation du commissaire, utilise quelque vêtement, équipement, insigne, médaille, ruban, document ou autre objet de manière à faire penser qu’il est ancien membre, alors qu’il ne l’est pas.
+
+**Consentement aux poursuites**
+
+(3) Les poursuites des infractions visées au présent article sont subordonnées au consentement du ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 49; L.R. (1985), ch. 8 (2^e^ suppl.), art. 20
+
+</details>
+
+### 50 Comparution des témoins, etc.
+
+(1) Commet une infraction punissable par procédure sommaire quiconque :
+
+- a) étant régulièrement convoqué comme témoin ou à un autre titre sous le régime de la présente loi, ne se présente pas;
+
+- b) comparaissant comme témoin lors de toute procédure visée par la présente loi, refuse, alors qu’on le lui demande :
+  - (i) de prêter serment ou de faire une affirmation solennelle,
+  - (ii) de produire un document ou une chose qui relève de lui ou qu’il a en sa possession,
+  - (iii) de répondre à une question;
+
+- c) lors de toute procédure visée par la présente loi, profère des propos insultants ou menaçants ou fait obstruction d’une manière ou d’une autre;
+
+- d) sans justification ni excuse légitime, imprime sciemment des remarques ou tient sciemment des propos relativement à une procédure ou une action pénale, civile ou administrative en cours :
+  - (i) de nature à nuire à la réputation d’un membre d’une commission d’enquête visée à la partie I, du Comité visé aux parties III, IV ou V, d’un comité d’arbitrage visé à la partie IV, d’une commission de licenciement et de rétrogradation visée à la partie V, de la Commission visée aux parties VII ou VII.2 ou à celle des témoins comparaissant devant ceux-ci et exposant ces membres et témoins au mépris ou au ridicule, ou destinés à leur faire outrage,
+  - (ii) dans le but de convaincre un témoin de ne pas participer à une telle procédure;
+
+- e) ne se conforme pas à l’ordonnance de publication visée au paragraphe 45.1(7).
+
+**Exception**
+
+(1.1) L’alinéa (1)a) et les sous-alinéas (1)b)(ii) et (iii) ne s’appliquent pas à l’agent désigné, au sens du paragraphe 45.88(1), qui a été nommé en vertu du paragraphe 8(1) de la *Loi sur les opérations transfrontalières intégrées de contrôle d’application de la loi*.
+
+**Peine**
+
+(2) Quiconque est déclaré coupable d’une infraction prévue au paragraphe (1) encourt une amende maximale de 5 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 50; L.R. (1985), ch. 8 (2^e^ suppl.), art. 21; 2013, ch. 18, art. 40, 77, 78, 83 et 84
+
+</details>
+
+### 50.1 Infractions — harceler, gêner, détruire des documents, etc.
+
+(1) Il est interdit à toute personne :
+
+- a) de harceler, d’intimider ou de menacer une autre personne dans le dessein de la forcer à s’abstenir de déposer une plainte sous le régime des parties VII ou VII.2;
+
+- b) de harceler, d’intimider ou de menacer les personnes suivantes :
+  - (i) le particulier qui dépose une plainte sous le régime des parties VII ou VII.2,
+  - (ii) le particulier affecté par la conduite visée par la plainte déposée sous le régime de l’une ou l’autre de ces parties,
+  - (iii) la personne dont elle croit raisonnablement qu’elle sera assignée à témoigner ou questionnée par la Commission lorsque celle-ci examine une plainte déposée sous le régime de l’une ou l’autre de ces parties,
+  - (iv) la personne qui exerce des pouvoirs ou fonctions que lui attribue l’une ou l’autre des parties VI à VII.2;
+
+- c) de gêner sciemment une personne dans l’exercice des pouvoirs et fonctions que lui attribue l’une ou l’autre des parties VI à VII.2, ou de lui faire sciemment une déclaration fausse ou trompeuse ou de lui communiquer sciemment des renseignements faux ou trompeurs;
+
+- d) de détruire, de tronquer ou de modifier un document ou une chose, de les cacher, de les falsifier ou de les contrefaire sachant qu’ils seront vraisemblablement pertinents dans le cadre d’une enquête ou d’une audience tenue sur la plainte au titre des parties VII ou VII.2 ou d’une révision sous le régime de l’une ou l’autre de ces parties;
+
+- e) d’ordonner, de proposer ou de conseiller à une personne de commettre un acte visé à l’un des alinéas a) à d), ou de l’amener de n’importe quelle façon à le faire.
+
+**Peine**
+
+(2) Quiconque contrevient au paragraphe (1) commet une infraction et encourt, sur déclaration de culpabilité :
+
+- a) par mise en accusation, un emprisonnement maximal de cinq ans;
+
+- b) par procédure sommaire, une amende maximale de 5 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 19, art. 370; 2013, ch. 18, art. 40, 77, 83 et 84
+
+</details>
+
+### 50.2 Infraction — non-respect d’obligations
+
+(1) Quiconque omet de s’acquitter de toute obligation prévue aux paragraphes 45.44(2) ou (6) ou 45.46(4) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 5 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+
+**Disculpation**
+
+(2) Nul ne peut être déclaré coupable d’une infraction prévue au paragraphe (1) s’il établit qu’il a pris toutes les précautions voulues pour la prévenir.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 40 et 77
+
+</details>
+
+### 50.3 Infraction — fourniture de renseignements
+
+Quiconque contrevient au paragraphe 45.47(1) ou aux articles 45.48 ou 45.86 commet une infraction et encourt, sur déclaration de culpabilité :
+
+- a) par mise en accusation, un emprisonnement maximal de cinq ans;
+
+- b) par procédure sommaire, une amende maximale de 5 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 18, art. 40 et 77
+
+</details>
+
+### 51 Peine
+
+Quiconque est déclaré coupable d’une des infractions visées dans la présente partie, à l’exception des infractions visées aux articles 50 à 50.3, encourt une amende maximale de 500 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 51; 2013, ch. 18, art. 40 et 77
+
+</details>
+
+### 52 Prescription
+
+Les poursuites par procédure sommaire des infractions tombant sous le coup de la présente partie se prescrivent par deux ans à compter de leur perpétration.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-10, art. 52; 2013, ch. 18, art. 40 et 77
+
+</details>
+
+### 53
+
+[Abrogé, L.R. (1985), ch. 8 (2^e^ suppl.), art. 22]
+
+
+## ANNEXE
+
+(article 14)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 8 (2^e^ suppl.), art. 23
+
+</details>
+
+
+## DISPOSITIONS CONNEXES
+
+### — L.R. (1985), ch. 8 (2^e^ suppl.), art. 25
+
+### 25 Transfert de fonds
+
+Le montant inscrit, lors de l’entrée en vigueur de la présente loi, au crédit de la caisse établie en vertu de l’article 45 de la *Loi sur la Gendarmerie royale du Canada*, en sa version avant cette date, est porté au crédit de la Caisse fiduciaire de bienfaisance visée à l’article 23 de cette loi, en sa version depuis cette date, et doit être utilisé conformément à cet article et aux règlements pris sous son régime.
+
+### — 2013, ch. 18, art. 67
+
+### 67 Officier
+
+Quiconque était un officier de la Gendarmerie royale du Canada à l’entrée en vigueur de l’article 5, à l’exception du commissaire ou d’un sous-commissaire de la Gendarmerie royale du Canada, est réputé avoir été nommé à ce grade par le commissaire de la Gendarmerie royale du Canada.
+
+### — 2013, ch. 18, art. 68
+
+### 68 Griefs
+
+Les dispositions de la partie III de la *Loi sur la Gendarmerie royale du Canada* ainsi que toute règle établie et tout règlement pris en vertu de cette loi, dans leur version antérieure à l’entrée en vigueur des articles 20 à 25, continuent de s’appliquer à tout grief présenté sous le régime de cette partie avant cette entrée en vigueur.
+
+### — 2013, ch. 18, art. 69
+
+### 69 Mesure disciplinaire simple
+
+(1) Si une mesure disciplinaire simple a été prise en vertu de l’article 41 de la *Loi sur la Gendarmerie royale du Canada* avant l’entrée en vigueur de l’article 29, les articles 41 et 42 de la *Loi sur la Gendarmerie royale du Canada* ainsi que toute règle établie et tout règlement pris en vertu de cette loi, dans leur version antérieure à cette entrée en vigueur, continuent de s’appliquer à l’égard de tout appel de la mesure.
+
+**Précision**
+
+(2) Le paragraphe (1) s’applique même si la personne contre qui la mesure disciplinaire a été prise est une personne qui a cessé d’être un membre en application du paragraphe 86(2).
+
+### — 2013, ch. 18, art. 70
+
+### 70 Mesures disciplinaires graves
+
+(1) Toute audience convoquée au titre du paragraphe 43(1) de la *Loi sur la Gendarmerie royale du Canada* avant l’entrée en vigueur de l’article 29 se poursuit sans égard à cette entrée en vigueur, et les dispositions de cette loi, dans leur version antérieure à cette entrée en vigueur, continuent de s’appliquer à l’égard de toute décision relative à l’affaire faisant l’objet de l’audience, ainsi qu’à l’égard de tout appel de cette décision, sauf que les alinéas 45.12(3)a) à c) sont réputés avoir le libellé suivant :
+
+**Application des règlements et des règles**
+
+(2) Les règlements pris et les règles établies en vertu de la *Loi sur la Gendarmerie royale du Canada*, dans leur version antérieure à l’entrée en vigueur de l’article 29, continuent de s’appliquer à l’égard de toute décision relative à l’affaire faisant l’objet de l’audience visée au paragraphe (1), ainsi qu’à l’égard de tout appel de cette décision.
+
+**Suspension**
+
+(3) Si, avant l’entrée en vigueur de l’article 29, une audience a été convoquée au titre du paragraphe 43(1) de la *Loi sur la Gendarmerie royale du Canada* à l’égard d’un membre de la Gendarmerie royale du Canada ayant été suspendu au titre de l’article 12.1 de cette loi, la suspension de ce membre se poursuit malgré cette entrée en vigueur.
+
+**Application de la loi, des règlements et des règles**
+
+(4) Les dispositions de la *Loi sur la Gendarmerie royale du Canada* ainsi que les règlements pris et les règles établies en vertu de cette loi, dans leur version antérieure à l’entrée en vigueur de l’article 29, continuent de s’appliquer à l’égard de la suspension visée au paragraphe (3).
+
+**Précision**
+
+(5) Les paragraphes (1) à (4) s’appliquent même si la personne qui aurait commis la contravention faisant l’objet de l’audience est une personne qui a cessé d’être un membre en application du paragraphe 86(2).
+
+### — 2013, ch. 18, art. 71
+
+### 71 Application du paragraphe 40(1)
+
+(1) Le paragraphe 40(1) de la *Loi sur la Gendarmerie royale du Canada*, édicté par l’article 29, s’applique également à l’égard d’une contravention à l’une des dispositions du code de déontologie qui a été ou aurait été commise avant l’entrée en vigueur de cet article 29, à moins que, avant cette entrée en vigueur, selon le cas :
+
+- a) une mesure disciplinaire simple ait été prise à l’égard de la contravention en vertu de l’article 41 de cette loi;
+
+- b) une audience ait été convoquée au titre du paragraphe 43(1) de la même loi à l’égard de la contravention.
+
+**Précision**
+
+(2) Le paragraphe (1) s’applique même si la personne qui a commis ou aurait commis la contravention est une personne qui a cessé d’être un membre en application du paragraphe 86(2).
+
+### — 2013, ch. 18, art. 72
+
+### 72 Renvoi pour motif d’inaptitude
+
+(1) Aucune décision ne peut être prise après l’entrée en vigueur de l’article 33 à l’égard d’un avis d’intention signifié en application du paragraphe 45.19(1) de la *Loi sur la Gendarmerie royale du Canada* dans sa version antérieure à cette entrée en vigueur.
+
+**Application des dispositions existantes**
+
+(2) Si une décision a été prise en vertu de l’article 45.23 de la *Loi sur la Gendarmerie royale du Canada* avant l’entrée en vigueur de l’article 33, les dispositions de la *Loi sur la Gendarmerie royale du Canada* et les règlements pris et les règles établies en vertu de cette loi, dans leur version antérieure à cette entrée en vigueur, continuent de s’appliquer à l’égard de cette décision, ainsi qu’à l’égard de tout appel de cette décision, sauf que le paragraphe 45.26(2) de la *Loi sur la Gendarmerie royale du Canada* est réputé avoir le libellé suivant :
+
+### — 2013, ch. 18, art. 73
+
+### 73 Renvoi par mesure administrative
+
+(1) Aucune décision ne peut être prise après l’entrée en vigueur de l’article 13 à l’égard d’un avis d’intention signifié en application du paragraphe 20(1) du *Règlement de la Gendarmerie royale du Canada (1988)* avant l’entrée en vigueur de cet article 13.
+
+**Application des règlements et des règles**
+
+(2) Si une décision a été prise en vertu du paragraphe 20(9) ou de l’article 21 du *Règlement de la Gendarmerie royale du Canada (1988)* avant l’entrée en vigueur de l’article 13, les dispositions de la *Loi sur la Gendarmerie royale du Canada* et les règlements pris et les règles établies en vertu de cette loi, dans leur version antérieure à cette entrée en vigueur, continuent de s’appliquer à l’égard de cette décision ainsi qu’à l’égard de tout appel ou grief relatif à cette décision.
+
+**Précision**
+
+(3) Le paragraphe (2) s’applique même si la personne visée par la décision a cessé d’être un membre en application du paragraphe 86(2).
+
+### — 2013, ch. 18, art. 74
+
+### 74 Démission
+
+La démission d’un membre de la Gendarmerie royale du Canada qui n’a pas été acceptée avant l’entrée en vigueur de l’article 10 peut être acceptée par le commissaire de la Gendarmerie royale du Canada ou son délégataire, auquel cas elle devient définitive et irrévocable dès cette acceptation.
+
+### — 2013, ch. 18, art. 75
+
+### 75 Licenciement du membre décédé
+
+Le membre de la Gendarmerie royale du Canada qui, avant l’entrée en vigueur de l’article 11, décède sans avoir été renvoyé de la Gendarmerie royale du Canada est réputé avoir été ainsi renvoyé immédiatement avant cette entrée en vigueur.
+
+### — 2013, ch. 18, art. 76
+
+### 76 Définitions
+
+(1) Les définitions qui suivent s’appliquent au présent article.
+
+**ancienne commission** La Commission des plaintes du public contre la Gendarmerie royale du Canada constituée aux termes du paragraphe 45.29(1) de la *Loi sur la Gendarmerie royale du Canada* dans sa version antérieure à l’entrée en vigueur de l’article 35. (**former commission**)
+
+**nouvelle commission** La Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada constituée aux termes du paragraphe 45.29(1) de la *Loi sur la Gendarmerie royale du Canada*, édicté par l’article 35. (**new commission**)
+
+**Membres de l’ancienne commission**
+
+(2) Les personnes qui occupent les postes de président, de vice-président et de membre de l’ancienne commission à l’entrée en vigueur de l’article 35 cessent d’occuper ces postes à la date de cette entrée en vigueur.
+
+**Personnel**
+
+(3) La présente loi ne change rien à la situation des fonctionnaires qui, à l’entrée en vigueur du présent article, occupaient un poste à l’ancienne commission, à cette différence près que, à compter de cette date, ils l’occupent à la nouvelle commission.
+
+**Définition de **fonctionnaire****
+
+(4) Au paragraphe (3), **fonctionnaire** s’entend au sens du paragraphe 2(1) de la *Loi sur l’emploi dans la fonction publique*.
+
+**Transfert de crédits**
+
+(5) Les sommes affectées — mais non engagées — pour l’exercice en cours à la date d’entrée en vigueur du présent article par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses à l’égard de l’ancienne commission sont réputées être affectées aux frais et dépenses de celle-ci à l’égard de la nouvelle commission.
+
+**Transfert des droits et obligations**
+
+(6) Les droits et biens de l’ancienne commission, ceux qui sont détenus en son nom ou en fiducie pour elle, ainsi que ses obligations et engagements, sont réputés être ceux de la nouvelle commission.
+
+**Renvois**
+
+(7) Sauf indication contraire du contexte, dans tous les contrats, actes et documents signés par l’ancienne commission sous son nom, la mention de celle-ci vaut mention de la nouvelle commission.
+
+**Procédures en cours**
+
+(8) La nouvelle commission succède, au même titre et dans les mêmes conditions, à l’ancienne commission comme partie aux procédures judiciaires ou administratives en cours à l’entrée en vigueur du présent article et auxquelles celle-ci est partie.
+
+**Plainte déposée au titre des articles 45.35 ou 45.37**
+
+(9) Toute plainte déposée au titre des articles 45.35 ou 45.37 de la *Loi sur la Gendarmerie royale du Canada* qui n’a pas été réglée par l’ancienne commission avant l’entrée en vigueur de l’article 35 peut être réglée par la nouvelle commission conformément aux dispositions de la partie VII de cette loi édictées par cet article 35.
+
+**Plainte déposée au titre de l’article 45.49**
+
+(10) En cas de sanction du projet de loi C-38, déposé au cours de la 1^re^ session de la 41^e^ législature et intitulé *Loi sur l’emploi, la croissance et la prospérité durable* (appelé « autre loi » au présent paragraphe), si l’article 369 de l’autre loi entre en vigueur avant l’article 35 de la présente loi, toute plainte déposée au titre de l’article 45.49 de la *Loi sur la Gendarmerie royale du Canada* qui n’a pas été réglée par l’ancienne commission avant l’entrée en vigueur de cet article 35 peut être réglée par la nouvelle commission conformément aux dispositions de la partie VII.2 de la *Loi sur la Gendarmerie royale du Canada*.
+
+### — 2013, ch. 18, art. 86
+
+### 86 Nominations réputées
+
+(1) Le Conseil du Trésor peut publier dans la *Gazette du Canada* une date à laquelle tout membre, au sens du paragraphe 2(1) de la *Loi sur la Gendarmerie royale du Canada*, tel que défini à cette date, qui ne fait partie d’aucune catégorie déterminée par le Conseil du Trésor en vertu de l’article 20.1 de cette loi est, à compter de cette date, réputé avoir été nommé en vertu de la *Loi sur l’emploi dans la fonction publique*.
+
+**Effet de la publication**
+
+(2) Toute personne qui est membre, au sens du paragraphe 2(1) de la *Loi sur la Gendarmerie royale du Canada*, qui ne fait partie d’aucune catégorie déterminée par le Conseil du Trésor en vertu de l’article 20.1 de cette loi, cesse d’être un membre au sens de ce paragraphe 2(1) à la date publiée dans la *Gazette du Canada* en vertu du paragraphe (1).
+
+**Période de stage**
+
+(3) Si la personne visée par le paragraphe (2) n’était pas stagiaire au titre de la *Loi sur la Gendarmerie royale du Canada* à la date publiée dans la *Gazette du Canada* en vertu du paragraphe (1), l’article 61 de la *Loi sur l’emploi dans la fonction publique* ne s’applique pas à son égard.
+
+**Période de stage**
+
+(4) Si la personne visée par le paragraphe (2) était stagiaire au titre de la *Loi sur la Gendarmerie royale du Canada* à la date publiée dans la *Gazette du Canada* en vertu du paragraphe (1), la période pendant laquelle elle est considérée comme stagiaire en vertu de l’article 61 de la *Loi sur l’emploi dans la fonction publique* est la période excédant la période de stage qu’elle a terminée au titre de la *Loi sur la Gendarmerie royale du Canada*.
+
+### — 2017, ch. 9, art. 61
+
+### 61 Définitions
+
+(1) Les définitions qui suivent s’appliquent aux articles 62 à 64.
+
+**ancienne loi** La *Loi sur les relations de travail dans la fonction publique* dans sa version avant l’entrée en vigueur de l’article 2. (**former Act**)
+
+**membre** **Membre** au sens du paragraphe 2(1) de la *Loi sur la Gendarmerie royale du Canada*. (**member**)
+
+**réserviste** Personne nommée à titre de réserviste en application des règlements pris en vertu du paragraphe 11(1) de la *Loi sur la Gendarmerie royale du Canada*. (**reservist**)
+
+**Interprétation**
+
+(2) Sauf indication contraire du contexte, les termes figurant aux articles 62 à 64 s’entendent au sens du paragraphe 2(1) de l’ancienne loi.
+
+### — 2017, ch. 9, art. 62
+
+### 62 Griefs individuels
+
+(1) Tout grief individuel présenté par un membre au titre du paragraphe 208(1) de l’ancienne loi, avant la date d’entrée en vigueur de l’article 238.24 de la *Loi sur les relations de travail dans le secteur public fédéral*, édicté par l’article 33, qui ne vise pas l’interprétation ou l’application à l’égard de ce membre de toute disposition d’une convention collective ou d’une décision arbitrale, est réputé n’avoir jamais été présenté, et toute décision qui en découle ou qui découle de sa révision est réputée n’avoir jamais pris effet.
+
+**Délai de présentation prorogé**
+
+(2) Si, aux termes du paragraphe (1), un grief individuel est réputé n’avoir jamais été présenté ou une décision qui découle de ce grief est réputée n’avoir jamais pris effet, le membre qui a présenté le grief individuel a, malgré toute disposition contraire de la *Loi sur la Gendarmerie royale du Canada*, trente jours à compter de la date d’entrée en vigueur de l’article 33 pour présenter le grief ou engager toute autre procédure pour réparer le préjudice sous le régime de cette loi, à la condition que le grief ou la procédure porte sur les mêmes faits que le grief individuel.
+
+**Réserve**
+
+(3) Le paragraphe (2) s’applique dans le seul cas où le grief individuel aurait, s’il avait été présenté ou si une autre procédure pour réparer le préjudice avait été engagée sous le régime de la *Loi sur la Gendarmerie royale du Canada*, été présenté dans le délai établit sous le régime de cette loi pour présenter le grief ou pour engager la procédure en cause.
+
+### — 2017, ch. 9, art. 63
+
+### 63 Demande d’accréditation en cours
+
+(1) Lorsqu’avant la date d’entrée en vigueur de l’article 238.13 de la *Loi sur les relations de travail dans le secteur public fédéral*, édicté par l’article 33, une organisation syndicale sollicite son accréditation en vertu de l’article 54 de l’ancienne loi comme agent négociateur pour un groupe composé notamment de fonctionnaires qui sont des membres nommés à un grade ou qui sont des réservistes, l’accréditation de l’organisation ne peut être accordée sauf si, à la fois :
+
+- a) le groupe est composé exclusivement de l’ensemble des fonctionnaires qui sont des membres nommés à un grade, à l’exclusion des **officiers** au sens du paragraphe 2(1) de la *Loi sur la Gendarmerie royale du Canada*, et des fonctionnaires qui sont des réservistes;
+
+- b) cette organisation syndicale — et, dans le cas d’un regroupement d’organisations syndicales, chacune de celles-ci — remplit les conditions suivantes :
+  - (i) avoir pour mission principale de représenter les fonctionnaires qui sont des membres nommés à un grade, à l’exclusion des **officiers**, au sens du paragraphe 2(1) de la *Loi sur la Gendarmerie royale du Canada*,
+  - (ii) ne pas être affiliée à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers,
+  - (iii) n’être accréditée comme agent négociateur pour aucun autre groupe de fonctionnaires.
+
+**Précision**
+
+(2) Il est entendu que, pour l’application du paragraphe (1), la participation d’une organisation syndicale au Conseil national mixte n’est pas considérée comme une affiliation à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers.
+
+**Accréditation sans effet**
+
+(3) Dans le cas où l’organisation syndicale a été accréditée comme agent négociateur d’une unité de négociation contrairement au paragraphe (1), cette décision ou celle qui découle de sa révision est réputée n’avoir jamais pris effet.
+
+**Accréditation de tout autre groupe**
+
+(4) Si, avant la date d’entrée en vigueur de l’article 33, une organisation syndicale qui remplit les conditions énumérées à l’alinéa (1)b) est accréditée comme agent négociateur pour le groupe visé à l’alinéa (1)a), toute décision rendue avant cette date à l’égard d’une demande d’accréditation comme agent négociateur pour tout autre groupe de fonctionnaires de la part de cette organisation est réputée n’avoir jamais pris effet.
+
+**Demande d’accréditation en cours**
+
+(5) Si, avant la date d’entrée en vigueur de l’article 33, une organisation syndicale qui remplit les conditions énumérées à l’alinéa (1)b) est accréditée comme agent négociateur pour l’unité de négociation composée du groupe visé à l’alinéa (1)a), la demande d’accréditation de l’organisation syndicale faite en vertu de l’article 54 de l’ancienne loi est, à cette date, réputée avoir été faite en vertu du paragraphe 238.13(1) de la *Loi sur les relations de travail dans le secteur public fédéral*, édicté par l’article 33, plutôt qu’en vertu de cet article 54 et l’unité de négociation est réputée avoir été définie au titre de l’article 238.14 de cette dernière loi.
+
+**Demande d’accréditation en cours**
+
+(6) Si, à compter de la date d’entrée en vigueur de l’article 33, une organisation syndicale qui remplit les conditions prévues à l’alinéa (1)b) est accréditée comme agent négociateur pour l’unité de négociation composée du groupe visé à l’alinéa (1)a), la demande d’accréditation de l’organisation syndicale faite en vertu de l’article 54 de l’ancienne loi est, lorsqu’elle est accordée, réputée avoir été faite en vertu du paragraphe 238.13(1) de la *Loi sur les relations de travail dans le secteur public fédéral*, édicté par l’article 33, plutôt qu’en vertu de cet article 54 et l’unité de négociation est réputée avoir été définie au titre de l’article 238.14 de cette dernière loi.
+
+### — 2017, ch. 9, art. 64
+
+### 64 Appartenance à une unité de négociation — membre et réserviste
+
+(1) Toute demande présentée en vertu de l’article 58 de l’ancienne loi, avant la date d’entrée en vigueur de l’article 238.16 de la *Loi sur les relations de travail dans le secteur public fédéral*, édicté par l’article 33, portant sur l’appartenance de tout membre nommé à un grade ou de tout réserviste à une unité de négociation autre qu’une unité de négociation composée du groupe visé à l’alinéa 63(1)a) est réputée n’avoir jamais été présentée et toute décision qui découle de la demande ou qui découle de sa révision est réputée n’avoir jamais pris effet.
+
+**Appartenance à une unité de négociation — autre fonctionnaire**
+
+(2) Toute demande présentée en vertu de l’article 58 de l’ancienne loi, avant la date d’entrée en vigueur de l’article 238.16 de la *Loi sur les relations de travail dans le secteur public fédéral*, édicté par l’article 33, portant sur l’appartenance de tout fonctionnaire, autre qu’un membre nommé à un grade ou qu’un réserviste, à une unité de négociation composée du groupe visé à l’alinéa 63(1)a) pour lequel est accréditée l’organisation syndicale qui remplit les conditions énumérées à l’alinéa 63(1)b) est réputée n’avoir jamais été présentée et toute décision qui découle de la demande ou qui découle de sa révision est réputée n’avoir jamais pris effet.
+
+### — 2017, ch. 9, art. 65
+
+### 65 Date publiée
+
+À compter de la date publiée par le Conseil du Trésor dans la *Gazette du Canada* en vertu du paragraphe 86(1) de la *Loi visant à accroître la responsabilité de la Gendarmerie royale du Canada*, la mention de membre nommé à un grade aux paragraphes 63(1) ou 64(1) ou (2) vaut mention de membre.
+
+### — 2019, ch. 29, art. 223
+
+### 223 Maintien en poste
+
+Si le décret intitulé *Décret constituant le Conseil consultatif intérimaire de gestion de la Gendarmerie royale du Canada et précisant son mandat* est pris avant la date d’entrée en vigueur de l’article 45.19 de la *Loi sur la Gendarmerie royale du Canada*, édicté par l’article 222 de la présente loi, les membres du Conseil consultatif intérimaire de gestion de la Gendarmerie royale du Canada, constitué par ce décret, qui sont en fonction à l’entrée en vigueur de cet article 45.19, continuent d’exercer leur charge jusqu’à l’expiration de leur mandat comme s’ils avaient été nommés en vertu de cet article 45.19.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2013, ch. 18, par. 8(2) et (3)
+
+### 8
+
+(2) Le paragraphe 7(1) de la même loi est remplacé par ce qui suit :
+
+**L.R., ch. 8 (2^e^ suppl.), art. 4**
+
+(3) Le paragraphe 7(2) de la même loi est remplacé par ce qui suit :
+
+### — 2013, ch. 18, par. 15(1)
+
+### 15 L.R., ch. 8 (2^e^ suppl.), art. 13
+
+(1) Le paragraphe 22(1.1) de la même loi est remplacé par ce qui suit :
+
+### — 2013, ch. 18, par. 77(1), (3), (4), (7) à (12), (14), (15), (19) et (20)
+
+### 77 L.R., ch. R-10
+
+(1) Au présent article, « autre loi » s’entend de la *Loi sur la Gendarmerie royale du Canada*.
+
+(3) Dès le premier jour où les paragraphes 8(1) et (2) de la présente loi sont tous deux en vigueur, le paragraphe 7(1) de l’autre loi est remplacé par ce qui suit :
+
+(4) Dès le premier jour où l’article 9.2 de l’autre loi, édicté par l’article 10 de la présente loi, et les paragraphes 8(2) et (3) et 15(1) de la présente loi sont tous en vigueur, cet article 9.2 est remplacé par ce qui suit :
+
+(7) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, l’alinéa 45.4(1)f) de l’autre loi est remplacé par ce qui suit :
+
+(8) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, l’alinéa 45.42(1)a) de l’autre loi est remplacé par ce qui suit :
+
+(9) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, l’alinéa 45.42(1)c) de l’autre loi est remplacé par ce qui suit :
+
+(10) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, le paragraphe 45.53(1) de l’autre loi est remplacé par ce qui suit :
+
+(11) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, le paragraphe 45.53(4) de l’autre loi est remplacé par ce qui suit :
+
+(12) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, l’alinéa 45.53(8)b) de l’autre loi est remplacé par ce qui suit :
+
+(14) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, le paragraphe 45.59(1) de l’autre loi est remplacé par ce qui suit :
+
+(15) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, le paragraphe 45.61(2) de l’autre loi est remplacé par ce qui suit :
+
+(19) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, le paragraphe 45.75(1) de l’autre loi est remplacé par ce qui suit :
+
+(20) Dès le premier jour où les paragraphes 8(2) et (3) et 15(1) et l’article 35 de la présente loi sont tous en vigueur, le passage de la définition de **incident grave** au paragraphe 45.79(1) de l’autre loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2013, ch. 18, art. 82
+
+### 82
+
+Dès le premier jour où, à la fois, les paragraphes 8(2) et (3) et 15(1) de la présente loi sont tous en vigueur et les effets de l’un des paragraphes 78(2) ou (3) de la présente loi ont été produits :
+
+- a) l’alinéa 45.9j) de la *Loi sur la Gendarmerie royale du Canada* est remplacé par ce qui suit :
+
+- b) l’alinéa 45.94(1)c) de la *Loi sur la Gendarmerie royale du Canada* est remplacé par ce qui suit :
+
+### — 2024, ch. 25, art. 93
+
+### 93
+
+(1) La définition de **procédure**, au paragraphe 2(1) de la *Loi sur la Gendarmerie royale du Canada*, est abrogée.
+
+(2) La définition de **Commission**, au paragraphe 2(1) de la même loi, est remplacée par ce qui suit :
+
+### — 2024, ch. 25, art. 94
+
+### 94
+
+Le paragraphe 5(2) de la même loi est remplacé par ce qui suit :
+
+### — 2024, ch. 25, art. 96
+
+### 96
+
+L’alinéa 24.1(6)b) de la même loi est remplacé par ce qui suit :
+
+### — 2024, ch. 25, art. 97
+
+### 97
+
+Les articles 45.171 à 45.173 de la même loi sont remplacés par ce qui suit :
+
+### — 2024, ch. 25, art. 98
+
+### 98
+
+Les parties VI et VII de la même loi sont abrogées.
+
+### — 2024, ch. 25, art. 99
+
+### 99
+
+Le paragraphe 45.79(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+### — 2024, ch. 25, art. 100
+
+### 100
+
+L’article 45.8 de la même loi est remplacé par ce qui suit :
+
+### — 2024, ch. 25, art. 101
+
+### 101
+
+Les paragraphes 45.83(5) et (6) de la même loi sont remplacés par ce qui suit :
+
+### — 2024, ch. 25, art. 102
+
+### 102
+
+L’article 45.86 de la même loi est remplacé par ce qui suit :
+
+### — 2024, ch. 25, art. 103
+
+### 103
+
+Le titre de la partie VII.2 de la même loi est remplacé par ce qui suit :
+
+### — 2024, ch. 25, art. 104
+
+### 104
+
+Les paragraphes 45.88(2) et (3) de la même loi sont remplacés par ce qui suit :
+
+### — 2024, ch. 25, art. 105
+
+### 105
+
+Les articles 45.89 à 45.97 de la même loi sont remplacés par ce qui suit :
+
+### — 2024, ch. 25, art. 106
+
+### 106
+
+Le sous-alinéa 50(1)d)(i) de la même loi est remplacé par ce qui suit :
+
+### — 2024, ch. 25, art. 107
+
+### 107
+
+Les articles 50.1 à 51 de la même loi sont remplacés par ce qui suit :
+
+### — 2024, ch. 25, art. 112
+
+### 112 Mention — version anglaise
+
+Sauf indication contraire du contexte, dans la version anglaise de toute loi fédérale et de tout texte d’application, « Force » est remplacé par « RCMP ».
+
+### — 2024, ch. 25, art. 113
+
+### 113 Définitions
+
+(1) Les définitions qui suivent s’appliquent au présent article.
+
+**ancienne Commission** La Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada constituée aux termes du paragraphe 45.29(1) de la *Loi sur la Gendarmerie royale du Canada*. (**former Commission**)
+
+**nouvelle Commission** La Commission. (**new Commission**)
+
+**Membres de l’ancienne Commission**
+
+(2) Les personnes qui occupent les postes de président, de vice-président et de membre de l’ancienne Commission à la date d’entrée en vigueur du paragraphe 3(1) sont maintenues dans leur poste de président, de vice-président et de membre, respectivement, de la nouvelle Commission jusqu’à la fin du mandat pour lequel elles ont été nommées.
+
+**Personnel**
+
+(3) La présente loi ne change rien à la situation des **fonctionnaires**, au sens du paragraphe 2(1) de la *Loi sur l’emploi dans la fonction publique*, qui, à la date d’entrée en vigueur du présent article, occupaient un poste à l’ancienne Commission, à cette différence près que, à compter de cette date, ils l’occupent à la nouvelle Commission.
+
+**Transfert de crédits**
+
+(4) Les sommes affectées — mais non engagées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses de l’ancienne Commission sont réputées être affectées aux frais et dépenses de la nouvelle Commission.
+
+**Transfert des droits et obligations**
+
+(5) Les droits et biens de l’ancienne Commission, ainsi que ses obligations et engagements, sont réputés être ceux de la nouvelle Commission.
+
+**Renvois**
+
+(6) Sauf indication contraire du contexte, dans tous les documents signés par l’ancienne Commission sous son nom, la mention de celle-ci vaut mention de la nouvelle Commission.
+
+**Procédures en cours**
+
+(7) La nouvelle Commission succède, au même titre et dans les mêmes conditions, à l’ancienne Commission comme partie aux procédures judiciaires ou administratives en cours à la date d’entrée en vigueur du présent article et auxquelles celle-ci est partie.
+
+**Demandes**
+
+(8) Toute demande effectuée au titre des articles 45.34, 45.35 ou 45.51 de la *Loi sur la Gendarmerie royale du Canada*, dans leur version antérieure à la date d’entrée en vigueur de l’article 28 de la présente loi, pour laquelle l’ancienne Commission n’a pas présenté de rapport au ministre avant cette date est réputée être une demande effectuée au titre des articles 12, 28 ou 29 de la présente loi, selon le cas.
+
+**Plaintes**
+
+(9) Toute plainte déposée au titre des articles 45.53 ou 45.59 de la *Loi sur la Gendarmerie royale du Canada*, dans leur version antérieure à la date d’entrée en vigueur de l’article 33 de la présente loi, qui n’a pas été réglée par l’ancienne Commission avant cette date peut être réglée par la nouvelle Commission conformément aux dispositions de la présente loi.
+
+**Conduite**
+
+(10) Une plainte peut être déposée au titre des articles 33 et 36, que la conduite en cause ait eu lieu avant, après ou à la date d’entrée en vigueur de ces articles.
+
+**Application des articles 67 et 68**
+
+(11) Les articles 67 et 68 s’appliquent uniquement à l’égard des plaintes déposées au titre des articles 33 et 36 à la date d’entrée en vigueur de ces articles ou après cette date.
+
+### — 2024, ch. 25, par. 145(1), (4) et (7)
+
+### 145 2013, ch. 18
+
+(1) Au présent article, **autre loi** s’entend de la *Loi visant à accroître la responsabilité de la Gendarmerie royale du Canada*.
+
+(4) Si l’article 2 de la présente loi entre en vigueur avant la date à laquelle les paragraphes 77(7) à (12), (14), (15) et (19) et les alinéas 82a) et b) de l’autre loi aient produit leurs effets, ces paragraphes 77(7) à (12), (14), (15) et (19) et l’article 82 de l’autre loi sont abrogés.
+
+(7) Si l’alinéa 82b) de l’autre loi produit ses effets à la date d’entrée en vigueur de l’article 2 de la présente loi, cet alinéa 82b) est réputé avoir produit ses effets avant que cet article 2 n’entre en vigueur.

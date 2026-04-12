@@ -1,0 +1,9917 @@
+---
+title: "Loi sur la faillite et l’insolvabilité"
+long_title: "Loi concernant la faillite et l’insolvabilité"
+chapter: "B-3"
+language: "en"
+type: "act"
+---
+
+# Loi sur la faillite et l’insolvabilité
+
+> Loi concernant la faillite et l’insolvabilité
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur la faillite et l’insolvabilité*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 1; 1992, ch. 27, art. 2
+
+</details>
+
+## Définitions et interprétation
+
+### 2 Définitions
+
+Les définitions qui suivent s’appliquent à la présente loi.
+
+**accord de transfert de titres pour obtention de crédit** Accord aux termes duquel une personne insolvable ou un failli transfère la propriété d’un bien en vue de garantir le paiement d’une somme ou l’exécution d’une obligation relativement à un contrat financier admissible. (**title transfer credit support agreement**)
+
+**actif à court terme** Sommes en espèces, équivalents de trésorerie — notamment les effets négociables et dépôts à vue —, inventaire, comptes à recevoir ou produit de toute opération relative à ces actifs. (**current assets**)
+
+**actionnaire** S’agissant d’une personne morale ou d’une fiducie de revenu assujetties à la présente loi, est assimilée à l’actionnaire la personne ayant un intérêt dans cette personne morale ou détenant des parts de cette fiducie. (**shareholder**)
+
+**administrateur** S’agissant d’une personne morale autre qu’une fiducie de revenu, toute personne exerçant les fonctions d’administrateur, indépendamment de son titre, et, s’agissant d’une fiducie de revenu, toute personne exerçant les fonctions de fiduciaire, indépendamment de son titre. (**director**)
+
+**affidavit** Sont assimilées à un affidavit une déclaration et une affirmation solennelles. (**affidavit**)
+
+**agent négociateur** Syndicat ayant conclu une convention collective pour le compte des employés d’une personne. (**bargaining agent**)
+
+**banque**
+  - a) Les banques et les banques étrangères autorisées, au sens de l’article 2 de la *Loi sur les banques*;
+  - b) les membres de l’Association canadienne des paiements créée par la *Loi canadienne sur les paiements*;
+  - c) les sociétés coopératives de crédit locales définies au paragraphe 2(1) de la loi mentionnée à l’alinéa b) et affiliées à une centrale — au sens du même paragraphe — qui est elle-même membre de cette association. (**bank**)
+
+**bien** Bien de toute nature, qu’il soit situé au Canada ou ailleurs. Sont compris parmi les biens les biens personnels et réels, en droit ou en equity, les sommes d’argent, marchandises, choses non possessoires et terres, ainsi que les obligations, servitudes et toute espèce de domaines, d’intérêts ou de profits, présents ou futurs, acquis ou éventuels, sur des biens, ou en provenant ou s’y rattachant. (**property**)
+
+**biens**[Abrogée, 2004, ch. 25, art. 7]
+
+**biens aéronautiques**[Abrogée, 2012, ch. 31, art. 414]
+
+**cession** Cession déposée chez le séquestre officiel. (**assignment**)
+
+**conjoint de fait** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (**common-law partner**)
+
+**conseiller juridique** Toute personne qualifiée, en vertu du droit de la province, pour donner des avis juridiques. (**legal counsel**)
+
+**contrat financier admissible** Contrat d’une catégorie prescrite. (**eligible financial contract**)
+
+**convention collective** S’agissant d’une personne insolvable, s’entend au sens donné à ce terme par les règles de droit applicables aux négociations collectives entre elle et l’agent négociateur. (**collective agreement**)
+
+**créancier** Personne titulaire d’une réclamation prouvable à ce titre sous le régime de la présente loi. (**creditor**)
+
+**créancier garanti** Personne titulaire d’une hypothèque, d’un gage, d’une charge ou d’un privilège sur ou contre les biens du débiteur ou une partie de ses biens, à titre de garantie d’une dette échue ou à échoir, ou personne dont la réclamation est fondée sur un effet de commerce ou garantie par ce dernier, lequel effet de commerce est détenu comme garantie subsidiaire et dont le débiteur n’est responsable qu’indirectement ou secondairement. S’entend en outre :
+  - a) de la personne titulaire, selon le *Code civil du Québec* ou les autres lois de la province de Québec, d’un droit de rétention ou d’une priorité constitutive de droit réel sur ou contre les biens du débiteur ou une partie de ses biens;
+  - b) lorsque l’exercice de ses droits est assujetti aux règles prévues pour l’exercice des droits hypothécaires au livre sixième du *Code civil du Québec* intitulé *Des priorités et des hypothèques* :
+    - (i) de la personne qui vend un bien au débiteur, sous condition ou à tempérament,
+    - (ii) de la personne qui achète un bien du débiteur avec faculté de rachat en faveur de celui-ci,
+    - (iii) du fiduciaire d’une fiducie constituée par le débiteur afin de garantir l’exécution d’une obligation. (**secured creditor**)
+
+**date de la faillite** S’agissant d’une personne, la date :
+  - a) soit de l’ordonnance de faillite la visant;
+  - b) soit du dépôt d’une cession de biens la visant;
+  - c) soit du fait sur la base duquel elle est réputée avoir fait une cession de biens. (**date of the bankruptcy**)
+
+**débiteur** Sont assimilées à un débiteur toute personne insolvable et toute personne qui, à l’époque où elle a commis un acte de faillite, résidait au Canada ou y exerçait des activités. S’entend en outre, lorsque le contexte l’exige, d’un failli. (**debtor**)
+
+**disposition**[Abrogée, 2005, ch. 47, art. 2]
+
+**enfant**[Abrogée, 2000, ch. 12, art. 8]
+
+**entreprise de service public** Vise notamment la personne ou l’organisme qui fournit du combustible, de l’eau ou de l’électricité, un service de télécommunications, d’enlèvement des ordures ou de lutte contre la pollution ou encore des services postaux. (**public utility**)
+
+**failli** Personne qui a fait une cession ou contre laquelle a été rendue une ordonnance de faillite. Peut aussi s’entendre de la situation juridique d’une telle personne. (**bankrupt**)
+
+**faillite** L’état de faillite ou le fait de devenir en faillite. (**bankruptcy**)
+
+**fiducie de revenu** Fiducie qui possède un actif au Canada et dont les parts sont inscrites à une bourse de valeurs mobilières visée par les Règles générales à la date de l’ouverture de la faillite, ou sont détenues en majorité par une fiducie dont les parts sont inscrites à une telle bourse à cette date. (**income trust**)
+
+**garantie financière** S’il est assujetti soit à un intérêt ou, dans la province de Québec, à un droit garantissant le paiement d’une somme ou l’exécution d’une obligation relativement à un contrat financier admissible, soit à un accord de transfert de titres pour obtention de crédit, l’un ou l’autre des éléments suivants :
+  - a) les sommes en espèces et les équivalents de trésorerie — notamment les effets négociables et dépôts à vue;
+  - b) les titres, comptes de titres, droits intermédiés et droits d’acquérir des titres;
+  - c) les contrats à terme ou comptes de contrats à terme. (**financial collateral**)
+
+**huissier-exécutant** Shérif, huissier ou autre personne chargée de l’exécution d’un bref ou autre procédure sous l’autorité de la présente loi ou de toute autre loi, ou de toute autre procédure relative aux biens du débiteur. (**sheriff**)
+
+**intérêt relatif à des capitaux propres**
+  - a) S’agissant d’une personne morale autre qu’une fiducie de revenu, action de celle-ci ou bon de souscription, option ou autre droit permettant d’acquérir une telle action et ne provenant pas de la conversion d’une dette convertible;
+  - b) s’agissant d’une fiducie de revenu, part de celle-ci ou bon de souscription, option ou autre droit permettant d’acquérir une telle part et ne provenant pas de la conversion d’une dette convertible. (**equity interest**)
+
+**localité** En parlant d’un débiteur, le lieu principal où, selon le cas :
+  - a) il a exercé ses activités au cours de l’année précédant l’ouverture de sa faillite;
+  - b) il a résidé au cours de l’année précédant l’ouverture de sa faillite;
+  - c) se trouve la plus grande partie de ses biens, dans les cas non visés aux alinéas a) ou b). (**locality of a debtor**)
+
+**localité d’un débiteur**[Abrogée, 2005, ch. 47, art. 2(F)]
+
+**ministre** Le ministre de l’Industrie. (**Minister**)
+
+**moment de la faillite** S’agissant d’une personne, le moment :
+  - a) soit du prononcé de l’ordonnance de faillite la visant;
+  - b) soit du dépôt d’une cession de biens la visant;
+  - c) soit du fait sur la base duquel elle est réputée avoir fait une cession de biens. (**time of the bankruptcy**)
+
+**opération sous-évaluée** Toute disposition de biens ou fourniture de services pour laquelle le débiteur ne reçoit aucune contrepartie ou en reçoit une qui est manifestement inférieure à la juste valeur marchande de celle qu’il a lui-même donnée. (**transfer at undervalue**)
+
+**ouverture de la faillite** Relativement à une personne, le premier en date des événements suivants à survenir :
+  - a) le dépôt d’une cession de biens la visant;
+  - b) le dépôt d’une proposition la visant;
+  - c) le dépôt d’un avis d’intention par elle;
+  - d) le dépôt de la première requête en faillite :
+    - (i) dans les cas visés aux alinéas 50.4(8) a) et 57 a) et au paragraphe 61(2),
+    - (ii) dans le cas où la personne, alors qu’elle est visée par un avis d’intention déposé aux termes de l’article 50.4 ou une proposition déposée aux termes de l’article 62, fait une cession avant que le tribunal ait approuvé la proposition;
+  - e) dans les cas non visés à l’alinéa d), le dépôt de la requête à l’égard de laquelle une ordonnance de faillite est rendue;
+  - f) l’introduction d’une procédure sous le régime de la *Loi sur les arrangements avec les créanciers des compagnies*. (**date of the initial bankruptcy event**)
+
+**personne**
+  - a) Sont assimilés aux personnes les sociétés de personnes, associations non constituées en personne morale, personnes morales, sociétés et organisations coopératives, ainsi que leurs successeurs;
+  - b) sont par ailleurs assimilés aux personnes leurs héritiers, liquidateurs de succession, exécuteurs testamentaires, administrateurs et autres représentants légaux. (**person**)
+
+**personne insolvable** Personne qui n’est pas en faillite et qui réside au Canada ou y exerce ses activités ou qui a des biens au Canada, dont les obligations, constituant à l’égard de ses créanciers des réclamations prouvables aux termes de la présente loi, s’élèvent à mille dollars et, selon le cas :
+  - a) qui, pour une raison quelconque, est incapable de faire honneur à ses obligations au fur et à mesure de leur échéance;
+  - b) qui a cessé d’acquitter ses obligations courantes dans le cours ordinaire des affaires au fur et à mesure de leur échéance;
+  - c) dont la totalité des biens n’est pas suffisante, d’après une juste estimation, ou ne suffirait pas, s’il en était disposé lors d’une vente bien conduite par autorité de justice, pour permettre l’acquittement de toutes ses obligations échues ou à échoir. (**insolvent person**)
+
+**personne morale** Personne morale qui est autorisée à exercer des activités au Canada ou qui y a un établissement ou y possède des biens, ainsi que toute fiducie de revenu. Sont toutefois exclues les banques, banques étrangères autorisées au sens de l’article 2 de la *Loi sur les banques*, compagnies d’assurance, sociétés de fiducie ou sociétés de prêt constituées en personnes morales. (**corporation**)
+
+**prescrit**
+  - a) Dans le cas de la forme de documents à prescrire au titre de la présente loi et des renseignements qui doivent y figurer, prescrit par le surintendant en application de l’alinéa 5(4) e);
+  - b) dans les autres cas, prescrit par les Règles générales. (**prescribed**)
+
+**proposition concordataire** ou **proposition** S’entend :
+  - a) à la section I de la partie III, de la proposition faite au titre de cette section;
+  - b) dans le reste de la présente loi, de la proposition faite au titre de la section I de la partie III ou d’une proposition de consommateur faite au titre de la section II de la partie III.
+Est également visée la proposition ou proposition de consommateur faite en vue d’un concordat, d’un atermoiement ou d’un accommodement. (**proposal**)
+
+**réclamation prouvable en matière de faillite** ou **réclamation prouvable** Toute réclamation ou créance pouvant être prouvée dans des procédures intentées sous l’autorité de la présente loi par un créancier. (**claim provable in bankruptcy**, **provable claim** or **claim provable**)
+
+**réclamation relative à des capitaux propres** Réclamation portant sur un intérêt relatif à des capitaux propres et visant notamment :
+  - a) un dividende ou un paiement similaire;
+  - b) un remboursement de capital;
+  - c) tout droit de rachat d’actions au gré de l’actionnaire ou de remboursement anticipé d’actions au gré de l’émetteur;
+  - d) des pertes pécuniaires associées à la propriété, à l’achat ou à la vente d’un intérêt relatif à des capitaux propres ou à l’annulation de cet achat ou de cette vente;
+  - e) une contribution ou une indemnité relative à toute réclamation visée à l’un des alinéas a) à d). (**equity claim**)
+
+**Règles générales** Les Règles générales établies en application de l’article 209. (**General Rules**)
+
+**résolution** ou **résolution ordinaire** Résolution adoptée conformément à l’article 115. (**resolution** or **ordinary resolution**)
+
+**résolution spéciale** Résolution décidée par une majorité en nombre et une majorité des trois quarts en valeur des créanciers titulaires de réclamations prouvées, présents personnellement ou représentés par fondés de pouvoir à une assemblée des créanciers et votant sur la résolution. (**special resolution**)
+
+**séquestre officiel** Fonctionnaire nommé en vertu du paragraphe 12(2). (**official receiver**)
+
+**surintendant** Le surintendant des faillites nommé aux termes du paragraphe 5(1). (**Superintendent**)
+
+**surintendant des institutions financières** Le surintendant des institutions financières nommé en application du paragraphe 5(1) de la *Loi sur le Bureau du surintendant des institutions financières*. (**Superintendent of Financial Institutions**)
+
+**syndic** ou **syndic autorisé** Personne qui détient une licence ou est nommée en vertu de la présente loi. (**trustee** or **licensed trustee**)
+
+**tribunal** Sauf aux alinéas 178(1)a) et a.1) et aux articles 204.1 à 204.3, tout tribunal mentionné aux paragraphes 183(1) ou (1.1). Y est assimilé tout juge de ce tribunal ainsi que le greffier ou le registraire de celui-ci, lorsqu’il exerce les pouvoirs du tribunal qui lui sont conférés au titre de la présente loi. (**court**)
+
+**union de fait** Relation qui existe entre deux conjoints de fait. (**common-law partnership**)
+
+**valeurs nettes dues à la date de résiliation** La somme nette obtenue après compensation des obligations mutuelles des parties à un contrat financier admissible effectuée conformément à ce contrat. (**net termination value**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 2; L.R. (1985), ch. 31 (1^er^ suppl.), art. 69; 1992, ch. 1, art. 145(F), ch. 27, art. 3; 1995, ch. 1, art. 62; 1997, ch. 12, art. 1; 1999, ch. 28, art. 146, ch. 31, art. 17; 2000, ch. 12, art. 8; 2001, ch. 4, art. 25, ch. 9, art. 572; 2004, ch. 25, art. 7; 2005, ch. 3, art. 11, ch. 47, art. 2; 2007, ch. 29, art. 91, ch. 36, art. 1; 2012, ch. 31, art. 414; 2015, ch. 3, art. 6(F); 2018, ch. 10, art. 82
+
+</details>
+
+### 2.1 Désignation de bénéficiaires
+
+La modification de la désignation du bénéficiaire d’une police d’assurance est réputée être une disposition de biens pour l’application de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 2; 2004, ch. 25, art. 8; 2005, ch. 47, art. 3
+
+</details>
+
+### 2.2 Bureau de division
+
+Sauf dans le cas de la demande de licence prévue au paragraphe 13(1), les notifications et envois de documents ou renseignements à effectuer au titre de la présente loi auprès du surintendant le sont au bureau de division spécifié par ses instructions.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 2
+
+</details>
+
+### 3
+
+[Abrogé, 2005, ch. 47, art. 4]
+
+### 4 Définitions
+
+(1) Les définitions qui suivent s’appliquent au présent article.
+
+**entité** Personne autre qu’une personne physique. (**entity**)
+
+**groupe lié** Groupe de personnes dont chaque membre est lié à chaque autre membre du groupe. (**related group**)
+
+**groupe non lié** Groupe de personnes qui n’est pas un groupe lié. (**unrelated group**)
+
+**Définition de **personnes liées****
+
+(2) Pour l’application de la présente loi, des personnes sont liées entre elles et constituent des **personnes liées** si elles sont :
+
+- a) soit des particuliers unis par les liens du sang, du mariage, d’une union de fait ou de l’adoption;
+
+- b) soit une entité et, selon le cas :
+  - (i) la personne qui la contrôle, si elle est contrôlée par une seule personne,
+  - (ii) toute personne qui est membre du groupe lié qui la contrôle,
+  - (iii) toute personne unie de la manière indiquée à l’alinéa a) à une personne visée aux sous-alinéas (i) ou (ii);
+
+- c) soit, selon le cas, deux entités :
+  - (i) contrôlées par la même personne ou le même groupe de personnes,
+  - (ii) dont chacune est contrôlée par une seule personne et si la personne qui contrôle l’une d’elles est liée à celle qui contrôle l’autre,
+  - (iii) dont l’une est contrôlée par une seule personne qui est liée à un membre du groupe lié qui contrôle l’autre,
+  - (iv) dont l’une est contrôlée par une seule personne qui est liée à chacun des membres du groupe non lié qui contrôle l’autre,
+  - (v) dont l’une est contrôlée par un groupe lié dont l’un des membres est lié à chacun des membres du groupe non lié qui contrôle l’autre,
+  - (vi) dont l’une est contrôlée par un groupe non lié dont chaque membre est lié à au moins un membre du groupe non lié qui contrôle l’autre.
+
+**Liens**
+
+(3) Pour l’application du présent article :
+
+- a) lorsque deux entités sont liées à la même entité au sens où l’entend le paragraphe (2), elles sont réputées liées entre elles;
+
+- b) lorsqu’un groupe lié est en mesure de contrôler une entité, il est réputé être un groupe lié qui contrôle l’entité, qu’il fasse ou non partie d’un groupe plus considérable par lequel l’entité est en fait contrôlée;
+
+- c) la personne qui a, en vertu d’un contrat, en equity ou autrement, un droit de participation aux capitaux propres d’une entité, soit immédiatement, soit à l’avenir, et de façon absolue ou conditionnelle, ou le droit d’acquérir un tel droit, ou de contrôler ainsi les droits de vote de l’entité, est réputée, sauf si le contrat stipule que le droit ne peut être exercé qu’au décès d’une personne qui y est désignée, occuper la même position à l’égard du contrôle de l’entité que si elle était titulaire de ce droit;
+
+- d) la personne qui détient un droit de participation aux capitaux propres de deux ou plusieurs entités est réputée être liée à elle-même à titre de titulaire du droit de participation dans chacune de ces entités;
+
+- e) des personnes sont unies par les liens du sang si l’une est l’enfant ou autre descendant de l’autre ou si l’une est le frère ou la soeur de l’autre;
+
+- f) des personnes sont unies par les liens du mariage si l’une est mariée à l’autre ou à une personne qui est unie à l’autre par les liens du sang ou de l’adoption;
+
+- f.1) des personnes sont unies par les liens d’une union de fait si l’une vit en union de fait avec l’autre ou avec une personne qui est unie à l’autre par les liens du sang ou de l’adoption;
+
+- g) des personnes sont unies par les liens de l’adoption si l’une a été adoptée, en droit ou de fait, comme enfant de l’autre ou comme enfant d’une personne unie à l’autre par les liens du sang, autrement qu’à titre de frère ou de soeur.
+
+**Question de fait**
+
+(4) La question de savoir si des personnes non liées entre elles n’avaient pas de lien de dépendance, à tel ou tel moment, est une question de fait.
+
+**Présomption**
+
+(5) Les personnes liées entre elles sont réputées avoir un lien de dépendance tant qu’elles sont ainsi liées et il en va de même, sauf preuve contraire, pour l’application des alinéas 95(1)b) ou 96(1)b).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 4; 2000, ch. 12, art. 9; 2004, ch. 25, art. 9(F); 2005, ch. 47, art. 5; 2007, ch. 36, art. 2
+
+</details>
+
+## Sa Majesté
+
+### 4.1 Obligation de Sa Majesté
+
+La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 4
+
+</details>
+
+### Obligation d’agir de bonne foi
+
+### 4.2 Bonne foi
+
+(1) Tout intéressé est tenu d’agir de bonne foi dans le cadre d’une procédure intentée au titre de la présente loi.
+
+**Bonne foi — pouvoirs du tribunal**
+
+(2) S’il est convaincu que l’intéressé n’agit pas de bonne foi, le tribunal peut, à la demande de tout intéressé, rendre toute ordonnance qu’il estime indiquée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, ch. 29, art. 133
+
+</details>
+
+## Fonctionnaires administratifs
+
+### Surintendant
+
+### 5 Nomination
+
+(1) Le gouverneur en conseil nomme à titre inamovible un surintendant des faillites pour un mandat renouvelable d’au plus cinq ans, sous réserve de révocation motivée de la part du gouverneur en conseil.
+
+**Traitement**
+
+(1.1) Le surintendant des faillites reçoit le traitement que fixe le gouverneur en conseil.
+
+**Surveillance**
+
+(2) Le surintendant contrôle l’administration des actifs et des affaires régis par la présente loi.
+
+**Fonctions**
+
+(3) Le surintendant, sans que soit limitée l’autorité que lui confère le paragraphe (2) :
+
+- a) reçoit les demandes de licences autorisant l’exercice des fonctions de syndic dans le cadre de la présente loi et délivre les licences aux personnes dont les demandes ont été approuvées;
+
+- b) contrôle l’observation constante par le syndic des conditions de délivrance de sa licence et, s’il constate une inobservation, prend les mesures qu’il estime indiquées;
+
+- c) lorsqu’il n’y est pas autrement pourvu, exige le dépôt d’un ou de plusieurs cautionnements continus pour garantir qu’il sera dûment rendu compte de tous les biens reçus par les syndics et assurer l’exécution régulière et fidèle de leurs fonctions dans l’administration des actifs auxquels ils sont commis, au montant qu’il peut fixer et qui est susceptible de l’augmentation ou de la diminution qu’il peut juger opportune; le cautionnement doit être en une forme satisfaisante au surintendant qui peut l’exécuter au profit des créanciers;
+
+- d) [Abrogé, 1992, ch. 27, art. 5]
+
+- e) effectue ou fait effectuer, au sujet de tout actif ou toute affaire régie par la présente loi, et notamment la conduite des syndics ou des syndics agissant comme séquestres au sens du paragraphe 243(2) ou séquestres intérimaires, les investigations ou les enquêtes qu’il peut juger opportunes et, pour les besoins de celles-ci, lui-même ou la personne qu’il nomme à cet effet a accès à tous livres, registres, données sur support électronique ou autre, documents ou papiers pertinents se rattachant ou se rapportant à un actif ou à toute autre affaire régie par la présente loi, et a droit de les examiner et d’en tirer des copies;
+
+- f) reçoit et note toutes les plaintes émanant d’un créancier ou d’une autre personne intéressée dans un actif, et effectue, au sujet de ces plaintes, les investigations précises qu’il peut déterminer;
+
+- g) examine les comptes de recettes et de débours et les états définitifs des syndics.
+
+**Pouvoirs du surintendant**
+
+(4) Le surintendant peut :
+
+- a) intervenir dans toute affaire ou dans toute procédure devant le tribunal, lorsqu’il le juge à propos, comme s’il y était partie;
+
+- b) donner aux séquestres officiels, aux syndics, aux administrateurs au sens de la section II de la partie III et aux personnes chargées de donner des consultations au titre de la présente loi des instructions relatives à l’exercice de leurs fonctions, et notamment leur enjoindre de conserver certains dossiers et de lui fournir certains renseignements;
+
+- c) donner les instructions nécessaires à l’exécution de toute décision qu’il prend en vertu de la présente loi ou susceptibles de faciliter l’application de la présente loi et des Règles générales, et notamment en ce qui touche les attributions des syndics et des séquestres et celles des administrateurs au sens de l’article 66.11;
+
+- d) donner des instructions régissant les critères relatifs à la délivrance des licences de syndic, les qualités requises pour agir à titre de syndic et les activités des syndics;
+
+- d.1) donner des instructions régissant les règles applicables aux audiences visées à l’article 14.02;
+
+- e) prescrire, par instruction, la forme de documents requis pour l’application de la présente loi, ainsi que les renseignements à y porter.
+
+**Respect des instructions**
+
+(5) Les personnes visées par les instructions du surintendant sont tenues de s’y conformer.
+
+**Dérogation**
+
+(6) Les instructions données par le surintendant ne sont pas des textes réglementaires au sens de la *Loi sur les textes réglementaires*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 5; 1992, ch. 27, art. 5; 1997, ch. 12, art. 4; 2001, ch. 4, art. 26(A); 2005, ch. 47, art. 6
+
+</details>
+
+### 6 Assistance
+
+(1) Le surintendant peut engager les personnes qu’il estime nécessaires pour effectuer toute investigation ou enquête, ou pour prendre toute autre mesure nécessaire hors de son bureau. Les frais qui en découlent sont, une fois certifiés par le surintendant, payables sur les crédits affectés à son bureau.
+
+**Le surintendant peut examiner les comptes de banque**
+
+(2) Le surintendant, ou toute personne qu’il a dûment autorisée par écrit à agir en son nom, a droit d’accès aux comptes de banque d’un syndic où les fonds de l’actif ont été déposés, de les examiner et d’en prendre copie, et, lorsque la chose est requise, tous les bordereaux de dépôt, chèques annulés ou autres documents s’y rattachant, placés sous la garde de la banque ou du syndic, doivent être produits pour examen.
+
+**Examen et saisie de registres et documents**
+
+(3) Le surintendant, ou la personne dûment autorisée par écrit à agir en son nom, peut, avec la permission du tribunal donnée ex parte, examiner les livres, registres, documents et comptes de dépôts d’un syndic ou de toute autre personne désignée dans l’ordonnance, en vue de retrouver ou de découvrir les biens ou fonds d’un actif, lorsqu’il y a des motifs raisonnables de croire ou de soupçonner que les biens ou les fonds d’un actif n’ont pas été correctement déclarés ou que les mesures prises à leur égard n’ont pas été appropriées; à cette fin, en vertu d’un mandat du tribunal, il peut pénétrer dans tout lieu et y faire des perquisitions.
+
+**Interdiction de faire des paiements**
+
+(4) S’il est convaincu, sur demande faite ex parte par le surintendant, que cette mesure est dans l’intérêt public, le tribunal peut ordonner à une institution de dépôts qui détient des comptes de dépôts du syndic, ou à toute autre personne désignée dans l’ordonnance, de ne débiter ces comptes d’aucun paiement, tant qu’il n’en aura pas ordonné autrement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 6; 1997, ch. 12, art. 5; 2005, ch. 47, art. 7(A)
+
+</details>
+
+### 7 et 8
+
+[Abrogés, 1992, ch. 27, art. 6]
+
+### 9 Nomination d’employés
+
+Les employés requis pour aider le surintendant à exercer ses fonctions en vertu de la présente loi sont nommés conformément à la *Loi sur l’emploi dans la fonction publique*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 5
+
+</details>
+
+### 10 Investigations ou enquêtes du surintendant
+
+(1) Lorsque, sur la base de renseignements fournis par un séquestre officiel, un syndic ou une autre personne, il a des motifs raisonnables de soupçonner qu’une personne a commis, relativement à tout actif ou toute affaire régis par la présente loi, une infraction à celle-ci ou à toute autre loi fédérale, le surintendant peut, s’il lui apparaît que la prétendue infraction peut par ailleurs n’être l’objet d’aucune investigation ou enquête, effectuer ou faire effectuer les investigations ou enquêtes qu’il estime opportunes.
+
+(2) [Abrogé, 1992, ch. 27, art. 7]
+
+**Interrogatoire**
+
+(3) Sur assignation à comparaître délivrée à la demande du surintendant ou de son délégué, le surintendant peut, pour les besoins des investigations ou enquêtes prévues au paragraphe (1), interroger ou faire interroger sous serment devant le registraire du tribunal ou toute autre personne autorisée le syndic, le débiteur, toute personne dont il a des motifs raisonnables de soupçonner qu’elle a connaissance des affaires de ce dernier ou toute personne qui est ou a été un mandataire, commis, préposé, dirigeant, administrateur ou employé du syndic ou du débiteur au sujet de la conduite, des négociations et des transactions de ce dernier, des causes de sa faillite ou de son insolvabilité, de la disposition de ses biens ou de l’administration de l’actif, et peut ordonner à toute personne susceptible d’être ainsi interrogée de produire les livres, registres, données sur support électronique ou autre, documents ou papiers en sa possession ou sous sa responsabilité.
+
+**Questions**
+
+(4) Une personne interrogée en conformité avec le présent article est tenue de répondre à toutes les questions sur la conduite, les négociations ou les transactions du débiteur, les causes de sa faillite ou de son insolvabilité et la disposition de ses biens.
+
+**Privilège du témoin**
+
+(5) Lorsqu’une personne interrogée en conformité avec le présent article s’oppose à répondre à une question pour le motif que celle-ci pourrait tendre à l’incriminer ou à établir sa responsabilité dans une procédure civile à l’instance de Sa Majesté ou de qui que ce soit et si, sans le présent article ou l’article 5 de la *Loi sur la preuve au Canada*, cette personne eût été dispensée de répondre à cette question, la réponse ainsi donnée ne peut ni être invoquée ni être admissible en preuve contre elle dans des procédures civiles ou pénales, exercées par la suite, hors le cas de poursuites pour parjure en rendant ce témoignage.
+
+**Acquiescement**
+
+(6) Il est interdit d’entraver, de molester ou de gêner une personne dans l’accomplissement d’une chose qu’elle est autorisée à faire en vertu du présent article et en conformité avec celui-ci, ou d’empêcher ou de tenter d’empêcher une personne de faire toute semblable chose et, nonobstant toute autre loi ou règle de droit, toute personne doit, à moins qu’elle n’en soit incapable, accomplir tout ce qu’elle est tenue de faire en vertu du présent article et en conformité avec celui-ci.
+
+**Copies**
+
+(7) Lorsqu’un livre, registre, papier ou autre document est examiné ou produit en conformité avec le présent article, la personne qui fait l’examen, ou à qui ces documents sont produits, ou le surintendant peut en faire ou en faire faire une ou plusieurs copies, et un document censé être certifié par le surintendant, ou une personne autorisée par ce dernier à cette fin, comme étant une copie faite conformément au présent article est admissible en preuve et possède la même valeur probante que le document original aurait eue si la preuve en avait été établie de la façon ordinaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 10; 1992, ch. 27, art. 7; 2004, ch. 25, art. 10; 2005, ch. 47, art. 8
+
+</details>
+
+### 11 Signalement de l’infraction à l’autorité provinciale
+
+(1) Lorsque, après des investigations en conformité avec l’article 10 ou autrement, le surintendant a obtenu la preuve qu’une infraction a été commise relativement à tout actif ou toute affaire régis par la présente loi, il doit en faire rapport au sous-procureur général de la province en cause ou à la personne qui est dûment désignée à cette fin par ce sous-procureur général.
+
+**Frais**
+
+(2) Nonobstant l’article 136, tout recouvrement effectué à la suite d’enquêtes ou d’investigations que le surintendant a effectuées ou fait effectuer en conformité avec l’article 10, est appliqué au remboursement des frais que le surintendant a engagés à ce sujet, non ordinairement compris dans les frais de son bureau, et le solde qui subsiste par la suite sur le montant de ce recouvrement est placé à la disposition des créanciers du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 11; 1992, ch. 27, art. 8; 2004, ch. 25, art. 11(F)
+
+</details>
+
+### Registres publics
+
+### 11.1 Registres publics
+
+(1) Le surintendant conserve ou fait conserver, en la forme qu’il estime indiquée et pendant la période prescrite, un registre public :
+
+- a) des propositions;
+
+- b) des faillites;
+
+- c) des licences délivrées aux syndics et des nominations ou désignations d’administrateurs effectuées par lui;
+
+- d) des avis qui lui sont expédiés par les séquestres au titre du paragraphe 245(1).
+
+Il fournit, ou voit à ce qu’il soit fourni, à quiconque le demande tous renseignements figurant au registre, sur paiement des droits prescrits.
+
+**Autres dossiers**
+
+(2) Le surintendant conserve également, ou fait conserver, en la forme qu’il estime indiquée et pendant la période prescrite, les autres dossiers qu’il estime indiqués concernant l’administration de la présente loi.
+
+**Accord visant la fourniture d’une compilation**
+
+(3) Enfin, il peut conclure un accord visant la fourniture d’une compilation de tout ou partie des renseignements figurant au registre public.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 8; 2007, ch. 36, art. 3
+
+</details>
+
+### Séquestres officiels
+
+### 12 Districts et divisions de faillite
+
+(1) Pour l’application de la présente loi, chaque province constitue un district de faillite; le gouverneur en conseil peut diviser l’un de ces districts de faillite en plusieurs divisions de faillite, et les nommer ou les numéroter.
+
+**Séquestres officiels**
+
+(2) Le gouverneur en conseil nomme dans chaque division de faillite un ou plusieurs séquestres officiels qui sont réputés être des fonctionnaires du tribunal et qui possèdent et exercent les fonctions et responsabilités que prescrivent la présente loi et les Règles générales.
+
+**Rapport au surintendant**
+
+(3) Le séquestre officiel fait au surintendant, dans la forme prescrite, rapport de toute faillite qui a pris naissance dans sa division, et il notifie aussi au surintendant toute augmentation ou diminution subséquente de la garantie produite par le syndic.
+
+**Le registraire agit au nom du séquestre officiel**
+
+(4) En l’absence ou durant la maladie du séquestre officiel, ou en attendant la nomination d’un successeur lorsque le poste est vacant, le registraire du tribunal remplit les fonctions du séquestre officiel.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 8
+
+</details>
+
+### Syndics
+
+#### Délivrance de licences aux syndics
+
+### 13 Demande de licence
+
+(1) Quiconque désire obtenir une licence afin d’agir en qualité de syndic doit déposer au bureau du surintendant une demande de licence en la forme prescrite.
+
+**Conditions d’obtention**
+
+(2) Après avoir effectué à l’égard du demandeur les investigations qu’il estime nécessaires et déterminé, compte tenu des critères visés à l’alinéa 5(4)d), que celui-ci a les qualités requises, le surintendant peut lui délivrer une licence.
+
+**Inéligibilité**
+
+(3) Le surintendant peut refuser de délivrer une licence si le demandeur est insolvable ou s’il a été reconnu coupable d’un acte criminel dont la nature, selon lui, le rend inapte à agir comme fiduciaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 13; 1992, ch. 27, art. 9; 1997, ch. 12, art. 6; 2005, ch. 47, art. 9
+
+</details>
+
+### 13.1 Forme de la licence et conditions
+
+La licence est établie en la forme prescrite et mentionne le district de faillite, ou la partie de celui-ci, dans les limites duquel le syndic exerce ses fonctions et, le cas échéant, les conditions et restrictions que le surintendant estime indiqué d’imposer.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9; 1997, ch. 12, art. 7
+
+</details>
+
+### 13.2 Droits à payer
+
+(1) Le postulant paye les droits prescrits avant la délivrance de la licence.
+
+**Droits annuels**
+
+(2) Chaque année suivant la délivrance de la licence, les syndics payent les droits prescrits, au plus tard à la date prescrite ou, à défaut, au plus tard le 31 décembre.
+
+**Défaut**
+
+(3) Le défaut de paiement des droits ou la faillite du syndic entraîne l’annulation de la licence.
+
+**Nouvelle délivrance**
+
+(4) Le surintendant peut réactiver la licence d’un syndic devenue nulle :
+
+- a) pour défaut de payer les droits visés au paragraphe (2), sur justification écrite par l’intéressé et sur paiement des droits arriérés et des pénalités prescrites;
+
+- b) en raison de sa faillite, à la suite d’observations écrites de l’intéressé, aux conditions et restrictions qu’il estime indiqué d’imposer.
+
+**Suspension ou annulation**
+
+(5) Une licence peut être suspendue ou annulée par le surintendant :
+
+- a) si le syndic a été reconnu coupable d’un acte criminel dont la nature, selon lui, le rend inapte à agir comme fiduciaire;
+
+- b) si le syndic n’a pas observé l’une des conditions ou restrictions de sa licence;
+
+- c) si le syndic a cessé d’agir à ce titre;
+
+- d) à la demande du syndic.
+
+**Avis de la décision**
+
+(6) Au moins dix jours avant la prise d’effet de la décision qu’il se propose de prendre au titre du paragraphe (5), le surintendant envoie au syndic un préavis écrit mentionnant les motifs de sa décision.
+
+**Obligations**
+
+(7) En cas de suspension ou d’annulation de la licence au titre des paragraphes (3) ou (5), le surintendant peut imposer au syndic les obligations qu’il estime indiquées, notamment celle de fournir une garantie pour la protection de l’actif.
+
+**Non-application**
+
+(8) Il est entendu que l’article 14.02 ne s’applique pas à la suspension ou à l’annulation de la licence visée au paragraphe (5).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9; 1997, ch. 12, art. 8; 2004, ch. 25, art. 12; 2005, ch. 47, art. 10
+- 2019, ch. 29, art. 160
+
+</details>
+
+#### Conduite des syndics
+
+### 13.3 Incompatibilité
+
+(1) Sauf avec l’autorisation du tribunal et aux conditions qu’il peut fixer, ne peut agir à titre de syndic de l’actif d’un débiteur le syndic :
+
+- a) qui est ou, au cours des deux années précédentes, a été :
+  - (i) administrateur ou dirigeant du débiteur,
+  - (ii) employeur ou employé du débiteur ou d’un administrateur ou dirigeant de celui-ci,
+  - (iii) lié au débiteur ou à l’un de ses administrateurs ou dirigeants,
+  - (iv) vérificateur, comptable ou conseiller juridique du débiteur ou leur employé ou associé;
+
+- b) qui est :
+  - (i) le fondé de pouvoir aux termes d’un acte constitutif d’hypothèque — au sens du *Code civil du Québec* — émanant du débiteur ou d’une personne liée à celui-ci ou le fiduciaire aux termes d’un acte de fiducie émanant du débiteur ou d’une personne liée à celui-ci,
+  - (ii) lié au fondé de pouvoir ou au fiduciaire visé au sous-alinéa (i).
+
+**Avis au surintendant**
+
+(1.1) S’il demande l’autorisation visée au paragraphe (1), le syndic envoie sans délai une copie de sa demande au surintendant.
+
+**Divulgation obligatoire**
+
+(2) Sauf s’il a divulgué, lors de sa nomination et à la première assemblée des créanciers, ce lien et la possibilité de conflits d’intérêts, ne peut agir à titre de syndic à l’égard de l’actif d’un débiteur, le syndic qui est déjà :
+
+- a) syndic de la faillite ou de la proposition d’une personne liée au débiteur;
+
+- b) le séquestre au sens du paragraphe 243(2) ou le liquidateur des biens d’une personne liée au débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9; 1997, ch. 12, art. 9(F); 2004, ch. 25, art. 13; 2005, ch. 47, art. 11; 2007, ch. 36, art. 4(F)
+
+</details>
+
+### 13.4 Possibilité pour le syndic d’agir pour un créancier garanti
+
+(1) Le syndic d’un actif ne peut, pendant qu’il exerce ses fonctions, agir pour le compte d’un créancier garanti ni lui prêter son concours dans le but de faire valoir une réclamation contre l’actif ou d’exercer un droit afférent à la garantie détenue par ce créancier, notamment celui de la réaliser, à moins d’avoir obtenu l’avis écrit d’un conseiller juridique indépendant attestant que cette garantie est valide et exécutoire.
+
+**Avis du syndic**
+
+(1.1) Dès qu’il commence à agir pour le compte d’un créancier garanti ou à lui prêter son concours, le syndic avise le surintendant et soit les créanciers, soit les inspecteurs :
+
+- a) qu’il agit pour le compte du créancier garanti;
+
+- b) de la rémunération qu’il reçoit du créancier garanti;
+
+- c) de l’avis juridique.
+
+**Copie de l’avis juridique**
+
+(2) Dans les deux jours suivant une demande à cet effet, le syndic remet une copie de l’avis juridique au surintendant et une copie aux créanciers qui en ont fait la demande.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9; 1997, ch. 12, art. 10; 2004, ch. 25, art. 14(A); 2005, ch. 47, art. 12; 2007, ch. 36, art. 5
+
+</details>
+
+### 13.5 Code de déontologie
+
+Les syndics sont tenus de se conformer au code de déontologie prescrit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9; 2005, ch. 47, art. 13
+
+</details>
+
+### 13.6 Interdiction
+
+Le syndic ne peut retenir les services d’une personne :
+
+- a) soit dont le surintendant a annulé la licence aux termes de l’alinéa 13.2(5)a) ou du paragraphe 14.01(1);
+
+- b) soit qui est visée par une instruction donnée par le surintendant en vertu de l’alinéa 14.03(1)d).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 11; 2005, ch. 47, art. 13
+
+</details>
+
+#### Nomination et remplacement des syndics
+
+### 14 Nomination d’un syndic par les créanciers
+
+Les créanciers peuvent, par résolution spéciale à toute assemblée, nommer un autre syndic ou substituer un autre syndic au syndic désigné dans une cession, ordonnance de faillite ou proposition, ou autrement nommé ou substitué.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 14; 1992, ch. 27, art. 9; 2004, ch. 25, art. 15
+
+</details>
+
+### 14.01 Décision relative à la licence
+
+(1) Après avoir tenu ou fait tenir une investigation ou une enquête sur la conduite du syndic, le surintendant peut prendre l’une ou plusieurs des mesures énumérées ci-après, soit lorsque le syndic ne remplit pas adéquatement ses fonctions ou a été reconnu coupable de mauvaise administration de l’actif, soit lorsqu’il n’a pas observé la présente loi, les Règles générales, les instructions du surintendant ou toute autre règle de droit relative à la bonne administration de l’actif, soit lorsqu’il est dans l’intérêt public de le faire :
+
+- a) annuler ou suspendre la licence du syndic;
+
+- b) soumettre sa licence aux conditions ou restrictions qu’il estime indiquées, et notamment l’obligation de se soumettre à des examens et de les réussir ou de suivre des cours de formation;
+
+- c) ordonner au syndic de rembourser à l’actif toute somme qui y a été soustraite en raison de sa conduite;
+
+- d) ordonner au syndic de prendre toute mesure qu’il estime indiquée et que celui-ci a agréée.
+
+**Application aux anciens syndics**
+
+(1.1) Dans la mesure où ils sont applicables, le présent article et l’article 14.02 s’appliquent aux anciens syndics avec les adaptations nécessaires.
+
+**Délégation**
+
+(2) Le surintendant peut, par écrit et aux conditions qu’il précise dans cet écrit, déléguer tout ou partie des attributions que lui confèrent respectivement le paragraphe (1), les paragraphes 13.2(5), (6) et (7) et les articles 14.02 et 14.03.
+
+**Notification**
+
+(3) En cas de délégation aux termes du paragraphe (2), le surintendant ou le délégué doit :
+
+- a) dans la mesure où la délégation vise les syndics en général, en aviser tous les syndics par écrit;
+
+- b) en tout état de cause, aviser par écrit, avant l’exercice du pouvoir qui fait l’objet de la délégation ou lors de son exercice, tout syndic qui pourrait être touché par l’exercice de ce pouvoir.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9; 1997, ch. 12, art. 12; 2005, ch. 47, art. 14; 2007, ch. 36, art. 6
+
+</details>
+
+### 14.02 Avis au syndic
+
+(1) Avant de décider de prendre l’une ou plusieurs des mesures visées au paragraphe 14.01(1), le surintendant envoie au syndic un avis écrit et motivé de la ou des mesures qu’il peut prendre et lui donne la possibilité de se faire entendre.
+
+**Convocation de témoins**
+
+(1.1) Il peut, aux fins d’audition, convoquer des témoins par assignation leur enjoignant :
+
+- a) de comparaître aux date, heure et lieu indiqués;
+
+- b) de témoigner sur tous faits connus d’eux se rapportant à l’investigation ou à l’enquête sur la conduite du syndic;
+
+- c) de produire tous livres, registres, données, documents ou papiers, sur support électronique ou autre, qui se rapportent à l’investigation ou à l’enquête et dont ils ont la possession ou la responsabilité.
+
+**Effet**
+
+(1.2) Les assignations visées au paragraphe (1.1) ont effet sur tout le territoire canadien.
+
+**Frais et indemnité**
+
+(1.3) Toute personne assignée reçoit les frais et indemnités accordés aux témoins assignés devant la Cour fédérale.
+
+**Procédure de l’audition**
+
+(2) Lors de l’audition, le surintendant :
+
+- a) peut faire prêter serment;
+
+- b) n’est lié par aucune règle juridique ou procédurale en matière de preuve;
+
+- c) règle les questions exposées dans l’avis d’audition avec célérité et sans formalisme, eu égard aux circonstances et à l’équité;
+
+- d) fait établir un résumé écrit de toute preuve orale.
+
+**Dossier et audition**
+
+(3) L’audition et le dossier de l’audition sont publics à moins que le surintendant ne juge que la nature des révélations possibles sur des questions personnelles ou autres est telle que, en l’espèce, l’intérêt d’un tiers ou l’intérêt public l’emporte sur le droit du public à l’information. Le dossier de l’audition comprend l’avis prévu au paragraphe (1), le résumé de la preuve orale visé à l’alinéa (2)d) et la preuve documentaire reçue par le surintendant.
+
+**Décision**
+
+(4) La décision du surintendant est rendue par écrit, motivée et remise au syndic dans les trois mois suivant la clôture de l’audition, et elle est publique.
+
+**Examen de la Cour fédérale**
+
+(5) La décision du surintendant, rendue et remise conformément au paragraphe (4), est assimilée à celle d’un office fédéral et comme telle est soumise au pouvoir d’examen et d’annulation prévu à la *Loi sur les Cours fédérales*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9; 1997, ch. 12, art. 13; 2002, ch. 8, art. 182; 2005, ch. 47, art. 15; 2007, ch. 36, art. 7
+
+</details>
+
+### 14.03 Mesures conservatoires
+
+(1) Pour assurer la sauvegarde d’un actif ou des droits des créanciers ou du débiteur, le surintendant peut, sous réserve du paragraphe (2) :
+
+- a) donner instruction à quiconque de s’occuper des biens de l’actif visé dans les instructions conformément aux modalités qui y sont indiquées, notamment d’en continuer l’administration;
+
+- b) donner instruction à quiconque de prendre les mesures qu’il estime nécessaires à la sauvegarde des livres, registres, données sur support électronique ou autre, et documents de l’actif;
+
+- c) donner instruction à une banque ou autre dépositaire de ne faire aucun paiement sur les fonds détenus au crédit de cet actif, si ce n’est conformément à l’instruction;
+
+- d) donner instruction au séquestre officiel de ne plus nommer le syndic en cause pour administrer de nouveaux actifs tant qu’une décision n’est pas rendue au titre des paragraphes 13.2(5) ou 14.01(1).
+
+**Circonstances**
+
+(2) Le surintendant peut exercer les pouvoirs visés au paragraphe (1) dans les circonstances suivantes :
+
+- a) le décès, la destitution ou l’empêchement du syndic responsable de l’actif;
+
+- b) la tenue des investigations ou des enquêtes prévues à l’alinéa 5(3)e);
+
+- c) l’exercice par lui des pouvoirs visés à l’article 14.01;
+
+- d) le défaut de paiement de droits prévus au paragraphe 13.2(2) à l’égard de la licence du syndic;
+
+- e) l’insolvabilité du syndic;
+
+- f) le syndic a été reconnu coupable d’un acte criminel dont la nature, selon lui, le rend inapte à agir comme fiduciaire ou il n’a pas observé l’une des conditions ou restrictions de sa licence;
+
+- g) le fait qu’il envisage d’annuler la licence du syndic au titre des alinéas 13.2(5)c) ou d).
+
+**Teneur et effet des instructions**
+
+(3) Les instructions énoncent la disposition législative conformément à laquelle elles sont données, lient leur destinataire et font pleinement foi de leur contenu en faveur de leur destinataire.
+
+**Suppression de la responsabilité**
+
+(4) Quiconque obtempère aux instructions données en application du paragraphe (1) échappe à toute responsabilité pour les actes posés dans le seul but de s’y conformer.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9; 1997, ch. 12, art. 14; 1999, ch. 31, art. 18(A); 2005, ch. 47, art. 16; 2007, ch. 36, art. 8(F)
+
+</details>
+
+### 14.04 Révocation et nomination
+
+Le tribunal, à la demande de tout intéressé, peut révoquer pour un motif suffisant un syndic et nommer à sa place un autre syndic autorisé.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9
+
+</details>
+
+### 14.05 Localité sans syndic autorisé
+
+Lorsque le débiteur réside ou exerce un commerce dans une localité où il n’y a pas de syndic autorisé, et qu’il est impossible d’en trouver un qui consente à agir comme syndic, le tribunal ou le séquestre officiel peut nommer une personne digne de confiance résidant dans la localité du débiteur pour administrer l’actif de celui-ci, et, à cette fin, cette personne possède tous les pouvoirs que la présente loi accorde à un syndic autorisé, et les dispositions de la présente loi s’appliquent à cette personne tout comme si elle avait été régulièrement autorisée en vertu de l’alinéa 5(3)a).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9
+
+</details>
+
+### 14.06 Non-obligation du syndic
+
+(1) Le syndic n’est pas tenu d’assumer les fonctions de syndic relativement à des cessions, à des ordonnances de faillite ou à des propositions concordataires; toutefois, dès qu’il accepte sa nomination à ce titre, il doit accomplir les fonctions que la présente loi lui impose, jusqu’à ce qu’il ait été libéré ou qu’un autre syndic ait été nommé à sa place.
+
+**Application**
+
+(1.1) Les paragraphes (1.2) à (6) s’appliquent également aux syndics agissant dans le cadre d’une faillite ou d’une proposition ainsi qu’aux personnes suivantes :
+
+- a) les séquestres intérimaires;
+
+- b) les séquestres au sens du paragraphe 243(2);
+
+- c) les autres personnes qui sont nommément habilitées à prendre — ou ont pris légalement — la possession ou la responsabilité d’un bien acquis ou utilisé par une personne insolvable ou un failli dans le cadre de ses affaires.
+
+**Immunité**
+
+(1.2) Par dérogation au droit fédéral et provincial, le syndic qui, en cette qualité, continue l’exploitation de l’entreprise du débiteur ou lui succède comme employeur est dégagé de toute responsabilité personnelle découlant de quelque obligation du débiteur, notamment à titre d’employeur successeur, si celle-ci, à la fois :
+
+- a) l’oblige envers des employés ou anciens employés du débiteur, ou de l’un de ses prédécesseurs, ou découle d’un régime de pension pour le bénéfice de ces employés;
+
+- b) existait avant sa nomination ou est calculée sur la base d’une période la précédant.
+
+**Obligation exclue des frais**
+
+(1.3) L’obligation visée au paragraphe (1.2) ne peut être imputée à l’actif au titre des frais d’administration.
+
+**Responsabilité de l’employeur successeur**
+
+(1.4) Le paragraphe (1.2) ne dégage aucun employeur successeur, autre que le syndic, de sa responsabilité.
+
+**Responsabilité en matière d’environnement**
+
+(2) Par dérogation au droit fédéral et provincial, le syndic est, ès qualités, dégagé de toute responsabilité personnelle découlant de tout fait ou dommage lié à l’environnement survenu avant ou après sa nomination, sauf celui causé par sa négligence grave ou son inconduite délibérée ou, dans la province de Québec, par sa faute lourde ou intentionnelle.
+
+**Rapports**
+
+(3) Le paragraphe (2) n’a pas pour effet de soustraire le syndic à une obligation de faire rapport ou de communiquer des renseignements prévue par le droit applicable en l’espèce.
+
+**Immunité — ordonnances**
+
+(4) Par dérogation au droit fédéral et provincial, mais sous réserve du paragraphe (2), le syndic est, ès qualités, dégagé de toute responsabilité personnelle découlant du non-respect de toute ordonnance de réparation de tout fait ou dommage lié à l’environnement et touchant un bien visé par une faillite, une proposition ou une mise sous séquestre administrée par un séquestre, et de toute responsabilité personnelle relativement aux frais engagés par toute personne exécutant l’ordonnance :
+
+- a) si, dans les dix jours suivant l’ordonnance ou dans le délai fixé par celle-ci, dans les dix jours suivant sa nomination si l’ordonnance est alors en vigueur ou pendant la durée de la suspension visée à l’alinéa b) :
+  - (i) il s’y conforme,
+  - (ii) il abandonne, après avis à la personne ayant rendu l’ordonnance, tout droit sur l’immeuble en cause ou tout intérêt sur le bien réel en cause, en dispose ou s’en dessaisit;
+
+- b) pendant la durée de la suspension de l’ordonnance qui est accordée, sur demande présentée dans les dix jours suivant l’ordonnance visée à l’alinéa a) ou dans le délai fixé par celle-ci, ou dans les dix jours suivant sa nomination si l’ordonnance est alors en vigueur :
+  - (i) soit par le tribunal ou l’autorité qui a compétence relativement à l’ordonnance, en vue de permettre au syndic de la contester,
+  - (ii) soit par le tribunal qui a compétence en matière de faillite, en vue d’évaluer les conséquences économiques du respect de l’ordonnance;
+
+- c) si, avant que l’ordonnance ne soit rendue, il avait abandonné tout droit sur l’immeuble en cause ou tout intérêt sur le bien réel en cause ou y avait renoncé, ou s’en était dessaisi.
+
+**Suspension**
+
+(5) En vue de permettre au syndic d’évaluer les conséquences économiques du respect de l’ordonnance, le tribunal peut en ordonner la suspension après avis et pour la période qu’il estime indiqués.
+
+**Frais**
+
+(6) Si le syndic a abandonné tout droit sur l’immeuble en cause ou tout intérêt sur le bien réel en cause ou y a renoncé, les réclamations pour les frais de réparation du fait ou dommage lié à l’environnement et touchant le bien ne font pas partie des frais d’administration.
+
+**Priorité des réclamations**
+
+(7) En cas de faillite, de proposition ou de mise sous séquestre administrée par un séquestre, toute réclamation de Sa Majesté du chef du Canada ou d’une province contre le débiteur pour les frais de réparation du fait ou dommage lié à l’environnement et touchant un de ses immeubles ou biens réels est garantie par une sûreté sur le bien en cause et sur ceux qui sont contigus à celui où le dommage est survenu et qui sont liés à l’activité ayant causé le fait ou le dommage; la sûreté peut être exécutée selon le droit du lieu où est situé le bien comme s’il s’agissait d’une hypothèque ou autre garantie sur celui-ci et, par dérogation aux autres dispositions de la présente loi et à toute règle de droit fédéral et provincial, a priorité sur tout autre droit, charge, sûreté ou réclamation visant le bien.
+
+**Précision**
+
+(8) Malgré le paragraphe 121(1), la réclamation pour les frais de réparation du fait ou dommage lié à l’environnement et touchant l’immeuble ou le bien réel du débiteur constitue une réclamation prouvable, que la date du fait ou dommage soit antérieure ou postérieure à celle de la faillite ou du dépôt de la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9; 1997, ch. 12, art. 15; 2004, ch. 25, art. 16; 2005, ch. 47, art. 17; 2007, ch. 36, art. 9
+
+</details>
+
+### 14.07 Vice ou irrégularité dans la nomination
+
+Aucune erreur ou irrégularité dans la nomination d’un syndic ne vicie un acte accompli de bonne foi par lui.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9
+
+</details>
+
+#### Sociétés
+
+### 14.08 Administrateurs titulaires de licences
+
+Une personne morale ne peut être titulaire d’une licence de syndic que si la majorité de ses administrateurs et la majorité de ses dirigeants sont titulaires d’une telle licence.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9
+
+</details>
+
+### 14.09 Actes des personnes morales
+
+La personne morale titulaire d’une licence de syndic ne peut exercer ses fonctions à ce titre que par l’intermédiaire d’un de ses administrateurs ou dirigeants qui est lui-même titulaire d’une telle licence.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9
+
+</details>
+
+### 14.1 Distinction entre les sociétés de fiducie
+
+Toute personne morale de droit fédéral, titulaire d’une licence de syndic, peut exercer les fonctions de syndic sur tout le territoire du Canada; elle n’est pas, à cet égard, assimilée à une société de fiducie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 9
+
+</details>
+
+#### Nom officiel
+
+### 15 Nom officiel du syndic
+
+Le nom officiel d’un syndic agissant en matière de faillite est « Le syndic de l’actif de (*insérer le nom du failli*), failli » et le nom officiel d’un syndic agissant relativement à une proposition faite par une personne insolvable est « Le syndic agissant *in re* : la proposition de (*insérer le nom du débiteur*) ».
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 11
+
+</details>
+
+#### Statut du syndic
+
+### 15.1 Déclaration
+
+Le syndic est réputé être un fiduciaire pour l’application de la définition de **fiduciaire** à l’article 2 du *Code criminel*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 16; 2004, ch. 25, art. 17(F)
+
+</details>
+
+#### Fonctions et pouvoirs des syndics
+
+### 16 Fourniture d’une garantie par le syndic
+
+(1) Tout syndic régulièrement nommé fournit aussitôt une garantie — en espèces ou sous forme de lettre de garantie d’une compagnie de garantie —, agréée par le séquestre officiel, garantissant qu’il rendra régulièrement compte de tous biens reçus par lui en qualité de syndic, ainsi que du paiement et du transfert de ces biens, et qu’il remplira diligemment et fidèlement ses fonctions.
+
+**Modalités de la garantie**
+
+(2) La garantie doit être fournie au séquestre officiel et donnée en faveur des créanciers en général, et elle peut être exécutée par tout syndic subséquent ou par n’importe lequel des créanciers pour le compte de tous, sur instructions du tribunal; le montant de la garantie peut être augmenté ou réduit par le séquestre officiel.
+
+**Le syndic prend possession et dresse inventaire**
+
+(3) Le plus tôt possible, le syndic prend possession des titres, livres, dossiers et documents, ainsi que de tous les biens du failli, et dresse un inventaire; pour lui permettre de préparer un inventaire, il a le droit, sous réserve du paragraphe (3.1), de pénétrer en tout lieu où peuvent se trouver les titres, livres, dossiers, documents ou biens du failli, quoiqu’ils puissent être en la possession d’un huissier-exécutant, d’un créancier garanti ou d’une autre personne qui les réclame.
+
+**Mandat obligatoire**
+
+(3.1) Lorsque les lieux sont occupés par une autre personne que le failli, le syndic ne peut toutefois y pénétrer sans l’autorisation de l’occupant que s’il est muni du mandat prévu à l’article 189.
+
+**Le syndic agit comme séquestre**
+
+(4) En vue et aux fins d’acquérir ou de retenir la possession des biens du failli, le syndic est dans la même position que s’il était un séquestre des biens nommé par le tribunal, et le tribunal peut, à la requête du syndic, rendre exécutoire cette acquisition ou rétention.
+
+**Droit aux livres**
+
+(5) Nul ne peut, à l’encontre du syndic, retenir la possession de livres de comptes appartenant au failli, de tout papier ou document — sur support électronique ou autre — se rapportant aux comptes ou à des opérations commerciales du failli, ni les assujettir à un privilège ou à un droit de rétention.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 16; L.R. (1985), ch. 31 (1 ^er^ suppl.), art. 3; 1994, ch. 26, art. 7; 1997, ch. 12, art. 17; 2004, ch. 25, art. 18
+
+</details>
+
+### 17 Biens à remettre au syndic
+
+(1) Si une personne a en sa possession ou en son pouvoir des biens du failli qu’elle n’est pas légalement justifiée de retenir à l’encontre du failli ou du syndic, elle les remet au syndic.
+
+**Pouvoir d’agir partout**
+
+(2) Afin d’obtenir la possession des biens du failli et d’en réaliser la valeur, un syndic a le pouvoir d’agir n’importe où comme syndic.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 12
+
+</details>
+
+### 18 Mesures conservatoires
+
+Quand les intérêts de l’actif du failli l’exigent, le syndic peut :
+
+- a) prendre des mesures conservatoires et disposer sommairement de biens sujets à s’avarier ou susceptibles de dépréciation rapide;
+
+- b) exercer le commerce du failli jusqu’au jour fixé pour la première assemblée des créanciers.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 12
+
+</details>
+
+### 19 Assistance juridique
+
+(1) Le syndic peut, antérieurement à la première assemblée des créanciers, obtenir un avis juridique et prendre les procédures judiciaires qu’il peut juger nécessaires pour recouvrer ou protéger les biens du failli.
+
+**En cas d’urgence**
+
+(2) Dans un cas d’urgence où il est impossible d’obtenir des inspecteurs, en temps utile, l’autorisation requise pour prendre les mesures qui s’imposent, le syndic peut obtenir l’opinion d’un conseiller juridique, intenter les procédures judiciaires et prendre les mesures qu’il juge nécessaires dans l’intérêt de l’actif.
+
+(3) [Abrogé, 2005, ch. 47, art. 18]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 19; 2004, ch. 25, art. 19(F); 2005, ch. 47, art. 18
+
+</details>
+
+### 20 Renonciation des syndics
+
+(1) Le syndic peut, avec la permission des inspecteurs, renoncer à la totalité ou une partie de son droit, titre ou intérêt visant un immeuble ou un bien réel du failli au moyen d’un avis de renonciation; le fonctionnaire responsable du bureau compétent où a été consigné le titre afférent au bien doit, sur présentation de l’avis, l’accepter et le consigner sur le registre foncier.
+
+**Effet de l’avis**
+
+(2) La consignation emporte mainlevée ou libération de tous documents antérieurement consignés sur le registre foncier par le syndic, ou en son nom, relativement aux biens mentionnés dans l’avis.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 20; 1997, ch. 12, art. 18; 2004, ch. 25, art. 20
+
+</details>
+
+### 21 Vérification du bilan du failli
+
+Le syndic vérifie le bilan du failli mentionné à l’alinéa 158d).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 21; 2005, ch. 47, art. 19
+
+</details>
+
+### 22 Obligations du syndic à l’égard des déclarations
+
+Le syndic n’est pas tenu de faire une déclaration que le failli était requis de faire plus d’un an avant le début de l’année civile, ou de l’exercice du failli lorsqu’il diffère de l’année civile, au cours de laquelle il a fait faillite.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 12
+
+</details>
+
+### 23 Le syndic doit permettre l’examen de documents
+
+Le syndic doit, à toute heure convenable, permettre à une personne autorisée d’examiner les livres et papiers du failli aux fins de préparer ou de vérifier des déclarations que la loi enjoint au failli de produire.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 12
+
+</details>
+
+### 24 Le syndic doit assurer l’actif
+
+(1) Le syndic doit immédiatement assurer à titre temporaire et tenir assurés, en son nom officiel, tous les biens assurables du failli pour telle somme et contre tels risques qu’il peut juger à propos jusqu’à ce que les inspecteurs aient été nommés. Dès lors, les inspecteurs déterminent le montant pour lequel le syndic assure les biens du failli, ainsi que les risques contre lesquels le syndic assure ces biens.
+
+**Pertes payables au syndic**
+
+(2) Toute assurance couvrant des biens du failli, et en vigueur à la date de la faillite, devient, dès lors, sans avis à l’assureur ni autre acte de la part du syndic, et nonobstant toute loi, règle de droit, contrat ou disposition à l’effet contraire, dans le cas de pertes subies, payable au syndic comme si le nom du syndic était écrit dans la police ou contrat d’assurance comme étant celui de l’assuré, ou comme si aucun changement de titre ou de propriété ne s’était produit et que le syndic fût l’assuré.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 13
+
+</details>
+
+### 25 Compte en fiducie
+
+(1) Lorsqu’il exerce les pouvoirs que lui confère la présente loi, le syndic dépose sans délai dans une banque tous les fonds reçus pour le compte de chaque actif dans un compte en fiducie ou en fidéicommis distinct.
+
+**Assurance obligatoire**
+
+(1.1) Ces fonds ne peuvent être déposés dans une institution de dépôt, autre qu’une banque au sens de l’article 2, que s’il s’agit d’une institution dont les dépôts sont assurés ou garantis en vertu d’un texte législatif fédéral ou provincial qui protège les déposants contre la perte de leur dépôt.
+
+**Fonds à l’étranger**
+
+(1.2) Si les fonds se trouvent à l’étranger le syndic, sur autorisation du surintendant, peut les y déposer dans une institution semblable à une banque.
+
+**Permission nécessaire pour certains actes**
+
+(1.3) Le syndic ne peut effectuer aucun retrait de fonds sur le compte en fiducie ou en fidéicommis d’un actif, sans la permission écrite des inspecteurs ou, sur demande, celle du tribunal, sauf en cas de paiement de dividendes ou de frais se rapportant à l’administration de l’actif.
+
+**Paiements par chèques**
+
+(2) Ces paiements faits par un syndic sont opérés au moyen de chèques tirés sur le compte de l’actif ou de la manière qui peut être spécifiée par les instructions du surintendant.
+
+**Versement au compte personnel interdit**
+
+(3) Le syndic ne peut verser à son compte de banque personnel les fonds qu’il a reçus dans l’exercice des pouvoirs que lui confère la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 25; 1992, ch. 27, art. 10; 1997, ch. 12, art. 19; 2005, ch. 47, art. 20; 2017, ch. 26, art. 5
+
+</details>
+
+### 26 Le syndic tient des livres
+
+(1) Le syndic tient des livres et registres convenables de l’administration de chaque actif auquel il est commis, dans lesquels sont inscrits tous les montants d’argent reçus ou payés par lui, une liste de tous les créanciers produisant des réclamations, en indiquant le montant de ces dernières et comment il en a été disposé, ainsi qu’une copie de tous les avis expédiés et une copie signée de tout procès-verbal, de toutes procédures entamées et résolutions adoptées à une assemblée de créanciers ou d’inspecteurs, de toutes les ordonnances du tribunal et toutes autres matières ou procédures qui peuvent être nécessaires pour fournir un aperçu complet de son administration de l’actif.
+
+**Les livres du syndic appartiennent à l’actif**
+
+(2) Les livres, registres et documents de l’actif concernant l’administration d’un actif sont considérés comme étant la propriété de l’actif et, advenant un changement de syndic, ils sont immédiatement remis au syndic substitué.
+
+**Examen des livres**
+
+(3) Le syndic doit permettre que les livres, registres et documents de l’actif soient examinés et que des copies en soient prises par le surintendant, le failli ou un créancier ou leurs représentants à toute heure convenable.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 26; 1997, ch. 12, art. 20; 2004, ch. 25, art. 21
+- 2019, ch. 29, art. 161
+
+</details>
+
+### 27 Rapports du syndic
+
+(1) Le syndic doit à l’occasion faire rapport sur l’état de l’actif du failli, les sommes en caisse, s’il en est, et les détails de tout bien restant invendu :
+
+- a) à chaque créancier, lorsque les inspecteurs l’en requièrent;
+
+- b) à un créancier en particulier, lorsque ce créancier l’en requiert;
+
+- c) au surintendant ou aux créanciers, lorsque le surintendant l’en requiert.
+
+**Débours**
+
+(2) Pour la préparation et la remise de ce rapport, le syndic n’a droit de se faire payer sur l’actif du failli que ses débours réels.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 13
+
+</details>
+
+### 28 Documents à remettre au surintendant
+
+(1) Après leur réception ou préparation, le syndic expédie au surintendant, sans délai et de la manière prescrite, une copie conforme des documents mentionnés à l’article 155 et une copie conforme des documents suivants :
+
+- a) l’avis mentionné à l’article 102;
+
+- b) le bilan mentionné à l’alinéa 158d);
+
+- c) l’état définitif, préparé par le syndic, des recettes et des débours, ainsi que du bordereau de dividendes;
+
+- d) chaque ordonnance rendue par le tribunal sur la demande de libération d’un failli ou annulant une faillite.
+
+Il produit en outre au tribunal une copie des documents mentionnés aux alinéas b) et c).
+
+**Avis, etc. sont communiqués au surintendant**
+
+(2) Le syndic expédie promptement au surintendant des copies de tous avis, rapports et relevés adressés par lui aux créanciers et, lorsqu’il en est requis, des copies de tous autres documents que le surintendant peut spécifier.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 28; 1992, ch. 1, art. 12, ch. 27, art. 11; 2005, ch. 47, art. 21
+
+</details>
+
+### 29 Obligations du syndic à l’expiration de sa licence ou à sa révocation
+
+(1) En cas d’annulation, notamment pour défaut de paiement des droits, ou de suspension de sa licence, de révocation, de décès ou d’empêchement, le syndic, ou son représentant légal, fait parvenir au surintendant, dans le délai fixé par celui-ci, un état financier détaillé des recettes et débours, avec inventaire des biens non liquidés de chaque actif sous son administration et à l’égard desquels il n’a pas été libéré, avec un rapport sur de tels biens; il fait parvenir au syndic qui peut être nommé à sa place, ou en attendant la nomination d’un syndic, au séquestre officiel tout le reliquat des biens de chaque actif sous son administration, ainsi que tous livres, registres et documents s’y rapportant.
+
+(2) [Abrogé, 2005, ch. 47, art. 22]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 29; 1997, ch. 12, art. 21; 2005, ch. 47, art. 22
+
+</details>
+
+### 30 Pouvoirs du syndic avec la permission des inspecteurs
+
+(1) Avec la permission des inspecteurs, le syndic peut :
+
+- a) vendre ou autrement aliéner, à tel prix ou moyennant telle autre contrepartie que peuvent approuver les inspecteurs, tous les biens ou une partie des biens du failli, y compris l’achalandage, s’il en est, ainsi que les créances comptables échues ou à échoir au crédit du failli, par soumission, par enchère publique ou de gré à gré, avec pouvoir de transférer la totalité de ces biens et créances à une personne ou à une compagnie, ou de les vendre par lots;
+
+- b) donner à bail des immeubles ou des biens réels;
+
+- c) continuer le commerce du failli, dans la mesure où la chose peut être nécessaire pour la liquidation avantageuse de l’actif;
+
+- d) intenter ou contester toute action ou autre procédure judiciaire se rapportant aux biens du failli;
+
+- e) employer un avocat ou autre représentant pour engager des procédures ou pour entreprendre toute affaire que les inspecteurs peuvent approuver;
+
+- f) accepter comme contrepartie pour la vente de tout bien du failli une somme d’argent payable à une date future, sous réserve des stipulations que les inspecteurs jugent convenables quant à la garantie ou à d’autres égards;
+
+- g) contracter des obligations, emprunter de l’argent et fournir des garanties sur tout bien du failli par voie d’hypothèque, de charge, de privilège, de cession, de nantissement ou autrement, telles obligations devant être libérées et tel argent emprunté devant être remboursé avec intérêt sur les biens du failli, avec priorité sur les réclamations des créanciers;
+
+- h) transiger sur toute dette due au failli et la régler;
+
+- i) transiger sur toute réclamation faite par ou contre l’actif;
+
+- j) partager en nature, parmi les créanciers et selon sa valeur estimative, un bien qui, à cause de sa nature particulière ou d’autres circonstances spéciales, ne peut être promptement ni avantageusement vendu;
+
+- k) décider de retenir, durant la totalité ou durant une partie de la période restant à courir, ou de céder, abandonner ou résilier tout bail ou autre droit ou intérêt provisoire se rattachant à un bien du failli;
+
+- l) nommer le failli pour aider à l’administration de l’actif de la manière et aux conditions que les inspecteurs peuvent ordonner.
+
+**Portée de la permission**
+
+(2) La permission n’est pas une permission générale visant tous les pouvoirs mentionnés, mais est restreinte à un ou plusieurs pouvoirs précisés, ou à une catégorie de pouvoirs précisés.
+
+**Absence d’inspecteur**
+
+(3) Si aucun inspecteur n’est nommé, le syndic peut prendre de son propre chef les mesures visées au paragraphe (1).
+
+**Disposition en faveur de personnes liées**
+
+(4) Le syndic ne peut disposer — notamment par vente — les biens du failli en faveur d’une personne liée à celui-ci qu’avec l’autorisation du tribunal.
+
+**Personnes liées**
+
+(5) Pour l’application du paragraphe (4), les personnes ci-après sont considérées comme liées au failli qui n’est pas une personne physique :
+
+- a) le dirigeant ou l’administrateur de celui-ci;
+
+- b) la personne qui, directement ou indirectement, en a ou en a eu le contrôle de fait;
+
+- c) la personne liée à toute personne visée aux alinéas a) ou b).
+
+**Facteurs à prendre en considération**
+
+(6) Pour décider s’il accorde l’autorisation, le tribunal prend en considération, entre autres, les facteurs suivants :
+
+- a) la justification des circonstances ayant mené au projet de disposition;
+
+- b) la suffisance des consultations menées auprès des créanciers;
+
+- c) les effets du projet de disposition sur les droits de tout intéressé, notamment les créanciers;
+
+- d) le caractère juste et raisonnable de la contrepartie reçue pour les biens compte tenu de leur valeur marchande;
+
+- e) la suffisance et l’authenticité des efforts déployés pour disposer des biens en faveur d’une personne qui n’est pas liée au failli;
+
+- f) le caractère plus avantageux de la contrepartie offerte pour les biens par rapport à celle qui découlerait de toute autre offre reçue dans le cadre du projet de disposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 30; 1997, ch. 12, art. 22(F); 2004, ch. 25, art. 22; 2005, ch. 47, art. 23; 2007, ch. 36, art. 10
+
+</details>
+
+### 31 Pouvoir d’emprunter avec la permission du tribunal
+
+(1) Avec la permission du tribunal, le séquestre intérimaire, le séquestre au sens du paragraphe 243(2) ou le syndic peut consentir des avances nécessaires ou opportunes, contracter des obligations, emprunter de l’argent et donner une garantie sur les biens du débiteur aux montants, selon les conditions et sur les biens que le tribunal autorise. Ces avances, obligations et emprunts sont remboursés sur les biens du débiteur et ont priorité sur les réclamations des créanciers.
+
+**Garantie d’après la *Loi sur les banques***
+
+(2) En vue de donner une garantie en vertu de l’article 427 de la *Loi sur les banques*, le séquestre intérimaire, le séquestre ou le syndic, s’il continue le commerce du failli, est réputé être une personne engagée dans le genre de commerce antérieurement exercé par le failli.
+
+**Limitation des obligations et de la poursuite du commerce**
+
+(3) Il est loisible aux créanciers ou aux inspecteurs, au moyen d’une résolution, de limiter le montant des obligations susceptibles d’être contractées, les avances qui peuvent être consenties ou les sommes d’argent qui peuvent être empruntées par le syndic, et de limiter la période durant laquelle le syndic a la faculté de continuer le commerce du failli.
+
+**Les dettes sont tenues pour dettes de l’actif**
+
+(4) Toute dette contractée et tout crédit reçu dans la continuation du commerce d’un failli sont réputés une dette contractée et un crédit reçu par l’actif.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 31; 1991, ch. 46, art. 584; 2005, ch. 47, art. 24
+
+</details>
+
+### 32 Le syndic n’est pas tenu de poursuivre le commerce
+
+Le syndic n’est pas tenu de continuer le commerce du failli s’il est d’avis que la valeur réalisable des biens est insuffisante pour le protéger complètement contre la possibilité de pertes occasionnées par la continuation du commerce, et si les créanciers ou les inspecteurs, sur demande faite par le syndic, négligent ou refusent de lui donner des garanties contre la possibilité de pareilles pertes.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 15
+
+</details>
+
+### 33 Remboursement des avances du syndic
+
+Le tribunal peut rendre une ordonnance visant la vente de la totalité ou d’une partie des avoirs de l’actif du failli, soit par soumission, vente de gré à gré ou enchère publique. Cette ordonnance énonce les conditions de la vente et prescrit que le produit de celle-ci soit utilisé afin de rembourser le syndic de tous frais qui peuvent lui être dus ou de toutes sommes d’argent qu’il peut avoir avancées à titre de débours dans l’intérêt de l’actif.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 33; 2005, ch. 47, art. 25
+
+</details>
+
+### 34 Le syndic peut demander des instructions au tribunal
+
+(1) Un syndic peut demander au tribunal des instructions relativement à toute question touchant l’administration de l’actif d’un failli, et le tribunal donne par écrit les instructions, s’il en est, qui peuvent être appropriées aux circonstances.
+
+**Rapport au tribunal après trois ans**
+
+(2) Lorsque l’administration d’un actif n’est pas terminée dans les trois ans qui suivent la faillite, le syndic, si le surintendant lui en fait la demande, présente au tribunal dans les meilleurs délais un rapport à cet effet, et le tribunal rend l’ordonnance qu’il juge opportune aux fins de hâter la liquidation.
+
+**Envoi au bureau de la division**
+
+(3) Le syndic envoie au bureau de la division un avis de la date et de l’heure de l’audition de la demande d’instructions visée au paragraphe (1) et de la présentation du rapport visé au paragraphe (2).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 34; 1992, ch. 27, art. 12; 2005, ch. 47, art. 26
+
+</details>
+
+### 35 Réexpédition du courrier
+
+(1) Sous réserve du paragraphe (2), le syndic peut, par avis donné à la Société canadienne des postes en la forme prescrite et remise d’une copie du certificat de nomination du syndic, demander qu’on fasse parvenir à lui-même ou à toute personne qu’il désigne le courrier destiné au failli et adressé au lieu mentionné dans l’avis; sur réception de ces documents, la société donne suite à la demande du syndic.
+
+**Avis**
+
+(2) L’avis ne peut mentionner la résidence du failli que si le syndic a obtenu, sur demande, la permission du tribunal.
+
+**Durée de validité**
+
+(3) Si le failli est une personne physique, l’avis n’est valide que pour les trois mois qui suivent la date de la faillite, sauf si le tribunal, sur demande, accorde une prorogation aux conditions qu’il estime indiquées.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 35; 1992, ch. 27, art. 13; 1997, ch. 12, art. 23; 2005, ch. 47, art. 27
+
+</details>
+
+### 36 Devoirs de l’ancien syndic en cas de substitution
+
+(1) À la nomination d’un syndic substitué, le syndic qui l’a précédé soumet immédiatement ses comptes au tribunal et remet au syndic substitué tous les biens de l’actif, avec tous les livres, registres et documents du failli et ceux qui sont relatifs à l’administration de l’actif. Il lui remet également un état complet des recettes provenant des biens du failli ou d’autres sources, intérêts y compris, et de ses débours et dépenses, ainsi que de la rémunération qu’il réclame. L’état est accompagné d’un document contenant la description détaillée de tous les biens du failli qui n’ont pas été vendus ou réalisés, où sont indiqués, en plus de leur valeur, le motif pour lequel ils ne l’ont pas été, ainsi que la façon dont il en a été disposé.
+
+**Fonctions du syndic substitué**
+
+(2) Le syndic substitué :
+
+- a) [Abrogé, 1992, ch. 27, art. 14]
+
+- b) s’il est nommé par les créanciers, produit au tribunal une copie des procès-verbaux de l’assemblée, signée par le président;
+
+- c) avise le surintendant de sa nomination;
+
+- d) s’il en est requis par les inspecteurs, consigne sur le registre foncier un avis de sa nomination au bureau compétent où la cession ou l’ordonnance de faillite a été consignée;
+
+- e) dès que les fonds sont disponibles, paie à l’ancien syndic sa rémunération et ses débours, approuvés par le tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 36; 1992, ch. 27, art. 14; 1997, ch. 12, art. 24; 2004, ch. 25, art. 23; 2005, ch. 47, art. 28 et 123(A); 2007, ch. 36, art. 11(F)
+
+</details>
+
+### 37 Appel au tribunal contre le syndic
+
+Lorsqu’un acte ou une décision du syndic lèse le failli ou l’un des créanciers ou toute autre personne, l’intéressé peut s’adresser au tribunal, et ce dernier peut confirmer, infirmer ou modifier l’acte ou la décision qui fait l’objet de la plainte et rendre à ce sujet l’ordonnance qu’il juge équitable.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 19
+
+</details>
+
+### 38 Procédures par un créancier lorsque le syndic refuse d’agir
+
+(1) Lorsqu’un créancier demande au syndic d’intenter des procédures qui, à son avis, seraient à l’avantage de l’actif du failli, et que le syndic refuse ou néglige d’intenter ces procédures, le créancier peut obtenir du tribunal une ordonnance l’autorisant à intenter des procédures en son propre nom et à ses propres frais et risques, en donnant aux autres créanciers avis des procédures projetées, et selon les autres modalités que peut ordonner le tribunal.
+
+**Droits du créancier**
+
+(2) Lorsque cette ordonnance est rendue, le syndic cède et transfère au créancier tous ses droits, titres et intérêts sur les biens et droits qui font l’objet de ces procédures, y compris tout document à l’appui.
+
+**Les profits appartiennent au créancier**
+
+(3) Tout profit provenant de procédures exercées en vertu du paragraphe (1), jusqu’à concurrence de sa réclamation et des frais, appartient exclusivement au créancier intentant ces procédures, et l’excédent, s’il en est, appartient à l’actif.
+
+**Le syndic peut intenter des procédures**
+
+(4) Lorsque, avant qu’une ordonnance soit rendue en vertu du paragraphe (1), le syndic, avec la permission des inspecteurs, déclare au tribunal qu’il est prêt à intenter les procédures au profit des créanciers, l’ordonnance doit prescrire le délai qui lui est imparti pour ce faire, et dans ce cas le profit résultant des procédures, si elles sont intentées dans le délai ainsi prescrit, appartient à l’actif.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 38; 2004, ch. 25, art. 24(F)
+
+</details>
+
+#### Rémunération du syndic
+
+### 39 Rémunération votée par les créanciers
+
+(1) La rémunération du syndic est celle que lui vote une assemblée de créanciers, par résolution ordinaire.
+
+**Ne peut dépasser 7 ½ pour cent**
+
+(2) Lorsque la rémunération du syndic n’a pas été établie en vertu du paragraphe (1), le syndic peut inclure dans son état final et retenir pour sa rémunération, sauf l’augmentation ou la réduction ci-après prévue, une somme ne dépassant pas sept et demi pour cent du montant qui subsiste de la réalisation des biens du débiteur après que les réclamations des créanciers garantis ont été payées ou acquittées.
+
+**En cas de continuation du commerce**
+
+(3) Lorsqu’il y a eu continuation de commerce du débiteur par le syndic ou sous sa surveillance, le syndic peut recevoir pour pareils services la rémunération spéciale que les créanciers ou les inspecteurs peuvent autoriser par résolution, et, advenant une proposition, la rémunération spéciale dont le débiteur peut convenir, ou, en l’absence d’une entente avec le débiteur, le montant que le tribunal peut approuver.
+
+**Syndics agissant l’un après l’autre**
+
+(4) Si plusieurs syndics agissent les uns en succession des autres, la rémunération est répartie entre les syndics selon les services que chacun d’eux a rendus, et, en l’absence d’une entente entre les syndics, le tribunal détermine le montant payable à chacun d’eux.
+
+**Le tribunal peut augmenter ou réduire**
+
+(5) À la demande du syndic, d’un créancier ou du débiteur, et après avis aux parties que peut ordonner le tribunal, ce dernier peut rendre une ordonnance augmentant ou réduisant la rémunération.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 21
+
+</details>
+
+#### Libération du syndic
+
+### 40 Aliénation des biens non réalisables
+
+(1) Tout bien qui, avant la libération du failli, est révélé au syndic — notamment par mention dans le bilan prévu à l’alinéa 158d) — et qui est trouvé non réalisable est retourné au failli avant la demande de libération du syndic. Si des inspecteurs ont été nommés, ce dernier ne peut retourner le bien qu’avec leur permission.
+
+**Aliénation finale des biens**
+
+(2) Lorsqu’un syndic est incapable de disposer d’un bien selon le présent article, le tribunal peut rendre l’ordonnance qu’il juge nécessaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 40; 2005, ch. 47, art. 29
+
+</details>
+
+### 41 Demande au tribunal
+
+(1) Lorsqu’un syndic a complété l’exécution des fonctions dont il a été chargé dans l’administration des biens d’un failli, il adresse une demande de libération au tribunal.
+
+**Libération du syndic**
+
+(2) Le tribunal peut libérer un syndic à l’égard d’un actif quelconque, lorsque l’administration entière de cet actif est terminée ou, pour cause suffisante, avant qu’elle soit terminée.
+
+**Nomination d’un autre syndic**
+
+(3) Lorsqu’il est remplacé par un autre syndic, le syndic a le droit d’être libéré s’il a rendu compte, à la satisfaction des inspecteurs et du tribunal, de tous les biens qui ont été mis en sa possession et si une période de trois mois s’est écoulée après la date de cette substitution, sans qu’il y ait eu de réclamation ou d’opposition non réglée de la part du failli ou d’un créancier.
+
+**Quand l’administration des biens est censée complétée**
+
+(4) Lorsque les comptes du syndic ont été approuvés par les inspecteurs et taxés par le tribunal, et que toutes les objections, oppositions et requêtes ainsi que tous les appels ont été réglés ou qu’il en a été disposé, et que tous les dividendes ont été payés, l’administration de l’actif est censée complétée.
+
+**Dépôt des oppositions**
+
+(5) Toute personne intéressée voulant s’opposer à la libération d’un syndic doit, au moins cinq jours avant la date de l’audition, déposer auprès du registraire du tribunal un préavis motivé et en signifier une copie au syndic.
+
+**Le tribunal peut accorder la libération**
+
+(6) Le tribunal prend en considération cette opposition et il peut en conséquence accorder ou suspendre une libération, ou donner les instructions qu’il juge convenables dans les circonstances.
+
+**Fraude ou abus de confiance**
+
+(7) Rien de contenu dans le présent article ou de fait sous son autorité ne dégage, ni ne libère, ni n’est réputé dégager ou libérer un syndic des résultats de toute fraude.
+
+**Effet de la libération du syndic**
+
+(8) La libération d’un syndic le relève de toute responsabilité :
+
+- a) à l’égard de tout acte ou manquement de sa part dans l’administration des biens du failli;
+
+- b) en ce qui concerne sa conduite à titre de syndic.
+
+Toutefois, une libération peut être révoquée par le tribunal sur preuve qu’elle a été obtenue par fraude ou en supprimant ou cachant un fait important.
+
+**Application**
+
+(8.1) Le paragraphe (8) n’a pas pour effet d’empêcher la tenue de l’investigation ou de l’enquête ou la prise des mesures visées au paragraphe 14.01(1).
+
+**Mainlevée de la garantie**
+
+(9) La libération d’un syndic sous le régime du présent article entraîne la mainlevée de la garantie fournie en conformité avec le paragraphe 16(1).
+
+**Syndic**
+
+(10) Nonobstant sa libération, le syndic demeure le syndic de l’actif pour l’accomplissement des fonctions qui peuvent se rapporter à la complète administration de l’actif.
+
+**Nomination d’un syndic par le tribunal pour achever l’administration**
+
+(11) Après s’être assuré que certains avoirs n’ont pas été réalisés ou distribués, le tribunal peut, à la demande de toute personne intéressée, nommer un syndic pour achever l’administration de l’actif du failli, et le syndic se guidera sur les dispositions de la présente loi, dans la mesure où elles sont applicables.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 41; 1997, ch. 12, art. 25; 2004, ch. 25, art. 25; 2007, ch. 36, art. 12
+
+</details>
+
+## Ordonnances de faillite et cessions
+
+### Actes de faillite
+
+### 42 Actes de faillite
+
+(1) Un débiteur commet un acte de faillite en chacun des cas suivants :
+
+- a) si, au Canada ou à l’étranger, il fait une cession de ses biens à un syndic au profit de ses créanciers en général, que cette cession soit autorisée ou non par la présente loi;
+
+- b) si, au Canada ou à l’étranger, il donne, livre ou transfère frauduleusement ses biens ou une partie de ces derniers;
+
+- c) si, au Canada ou à l’étranger, il fait un transport ou transfert de ses biens, ou d’une partie de ces derniers, ou les grève d’une charge, et qu’une telle transaction serait nulle, d’après la présente loi, comme entachée de préférence frauduleuse;
+
+- d) si, avec l’intention de frustrer ou de retarder ses créanciers, il quitte le Canada, ou, étant parti du Canada, il reste à l’étranger, ou il quitte son logement ou s’absente d’autre manière;
+
+- e) s’il permet qu’une procédure d’exécution ou autre procédure contre lui, et en vertu de laquelle une partie de ses biens est saisie, imposée ou prise en exécution, reste non réglée cinq jours avant la date fixée par l’huissier-exécutant pour la vente de ces biens, ou durant les quinze jours suivant la saisie, imposition ou prise en exécution, ou si les biens ont été vendus par l’huissier-exécutant, ou si la procédure d’exécution ou autre procédure a été différée par ce dernier pendant quinze jours après demande par écrit du paiement sans saisie, imposition ou prise en exécution, ou règlement par paiement, ou si le bref est retourné portant la mention que l’huissier-exécutant ne peut trouver de biens à saisir, imposer ou prendre; cependant, lorsque la saisie des biens a donné lieu à des oppositions ou entreplaideries, le temps qui s’écoule entre la date à laquelle ces procédures ont été intentées et la date à laquelle il est définitivement statué sur ces procédures, ou à laquelle celles-ci sont définitivement réglées ou abandonnées, ne peut être compté dans le calcul de cette période de quinze jours;
+
+- f) si, à une assemblée de ses créanciers, il produit un bilan démontrant qu’il est insolvable, ou présente ou fait présenter à cette assemblée un aveu par écrit de son incapacité de payer ses dettes;
+
+- g) s’il cède, enlève ou cache, ou essaie ou est sur le point de céder, d’enlever ou de cacher une partie de ses biens, ou en dispose ou essaie ou est sur le point d’en disposer, avec l’intention de frauder, frustrer ou retarder ses créanciers ou l’un d’entre eux;
+
+- h) s’il donne avis à l’un de ses créanciers qu’il a suspendu ou qu’il est sur le point de suspendre le paiement de ses dettes;
+
+- i) s’il fait défaut à toute proposition concordataire faite sous le régime de la présente loi;
+
+- j) s’il cesse de faire honneur à ses obligations en général au fur et à mesure qu’elles sont échues.
+
+**Les cessions non autorisées sont nulles**
+
+(2) Toute cession de ses biens, autre qu’une cession consentie conformément à la présente loi, faite par un débiteur insolvable au profit de ses créanciers en général, est nulle.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 42; 1997, ch. 12, art. 26; 2004, ch. 25, art. 27
+
+</details>
+
+### Requête en faillite
+
+### 43 Requête en faillite
+
+(1) Sous réserve des autres dispositions du présent article, un ou plusieurs créanciers peuvent déposer au tribunal une requête en faillite contre un débiteur :
+
+- a) d’une part, si la ou les dettes envers le ou les créanciers requérants s’élèvent à mille dollars et si la requête en fait mention;
+
+- b) d’autre part, si le débiteur a commis un acte de faillite dans les six mois qui précèdent le dépôt de la requête et si celle-ci en fait mention.
+
+**Cas où le créancier requérant est un créancier garanti**
+
+(2) Lorsque le créancier requérant est un créancier garanti, il doit, dans sa requête, ou déclarer qu’il consent à abandonner sa garantie au profit des créanciers dans le cas où une ordonnance de faillite est rendue contre le débiteur, ou fournir une estimation de la valeur de sa garantie; dans ce dernier cas, il peut être admis à titre de créancier requérant jusqu’à concurrence du solde de sa créance, déduction faite de la valeur ainsi estimée, comme s’il était un créancier non garanti.
+
+**Affidavit**
+
+(3) La requête doit être attestée par un affidavit du requérant, ou d’une personne dûment autorisée en son nom, qui a une connaissance personnelle des faits qui y sont allégués.
+
+**Jonction des requêtes**
+
+(4) Lorsque plusieurs requêtes sont déposées contre le même débiteur ou contre des codébiteurs, le tribunal peut joindre les procédures, ou quelques-unes d’entre elles, aux conditions qu’il juge convenables.
+
+**Lieu du dépôt**
+
+(5) La requête est déposée auprès du tribunal compétent dans le district judiciaire de la localité du débiteur.
+
+**Preuve des faits et de la signification**
+
+(6) À l’audition, le tribunal exige la preuve des faits allégués dans la requête et de la signification de celle-ci; il peut, s’il juge la preuve satisfaisante, rendre une ordonnance de faillite.
+
+**Rejet de la requête**
+
+(7) Lorsque le tribunal n’estime pas satisfaisante la preuve des faits allégués dans la requête, ou de la signification de celle-ci, ou si le débiteur lui a démontré à sa satisfaction qu’il est en état de payer ses dettes, ou si le tribunal juge que, pour toute autre cause suffisante, aucune ordonnance ne devrait être rendue, il doit rejeter la requête.
+
+**Rejet de la requête à l’égard de certains défendeurs seulement**
+
+(8) Lorsqu’il y a plus d’un défendeur dans une requête, le tribunal peut rejeter la requête relativement à l’un ou à plusieurs d’entre eux, sans préjudice de l’effet de la requête à l’encontre de l’autre ou des autres défendeurs.
+
+**Nomination de syndics**
+
+(9) Lorsqu’une ordonnance de faillite est rendue, le tribunal nomme un syndic autorisé à titre de syndic des biens du failli en tenant compte, dans la mesure où le tribunal le juge équitable, de la volonté des créanciers.
+
+**Sursis des procédures**
+
+(10) Lorsque le débiteur comparaît relativement à la requête et nie la véracité des faits qui y sont allégués, le tribunal peut, au lieu de rejeter la requête, surseoir aux procédures relatives à la requête aux conditions qu’il juge convenable d’imposer au requérant quant aux frais ou au débiteur afin d’empêcher l’aliénation de ses biens, et pendant le temps nécessaire à l’instruction de la contestation.
+
+**Suspension des procédures pour autres raisons**
+
+(11) Le tribunal peut, pour d’autres raisons suffisantes, rendre une ordonnance suspendant les procédures intentées dans le cadre d’une requête, soit absolument, soit pour un temps limité, aux conditions qu’il juge équitables.
+
+**Cautionnement pour frais**
+
+(12) Le requérant qui réside à l’étranger peut être contraint de fournir au débiteur un cautionnement pour les frais, et les procédures découlant de la requête peuvent être suspendues jusqu’à ce que le cautionnement soit fourni.
+
+**Ordonnance de faillite sur autre requête**
+
+(13) Lorsque des procédures relatives à une requête ont été suspendues ou n’ont pas été poursuivies avec la diligence et l’effet voulus, le tribunal peut, s’il croit juste de le faire en raison du retard ou pour toute autre cause, substituer au requérant ou lui adjoindre tout autre créancier envers qui le débiteur peut être endetté de la somme prévue par la présente loi; il peut rendre une ordonnance de faillite sur la requête d’un tel autre créancier, et doit dès lors rejeter, aux conditions qu’il croit justes, la requête dont les procédures ont été suspendues ou n’ont pas été poursuivies.
+
+**Retrait d’une requête**
+
+(14) Une requête ne peut être retirée sans l’autorisation du tribunal.
+
+**Requête contre un associé**
+
+(15) Tout créancier dont la réclamation contre une société de personnes est suffisante pour l’autoriser à présenter une requête en faillite peut présenter une requête contre un ou plusieurs membres de cette société, sans y inclure les autres.
+
+**Jonction des procédures par le tribunal**
+
+(16) Lorsqu’une ordonnance de faillite a été rendue contre un membre d’une société de personnes, toute autre requête contre un membre de la même société est déposée ou renvoyée au même tribunal, et ce dernier peut donner les instructions qui lui semblent justes pour joindre les procédures intentées dans le cadre des requêtes.
+
+**Continuation des procédures advenant le décès d’un débiteur**
+
+(17) Advenant le décès d’un débiteur contre qui une requête a été déposée, les procédures sont continuées, à moins que le tribunal n’en ordonne autrement, comme s’il était vivant.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 43; 1992, ch. 27, art. 15; 2004, ch. 25, art. 28
+
+</details>
+
+### 44 Requête contre la succession d’un débiteur décédé
+
+(1) Sous réserve de l’article 43, une requête en faillite peut être produite contre la succession d’un débiteur décédé.
+
+**Responsabilité personnelle**
+
+(2) Le liquidateur de la succession d’un débiteur décédé, l’exécuteur testamentaire de celui-ci ou l’administrateur de sa succession, après qu’une requête en faillite lui a été signifiée, ne peut payer aucune somme d’argent ni transférer aucun bien du débiteur décédé, sauf ce qui est requis pour acquitter les frais funéraires et testamentaires convenables, avant qu’il ait été décidé de la requête; sinon, en sus des peines qu’il peut encourir, il en est tenu responsable personnellement.
+
+**Actes faits de bonne foi**
+
+(3) Le présent article n’a toutefois pas pour effet d’invalider un paiement ou un transfert de biens fait ou tout acte ou chose accompli de bonne foi par le liquidateur, l’exécuteur testamentaire ou l’administrateur avant la signification de la requête.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 44; 2004, ch. 25, art. 28
+
+</details>
+
+### 45 Frais de requête
+
+(1) Lorsqu’une ordonnance de faillite est rendue, les frais du requérant sont taxés et payables sur l’actif à moins que le tribunal n’en ordonne autrement.
+
+**Insuffisance de l’actif**
+
+(2) Lorsque le produit de l’actif ne suffit pas à payer les frais subis par le syndic, le tribunal peut ordonner au requérant de payer ces frais.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 45; 1992, ch. 1, art. 14; 2004, ch. 25, art. 28
+
+</details>
+
+### Séquestre intérimaire
+
+### 46 Nomination d’un séquestre intérimaire
+
+(1) S’il est démontré que la mesure est nécessaire pour la protection de l’actif du débiteur, le tribunal peut, après la production d’une requête en faillite et avant qu’une ordonnance de faillite ait été rendue, nommer un syndic autorisé comme séquestre intérimaire de tout ou partie des biens du débiteur et lui enjoindre d’en prendre possession dès que le requérant aura donné l’engagement que peut imposer le tribunal relativement à une ingérence dans les droits du débiteur et au préjudice qui peut découler du rejet de la requête.
+
+**Pouvoirs du séquestre intérimaire**
+
+(2) Le séquestre intérimaire peut, sur l’ordre du tribunal, prendre des mesures conservatoires et disposer sommairement des biens périssables ou susceptibles de perdre rapidement de leur valeur, et il peut exercer sur les affaires du débiteur le contrôle que le tribunal jugera recommandable, mais le séquestre intérimaire ne peut contrecarrer indûment le débiteur dans la conduite de ses affaires, sauf dans la mesure nécessaire à ces fins conservatoires ou pour se conformer à l’ordre du tribunal.
+
+**Lieu du dépôt**
+
+(3) La demande visant l’obtention de l’ordonnance prévue au paragraphe (1) est déposée auprès du tribunal compétent dans le district judiciaire de la localité du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 46; 1997, ch. 12, art. 27(F); 2004, ch. 25, art. 29; 2007, ch. 36, art. 13
+
+</details>
+
+### 47 Nomination d’un séquestre intérimaire
+
+(1) S’il est convaincu qu’un préavis a été envoyé ou est sur le point de l’être aux termes du paragraphe 244(1), le tribunal peut, sous réserve du paragraphe (3), nommer un syndic à titre de séquestre intérimaire de tout ou partie des biens du débiteur faisant l’objet de la garantie sur laquelle porte le préavis. Ce séquestre intérimaire demeure en fonctions jusqu’à celui des événements ci-après qui se produit le premier :
+
+- a) la prise de possession par un séquestre, au sens du paragraphe 243(2), des biens du débiteur placés sous la responsabilité du séquestre intérimaire;
+
+- b) la prise de possession par un syndic des biens du débiteur placés sous la responsabilité du séquestre intérimaire;
+
+- c) l’expiration de la période de trente jours suivant la date de la nomination du séquestre intérimaire ou de la période précisée par le tribunal.
+
+**Instructions au séquestre intérimaire**
+
+(2) Le tribunal peut enjoindre au séquestre intérimaire :
+
+- a) de prendre possession de tout ou partie des biens du débiteur mentionnés dans la nomination;
+
+- b) d’exercer sur ces biens ainsi que sur les affaires du débiteur le degré de contrôle que le tribunal estime indiqué;
+
+- c) de prendre des mesures conservatoires;
+
+- d) de disposer sommairement des biens périssables ou susceptibles de perdre rapidement de leur valeur.
+
+**Cas de nomination possible**
+
+(3) La nomination d’un séquestre intérimaire aux termes du paragraphe (1) ne peut se faire que s’il est démontré au tribunal que cela est nécessaire pour protéger soit l’actif du débiteur, soit les intérêts du créancier qui a donné le préavis visé au paragraphe 244(1).
+
+**Lieu du dépôt**
+
+(4) La demande visant l’obtention de l’ordonnance prévue au paragraphe (1) est déposée auprès du tribunal compétent dans le district judiciaire de la localité du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 47; 1992, ch. 27, art. 16; 2005, ch. 47, art. 30; 2007, ch. 36, art. 14
+
+</details>
+
+### 47.1 Nomination d’un séquestre intérimaire
+
+(1) Après le dépôt d’un avis d’intention aux termes de l’article 50.4 ou d’une proposition aux termes du paragraphe 62(1) et sous réserve du paragraphe (3), le tribunal peut nommer à titre de séquestre intérimaire de tout ou partie des biens du débiteur :
+
+- a) soit le syndic désigné dans l’avis d’intention ou la proposition;
+
+- b) soit un autre syndic;
+
+- c) soit, conjointement, le syndic désigné dans l’avis d’intention ou la proposition et un autre syndic.
+
+**Durée des fonctions**
+
+(1.1) Le séquestre intérimaire demeure en fonctions jusqu’à celui des événements ci-après qui se produit le premier :
+
+- a) la prise de possession par un séquestre, au sens du paragraphe 243(2), des biens du débiteur placés sous la responsabilité du séquestre intérimaire;
+
+- b) la prise de possession par un syndic des biens du débiteur placés sous la responsabilité du séquestre intérimaire;
+
+- c) l’approbation de la proposition par le tribunal.
+
+**Instructions au séquestre intérimaire**
+
+(2) Le tribunal peut enjoindre au séquestre intérimaire :
+
+- a) d’exercer, en lieu et place du syndic visé aux paragraphes 50(10) ou 50.4(7), ou conjointement avec celui-ci, les fonctions prévues par l’un ou l’autre de ces paragraphes;
+
+- b) de prendre possession de tout ou partie des biens du débiteur mentionnés dans l’ordonnance;
+
+- c) d’exercer sur ces biens ainsi que sur les affaires du débiteur le degré de contrôle que le tribunal estime indiqué;
+
+- d) de prendre des mesures conservatoires;
+
+- e) de disposer sommairement des biens périssables ou susceptibles de perdre rapidement de leur valeur.
+
+**Cas de nomination possible**
+
+(3) La nomination d’un séquestre intérimaire aux termes du paragraphe (1) ne peut se faire que s’il est démontré au tribunal que cela est nécessaire pour protéger soit l’actif du débiteur, soit les intérêts d’un ou de plusieurs créanciers ou de l’ensemble de ceux-ci.
+
+**Lieu du dépôt**
+
+(4) La demande visant l’obtention de l’ordonnance prévue au paragraphe (1) est déposée auprès du tribunal compétent dans le district judiciaire de la localité du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 16; 2005, ch. 47, art. 31; 2007, ch. 36, art. 15
+
+</details>
+
+### 47.2 Ordonnances relatives aux honoraires et débours
+
+(1) Le tribunal peut, relativement au paiement des honoraires et débours du séquestre intérimaire nommé aux termes des articles 47 ou 47.1, rendre toute ordonnance qu’il estime indiquée, y compris une ordonnance portant que la réclamation de celui-ci à l’égard de ses honoraires et débours est garantie par une sûreté de premier rang sur les avoirs du débiteur, avec préséance sur les réclamations de tout créancier garanti; le tribunal ne peut, toutefois, déclarer que la réclamation du séquestre intérimaire est ainsi garantie que s’il est convaincu que tous les créanciers garantis auxquels l’ordonnance pourrait sérieusement porter atteinte ont été avisés à cet égard suffisamment à l’avance et se sont vu accorder l’occasion de se faire entendre.
+
+**Sens de débours**
+
+(2) Pour l’application du paragraphe (1), ne sont pas compris parmi les débours les paiements effectués dans le cadre des opérations propres aux affaires du débiteur.
+
+**Comptes et libération du séquestre intérimaire**
+
+(3) La forme et le contenu des comptes — y compris l’état définitif des recettes et des débours — du séquestre intérimaire nommé aux termes des articles 46, 47 ou 47.1 et la procédure à suivre pour leur préparation et leur taxation, ainsi que pour la libération du séquestre intérimaire sont déterminés par les Règles générales.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 16; 2004, ch. 25, art. 30; 2005, ch. 47, art. 32; 2015, ch. 3, art. 7(F)
+
+</details>
+
+### 48 Application des art. 43 à 46
+
+Les articles 43 à 46 ne s’appliquent pas au particulier dont la principale activité — et la principale source de revenu — est la pêche, l’agriculture ou la culture du sol, ni au particulier qui travaille pour un salaire, un traitement, une commission ou des gages ne dépassant pas deux mille cinq cents dollars par année et qui n’exerce pas un commerce pour son propre compte.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 48; 1997, ch. 12, art. 28
+
+</details>
+
+### Cessions
+
+### 49 Cession au profit des créanciers en général
+
+(1) Une personne insolvable ou, si elle est décédée, l’exécuteur testamentaire, le liquidateur de la succession ou l’administrateur à la succession, avec la permission du tribunal, peut faire une cession de tous ses biens au profit de ses créanciers en général.
+
+**Déclaration sous serment**
+
+(2) La cession est accompagnée d’une déclaration sous serment dans la forme prescrite, indiquant les biens du débiteur susceptibles d’être partagés entre ses créanciers, les noms et adresses de tous ses créanciers et les montants de leurs réclamations respectives.
+
+**Production de la cession**
+
+(3) La cession est présentée au séquestre officiel dans la localité du débiteur, et elle est inopérante tant qu’elle n’a pas été déposée auprès de ce séquestre officiel qui en refuse la production, à moins qu’elle ne soit en la forme prescrite ou en des termes ayant le même effet, et accompagnée de la déclaration sous serment requise au paragraphe (2).
+
+**Nomination de syndic**
+
+(4) Lorsque le séquestre officiel accepte la production de la cession, il nomme comme syndic un syndic autorisé qu’il choisira, autant que faire se peut, en tenant compte des désirs des créanciers les plus intéressés, s’il est possible de s’en rendre compte à ce moment. Le séquestre officiel complète la cession en y insérant comme cessionnaire le nom du syndic.
+
+**Annulation de cession**
+
+(5) Le séquestre officiel annule la cession, sur préavis de cinq jours au failli, lorsqu’il ne peut trouver un syndic autorisé qui consente à agir.
+
+**Procédures à l’égard d’actifs peu considérables**
+
+(6) Lorsque le failli n’est pas une personne morale et que, de l’avis du séquestre officiel, ses avoirs réalisables, déduction faite des réclamations des créanciers garantis, ne dépassent pas cinq mille dollars ou tout autre montant prescrit, les dispositions de la présente loi concernant l’administration sommaire des actifs s’appliquent.
+
+**Exclusion des biens futurs**
+
+(7) Il n’est pas tenu compte pour la détermination des avoirs réalisables du failli des biens que celui-ci peut acquérir ou qui peuvent lui être dévolus avant sa libération.
+
+**Cessation d’effet du paragraphe (6)**
+
+(8) Le séquestre officiel peut ordonner que le paragraphe (6) cesse de s’appliquer au failli s’il détermine que les avoirs réalisables de celui-ci, déduction faite des réclamations des créanciers garantis, dépassent cinq mille dollars ou le montant prescrit, ou que les coûts de réalisation de ces avoirs représentent une partie importante de leur valeur réalisable, et s’il estime pareille mesure indiquée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 49; 1992, ch. 1, art. 15, ch. 27, art. 17; 1997, ch. 12, art. 29; 2004, ch. 25, art. 31(A); 2005, ch. 47, art. 33
+
+</details>
+
+## Propositions concordataires
+
+### Dispositions d’application générale
+
+### 50 Admissibilité
+
+(1) Sous réserve du paragraphe (1.1), une proposition peut être faite par :
+
+- a) une personne insolvable;
+
+- b) un séquestre au sens du paragraphe 243(2), mais seulement relativement à une personne insolvable;
+
+- c) le liquidateur des biens d’une personne insolvable;
+
+- d) un failli;
+
+- e) le syndic de l’actif d’un failli.
+
+**Inadmissibilité**
+
+(1.1) Il ne peut être fait de proposition aux termes de la présente section relativement au débiteur à l’égard de qui une proposition de consommateur a été produite aux termes de la section II tant que l’administrateur désigné dans le cadre de la première proposition n’a pas été libéré.
+
+**Destinataires**
+
+(1.2) La proposition est faite aux créanciers en général, étant entendu qu’elle s’adresse, selon ce qu’elle prévoit, soit à la masse de ceux-ci, soit aux diverses catégories auxquelles ils appartiennent; elle peut en outre, sous réserve du paragraphe (1.3), être faite aux créanciers garantis d’une ou de plusieurs catégories.
+
+**Idem**
+
+(1.3) La proposition portant sur des réclamations garanties d’une catégorie particulière doit être faite à tous les créanciers garantis dont la réclamation appartient à cette catégorie.
+
+**Catégories de créances garanties**
+
+(1.4) Peuvent faire partie de la même catégorie les créances garanties des créanciers ayant des droits ou intérêts à ce point semblables, compte tenu des critères énumérés ci-après, qu’on peut en conclure qu’ils ont un intérêt commun :
+
+- a) la nature des créances donnant lieu aux réclamations en cause;
+
+- b) la nature de la garantie en question et le rang qui s’y rattache;
+
+- c) les recours dont les créanciers peuvent se prévaloir, abstraction faite de la proposition, et la mesure dans laquelle ils pourraient, en se prévalant de ces recours, obtenir satisfaction à leurs réclamations;
+
+- d) le sort réservé à leurs créances par la proposition et, notamment, la mesure dans laquelle celles-ci seraient payées aux termes de la proposition;
+
+- e) tous autres critères — compatibles avec ceux énumérés aux alinéas a) à d) — qui peuvent être prescrits.
+
+**Décision du tribunal**
+
+(1.5) Sur demande présentée après le dépôt de l’avis d’intention ou de la proposition, le tribunal peut, en conformité avec le paragraphe (1.4), déterminer quelles sont, dans le cadre de cette proposition, les diverses catégories de créances garanties; il peut également déterminer à quelle catégorie appartient telle créance garantie en particulier.
+
+**Réponse des créanciers**
+
+(1.6) Sous réserve de l’article 50.1, tout créancier peut répondre à la proposition qui a été faite aux créanciers en général en déposant auprès du syndic une preuve de réclamation de la manière prévue :
+
+- a) aux articles 124 à 126, dans le cas des créanciers non garantis;
+
+- b) aux articles 124 à 134, dans le cas des créanciers garantis.
+
+**Effet du dépôt d’une preuve de réclamation**
+
+(1.7) Pour l’application des dispositions de la présente section qui suivent le présent article, la mention d’un créancier non garanti vaut également mention d’un créancier garanti qui a déposé une preuve de réclamation aux termes du paragraphe (1.6), et la mention d’une réclamation non garantie vaut mention de la réclamation garantie de ce créancier.
+
+**Vote**
+
+(1.8) Toutes les décisions relatives à une proposition, sauf celles portant sur son acceptation ou son rejet, sont prises par résolution ordinaire des créanciers à qui la proposition a été faite.
+
+**Documents à déposer**
+
+(2) Sous réserve de l’article 50.4, les procédures relatives à une proposition commencent, dans le cas d’une personne insolvable, par le dépôt, auprès d’un syndic autorisé, et, dans le cas d’un failli, par le dépôt, auprès du syndic de l’actif, d’une copie de la proposition indiquant les termes de la proposition et les détails des garanties ou cautions proposées, et signée par l’auteur de la proposition et les cautions proposées, le cas échéant, ainsi qu’une copie du bilan prescrit.
+
+**Envoi au séquestre officiel**
+
+(2.1) Le syndic envoie les documents visés au paragraphe (2) au séquestre officiel de la localité du débiteur au moment du dépôt de la proposition en application du paragraphe 62(1).
+
+**Approbation des inspecteurs**
+
+(3) Une proposition visant un failli doit être approuvée par les inspecteurs avant que toute autre mesure soit prise à son égard.
+
+**Une proposition ne peut être retirée**
+
+(4) Nulle proposition ni aucun cautionnement ou garantie offerts avec cette proposition ne peuvent être retirés en attendant la décision des créanciers et du tribunal.
+
+**Interprétation**
+
+(4.1) Le paragraphe (4) n’a pas pour effet d’empêcher une personne insolvable visée par une proposition de faire une cession par la suite.
+
+**Fonctions du syndic**
+
+(5) Le syndic fait, ou fait faire, relativement aux affaires et aux biens du débiteur une évaluation et une investigation qui lui permettent d’estimer avec un degré suffisant d’exactitude la situation financière du débiteur et la cause de ses difficultés financières ou de son insolvabilité, et il en fait rapport à l’assemblée des créanciers.
+
+**État de l’évolution de l’encaisse**
+
+(6) Le syndic qui dépose, à l’égard d’une personne insolvable, une proposition aux termes du paragraphe 62(1) est tenu de joindre à celle-ci :
+
+- a) un état établi par l’auteur de la proposition — ou une version révisée d’un tel état lorsqu’on en a déjà déposé un à l’égard de la même personne insolvable aux termes du paragraphe 50.4(2) —, appelé « l’état » au présent article, portant, projections au moins mensuelles à l’appui, sur l’évolution de l’encaisse de la personne insolvable, et signé par lui et par le syndic après que celui-ci en a vérifié le caractère raisonnable;
+
+- b) un rapport portant sur le caractère raisonnable de l’état, établi et signé, en la forme prescrite, par le syndic;
+
+- c) un rapport contenant les observations — prescrites par les Règles générales — de l’auteur de la proposition relativement à l’établissement de l’état, établi et signé, en la forme prescrite, par celui-ci.
+
+**Copies de l’état**
+
+(7) Sous réserve du paragraphe (8), tout créancier qui en fait la demande au syndic peut obtenir une copie de l’état.
+
+**Exception**
+
+(8) Le tribunal peut rendre une ordonnance de non-communication de tout ou partie de l’état, s’il est convaincu que sa communication à l’un ou l’autre ou à l’ensemble des créanciers causerait un préjudice indu à la personne insolvable et que sa non-communication ne causerait pas de préjudice indu au créancier ou aux créanciers en question.
+
+**Immunité**
+
+(9) S’il agit de bonne foi et prend toutes les précautions voulues pour bien réviser l’état, le syndic ne peut être tenu responsable du préjudice ou des pertes subis par la personne qui s’y fie.
+
+**Obligation de surveillance**
+
+(10) Sous réserve de toute instruction émise par le tribunal aux termes de l’alinéa 47.1(2)a), le syndic désigné dans une proposition se rapportant à une personne insolvable a, dans le cadre de la surveillance des affaires et des finances de celle-ci et dans la mesure où cela s’avère nécessaire pour lui permettre d’évaluer adéquatement les affaires et les finances de la personne insolvable, accès aux biens — locaux, livres, registres et autres documents financiers, notamment — de cette personne, biens qu’il est d’ailleurs tenu d’examiner, et ce depuis le dépôt de la proposition jusqu’à son approbation par le tribunal ou jusqu’à ce que la personne en question devienne un failli; le syndic est en outre tenu :
+
+- a) de déposer un rapport portant sur l’état des affaires et des finances de la personne insolvable et contenant les renseignements prescrits :
+  - (i) auprès du séquestre officiel dès qu’il note un changement négatif important au chapitre des projections relatives à l’encaisse de la personne insolvable ou au chapitre de la situation financière de celle-ci,
+  - (ii) auprès du tribunal aux moments déterminés par ordonnance de celui-ci;
+
+- a.1) d’envoyer aux créanciers un rapport sur le changement visé au sous-alinéa a)(i) dès qu’il le note;
+
+- b) d’envoyer aux créanciers et au séquestre officiel, de la manière prescrite et au moins dix jours avant la date de la tenue de l’assemblée des créanciers prévue au paragraphe 51(1), un rapport portant sur l’état des affaires et des finances de la personne insolvable et contenant notamment, en plus des renseignements prescrits, son opinion sur le caractère raisonnable de la décision d’inclure une disposition dans la proposition prévoyant la non-application à celle-ci des articles 95 à 101.
+
+**Rapport à l’intention des créanciers**
+
+(11) Le séquestre intérimaire qui, aux termes du paragraphe 47.1(2), s’est vu confier l’exercice, en remplacement du syndic, des fonctions visées au paragraphe (10) est tenu de remettre à celui-ci, au moins quinze jours avant la tenue de l’assemblée des créanciers prévue au paragraphe 51(1), un rapport portant sur les affaires et les finances de la personne insolvable et contenant les renseignements prescrits; le syndic expédie, de la manière prescrite, ce rapport aux créanciers et au séquestre officiel au moins dix jours avant la tenue de l’assemblée des créanciers prévue à ce paragraphe.
+
+**Présomption de refus de la proposition**
+
+(12) À la demande du syndic, d’un créancier ou, le cas échéant, du séquestre intérimaire nommé aux termes de l’article 47.1, le tribunal peut, avant l’assemblée des créanciers, déclarer que la proposition est réputée refusée par les créanciers, s’il est convaincu que, selon le cas :
+
+- a) le débiteur n’agit pas — ou n’a pas agi — de bonne foi et avec toute la diligence voulue;
+
+- b) la proposition ne sera vraisemblablement pas acceptée par les créanciers;
+
+- c) le rejet de la demande causerait un préjudice sérieux à l’ensemble des créanciers.
+
+**Effet de la déclaration**
+
+(12.1) Si le tribunal déclare que la proposition est réputée avoir été refusée par les créanciers, les alinéas 57a) à c) s’appliquent.
+
+**Transaction — réclamations contre les administrateurs**
+
+(13) La proposition visant une personne morale peut comporter, au profit de ses créanciers, des dispositions relatives à une transaction sur les réclamations contre ses administrateurs qui sont antérieures aux procédures intentées sous le régime de la présente loi et visent des obligations de celle-ci dont ils peuvent être, ès qualités, responsables en droit.
+
+**Restriction**
+
+(14) La transaction ne peut toutefois viser des réclamations portant sur des droits contractuels d’un ou plusieurs créanciers à l’égard de contrats conclus avec un ou plusieurs administrateurs, ou fondées sur la fausse représentation ou la conduite injustifiée ou abusive des administrateurs.
+
+**Pouvoir du tribunal**
+
+(15) Le tribunal peut déclarer qu’une réclamation contre les administrateurs ne peut faire l’objet d’une transaction s’il est convaincu qu’elle ne serait ni juste ni équitable dans les circonstances.
+
+**Application**
+
+(16) Le paragraphe 62(2) et l’article 122 s’appliquent, avec les adaptations nécessaires, aux réclamations visées au paragraphe (13).
+
+**Détermination des catégories de réclamations**
+
+(17) Le tribunal peut, sur demande faite après le dépôt de la proposition, déterminer les catégories de réclamations contre les administrateurs et indiquer la catégorie à laquelle appartient une réclamation donnée.
+
+**Démission ou destitution des administrateurs**
+
+(18) Si tous les administrateurs démissionnent ou sont destitués par les actionnaires sans être remplacés, quiconque dirige ou supervise les activités commerciales et les affaires internes de la personne morale est réputé un administrateur pour l’application du présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 50; 1992, ch. 27, art. 18; 1997, ch. 12, art. 30; 2001, ch. 4, art. 27(A); 2004, ch. 25, art. 32; 2005, ch. 47, art. 34; 2007, ch. 36, art. 16
+
+</details>
+
+### 50.1 Preuve de créance garantie
+
+(1) Sous réserve des paragraphes (2) à (4), le créancier garanti à qui une proposition a été faite relativement à une réclamation garantie en particulier peut déposer auprès du syndic, en la forme prescrite, une preuve de réclamation garantie à cet égard; il peut, pour la totalité de sa réclamation, voter sur toute question se rapportant à la proposition. Les articles 124 à 126, dans la mesure où ils sont applicables, s’appliquent, avec les adaptations nécessaires, aux preuves de réclamations garanties.
+
+**Valeur attribuée**
+
+(2) En cas d’inclusion, dans la proposition faite à un créancier garanti relativement à une réclamation, d’une évaluation de la valeur de la garantie en cause, le créancier garanti peut déposer auprès du syndic, en la forme prescrite, une preuve de réclamation garantie et peut, à titre de créancier garanti, voter sur toutes questions relatives à la proposition jusqu’à concurrence d’un montant égal au moindre du montant de la réclamation et de la valeur attribuée à la garantie.
+
+**Idem**
+
+(3) Si la valeur attribuée à la garantie est moindre que le montant de la réclamation du créancier garanti, celui-ci peut déposer auprès du syndic, en la forme prescrite, une preuve de réclamation et peut, à titre de créancier non garanti, voter sur toutes questions relatives à la proposition jusqu’à concurrence d’un montant égal à la différence entre le montant de la réclamation et la valeur attribuée à la garantie.
+
+**Idem**
+
+(4) S’il n’est pas d’accord avec la valeur attribuée à sa garantie, le créancier garanti peut, dans les quinze jours suivant l’envoi de la proposition aux créanciers, demander au tribunal de réviser l’évaluation proposée. Le tribunal peut procéder à la révision souhaitée, auquel cas la présente partie s’applique par la suite en fonction de la valeur révisée.
+
+**Rejet présumé de la proposition**
+
+(5) Les créanciers visés au paragraphe (1) qui possèdent une réclamation garantie appartenant à une catégorie particulière sont réputés avoir voté en faveur du rejet de la proposition si aucun d’entre eux n’a déposé une preuve de réclamation garantie avant l’assemblée des créanciers ou lors de celle-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 19; 1997, ch. 12, art. 31(F)
+
+</details>
+
+### 50.2 Le cas des autres créanciers garantis
+
+Le créancier garanti à qui aucune proposition n’a été faite relativement à une réclamation garantie en particulier n’est pas admis à produire une preuve de réclamation garantie à cet égard.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 19
+
+</details>
+
+### 50.3 Droits en cas de faillite
+
+En cas de faillite d’une personne insolvable ayant fait une proposition à un ou plusieurs créanciers garantis relativement à des réclamations garanties, les preuves de réclamations garanties déposées aux termes de l’article 50.1 sont sans effet, et les articles 112 et 127 à 134 s’appliquent aux preuves de réclamations déposées par des créanciers garantis dans le cadre de la faillite.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 19
+
+</details>
+
+### 50.4 Avis d’intention
+
+(1) Avant de déposer copie d’une proposition auprès d’un syndic autorisé, la personne insolvable peut, en la forme prescrite, déposer auprès du séquestre officiel de sa localité un avis d’intention énonçant :
+
+- a) son intention de faire une proposition;
+
+- b) les nom et adresse du syndic autorisé qui a accepté, par écrit, les fonctions de syndic dans le cadre de la proposition;
+
+- c) le nom de tout créancier ayant une réclamation s’élevant à au moins deux cent cinquante dollars, ainsi que le montant de celle-ci, connu ou indiqué aux livres du débiteur.
+
+L’avis d’intention est accompagné d’une copie de l’acceptation écrite du syndic.
+
+**Documents à déposer**
+
+(2) Dans les dix jours suivant le dépôt de l’avis d’intention visé au paragraphe (1), la personne insolvable dépose les documents suivants auprès du séquestre officiel :
+
+- a) un état établi par la personne insolvable — appelé « l’état » au présent article — portant, projections au moins mensuelles à l’appui, sur l’évolution de son encaisse, et signé par elle et par le syndic désigné dans l’avis d’intention après que celui-ci en a vérifié le caractère raisonnable;
+
+- b) un rapport portant sur le caractère raisonnable de l’état, établi, en la forme prescrite, par le syndic et signé par lui;
+
+- c) un rapport contenant les observations — prescrites par les Règles générales — de la personne insolvable relativement à l’établissement de l’état, établi, en la forme prescrite, par celle-ci et signé par elle.
+
+**Copies de l’état**
+
+(3) Sous réserve du paragraphe (4), tout créancier qui en fait la demande au syndic peut obtenir une copie de l’état.
+
+**Exception**
+
+(4) Le tribunal peut rendre une ordonnance de non-communication de tout ou partie de l’état, s’il est convaincu que sa communication à l’un ou l’autre ou à l’ensemble des créanciers causerait un préjudice indu à la personne insolvable ou encore que sa non-communication ne causerait pas de préjudice indu au créancier ou aux créanciers en question.
+
+**Immunité**
+
+(5) S’il agit de bonne foi et prend toutes les précautions voulues pour bien réviser l’état, le syndic ne peut être tenu responsable des dommages ou pertes subis par la personne qui s’y fie.
+
+**Notification**
+
+(6) Dans les cinq jours suivant le dépôt de l’avis d’intention, le syndic qui y est nommé en fait parvenir à tous les créanciers connus, de la manière prescrite, une copie contenant les renseignements mentionnés aux alinéas (1)a) à c).
+
+**Obligation de surveillance**
+
+(7) Sous réserve de toute instruction émise par le tribunal aux termes de l’alinéa 47.1(2)a), le syndic désigné dans un avis d’intention se rapportant à une personne insolvable :
+
+- a) a, dans le cadre de la surveillance des affaires et des finances de celle-ci et dans la mesure où cela est nécessaire pour lui permettre d’estimer adéquatement les affaires et les finances de la personne insolvable, accès aux biens — locaux, livres, registres et autres documents financiers, notamment — de cette personne, biens qu’il est d’ailleurs tenu d’examiner, et ce depuis le dépôt de l’avis d’intention jusqu’au dépôt de la proposition ou jusqu’à ce que la personne en question devienne un failli;
+
+- b) dépose un rapport portant sur l’état des affaires et des finances de la personne insolvable et contenant les renseignements prescrits :
+  - (i) auprès du séquestre officiel dès qu’il note un changement négatif important au chapitre des projections relatives à l’encaisse de la personne insolvable ou au chapitre de la situation financière de celle-ci,
+  - (ii) auprès du tribunal au plus tard lors de l’audition de la demande dont celui-ci est saisi aux termes du paragraphe (9) et aux autres moments déterminés par ordonnance du tribunal;
+
+- c) envoie aux créanciers un rapport sur le changement visé au sous-alinéa b)(i) dès qu’il le note.
+
+**Cas de cession présumée**
+
+(8) Lorsque la personne insolvable omet de se conformer au paragraphe (2) ou encore lorsque le syndic omet de déposer, ainsi que le prévoit le paragraphe 62(1), la proposition auprès du séquestre officiel dans les trente jours suivant le dépôt de l’avis d’intention aux termes du paragraphe (1) ou dans le délai supérieur accordé aux termes du paragraphe (9) :
+
+- a) la personne insolvable est, à l’expiration du délai applicable, réputée avoir fait une cession;
+
+- b) le syndic en fait immédiatement rapport, en la forme prescrite, au séquestre officiel;
+
+- b.1) le séquestre officiel délivre, en la forme prescrite, un certificat de cession ayant, pour l’application de la présente loi, le même effet qu’une cession déposée en conformité avec l’article 49;
+
+- c) le syndic convoque, dans les cinq jours suivant la délivrance du certificat de cession, une assemblée des créanciers aux termes de l’article 102, assemblée à laquelle les créanciers peuvent, par résolution ordinaire, nonobstant l’article 14, confirmer sa nomination ou lui substituer un autre syndic autorisé.
+
+**Prorogation de délai**
+
+(9) La personne insolvable peut, avant l’expiration du délai de trente jours — déjà prorogé, le cas échéant, aux termes du présent paragraphe — prévu au paragraphe (8), demander au tribunal de proroger ou de proroger de nouveau ce délai; après avis aux intéressés qu’il peut désigner, le tribunal peut acquiescer à la demande, pourvu qu’aucune prorogation n’excède quarante-cinq jours et que le total des prorogations successives demandées et accordées n’excède pas cinq mois à compter de l’expiration du délai de trente jours, et pourvu qu’il soit convaincu, dans le cas de chacune des demandes, que les conditions suivantes sont réunies :
+
+- a) la personne insolvable a agi — et continue d’agir — de bonne foi et avec toute la diligence voulue;
+
+- b) elle serait vraisemblablement en mesure de faire une proposition viable si la prorogation demandée était accordée;
+
+- c) la prorogation demandée ne saurait causer de préjudice sérieux à l’un ou l’autre des créanciers.
+
+**Non-application du paragraphe 187(11)**
+
+(10) Le paragraphe 187(11) ne s’applique pas aux délais prévus par le paragraphe (9).
+
+**Interruption de délai**
+
+(11) À la demande du syndic, d’un créancier ou, le cas échéant, du séquestre intérimaire nommé aux termes de l’article 47.1, le tribunal peut mettre fin, avant son expiration normale, au délai de trente jours — prorogé, le cas échéant — prévu au paragraphe (8), s’il est convaincu que, selon le cas :
+
+- a) la personne insolvable n’agit pas — ou n’a pas agi — de bonne foi et avec toute la diligence voulue;
+
+- b) elle ne sera vraisemblablement pas en mesure de faire une proposition viable avant l’expiration du délai;
+
+- c) elle ne sera vraisemblablement pas en mesure de faire, avant l’expiration du délai, une proposition qui sera acceptée des créanciers;
+
+- d) le rejet de la demande causerait un préjudice sérieux à l’ensemble des créanciers.
+
+Si le tribunal acquiesce à la demande qui lui est présentée, les alinéas (8)a) à c) s’appliquent alors comme si le délai avait expiré normalement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 19; 1997, ch. 12, art. 32; 2004, ch. 25, art. 33(F); 2005, ch. 47, art. 35; 2007, ch. 36, art. 17; 2017, ch. 26, art. 6(A)
+
+</details>
+
+### 50.5 Préparation de la proposition
+
+Le syndic désigné dans un avis d’intention doit, entre le dépôt de l’avis d’intention et celui de la proposition, participer, notamment comme conseiller, à la préparation de celle-ci, y compris aux négociations pertinentes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 19
+
+</details>
+
+### 50.6 Financement temporaire
+
+(1) Sur demande du débiteur à l’égard duquel a été déposé un avis d’intention aux termes de l’article 50.4 ou une proposition aux termes du paragraphe 62(1), le tribunal peut par ordonnance, sur préavis de la demande aux créanciers garantis qui seront vraisemblablement touchés par la charge ou sûreté, déclarer que tout ou partie des biens du débiteur sont grevés d’une charge ou sûreté — d’un montant qu’il estime indiqué — en faveur de la personne nommée dans l’ordonnance qui accepte de prêter au débiteur la somme qu’il approuve compte tenu de l’état — visé à l’alinéa 50(6)a) ou 50.4(2)a), selon le cas — portant sur l’évolution de l’encaisse et des besoins de celui-ci. La charge ou sûreté ne peut garantir qu’une obligation postérieure au prononcé de l’ordonnance.
+
+**Personne physique**
+
+(2) Toutefois, lorsque le débiteur est une personne physique, il ne peut présenter la demande que s’il exploite une entreprise et, le cas échéant, seuls les biens acquis ou utilisés dans le cadre de l’exploitation de l’entreprise peuvent être grevés.
+
+**Priorité — créanciers garantis**
+
+(3) Le tribunal peut préciser, dans l’ordonnance, que la charge ou sûreté a priorité sur toute réclamation des créanciers garantis du débiteur.
+
+**Priorité — autres ordonnances**
+
+(4) Il peut également y préciser que la charge ou sûreté n’a priorité sur toute autre charge ou sûreté grevant les biens du débiteur au titre d’une ordonnance déjà rendue en vertu du paragraphe (1) que sur consentement de la personne en faveur de qui cette ordonnance a été rendue.
+
+**Facteurs à prendre en considération**
+
+(5) Pour décider s’il rend l’ordonnance, le tribunal prend en considération, entre autres, les facteurs suivants :
+
+- a) la durée prévue des procédures intentées à l’égard du débiteur sous le régime de la présente loi;
+
+- b) la façon dont les affaires financières et autres du débiteur seront gérées au cours de ces procédures;
+
+- c) la question de savoir si ses dirigeants ont la confiance de ses créanciers les plus importants;
+
+- d) la question de savoir si le prêt favorisera la présentation d’une proposition viable à l’égard du débiteur;
+
+- e) la nature et la valeur des biens du débiteur;
+
+- f) la question de savoir si la charge ou sûreté causera un préjudice sérieux à l’un ou l’autre des créanciers du débiteur;
+
+- g) le rapport du syndic visé aux alinéas 50(6)b) ou 50.4(2)b), selon le cas.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 36; 2007, ch. 36, art. 18
+
+</details>
+
+### 51 Convocation d’une assemblée des créanciers
+
+(1) Le syndic convoque immédiatement une assemblée des créanciers — qui doit avoir lieu dans les vingt et un jours suivant le dépôt de la proposition auprès du séquestre officiel aux termes du paragraphe 62(1) — en adressant, de la manière prescrite, à chaque créancier connu et au séquestre officiel, au moins dix jours avant l’assemblée, les documents suivants :
+
+- a) un avis des date, heure et lieu de l’assemblée;
+
+- b) un état succinct des avoirs et obligations;
+
+- c) une liste des créanciers que vise la proposition, avec des réclamations se chiffrant à deux cent cinquante dollars ou plus, et des montants de leurs réclamations, connus ou indiqués aux livres du débiteur;
+
+- d) une copie de la proposition;
+
+- e) si elles n’ont pas déjà été envoyées, les formules prescrites — en blanc — devant servir à l’établissement d’une procuration, d’une preuve de réclamation ou, dans le cas d’un créancier garanti à qui la proposition a été faite, d’une preuve de réclamation garantie;
+
+- f) une formule prescrite de votation.
+
+**En cas d’une assemblée antérieure**
+
+(2) Lorsqu’il est tenu une assemblée des créanciers à laquelle a été présenté un état ou une liste de l’actif, du passif et des créanciers du débiteur, avant que le syndic soit ainsi requis de convoquer une assemblée aux termes du présent article pour étudier la proposition, et que, à la date à laquelle le débiteur requiert la convocation de cette assemblée, l’état de l’actif du débiteur reste sensiblement le même qu’à l’époque de l’assemblée précédente, le syndic n’est pas tenu d’observer les alinéas (1)b) et c).
+
+**Président de la première assemblée**
+
+(3) Le séquestre officiel, ou la personne qu’il désigne, préside l’assemblée des créanciers visée au paragraphe (1) et décide des questions posées ou des contestations soulevées à l’assemblée; tout créancier peut appeler d’une telle décision devant le tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 51; 1992, ch. 1, art. 20, ch. 27, art. 20; 1999, ch. 31, art. 19(F); 2005, ch. 47, art. 123(A)
+
+</details>
+
+### 52 Ajournement d’une assemblée pour investigation et examen supplémentaires
+
+Lorsque les créanciers l’exigent au moyen d’une résolution ordinaire lors de l’assemblée à laquelle une proposition est étudiée, l’assemblée est ajournée aux date, heure et lieu que peut déterminer le président, aux fins de, selon le cas :
+
+- a) permettre que soient effectuées une évaluation et une investigation plus approfondies concernant les affaires et biens du débiteur;
+
+- b) interroger sous serment le débiteur ou toute autre personne censée avoir connaissance des affaires ou des biens du débiteur, et le témoignage de ce dernier ou de cette autre personne, s’il est transcrit, est présenté à l’assemblée ajournée, ou il peut être lu devant le tribunal lors de la demande d’approbation de la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 52; 2005, ch. 47, art. 123(A)
+
+</details>
+
+### 53 Accord ou désaccord du créancier
+
+Tout créancier qui a prouvé une réclamation — garantie ou non — peut, de la manière prescrite, indiquer au syndic, avant l’assemblée, s’il approuve ou désapprouve la proposition; si cette approbation ou désapprobation est reçue par le syndic avant l’assemblée ou lors de celle-ci, elle a le même effet que si le créancier avait été présent et avait voté à l’assemblée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 53; 1992, ch.1, art. 20, ch. 27, art. 21
+
+</details>
+
+### 54 Vote sur la proposition
+
+(1) Les créanciers peuvent, conformément aux autres dispositions du présent article, décider d’accepter ou rejeter la proposition ainsi qu’elle a été faite ou modifiée à l’assemblée ou à un ajournement de celle-ci.
+
+**Mode de votation**
+
+(2) La votation est régie par les règles suivantes :
+
+- a) tous les créanciers non garantis, ainsi que les créanciers garantis dont les réclamations garanties ont fait l’objet de la proposition, ont le droit de voter s’ils ont prouvé leurs réclamations;
+
+- b) les créanciers votent par catégorie, selon celle des catégories à laquelle appartiennent leurs réclamations respectives; à cette fin, toutes les réclamations non garanties forment une seule catégorie, sauf si la proposition prévoit plusieurs catégories de réclamations non garanties, tandis que les catégories de réclamations garanties sont déterminées conformément au paragraphe 50(1.4);
+
+- c) le vote des créanciers garantis n’est pas pris en considération pour l’application du présent article; il ne l’est que pour l’application du paragraphe 62(2);
+
+- d) la proposition est réputée acceptée par les créanciers seulement si toutes les catégories de créanciers non garantis — mis à part, sauf ordonnance contraire du tribunal, toute catégorie de créanciers ayant des réclamations relatives à des capitaux propres — votent en faveur de son acceptation par une majorité en nombre et une majorité des deux tiers en valeur des créanciers non garantis de chaque catégorie présents personnellement ou représentés par fondé de pouvoir à l’assemblée et votant sur la résolution.
+
+**Certaines réclamations de la Couronne**
+
+(2.1) Il demeure entendu que le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* n’a pas pour effet d’assimiler, pour l’application du paragraphe (2), aux réclamations garanties les réclamations de Sa Majesté du chef du Canada ou d’une province pour des montants qui pourraient faire l’objet d’une demande aux termes d’une des dispositions suivantes :
+
+- a) le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*;
+
+- b) toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui renvoie au paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* et qui prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi et des intérêts, pénalités ou autres montants y afférents;
+
+- c) toute disposition législative provinciale dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, dans la mesure où elle prévoit la perception d’une somme, et des intérêts, pénalités ou autres montants y afférents, qui :
+  - (i) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+  - (ii) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est « une province instituant un régime général de pensions » au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un « régime provincial de pensions » au sens de ce paragraphe.
+
+**Absence de quorum**
+
+(2.2) À défaut de quorum des créanciers garantis dans le cas d’une des catégories de créances garanties, les créanciers garantis qui possèdent une réclamation appartenant à cette catégorie sont réputés avoir voté en faveur du rejet de la proposition.
+
+**Créancier lié**
+
+(3) Un créancier qui est lié au débiteur peut voter contre, mais non pour, l’acceptation de la proposition.
+
+**Vote par le syndic**
+
+(4) Le syndic, en tant que créancier, ne peut voter sur la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 54; 1992, ch. 27, art. 22; 2000, ch. 30, art. 143; 2007, ch. 36, art. 19; 2009, ch. 33, art. 21
+
+</details>
+
+### 54.1 Catégorie de créanciers ayant des réclamations relatives à des capitaux propres
+
+Malgré les alinéas 54(2)a) et b), les créanciers qui ont des réclamations relatives à des capitaux propres font partie d’une même catégorie de créanciers relativement à ces réclamations, sauf ordonnance contraire du tribunal, et ne peuvent à ce titre voter à aucune assemblée, sauf ordonnance contraire du tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2007, ch. 36, art. 20
+
+</details>
+
+### 55 Les créanciers peuvent assurer la surveillance des affaires du débiteur
+
+À une assemblée convoquée pour étudier une proposition, les créanciers, avec l’approbation du débiteur, peuvent inclure, dans la proposition, les dispositions ou les conditions qui peuvent être jugées convenables relativement à la surveillance des affaires du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 37
+
+</details>
+
+### 56 Nomination d’inspecteurs
+
+Les créanciers peuvent nommer un ou plusieurs, mais au plus cinq, inspecteurs de l’actif du débiteur, qui possèdent les pouvoirs d’un inspecteur aux termes de la présente loi, sous réserve toutefois de l’extension ou de la restriction de ces pouvoirs que prévoit la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 38
+
+</details>
+
+### 57 Effet du rejet d’une proposition
+
+Lorsque les créanciers refusent d’accepter une proposition visant une personne insolvable :
+
+- a) celle-ci est réputée avoir fait dès lors une cession;
+
+- b) le syndic en fait immédiatement rapport, en la forme prescrite, au séquestre officiel;
+
+- b.1) le séquestre officiel délivre, en la forme prescrite, un certificat de cession ayant, pour l’application de la présente loi, le même effet qu’une cession déposée en conformité avec l’article 49;
+
+- c) le syndic est tenu :
+  - (i) de convoquer aussitôt une assemblée des créanciers présents à ce moment-là, assemblée qui est réputée convoquée aux termes de l’article 102,
+  - (ii) faute de quorum pour l’application du sous-alinéa (i), de convoquer, dans les cinq jours suivant la délivrance du certificat visé à l’alinéa b.1), une assemblée des créanciers aux termes de l’article 102.
+  À cette assemblée, les créanciers peuvent, par résolution ordinaire, nonobstant l’article 14, confirmer la nomination du syndic ou lui substituer un autre syndic autorisé.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 57; 1992, ch. 27, art. 23; 1997, ch. 12, art. 33; 2005, ch. 47, art. 38; 2017, ch. 26, art. 7
+
+</details>
+
+### 57.1 Nomination par le tribunal
+
+Dans les cas prévus aux paragraphes 50(12) ou 50.4(11), le tribunal peut substituer au syndic nommé dans l’avis d’intention ou la proposition un autre syndic s’il est convaincu que cette mesure est dans l’intérêt des créanciers.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 34
+
+</details>
+
+### 58 Demande d’approbation
+
+En cas d’acceptation de la proposition par les créanciers, le syndic :
+
+- a) dans les cinq jours suivants, demande au tribunal de fixer la date d’audition de la demande d’approbation de la proposition par celui-ci;
+
+- b) adresse, selon les modalités prescrites, un préavis d’audition d’au moins quinze jours au débiteur, à l’auteur de la proposition, à chaque créancier qui a prouvé une réclamation, garantie ou non, et au séquestre officiel;
+
+- c) adresse au séquestre officiel, au moins dix jours avant la date de l’audition, une copie du rapport visé à l’alinéa d);
+
+- d) au moins deux jours avant la date de l’audition, dépose devant le tribunal, en la forme prescrite, un rapport sur la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 58; 1992, ch. 1, art. 20, ch. 27, art. 23; 1997, ch. 12, art. 35
+
+</details>
+
+### 59 Audition préalable
+
+(1) Avant d’approuver la proposition, le tribunal entend le rapport du syndic dans la forme prescrite quant aux conditions de la proposition et à la conduite du débiteur; en outre, il entend le syndic, le débiteur, l’auteur de la proposition, tout créancier adverse, opposé ou dissident, ainsi que tout témoignage supplémentaire qu’il peut exiger.
+
+**Le tribunal peut refuser d’approuver la proposition**
+
+(2) Lorsqu’il est d’avis que les conditions de la proposition ne sont pas raisonnables ou qu’elles ne sont pas destinées à avantager l’ensemble des créanciers, le tribunal refuse d’approuver la proposition; et il peut refuser d’approuver la proposition lorsqu’il est établi que le débiteur a commis l’une des infractions mentionnées aux articles 198 à 200.
+
+**Garantie raisonnable**
+
+(3) Lorsque l’un des faits mentionnés à l’article 173 est établi contre le débiteur, le tribunal refuse d’approuver la proposition, à moins qu’elle ne comporte des garanties raisonnables pour le paiement d’au moins cinquante cents par dollar sur toutes les réclamations non garanties prouvables contre l’actif du débiteur ou pour le paiement de tel pourcentage en l’espèce que le tribunal peut déterminer.
+
+**Modification des statuts constitutifs**
+
+(4) Le tribunal qui approuve une proposition peut ordonner la modification des statuts constitutifs du débiteur conformément à ce qui est prévu dans la proposition, pourvu que la modification soit légale au regard du droit fédéral ou provincial.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 59; 1997, ch. 12, art. 36; 2000, ch. 12, art. 10; 2007, ch. 36, art. 21
+
+</details>
+
+### 60 Priorité des réclamations
+
+(1) Le tribunal ne peut approuver aucune proposition qui ne prescrive pas le paiement, en priorité sur les autres réclamations, de toutes les réclamations dont le paiement est ainsi ordonné dans la distribution des biens d’un débiteur, et le paiement de tous les honoraires et dépenses convenables du syndic relatifs et connexes aux procédures découlant de la proposition ou survenant dans la faillite.
+
+**Certaines réclamations de la Couronne**
+
+(1.1) Le tribunal ne peut, sans le consentement de Sa Majesté, approuver une proposition qui ne prévoit pas le paiement intégral à Sa Majesté du chef du Canada ou d’une province, dans les six mois suivant l’approbation, de tous les montants qui étaient dus lors du dépôt de l’avis d’intention ou, à défaut, de la proposition et qui sont de nature à faire l’objet d’une demande aux termes d’une des dispositions suivantes :
+
+- a) le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*;
+
+- b) toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui renvoie au paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* et qui prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi et des intérêts, pénalités ou autres montants y afférents;
+
+- c) toute disposition législative provinciale dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, dans la mesure où elle prévoit la perception d’une somme, et des intérêts, pénalités ou autres montants y afférents, qui :
+  - (i) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+  - (ii) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est « une province instituant un régime général de pensions » au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un « régime provincial de pensions » au sens de ce paragraphe.
+
+**Idem**
+
+(1.2) Le tribunal ne peut approuver la proposition si, lors de l’audition de la demande d’approbation, Sa Majesté du chef du Canada ou d’une province le convainc du défaut du débiteur d’effectuer un versement portant sur un montant visé au paragraphe (1.1) et qui est devenu exigible après le dépôt de l’avis d’intention ou, à défaut d’avis d’intention, après le dépôt de la proposition.
+
+**Propositions d’employeurs**
+
+(1.3) Le tribunal ne peut approuver la proposition visant un employeur que si, à la fois :
+
+- a) celle-ci prévoit que sera effectué le paiement aux employés — actuels et anciens —, dès son approbation, de sommes égales ou supérieures, d’une part, à celles qu’ils seraient en droit de recevoir en application de l’alinéa 136(1)d) si l’employeur avait fait faillite à la date du dépôt de l’avis d’intention ou, à défaut, de la proposition et, d’autre part, au montant des gages, salaires, commissions ou rémunérations pour services fournis entre cette date et celle de son approbation, y compris les sommes que le voyageur de commerce a régulièrement déboursées dans l’entreprise du failli ou relativement à celle-ci entre ces dates;
+
+- b) il est convaincu que l’employeur est en mesure d’effectuer, et effectuera, les paiements prévus à l’alinéa a).
+
+**Vote sur la proposition**
+
+(1.4) Aux fins du vote sur toute question relative à la proposition visant un employeur, personne n’a de réclamation à faire valoir pour les montants mentionnés à l’alinéa (1.3)a).
+
+**Propositions d’employeurs — régime de pension**
+
+(1.5) Le tribunal ne peut approuver la proposition visant un employeur qui participe à un régime de pension prescrit institué pour ses employés que si, à la fois :
+
+- a) la proposition prévoit que seront effectués des paiements correspondant au total des sommes ci-après qui n’ont pas été versées au fonds établi dans le cadre du régime de pension :
+  - (i) les sommes qui ont été déduites de la rémunération des employés pour versement au fonds,
+  - (ii) dans le cas d’un régime de pension prescrit régi par une loi fédérale :
+    - (A) les coûts normaux, au sens du paragraphe 2(1) du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur est tenu de verser au fonds,
+    - (A.1) la somme égale au total des paiements spéciaux, établis conformément à l’article 9 du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur est tenu de verser au fonds visé aux articles 81.5 et 81.6 pour la liquidation d’un passif non capitalisé ou d’un déficit de solvabilité,
+    - (A.2) toute somme requise pour la liquidation de tout autre passif non capitalisé ou déficit de solvabilité du fonds établi au moment du dépôt de l’avis d’intention ou, à défaut d’avis, de la proposition,
+    - (B) les sommes que l’employeur est tenu de verser au fonds au titre de toute disposition à cotisations déterminées au sens du paragraphe 2(1) de la *Loi de 1985 sur les normes de prestation de pension*,
+    - (C) les sommes que l’employeur est tenu de verser à l’administrateur d’un régime de pension agréé collectif au sens du paragraphe 2(1) de la *Loi sur les régimes de pension agréés collectifs*,
+  - (iii) dans le cas de tout autre régime de pension prescrit :
+    - (A) la somme égale aux coûts normaux, au sens du paragraphe 2(1) du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur serait tenu de verser au fonds si le régime était régi par une loi fédérale,
+    - (A.1) la somme égale au total des paiements spéciaux, établis conformément à l’article 9 du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur serait tenu de verser au fonds visé aux articles 81.5 et 81.6 pour la liquidation d’un passif non capitalisé ou d’un déficit de solvabilité si le régime était régi par une loi fédérale,
+    - (A.2) toute somme requise pour la liquidation de tout autre passif non capitalisé ou déficit de solvabilité du fonds établi au moment du dépôt de l’avis d’intention ou, à défaut d’avis, de la proposition,
+    - (B) la somme égale au total des sommes que l’employeur serait tenu de verser au fonds au titre de toute disposition à cotisations déterminées au sens du paragraphe 2(1) de la *Loi de 1985 sur les normes de prestation de pension* si le régime était régi par une loi fédérale,
+    - (C) la somme égale au total des sommes que l’employeur serait tenu de verser à l’égard du régime s’il était régi par la *Loi sur les régimes de pension agréés collectifs*;
+
+- b) il est convaincu que l’employeur est en mesure d’effectuer, et effectuera, les paiements prévus à l’alinéa a).
+
+**Non-application du paragraphe (1.5)**
+
+(1.6) Par dérogation au paragraphe (1.5), le tribunal peut approuver la proposition qui ne prévoit pas le versement des sommes mentionnées à ce paragraphe s’il est convaincu que les parties en cause ont conclu un accord sur les sommes à verser et que l’autorité administrative responsable du régime de pension a consenti à l’accord.
+
+**Paiement d’une réclamation relative à des capitaux propres**
+
+(1.7) Le tribunal ne peut approuver la proposition qui prévoit le paiement d’une réclamation relative à des capitaux propres que si, selon les termes de celle-ci, le paiement intégral de toutes les autres réclamations sera effectué avant le paiement de la réclamation relative à des capitaux propres.
+
+**Paiement au syndic**
+
+(2) Tout montant payable aux termes de la proposition est payé au syndic et, après le paiement de tous les honoraires et dépenses convenables mentionnés au paragraphe (1), distribué par lui aux créanciers.
+
+**Distribution de billets à ordre, d’actions, etc. du débiteur**
+
+(3) Lorsque la proposition prévoit la distribution des biens sous forme de billets à ordre ou d’autres titres d’obligations souscrites par le débiteur ou en son nom ou, si le débiteur est une personne morale, sous forme d’actions du capital social de la personne morale, ces biens sont traités dans la mesure du possible conformément au paragraphe (2).
+
+**L’art. 147 s’applique**
+
+(4) L’article 147 s’applique à toutes les distributions faites aux créanciers par le syndic conformément au paragraphe (2) ou (3).
+
+**Pouvoirs du tribunal**
+
+(5) Sous réserve des paragraphes (1) à (1.7), le tribunal peut approuver ou refuser la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 60; 1992, ch. 27, art. 24; 1997, ch. 12, art. 37; 2000, ch. 30, art. 144; 2005, ch. 47, art. 39; 2007, ch. 36, art. 22 et 99; 2009, ch. 33, art. 22; 2012, ch. 16, art. 79
+- 2023, ch. 6, art. 2
+
+</details>
+
+### 61 Annulation de faillite
+
+(1) L’approbation par le tribunal d’une proposition faite après la faillite a pour effet d’annuler la faillite et de réattribuer au débiteur, ou à toute autre personne que le tribunal peut approuver, le droit, le titre et l’intérêt complets du syndic aux biens du débiteur, à moins que les conditions de la proposition n’en stipulent autrement.
+
+**Refus d’approuver une proposition**
+
+(2) Lorsque le tribunal refuse d’approuver une proposition visant une personne insolvable, proposition dont une copie a été déposée aux termes de l’article 62 :
+
+- a) celle-ci est réputée avoir fait dès lors une cession;
+
+- b) le syndic en fait immédiatement rapport, en la forme prescrite, au séquestre officiel;
+
+- b.1) le séquestre officiel délivre, en la forme prescrite, un certificat de cession ayant, pour l’application de la présente loi, le même effet qu’une cession déposée en conformité avec l’article 49;
+
+- c) le syndic convoque, dans les cinq jours suivant la délivrance du certificat de cession, une assemblée des créanciers aux termes de l’article 102, assemblée à laquelle les créanciers peuvent, par résolution ordinaire, nonobstant l’article 14, confirmer sa nomination ou lui substituer un autre syndic autorisé.
+
+(3) [Abrogé, 1992, ch. 27, art. 25]
+
+**Frais lorsque la proposition est refusée**
+
+(4) Si le tribunal refuse d’approuver une proposition, il ne peut être accordé sur l’actif du débiteur aucuns frais qu’a entraînés ou occasionnés pour ce dernier une demande d’approbation de la proposition sauf ceux qu’a subis le syndic.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 61; 1992, ch. 27, art. 25; 1997, ch. 12, art. 38; 2005, ch. 47, art. 40; 2017, ch. 26, art. 8(A)
+
+</details>
+
+### 62 Dépôt d’une proposition
+
+(1) Le syndic dépose, auprès du séquestre officiel, une copie de toute proposition visant une personne insolvable ainsi que du bilan prescrit.
+
+**Détermination des réclamations — personne insolvable**
+
+(1.1) S’agissant de la proposition visant une personne insolvable, le moment par rapport auquel les réclamations des créanciers, à l’exception de celles visées au paragraphe 14.06(8), sont déterminées est celui du dépôt de l’avis d’intention ou, à défaut, de la proposition.
+
+**Détermination des réclamations — failli**
+
+(1.2) S’agissant de la proposition visant un failli, le moment par rapport auquel les réclamations des créanciers, à l’exception de celles visées au paragraphe 14.06(8), sont déterminées est celui où il est devenu un failli.
+
+**Personnes liées par l’approbation**
+
+(2) Une fois acceptée par les créanciers et approuvée par le tribunal, la proposition lie ces derniers relativement :
+
+- a) à toutes les réclamations non garanties;
+
+- b) aux réclamations garanties qui en faisaient l’objet et dont les créanciers ont voté, par catégorie, en faveur de l’acceptation par une majorité en nombre et une majorité des deux tiers en valeur des créanciers garantis présents personnellement ou représentés par fondé de pouvoir à l’assemblée et votant sur la résolution proposant son acceptation.
+
+**Cas où la personne insolvable est libérée d’une dette**
+
+(2.1) Toutefois, l’acceptation d’une proposition par les créanciers et son approbation par le tribunal ne libèrent la personne insolvable d’une dette ou obligation visée au paragraphe 178(1) que si la proposition prévoit expressément la possibilité de transiger sur cette dette ou obligation et que le créancier intéressé a voté en faveur de l’acceptation de la proposition.
+
+**Certaines personnes non libérées**
+
+(3) L’acceptation d’une proposition par un créancier ne libère aucune personne qui ne le serait pas aux termes de la présente loi par la libération du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 62; 1992, ch. 27, art. 26; 1997, ch. 12, art. 39; 2005, ch. 47, art. 41; 2007, ch. 36, art. 23
+
+</details>
+
+### 62.1 Défaut d’exécution
+
+Le syndic doit, selon les modalités prescrites — notamment en ce qui a trait aux délais et à la forme —, informer tous les créanciers ainsi que le séquestre officiel de la survenance de la situation suivante :
+
+- a) il y a défaut d’exécution d’une des dispositions de la proposition;
+
+- b) les inspecteurs ou, en l’absence d’inspecteurs, les créanciers ne font pas abstraction du défaut;
+
+- c) la personne insolvable omet de remédier au défaut dans les délais prescrits.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 27
+
+</details>
+
+### 63 Ordonnance de séquestre en cas de défaut
+
+(1) En cas de défaut d’exécution d’une disposition que renferme une proposition, ou s’il apparaît au tribunal que la proposition ne peut être maintenue sans injustice ni retard indu, ou que l’approbation du tribunal a été obtenue par fraude, le tribunal peut, sur demande qui lui est adressée, après qu’a été donné au débiteur et, s’il y a lieu, au syndic et aux créanciers l’avis qu’il est loisible au tribunal de prescrire, annuler la proposition.
+
+**Validité des choses faites**
+
+(2) Une ordonnance rendue aux termes du paragraphe (1) l’est sans préjudice de la validité d’une vente ou autre disposition de biens ou d’un paiement dûment fait, ou d’une chose dûment exécutée en vertu de la proposition ou en conformité avec celle-ci et, nonobstant l’annulation de la proposition, une garantie donnée conformément à la proposition conserve pleine force et effet conformément à ses conditions.
+
+**Annulation en cas d’infraction**
+
+(3) Une proposition, même si elle est acceptée ou approuvée, peut être annulée par une ordonnance du tribunal à la demande du syndic ou d’un créancier lorsque le débiteur est subséquemment déclaré coupable d’une infraction prévue par la présente loi.
+
+**Effet de l’annulation de l’ordonnance**
+
+(4) Sur annulation de la proposition, le débiteur est réputé avoir alors fait une cession et l’ordonnance annulant la proposition en fait mention.
+
+**Convocation de l’assemblée des créanciers**
+
+(5) Lorsqu’une ordonnance annulant une proposition a été rendue, le syndic convoque, dans les cinq jours suivants, une assemblée des créanciers aux termes de l’article 102, assemblée à laquelle les créanciers peuvent, par résolution ordinaire, nonobstant l’article 14, confirmer sa nomination ou lui substituer un autre syndic autorisé.
+
+**Effets de l’annulation**
+
+(6) Lorsqu’une ordonnance annulant la proposition mentionnée au paragraphe (5) a été rendue, le syndic en fait immédiatement rapport, en la forme prescrite, au séquestre officiel, qui doit alors délivrer, en la forme prescrite, un certificat de cession ayant, pour l’application de la présente loi, le même effet qu’une cession déposée en conformité avec l’article 49.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 63; 1992, ch. 27, art. 28; 2004, ch. 25, art. 34(F)
+
+</details>
+
+### 64 Révocation des administrateurs
+
+(1) Sur demande d’un intéressé, le tribunal peut, par ordonnance, révoquer tout administrateur d’un débiteur à l’égard duquel a été déposé un avis d’intention aux termes de l’article 50.4 ou une proposition aux termes du paragraphe 62(1) s’il est convaincu que l’administrateur, sans raisons valables, compromet ou compromettra vraisemblablement la possibilité de faire une proposition viable ou agit ou agira vraisemblablement de façon inacceptable dans les circonstances.
+
+**Vacances**
+
+(2) Le tribunal peut, par ordonnance, combler toute vacance découlant de la révocation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 64; 1992, ch. 27, art. 29; 1997, ch. 12, art. 40; 1999, ch. 31, art. 20; 2005, ch. 47, art. 42
+
+</details>
+
+### 64.1 Biens grevés d’une charge ou sûreté en faveur d’administrateurs ou de dirigeants
+
+(1) Sur demande de la personne à l’égard de laquelle a été déposé un avis d’intention aux termes de l’article 50.4 ou une proposition aux termes du paragraphe 62(1), le tribunal peut par ordonnance, sur préavis de la demande aux créanciers garantis qui seront vraisemblablement touchés par la charge ou sûreté, déclarer que tout ou partie des biens de la personne sont grevés d’une charge ou sûreté, d’un montant qu’il estime indiqué, en faveur d’un ou de plusieurs de ses administrateurs ou dirigeants pour l’exécution des obligations qu’ils peuvent contracter en cette qualité après le dépôt de l’avis d’intention ou de la proposition.
+
+**Priorité**
+
+(2) Il peut préciser, dans l’ordonnance, que la charge ou sûreté a priorité sur toute réclamation des créanciers garantis de la personne.
+
+**Restriction — assurance**
+
+(3) Il ne peut toutefois rendre une telle ordonnance s’il estime que la personne peut souscrire, à un coût qu’il estime juste, une assurance permettant d’indemniser adéquatement les administrateurs ou dirigeants.
+
+**Négligence, inconduite ou faute**
+
+(4) Il déclare, dans l’ordonnance, que la charge ou sûreté ne vise pas les obligations que l’administrateur ou le dirigeant assume, selon lui, par suite de sa négligence grave ou de son inconduite délibérée ou, au Québec, par sa faute lourde ou intentionnelle.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 42; 2007, ch. 36, art. 24
+
+</details>
+
+### 64.2 Biens grevés d’une charge ou sûreté pour couvrir certains frais
+
+(1) Le tribunal peut par ordonnance, sur préavis aux créanciers garantis qui seront vraisemblablement touchés par la charge ou sûreté, déclarer que tout ou partie des biens de la personne à l’égard de laquelle a été déposé un avis d’intention aux termes de l’article 50.4 ou une proposition aux termes du paragraphe 62(1) sont grevés d’une charge ou sûreté, d’un montant qu’il estime indiqué, pour couvrir :
+
+- a) les dépenses et honoraires du syndic, ainsi que ceux des experts — notamment en finance et en droit — dont il retient les services dans le cadre de ses fonctions;
+
+- b) ceux des experts dont la personne retient les services dans le cadre de procédures intentées sous le régime de la présente section;
+
+- c) ceux des experts dont tout autre intéressé retient les services, si, à son avis, la charge ou sûreté était nécessaire pour assurer sa participation efficace aux procédures intentées sous le régime de la présente section.
+
+**Priorité**
+
+(2) Il peut préciser, dans l’ordonnance, que la charge ou sûreté a priorité sur toute réclamation des créanciers garantis de la personne.
+
+**Personne physique**
+
+(3) Toutefois, s’agissant d’une personne physique, il ne peut faire la déclaration que si la personne exploite une entreprise et, le cas échéant, seuls les biens acquis ou utilisés dans le cadre de l’exploitation de l’entreprise peuvent être grevés.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 42; 2007, ch. 36, art. 24
+
+</details>
+
+### 65 Cas où la proposition est subordonnée à l’achat de nouvelles valeurs mobilières
+
+Une proposition faite subordonnément à l’achat d’actions ou de valeurs mobilières ou à tout autre paiement ou contribution par les créanciers doit stipuler que la réclamation de tout créancier qui décide de ne pas participer à la proposition sera évaluée par le tribunal et payée en espèces lors de l’approbation de la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 65; 2004, ch. 25, art. 35(F)
+
+</details>
+
+### 65.1 Limitation de certains droits
+
+(1) En cas de dépôt d’un avis d’intention ou d’une proposition à l’égard d’une personne insolvable, il est interdit de résilier ou de modifier un contrat — notamment de garantie — conclu avec cette personne ou de se prévaloir d’une clause de déchéance du terme figurant dans un tel contrat, au seul motif que la personne en question est insolvable ou qu’un avis d’intention ou une proposition a été déposé à son égard.
+
+**Idem**
+
+(2) Lorsque le contrat visé au paragraphe (1) est un bail ou un accord de licence, l’interdiction prévue à ce paragraphe vaut également, avec les mêmes modalités, dans le cas où la personne insolvable n’a pas payé son loyer ou ses redevances, selon le cas, ou n’a pas effectué quelque autre paiement de nature semblable à l’égard d’une période antérieure au dépôt de l’avis d’intention ou, à défaut d’avis d’intention, de la proposition.
+
+**Idem**
+
+(3) En cas de dépôt d’un avis d’intention ou d’une proposition à l’égard d’une personne insolvable, il est interdit à toute entreprise de service public d’interrompre la prestation de ses services auprès de cette personne au seul motif qu’elle est insolvable, qu’un avis d’intention ou une proposition a été déposé à son égard ou qu’elle n’a pas payé certains services rendus, ou du matériel fourni, avant le dépôt de l’avis d’intention ou, à défaut d’avis d’intention, de la proposition.
+
+**Exceptions**
+
+(4) Les paragraphes (1) à (3) n’ont pas pour effet :
+
+- a) d’empêcher une personne d’exiger que soient effectués sans délai les paiements relatifs à la fourniture de marchandises ou de services, à l’utilisation de biens loués ou faisant l’objet d’une licence ou à la fourniture de toute autre contrepartie valable, dans la mesure où pareille fourniture ou utilisation a eu lieu après le dépôt de l’avis d’intention ou, à défaut, de la proposition;
+
+- b) d’exiger la prestation de nouvelles avances de fonds ou de nouveaux crédits.
+
+- c) [Abrogé, 2012, ch. 31, art. 415]
+
+**Incompatibilité**
+
+(5) Les paragraphes (1) à (3) l’emportent sur les dispositions incompatibles de tout contrat, celles-ci étant sans effet.
+
+**Pouvoirs du tribunal**
+
+(6) À la demande d’une des parties à un contrat ou d’une entreprise de service public, le tribunal peut déclarer les paragraphes (1) à (3) inapplicables ou applicables uniquement dans la mesure qu’il précise, si le demandeur le convainc que l’application de ces paragraphes lui causerait vraisemblablement de sérieuses difficultés financières.
+
+**Contrats financiers admissibles**
+
+(7) Le paragraphe (1) :
+
+- a) ne s’applique pas aux contrats financiers admissibles;
+
+- b) n’a pas pour effet d’empêcher un membre de l’Association canadienne des paiements constituée par la *Loi canadienne sur les paiements* de cesser d’agir, pour une personne insolvable, à titre d’agent de compensation ou d’adhérent correspondant de groupe conformément à cette loi et aux règles et règlements administratifs de l’Association.
+
+(8) [Abrogé, 2007, ch. 29, art. 92]
+
+**Opérations permises**
+
+(9) Malgré les paragraphes 69(1) et 69.1(1), si le contrat financier admissible conclu avant le dépôt d’un avis d’intention relatif à une personne insolvable ou, à défaut, d’une proposition la visant est résilié lors de ce dépôt ou par la suite, il est permis d’effectuer les opérations ci-après en conformité avec le contrat :
+
+- a) la compensation des obligations entre la personne insolvable et les autres parties au contrat;
+
+- b) toute opération à l’égard de la garantie financière afférente, notamment :
+  - (i) la vente, la demande en forclusion ou, dans la province de Québec, la demande en délaissement,
+  - (ii) la compensation, ou l’affectation de son produit ou de sa valeur.
+
+**Valeurs nettes dues à la date de résiliation**
+
+(10) Si, aux termes du contrat financier admissible visé au paragraphe (9), des sommes sont dues par la personne insolvable à une autre partie au contrat au titre de valeurs nettes dues à la date de résiliation, cette autre partie est réputée, pour l’application des alinéas 69(1)a) et 69.1(1)a), être un créancier de la personne insolvable et avoir une réclamation prouvable en matière de faillite relativement à ces sommes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 30; 1997, ch. 12, art. 41; 2001, ch. 9, art. 573; 2004, ch. 25, art. 36(A); 2005, ch. 47, art. 43; 2007, ch. 29, art. 92; 2012, ch. 31, art. 415
+
+</details>
+
+### 65.11 Résiliation de contrats
+
+(1) Sous réserve des paragraphes (3) et (4), le débiteur à l’égard duquel a été déposé un avis d’intention aux termes de l’article 50.4 ou une proposition aux termes du paragraphe 62(1) peut — sur préavis donné en la forme et de la manière prescrites aux autres parties au contrat et au syndic et après avoir obtenu l’acquiescement de celui-ci relativement au projet de résiliation — résilier tout contrat auquel il est partie à la date du dépôt de l’avis ou de la proposition.
+
+**Personne physique**
+
+(2) Toutefois, lorsque le débiteur est une personne physique, il ne peut effectuer la résiliation que s’il exploite une entreprise et, le cas échéant, seuls les contrats relatifs à l’entreprise peuvent être résiliés.
+
+**Contestation**
+
+(3) Dans les quinze jours suivant la date à laquelle le débiteur donne le préavis mentionné au paragraphe (1), toute partie au contrat peut, sur préavis aux autres parties au contrat et au syndic, demander au tribunal d’ordonner que le contrat ne soit pas résilié.
+
+**Absence d’acquiescement du syndic**
+
+(4) Si le syndic n’acquiesce pas au projet de résiliation, le débiteur peut, sur préavis aux autres parties au contrat et au syndic, demander au tribunal d’ordonner la résiliation du contrat.
+
+**Facteurs à prendre en considération**
+
+(5) Pour décider s’il rend l’ordonnance, le tribunal prend en considération, entre autres, les facteurs suivants :
+
+- a) l’acquiescement du syndic au projet de résiliation, le cas échéant;
+
+- b) la question de savoir si la résiliation favorisera la présentation d’une proposition viable à l’égard du débiteur;
+
+- c) le risque que la résiliation puisse vraisemblablement causer de sérieuses difficultés financières à une partie au contrat.
+
+**Résiliation**
+
+(6) Le contrat est résilié :
+
+- a) trente jours après la date à laquelle le débiteur donne le préavis mentionné au paragraphe (1), si aucune demande n’est présentée en vertu du paragraphe (3);
+
+- b) trente jours après la date à laquelle le débiteur donne le préavis mentionné au paragraphe (1) ou à la date postérieure fixée par le tribunal, si ce dernier rejette la demande présentée en vertu du paragraphe (3);
+
+- c) trente jours après la date à laquelle le débiteur donne le préavis mentionné au paragraphe (4) ou à la date postérieure fixée par le tribunal, si ce dernier ordonne la résiliation du contrat en vertu de ce paragraphe.
+
+**Propriété intellectuelle**
+
+(7) Si le débiteur a autorisé par contrat une personne à utiliser un droit de propriété intellectuelle, la résiliation n’empêche pas la personne de l’utiliser ni d’en faire respecter l’utilisation exclusive, à condition qu’elle respecte ses obligations contractuelles à l’égard de l’utilisation de ce droit, et ce, pour la période prévue au contrat et pour toute prolongation de celle-ci dont elle se prévaut de plein droit.
+
+**Pertes découlant de la résiliation**
+
+(8) En cas de résiliation du contrat, toute partie à celui-ci qui subit des pertes découlant de la résiliation est réputée avoir une réclamation prouvable.
+
+**Motifs de la résiliation**
+
+(9) Dans les cinq jours qui suivent la date à laquelle une partie au contrat le lui demande, le débiteur lui expose par écrit les motifs de son projet de résiliation.
+
+**Exceptions**
+
+(10) Le présent article ne s’applique pas aux contrats suivants :
+
+- a) les contrats financiers admissibles;
+
+- b) les baux visés au paragraphe 65.2(1);
+
+- c) les conventions collectives;
+
+- d) les accords de financement au titre desquels le débiteur est l’emprunteur;
+
+- e) les baux d’immeubles ou de biens réels au titre desquels le débiteur est le locateur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 44; 2007, ch. 29, art. 93, ch. 36, art. 26; 2009, ch. 31, art. 63
+- 2018, ch. 27, art. 265(F)
+
+</details>
+
+### 65.12 Demande pour que le tribunal autorise l’avis de négociations collectives
+
+(1) Si la personne insolvable à l’égard de laquelle a été déposé un avis d’intention aux termes de l’article 50.4 ou une proposition aux termes du paragraphe 62(1) est partie à une convention collective à titre d’employeur et qu’elle ne peut s’entendre librement avec l’agent négociateur sur la révision de tout ou partie de la convention collective, elle peut, sur préavis de cinq jours à l’agent négociateur, demander au tribunal de l’autoriser, par ordonnance, à transmettre à l’agent négociateur un avis de négociations collectives en vue de la révision de la convention collective conformément aux règles de droit applicables aux négociations entre les parties.
+
+**Cas où l’autorisation est accordée**
+
+(2) Le tribunal ne rend l’ordonnance que s’il est convaincu que, à la fois :
+
+- a) la personne insolvable ne pourrait faire de proposition viable compte tenu des dispositions de la convention collective;
+
+- b) elle a tenté de bonne foi d’en négocier de nouveau les dispositions;
+
+- c) elle subirait vraisemblablement des dommages irréparables s’il ne la rendait pas.
+
+**Vote sur la proposition**
+
+(3) Le vote des créanciers sur la proposition ne peut être retardé pour la seule raison que le délai imparti par les règles de droit applicables aux négociations collectives entre les parties à la convention collective n’a pas expiré.
+
+**Réclamation consécutive à la révision**
+
+(4) Si les parties acceptent de réviser la convention collective après que des procédures ont été intentées sous le régime de la présente loi à l’égard d’une personne insolvable, l’agent négociateur en cause est réputé avoir une réclamation à titre de créancier non garanti pour une somme équivalant à la valeur des concessions accordées pour la période non écoulée de la convention.
+
+**Ordonnance visant la communication de renseignements**
+
+(5) Sur demande de l’agent négociateur partie à la convention collective et sur avis aux personnes intéressées, le tribunal peut ordonner à celles-ci de communiquer au demandeur, aux conditions qu’il précise, tous renseignements qu’elles ont en leur possession ou à leur disposition — sur les affaires et la situation financière de la personne insolvable — qui ont un intérêt pour les négociations collectives. Le tribunal ne peut rendre l’ordonnance qu’après l’envoi à l’agent négociateur de l’avis de négociations collectives visé au paragraphe (1).
+
+**Maintien en vigueur des conventions collectives**
+
+(6) Il est entendu que toute convention collective que la personne insolvable et l’agent négociateur n’ont pas convenu de réviser demeure en vigueur.
+
+**Parties**
+
+(7) Pour l’application du présent article, les parties à la convention collective sont la personne insolvable et l’agent négociateur liés par elle.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 44
+
+</details>
+
+### 65.13 Restriction à la disposition d’actifs
+
+(1) Il est interdit à la personne insolvable à l’égard de laquelle a été déposé un avis d’intention aux termes de l’article 50.4 ou une proposition aux termes du paragraphe 62(1) de disposer, notamment par vente, d’actifs hors du cours ordinaire de ses affaires sans l’autorisation du tribunal. Le tribunal peut accorder l’autorisation sans qu’il soit nécessaire d’obtenir l’acquiescement des actionnaires, et ce malgré toute exigence à cet effet, notamment en vertu d’une règle de droit fédérale ou provinciale.
+
+**Personne physique**
+
+(2) Toutefois, lorsque l’autorisation est demandée par une personne physique qui exploite une entreprise, elle ne peut viser que les actifs acquis ou utilisés dans le cadre de l’exploitation de celle-ci.
+
+**Avis aux créanciers**
+
+(3) La personne insolvable qui demande l’autorisation au tribunal en avise les créanciers garantis qui peuvent vraisemblablement être touchés par le projet de disposition.
+
+**Facteurs à prendre en considération**
+
+(4) Pour décider s’il accorde l’autorisation, le tribunal prend en considération, entre autres, les facteurs suivants :
+
+- a) la justification des circonstances ayant mené au projet de disposition;
+
+- b) l’acquiescement du syndic au processus ayant mené au projet de disposition, le cas échéant;
+
+- c) le dépôt par celui-ci d’un rapport précisant que, à son avis, la disposition sera plus avantageuse pour les créanciers que si elle était faite dans le cadre de la faillite;
+
+- d) la suffisance des consultations menées auprès des créanciers;
+
+- e) les effets du projet de disposition sur les droits de tout intéressé, notamment les créanciers;
+
+- f) le caractère juste et raisonnable de la contrepartie reçue pour les actifs compte tenu de leur valeur marchande.
+
+**Autres facteurs**
+
+(5) Si la personne insolvable projette de disposer d’actifs en faveur d’une personne à laquelle elle est liée, le tribunal, après avoir pris ces facteurs en considération, ne peut accorder l’autorisation que s’il est convaincu :
+
+- a) d’une part, que les efforts voulus ont été faits pour disposer des actifs en faveur d’une personne qui n’est pas liée à la personne insolvable;
+
+- b) d’autre part, que la contrepartie offerte pour les actifs est plus avantageuse que celle qui découlerait de toute autre offre reçue dans le cadre du projet de disposition.
+
+**Personnes liées**
+
+(6) Pour l’application du paragraphe (5), les personnes ci-après sont considérées comme liées à la personne insolvable :
+
+- a) le dirigeant ou l’administrateur de celle-ci;
+
+- b) la personne qui, directement ou indirectement, en a ou en a eu le contrôle de fait;
+
+- c) la personne liée à toute personne visée aux alinéas a) ou b).
+
+**Autorisation de disposer des actifs en les libérant de restrictions**
+
+(7) Le tribunal peut autoriser la disposition d’actifs de la personne insolvable, purgés de toute charge, sûreté ou autre restriction, et, le cas échéant, est tenu d’assujettir le produit de la disposition ou d’autres de ses actifs à une charge, sûreté ou autre restriction en faveur des créanciers touchés par la purge.
+
+**Restriction à l’égard des employeurs**
+
+(8) Il ne peut autoriser la disposition que s’il est convaincu que la personne insolvable est en mesure d’effectuer et effectuera les paiements qui auraient été exigés en vertu des alinéas 60(1.3)a) et (1.5)a) s’il avait approuvé la proposition.
+
+**Restriction à l’égard de la propriété intellectuelle**
+
+(9) Si, à la date du dépôt de l’avis d’intention prévu à l’article 50.4 ou du dépôt d’une copie de la proposition prévu au paragraphe 62(1), la personne insolvable est partie à un contrat qui autorise une autre partie à utiliser un droit de propriété intellectuelle qui est compris dans la disposition d’actifs autorisée en vertu du paragraphe (7), cette disposition n’empêche pas l’autre partie d’utiliser le droit en question ni d’en faire respecter l’utilisation exclusive, à condition que cette autre partie respecte ses obligations contractuelles à l’égard de l’utilisation de ce droit, et ce, pour la période prévue au contrat et pour toute prolongation de celle-ci dont elle se prévaut de plein droit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 44; 2007, ch. 36, art. 27
+- 2018, ch. 27, art. 266
+
+</details>
+
+### 65.2 Résiliation d’un bail commercial
+
+(1) Entre le dépôt d’un avis d’intention et celui d’une proposition relative à une personne insolvable qui est un locataire commercial en vertu d’un bail sur un immeuble ou un bien réel, ou lors du dépôt d’une telle proposition, cette personne peut, sous réserve du paragraphe (2), résilier son bail sur préavis de trente jours donné de la manière prescrite.
+
+**Contestation**
+
+(2) Sur demande du locateur, faite dans les quinze jours suivant le préavis, et sur préavis aux parties qu’il estime indiquées, le tribunal déclare le paragraphe (1) inapplicable au bail en question.
+
+**Réserve**
+
+(3) Le tribunal ne peut prononcer la déclaration s’il est convaincu que, sans la résiliation du bail et de tout autre bail résilié en application du paragraphe (1), la personne insolvable ne pourrait faire de proposition viable.
+
+**Effets de la résiliation**
+
+(4) Si le locataire résilie le bail aux termes du paragraphe (1) :
+
+- a) le locateur n’a pas de réclamation pour le loyer exigible par anticipation;
+
+- b) la proposition doit indiquer que le locateur peut produire une preuve de réclamation pour le préjudice subi du fait de la résiliation ou pour une somme équivalant au moindre des montants suivants :
+  - (i) le montant du loyer stipulé pour la première année suivant la date de résiliation à laquelle elle est devenue effective, majoré de quinze pour cent du loyer à courir après la première année,
+  - (ii) le montant équivalant à trois ans de loyer;
+
+- c) le locateur peut produire une réclamation selon les termes de la proposition.
+
+**Catégorie de la réclamation**
+
+(5) La réclamation du locateur appartient :
+
+- a) soit à la catégorie distincte à laquelle appartiennent les réclamations semblables produites par des locateurs;
+
+- b) soit à la catégorie des réclamations des créanciers non garantis à laquelle appartiennent les réclamations des créanciers qui ne sont pas des locateurs.
+
+**Vote**
+
+(6) Le locateur peut voter sur la proposition, dans la catégorie en question, pour le montant de la réclamation qu’il a prouvée.
+
+**Détermination des catégories**
+
+(7) Sur demande faite après le dépôt de la proposition, le tribunal peut déterminer les catégories de réclamations des locateurs et indiquer la catégorie à laquelle appartient la réclamation d’un locateur donné.
+
+**Application de l’article 146**
+
+(8) Les paragraphes (1) à (7) n’ont pas pour effet de porter atteinte, en cas de faillite, à l’application de l’article 146.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 30; 1997, ch. 12, art. 42; 2004, ch. 25, art. 37
+
+</details>
+
+### 65.21 Résiliation dans le cadre de la faillite
+
+Si, dans le cadre de la proposition visant un failli qui est un locataire commercial en vertu d’un bail portant sur un immeuble ou un bien réel, le bail est abandonné ou résilié pendant les procédures de faillite, les paragraphes 65.2(3) à (7) s’appliquent comme si la personne n’était pas un failli mais une personne insolvable visée par une résiliation régie par ces paragraphes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 43; 2004, ch. 25, art. 38
+
+</details>
+
+### 65.22 Faillite postérieure à l’approbation de la proposition
+
+Si la personne insolvable qui résilie son bail devient un failli après l’approbation par le tribunal de la proposition la visant, mais avant son exécution intégrale, la réclamation du locateur pour le préjudice subi du fait de la résiliation, y compris la réclamation pour le loyer exigible par anticipation, est réduite du montant de l’indemnité de résiliation payée aux termes de la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 43; 2004, ch. 25, art. 39(A)
+
+</details>
+
+### 65.3 Certificat d’exécution
+
+En cas d’exécution intégrale de la proposition, le syndic remet, en la forme prescrite, un certificat à cet effet au débiteur et au séquestre officiel.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 30
+
+</details>
+
+### 66 Application de la présente loi
+
+(1) Toutes les dispositions de la présente loi, sauf la section II de la présente partie, dans la mesure où elles sont applicables, s’appliquent, compte tenu des adaptations de circonstance, aux propositions faites aux termes de la présente section.
+
+**Cession**
+
+(1.1) Pour l’application du paragraphe (1), le tribunal, pour décider s’il rend l’ordonnance visée au paragraphe 84.1(1), prend en considération, en plus des facteurs visés au paragraphe 84.1(3), l’acquiescement du syndic au projet de cession, le cas échéant.
+
+**État définitif des recettes et des débours**
+
+(1.2) Pour l’application du paragraphe (1), le syndic prépare l’état définitif des recettes et des débours visé à l’article 151 sans délai après :
+
+- a) le dépôt — effectif ou présumé — par le débiteur d’une cession de ses biens;
+
+- b) avoir informé les créanciers et le séquestre officiel qu’il y a défaut d’exécution d’une des dispositions de la proposition;
+
+- c) avoir remis le certificat prévu à l’article 65.3 relativement à la proposition.
+
+**Interrogatoire par le séquestre officiel**
+
+(1.3) Pour l’application du paragraphe (1), l’interrogatoire prévu au paragraphe 161(1) a lieu lorsque la personne à l’égard de laquelle a été déposé un avis d’intention aux termes de l’article 50.4 ou une proposition aux termes du paragraphe 62(1) se présente devant le séquestre officiel, avant l’approbation de la proposition par le tribunal ou sa mise en faillite.
+
+**Application concurrente**
+
+(1.4) Les dispositions de la présente section peuvent être appliquées conjointement avec celles de toute loi fédérale ou provinciale autorisant ou prévoyant l’homologation de transactions ou d’arrangements entre une personne morale et ses actionnaires ou une catégorie de ceux-ci.
+
+**Lien avec la *Loi sur les arrangements avec les créanciers des compagnies***
+
+(2) Par dérogation à la *Loi sur les arrangements avec les créanciers des compagnies* :
+
+- a) les procédures intentées sous le régime de cette loi ne peuvent être traitées ou continuées sous celui de la présente loi;
+
+- b) les procédures ne peuvent être intentées sous le régime de la partie III de la présente loi relativement à une compagnie si une transaction ou un arrangement la visant a été proposé sous le régime de la *Loi sur les arrangements avec les créanciers des compagnies* et n’a pas été approuvé par les créanciers ou homologué conformément à celle-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 66; 1992, ch. 27, art. 31; 1997, ch. 12, art. 44; 2005, ch. 47, art. 45; 2007, ch. 36, art. 28
+
+</details>
+
+### Propositions de consommateur
+
+### 66.11 Définitions
+
+Les définitions qui suivent s’appliquent à la présente section.
+
+**administrateur** Syndic ou autre personne chargée, par le surintendant, de l’administration des propositions de consommateur. (**administrator**)
+
+**débiteur consommateur** Personne physique qui est un failli ou est insolvable et dont la somme des dettes, à l’exclusion de celles qui sont garanties par sa résidence principale, n’excède pas deux cent cinquante mille dollars ou tout autre montant prescrit. (**consumer debtor**)
+
+**proposition de consommateur** Proposition faite aux termes de la présente section. (**consumer proposal**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 45; 2005, ch. 47, art. 46
+
+</details>
+
+### 66.12 Admissibilité
+
+(1) Sous réserve des paragraphes (2) et 66.32(1), une proposition de consommateur peut être faite par un débiteur consommateur.
+
+**Traitement spécial de certaines propositions**
+
+(1.1) Dans les circonstances prévues par les instructions du surintendant, les propositions de certains débiteurs consommateurs peuvent être traitées comme une seule proposition de consommateur lorsque la nature des rapports financiers qui existent entre eux le justifie.
+
+**Inadmissibilité**
+
+(2) Le débiteur consommateur qui a déposé un avis d’intention ou une proposition aux termes de la section I ne peut faire une proposition de consommateur avant la libération du syndic nommé à cet égard aux termes de cette section.
+
+**Destinataires**
+
+(3) La proposition est faite aux créanciers en général.
+
+**Réponse des créanciers**
+
+(4) Tout créancier peut répondre à la proposition en déposant auprès de l’administrateur une preuve de réclamation de la manière prévue :
+
+- a) aux articles 124 à 126, dans le cas des créanciers non garantis;
+
+- b) aux articles 124 à 134, dans le cas des créanciers garantis.
+
+**Durée**
+
+(5) La proposition doit limiter à cinq ans la durée de son exécution.
+
+**Priorité des réclamations**
+
+(6) La proposition doit prévoir :
+
+- a) le paiement, en priorité sur les autres réclamations, de toutes les réclamations dont le paiement est ainsi ordonné dans la distribution des biens du débiteur consommateur;
+
+- b) le paiement de tous les honoraires et dépenses, tels que prescrits, de l’administrateur se rapportant aux procédures occasionnées par la proposition et de ceux de toute personne se rapportant aux consultations données par celle-ci aux termes de l’alinéa 66.13(2)b);
+
+- c) les modalités de distribution des dividendes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 46; 2005, ch. 47, art. 47(A)
+
+</details>
+
+### 66.13 Démarches préliminaires
+
+(1) Le débiteur consommateur qui souhaite faire une proposition de consommateur doit d’abord :
+
+- a) obtenir les services d’un administrateur pour l’assister dans la préparation de la proposition;
+
+- b) fournir à ce dernier l’information prescrite relativement à la situation financière actuelle du débiteur.
+
+**Fonctions de l’administrateur**
+
+(2) L’administrateur qui accepte d’assister le débiteur consommateur est tenu :
+
+- a) d’enquêter, ou de faire enquêter, sur les biens et les affaires de celui-ci, de manière à être en mesure d’estimer, avec un degré suffisant d’exactitude, sa situation financière et la cause de son insolvabilité;
+
+- b) de donner des consultations, ou de voir à ce qu’il en soit donné, en conformité avec les instructions données par le surintendant aux termes de l’alinéa 5(4)b);
+
+- c) de préparer la proposition en la forme prescrite;
+
+- d) sous réserve du paragraphe (3), de déposer auprès du séquestre officiel une copie de la proposition, signée par le débiteur consommateur, et une copie du bilan prescrit de ce dernier.
+
+**Interdiction**
+
+(3) Il est interdit à l’administrateur de déposer la proposition s’il a des motifs de croire que le débiteur n’est pas habilité à la faire ou qu’il y a eu manquement à l’une ou l’autre des exigences établies par le présent article ou l’article 66.12.
+
+**Cas de dépôt malgré inhabilité**
+
+(4) Si, à la suite du dépôt de la proposition, l’administrateur en vient à la conclusion que celle-ci n’aurait pas dû être déposée du fait que le débiteur n’était pas habilité à la faire, il en informe sans délai les créanciers et le séquestre officiel; la proposition n’est toutefois pas invalide du seul fait de l’inhabilité du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1999, ch. 31, art. 21(A); 2005, ch. 47, art. 48
+
+</details>
+
+### 66.14 Fonctions de l’administrateur
+
+Dans les dix jours suivant le dépôt de la proposition auprès du séquestre officiel, l’administrateur :
+
+- a) établit et dépose auprès de celui-ci, en la forme prescrite, un rapport comportant :
+  - (i) les résultats de l’enquête visée à l’alinéa 66.13(2)a),
+  - (ii) son avis sur le caractère juste et raisonnable de la proposition, tant du point de vue du débiteur consommateur que de celui des créanciers, et sur les chances de celui-ci de pouvoir la mettre en oeuvre,
+  - (iii) [Abrogé, 2005, ch. 47, art. 49]
+  - (iv) la liste des créanciers dont les réclamations dépassent deux cent cinquante dollars;
+
+- b) transmet à tous les créanciers connus, en la forme et de la manière prescrites :
+  - (i) une copie de la proposition et du bilan visé à l’alinéa 66.13(2)d),
+  - (ii) une copie du rapport visé à l’alinéa a),
+  - (iii) la formule prescrite pour l’établissement d’une preuve de réclamation,
+  - (iv) une déclaration portant qu’une assemblée des créanciers ne sera convoquée que si elle est requise aux termes de l’article 66.15 et qu’une demande de révision judiciaire ne sera présentée que si elle est requise aux termes du paragraphe 66.22(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 47; 2005, ch. 47, art. 49
+
+</details>
+
+### 66.15 Assemblée des créanciers
+
+(1) Le séquestre officiel peut, dans les quarante-cinq jours suivant le dépôt de la proposition de consommateur, enjoindre à l’administrateur de convoquer une assemblée des créanciers.
+
+**Idem**
+
+(2) L’administrateur convoque une assemblée des créanciers :
+
+- a) soit dès que le séquestre officiel lui enjoint de le faire aux termes du paragraphe (1);
+
+- b) soit à l’expiration des quarante-cinq jours suivant le dépôt de la proposition, si des créanciers représentant en valeur au moins vingt-cinq pour cent des réclamations prouvées lui en font alors la demande.
+
+L’assemblée doit avoir lieu dans les vingt et un jours suivant sa convocation.
+
+**Notification des créanciers**
+
+(3) Au moins dix jours avant la tenue de l’assemblée, l’administrateur adresse, en la forme et de la manière prescrites, au débiteur consommateur, à tous les créanciers connus et au séquestre officiel un avis :
+
+- a) indiquant les date, heure et lieu de l’assemblée;
+
+- b) accompagné de la formule prescrite pour l’établissement d’une procuration;
+
+- c) comportant en outre tout autre renseignement ou document prescrit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 48
+
+</details>
+
+### 66.16 Président de l’assemblée
+
+(1) Le séquestre officiel, ou la personne qu’il désigne, préside l’assemblée convoquée aux termes de l’article 66.15 et du paragraphe 66.37(1) et décide des questions posées ou des contestations soulevées à l’assemblée; tout créancier peut en appeler d’une telle décision devant le tribunal.
+
+**Ajournement de l’assemblée pour investigation et examen supplémentaires**
+
+(2) Lorsque les créanciers l’exigent par résolution ordinaire lors de l’assemblée, celle-ci est ajournée aux date, heure et lieu que peut déterminer le président aux fins, selon le cas :
+
+- a) de permettre que soient effectuées une évaluation et une investigation plus approfondies concernant les affaires et les biens du débiteur;
+
+- b) d’interroger sous serment le débiteur consommateur ou toute autre personne censée avoir connaissance de ses affaires ou de ses biens, le témoignage du débiteur ou de cette autre personne, s’il est transcrit, devant être présenté à l’assemblée ajournée ou pouvant être lu devant le tribunal lors de la demande d’approbation de la proposition, le cas échéant.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 2005, ch. 47, art. 123(A)
+
+</details>
+
+### 66.17 Accord ou désaccord du créancier
+
+(1) Tout créancier qui a prouvé une réclamation peut, lors de l’assemblée des créanciers ou avant la tenue de celle-ci, ou encore avant l’expiration des quarante-cinq jours suivant le dépôt de la proposition, indiquer à l’administrateur, de la manière prescrite, s’il approuve ou désapprouve la proposition.
+
+**Effet**
+
+(2) À moins qu’elle ne soit annulée par la suite, l’approbation ou la désapprobation reçue par l’administrateur avant l’assemblée des créanciers ou lors de celle-ci a le même effet que si son auteur avait été présent et avait voté à l’assemblée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 49; 2005, ch. 47, art. 50
+
+</details>
+
+### 66.18 Présomption d’acceptation
+
+(1) La proposition est réputée avoir été acceptée par les créanciers si, à l’expiration des quarante-cinq jours suivant son dépôt, l’administrateur n’est pas tenu de convoquer une assemblée des créanciers aux termes du paragraphe 66.15(2).
+
+**Idem**
+
+(2) Faute de quorum à l’assemblée des créanciers, la proposition est réputée avoir été acceptée par ceux-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 50
+
+</details>
+
+### 66.19 Vote sur la proposition
+
+(1) Lors de l’assemblée des créanciers, ceux-ci peuvent par résolution ordinaire, tous étant, aux fins du vote, regroupés au sein de la même catégorie, accepter ou rejeter, sous réserve des droits des créanciers garantis, la proposition ainsi qu’elle a été déposée ou modifiée à l’assemblée ou à un ajournement de celle-ci.
+
+**Créancier lié**
+
+(2) Le créancier qui est lié au débiteur consommateur peut voter en faveur du rejet de la proposition, mais non en faveur de son acceptation.
+
+**Vote par l’administrateur**
+
+(3) L’administrateur ne peut, à titre de créancier, voter sur la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32
+
+</details>
+
+### 66.2 Surveillance des affaires du débiteur par les créanciers
+
+Avec le consentement du débiteur consommateur, les créanciers peuvent inclure dans la proposition les dispositions ou les conditions qu’ils jugent indiquées relativement à la surveillance des affaires du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32
+
+</details>
+
+### 66.21 Nomination d’inspecteurs
+
+Les créanciers peuvent nommer au plus trois inspecteurs de l’actif du débiteur, qui possèdent les pouvoirs conférés à un inspecteur aux termes de la présente loi, sous réserve toutefois de toute extension ou restriction contenue à cet égard dans la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32
+
+</details>
+
+### 66.22 Demande de révision judiciaire
+
+(1) En cas d’acceptation — effective ou présumée — de la proposition de consommateur par les créanciers, l’administrateur doit, si le séquestre officiel ou toute autre partie intéressée lui en fait la demande dans les quinze jours suivant l’acceptation, demander sans délai au tribunal de réviser la proposition.
+
+**Présomption d’approbation par le tribunal**
+
+(2) La proposition est réputée avoir été approuvée par le tribunal si, à l’expiration du quinzième jour suivant son acceptation — effective ou présumée —, l’administrateur n’est pas tenu de présenter la demande prévue au paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 51
+
+</details>
+
+### 66.23 Procédure à suivre en cas de demande de révision
+
+En cas de présentation d’une demande de révision aux termes du paragraphe 66.22(1), l’administrateur :
+
+- a) adresse, de la manière prescrite, un préavis d’audition d’au moins quinze jours au débiteur consommateur, à chaque créancier qui a prouvé une réclamation et au séquestre officiel;
+
+- b) adresse au séquestre officiel, au moins dix jours avant la date de l’audition, une copie du rapport visé à l’alinéa c);
+
+- c) au moins deux jours avant la date d’audition, dépose devant le tribunal, en la forme prescrite, un rapport sur la proposition de consommateur et sur la conduite du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 52
+
+</details>
+
+### 66.24 Considération du rapport de l’administrateur par le tribunal
+
+(1) Avant d’approuver la proposition de consommateur, le tribunal entend le rapport visé à l’alinéa 66.23c); en outre, il entend le séquestre officiel, l’administrateur, le débiteur consommateur, tout créancier adverse, opposé ou dissident et toute autre partie intéressée, ainsi que tout témoignage supplémentaire qu’il peut exiger.
+
+**Approbation refusée par le tribunal**
+
+(2) Lorsqu’il est d’avis que les conditions de la proposition ne sont pas raisonnables ou ne sont pas justes pour le débiteur et les créanciers, le tribunal refuse d’approuver la proposition; il peut en outre refuser de l’approuver lorsqu’il est établi que le débiteur a commis l’une des infractions mentionnées aux articles 198 à 200 ou n’était pas habilité à faire la proposition au moment de son dépôt auprès du séquestre officiel.
+
+**Respect de la loi**
+
+(3) Le tribunal refuse d’approuver la proposition si elle n’est pas conforme aux paragraphes 66.12(5) et (6).
+
+**Pouvoirs du tribunal**
+
+(4) Sous réserve des paragraphes (1) à (3), le tribunal peut approuver ou refuser d’approuver la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32
+
+</details>
+
+### 66.25 Retrait de la proposition
+
+Le débiteur consommateur peut retirer sa proposition :
+
+- a) en tout temps avant son approbation présumée aux termes du paragraphe 66.22(2), si aucune révision judiciaire n’a été demandée;
+
+- b) en tout temps avant son approbation ou son refus aux termes de l’article 66.24, dans le cas contraire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32
+
+</details>
+
+### 66.251 Notification au séquestre officiel et aux créanciers
+
+Si la proposition approuvée ou réputée approuvée par le tribunal ne prévoit pas, au moins une fois tous les trois mois, une distribution des montants prévus par celle-ci, l’administrateur avise sans délai, par écrit, le séquestre officiel et tous les créanciers connus de tout fait ou circonstance susceptible de mettre en péril la capacité du débiteur d’honorer les termes de la proposition, après en avoir, autant que possible, discuté avec celui-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 53
+
+</details>
+
+### 66.26 Distribution
+
+(1) Les montants payables aux termes de la proposition de consommateur sont versés à l’administrateur, qui, une fois payés les honoraires et dépenses visés à l’alinéa 66.12(6)b), en distribue le solde aux créanciers conformément à celle-ci.
+
+**Dépôt**
+
+(2) Dans les cas prévus par les instructions du surintendant et avec l’approbation de celui-ci, l’administrateur peut déposer les montants relatifs à l’administration des propositions de consommateur dans un même compte en fiducie ou en fidéicommis.
+
+**Application de l’article 147**
+
+(3) L’article 147 s’applique, compte tenu des adaptations de circonstance, aux distributions effectuées aux termes du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 54
+
+</details>
+
+### 66.27 Notifications
+
+L’administrateur avise, en la forme et de la manière prescrites, le débiteur consommateur, tous les créanciers connus et le séquestre officiel des faits suivants, dans les cinq jours suivant leur survenance :
+
+- a) le rejet de la proposition de consommateur par les créanciers;
+
+- b) son refus par le tribunal;
+
+- c) son retrait par le débiteur consommateur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 55
+
+</details>
+
+### 66.28 Détermination des réclamations
+
+(1) Le moment par rapport auquel les réclamations des créanciers sont déterminées est celui du dépôt de la proposition de consommateur.
+
+**Personnes liées par l’approbation**
+
+(2) Une fois acceptée — ou présumée telle — par les créanciers et approuvée — ou présumée telle — par le tribunal, la proposition lie ces derniers relativement :
+
+- a) à toutes les réclamations non garanties;
+
+- b) aux réclamations garanties pour lesquelles des preuves de réclamation ont été produites conformément aux articles 124 à 134.
+
+**Cas où la personne insolvable est libérée d’une dette**
+
+(2.1) Toutefois, l’acceptation effective ou présumée d’une proposition par les créanciers et son approbation effective ou présumée par le tribunal ne libèrent la personne insolvable d’une dette ou obligation visée au paragraphe 178(1) que si la proposition prévoit expressément la possibilité de transiger sur cette dette ou obligation et que le créancier intéressé a voté en faveur de l’acceptation de la proposition.
+
+**Non-libération de certaines personnes**
+
+(3) L’acceptation de la proposition par un créancier ne libère aucune personne qui ne le serait pas aux termes de la présente loi par la libération du débiteur consommateur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 2005, ch. 47, art. 51; 2007, ch. 36, art. 29
+
+</details>
+
+### 66.29 Délivrance de certificats
+
+(1) En cas d’approbation — effective ou présumée — de la proposition de consommateur par le tribunal, l’administrateur peut, s’il a des motifs raisonnables de croire que le débiteur est le propriétaire de terrains ou d’autres biens de valeur, délivrer un certificat relativement à la proposition; il peut faire déposer ce certificat en tout lieu où peut s’effectuer l’inscription d’une hypothèque légale résultant d’un jugement ou le dépôt d’un certificat de jugement, d’un bref de saisie-exécution ou de tout autre document semblable.
+
+**Effet du dépôt**
+
+(2) Le certificat déposé conformément au paragraphe (1) tient lieu d’hypothèque légale résultant d’un jugement, de certificat de jugement ou de bref d’exécution jusqu’à entière exécution de la proposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 2004, ch. 25, art. 40
+
+</details>
+
+### 66.3 Annulation de la proposition
+
+(1) En cas de défaut d’exécution d’une des dispositions de la proposition de consommateur, ou s’il apparaît au tribunal que le débiteur consommateur n’était pas, au moment du dépôt de la proposition, habilité à la faire, que celle-ci ne peut être maintenue sans injustice ni retard indu ou que l’approbation du tribunal a été obtenue par fraude, celui-ci peut, sur demande, après qu’a été donné au débiteur et, s’il y a lieu, à l’administrateur et aux créanciers l’avis qu’il est loisible au tribunal de prescrire, annuler la proposition.
+
+**Validité des choses faites**
+
+(2) L’ordonnance rendue aux termes du paragraphe (1) l’est sans préjudice de la validité de la vente ou de la disposition de certains biens ou d’un paiement dûment faits, ou d’une chose dûment exécutée, en vertu de la proposition ou en conformité avec celle-ci; malgré l’annulation de la proposition, une garantie donnée conformément à celle-ci conserve tout son effet conformément à ses conditions.
+
+**Annulation en cas d’infraction**
+
+(3) La proposition, même acceptée ou approuvée, peut être annulée par ordonnance du tribunal à la demande de l’administrateur ou d’un créancier lorsque le débiteur est subséquemment déclaré coupable d’une infraction prévue par la présente loi.
+
+**Notification de l’annulation**
+
+(4) L’administrateur doit, sans délai, informer les créanciers de l’annulation de la proposition du débiteur consommateur qui n’est pas un failli et en faire rapport, en la forme prescrite, au séquestre officiel.
+
+**Notification de l’annulation et suivi**
+
+(5) Sur annulation de la proposition faite par un failli :
+
+- a) le débiteur consommateur est réputé avoir alors fait une cession et l’ordonnance en fait mention;
+
+- b) le syndic agissant dans le cadre de la proposition convoque, dans les cinq jours suivant l’ordonnance, une assemblée des créanciers aux termes de l’article 102, assemblée à laquelle les créanciers peuvent, par résolution ordinaire, malgré l’article 14, confirmer sa nomination ou lui substituer un autre syndic;
+
+- c) le syndic en fait rapport sans délai, en la forme prescrite, au séquestre officiel, qui doit alors délivrer, en la forme prescrite, un certificat de cession ayant, pour l’application de la présente loi, le même effet qu’une cession déposée au titre de l’article 49.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 56
+
+</details>
+
+### 66.31 Annulation présumée — défaut de paiement
+
+(1) À moins que le tribunal n’en ait décidé autrement ou qu’une modification de la proposition n’ait été déposée antérieurement, la proposition de consommateur est réputée être annulée :
+
+- a) dans le cas où les paiements prévus par la proposition doivent être effectués mensuellement ou plus fréquemment, le jour où le débiteur est en défaut pour une somme correspondant à au moins trois de ces paiements;
+
+- b) dans le cas où les paiements doivent être effectués moins fréquemment que mensuellement, à l’expiration d’un délai de trois mois suivant le jour où le débiteur est en défaut par rapport à n’importe quel paiement.
+
+**Annulation présumée — retrait ou rejet d’une modification**
+
+(2) La proposition est réputée annulée dès le retrait ou le rejet, par les créanciers ou le tribunal, de toute modification qui lui est apportée et dont le texte est déposé avant l’annulation présumée visée au paragraphe (1).
+
+**Avis et rapport**
+
+(3) En cas d’annulation présumée de la proposition, l’administrateur doit, sans délai, en informer par écrit les créanciers et en faire rapport, en la forme prescrite, au séquestre officiel.
+
+**Effets de l’annulation présumée de la proposition faite par un failli**
+
+(4) Dès l’annulation présumée de la proposition faite par un failli :
+
+- a) le débiteur consommateur est réputé avoir fait cession de ses biens à la date de l’annulation présumée;
+
+- b) le syndic agissant dans le cadre de la proposition convoque, dans les cinq jours qui suivent la date de l’annulation présumée, l’assemblée des créanciers prévue à l’article 102, à laquelle les créanciers peuvent, par résolution ordinaire et malgré l’article 14, confirmer sa nomination ou lui substituer un autre syndic;
+
+- c) le syndic en fait rapport sans délai, en la forme prescrite, au séquestre officiel, qui doit alors délivrer, en la forme prescrite, un certificat de cession ayant, pour l’application de la présente loi, le même effet que la cession faite au titre de l’article 49.
+
+**Validité des mesures prises avant l’annulation présumée**
+
+(5) L’annulation présumée est sans effet sur la validité des mesures — paiement, vente ou autre forme de disposition — prises en vertu de la proposition ou conformément à celle-ci, et toute garantie donnée sous son régime conserve son plein effet conformément à ses conditions.
+
+**Avis du rétablissement d’office de la proposition**
+
+(6) S’il l’estime indiqué dans les circonstances, l’administrateur peut, sur avis au séquestre officiel et dans les trente jours suivant la date de l’annulation présumée de la proposition faite par un débiteur consommateur autre qu’un failli — ou dans tout autre délai prescrit —, envoyer aux créanciers un avis en la forme prescrite les informant que la proposition sera rétablie d’office soixante jours après la date d’annulation — ou dans tout autre délai prescrit — à moins que l’un d’eux ne l’avise, de la manière prescrite, qu’il s’y oppose.
+
+**Rétablissement d’office**
+
+(7) Si l’administrateur envoie l’avis prévu au paragraphe (6) et si, dans le délai prévu à ce paragraphe, aucun avis d’opposition n’a été déposé, la proposition est rétablie d’office à l’expiration de ce délai.
+
+**Avis : non-rétablissement d’office**
+
+(8) Toutefois, si un avis d’opposition est déposé dans le délai prévu au paragraphe (6), l’administrateur envoie sans délai au séquestre officiel et à chaque créancier un avis en la forme prescrite les informant que la proposition ne sera pas rétablie d’office à l’expiration de ce délai.
+
+**Pouvoir du tribunal de rétablir la proposition**
+
+(9) L’administrateur peut, en tout temps, demander au tribunal, sur préavis aux créanciers et au séquestre officiel, d’ordonner le rétablissement de la proposition présumée annulée d’un débiteur consommateur qui n’est pas en faillite; le cas échéant, le tribunal peut faire droit à la demande, s’il l’estime opportun dans les circonstances, aux conditions qu’il juge indiquées.
+
+**Avis et rapport**
+
+(10) En cas de rétablissement de la proposition, l’administrateur doit, sans délai, en informer par écrit les créanciers et en faire rapport, en la forme prescrite, au séquestre officiel.
+
+**Validité des mesures prises avant le rétablissement**
+
+(11) Le rétablissement d’une proposition est sans effet sur la validité des mesures dûment prises par le créancier, entre la date de l’annulation présumée de la proposition et la date de son rétablissement, dans l’exercice des droits qui sont rétablis en application du paragraphe 66.32(2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 2005, ch. 47, art. 52; 2007, ch. 36, art. 30
+
+</details>
+
+### 66.32 Effets de l’annulation
+
+(1) En cas d’annulation — effective ou présumée — de la proposition de consommateur, à moins que le tribunal n’en ordonne autrement, le débiteur n’est pas habilité à faire une autre proposition de consommateur et n’a droit à aucun des avantages prévus aux articles 69 à 69.2, et ce jusqu’à ce que toutes les réclamations pour lesquelles des preuves de réclamation ont été produites et acceptées aient été payées intégralement ou aient été éteintes en application du paragraphe 178(2).
+
+**Rétablissement des droits**
+
+(2) En cas d’annulation — effective ou présumée — de la proposition, les droits des créanciers sont rétablis jusqu’à concurrence du montant de leurs réclamations, déduction faite toutefois des dividendes reçus.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 2005, ch. 47, art. 53(F)
+
+</details>
+
+### 66.33
+
+[Abrogé, 2005, ch. 47, art. 54]
+
+### 66.34 Limitation de certains droits
+
+(1) Il est interdit de résilier ou de modifier un contrat — notamment de garantie — conclu avec un débiteur consommateur ou de se prévaloir d’une clause de déchéance du terme figurant dans un tel contrat, au seul motif qu’il est insolvable ou qu’une proposition de consommateur a été déposée à son égard, et ce jusqu’à ce que la proposition soit retirée, rejetée par les créanciers ou le tribunal ou annulée ou réputée telle.
+
+**Idem**
+
+(2) Lorsque le contrat visé au paragraphe (1) est un bail, l’interdiction prévue à ce paragraphe vaut également, avec les mêmes modalités, dans le cas où le débiteur consommateur n’a pas payé son loyer à l’égard d’une période antérieure au dépôt de la proposition.
+
+**Idem**
+
+(3) En cas de dépôt d’une proposition de consommateur à l’égard d’un débiteur consommateur, il est interdit à toute entreprise de service public d’interrompre la prestation de ses services auprès de celui-ci au seul motif qu’il est insolvable, qu’une proposition de consommateur a été déposée à son égard ou qu’il n’a pas payé certains services rendus, ou du matériel fourni, avant le dépôt de la proposition, et ce jusqu’à ce que la proposition ait été retirée, rejetée par les créanciers ou le tribunal ou annulée ou réputée telle.
+
+**Exceptions**
+
+(4) Les paragraphes (1) à (3) n’ont pas pour effet :
+
+- a) d’empêcher une personne d’exiger que soient effectués en espèces les paiements relatifs à la fourniture de marchandises ou de services, à l’utilisation de biens loués ou à la fourniture de toute autre contrepartie valable, pourvu que pareille fourniture ou utilisation ait eu lieu après le dépôt de la proposition de consommateur;
+
+- b) d’exiger la prestation de nouvelles avances de fonds ou de nouveaux crédits.
+
+**Incompatibilité**
+
+(5) Les paragraphes (1) à (3) l’emportent sur les dispositions incompatibles de tout contrat, celles-ci étant sans effet.
+
+**Pouvoirs du tribunal**
+
+(6) À la demande d’une des parties à un contrat ou d’une entreprise de service public, le tribunal peut déclarer le présent article inapplicable, ou applicable uniquement dans la mesure qu’il précise, s’il est établi par le demandeur que l’application du présent article lui causerait vraisemblablement de sérieuses difficultés financières.
+
+**Contrats financiers admissibles**
+
+(7) Le paragraphe (1) ne s’applique pas aux contrats financiers admissibles.
+
+**Opérations permises**
+
+(8) Malgré l’article 69.2, si le contrat financier admissible conclu avant le dépôt d’une proposition de consommateur est résilié lors de ce dépôt ou par la suite, il est permis d’effectuer les opérations ci-après en conformité avec le contrat :
+
+- a) la compensation des obligations entre le débiteur consommateur et les autres parties au contrat;
+
+- b) toute opération à l’égard de la garantie financière afférente, notamment :
+  - (i) la vente, la demande en forclusion ou, dans la province de Québec, la demande en délaissement,
+  - (ii) la compensation, ou l’affectation de son produit ou de sa valeur.
+
+**Valeurs nettes dues à la date de résiliation**
+
+(9) Si, aux termes du contrat financier admissible visé au paragraphe (8), des sommes sont dues par le débiteur consommateur à une autre partie au contrat au titre de valeurs nettes dues à la date de résiliation, cette autre partie est réputée, pour l’application du paragraphe 69.2(1), être un créancier du débiteur consommateur et avoir une réclamation prouvable en matière de faillite relativement à ces sommes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 2004, ch. 25, art. 42(A); 2005, ch. 47, art. 55; 2007, ch. 29, art. 94
+
+</details>
+
+### 66.35 Cession de salaires
+
+(1) La cession de salaires présents ou futurs faite par un débiteur consommateur avant la date du dépôt d’une proposition de consommateur est sans effet sur les salaires gagnés après cette date.
+
+**Cession de créances à la demande de l’administrateur**
+
+(2) Pour s’assurer du respect des dispositions d’une proposition de consommateur, l’administrateur peut, après le dépôt de celle-ci, exiger du débiteur consommateur qu’il lui cède ses créances, y compris les salaires non encore exigibles. Toutefois, le montant des créances cédées ne peut, sauf accord du débiteur, être supérieur à celui des engagements prévus dans la proposition.
+
+**Protection des tiers**
+
+(3) La cession effectuée aux termes du paragraphe (2) est sans effet à l’égard de la personne qui doit payer une créance cédée, tant qu’un avis de la cession ne lui a pas été signifié.
+
+**Cas où le présent article cesse d’être applicable**
+
+(4) Le présent article cesse d’être applicable en cas de rejet par les créanciers ou le tribunal, de retrait ou d’annulation — effective ou présumée — de la proposition de consommateur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 57
+
+</details>
+
+### 66.36 Congédiement de l’employé
+
+Il est interdit à tout employeur de congédier, de suspendre ou de mettre à pied un débiteur consommateur, ou de lui imposer toute autre mesure disciplinaire, au seul motif qu’une proposition de consommateur a été déposée à son égard.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32
+
+</details>
+
+### 66.37 Modification de la proposition de consommateur
+
+Dans les cas où l’administrateur dépose une modification de la proposition de consommateur soit avant le retrait de celle-ci, son rejet ou son approbation effective ou présumée par le tribunal, soit après son approbation effective ou présumée par le tribunal, mais avant son exécution intégrale ou son annulation effective ou présumée, les dispositions de la présente section s’appliquent, avec les adaptations nécessaires, à la modification et à la proposition de consommateur modifiée et, à cette fin, **débiteur consommateur**, contrairement à la définition qu’en donne l’article 66.11, ne s’entend que d’une personne physique insolvable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 2005, ch. 47, art. 56
+
+</details>
+
+### 66.38 Certificat d’exécution
+
+(1) En cas d’exécution intégrale de la proposition de consommateur, l’administrateur remet, en la forme prescrite, un certificat à cet effet au débiteur consommateur et au séquestre officiel.
+
+**Refus de se prévaloir des consultations**
+
+(2) Le paragraphe (1) ne s’applique pas si le débiteur consommateur a refusé ou omis de se prévaloir des consultations offertes aux termes de l’alinéa 66.13(2)b).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 2005, ch. 47, art. 56
+
+</details>
+
+### 66.39 Comptes et libération de l’administrateur
+
+La forme et le contenu des comptes de l’administrateur ainsi que la procédure à suivre pour leur préparation et leur taxation et pour la libération de l’administrateur sont déterminés par les Règles générales.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32
+
+</details>
+
+### 66.4 Application de la présente loi
+
+(1) Toutes les dispositions de la présente loi, sauf la section I de la présente partie, dans la mesure où elles sont applicables, s’appliquent, compte tenu des adaptations de circonstance, aux propositions de consommateur.
+
+**Application de la présente loi**
+
+(2) Dans le cas d’une proposition de consommateur faite par un failli :
+
+- a) la proposition doit être approuvée par les inspecteurs, le cas échéant, avant que toute autre mesure ne soit prise à son égard;
+
+- b) le débiteur consommateur doit avoir obtenu les services d’un syndic pour agir comme administrateur dans le cadre de la préparation et de l’exécution de la proposition;
+
+- c) le moment par rapport auquel les réclamations des créanciers sont déterminées est celui où le débiteur consommateur est devenu un failli;
+
+- d) l’approbation — effective ou présumée — de la proposition par le tribunal a pour effet d’annuler la faillite et de réattribuer au débiteur consommateur, ou à toute autre personne que le tribunal peut approuver, le droit, le titre et l’intérêt complets du syndic aux biens du débiteur, à moins que les conditions de la proposition ne soient à l’effet contraire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 32; 1997, ch. 12, art. 58
+
+</details>
+
+## Biens du failli
+
+### 67 Biens du failli
+
+(1) Les biens d’un failli, constituant le patrimoine attribué à ses créanciers, ne comprennent pas les biens suivants :
+
+- a) les biens détenus par le failli en fiducie pour toute autre personne;
+
+- b) les biens qui, selon le droit applicable dans la province dans laquelle ils sont situés et où réside le failli, ne peuvent faire l’objet d’une mesure d’exécution ou de saisie contre celui-ci;
+
+- b.1) dans les circonstances prescrites, les paiements qui sont faits au failli au titre de crédits de taxe sur les produits et services et qui ne sont pas des biens visés aux alinéas a) ou b);
+
+- b.2) dans les circonstances prescrites, les paiements prescrits qui sont faits au failli relativement aux besoins essentiels de personnes physiques et qui ne sont pas des biens visés aux alinéas a) ou b);
+
+- b.3) sans restreindre la portée générale de l’alinéa b), les biens détenus dans un **régime enregistré d’épargne-retraite**, un **fonds enregistré de revenu de retraite** ou un **régime enregistré d’épargne-invalidité**, au sens de la *Loi de l’impôt sur le revenu*, ou dans tout régime prescrit, à l’exception des cotisations aux régimes ou au fonds effectuées au cours des douze mois précédant la date de la faillite,
+
+mais ils comprennent :
+
+- c) tous les biens, où qu’ils soient situés, qui appartiennent au failli à la date de la faillite, ou qu’il peut acquérir ou qui peuvent lui être dévolus avant sa libération, y compris les remboursements qui lui sont dus au titre de la *Loi de l’impôt sur le revenu* relativement à l’année civile — ou à l’exercice lorsque celui-ci diffère de l’année civile — au cours de laquelle il a fait faillite, mais à l’exclusion de la partie de ces remboursements qui :
+  - (i) soit sont des sommes soustraites à l’application de la présente loi,
+  - (ii) soit sont des sommes qui lui sont dues et qui sont saisissables en vertu d’un bref de saisie-arrêt signifié à Sa Majesté en application de la *Loi d’aide à l’exécution des ordonnances et des ententes familiales* dans lequel il est nommé comme débiteur;
+
+- d) les pouvoirs sur des biens ou à leur égard, qui auraient pu être exercés par le failli pour son propre bénéfice.
+
+**Fiducies présumées**
+
+(2) Sous réserve du paragraphe (3) et par dérogation à toute disposition législative fédérale ou provinciale ayant pour effet d’assimiler certains biens à des biens détenus en fiducie pour Sa Majesté, aucun des biens du failli ne peut, pour l’application de l’alinéa (1)a), être considéré comme détenu en fiducie pour Sa Majesté si, en l’absence de la disposition législative en question, il ne le serait pas.
+
+**Exceptions**
+
+(3) Le paragraphe (2) ne s’applique pas à l’égard des montants réputés détenus en fiducie aux termes des paragraphes 227(4) ou (4.1) de la *Loi de l’impôt sur le revenu*, des paragraphes 23(3) ou (4) du *Régime de pensions du Canada* ou des paragraphes 86(2) ou (2.1) de la *Loi sur l’assurance-emploi* (chacun étant appelé « disposition fédérale » au présent paragraphe) ou à l’égard des montants réputés détenus en fiducie aux termes de toute loi d’une province créant une fiducie présumée dans le seul but d’assurer à Sa Majesté du chef de cette province la remise de sommes déduites ou retenues aux termes d’une loi de cette province, dans la mesure où, dans ce dernier cas, se réalise l’une des conditions suivantes :
+
+- a) la loi de cette province prévoit un impôt semblable, de par sa nature, à celui prévu par la *Loi de l’impôt sur le revenu*, et les sommes déduites ou retenues aux termes de la loi de cette province sont de même nature que celles visées aux paragraphes 227(4) ou (4.1) de la *Loi de l’impôt sur le revenu*;
+
+- b) cette province est **une province instituant un régime général de pensions** au sens du paragraphe 3(1) du *Régime de pensions du Canada*, la loi de cette province institue un **régime provincial de pensions** au sens de ce paragraphe, et les sommes déduites ou retenues aux termes de la loi de cette province sont de même nature que celles visées aux paragraphes 23(3) ou (4) du *Régime de pensions du Canada*.
+
+Pour l’application du présent paragraphe, toute disposition de la loi provinciale qui crée une fiducie présumée est réputée avoir, à l’encontre de tout créancier du failli et malgré tout texte législatif fédéral ou provincial et toute règle de droit, la même portée et le même effet que la disposition fédérale correspondante, quelle que soit la garantie dont bénéficie le créancier.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 67; 1992, ch. 27, art. 33; 1996, ch. 23, art. 168; 1997, ch. 12, art. 59; 1998, ch. 19, art. 250; 2005, ch. 47, art. 57; 2007, ch. 36, art. 32
+- 2019, ch. 29, art. 134
+
+</details>
+
+### 68 Instructions du surintendant — revenu excédentaire
+
+(1) Le surintendant fixe, par instruction, pour les provinces ou pour un ou plusieurs districts ou parties de district, des normes visant l’établissement du revenu excédentaire du failli qui est une personne physique et de la somme que celui-ci doit verser à l’actif de la faillite.
+
+**Définitions**
+
+(2) Les définitions qui suivent s’appliquent au présent article.
+
+**revenu excédentaire** Le montant du revenu total d’une personne physique en faillite qui excède ce qui est nécessaire au maintien d’un niveau de vie raisonnable, compte tenu des normes applicables mentionnées au paragraphe (1). (**surplus income**)
+
+**revenu total** Malgré les alinéas 67(1)b) et b.3), revenus de toute nature ou source gagnés ou reçus par le failli entre la date de sa faillite et celle de sa libération, y compris les sommes reçues entre ces dates à titre de dommages-intérêts pour congédiement abusif ou de règlement en matière de parité salariale, ou en vertu d’une loi fédérale ou provinciale relative aux accidents du travail. Ne sont pas visées par la présente définition les sommes inattendues que le failli reçoit entre ces dates, notamment par donation, legs ou succession. (**total income**)
+
+**Décision du syndic quant au revenu excédentaire**
+
+(3) Le syndic décide, conformément aux normes applicables et compte tenu des charges familiales et de la situation personnelle du failli, si celui-ci a un revenu excédentaire. Il prend notamment cette décision lorsqu’il a connaissance de tout changement important de la situation financière du failli et lorsqu’il est tenu de préparer le rapport visé au paragraphe 170(1).
+
+**Obligations du syndic par suite de la décision**
+
+(4) Il avise, de la manière prescrite, le séquestre officiel et les créanciers qui en font la demande de sa conclusion et, s’il conclut que le failli a un revenu excédentaire, il fixe, conformément aux normes applicables, la somme que celui-ci doit verser à l’actif de la faillite et prend les mesures indiquées pour qu’il s’exécute.
+
+**Recommandation du séquestre officiel**
+
+(5) S’il conclut que le montant de la somme à verser par le failli diffère sensiblement de celui qu’entraînerait l’application des normes visées au paragraphe (1), le séquestre officiel recommande au syndic et au failli le montant qu’il estime conforme à celles-ci.
+
+**Établissement d’un autre montant à verser**
+
+(5.1) Sur réception de la recommandation du séquestre officiel, le syndic peut, conformément aux normes applicables, fixer à un autre montant la somme que le failli doit verser à l’actif de la faillite et, le cas échéant, en avise le séquestre officiel et les créanciers de la manière prescrite et prend les mesures indiquées pour que le failli s’exécute.
+
+**Demande de médiation par le syndic**
+
+(6) À défaut d’entente avec le failli sur le montant de la somme à verser en application des paragraphes (4) et (5.1), le syndic transmet sans délai au séquestre officiel, en la forme prescrite, une demande de médiation et en expédie une copie au failli.
+
+**Demande de médiation par le créancier**
+
+(7) Sur demande du créancier faite dans les trente jours suivant la date où le syndic l’avise qu’un montant a été fixé en application des paragraphes (4) ou (5.1), celui-ci transmet au séquestre officiel, dans les cinq jours suivant l’expiration des trente jours, une demande de médiation en la forme prescrite relativement au montant de la somme que le failli doit verser à l’actif, et en expédie une copie au failli et au créancier.
+
+**Procédure prescrite**
+
+(8) La procédure de médiation est fixée par les Règles générales.
+
+**Dossier**
+
+(9) Les documents constituant le dossier de médiation font partie des dossiers visés au paragraphe 11.1(2).
+
+**Établissement par le tribunal**
+
+(10) Le syndic peut, d’office si l’une ou l’autre des conditions ci-après sont remplies, ou doit, sur demande du séquestre officiel dans le cas prévu à l’alinéa a), demander au tribunal d’établir, par ordonnance, le montant du revenu que le failli doit verser à l’actif de la faillite, compte tenu des normes fixées par le surintendant et des charges familiales et de la situation personnelle du failli :
+
+- a) le syndic ne met pas en oeuvre la recommandation du séquestre officiel;
+
+- b) il y a échec de la médiation;
+
+- c) le failli a omis d’effectuer ses paiements.
+
+**Fixation par le tribunal**
+
+(11) Le tribunal peut fixer un montant équitable à titre de traitement, salaire ou autre rémunération pour les services rendus par le failli à un employeur ou à titre de paiement ou de commission pour services rendus à un tiers si ces personnes sont liées au failli; il peut établir, par ordonnance, le montant à verser au syndic sur la base du montant fixé, sauf s’il estime que les services rendus n’ont bénéficié qu’au failli et n’ont pas procuré un bénéfice important à son employeur ou au tiers.
+
+**Modification de l’ordonnance**
+
+(12) Sur demande de tout intéressé, le tribunal peut modifier l’ordonnance rendue au titre du présent article pour tenir compte de tout changement important de la situation financière du failli.
+
+**Débiteur du failli**
+
+(13) Lorsqu’une ordonnance rendue au titre du présent article est signifiée à une personne qui doit une somme d’argent au failli, elle est tenue de s’y conformer; si elle ne s’y conforme pas, le tribunal peut, sur demande du syndic, lui ordonner de verser la somme au syndic.
+
+**Présomption**
+
+(14) La demande présentée au tribunal au titre du paragraphe (10) constitue, pour l’application de l’article 38, une procédure à l’avantage de l’actif de la faillite.
+
+**Biens pouvant faire l’objet d’une exécution**
+
+(15) Pour l’application du présent article, la somme à verser à l’actif de la faillite peut être recouvrée par voie d’exécution contre le revenu total du failli.
+
+**Cessation des versements**
+
+(16) L’obligation du failli qui est une personne physique de faire des versements à l’actif de la faillite au titre du présent article cesse, en cas d’opposition à sa libération d’office, le jour où il aurait été libéré n’eût été l’avis d’opposition, rien n’empêchant toutefois le tribunal de reconduire l’obligation pour la somme qu’il estime indiquée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 68; 1992, ch. 27, art. 34; 1997, ch. 12, art. 60; 2005, ch. 47, art. 58; 2007, ch. 36, art. 33
+
+</details>
+
+### 68.1 Cession de salaire
+
+(1) La cession de salaires présents ou futurs faite par le débiteur avant qu’il ne devienne un failli est sans effet sur les salaires gagnés après sa faillite.
+
+**Cession de créances comptables**
+
+(2) La cession de sommes — échues ou à percevoir — à titre de paiement, de commission ou d’honoraires professionnels pour la prestation de services, faite par un débiteur qui est une personne physique avant qu’il ne fasse faillite, est sans effet sur les sommes de même provenance qui sont gagnées après sa faillite.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 35; 1997, ch. 12, art. 61; 2005, ch. 47, art. 59
+
+</details>
+
+### Suspension des procédures
+
+### 69 Suspension des procédures en cas d’avis d’intention
+
+(1) Sous réserve des paragraphes (2) et (3) et des articles 69.4, 69.5 et 69.6, entre la date du dépôt par une personne insolvable d’un avis d’intention aux termes de l’article 50.4 et la date du dépôt, aux termes du paragraphe 62(1), d’une proposition relative à cette personne ou la date à laquelle celle-ci devient un failli :
+
+- a) les créanciers n’ont aucun recours contre la personne insolvable ou contre ses biens et ne peuvent intenter ou continuer aucune action, exécution ou autre procédure en vue du recouvrement de réclamations prouvables en matière de faillite;
+
+- b) est sans effet toute disposition d’un contrat de garantie conclu entre la personne insolvable et un créancier garanti qui prévoit, pour l’essentiel, que celle-ci, dès qu’elle devient insolvable, qu’elle manque à un engagement prévu par le contrat de garantie ou qu’elle dépose un avis d’intention aux termes de l’article 50.4, est déchue des droits qu’elle aurait normalement de se servir des avoirs visés par le contrat de garantie ou de faire d’autres opérations à leur égard;
+
+- c) est suspendu l’exercice par Sa Majesté du chef du Canada des droits que lui confère l’une des dispositions suivantes à l’égard de la personne insolvable, lorsque celle-ci est un débiteur fiscal visé à cette disposition :
+  - (i) le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*,
+  - (ii) toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui, à la fois :
+    - (A) renvoie au paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*,
+    - (B) prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi et des intérêts, pénalités ou autres montants y afférents;
+
+- d) est suspendu l’exercice par Sa Majesté du chef d’une province des droits que lui confère toute disposition législative provinciale à l’égard d’une personne insolvable, lorsque celle-ci est un débiteur visé par la loi provinciale et qu’il s’agit d’une disposition dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, dans la mesure où elle prévoit la perception d’une somme, et des intérêts, pénalités ou autres montants y afférents, qui :
+  - (i) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+  - (ii) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est **une province instituant un régime général de pensions** au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un **régime provincial de pensions** au sens de ce paragraphe.
+
+**Exceptions**
+
+(2) Le paragraphe (1) n’a pas pour effet :
+
+- a) d’empêcher le créancier garanti de faire des opérations à l’égard des avoirs garantis de la personne insolvable dont il a pris possession — en vue de les réaliser — avant le dépôt de l’avis d’intention prévu à l’article 50.4;
+
+- b) d’empêcher le créancier garanti, sauf s’il a consenti à la suspension, qui a donné le préavis prévu au paragraphe 244(1) plus de dix jours avant le dépôt de l’avis d’intention prévu à l’article 50.4 de mettre à exécution sa garantie;
+
+- c) d’empêcher le créancier garanti qui a donné le préavis prévu au paragraphe 244(1) de mettre à exécution sa garantie si la personne insolvable a consenti à l’exécution au titre du paragraphe 244(2).
+
+- d) [Abrogé, 2012, ch. 31, art. 416]
+
+**Exception**
+
+(3) L’alinéa (1)c) ou d) ne s’applique pas, ou cesse de s’appliquer, à Sa Majesté du chef du Canada ou de la province en cause dans les cas suivants :
+
+- a) la personne insolvable manque à ses obligations de paiement d’un montant qui devient dû à Sa Majesté après le dépôt de l’avis d’intention et qui pourrait faire l’objet d’une demande aux termes d’une des dispositions suivantes :
+  - (i) le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*,
+  - (ii) toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui renvoie au paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* et qui prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi et des intérêts, pénalités ou autres montants y afférents,
+  - (iii) toute disposition législative provinciale dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, dans la mesure où elle prévoit la perception d’une somme, et des intérêts, pénalités ou autres montants y afférents, qui :
+    - (A) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+    - (B) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est **une province instituant un régime général de pensions** au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un **régime provincial de pensions** au sens de ce paragraphe;
+
+- b) un autre créancier a ou acquiert le droit de réaliser sa garantie sur un bien qui pourrait être réclamé par Sa Majesté dans l’exercice des droits que lui confère l’une des dispositions suivantes :
+  - (i) le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*,
+  - (ii) toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui renvoie au paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* et qui prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi et des intérêts, pénalités ou autres montants y afférents,
+  - (iii) toute disposition législative provinciale dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, dans la mesure où elle prévoit la perception d’une somme, et des intérêts, pénalités ou autres montants y afférents, qui :
+    - (A) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+    - (B) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est **une province instituant un régime général de pensions** au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un **régime provincial de pensions** au sens de ce paragraphe.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 69; 1992, ch. 27, art. 36; 1997, ch. 12, art. 62; 2000, ch. 30, art. 145; 2005, ch. 3, art. 12, ch. 47, art. 60; 2007, ch. 36, art. 34; 2009, ch. 33, art. 23; 2012, ch. 31, art. 416
+
+</details>
+
+### 69.1 Suspension des procédures en cas de dépôt d’une proposition
+
+(1) Sous réserve des paragraphes (2) à (6) et des articles 69.4, 69.5 et 69.6, entre la date du dépôt d’une proposition visant une personne insolvable et :
+
+- a) soit sa faillite, soit la libération du syndic, les créanciers n’ont aucun recours contre elle ou contre ses biens et ne peuvent intenter ou continuer aucune action, exécution ou autre procédure en vue du recouvrement de réclamations prouvables en matière de faillite;
+
+- b) soit sa faillite, soit la libération du syndic, est sans effet toute disposition d’un contrat de garantie conclu entre elle et un créancier garanti qui prévoit, pour l’essentiel, que celle-ci, dès qu’elle devient insolvable, qu’elle manque à un engagement prévu par le contrat de garantie ou qu’est déposé à son égard un avis d’intention aux termes de l’article 50.4 ou une proposition aux termes du paragraphe 62(1), est déchue des droits qu’elle aurait normalement de se servir des avoirs visés par le contrat de garantie ou de faire d’autres opérations à leur égard;
+
+- c) soit sa faillite, soit la libération du syndic, soit l’expiration des six mois suivant l’approbation de la proposition par le tribunal, est suspendu l’exercice par Sa Majesté du chef du Canada des droits que lui confère le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* ou toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui renvoie à ce paragraphe et qui prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi et des intérêts, pénalités ou autres montants y afférents, à l’égard de la personne insolvable, lorsque celle-ci est un débiteur fiscal visé à ce paragraphe ou à cette disposition;
+
+- d) soit sa faillite, soit la libération du syndic, soit l’expiration des six mois suivant l’approbation de la proposition par le tribunal, est suspendu l’exercice par Sa Majesté du chef d’une province des droits que lui confère toute disposition législative provinciale dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, à l’égard de la personne insolvable, lorsque celle-ci est un débiteur visé par la loi provinciale, dans la mesure où la disposition prévoit la perception d’une somme, et des intérêts, pénalités ou autres montants y afférents, qui :
+  - (i) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+  - (ii) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est **une province instituant un régime général de pensions** au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un **régime provincial de pensions** au sens de ce paragraphe.
+
+**Exceptions**
+
+(2) Le paragraphe (1) n’a pas pour effet :
+
+- a) d’empêcher le créancier garanti de faire des opérations à l’égard des avoirs garantis de la personne insolvable dont il a pris possession — en vue de les réaliser — avant le dépôt de la proposition;
+
+- b) d’empêcher le créancier garanti, sauf s’il a consenti à la suspension, qui a donné le préavis prévu au paragraphe 244(1) plus de dix jours avant le dépôt de l’avis d’intention prévu à l’article 50.4 ou, à défaut d’avis d’intention, de la proposition de mettre à exécution sa garantie;
+
+- c) d’empêcher le créancier garanti qui a donné le préavis prévu au paragraphe 244(1) de mettre à exécution sa garantie si la personne insolvable a consenti à l’exécution au titre du paragraphe 244(2).
+
+- d) [Abrogé, 2012, ch. 31, art. 417]
+
+**Exception**
+
+(3) L’alinéa (1)c) ou d) ne s’applique pas, ou cesse de s’appliquer, à Sa Majesté du chef du Canada ou de la province en cause dans les cas suivants :
+
+- a) la personne insolvable manque à ses obligations de paiement d’un montant qui devient dû à Sa Majesté après le dépôt de la proposition et qui pourrait faire l’objet d’une demande aux termes d’une des dispositions suivantes :
+  - (i) le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*,
+  - (ii) toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui renvoie au paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* et qui prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi et des intérêts, pénalités ou autres montants y afférents,
+  - (iii) toute disposition législative provinciale dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, dans la mesure où elle prévoit la perception d’une somme, et des intérêts, pénalités ou autres montants y afférents, qui :
+    - (A) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+    - (B) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est **une province instituant un régime général de pensions** au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un **régime provincial de pensions** au sens de ce paragraphe;
+
+- b) un autre créancier a ou acquiert le droit de réaliser sa garantie sur un bien qui pourrait être réclamé par Sa Majesté dans l’exercice des droits que lui confère l’une des dispositions suivantes :
+  - (i) le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*,
+  - (ii) toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui renvoie au paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* et qui prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi et des intérêts, pénalités ou autres montants y afférents,
+  - (iii) toute disposition législative provinciale dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, dans la mesure où elle prévoit la perception d’une somme, et des intérêts, pénalités ou autres montants y afférents, qui :
+    - (A) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+    - (B) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est **une province instituant un régime général de pensions** au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un **régime provincial de pensions** au sens de ce paragraphe.
+
+**Exception**
+
+(4) Les alinéas (1)c) et d) ne s’appliquent pas si, par l’effet du paragraphe 69(3), l’alinéa 69(1)c) ou d) ne s’applique pas ou cesse de s’appliquer.
+
+**Créanciers garantis exclus**
+
+(5) Sous réserve des articles 79 et 127 à 135 et du paragraphe 248(1), le dépôt d’une proposition aux termes du paragraphe 62(1) n’a pas pour effet d’empêcher un créancier garanti à qui la proposition n’a pas été faite en rapport avec une garantie en particulier de réaliser celle-ci ou de faire toutes autres opérations à son égard tout comme il aurait pu le faire en l’absence du présent article.
+
+**Cas de rejet par les créanciers garantis**
+
+(6) Sous réserve des articles 79 et 127 à 135 et du paragraphe 248(1), lorsque les créanciers garantis d’une même catégorie votent en faveur du rejet d’une proposition, tout créancier appartenant à cette catégorie peut dès lors réaliser sa garantie ou faire toutes autres opérations à son égard tout comme il aurait pu le faire en l’absence du présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 36; 1994, ch. 26, art. 8(A); 1997, ch. 12, art. 63; 2000, ch. 30, art. 146; 2005, ch. 3, art. 13, ch. 47, art. 61; 2007, ch. 36, art. 35; 2009, ch. 33, art. 24; 2012, ch. 31, art. 417
+
+</details>
+
+### 69.2 Suspension des procédures en cas de dépôt d’une proposition de consommateur
+
+(1) Sous réserve des paragraphes (2) à (4) et des articles 69.4 et 69.5, entre la date de dépôt d’une proposition de consommateur aux termes du paragraphe 66.13(2) ou d’une modification de la proposition aux termes du paragraphe 66.37(1) et son retrait, son rejet ou son annulation — effective ou présumée — ou la libération de l’administrateur, les créanciers n’ont aucun recours contre le débiteur consommateur ou ses biens et ne peuvent intenter ou continuer aucune action, exécution ou autre procédure en vue du recouvrement de réclamations prouvables en matière de faillite.
+
+**Exception**
+
+(2) Le paragraphe (1) ne s’applique pas si la proposition de consommateur, autre que la modification visée à l’article 66.37, est déposée dans les six mois suivant le dépôt d’une autre proposition de consommateur à l’égard du même débiteur.
+
+**Idem**
+
+(3) Le paragraphe (1) ne s’applique pas si une modification de la proposition de consommateur est déposée dans les six mois suivant le dépôt d’une autre modification de la même proposition de consommateur.
+
+**Créanciers garantis**
+
+(4) Sous réserve des articles 79 et 127 à 135 et du paragraphe 248(1), le dépôt d’une proposition de consommateur aux termes du paragraphe 66.13(2) n’a pas pour effet d’empêcher un créancier garanti de réaliser sa garantie ou de faire toutes autres opérations à son égard tout comme il aurait pu le faire en l’absence du présent article, à moins que le tribunal n’en ordonne autrement. Tout report ordonné à cet égard doit toutefois être conforme aux règles suivantes :
+
+- a) dans le cas d’une garantie relative à une dette échue à la date de l’approbation — effective ou présumée — de la proposition ou qui le devient dans les six mois suivants, l’exercice des droits du créancier ne peut être reporté à plus de six mois après cette date;
+
+- b) dans le cas d’une garantie relative à une dette qui ne devient échue que plus de six mois après la date de l’approbation — effective ou présumée — de la proposition, l’exercice des droits du créancier peut être reporté à plus de six mois après cette date — mais en aucun cas au-delà de la date à laquelle la dette devient exigible en vertu de l’acte ou de la règle de droit instituant la garantie — seulement si tous les versements d’intérêts en souffrance depuis plus de six mois sont acquittés et si tous les autres manquements de plus de six mois sont réparés, et seulement tant qu’aucun versement d’intérêts ne demeure en souffrance, ou tant qu’aucun autre manquement ne reste sans réparation, pendant plus de six mois.
+
+**Exception**
+
+(5) L’ordonnance visée au paragraphe (4) ne peut avoir pour effet d’empêcher le créancier garanti de réaliser la garantie financière ou d’effectuer à l’égard de celle-ci toute autre opération.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 36; 1997, ch. 12, art. 64; 2004, ch. 25, art. 43(A); 2007, ch. 29, art. 95
+
+</details>
+
+### 69.3 Suspension des procédures en cas de faillite
+
+(1) Sous réserve des paragraphes (1.1) et (2) et des articles 69.4 et 69.5, à compter de la faillite du débiteur, ses créanciers n’ont aucun recours contre lui ou contre ses biens et ils ne peuvent intenter ou continuer aucune action, mesure d’exécution ou autre procédure en vue du recouvrement de réclamations prouvables en matière de faillite.
+
+**Fin de la suspension**
+
+(1.1) Le paragraphe (1) cesse de s’appliquer à tout créancier le jour de la libération du syndic.
+
+**Créanciers garantis**
+
+(2) Sous réserve des articles 79 et 127 à 135 et du paragraphe 248(1), la faillite d’un débiteur n’a pas pour effet d’empêcher un créancier garanti de réaliser sa garantie ou de faire toutes autres opérations à son égard tout comme il aurait pu le faire en l’absence du présent article, à moins que le tribunal n’en décide autrement. Tout report ordonné à cet égard doit toutefois être conforme aux règles suivantes :
+
+- a) dans le cas d’une garantie relative à une dette échue à la date où le failli est devenu tel ou qui le devient dans les six mois suivants, l’exercice des droits du créancier ne peut être reporté à plus de six mois après cette date;
+
+- b) dans le cas d’une garantie relative à une dette qui ne devient échue que plus de six mois après la date où le failli est devenu tel, l’exercice des droits du créancier peut être reporté à plus de six mois après cette date — mais en aucun cas au-delà de la date à laquelle la dette devient exigible en vertu de l’acte ou de la règle de droit instituant la garantie — seulement si tous les versements d’intérêts en souffrance depuis plus de six mois sont acquittés et si tous les autres manquements de plus de six mois sont réparés, et seulement tant qu’aucun versement d’intérêts ne demeure en souffrance, ou tant qu’aucun autre manquement ne reste sans réparation, pendant plus de six mois.
+
+**Exception**
+
+(2.1) L’ordonnance visée au paragraphe (2) ne peut avoir pour effet d’empêcher le créancier garanti de réaliser la garantie financière ou d’effectuer à l’égard de celle-ci toute autre opération.
+
+(3) [Abrogé, 2012, ch. 31, art. 418]
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 36; 2005, ch. 3, art. 14, ch. 47, art. 62; 2007, ch. 29, art. 96, ch. 36, art. 36; 2012, ch. 31, art. 418
+
+</details>
+
+### 69.31 Suspension des procédures — administrateurs
+
+(1) Entre la date où une personne morale insolvable a déposé l’avis d’intention prévu au paragraphe 50.4(1) ou une proposition et la date d’approbation de la proposition ou celle de sa faillite, nul ne peut intenter ou continuer d’action contre les administrateurs relativement aux réclamations contre eux qui sont antérieures aux procédures intentées sous le régime de la présente loi et visent des obligations dont ils peuvent être, ès qualités, responsables en droit.
+
+**Exception**
+
+(2) La suspension ne s’applique toutefois pas aux actions contre les administrateurs pour les garanties qu’ils ont données relativement aux obligations de la personne morale ni aux mesures de la nature d’une injonction les visant au sujet de celle-ci.
+
+**Démission ou destitution des administrateurs**
+
+(3) Si tous les administrateurs démissionnent ou sont destitués par les actionnaires sans être remplacés, quiconque dirige ou supervise les activités commerciales et les affaires internes de la personne morale est réputé un administrateur pour l’application du présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 65
+
+</details>
+
+### 69.4 Déclaration de non-application
+
+Tout créancier touché par l’application des articles 69 à 69.31 ou toute personne touchée par celle de l’article 69.31 peut demander au tribunal de déclarer que ces articles ne lui sont plus applicables. Le tribunal peut, avec les réserves qu’il estime indiquées, donner suite à la demande s’il est convaincu que la continuation d’application des articles en question lui causera vraisemblablement un préjudice sérieux ou encore qu’il serait, pour d’autres motifs, équitable de rendre pareille décision.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 36; 1997, ch. 12, art. 65
+
+</details>
+
+### 69.41 Précision
+
+(1) Les articles 69 à 69.31 ne s’appliquent pas aux réclamations visées au paragraphe 121(4).
+
+**Recours interdits**
+
+(2) Malgré le paragraphe (1), le créancier d’une réclamation mentionnée au paragraphe 121(4) n’a aucun recours et ne peut intenter ou continuer d’actions, exécutions ou autres procédures relativement aux biens du failli dévolus au syndic ou aux montants à verser à l’actif de la faillite au titre de l’article 68.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 65
+
+</details>
+
+### 69.42 Restrictions
+
+Malgré les autres dispositions de la présente loi, aucune disposition de la présente loi ne peut avoir pour effet de suspendre ou restreindre et aucune ordonnance ne peut être rendue, pour suspendre ou restreindre :
+
+- a) l’exercice par le ministre des Finances ou par le surintendant des institutions financières des attributions qui leur sont conférées par la *Loi sur les banques*, la *Loi sur les associations coopératives de crédit*, la *Loi sur les sociétés d’assurances* ou la *Loi sur les sociétés de fiducie et de prêt*;
+
+- b) l’exercice par le gouverneur en conseil, le ministre des Finances ou la Société d’assurance-dépôts du Canada des attributions qui leur sont conférées par la *Loi sur la Société d’assurance-dépôts du Canada*;
+
+- c) l’exercice par le procureur général du Canada des pouvoirs qui lui sont conférés par la *Loi sur les liquidations et les restructurations*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2001, ch. 9, art. 574
+
+</details>
+
+### 69.5 Effet sur les lois provinciales
+
+À l’exception des alinéas 69(1)c) et d) et 69.1(1)c) et d), les articles 69 à 69.3 n’ont pas pour effet de porter atteinte à l’application de toute disposition législative provinciale dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, dans la mesure où elle prévoit la perception d’une somme, ou des intérêts, pénalités ou autres montants y afférents, qui :
+
+- a) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*;
+
+- b) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est **une province instituant un régime général de pensions** au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un **régime provincial de pensions** au sens de ce paragraphe.
+
+Pour l’application du présent article, la disposition en question est réputée avoir, à l’encontre de tout créancier et malgré tout texte législatif fédéral ou provincial et toute règle de droit, la même portée et le même effet que le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* quant à la somme visée à l’alinéa a), ou que le paragraphe 23(2) du *Régime de pensions du Canada* quant à la somme visée à l’alinéa b), et quant aux intérêts, pénalités ou autres montants y afférents, quelle que soit la garantie dont bénéficie le créancier.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 36; 2000, ch. 30, art. 147
+
+</details>
+
+### 69.6 Définition de **organisme administratif**
+
+(1) Au présent article, **organisme administratif** s’entend de toute personne ou de tout organisme chargé de l’application d’une loi fédérale ou provinciale; y est assimilé toute personne ou tout organisme désigné à ce titre par les Règles générales.
+
+**Organisme administratif — suspensions prévues aux articles 69 ou 69.1**
+
+(2) Sous réserve du paragraphe (3), les suspensions prévues aux articles 69 ou 69.1 ne portent aucunement atteinte aux mesures — action, poursuite ou autre procédure — prises à l’égard de la personne insolvable par ou devant un organisme administratif, ni aux investigations auxquelles il procède à son sujet. Elles n’ont d’effet que sur l’exécution d’un paiement ordonné par lui ou le tribunal.
+
+**Exception**
+
+(3) Le tribunal peut par ordonnance, sur demande de la personne insolvable et sur préavis à l’organisme administratif et à toute personne qui sera vraisemblablement touchée par l’ordonnance, déclarer que le paragraphe (2) ne s’applique pas à l’une ou plusieurs des mesures prises par ou devant celui-ci, s’il est convaincu que, à la fois :
+
+- a) il ne pourrait être fait de proposition viable à l’égard de la personne insolvable si ce paragraphe s’appliquait;
+
+- b) la suspension demandée au titre des articles 69 ou 69.1 n’est pas contraire à l’intérêt public.
+
+**Déclaration : organisme agissant à titre de créancier**
+
+(4) En cas de différend sur la question de savoir si l’organisme administratif cherche à faire valoir ses droits à titre de créancier dans le cadre de la mesure prise, le tribunal peut déclarer par ordonnance, sur demande de la personne insolvable et sur préavis à l’organisme, que celui-ci agit effectivement à ce titre et que la mesure est suspendue.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2007, ch. 36, art. 37
+
+</details>
+
+### Dispositions générales
+
+### 70 Priorité des ordonnances de faillite et cessions
+
+(1) Toute ordonnance de faillite rendue et toute cession faite en conformité avec la présente loi ont priorité sur toutes saisies, saisies-arrêts, certificats ayant l’effet de jugements, jugements, certificats de jugements, hypothèques légales résultant d’un jugement, procédures d’exécution ou autres procédures contre les biens d’un failli, sauf ceux qui ont été complètement réglés par paiement au créancier ou à son représentant, et sauf les droits d’un créancier garanti.
+
+**Frais**
+
+(2) Malgré le paragraphe (1), un seul mémoire de frais émanant d’un avocat, y compris les honoraires de l’huissier-exécutant et les droits d’enregistrement fonciers, est à payer au créancier qui a le premier mis la saisie-arrêt ou déposé entre les mains de l’huissier-exécutant une saisie, une procédure d’exécution ou une autre procédure contre les biens du failli.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 70; 1992, ch. 27, art. 37; 1997, ch. 12, art. 66(F); 2004, ch. 25, art. 44; 2005, ch. 47, art. 63(A)
+
+</details>
+
+### 71 Dévolution des biens au syndic
+
+Lorsqu’une ordonnance de faillite est rendue, ou qu’une cession est produite auprès d’un séquestre officiel, le failli cesse d’être habile à céder ou autrement aliéner ses biens qui doivent, sous réserve des autres dispositions de la présente loi et des droits des créanciers garantis, immédiatement passer et être dévolus au syndic nommé dans l’ordonnance de faillite ou dans la cession, et advenant un changement de syndic, les biens passent de syndic à syndic sans cession ni transfert quelconque.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 71; 1997, ch. 12, art. 67; 2004, ch. 25, art. 44
+
+</details>
+
+### 72 Application d’autres lois positives
+
+(1) La présente loi n’a pas pour effet d’abroger ou de remplacer les dispositions de droit substantif d’une autre loi ou règle de droit concernant la propriété et les droits civils, non incompatibles avec la présente loi, et le syndic est autorisé à se prévaloir de tous les droits et recours prévus par cette autre loi ou règle de droit, qui sont supplémentaires et additionnels aux droits et recours prévus par la présente loi.
+
+**Application de lois provinciales**
+
+(2) Nulle ordonnance de faillite, cession ou autre document fait ou souscrit sous l’autorité de la présente loi n’est, sauf disposition contraire de celle-ci, assujetti à l’application de toute loi en vigueur à toute époque dans une province relativement aux actes, hypothèques, jugements, actes de vente, biens ou enregistrements de pièces affectant le titre afférent aux biens, meubles ou immeubles, personnels ou réels, ou les privilèges ou charges sur ces biens.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 72; 1997, ch. 12, art. 68(F); 2004, ch. 25, art. 45
+
+</details>
+
+### 72.1 Propriété intellectuelle — disposition
+
+(1) Si le failli est partie à un contrat qui autorise une autre partie à utiliser un droit de propriété intellectuelle qui est compris dans une disposition d’actifs par le syndic, cette disposition n’empêche pas l’autre partie d’utiliser le droit en question ni d’en faire respecter l’utilisation exclusive, à condition que cette autre partie respecte ses obligations contractuelles à l’égard de l’utilisation de ce droit, et ce, pour la période prévue au contrat et pour toute prolongation de celle-ci dont elle se prévaut de plein droit.
+
+**Propriété intellectuelle — résiliation**
+
+(2) Si le failli est partie à un contrat qui autorise une autre partie à utiliser un droit de propriété intellectuelle, la résiliation de ce contrat par le syndic n’empêche pas l’autre partie d’utiliser le droit en question ni d’en faire respecter l’utilisation exclusive, à condition que cette autre partie respecte ses obligations contractuelles à l’égard de l’utilisation de ce droit, et ce, pour la période prévue au contrat et pour toute prolongation de celle-ci dont elle se prévaut de plein droit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2018, ch. 27, art. 267
+
+</details>
+
+### 73 Protection de l’acheteur de bonne foi à la vente
+
+(1) Une exécution exercée par saisie et vente des biens d’un failli n’est pas invalide pour le seul motif qu’elle est un acte de faillite, et une personne qui achète de bonne foi ces biens à une vente faite par l’huissier-exécutant acquiert un titre valable à ces biens contre le syndic.
+
+**Remise par l’huissier-exécutant des biens au syndic**
+
+(2) Lorsqu’il a été fait une cession ou qu’il a été rendu une ordonnance de faillite, l’huissier-exécutant ou tout autre fonctionnaire d’un tribunal ou toute autre personne ayant saisi des biens du failli en vertu d’une procédure d’exécution, d’une saisie-arrêt ou de toute autre procédure, sur réception d’une copie de la cession ou de l’ordonnance de faillite certifiée conforme par le syndic, livre immédiatement au syndic tous les biens du failli qu’il a en sa possession.
+
+**Dans le cas de vente par l’huissier-exécutant**
+
+(3) Lorsque l’huissier-exécutant a vendu les biens du failli ou une partie de ces biens, il remet au syndic les sommes d’argent qu’il a ainsi réalisées, moins ses honoraires et les frais mentionnés au paragraphe 70(2).
+
+**Effet d’une faillite sur la saisie de biens pour loyer ou taxes**
+
+(4) Sur production d’une copie de l’ordonnance de faillite ou de la cession, que le syndic a certifiée conforme, tout bien d’un failli saisi pour loyer ou pour taxes est remis sans délai au syndic; mais le paiement des frais de saisie est garanti par une sûreté de premier rang sur ces biens et, en cas de vente de tout ou partie des biens, le produit de celle-ci, moins les frais de la saisie et de la vente, est remis au syndic.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 73; 1997, ch. 12, art. 69(F); 2004, ch. 25, art. 46; 2015, ch. 3, art. 8
+
+</details>
+
+### 74 Enregistrement de l’ordonnance de faillite ou de la cession
+
+(1) Toute ordonnance de faillite, ou une copie conforme d’une telle ordonnance certifiée par le registraire ou par un autre fonctionnaire du tribunal qui l’a rendue, et chaque cession, ou une copie conforme de celle-ci certifiée par le séquestre officiel, peuvent être enregistrées par le syndic ou en son nom, relativement à la totalité ou à une partie de tout immeuble sur lequel le failli a un droit ou de tout bien réel sur lequel le failli a un domaine ou intérêt, au bureau où, selon le droit de la province dans laquelle est situé le bien, peuvent être enregistrés des actes ou des transferts de titres, ainsi que d’autres documents relatifs à des immeubles ou des biens réels ou aux droits ou intérêts ou domaines afférents.
+
+**Effet de l’enregistrement**
+
+(2) Lorsqu’un failli est le propriétaire enregistré d’un immeuble ou d’un bien réel ou est le détenteur enregistré d’une charge, le syndic, lors de l’enregistrement des documents mentionnés au paragraphe (1), a le droit d’être enregistré comme propriétaire de l’immeuble ou du bien réel ou détenteur de la charge, libre de toutes charges mentionnées au paragraphe 70(1).
+
+**Dépôt d’une mise en garde**
+
+(3) Lorsqu’un failli est propriétaire d’un immeuble ou d’un bien réel, ou détenteur d’une charge, enregistrés ou qu’il détient ou est réputé détenir un intérêt, un domaine ou un droit sur un tel bien, et que, pour une raison quelconque, une copie de l’ordonnance de faillite ou de la cession n’a pas été enregistrée en conformité avec le paragraphe (1), une mise en garde ou un avis peut être déposé par le syndic auprès du fonctionnaire responsable de l’enregistrement. Tout enregistrement subséquent le visant est assujetti à une telle mise en garde ou à un tel avis, à moins qu’il n’ait été révoqué ou annulé en vertu de la loi sous le régime de laquelle le bien, la charge, l’intérêt, le domaine ou le droit ont été enregistrés.
+
+**Obligation des fonctionnaires**
+
+(4) Le fonctionnaire à qui un syndic présente ou fait présenter pour enregistrement une ordonnance de faillite, cession ou autre pièce l’enregistre suivant la procédure ordinaire suivie à son bureau pour l’enregistrement des pièces relatives aux immeubles ou biens réels.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 74; 1997, ch. 12, art. 70; 2004, ch. 25, art. 47; 2005, ch. 47, art. 64(A)
+
+</details>
+
+### 75 Application de la loi provinciale en faveur de l’acheteur moyennant valeur
+
+Nonobstant les autres dispositions de la présente loi, un acte, transfert, contrat de vente, charge ou hypothèque, consenti à un acheteur ou à un créancier hypothécaire de bonne foi, ou consenti en sa faveur, pour contrepartie valable et suffisante, et couvrant des immeubles ou des biens réels visés par une ordonnance de faillite ou une cession en vertu de la présente loi, est valable et efficace selon sa teneur et selon les lois de la province dans laquelle ces biens sont situés, aussi pleinement et efficacement, et pour toutes fins et intentions, que si aucune ordonnance de faillite n’avait été rendue ou cession faite en vertu de la présente loi, à moins que l’ordonnance de faillite, la cession, ou un avis de cette ordonnance ou de cette cession, ou un avis, n’ait été enregistré contre les biens au bureau approprié, antérieurement à l’enregistrement de l’acte, du transfert, du contrat de vente, de la charge ou de l’hypothèque, conformément aux lois de la province où sont situés les biens.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 75; 2001, ch. 4, art. 28(F); 2004, ch. 25, art. 47
+
+</details>
+
+### 76 Interdiction de transporter un bien hors de la province
+
+Aucun bien d’un failli ne peut être transporté hors de la province où se trouvait ce bien à la date à laquelle l’ordonnance de faillite a été rendue ou la cession a été faite, sans la permission des inspecteurs ou sans une ordonnance du tribunal devant lequel se poursuivent les procédures en exécution de la présente loi ou dans le ressort duquel ce bien est situé.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 76; 2004, ch. 25, art. 47
+
+</details>
+
+### 77 Actionnaires contributaires
+
+(1) Tout actionnaire ou membre d’une personne morale en faillite est tenu de verser le montant impayé de ses actions du capital ou de ses engagements envers la personne morale ou envers ses membres ou créanciers, selon le cas, sous le régime de la loi, de la charte ou de l’acte constitutif de la compagnie, ou autrement.
+
+**Responsabilité du contributaire**
+
+(2) La somme que le contributaire est tenu de verser aux termes du paragraphe (1) est réputée un avoir de la personne morale et une créance payable au syndic, dès que cette personne morale est en faillite.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 77; 1999, ch. 31, art. 22(F)
+
+</details>
+
+### 78 La banque doit avertir le syndic
+
+Lorsqu’un banquier a constaté qu’une personne ayant un compte chez lui est un failli non libéré, il est de son devoir d’avertir immédiatement le syndic de l’existence de ce compte, et il ne peut dès lors faire aucun paiement sur ce compte, sauf sur une ordonnance du tribunal ou conformément aux instructions du syndic, à moins qu’à l’expiration d’un mois à compter de la date où le renseignement est fourni, le syndic ne lui ait pas donné d’instructions.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 56
+
+</details>
+
+### 79 Inspection de biens tenus en nantissement
+
+Lorsque des biens d’un failli sont détenus, à titre de gage, hypothèque, nantissement ou autre garantie, le syndic peut donner avis par écrit de son intention de les examiner; l’intéressé ne peut, dès lors, réaliser sa garantie avant d’avoir fourni au syndic une occasion raisonnable de faire l’inspection et d’exercer son droit de rachat.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 79; 1997, ch. 12, art. 71
+
+</details>
+
+### 80 Protection du syndic
+
+Lorsque le syndic a saisi des biens en la possession ou dans le local d’un failli, ou en a disposé, sans qu’ait été donné avis de réclamation relativement aux biens, et lorsqu’il est démontré que, à la date de la faillite, les biens n’étaient pas la propriété du failli ou étaient grevés d’une sûreté ou d’une charge non enregistrée, le syndic ne peut être tenu personnellement responsable du préjudice résultant de cette saisie ou disposition et subi par une personne réclamant ces biens, un intérêt ou, dans la province de Québec, un droit sur ces biens, ni des frais de procédures intentées pour établir une réclamation à cet égard, à moins que le tribunal ne soit d’avis que le syndic a été négligent en ce qui concerne ses obligations à l’égard des biens.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 80; 1997, ch. 12, art. 71; 2004, ch. 25, art. 48
+
+</details>
+
+### 81 Personnes réclamant des biens en possession d’un failli
+
+(1) Lorsqu’une personne réclame des biens, ou un intérêt dans des biens, en la possession du failli au moment de la faillite, elle doit produire au syndic une preuve de réclamation attestée par affidavit indiquant les motifs à l’appui de la réclamation et des détails suffisants pour permettre l’identification des biens.
+
+**Comment disposer de la réclamation produite**
+
+(2) Lorsqu’il reçoit une preuve de réclamation produite en vertu du paragraphe (1), le syndic doit, dans les quinze jours qui suivent la réception ou, si elle est postérieure, la première assemblée de créanciers, soit admettre la réclamation et mettre le réclamant en possession des biens, soit informer ce dernier, par avis envoyé de la manière prescrite, qu’il conteste la réclamation, moyens à l’appui; à moins que le réclamant n’en appelle au tribunal dans les quinze jours qui suivent l’envoi de l’avis de contestation, il est censé avoir délaissé ou abandonné tout droit ou intérêt sur ces biens en faveur du syndic, qui peut dès lors les vendre ou les aliéner sans que le réclamant retienne quelque droit, titre ou intérêt en l’espèce.
+
+**Fardeau de la preuve**
+
+(3) La charge d’établir une réclamation sur des biens, sous l’autorité du présent article, incombe au réclamant.
+
+**Production de la preuve**
+
+(4) Le syndic peut, par avis envoyé de la manière prescrite, demander à toute personne de prouver sa réclamation sur des biens en vertu du présent article; à moins que cette personne ne produise au syndic une preuve de réclamation en la forme prescrite, dans les quinze jours qui suivent l’envoi de l’avis, le syndic peut dès lors, avec l’autorisation du tribunal, vendre ce bien ou l’aliéner sans que cette personne retienne quelque droit, titre ou intérêt en l’espèce.
+
+**Nulle autre procédure**
+
+(5) Nulle procédure ne peut être intentée pour établir une réclamation ou pour recouvrer un droit ou un intérêt à l’égard d’un bien en la possession d’un failli au moment de la faillite, sauf disposition contraire du présent article.
+
+**Les droits d’autres personnes ne sont pas étendus**
+
+(6) Le présent article n’a pas pour effet d’étendre les droits de personnes autres que le syndic.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 81; 2005, ch. 47, art. 65
+
+</details>
+
+### 81.1 Droit du fournisseur impayé
+
+(1) Sous réserve des autres dispositions du présent article, le fournisseur qui a vendu à un acheteur, qui ne les lui a pas payées au complet, des marchandises destinées à être utilisées dans le cadre des affaires de celui-ci et qui les a livrées à celui-ci ou à son mandataire peut avoir accès à ces marchandises — l’acheteur, le syndic, le séquestre ou le mandataire étant tenu d’accorder mainlevée à cet égard — et en reprendre possession à ses propres frais, lorsque les conditions suivantes sont réunies :
+
+- a) dans les quinze jours suivant la date à laquelle l’acheteur fait faillite ou fait l’objet d’une mise sous séquestre, il présente à l’acheteur, au syndic ou au séquestre, en la forme prescrite, une demande écrite à cet effet contenant les détails de la transaction;
+
+- b) les marchandises ont été livrées dans les trente jours précédant cette date;
+
+- c) au moment de la présentation de la demande, les marchandises sont en la possession de l’acheteur, du syndic ou du séquestre, peuvent être identifiées comme celles qui ont été livrées par le fournisseur et ne lui ont pas été payées au complet, sont dans le même état qu’au moment de leur livraison, n’ont pas été revendues à une personne sans lien de dépendance et ne font pas l’objet d’une promesse de vente à une personne sans lien de dépendance;
+
+- d) ni l’acheteur, ni le syndic, ni le séquestre n’ont, dès la présentation de la demande, acquitté le solde impayé.
+
+**En cas de paiement partiel**
+
+(2) Si, au moment de la présentation de la demande, l’acheteur a déjà payé une partie des marchandises, le fournisseur peut :
+
+- a) soit reprendre possession de la partie des biens correspondant au solde impayé;
+
+- b) soit reprendre possession de la totalité des biens sur remboursement du paiement partiel à l’acheteur, au syndic ou au séquestre, selon le cas.
+
+(3) [Abrogé, 1999, ch. 31, art. 23]
+
+**Dépôt d’un avis d’intention ou d’une proposition**
+
+(4) En cas de dépôt, à l’égard de l’acheteur, d’un avis d’intention aux termes de l’article 50.4 ou d’une proposition après la livraison des marchandises à celui-ci, mais avant qu’il fasse faillite ou fasse l’objet d’une mise sous séquestre, la date visée à l’alinéa (1)b) est réputée être celle du dépôt de l’avis ou de la proposition, selon la première des deux éventualités à survenir.
+
+**Extinction des droits**
+
+(5) Le droit de reprise de possession accordé au fournisseur par le présent article s’éteint s’il n’a pas été exercé dans le délai de quinze jours visé à l’alinéa (1)a); ce délai peut toutefois être prorogé avant expiration par le syndic, le séquestre ou le tribunal.
+
+**Rang**
+
+(6) Par dérogation à toute autre loi fédérale, à toute loi provinciale ou à toute règle de droit, le droit de reprise de possession a préséance sur tout autre droit ou réclamation qu’on pourrait faire valoir contre l’acheteur en rapport avec les marchandises en cause, à l’exception du droit d’un acheteur qui a subséquemment acquis les biens de bonne foi et pour valeur, ignorant que le fournisseur avait demandé d’en reprendre possession.
+
+**Instructions du tribunal**
+
+(7) Le tribunal donne par écrit à l’acheteur, au syndic ou au séquestre qui lui a fait la demande les instructions qu’il estime indiquées dans les circonstances relativement à toute question relevant de l’application du présent article.
+
+**Droit d’appel**
+
+(8) À la demande du fournisseur qui est lésé par un acte, une omission ou une décision de l’acheteur, du syndic ou du séquestre, le tribunal peut rendre à ce sujet toute ordonnance qu’il estime indiquée dans les circonstances.
+
+**Autres droits**
+
+(9) Les paragraphes (7) et (8) n’ont pas pour effet de limiter l’exercice des droits prévus au paragraphe 34(1) et à l’article 37.
+
+**Paiement**
+
+(10) Le fournisseur qui se prévaut de son droit de reprise de possession aux termes du présent article n’a plus droit au paiement des marchandises en cause.
+
+**Droit provincial**
+
+(11) Le présent article n’a pas pour effet d’empêcher le fournisseur d’exercer les droits que lui confère le droit provincial.
+
+**Définitions**
+
+(12) Les définitions qui suivent s’appliquent au présent article.
+
+**mise sous séquestre** En parlant d’une personne, mise de tout bien de celle-ci en la possession ou sous la responsabilité d’un séquestre. (**person who is subject to a receivership**)
+
+**séquestre** Séquestre au sens du paragraphe 243(2). (**receiver**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 38; 1999, ch. 31, art. 23; 2005, ch. 47, art. 66
+
+</details>
+
+### 81.2 Cas des agriculteurs, des pêcheurs et des aquiculteurs
+
+(1) Par dérogation à toute autre loi ou règle de droit fédérale ou provinciale, la réclamation de l’agriculteur, du pêcheur ou de l’aquiculteur qui a vendu et livré à un acheteur des produits agricoles, aquatiques ou aquicoles destinés à être utilisés dans le cadre des affaires de celui-ci est garantie, à compter de la date visée aux sous-alinéas a)(i) ou (ii), par une sûreté portant sur la totalité du stock appartenant à l’acheteur ou détenu par lui à la même date; la sûreté a priorité sur tout autre droit, sûreté, charge ou réclamation — peu importe sa date de naissance — relatif au stock de l’acheteur, sauf sur le droit du fournisseur à la reprise de possession de marchandises aux termes de l’article 81.1; la garantie reconnue par le présent article n’est valable que si, à la fois :
+
+- a) les produits en question ont été livrés à l’acheteur dans les quinze jours précédant :
+  - (i) soit la date à laquelle l’acheteur est devenu un failli,
+  - (ii) soit la date à laquelle une personne a commencé à agir, à l’égard de l’acheteur, à titre de séquestre au sens du paragraphe 243(2);
+
+- b) les produits en question n’ont pas, à la date visée aux sous-alinéas a)(i) ou (ii), été payés au complet;
+
+- c) l’agriculteur, le pêcheur ou l’aquiculteur a déposé une preuve de réclamation en la forme prescrite pour le solde impayé auprès du syndic ou du séquestre dans les trente jours suivant la date visée aux sous-alinéas a)(i) ou (ii).
+
+Le syndic ou le séquestre qui prend possession ou dispose des stocks grevés par la sûreté est responsable de la réclamation de l’agriculteur, du pêcheur ou de l’aquiculteur jusqu’à concurrence du produit net de la réalisation, déduction faite des frais de réalisation, et est subrogé dans tous leurs droits jusqu’à concurrence des sommes ainsi payées.
+
+**Définitions**
+
+(2) Les définitions qui suivent s’appliquent au présent article.
+
+**agriculteur** Est assimilé à l’agriculteur le propriétaire, l’occupant, le locateur ou le locataire d’une ferme. (**farmer**)
+
+**aquiculteur** Est assimilé à l’aquiculteur le propriétaire, l’occupant, le locateur ou le locataire d’une exploitation aquicole. (**aquaculturist**)
+
+**aquiculture** Élevage ou culture d’organismes animaux et végétaux aquatiques. (**aquaculture**)
+
+**exploitation aquicole** Endroit où l’aquiculture est pratiquée. (**aquaculture operation**)
+
+**ferme** Terre située au Canada utilisée pour l’exercice d’une des activités de l’agriculture, et notamment pour l’élevage du bétail, l’industrie laitière, l’apiculture, la production fruitière, l’arboriculture et toute culture du sol. (**farm**)
+
+**organismes animaux et végétaux aquatiques** Plantes ou animaux qui, à la plupart des étapes de leur développement, ont comme habitat naturel l’eau. (**aquatic plants and animals**)
+
+**pêche** L’action de prendre ou de chercher à prendre du poisson, quels que soient les moyens employés. (**fishing**)
+
+**pêcheur** Personne dont l’activité professionnelle est, uniquement ou partiellement, la pêche. (**fisherman**)
+
+**poisson** Sont assimilés à des poissons les crustacés et coquillages ainsi que les animaux aquatiques. (**fish**)
+
+**produits agricoles** Sont compris parmi les produits agricoles :
+  - a) grains, foin, racines, légumes, fruits, autres récoltes et tout autre produit direct du sol;
+  - b) miel, animaux de ferme — sur pied ou abattus —, produits laitiers, oeufs et tout autre produit indirect du sol. (**products of agriculture**)
+
+**produits aquatiques** Poisson de toute espèce, êtres organiques et inorganiques vivant dans la mer et les eaux douces, et toute substance extraite ou tirée des eaux, à l’exception des produits aquicoles. (**products of the sea, lakes and rivers**)
+
+**produits aquicoles** Tout organisme animal ou végétal aquatique, élevé ou cultivé. (**products of aquaculture**)
+
+**Interprétation**
+
+(3) Pour l’application du présent article, tout élément compris dans les définitions suivantes, prévues au paragraphe (2), s’entend également de cet élément ou de ses parties, quel qu’en soit la forme ou l’état, ainsi que des produits, sous-produits et dérivés qui en sont tirés :
+
+- a) « produits agricoles »;
+
+- b) « produits aquatiques »;
+
+- c) « produits aquicoles ».
+
+**Application de l’article 81.1**
+
+(4) Il demeure entendu que le mot « marchandises », à l’article 81.1, s’entend notamment des produits agricoles, aquatiques ou aquicoles.
+
+**Non-atteinte aux autres droits**
+
+(5) Le présent article n’a pas pour effet d’empêcher un agriculteur, un pêcheur ou un aquiculteur d’exercer :
+
+- a) le droit que lui reconnaît l’article 81.1 à la reprise de possession de produits agricoles, aquatiques ou aquicoles;
+
+- b) tout autre droit que lui reconnaît le droit provincial applicable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 38; 1997, ch. 12, art. 72(F); 2004, ch. 25, art. 49
+
+</details>
+
+### 81.3 Sûreté relative aux salaires non payés — faillite
+
+(1) La réclamation de tout commis, préposé, voyageur de commerce, journalier ou ouvrier à qui le failli doit des gages, salaires, commissions ou autre rémunération pour services rendus au cours de la période commençant à la date précédant de six mois la date de l’ouverture de la faillite et se terminant à la date de la faillite est garantie, à compter de cette date et jusqu’à concurrence de deux mille dollars, moins toute somme que le syndic ou un séquestre peut lui avoir versée pour ces services, par une sûreté portant sur les actifs à court terme appartenant au failli à la date de la faillite.
+
+**Commissions**
+
+(2) Pour l’application du paragraphe (1), les commissions payables sur expédition, livraison ou paiement de marchandises sont réputées, dans le cas où celles-ci ont été expédiées, livrées ou payées pendant la période visée à ce paragraphe, avoir été gagnées pendant cette période.
+
+**Sûreté relative aux déboursés non payés**
+
+(3) La réclamation de tout voyageur de commerce à qui le failli est redevable des sommes qu’il a régulièrement déboursées pour son entreprise ou relativement à celle-ci au cours de la période visée au paragraphe (1) est garantie, à compter de la date de la faillite et jusqu’à concurrence de mille dollars, moins toute somme que le syndic ou un séquestre peut lui avoir versée à ce titre, par une sûreté portant sur les actifs à court terme appartenant au failli à cette date.
+
+**Priorité**
+
+(4) La sûreté visée au présent article a priorité sur tout autre droit, sûreté, charge ou réclamation — quelle que soit la date à laquelle ils ont pris naissance — grevant les actifs à court terme en cause, à l’exception des droits prévus aux articles 81.1 et 81.2 et des sommes mentionnées au paragraphe 67(3) qui sont réputées être détenues en fiducie.
+
+**Responsabilité du syndic**
+
+(5) Le syndic qui dispose d’actifs à court terme grevés par la sûreté est responsable de la réclamation du commis, du préposé, du voyageur de commerce, du journalier ou de l’ouvrier jusqu’à concurrence du produit de la disposition, et est subrogé dans tous leurs droits jusqu’à concurrence des sommes ainsi payées.
+
+**Réclamations des dirigeants et administrateurs**
+
+(6) Aucun dirigeant ou administrateur du failli n’a droit à la garantie prévue au présent article.
+
+**Lien de dépendance**
+
+(7) La personne qui, alors qu’elle avait avec lui un lien de dépendance, a conclu une transaction avec un failli n’a pas droit à la garantie prévue au présent article pour toute réclamation découlant de cette transaction, sauf si, compte tenu des circonstances, notamment la rétribution, les conditions de la prestation, ainsi que la durée, la nature et l’importance des services rendus, le syndic peut raisonnablement conclure que la transaction en cause est en substance pareille à celle qu’elle aurait conclue si elle n’avait pas eu de lien de dépendance avec le failli.
+
+**Remise de preuve**
+
+(8) Toute réclamation visée au présent article est prouvée par la remise, au syndic, d’une preuve de la réclamation établie en la forme prescrite.
+
+**Définitions**
+
+(9) Les définitions qui suivent s’appliquent au présent article.
+
+**rémunération** S’entend notamment de l’indemnité de vacances, mais non de l’indemnité de départ ou de préavis. (**compensation**)
+
+**séquestre** Séquestre au sens du paragraphe 243(2) ou séquestre intérimaire nommé en vertu des paragraphes 46(1), 47(1) ou 47.1(1). (**receiver**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 67; 2007, ch. 36, art. 38; 2009, ch. 2, art. 355(F)
+
+</details>
+
+### 81.4 Sûreté relative aux salaires non payés — mise sous séquestre
+
+(1) La réclamation de tout commis, préposé, voyageur de commerce, journalier ou ouvrier à qui la personne faisant l’objet d’une mise sous séquestre doit des gages, salaires, commissions ou autre rémunération pour services rendus au cours des six mois précédant la date à laquelle le séquestre entre en fonctions est garantie, à compter de cette date et jusqu’à concurrence de deux mille dollars, moins toute somme qu’un séquestre ou syndic peut lui avoir versée pour ces services, par une sûreté portant sur les actifs à court terme en cause qui sont en la possession ou sous la responsabilité du séquestre en fonctions.
+
+**Commissions**
+
+(2) Pour l’application du paragraphe (1), les commissions payables sur expédition, livraison ou paiement de marchandises sont réputées, dans le cas où celles-ci ont été expédiées, livrées ou payées pendant la période visée à ce paragraphe, avoir été gagnées pendant cette période.
+
+**Sûreté relative aux débours non payés**
+
+(3) La réclamation de tout voyageur de commerce à qui la personne faisant l’objet d’une mise sous séquestre est redevable des sommes qu’il a régulièrement déboursées pour son entreprise ou relativement à celle-ci au cours des six mois précédant la date à laquelle le séquestre entre en fonctions est garantie, à compter de cette date et jusqu’à concurrence de mille dollars, moins toute somme qu’un séquestre ou syndic peut lui avoir versée à ce titre, par une sûreté portant sur les actifs à court terme en cause qui sont en la possession ou sous la responsabilité du séquestre en fonctions.
+
+**Priorité**
+
+(4) La sûreté visée au présent article a priorité sur tout autre droit, sûreté, charge ou réclamation — quelle que soit la date à laquelle ils ont pris naissance — grevant les actifs à court terme en cause, à l’exception des droits prévus aux articles 81.1 et 81.2.
+
+**Responsabilité du séquestre**
+
+(5) Le séquestre qui prend possession ou dispose des actifs à court terme grevés par la sûreté est responsable de la réclamation du commis, du préposé, du voyageur de commerce, du journalier ou de l’ouvrier jusqu’à concurrence du produit de la disposition, et est subrogé dans tous leurs droits jusqu’à concurrence des sommes ainsi payées.
+
+**Réclamations des dirigeants et administrateurs**
+
+(6) Aucun dirigeant ou administrateur de la personne faisant l’objet d’une mise sous séquestre n’a droit à la garantie prévue au présent article.
+
+**Lien de dépendance**
+
+(7) La personne qui, alors qu’elle avait avec elle un lien de dépendance, a conclu une transaction avec une personne faisant l’objet d’une mise sous séquestre n’a pas droit à la garantie prévue au présent article pour toute réclamation découlant de cette transaction, sauf si, compte tenu des circonstances, notamment la rétribution, les conditions de la prestation, ainsi que la durée, la nature et l’importance des services rendus, le syndic peut raisonnablement conclure que la transaction en cause est en substance pareille à celle qu’elle aurait conclue si elle n’avait pas eu de lien de dépendance avec la personne mise sous séquestre.
+
+**Remise de preuve**
+
+(8) Toute réclamation visée au présent article est prouvée par la remise, au séquestre, d’une preuve de la réclamation établie en la forme prescrite.
+
+**Définitions**
+
+(9) Les définitions qui suivent s’appliquent au présent article.
+
+**personne faisant l’objet d’une mise sous séquestre** Personne dont un bien quelconque est en la possession ou sous la responsabilité d’un séquestre. (**person who is subject to a receivership**)
+
+**rémunération** S’entend notamment de l’indemnité de vacances, mais non de l’indemnité de départ ou de préavis. (**compensation**)
+
+**séquestre** Séquestre au sens du paragraphe 243(2) ou séquestre intérimaire nommé en vertu des paragraphes 46(1), 47(1) ou 47.1(1). (**receiver**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 67; 2007, ch. 36, art. 38; 2009, ch. 2, art. 356(F)
+
+</details>
+
+### 81.5 Sûreté relative aux régimes de pension prescrits — faillite
+
+(1) Si le failli est un employeur qui participe ou a participé à un régime de pension prescrit institué pour ses employés, les sommes ci-après qui, à la date de la faillite, n’ont pas été versées au fonds établi dans le cadre de ce régime sont garanties, à compter de cette date, par une sûreté sur les éléments d’actif du failli :
+
+- a) les sommes qui ont été déduites de la rémunération des employés pour versement au fonds;
+
+- b) dans le cas d’un régime de pension prescrit régi par une loi fédérale :
+  - (i) les coûts normaux, au sens du paragraphe 2(1) du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur est tenu de verser au fonds,
+  - (i.1) la somme égale au total des paiements spéciaux, établis conformément à l’article 9 du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur est tenu de verser au fonds visé au présent article et à l’article 81.6 pour la liquidation d’un passif non capitalisé ou d’un déficit de solvabilité,
+  - (i.2) toute somme requise pour la liquidation de tout autre passif non capitalisé ou déficit de solvabilité du fonds,
+  - (ii) les sommes que l’employeur est tenu de verser au fonds au titre de toute disposition à cotisations déterminées au sens du paragraphe 2(1) de la *Loi de 1985 sur les normes de prestation de pension*,
+  - (iii) les sommes que l’employeur est tenu de verser à l’administrateur d’un régime de pension agréé collectif au sens du paragraphe 2(1) de la *Loi sur les régimes de pension agréés collectifs*;
+
+- c) dans le cas de tout autre régime de pension prescrit :
+  - (i) la somme égale aux coûts normaux, au sens du paragraphe 2(1) du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur serait tenu de verser au fonds si le régime était régi par une loi fédérale,
+  - (i.1) la somme égale au total des paiements spéciaux, établis conformément à l’article 9 du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur serait tenu de verser au fonds visé au présent article et à l’article 81.6 pour la liquidation d’un passif non capitalisé ou d’un déficit de solvabilité si le régime était régi par une loi fédérale,
+  - (i.2) toute somme requise pour la liquidation de tout autre passif non capitalisé ou déficit de solvabilité du fonds,
+  - (ii) les sommes que l’employeur serait tenu de verser au fonds au titre de toute disposition à cotisations déterminées au sens du paragraphe 2(1) de la *Loi de 1985 sur les normes de prestation de pension* si le régime était régi par une loi fédérale,
+  - (iii) les sommes que l’employeur serait tenu de verser à l’égard du régime s’il était régi par la *Loi sur les régimes de pension agréés collectifs*.
+
+**Priorité**
+
+(2) La sûreté visée au présent article a priorité sur tout autre droit, sûreté, charge ou réclamation — peu importe la date à laquelle ils ont pris naissance — grevant les biens du failli, à l’exception :
+
+- a) des droits prévus aux articles 81.1 et 81.2;
+
+- b) des sommes mentionnées au paragraphe 67(3) qui sont réputées être détenues en fiducie;
+
+- c) de la sûreté prévue aux articles 81.3 et 81.4.
+
+**Responsabilité du syndic**
+
+(3) Le syndic qui dispose d’éléments d’actif grevés par la sûreté est responsable des sommes mentionnées au paragraphe (1) jusqu’à concurrence du produit de la disposition, et est subrogé dans tous les droits du fonds établi dans le cadre du régime de pension jusqu’à concurrence des sommes ainsi payées.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 67; 2012, ch. 16, art. 80
+- 2023, ch. 6, art. 3
+
+</details>
+
+### 81.6 Sûreté relative aux régimes de pension prescrits — mise sous séquestre
+
+(1) Si la personne faisant l’objet d’une mise sous séquestre est un employeur qui participe ou a participé à un régime de pension prescrit institué pour ses employés, les sommes ci-après qui, à la date à laquelle le séquestre commence à agir, n’ont pas été versées au fonds établi dans le cadre de ce régime sont garanties, à compter de cette date, par une sûreté sur les éléments d’actif de la personne :
+
+- a) les sommes qui ont été déduites de la rémunération des employés pour versement au fonds;
+
+- b) dans le cas d’un régime de pension prescrit régi par une loi fédérale :
+  - (i) les coûts normaux, au sens du paragraphe 2(1) du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur serait tenu de verser au fonds,
+  - (i.1) la somme égale au total des paiements spéciaux, établis conformément à l’article 9 du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur est tenu de verser au fonds visé à l’article 81.5 et au présent article pour la liquidation d’un passif non capitalisé ou d’un déficit de solvabilité,
+  - (i.2) toute somme requise pour la liquidation de tout autre passif non capitalisé ou déficit de solvabilité du fonds,
+  - (ii) les sommes que l’employeur est tenu de verser au fonds au titre de toute disposition à cotisations déterminées au sens du paragraphe 2(1) de la *Loi de 1985 sur les normes de prestation de pension*,
+  - (iii) les sommes que l’employeur est tenu de verser à l’administrateur d’un régime de pension agréé collectif au sens du paragraphe 2(1) de la *Loi sur les régimes de pension agréés collectifs*;
+
+- c) dans le cas de tout autre régime de pension prescrit :
+  - (i) la somme égale aux coûts normaux, au sens du paragraphe 2(1) du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur serait tenu de verser au fonds si le régime était régi par une loi fédérale,
+  - (i.1) la somme égale au total des paiements spéciaux, établis conformément à l’article 9 du *Règlement de 1985 sur les normes de prestation de pension*, que l’employeur serait tenu de verser au fonds visé à l’article 81.5 et au présent article pour la liquidation d’un passif non capitalisé ou d’un déficit de solvabilité si le régime était régi par une loi fédérale,
+  - (i.2) toute somme requise pour la liquidation de tout autre passif non capitalisé ou déficit de solvabilité du fonds,
+  - (ii) les sommes que l’employeur serait tenu de verser au fonds au titre de toute disposition à cotisations déterminées au sens du paragraphe 2(1) de la *Loi de 1985 sur les normes de prestation de pension* si le régime était régi par une loi fédérale,
+  - (iii) les sommes que l’employeur serait tenu de verser à l’égard du régime s’il était régi par la *Loi sur les régimes de pension agréés collectifs*.
+
+**Priorité**
+
+(2) La sûreté visée au présent article a priorité sur tout autre droit, sûreté, charge ou réclamation — peu importe la date à laquelle ils ont pris naissance — grevant les biens de la personne, à l’exception des droits prévus aux articles 81.1 et 81.2 et de la sûreté prévue aux articles 81.3 et 81.4.
+
+**Responsabilité du séquestre**
+
+(3) Le séquestre qui dispose d’éléments d’actif grevés par la sûreté est responsable des sommes mentionnées au paragraphe (1) jusqu’à concurrence du produit de la disposition, et est subrogé dans tous les droits du fonds établi dans le cadre du régime de pension jusqu’à concurrence des sommes ainsi payées.
+
+**Définitions**
+
+(4) Les définitions qui suivent s’appliquent au présent article.
+
+**personne faisant l’objet d’une mise sous séquestre** Personne dont tout bien est en la possession ou sous la responsabilité d’un séquestre. (**person who is subject to a receivership**)
+
+**séquestre** Séquestre au sens du paragraphe 243(2) ou séquestre intérimaire nommé en vertu des paragraphes 46(1), 47(1) ou 47.1(1). (**receiver**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 67; 2007, ch. 36, art. 39; 2012, ch. 16, art. 81
+- 2023, ch. 6, art. 4
+
+</details>
+
+### 81.7 Droit du fournisseur impayé — fruits ou légumes périssables
+
+(1) Sous réserve des autres dispositions du présent article, dans le cas où une personne — appelée « acheteur » au présent article — n’a pas payé au complet des fruits ou légumes périssables destinés à être utilisés dans le cadre de ses affaires à la personne — appelée « fournisseur » au présent article — qui les lui a vendus, les fruits ou légumes périssables, ainsi que tout produit de vente, sont réputés être détenus en fiducie par l’acheteur pour le fournisseur lorsque les conditions suivantes sont réunies :
+
+- a) le fournisseur a donné avis à l’acheteur, en la forme et de la manière prescrites — soit dans sa facture, soit autrement dans un délai de trente jours suivant la réception des fruits ou légumes périssables par l’acheteur — de son intention de se prévaloir de son droit à titre de véritable propriétaire des fruits ou légumes périssables et de tout produit de vente dans le cas où l’acheteur fait faillite ou fait l’objet d’une mise sous séquestre;
+
+- b) l’acheteur disposait d’au plus trente jours pour acquitter le solde impayé;
+
+- c) ni l’acheteur, ni le syndic, ni le séquestre n’ont acquitté le solde impayé lorsqu’il est devenu exigible conformément à ce qui était prévu dans la facture.
+
+**Précision — alinéa 67(1)a)**
+
+(2) Il est entendu que l’alinéa 67(1)a) s’applique dès lors que les fruits ou légumes périssables, ainsi que tout produit de vente, sont réputés être détenus en fiducie par l’acheteur pour le fournisseur au titre du paragraphe (1).
+
+**Instructions du tribunal**
+
+(3) Le tribunal donne par écrit à l’acheteur, au syndic ou au séquestre qui lui en fait la demande les instructions qu’il estime indiquées dans les circonstances relativement à toute question relevant de l’application du présent article.
+
+**Droit d’appel**
+
+(4) À la demande du fournisseur qui est lésé par un acte, une omission ou une décision de l’acheteur, du syndic ou du séquestre, le tribunal peut rendre à ce sujet toute ordonnance qu’il estime indiquée dans les circonstances.
+
+**Autres droits**
+
+(5) Les paragraphes (3) et (4) n’ont pas pour effet de limiter l’exercice des droits prévus au paragraphe 34(1) et à l’article 37.
+
+**Droit provincial**
+
+(6) La fiducie est assujettie aux lois d’application générale concernant les fiducies et les fiduciaires de la province où l’acheteur résidait ou exerçait des activités lorsqu’il a fait faillite, les dispositions de ces lois l’emportant sur les dispositions incompatibles du présent article.
+
+**Définitions**
+
+(7) Les définitions qui suivent s’appliquent au présent article.
+
+**fruits ou légumes périssables** Sont compris parmi les fruits ou légumes périssables ceux qui sont réemballés ou transformés par l’acheteur sans qu’en soit changée leur nature. (**perishable fruits or vegetables**)
+
+**mise sous séquestre** Mise de tout bien d’une personne en la possession ou sous la responsabilité d’un séquestre. (**subject to a receivership**)
+
+**produit de vente** Produit de la vente par l’acheteur des fruits ou légumes périssables assujettis à la fiducie, qu’il ait été gardé par l’acheteur dans un compte distinct ou combiné à d’autres fonds. (**proceeds of sale**)
+
+**séquestre** Séquestre au sens du paragraphe 243(2). (**receiver**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 2024, ch. 31, art. 2
+
+</details>
+
+### 82 Le syndic a droit de vendre des marchandises brevetées
+
+(1) Lorsque les biens d’un failli, attribués à un syndic, consistent en articles qui sont visés par un brevet ou par un certificat de protection supplémentaire délivré en vertu de la *Loi sur les brevets* et qui avaient été vendus au failli sous réserve de restrictions ou limitations quelconques, le syndic n’est pas lié par ces restrictions ou limitations et peut vendre et aliéner ces articles, libres de ces restrictions ou limitations.
+
+**Droit du fabricant**
+
+(2) Lorsque le fabricant ou le vendeur des articles visés au paragraphe (1) s’oppose à ce que le syndic les aliène comme le prévoit le présent article, et qu’il donne au syndic un avis écrit de cette opposition, avant qu’ils soient vendus ou aliénés, ce fabricant ou vendeur a le droit d’acheter ces articles à leur prix de facture, sous réserve d’une déduction raisonnable pour dépréciation ou détérioration.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 82; 1993, ch. 34, art. 10(A); 2017, ch. 6, art. 122
+
+</details>
+
+### 83 Le droit d’auteur et les manuscrits retournent à l’auteur
+
+(1) Nonobstant les autres dispositions de la présente loi ou toute autre loi, les manuscrits de l’auteur et tout droit d’auteur ou intérêt dans un droit d’auteur totalement ou partiellement cédé à un éditeur, à un imprimeur, à une firme ou à une personne devenue en faillite :
+
+- a) retournent et sont remis à l’auteur ou à ses héritiers, si l’ouvrage que couvre ce droit d’auteur n’a pas été publié et mis dans le commerce au moment de la faillite et s’il n’a pas occasionné de dépenses; tout contrat ou convention entre l’auteur ou ses héritiers et ce failli cesse alors et devient nul;
+
+- b) retournent et sont remis à l’auteur sur paiement des dépenses subies, si l’ouvrage que couvre ce droit d’auteur a été complètement ou partiellement composé en typographie et a occasionné des dépenses au failli, et le produit de ces dépenses est aussi remis à l’auteur ou à ses héritiers; tout contrat ou convention entre l’auteur ou ses héritiers et le failli cesse alors et devient nul; mais si l’auteur n’exerce pas, dans un délai de six mois à compter de la date de la faillite, la priorité que lui confère le présent alinéa, le syndic pourra mettre à exécution le contrat original;
+
+- c) retournent à l’auteur sans frais, si le syndic, après un délai de six mois à compter de la date de la faillite, décide de ne pas mettre le contrat à exécution; tout contrat ou convention entre l’auteur ou ses héritiers et ce failli cesse alors et devient nul.
+
+**Si des exemplaires de l’ouvrage sont dans le commerce**
+
+(2) Si, au moment de la faillite, l’ouvrage était publié et mis dans le commerce, le syndic a le pouvoir de vendre l’ouvrage publié ou d’en autoriser la vente ou la reproduction d’exemplaires, ou de représenter cet ouvrage ou d’en autoriser la représentation, mais :
+
+- a) il est versé à l’auteur ou à ses héritiers les montants, sous forme de redevances ou de tantièmes sur les profits, qui auraient été payables par le failli;
+
+- b) le syndic n’a pas le pouvoir, sans le consentement écrit de l’auteur ou de ses héritiers, de céder le droit d’auteur ou de céder ou d’accorder un intérêt dans ce droit d’auteur par licence ou autrement, sauf en des termes qui garantissent à l’auteur ou à ses héritiers des paiements, sous forme de redevances ou de tantièmes sur les profits, à un taux non inférieur à celui que le failli était tenu de payer;
+
+- c) tout contrat ou convention entre l’auteur ou ses héritiers et le failli cesse et devient nul, sauf en ce qui concerne l’aliénation, sous l’autorité du présent paragraphe, des exemplaires de l’ouvrage publiés et mis dans le commerce avant la faillite.
+
+**Les exemplaires destinés au commerce sont d’abord offerts en vente à l’auteur**
+
+(3) Avant d’aliéner, conformément au présent article, des exemplaires manufacturés et destinés au commerce de l’ouvrage faisant l’objet d’un droit d’auteur et qui tombe dans l’actif du failli, le syndic offre par écrit à l’auteur ou à ses héritiers l’option d’acheter ces exemplaires aux prix et conditions que le syndic peut juger justes et raisonnables.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 83; 2004, ch. 25, art. 50
+
+</details>
+
+### 84 Effets des ventes par syndic
+
+Les droits de propriété, en droit et en equity, du failli sur les biens qui font l’objet d’une vente par le syndic sont dévolus à l’acheteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 84; 2004, ch. 25, art. 51(F)
+
+</details>
+
+### 84.1 Cessions
+
+(1) Sur demande du syndic et sur préavis à toutes les parties à un contrat, le tribunal peut, par ordonnance, céder à toute personne qu’il précise et qui y a consenti les droits et obligations du failli découlant du contrat.
+
+**Personne physique**
+
+(2) Toutefois, lorsque le failli est une personne physique, la demande de cession ne peut être présentée que si celui-ci exploite une entreprise et, le cas échéant, seuls les droits et obligations découlant de contrats relatifs à l’entreprise peuvent être cédés.
+
+**Exceptions**
+
+(3) Le paragraphe (1) ne s’applique pas aux droits et obligations qui, de par leur nature, ne peuvent être cédés ou qui découlent soit d’un contrat conclu à la date de la faillite ou par la suite, soit d’un contrat financier admissible, soit d’une convention collective.
+
+**Facteurs à prendre en considération**
+
+(4) Pour décider s’il rend l’ordonnance, le tribunal prend en considération, entre autres, les facteurs suivants :
+
+- a) la capacité de la personne à qui les droits et obligations seraient cédés d’exécuter les obligations;
+
+- b) l’opportunité de lui céder les droits et obligations.
+
+**Restriction**
+
+(5) Il ne peut rendre l’ordonnance que s’il est convaincu qu’il sera remédié, au plus tard à la date qu’il fixe, à tous les manquements d’ordre pécuniaire relatifs au contrat, autres que ceux découlant du seul fait que la personne a fait faillite, est insolvable ou ne s’est pas conformée à une obligation non pécuniaire.
+
+**Copie de l’ordonnance**
+
+(6) Le demandeur envoie une copie de l’ordonnance à toutes les parties au contrat.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 68; 2007, ch. 29, art. 97; 2009, ch. 31, art. 64
+
+</details>
+
+### 84.2 Limitation de certains droits
+
+(1) Il est interdit de résilier ou de modifier un contrat — notamment un contrat de garantie — conclu avec un failli qui est une personne physique, ou de se prévaloir d’une clause de déchéance du terme figurant dans un tel contrat, au seul motif qu’il a fait faillite ou est insolvable.
+
+**Baux**
+
+(2) Lorsque le contrat visé au paragraphe (1) est un bail, l’interdiction prévue à ce paragraphe vaut également dans le cas où le failli n’a pas payé son loyer à l’égard d’une période antérieure au moment de la faillite.
+
+**Entreprise de service public**
+
+(3) Il est interdit à toute entreprise de service public d’interrompre la prestation de ses services auprès d’un failli qui est une personne physique au seul motif qu’il a fait faillite, qu’il est insolvable ou qu’il n’a pas payé certains services ou du matériel fournis avant le moment de la faillite.
+
+**Exceptions**
+
+(4) Le présent article n’a pas pour effet :
+
+- a) d’empêcher une personne d’exiger que soient effectués des paiements en espèces pour toute contrepartie de valeur — marchandises, services, biens loués ou autres — fournie après le moment de la faillite;
+
+- b) d’exiger la prestation de nouvelles avances de fonds ou de nouveaux crédits.
+
+**Incompatibilité**
+
+(5) Le présent article l’emporte sur les dispositions incompatibles de tout contrat, celles-ci étant sans effet.
+
+**Pouvoirs du tribunal**
+
+(6) À la demande de l’une des parties à un contrat ou d’une entreprise de service public, le tribunal peut déclarer le présent article inapplicable, ou applicable uniquement dans la mesure qu’il précise, s’il est établi par le demandeur que son application lui causerait vraisemblablement de sérieuses difficultés financières.
+
+**Contrats financiers admissibles**
+
+(7) Le paragraphe (1) ne s’applique pas aux contrats financiers admissibles et n’a pas pour effet d’empêcher un membre de l’Association canadienne des paiements de cesser d’agir, pour une personne insolvable, à titre d’agent de compensation ou d’adhérent correspondant de groupe conformément à la *Loi canadienne sur les paiements* et aux règles et règlements administratifs de l’association.
+
+**Opérations permises**
+
+(8) Malgré l’article 69.3, si le contrat financier admissible conclu avant le moment de la faillite est résilié au moment de celle-ci ou par la suite, il est permis d’effectuer les opérations ci-après en conformité avec le contrat :
+
+- a) la compensation des obligations entre le failli qui est une personne physique et les autres parties au contrat;
+
+- b) toute opération à l’égard de la garantie financière afférente, notamment :
+  - (i) la vente, la demande en forclusion ou, dans la province de Québec, la demande en délaissement,
+  - (ii) la compensation, ou l’affectation de son produit ou de sa valeur.
+
+**Valeurs nettes dues à la date de résiliation**
+
+(9) Si, aux termes du contrat financier admissible visé au paragraphe (8), des sommes sont dues par le failli qui est une personne physique à une autre partie au contrat au titre de valeurs nettes dues à la date de résiliation, cette autre partie est réputée, pour l’application des alinéas 69(1)a) et 69.1(1)a), être un créancier du failli et avoir une réclamation prouvable en matière de faillite relativement à ces sommes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 68; 2007, ch. 29, art. 98; 2009, ch. 31, art. 64
+
+</details>
+
+### Biens de sociétés de personnes
+
+### 85 Application aux sociétés de personnes en commandite
+
+(1) La présente loi s’applique aux sociétés de personnes en commandite de la même manière que si elles étaient des sociétés en nom collectif; et, lorsque tous les membres d’une telle société deviennent en faillite, les biens de celle-ci sont dévolus au syndic.
+
+**Actions par le syndic et l’associé du failli**
+
+(2) Lorsqu’un membre d’une société de personnes fait faillite, le tribunal peut autoriser le syndic à intenter et à poursuivre une action au nom du syndic et de l’associé du failli; et toute remise, par cet associé, de la dette ou revendication à laquelle se rapporte l’action, est nulle.
+
+**Avis à l’associé**
+
+(3) Avis de la demande d’autorisation d’intenter l’action est donné à l’associé du failli, et l’associé peut exposer les motifs qu’il a de s’opposer à cette action, et, à sa demande, le tribunal peut, s’il l’estime utile, enjoindre qu’il reçoive sa juste part du produit de l’action; et, s’il ne réclame aucun profit de cette action, il est indemnisé de tous frais à cet égard, suivant que le tribunal l’ordonne.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 85; 2004, ch. 25, art. 52
+
+</details>
+
+### Droits de la Couronne
+
+### 86 Réclamations de la Couronne
+
+(1) Dans le cadre d’une faillite ou d’une proposition, les réclamations prouvables — y compris les réclamations garanties — de Sa Majesté du chef du Canada ou d’une province ou d’un organisme compétent au titre d’une loi sur les accidents du travail prennent rang comme réclamations non garanties.
+
+**Exceptions**
+
+(2) Sont soustraites à l’application du paragraphe (1) :
+
+- a) les réclamations garanties par un type de charge ou de sûreté dont toute personne, et non seulement Sa Majesté ou l’organisme, peut se prévaloir au titre de dispositions législatives fédérales ou provinciales n’ayant pas pour seul ou principal objet l’établissement de mécanismes garantissant les réclamations de Sa Majesté ou de l’organisme, ou au titre de toute autre règle de droit;
+
+- b) les réclamations garanties aux termes de l’article 87, dans la mesure prévue à cet article.
+
+**Effet**
+
+(3) Le paragraphe (1) n’a pas pour effet de porter atteinte à l’application des dispositions suivantes :
+
+- a) les paragraphes 224(1.2) et (1.3) de la *Loi de l’impôt sur le revenu*;
+
+- b) toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui renvoie au paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* et qui prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi et des intérêts, pénalités ou autres montants y afférents;
+
+- c) toute disposition législative provinciale dont l’objet est semblable à celui du paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu*, ou qui renvoie à ce paragraphe, dans la mesure où elle prévoit la perception d’une somme, et des intérêts, pénalités ou autres montants y afférents, qui :
+  - (i) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+  - (ii) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est **une province instituant un régime général de pensions** au sens du paragraphe 3(1) de cette loi et si la loi provinciale institue un **régime provincial de pensions** au sens de ce paragraphe.
+
+Pour l’application de l’alinéa c), la disposition législative provinciale en question est réputée avoir, à l’encontre de tout créancier et malgré tout texte législatif fédéral ou provincial et toute règle de droit, la même portée et le même effet que le paragraphe 224(1.2) de la *Loi de l’impôt sur le revenu* quant à la somme visée au sous-alinéa c)(i), ou que le paragraphe 23(2) du *Régime de pensions du Canada* quant à la somme visée au sous-alinéa c)(ii), et quant aux intérêts, pénalités ou autres montants y afférents, quelle que soit la garantie dont bénéficie le créancier.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 86; 1992, ch. 27, art. 39; 1997, ch. 12, art. 73; 2000, ch. 30, art. 148; 2005, ch. 47, art. 69; 2009, ch. 33, art. 25
+
+</details>
+
+### 87 Garanties créées par législation
+
+(1) Les garanties créées aux termes d’une loi fédérale ou provinciale dans le seul but — ou principalement dans le but — de protéger des réclamations mentionnées au paragraphe 86(1) ne sont valides, dans le cadre d’une faillite ou d’une proposition, que si elles ont été enregistrées, conformément à un système d’enregistrement prescrit, avant l’ouverture de la faillite.
+
+**Rang**
+
+(2) Dans le cadre d’une faillite ou d’une proposition, les garanties visées au paragraphe (1) et enregistrées conformément à ce paragraphe :
+
+- a) prennent rang après toute autre garantie à l’égard de laquelle les mesures requises pour la rendre opposable aux autres créanciers ont toutes été prises avant l’enregistrement;
+
+- b) ne sont valides que pour les sommes dues à Sa Majesté ou à l’organisme mentionné au paragraphe 86(1) lors de l’enregistrement et les intérêts échus depuis sur celles-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 87; 1992, ch. 27, art. 39; 1997, ch. 12, art. 74; 2004, ch. 25, art. 53; 2005, ch. 47, art. 70
+
+</details>
+
+### Rang des garanties financières
+
+### 88 Rang
+
+Il ne peut être rendu au titre de la présente loi, dans le cadre de toute faillite ou proposition, aucune ordonnance dont l’effet serait d’assigner un rang inférieur à toute garantie financière.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 88; 1992, ch. 27, art. 39; 1994, ch. 26, art. 6; 2007, ch. 29, art. 99, ch. 36, art. 112; 2009, ch. 31, art. 65
+
+</details>
+
+### 89 et 90
+
+[Abrogés, 1992, ch. 27, art. 39]
+
+### Traitements préférentiels et opérations sous-évaluées
+
+### 91
+
+[Abrogé, 2005, ch. 47, art. 71]
+
+### 92 et 93
+
+[Abrogés, 2000, ch. 12, art. 12]
+
+### 94
+
+[Abrogé, 2005, ch. 47, art. 72]
+
+### 95 Traitements préférentiels
+
+(1) Sont inopposables au syndic tout transfert de biens, toute affectation de ceux-ci à une charge et tout paiement faits par une personne insolvable de même que toute obligation contractée ou tout service rendu par une telle personne et toute instance judiciaire intentée par ou contre elle :
+
+- a) en faveur d’un créancier avec qui elle n’a aucun lien de dépendance ou en faveur d’une personne en fiducie pour ce créancier, en vue de procurer à celui-ci une préférence sur un autre créancier, s’ils surviennent au cours de la période commençant à la date précédant de trois mois la date de l’ouverture de la faillite et se terminant à la date de la faillite;
+
+- b) en faveur d’un créancier avec qui elle a un lien de dépendance ou d’une personne en fiducie pour ce créancier, et ayant eu pour effet de procurer à celui-ci une préférence sur un autre créancier, s’ils surviennent au cours de la période commençant à la date précédant de douze mois la date de l’ouverture de la faillite et se terminant à la date de la faillite.
+
+**Préférence — présomption**
+
+(2) Lorsque le transfert, l’affectation, le paiement, l’obligation ou l’instance judiciaire visé à l’alinéa (1)a) a pour effet de procurer une préférence, il est réputé, sauf preuve contraire, avoir été fait, contracté ou intenté, selon le cas, en vue d’en procurer une, et ce même s’il l’a été sous la contrainte, la preuve de celle-ci n’étant pas admissible en l’occurrence.
+
+**Exception**
+
+(2.1) Le paragraphe (2) ne s’applique pas aux opérations ci-après et les parties à celles-ci sont réputées n’avoir aucun lien de dépendance :
+
+- a) un dépôt de couverture effectué auprès d’une chambre de compensation par un membre d’une telle chambre;
+
+- b) un transfert, un paiement ou une charge qui se rapporte à une garantie financière et s’inscrit dans le cadre d’un contrat financier admissible.
+
+**Définitions**
+
+(3) Les définitions qui suivent s’appliquent au présent article.
+
+**chambre de compensation** Organisme qui agit comme intermédiaire pour ses membres dans les opérations portant sur des titres. (**clearing house**)
+
+**créancier** S’entend notamment de la personne qui se porte caution ou répond d’une dette envers un tel créancier. (**creditor**)
+
+**dépôt de couverture** Tout paiement, dépôt ou transfert effectué par l’intermédiaire d’une chambre de compensation, en application des règles de celle-ci, en vue de garantir l’exécution par un membre de ses obligations touchant des opérations portant sur des titres; sont notamment visées les opérations portant sur les contrats à terme, options ou autres dérivés et celles garantissant ces obligations. (**margin deposit**)
+
+**membre** Personne se livrant aux opérations portant sur des titres et qui se sert d’une chambre de compensation comme intermédiaire. (**clearing member**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 95; 1997, ch. 12, art. 78; 2004, ch. 25, art. 56; 2007, ch. 29, art. 100, ch. 36, art. 42 et 112
+
+</details>
+
+### 96 Opération sous-évaluée
+
+(1) Sur demande du syndic, le tribunal peut, s’il estime que le débiteur a conclu une opération sous-évaluée, déclarer cette opération inopposable au syndic ou ordonner que le débiteur verse à l’actif, seul ou avec l’ensemble ou certaines des parties ou personnes intéressées par l’opération, la différence entre la valeur de la contrepartie qu’il a reçue et la valeur de celle qu’il a donnée, dans l’un ou l’autre des cas suivants :
+
+- a) l’opération a été effectuée avec une personne sans lien de dépendance avec le débiteur et les conditions suivantes sont réunies :
+  - (i) l’opération a eu lieu au cours de la période commençant à la date précédant d’un an la date de l’ouverture de la faillite et se terminant à la date de la faillite,
+  - (ii) le débiteur était insolvable au moment de l’opération, ou l’est devenu en raison de celle-ci,
+  - (iii) le débiteur avait l’intention de frauder ou de frustrer un créancier ou d’en retarder le désintéressement;
+
+- b) l’opération a été effectuée avec une personne qui a un lien de dépendance avec le débiteur et elle a eu lieu au cours de la période :
+  - (i) soit commençant à la date précédant d’un an la date de l’ouverture de la faillite et se terminant à la date de la faillite,
+  - (ii) soit commençant à la date précédant de cinq ans la date de l’ouverture de la faillite et se terminant à la date qui précède d’un jour la date du début de la période visée au sous-alinéa (i) dans le cas où le débiteur :
+    - (A) ou bien était insolvable au moment de l’opération, ou l’est devenu en raison de celle-ci,
+    - (B) ou bien avait l’intention de frauder ou de frustrer un créancier ou d’en retarder le désintéressement.
+
+**Établissement des valeurs**
+
+(2) Lorsqu’il présente la demande prévue au présent article, le syndic doit déclarer quelle était à son avis la juste valeur marchande des biens ou services ainsi que la valeur de la contrepartie réellement donnée ou reçue par le débiteur, et l’évaluation faite par le syndic est, sauf preuve contraire, celle sur laquelle le tribunal se fonde pour rendre une décision en conformité avec le présent article.
+
+**Définition de **personne intéressée****
+
+(3) Au présent article, **personne intéressée** s’entend de toute personne qui est liée à une partie à l’opération et qui, de façon directe ou indirecte, soit en bénéficie elle-même, soit en fait bénéficier autrui.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 96; 1997, ch. 12, art. 79; 2004, ch. 25, art. 57; 2005, ch. 47, art. 73; 2007, ch. 36, art. 43
+
+</details>
+
+### 97 Transactions protégées
+
+(1) Les paiements, remises, transports ou transferts, contrats, marchés et transactions auxquels le failli est partie et qui sont effectués entre l’ouverture de la faillite et la date de la faillite ne sont pas valides; sous réserve, d’une part, des autres dispositions de la présente loi quant à l’effet d’une faillite sur une procédure d’exécution, une saisie ou autre procédure contre des biens et, d’autre part, des dispositions de la présente loi relatives aux préférences et aux opérations sous-évaluées, les opérations ci-après sont toutefois valides si elles sont effectuées de bonne foi :
+
+- a) les paiements du failli à l’un de ses créanciers;
+
+- b) les paiements ou remises au failli;
+
+- c) les transferts par le failli pour contrepartie valable et suffisante;
+
+- d) les contrats, marchés ou transactions — garanties comprises — du failli, ou avec le failli, pour contrepartie valable et suffisante.
+
+**Définition de **contrepartie valable et suffisante****
+
+(2) L’expression **contrepartie valable et suffisante** à l’alinéa (1)c) signifie une contre-prestation ayant une valeur en argent juste et raisonnable par rapport à celle des biens transmis ou cédés, et, à l’alinéa (1)d), signifie une contre-prestation ayant une valeur en argent juste et raisonnable par rapport aux bénéfices connus ou raisonnablement présumés du contrat, du marché ou de la transaction.
+
+**Compensation**
+
+(3) Les règles de la compensation s’appliquent à toutes les réclamations produites contre l’actif du failli, et aussi à toutes les actions intentées par le syndic pour le recouvrement des créances dues au failli, de la même manière et dans la même mesure que si le failli était demandeur ou défendeur, selon le cas, sauf en tant que toute réclamation pour compensation est atteinte par les dispositions de la présente loi concernant les fraudes ou préférences frauduleuses.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 97; 1992, ch. 27, art. 41; 1997, ch. 12, art. 80; 2004, ch. 25, art. 58; 2005, ch. 47, art. 74
+
+</details>
+
+### 98 Recouvrement du produit s’il a été transféré
+
+(1) Lorsqu’une personne a acquis des biens du failli en vertu d’une transaction qui est nulle ou d’une transaction annulable qui est écartée, et a vendu, aliéné, réalisé ou perçu ces biens, ou une partie de ces biens, les montants d’argent ou autre produit, qu’ils soient de nouveau aliénés ou non, sont réputés être les biens du syndic.
+
+**Le syndic peut recouvrer**
+
+(2) Le syndic peut recouvrer ces biens ou leur valeur, ou l’argent ou le produit en provenant, de la personne qui les a acquis du failli, ou de toute autre personne à qui le failli peut avoir revendu, transféré ou versé le produit de ces biens, d’une manière aussi complète et efficace que le syndic aurait pu recouvrer ces biens s’ils n’avaient pas été ainsi vendus, aliénés, réalisés ou perçus.
+
+**Application du présent article**
+
+(3) Nonobstant le paragraphe (1), lorsqu’une personne à qui ces biens ont été vendus ou aliénés a payé ou donné de bonne foi à leur égard une contrepartie valable et suffisante, cette personne n’est pas assujettie à l’application du présent article, mais le syndic n’a recours que contre la personne qui a conclu cette transaction avec le failli en vue du recouvrement de la contrepartie ainsi versée ou donnée, ou de la valeur de celle-ci.
+
+**Subrogation du syndic**
+
+(4) Lorsque la contrepartie payable pour ou sur toute vente ou revente des biens, ou d’une partie de ces biens, n’a pas été acquittée, le syndic est subrogé aux droits du vendeur pour contraindre au paiement ou à l’acquittement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 98; 2004, ch. 25, art. 59(A)
+
+</details>
+
+### 98.1 Nullité des cessions générales de créances comptables
+
+(1) Lorsqu’une personne se livrant à un métier ou commerce fait une cession de ses créances comptables actuelles ou futures, ou d’une catégorie ou d’une partie de ces créances, et devient par la suite en faillite, la cession des créances comptables est inopposable au syndic en ce qui concerne les créances comptables qui n’ont pas été acquittées à la date de la faillite.
+
+**Les dispositions précédentes ne s’appliquent pas dans certains cas**
+
+(2) Le paragraphe (1) ne s’applique pas dans le cas d’une cession de créances comptables enregistrée conformément à une loi provinciale pourvoyant à l’enregistrement de cette cession, si celle-ci est valide aux termes des lois de la province.
+
+**Autres cas où le présent article n’annule pas les cessions**
+
+(3) Le paragraphe (1) n’a pas pour effet d’annuler une cession de créances comptables exigibles, à la date de la cession, de débiteurs spécifiés, ou de créances à échoir en vertu de contrats spécifiés, ni une cession de créances comptables comprises dans un transfert d’un commerce fait de bonne foi et pour contrepartie de valeur et suffisante.
+
+**Définition de **cession****
+
+(4) Pour l’application du présent article, **cession** s’entend notamment de l’hypothèque, de la cession en garantie et des autres charges sur les créances comptables.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 75
+
+</details>
+
+### 99 Affaires avec un failli non libéré
+
+(1) Toutes transactions d’un failli avec une personne qui traite avec lui de bonne foi et pour valeur, relativement aux biens acquis par le failli après la faillite, si elles sont complétées avant toute intervention de la part du syndic, sont valides à l’encontre du syndic, et tout droit, domaine ou intérêt dans ces biens qui, en vertu de la présente loi, est dévolu au syndic, prend fin et cesse de la manière et dans la mesure requises pour donner effet à une semblable transaction.
+
+**Réception d’argent par un banquier**
+
+(2) Pour l’application du présent article, la réception, par son banquier, d’une somme d’argent, d’une valeur ou d’un effet négociable d’un failli, ou sur l’ordre ou l’instruction d’un failli, et tout paiement et remise, par son banquier, d’une valeur ou d’un effet négociable, faits à un failli ou sur l’ordre ou l’instruction d’un failli, sont censés une transaction faite par le failli avec son banquier traitant avec lui contre valeur.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 99; 2004, ch. 25, art. 60
+
+</details>
+
+### 100
+
+[Abrogé, 2005, ch. 47, art. 76]
+
+### 101 Enquête au sujet des dividendes, des rachats d’actions et de la rémunération des administrateurs
+
+(1) Lorsqu’une personne morale faillie a, dans le cadre d’une transaction faite au cours de la période allant du premier jour de l’année précédant l’ouverture de la faillite jusqu’à la date de la faillite inclusivement, payé un dividende, autre qu’un dividende en actions, racheté ou acheté pour annulation des actions de son capital social ou payé une indemnité de départ ou de préavis, une prime d’encouragement ou tout autre avantage à un administrateur, à un dirigeant ou à quiconque dirige ou supervise les activités commerciales et les affaires internes de la personne morale, le tribunal peut, à la demande du syndic, enquêter pour établir si la transaction a été faite à un moment où elle était insolvable ou l’a rendue insolvable.
+
+**Jugement contre les administrateurs**
+
+(2) Le tribunal peut accorder un jugement au syndic contre les administrateurs de la personne morale, solidairement, pour le montant du dividende ou du prix de rachat ou d’achat, avec les intérêts y afférents, qui n’a pas été remboursé à celle-ci s’il constate :
+
+- a) que la transaction a été faite à un moment où elle était insolvable ou l’a rendue insolvable;
+
+- b) que les administrateurs n’avaient pas de motifs raisonnables de croire que la transaction était faite à un moment où elle n’était pas insolvable ou ne la rendait pas insolvable.
+
+**Jugement contre les administrateurs — rémunération**
+
+(2.01) Le tribunal peut accorder un jugement au syndic contre les administrateurs de la personne morale, solidairement, pour le montant de l’indemnité de départ ou de préavis, de la prime d’encouragement ou d’un autre avantage, avec les intérêts y afférents, qui n’a pas été remboursé à celle-ci s’il constate :
+
+- a) que le paiement :
+  - (i) a été fait à un moment où elle était insolvable ou l’a rendue insolvable,
+  - (ii) était manifestement supérieur à la juste valeur marchande de la contrepartie qu’elle a reçue,
+  - (iii) n’a pas été fait dans le cours ordinaire des affaires de la personne morale;
+
+- b) que les administrateurs n’avaient pas de motifs raisonnables de croire que le paiement :
+  - (i) a été fait à un moment où elle n’était pas insolvable ou ne la rendait pas insolvable,
+  - (ii) n’était manifestement pas supérieur à la juste valeur marchande de la contrepartie qu’elle a reçue,
+  - (iii) a été fait dans le cours ordinaire des affaires de la personne morale.
+
+**Critères**
+
+(2.1) Pour décider si les administrateurs ont ou n’ont pas de motifs raisonnables, le tribunal détermine ce qu’une personne prudente et diligente aurait fait dans les circonstances de l’espèce et s’ils ont, de bonne foi, tenu compte :
+
+- a) des états financiers ou autres de la personne morale ou des rapports de vérification donnés par les dirigeants de celle-ci ou le vérificateur comme représentant justement sa situation financière;
+
+- b) des rapports sur les affaires de la personne morale établis, à la suite d’un contrat avec celle-ci, par un avocat, un notaire, un comptable, un ingénieur, un évaluateur ou toute autre personne dont la profession assure la crédibilité des mentions qui y sont faites.
+
+**Jugement contre les actionnaires**
+
+(2.2) Le tribunal peut accorder un jugement au syndic contre un actionnaire qui est lié à un ou plusieurs administrateurs ou à la personne morale, ou qui est un administrateur décrit à l’alinéa (2)b) ou au paragraphe (3), pour le montant du dividende ou du prix de rachat ou d’achat, avec les intérêts y afférents, qui a été reçu par celui-ci et n’a pas été remboursé à la personne morale, lorsqu’il constate que la transaction a été faite à un moment où elle était insolvable ou l’a rendue insolvable.
+
+**Administrateurs disculpés par la loi**
+
+(3) Un jugement rendu aux termes du paragraphe (2) ne peut être enregistré contre un administrateur, ni lier un administrateur qui avait, en conformité avec n’importe quelle loi applicable régissant le fonctionnement de la personne morale, protesté contre le paiement du dividende ou contre le rachat ou l’achat pour annulation des actions du capital social de la personne morale et qui, de ce fait, s’était en vertu de cette loi libéré de toute responsabilité à cet égard.
+
+**Administrateurs disculpés par la loi — rémunération**
+
+(3.1) Un jugement rendu aux termes du paragraphe (2.01) ne peut être enregistré contre un administrateur, ni lier un administrateur qui avait, en conformité avec n’importe quelle loi applicable régissant le fonctionnement de la personne morale, protesté contre le paiement de l’indemnité de départ ou de préavis, de la prime d’encouragement ou d’un autre avantage et qui, de ce fait, s’était en vertu de cette loi libéré de toute responsabilité à cet égard.
+
+**Droit de recouvrement des administrateurs**
+
+(4) Le présent article n’a pas pour effet de porter atteinte à un droit quelconque, en vertu de toute loi applicable au fonctionnement de la personne morale, que possèdent les administrateurs de recouvrer d’un actionnaire la totalité ou une partie d’un dividende ou prix de rachat ou d’achat, accordé ou payé à l’actionnaire lorsque la personne morale était insolvable ou dont le paiement l’a rendue insolvable.
+
+**Fardeau de la preuve — administrateurs**
+
+(5) Pour l’application du paragraphe (2), il incombe aux administrateurs de prouver :
+
+- a) que la personne morale n’était pas insolvable au moment de la transaction et que celle-ci ne la rendait pas insolvable;
+
+- b) qu’ils avaient des motifs raisonnables de croire que la transaction était faite à un moment où elle n’était pas insolvable ou ne la rendait pas insolvable.
+
+**Fardeau de la preuve — administrateurs**
+
+(5.1) Pour l’application du paragraphe (2.01), il incombe aux administrateurs de prouver l’un des éléments suivants :
+
+- a) que le paiement :
+  - (i) a été fait à un moment où la personne morale n’était pas insolvable ou ne la rendait pas insolvable,
+  - (ii) n’était manifestement pas supérieur à la juste valeur marchande de la contrepartie qu’elle a reçue,
+  - (iii) a été fait dans le cours ordinaire des affaires de la personne morale;
+
+- b) qu’ils avaient des motifs raisonnables de croire que le paiement :
+  - (i) a été fait à un moment où la personne morale n’était pas insolvable ou ne la rendait pas insolvable,
+  - (ii) n’était manifestement pas supérieur à la juste valeur marchande de la contrepartie qu’elle a reçue,
+  - (iii) a été fait dans le cours ordinaire des affaires de la personne morale.
+
+**Fardeau de la preuve — actionnaires**
+
+(6) Pour l’application du paragraphe (2.2), il incombe à l’actionnaire de prouver que la personne morale n’était pas insolvable au moment de la transaction et que celle-ci ne la rendait pas insolvable.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 101; 1997, ch. 12, art. 82; 2004, ch. 25, art. 61(A)
+- 2019, ch. 29, art. 135
+
+</details>
+
+### 101.1 Application des articles 95 à 101
+
+(1) Les articles 95 à 101 s’appliquent, avec les adaptations nécessaires, à la proposition faite au titre de la section I de la partie III, sauf disposition contraire de la proposition.
+
+**Interprétation**
+
+(2) Pour l’application du paragraphe (1), la mention aux articles 95 à 101, de la date de la faillite vaut mention de la date du dépôt de l’avis d’intention ou, si un tel avis n’est pas déposé, de la date du dépôt de la proposition, et la mention, à ces articles, du failli, de la personne insolvable ou du débiteur vaut mention du débiteur à l’égard de qui une proposition a été déposée.
+
+**Application des articles 95 à 101 en cas d’annulation de la proposition**
+
+(3) Les articles 95 à 101 s’appliquent en cas d’annulation de la proposition par le tribunal au titre du paragraphe 63(1) ou à la suite d’une ordonnance de faillite ou d’une cession comme si la faillite du débiteur était survenue à la date de l’ouverture de la faillite.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 42; 2007, ch. 36, art. 44
+
+</details>
+
+### 101.2
+
+[Abrogé, 2007, ch. 36, art. 44]
+
+## Administration des actifs
+
+### Assemblées des créanciers
+
+### 102 Première assemblée des créanciers
+
+(1) Sous réserve du paragraphe (1.1), il incombe au syndic de se renseigner sur les noms et adresses des créanciers du failli et, dans les cinq jours qui suivent la date de sa nomination, il adresse, de la manière prescrite, au failli, à tout créancier connu, ainsi qu’au surintendant, un avis de la faillite, en la forme prescrite, et de la première assemblée des créanciers devant être tenue au bureau du séquestre officiel de la localité du failli, dans les vingt et un jours suivant la nomination du syndic, mais, s’il l’estime utile, le séquestre officiel peut autoriser la tenue de l’assemblée au bureau de tout autre séquestre officiel, ou à l’endroit que le séquestre officiel peut fixer.
+
+**Prolongation de dix jours**
+
+(1.1) Le séquestre officiel de la localité du failli, s’il estime que la prolongation ne nuira pas aux créanciers et est dans l’intérêt général de l’administration de l’actif, peut prolonger de dix jours le délai prévu pour la tenue de la première assemblée des créanciers ou d’au plus trente jours s’il est convaincu que des circonstances spéciales l’exigent.
+
+**Documents accompagnant l’avis**
+
+(2) Le syndic inclut avec cet avis une liste des créanciers dont les réclamations se chiffrent à vingt-cinq dollars ou plus, ainsi que les montants de leurs réclamations, une formule de preuve de réclamation et une formule de procuration dans la forme prescrite, mais ne peut inscrire aucun nom dans la formule de procuration avant d’ainsi l’envoyer.
+
+**Renseignements et avis à fournir**
+
+(3) Dans le cas de la faillite d’une personne physique, le syndic est tenu de donner, dans l’avis de faillite présenté en la forme prescrite, les renseignements sur la situation financière du failli et sur l’obligation de celui-ci de faire des versements à l’actif aux termes de l’article 68.
+
+**Annonces par le syndic dans un journal local**
+
+(4) Le syndic, aussitôt que possible après la faillite et au moins cinq jours avant la première assemblée des créanciers, fait publier dans un journal local un avis en la forme prescrite.
+
+**Objet de l’assemblée**
+
+(5) Cette assemblée a pour objet l’examen des affaires du failli, la confirmation de la nomination du syndic ou son remplacement, la nomination des inspecteurs et la communication au syndic des instructions que les créanciers peuvent juger opportunes quant à l’administration de l’actif.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 102; 1992, ch. 1, art. 20, ch. 27, art. 43; 1997, ch. 12, art. 84; 2005, ch. 47, art. 77
+
+</details>
+
+### 103 Assemblées au cours de l’administration
+
+(1) Le syndic peut, à tout moment, convoquer une assemblée des créanciers, et il doit le faire lorsqu’il en est requis par le tribunal et chaque fois qu’il en est requis par écrit par une majorité des inspecteurs ou par vingt-cinq pour cent en nombre des créanciers détenant vingt-cinq pour cent en valeur des réclamations prouvées.
+
+**Assemblées convoquées par les inspecteurs**
+
+(2) Une majorité des inspecteurs peut, à tout moment, convoquer une assemblée des créanciers lorsqu’un syndic n’est pas disponible pour convoquer une assemblée ou qu’il a négligé ou manqué de le faire après en avoir été requis par les inspecteurs.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 81
+
+</details>
+
+### 104 Avis des assemblées subséquentes
+
+(1) Les assemblées de créanciers autres que la première sont convoquées par envoi, à chaque créancier à l’adresse indiquée dans sa preuve de réclamation, d’un préavis d’au moins cinq jours indiquant les date, heure et lieu de l’assemblée et donnant l’ordre du jour avec une explication suffisante de chacun des points qui y sont inscrits.
+
+**Avis aux créanciers ayant des réclamations prouvées**
+
+(2) Après la première assemblée des créanciers, il n’est pas nécessaire de donner avis d’une assemblée ou d’une procédure à d’autres créanciers que ceux qui ont prouvé leurs réclamations.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 104; 1997, ch. 12, art. 85; 2005, ch. 47, art. 78
+
+</details>
+
+### Procédures des assemblées
+
+### 105 Président de la première assemblée
+
+(1) Le séquestre officiel, ou la personne qu’il désigne, préside la première assemblée des créanciers et décide des questions posées ou des contestations soulevées à l’assemblée, et tout créancier peut appeler d’une telle décision au tribunal.
+
+**Le syndic préside**
+
+(2) Le syndic préside toutes les assemblées de créanciers autres que la première, à moins qu’une autre personne ne soit nommée, par résolution adoptée à l’assemblée, pour présider.
+
+**Voix prépondérante**
+
+(3) En cas de partage, à une assemblée de créanciers, le président a voix prépondérante.
+
+**Procès-verbal de l’assemblée**
+
+(4) Dans un délai raisonnable suivant la date de l’assemblée, le président fait rédiger un procès-verbal des délibérations de celle-ci, lequel est signé par lui ou par le président de l’assemblée suivante et conservé dans les livres, registres et documents faisant état de l’administration de l’actif visés à l’article 26.
+
+**Avis non reçu par un créancier**
+
+(5) Lorsqu’une assemblée de créanciers est convoquée, les procédures prises et les résolutions adoptées à cette assemblée sont valides, à moins que le tribunal n’en ordonne autrement, bien que certains créanciers n’aient pas reçu l’avis.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 105; 2005, ch. 47, art. 79 et 123(A)
+
+</details>
+
+### 106 Quorum
+
+(1) Un créancier ayant droit de vote, ou son représentant, constitue le quorum de l’assemblée des créanciers.
+
+**Défaut de quorum**
+
+(2) À défaut de quorum à la première assemblée des créanciers, le président peut l’ajourner soit à une date ultérieure, soit à une date indéterminée, auquel cas le syndic est réputé être confirmé dans ses fonctions.
+
+**Idem**
+
+(2.1) À défaut de quorum à toute autre assemblée, le président l’ajourne et peut fixer d’autres date, heure et lieu.
+
+**Ajournement avec le consentement de l’assemblée**
+
+(3) Avec le consentement de l’assemblée, le président peut ajourner l’assemblée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 106; 1992, ch. 27, art. 44; 2005, ch. 47, art. 123(A)
+
+</details>
+
+### 107 Comment votent les créanciers
+
+Chaque catégorie de créanciers peut exprimer ses vues et ses désirs séparément de toute autre catégorie, et le tribunal décide quelle suite donner à ces vues et désirs dans le cas de contestation et sous réserve de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 85
+
+</details>
+
+### 108 Le président peut admettre ou rejeter une preuve
+
+(1) Le président de l’assemblée a le pouvoir, pour les fins de la votation, d’admettre ou de rejeter une preuve de réclamation; sa décision est susceptible d’appel devant le tribunal.
+
+**Preuve acceptable**
+
+(2) Par dérogation aux autres dispositions de la présente loi, le président peut, aux fins de la votation, accepter une lettre ou un imprimé transmis par tout moyen de télécommunication comme preuve de réclamation d’un créancier.
+
+**Cas douteux**
+
+(3) Lorsque le président doute que la preuve d’une réclamation doive être admise ou rejetée, il note la preuve comme contestée et permet aux créanciers de voter, sous réserve d’invalidation du vote, au cas où la contestation serait maintenue.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 108; 1992, ch. 27, art. 45; 2005, ch. 47, art. 123(A)
+
+</details>
+
+### 109 Droit de voter d’un créancier
+
+(1) Une personne n’a pas le droit de voter à titre de créancier à une assemblée des créanciers, à moins qu’elle n’ait dûment prouvé une réclamation prouvable en matière de faillite et que la preuve de la réclamation n’ait été dûment remise au syndic avant le moment fixé pour l’assemblée.
+
+**Vote par procuration**
+
+(2) Un créancier peut voter personnellement ou au moyen d’une procuration.
+
+**Forme de procuration**
+
+(3) Une procuration n’est pas invalide du simple fait qu’elle est établie sous forme de lettre ou d’imprimé transmis par tout moyen de télécommunication.
+
+**Un débiteur ne peut être fondé de pouvoir**
+
+(4) Un débiteur ne peut être nommé fondé de pouvoir pour voter à une assemblée de ses créanciers.
+
+**Personne morale**
+
+(5) Une personne morale peut voter par l’entremise d’un fondé de pouvoir autorisé aux assemblées de créanciers.
+
+**Votes du créancier ayant un lien de dépendance**
+
+(6) S’il estime que le vote d’un créancier ayant eu, à tout moment au cours de la période commençant à la date précédant d’un an la date de l’ouverture de la faillite et se terminant à la date de la faillite, un lien de dépendance avec le débiteur a influé sur le résultat du vote, le président établit un nouveau résultat en excluant ce vote; ce nouveau résultat est définitif, à moins que le tribunal ne soit saisi de la question dans les dix jours, qu’il juge indiqué de compter le vote et qu’il ne substitue au résultat du vote un nouveau résultat.
+
+(7) [Abrogé, 2005, ch. 47, art. 80]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 109; 1992, ch. 27, art. 46; 1997, ch. 12, art. 86; 1999, ch. 31, art. 24(F); 2004, ch. 25, art. 63; 2005, ch. 47, art. 80; 2007, ch. 36, art. 45
+
+</details>
+
+### 110 Créance obtenue après l’ouverture de la faillite
+
+(1) Personne n’a droit de voter du chef d’une réclamation acquise après l’ouverture de la faillite d’un débiteur, à moins que la réclamation n’ait été acquise en entier.
+
+**Exception**
+
+(2) Le paragraphe (1) ne s’applique pas aux personnes qui acquièrent des billets, lettres de change ou autres valeurs dont elles sont responsables.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 110; 2005, ch. 47, art. 81
+
+</details>
+
+### 111 Créancier garanti par lettre de change ou billet
+
+Un créancier ne peut voter à l’égard d’une réclamation motivée ou garantie par une lettre de change courante ou un billet à ordre qu’il détient, à moins qu’il ne consente à considérer, comme titre de garantie en sa possession, ce qui lui en est dû par toute personne qui en est responsable antérieurement au débiteur et qui n’est pas un failli, et à en estimer la valeur et, pour les fins de la votation mais non pour les objets du dividende, à déduire cette valeur de sa réclamation.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 89
+
+</details>
+
+### 112 Vote d’un créancier garanti
+
+Pour les fins de la votation, un créancier garanti énonce dans sa preuve, à moins qu’il ne renonce à sa garantie, les détails de sa garantie, la date à laquelle elle a été donnée, ainsi que le montant auquel il l’évalue, et il n’a le droit de voter qu’à l’égard du reliquat qui lui est dû, s’il en est, déduction faite de la valeur de sa garantie.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 90
+
+</details>
+
+### 113 Le syndic peut voter
+
+(1) Lorsqu’il est fondé de pouvoir d’un créancier, le syndic peut voter à titre de créancier à toute assemblée des créanciers.
+
+**Le vote du syndic ne compte pas dans certains cas**
+
+(2) Le vote du syndic — ou de son associé, de son clerc, de son conseiller juridique ou du clerc de son conseiller juridique — à titre de fondé de pouvoir d’un créancier, ne peut être compté dans le cadre de l’adoption d’une résolution concernant sa rémunération ou sa conduite.
+
+**Personnes non autorisées à voter**
+
+(3) Les personnes ci-après n’ont pas le droit de voter pour la nomination d’un syndic et, sauf avec l’autorisation du tribunal et aux conditions qu’il peut fixer, n’ont pas le droit de voter pour celle d’inspecteurs :
+
+- a) le père, la mère, l’enfant, le frère, la soeur, l’oncle ou la tante, de naissance ou par adoption, mariage ou union de fait, ou l’époux ou conjoint de fait du failli;
+
+- b) lorsque le failli est une personne morale, un dirigeant, administrateur ou employé de celle-ci;
+
+- c) lorsque le failli est une personne morale, toute personne morale filiale entièrement détenue, ou tout dirigeant, administrateur ou employé de celle-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 113; L.R. (1985), ch. 31 (1^er^ suppl.), art. 73; 2000, ch. 12, art. 13; 2004, ch. 25, art. 64; 2005, ch. 47, art. 82
+
+</details>
+
+### 114 Preuve des délibérations aux assemblées des créanciers
+
+(1) Un procès-verbal des délibérations d’une assemblée des créanciers tenue sous l’autorité de la présente loi, signé à cette assemblée même ou à l’assemblée suivante par une personne se désignant comme, ou paraissant être, le président de l’assemblée à laquelle le procès-verbal a été signé, est sans plus admis en preuve.
+
+**Preuve de régularité**
+
+(2) Jusqu’à preuve du contraire, toute assemblée des créanciers, dont un procès-verbal des délibérations a été signé par le président, est réputée avoir été régulièrement convoquée et tenue, et toutes les résolutions adoptées ou procédures conduites à cette assemblée sont réputées avoir été adoptées ou conduites régulièrement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 114; 2005, ch. 47, art. 123(A)
+
+</details>
+
+### 115 Calcul des voix
+
+Sous réserve des autres dispositions de la présente loi, il est décidé des questions étudiées aux assemblées des créanciers, à la majorité des voix et, à cette fin, chaque créancier a droit à un nombre de voix égal au montant en dollars de chacune de ses créances non rejetées.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 115; 1992, ch. 27, art. 47
+
+</details>
+
+### 115.1 Ordonnance du tribunal — provisoire ou non
+
+Lorsqu’il est saisi d’une demande visant l’annulation ou la modification d’une décision ayant ou pouvant avoir une incidence sur le résultat du vote, le tribunal peut, par ordonnance, prendre toute mesure qu’il estime indiquée, notamment suspendre les effets du vote jusqu’à ce qu’il se prononce sur la demande ou établisse un nouveau résultat.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2007, ch. 36, art. 46
+
+</details>
+
+### Inspecteurs
+
+### 116 Résolutions au sujet des inspecteurs
+
+(1) À la première assemblée des créanciers ou à une assemblée subséquente, les créanciers doivent, par résolution, nommer au plus cinq inspecteurs pour surveiller l’actif du failli, ou convenir de ne pas en nommer.
+
+**Personnes inadmissibles**
+
+(2) Aucune personne, partie à une action ou procédure contestée par ou contre l’actif du failli, ne peut être nommée ou agir en qualité d’inspecteur.
+
+**Pouvoirs**
+
+(3) Les pouvoirs des inspecteurs peuvent être exercés par une majorité d’entre eux.
+
+**Vacance dans le bureau**
+
+(4) Les créanciers ou les inspecteurs, à toute assemblée, peuvent remplir une vacance se produisant dans le bureau des inspecteurs.
+
+**Révocation et remplacement**
+
+(5) Les créanciers peuvent, à toute assemblée, et le tribunal peut, à la requête du syndic ou d’un créancier, révoquer la nomination d’un inspecteur et lui nommer un remplaçant.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 116; 2005, ch. 47, art. 83
+
+</details>
+
+### 117 Assemblées
+
+(1) Le syndic peut convoquer une assemblée des inspecteurs lorsqu’il l’estime utile, et il doit le faire lorsque la majorité des inspecteurs l’en requiert par écrit.
+
+**Participation**
+
+(1.1) Si les autres y consentent, un inspecteur peut participer à une assemblée des inspecteurs en utilisant tout moyen de communication, notamment téléphonique, qui leur permet de communiquer entre eux; il est dès lors réputé avoir participé en personne à l’assemblée.
+
+**Vote du syndic en cas de partage**
+
+(2) Lorsque à une assemblée des inspecteurs les opinions sont également partagées, l’avis d’un inspecteur absent doit être demandé afin de résoudre le différend; au cas où le différend ne peut être ainsi résolu, il le sera par le syndic, à moins que le différend ne se rapporte à la propre conduite du syndic ou à son propre intérêt, auquel cas le différend sera réglé par les créanciers ou le tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 117; 1992, ch. 27, art. 48
+
+</details>
+
+### 118 Obligations du syndic lorsque les inspecteurs n’exercent pas leurs pouvoirs
+
+Lorsque les inspecteurs n’exercent pas les pouvoirs qui leur sont conférés, le syndic convoque une assemblée des créanciers en vue de substituer d’autres inspecteurs et de prendre les mesures ou donner les instructions qui peuvent être nécessaires.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 118; 2005, ch. 47, art. 84
+
+</details>
+
+### 119 Les créanciers peuvent annuler les décisions des inspecteurs
+
+(1) Sous réserve des autres dispositions de la présente loi, le syndic tient compte, dans l’administration des biens du failli et dans leur distribution parmi les créanciers de ce dernier, des instructions qui peuvent être données par résolution des créanciers à une assemblée générale, ou par les inspecteurs, et toute instruction ainsi donnée par les créanciers est censée, en cas de conflit, annuler toute instruction donnée par les inspecteurs.
+
+**Les décisions des inspecteurs sont sujettes à révision par le tribunal**
+
+(2) Les décisions et actes des inspecteurs sont sujets à révision par le tribunal à la requête du syndic ou de toute personne intéressée, et le tribunal peut révoquer ou modifier un acte ou une décision des inspecteurs, et il peut donner les instructions, la permission ou l’autorisation qu’il estime utile de substituer à celles des inspecteurs, ou il peut renvoyer une affaire aux inspecteurs pour qu’ils la reprennent en considération.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 94
+
+</details>
+
+### 120 Un inspecteur ne peut acquérir un bien
+
+(1) À moins d’avoir obtenu l’approbation préalable du tribunal, aucun inspecteur ne peut, directement ou indirectement, acheter ou acquérir pour lui-même ou pour un autre un bien de l’actif dont il est un inspecteur.
+
+**Irrégularité**
+
+(2) Aucune erreur ou irrégularité dans la nomination d’un inspecteur ne vicie un acte accompli par lui de bonne foi.
+
+**Fonctions des inspecteurs**
+
+(3) En plus d’exercer les fonctions que leur confère la présente loi, les inspecteurs vérifient le solde en banque de l’actif, examinent ses comptes, s’enquièrent de la suffisance de la garantie fournie par le syndic et, sous réserve du paragraphe (4), approuvent l’état définitif des recettes et des débours préparé par le syndic, le bordereau de dividende et la disposition des biens non réalisés.
+
+**Approbation par les inspecteurs de l’état définitif préparé par le syndic**
+
+(4) Avant d’approuver l’état définitif des recettes et des débours du syndic, les inspecteurs doivent s’assurer eux-mêmes qu’il a été rendu compte de tous les biens et que l’administration de l’actif a été complétée, dans la mesure où il est raisonnablement possible de le faire, et doivent établir si les débours et dépenses subis sont appropriés ou non et ont été dûment autorisés et si les honoraires et la rémunération sont justes et raisonnables en l’occurrence.
+
+**Frais et honoraires**
+
+(5) Chaque inspecteur peut être remboursé des frais de déplacement réels et nécessaires engagés dans le cadre de ses fonctions et il peut aussi recevoir les honoraires prescrits pour chaque assemblée.
+
+**Services spéciaux**
+
+(6) Un inspecteur régulièrement autorisé par les créanciers ou par les autres inspecteurs à exécuter des services spéciaux pour le compte de l’actif peut avoir droit à des honoraires spéciaux pour ces services, sous réserve de l’approbation du tribunal qui peut modifier ces honoraires comme il le juge à propos eu égard à la nature des services rendus par rapport à l’obligation qu’a l’inspecteur d’agir de bonne foi en vue de l’intérêt général de l’administration de l’actif.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 120; 1992, ch. 27, art. 49; 2001, ch. 4, art. 30; 2004, ch. 25, art. 65(F); 2005, ch. 47, art. 85
+
+</details>
+
+### Réclamations prouvables
+
+### 121 Réclamations prouvables
+
+(1) Toutes créances et tous engagements, présents ou futurs, auxquels le failli est assujetti à la date à laquelle il devient failli, ou auxquels il peut devenir assujetti avant sa libération, en raison d’une obligation contractée antérieurement à cette date, sont réputés des réclamations prouvables dans des procédures entamées en vertu de la présente loi.
+
+**Décision**
+
+(2) La question de savoir si une réclamation éventuelle ou non liquidée constitue une réclamation prouvable et, le cas échéant, son évaluation sont décidées en application de l’article 135.
+
+**Créances payables à une date future**
+
+(3) Un créancier peut établir la preuve d’une créance qui n’est pas échue à la date de la faillite, et recevoir des dividendes tout comme les autres créanciers, en en déduisant seulement un rabais d’intérêt au taux de cinq pour cent par an calculé à compter de la déclaration d’un dividende jusqu’à la date où la créance devait échoir selon les conditions auxquelles elle a été contractée.
+
+**Réclamations alimentaires**
+
+(4) Constitue une réclamation prouvable la réclamation pour une dette ou une obligation mentionnée aux alinéas 178(1)b) ou c) découlant d’une ordonnance judiciaire rendue ou d’une entente conclue avant l’ouverture de la faillite et à un moment où l’époux, l’ex-époux ou ancien conjoint de fait ou l’enfant ne vivait pas avec le failli, que l’ordonnance ou l’entente prévoie une somme forfaitaire ou payable périodiquement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 121; 1992, ch. 27, art. 50; 1997, ch. 12, art. 87; 2000, ch. 12, art. 14
+
+</details>
+
+### 122 Réclamations prouvables en faillite à la suite d’une proposition
+
+(1) Les réclamations des créanciers aux termes d’une proposition sont, dans le cas où le débiteur deviendrait subséquemment en faillite, prouvables dans la faillite pour le plein montant des réclamations moins tout dividende payé à cet égard en conformité avec la proposition.
+
+**Intérêts**
+
+(2) Lorsque l’intérêt sur toute créance ou somme déterminée est prouvable sous le régime de la présente loi, mais qu’il n’a pas été convenu du taux d’intérêt, le créancier peut établir la preuve d’un intérêt à un taux maximal de cinq pour cent par an jusqu’à la date de la faillite à compter de la date où la créance ou somme était exigible, si elle est attestée par un document écrit, ou, si elle n’est pas ainsi attestée, à compter de la date où il a été donné au débiteur avis de la réclamation d’intérêt.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 122; 2004, ch. 25, art. 66(A)
+
+</details>
+
+### 123 Preuve à l’égard de contrats distincts
+
+Lorsqu’un failli était, à la date de la faillite, responsable à l’égard de contrats distincts, en qualité de membre de plusieurs firmes distinctes, ou en qualité de signataire individuel des contrats et aussi à titre de membre d’une firme, le fait que les firmes sont entièrement ou en partie composées des mêmes personnes, ou que le signataire individuel des contrats est aussi l’une des parties contractantes conjointes, n’empêche nullement la preuve relativement aux contrats contre les biens respectivement impliqués dans les contrats.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 96
+
+</details>
+
+### Preuve de réclamations
+
+### 124 Les créanciers doivent prouver leurs réclamations
+
+(1) Chaque créancier doit prouver sa réclamation, faute de quoi il n’a pas droit de partage dans la distribution qui peut être opérée.
+
+**Remise de preuve**
+
+(2) Une réclamation est prouvée par la remise, au syndic, d’une preuve de la réclamation selon la forme prescrite.
+
+**Qui peut faire la preuve d’une réclamation**
+
+(3) La preuve de réclamation peut être faite par le créancier lui-même ou par une personne qu’il a autorisée à agir en son nom; la preuve, si elle est faite par une personne ainsi autorisée, doit énoncer l’autorisation et les sources de renseignement de cette personne.
+
+**La preuve doit mentionner un état de compte**
+
+(4) La preuve de réclamation doit contenir ou mentionner un état de compte énonçant les détails de la réclamation, ainsi que toute créance compensatoire que le failli peut avoir à la connaissance du créancier, et doit aussi spécifier les pièces justificatives ou autre preuve, s’il en est, qui peuvent en établir le bien-fondé.
+
+(5) [Abrogé, 2005, ch. 47, art. 86]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 124; 2005, ch. 47, art. 86
+
+</details>
+
+### 125 Peine en cas de réclamation fausse ou injustifiable
+
+Lorsqu’un créancier ou une autre personne, au cours de procédures prises en vertu de la présente loi, dépose entre les mains du syndic une preuve de réclamation contenant une déclaration délibérément fausse ou une fausse représentation faite de propos délibéré, le tribunal peut, en sus de toute autre peine prévue par la présente loi, rejeter la créance en tout ou en partie selon que, à sa discrétion, il pourra juger à propos.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 97
+
+</details>
+
+### 126 Qui peut examiner la preuve
+
+(1) Tout créancier qui a déposé une preuve de réclamation a le droit de voir et d’examiner les preuves d’autres créanciers.
+
+**Réclamations d’ouvriers pour gages**
+
+(2) Les preuves de réclamations pour gages d’ouvriers et d’autres personnes employés par le failli peuvent être établies en une seule preuve par celui-ci ou pour son compte, par le représentant soit d’un ministère fédéral ou provincial responsable des questions liées au travail, soit d’un syndicat représentant les ouvriers et autres employés, ou par le représentant nommé par le tribunal; la preuve est accompagnée d’une annexe énumérant les noms et adresses des ouvriers et des autres personnes, ainsi que les sommes qui leur sont respectivement dues. Une telle preuve n’enlève pas à l’ouvrier ou à tout autre salarié le droit de produire pour son propre compte une preuve distincte.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 126; 1997, ch. 12, art. 88; 2005, ch. 47, art. 87
+
+</details>
+
+### Preuve des créanciers garantis
+
+### 127 Preuve du créancier garanti
+
+(1) Lorsqu’un créancier garanti réalise sa garantie, il peut prouver le reliquat qui lui est dû, après avoir déduit la somme nette réalisée.
+
+**Peut prouver sa réclamation entière sur renonciation**
+
+(2) Lorsqu’un créancier garanti renonce à sa garantie en faveur du syndic au profit des créanciers en général, il peut établir la preuve de sa réclamation entière.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 127; 2004, ch. 25, art. 67(F)
+
+</details>
+
+### 128 Preuve de garantie
+
+(1) S’il a connaissance de biens qui peuvent être assujettis à une garantie, le syndic peut, par signification d’un avis en la forme et de la manière prescrites, enjoindre à quiconque de produire, en la forme et de la manière prescrites, une preuve de la garantie énonçant la date à laquelle elle a été donnée, la valeur que cette personne lui attribue et tous autres renseignements à son égard.
+
+**Défaut de réponse**
+
+(1.1) Faute par la personne à laquelle le syndic a fait signifier l’avis d’avoir produit une preuve de sa garantie dans les trente jours suivant cette signification, le syndic peut, sur permission du tribunal, aliéner les biens visés, ceux-ci étant dès lors libres de toute garantie.
+
+**Dividende sur le reliquat**
+
+(2) Un créancier n’est admis à recevoir un dividende que relativement au reliquat qui lui est dû après déduction de la valeur attribuée à sa garantie.
+
+**Rachat par le syndic**
+
+(3) Le syndic peut racheter une garantie sur paiement au créancier garanti de la créance ou de la valeur de la garantie telle qu’elle est fixée par le créancier garanti dans la preuve de garantie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 128; 1992, ch. 27, art. 51; 1999, ch. 31, art. 25; 2004, ch. 25, art. 68(F)
+
+</details>
+
+### 129 Peut ordonner la vente de la garantie
+
+(1) S’il n’est pas satisfait de la valeur attribuée à une garantie, le syndic peut exiger que le bien visé par la garantie soit mis en vente à la date et selon les modalités pouvant être convenues entre le créancier et lui, ou que le tribunal peut ordonner à défaut de pareille convention.
+
+**Vente à l’enchère publique**
+
+(2) Lorsque la vente s’opère par enchère publique, le créancier, ou le syndic agissant au nom de l’actif, peut enchérir ou se porter acquéreur.
+
+(3) [Abrogé, 1992, ch. 27, art. 52]
+
+**Frais de vente**
+
+(4) Les frais occasionnés par une vente faite sous l’autorité du présent article sont à la discrétion du tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 129; 1992, ch. 27, art. 52; 2004, ch. 25, art. 69(F)
+
+</details>
+
+### 130 Un créancier peut exiger du syndic qu’il choisisse d’exercer son pouvoir
+
+Nonobstant le paragraphe 128(3) et l’article 129, le créancier peut, au moyen d’un avis écrit, exiger du syndic qu’il choisisse s’il exercera son pouvoir de racheter la garantie ou de la faire réaliser; si, au cours du mois suivant la réception de l’avis ou dans le ou les délais supplémentaires que le tribunal peut accorder, le syndic ne signifie pas, par écrit au créancier, son choix d’exercer ce pouvoir, il n’a pas le droit de l’exercer; la faculté de réméré ou autre intérêt dans les biens compris dans la garantie qui est dévolue au syndic sont attribués au créancier, et le montant de sa réclamation est diminué du montant auquel la garantie a été évaluée.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 101
+
+</details>
+
+### 131 Évaluation modifiée par le créancier
+
+Lorsqu’un créancier, après avoir évalué sa garantie, la réalise subséquemment, ou qu’elle est réalisée sous le régime de l’article 129, le montant net réalisé est substitué au montant de toute évaluation antérieurement faite par le créancier et il est traité à tous égards comme une évaluation modifiée faite par le créancier.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 102
+
+</details>
+
+### 132 Le créancier garanti peut modifier l’évaluation
+
+(1) Lorsque le syndic n’a pas choisi d’acquérir la garantie dans les conditions prévues à la présente loi, un créancier peut modifier l’évaluation et la preuve en démontrant, à la satisfaction du syndic ou du tribunal, que l’évaluation et la preuve ont été faites de bonne foi sur une estimation erronée, ou que la garantie a diminué ou augmenté en valeur depuis son évaluation précédente.
+
+**Modification aux frais du créancier**
+
+(2) Une modification conforme au paragraphe (1) est faite aux frais du créancier et selon les modalités que le tribunal prescrit, à moins que le syndic ne permette la modification sans requête au tribunal.
+
+**Droits et obligations du créancier lorsque l’évaluation est modifiée**
+
+(3) Lorsqu’une évaluation a été modifiée conformément au présent article, le créancier, selon le cas :
+
+- a) doit rembourser sans retard tout surplus de dividende qu’il peut avoir reçu en sus du montant auquel il aurait eu droit sur l’évaluation modifiée;
+
+- b) a droit de recevoir, sur les deniers alors applicables à des dividendes, tout dividende ou part de dividende qu’il peut ne pas avoir reçu à cause du montant de l’évaluation primitive, avant que ces montants soient attribués au paiement d’un dividende futur; il n’a toutefois pas le droit de déranger la distribution d’un dividende déclaré avant que la modification soit déposée chez le syndic.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 103
+
+</details>
+
+### 133 Exclusion pour défaut de se conformer
+
+Lorsqu’un créancier garanti ne se conforme pas aux articles 127 à 132, il est exclu de tout dividende.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 104
+
+</details>
+
+### 134 Aucun créancier ne peut recevoir plus de cent cents par dollar
+
+Sous réserve de l’article 130, un créancier ne peut dans aucun cas recevoir plus de cent cents par dollar avec l’intérêt prévu par la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 105
+
+</details>
+
+### Admission et rejet des preuves de réclamation et de garantie
+
+### 135 Examen de la preuve
+
+(1) Le syndic examine chaque preuve de réclamation ou de garantie produite, ainsi que leurs motifs, et il peut exiger de nouveaux témoignages à l’appui.
+
+**Réclamations éventuelles et non liquidées**
+
+(1.1) Le syndic décide si une réclamation éventuelle ou non liquidée est une réclamation prouvable et, le cas échéant, il l’évalue; sous réserve des autres dispositions du présent article, la réclamation est dès lors réputée prouvée pour le montant de l’évaluation.
+
+**Rejet par le syndic**
+
+(2) Le syndic peut rejeter, en tout ou en partie, toute réclamation, tout droit à un rang prioritaire dans l’ordre de collocation applicable prévu par la présente loi ou toute garantie.
+
+**Avis de la décision**
+
+(3) S’il décide qu’une réclamation est prouvable ou s’il rejette, en tout ou en partie, une réclamation, un droit à un rang prioritaire ou une garantie, le syndic en donne sans délai, de la manière prescrite, un avis motivé, en la forme prescrite, à l’intéressé.
+
+**Effet de la décision**
+
+(4) La décision et le rejet sont définitifs et péremptoires, à moins que, dans les trente jours suivant la signification de l’avis, ou dans tel autre délai que le tribunal peut accorder, sur demande présentée dans les mêmes trente jours, le destinataire de l’avis n’interjette appel devant le tribunal, conformément aux Règles générales, de la décision du syndic.
+
+**Rejet total ou partiel d’une preuve**
+
+(5) Le tribunal peut rayer ou réduire une preuve de réclamation ou de garantie à la demande d’un créancier ou du débiteur, si le syndic refuse d’intervenir dans l’affaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 135; 1992, ch. 1, art. 20, ch. 27, art. 53; 1997, ch. 12, art. 89
+
+</details>
+
+### Plan de répartition
+
+### 136 Priorité des créances
+
+(1) Sous réserve des droits des créanciers garantis, les montants réalisés provenant des biens d’un failli sont distribués d’après l’ordre de priorité de paiement suivant :
+
+- a) dans le cas d’un failli décédé, les frais de funérailles et dépenses testamentaires raisonnables, faits par le représentant légal ou, dans la province de Québec, les successibles ou héritiers du failli décédé;
+
+- b) les frais d’administration, dans l’ordre suivant :
+  - (i) débours et honoraires de la personne visée à l’alinéa 14.03(1)a),
+  - (ii) débours et honoraires du syndic,
+  - (iii) frais légaux;
+
+- c) le prélèvement payable en vertu de l’article 147;
+
+- d) les gages, salaires, commissions, rémunérations ou sommes déboursées visés aux articles 81.3 et 81.4 qui n’ont pas été versés;
+
+- d.01) la différence entre la somme que le créancier garanti aurait reçue n’eut été l’application des articles 81.3 et 81.4 et celle qu’il reçoit effectivement;
+
+- d.02) la différence entre la somme que le créancier garanti aurait reçue n’eut été l’application des articles 81.5 et 81.6 et celle qu’il reçoit effectivement;
+
+- d.1) les réclamations pour les dettes ou obligations mentionnées aux alinéas 178(1)b) ou c), si elles constituent des réclamations prouvables en raison du paragraphe 121(4), pour le total des sommes payables périodiquement qui se sont accumulées au cours de l’année qui précède la date de la faillite et de toute somme forfaitaire payable;
+
+- e) les taxes municipales établies ou perçues à l’encontre du failli dans les deux années précédant sa faillite et qui ne constituent pas une créance garantie sur les immeubles ou les biens réels du failli, mais ne dépassant pas la valeur de l’intérêt ou, dans la province de Québec, la valeur du droit du failli sur les biens à l’égard desquels ont été imposées les taxes telles qu’elles ont été déclarées par le syndic;
+
+- f) le locateur quant aux arriérés de loyer pour une période de trois mois précédant la faillite, et, si une disposition du bail le prévoit, le loyer exigible par anticipation, pour une somme correspondant à trois mois de loyer au plus, mais le montant total ainsi payable ne peut dépasser la somme réalisée sur les biens se trouvant sur les lieux sous bail; tout paiement fait par le locataire au titre d’une telle disposition est porté au compte du montant payable par le syndic pour le loyer d’occupation;
+
+- g) les honoraires et droits mentionnés au paragraphe 70(2), mais jusqu’à concurrence seulement de la réalisation des biens exigibles en vertu de ce paragraphe;
+
+- h) dans le cas d’un failli qui est devenu un failli avant la date prescrite, toutes dettes contractées par le failli sous l’autorité d’une loi sur les accidents du travail, d’une loi sur l’assurance-chômage, d’une disposition de la *Loi de l’impôt sur le revenu* créant une obligation de rembourser à Sa Majesté des sommes qui ont été déduites ou retenues, au prorata;
+
+- i) les réclamations résultant de blessures subies par des employés du failli, que les dispositions d’une loi sur les accidents du travail ne visent pas, mais seulement jusqu’à concurrence des montants d’argent reçus des personnes garantissant le failli contre le préjudice résultant de ces blessures;
+
+- j) dans le cas d’un failli qui est devenu un failli avant la date prescrite, les réclamations, non mentionnées aux alinéas a) à i), de Sa Majesté du chef du Canada ou d’une province, au prorata, nonobstant tout privilège prévu par une loi à l’effet contraire.
+
+**À acquitter dès que les disponibilités le permettent**
+
+(2) Sauf la retenue des sommes qui peuvent être nécessaires pour les frais d’administration ou autrement, le paiement prévu au paragraphe (1) est fait dès qu’il se trouve des disponibilités à cette fin.
+
+**Solde de réclamation**
+
+(3) Tout créancier dont le présent article restreint les droits prend rang comme créancier non garanti, quant à tout solde de réclamation qui lui est dû.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 136; 1992, ch. 1, art. 143(A), ch. 27, art. 54; 1997, ch. 12, art. 90; 2001, ch. 4, art. 31; 2004, ch. 25, art. 70; 2005, ch. 47, art. 88
+
+</details>
+
+### 137 Ajournement de réclamations relatives à des transactions
+
+(1) Le créancier qui, avant la faillite du débiteur, a conclu une transaction avec celui-ci alors qu’il existait un lien de dépendance entre eux n’a pas droit de réclamer un dividende relativement à une réclamation née de cette transaction jusqu’à ce que toutes les réclamations des autres créanciers aient été satisfaites, sauf si la transaction était, de l’avis du syndic ou du tribunal, une transaction régulière.
+
+(2) [Abrogé, 2007, ch. 36, art. 47]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 137; 2000, ch. 12, art. 15; 2005, ch. 47, art. 89; 2007, ch. 36, art. 47
+
+</details>
+
+### 138
+
+[Abrogé, 2007, ch. 36, art. 48]
+
+### 139 Renvoi des réclamations d’un bailleur de fonds
+
+Lorsqu’un prêteur avance de l’argent à un emprunteur, engagé ou sur le point de s’engager dans un commerce ou une entreprise, aux termes d’un contrat, passé avec l’emprunteur, en vertu duquel le prêteur doit recevoir un taux d’intérêt variant selon les profits ou recevoir une partie des profits provenant de la conduite du commerce ou de l’entreprise, et que subséquemment l’emprunteur devient failli, le prêteur n’a droit à aucun recouvrement du chef d’un pareil prêt jusqu’à ce que les réclamations de tous les autres créanciers de l’emprunteur aient été acquittées.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 110
+
+</details>
+
+### 140 Renvoi des réclamations pour gages des dirigeants et administrateurs
+
+Dans le cas où une personne morale devient en faillite, aucun dirigeant ou administrateur de celle-ci n’a droit à la priorité de réclamation prévue par l’article 136 à l’égard de tout salaire, traitement, commission ou rémunération pour travail exécuté ou services rendus à cette personne morale à quelque titre que ce soit.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 111
+
+</details>
+
+### 140.1 Réclamations relatives à des capitaux propres
+
+Le créancier qui a une réclamation relative à des capitaux propres n’a pas droit à un dividende à cet égard avant que toutes les réclamations qui ne sont pas des réclamations relatives à des capitaux propres aient été satisfaites.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 90; 2007, ch. 36, art. 49
+
+</details>
+
+### 141 Réclamations généralement payables au prorata
+
+Sous réserve des autres dispositions de la présente loi, toutes les réclamations établies dans la faillite sont acquittées au prorata.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 112
+
+</details>
+
+### 142 Associés et biens distincts
+
+(1) Dans le cas où des associés deviennent en faillite, leurs biens communs sont applicables en premier lieu au paiement de leurs dettes communes, et les biens distincts de chaque associé sont applicables en premier lieu au paiement de ses dettes distinctes.
+
+**Surplus des biens distincts**
+
+(2) Lorsqu’il existe un surplus des biens distincts, il en est disposé comme partie des biens communs.
+
+**Surplus des biens communs**
+
+(3) Lorsqu’il existe un surplus des biens communs, il en est disposé comme partie des biens distincts respectifs en proportion du droit et de l’intérêt de chaque associé dans les biens communs.
+
+**Actifs différents**
+
+(4) Lorsque le failli a ou a eu des dettes, à la fois à titre individuel et comme membre d’une ou de plusieurs sociétés de personnes, les réclamations prennent rang d’abord contre les biens du particulier ou de la société de personnes, par qui ont été contractées les dettes que représentent ces réclamations, et ne peuvent prendre rang contre l’autre ou les autres actifs qu’après que tous les créanciers de cet autre ou de ces autres actifs ont été intégralement payés.
+
+**Les frais sont acquittés sur les biens indivis et les biens distincts**
+
+(5) Lorsque l’actif commun d’une société de personnes en faillite est insuffisant à payer les frais régulièrement subis, le syndic peut payer les frais, qui ne peuvent être acquittés sur les biens communs, sur les biens distincts de ces faillis, ou de l’un ou de plusieurs d’entre eux, selon telle proportion qu’il peut déterminer, avec le consentement des inspecteurs des actifs sur lesquels il a l’intention de faire tel paiement, ou, si ces inspecteurs négligent de donner ou refusent leur consentement, alors avec l’approbation du tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 113
+
+</details>
+
+### 143 Intérêts à compter de la date de la faillite
+
+Lorsqu’il existe un surplus après le paiement des réclamations, ainsi qu’il est prévu aux articles 136 à 142, ce surplus est appliqué au paiement des intérêts à partir de la date de la faillite, au taux de cinq pour cent par an sur toutes les réclamations établies dans la faillite, selon leur priorité.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 114
+
+</details>
+
+### 144 Droit du failli au surplus
+
+Le failli, les héritiers ou le représentant légal personnel d’un failli décédé, ont droit de recevoir tout surplus qui reste après paiement en entier de ses créanciers, avec l’intérêt prescrit par la présente loi, et après qu’ont été acquittés les frais, charges et dépens des procédures de faillite.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 144; 2004, ch. 25, art. 71
+
+</details>
+
+### 145 Produit de l’assurance-garantie sur véhicule automobile
+
+La présente loi n’a pas pour effet de porter atteinte au droit, conféré par une loi provinciale, d’une personne qui a une réclamation contre le failli pour dommages-intérêts par suite de blessures causées à une personne ou du décès d’une personne, ou par suite d’un dommage à un bien, occasionné par un véhicule automobile, ou par suite d’un dommage causé à un bien transporté dans ou sur un véhicule automobile, de faire appliquer le produit d’une police d’assurance-garantie à l’acquittement, ou en vue de l’acquittement, d’une telle réclamation.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 116
+
+</details>
+
+### 146 Application de la loi provinciale aux droits des propriétaires d’immeubles
+
+Sauf quant à la priorité de rang que prévoit l’article 136 et sous réserve du paragraphe 73(4) et de l’article 84.1, les droits des propriétaires sont déterminés conformément au droit de la province où sont situés les lieux loués.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 146; 2004, ch. 25, art. 72(A); 2007, ch. 36, art. 50
+
+</details>
+
+### 147 Prélèvement sur les dividendes pour défrayer le surintendant
+
+(1) Afin de défrayer le surintendant des dépenses qu’il engage dans le cadre de sa mission de surveillance, il lui est versé pour dépôt auprès du receveur général un prélèvement sur tous paiements, à l’exception des frais mentionnés au paragraphe 70(2), opérés par le syndic par voie de dividende ou autrement pour le compte des réclamations de créanciers, y compris les réclamations fiscales et autres de Sa Majesté du chef du Canada ou d’une province.
+
+**Taux du prélèvement**
+
+(2) Ce prélèvement est au taux que le gouverneur en conseil fixe, et est imputé proportionnellement à tous ces paiements et en est déduit par le syndic avant que le paiement soit fait.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 147; 2005, ch. 47, art. 91
+
+</details>
+
+### Dividendes
+
+### 148 Le syndic doit payer les dividendes requis
+
+(1) Sous réserve de la retenue des sommes qui peuvent être nécessaires pour les frais d’administration ou autrement, le syndic doit, selon que l’exigent les inspecteurs, déclarer et distribuer les dividendes entre les créanciers non garantis qui y ont droit.
+
+**Réclamation contestée**
+
+(2) Lorsque la validité d’une réclamation n’a pas été déterminée, le syndic retient un montant suffisant pour pourvoir à son acquittement dans le cas où la réclamation serait admise.
+
+**Aucun droit d’action en recouvrement de dividende**
+
+(3) Aucun droit d’action en recouvrement de dividende n’existe contre le syndic, mais si le syndic refuse ou omet de payer un dividende après en avoir reçu l’ordre des inspecteurs, le tribunal peut, à la demande d’un créancier, lui ordonner de le payer, et de payer aussi personnellement l’intérêt sur ce dividende pour la durée de sa rétention, ainsi que les frais de la demande.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 119
+
+</details>
+
+### 149 Avis qu’un dividende définitif sera établi
+
+(1) Le syndic peut, après la première assemblée des créanciers, donner, de la manière prescrite, à toute personne dont la réclamation a été portée à sa connaissance, mais n’a pas été prouvée, avis que si elle ne prouve pas sa réclamation dans un délai de trente jours à compter de la transmission de l’avis, le syndic procédera à la déclaration d’un dividende ou d’un dividende définitif sans égard à la réclamation de cette personne.
+
+**Prorogation du délai**
+
+(2) Si l’intéressé ne prouve pas sa réclamation dans le délai fixé ou dans tel délai supplémentaire que le tribunal, sur preuve du bien-fondé en l’espèce et explication satisfaisante du retard à établir la preuve, peut autoriser, sa réclamation est, malgré les autres dispositions de la présente loi, exclue de toute participation à un dividende; mais une autorité taxatrice peut notifier au syndic, dans les trente jours mentionnés au paragraphe (1), qu’elle se propose de déposer une réclamation aussitôt que le montant aura été déterminé, et le délai pour le dépôt de la réclamation sera alors prolongé à trois mois ou à tel délai supérieur que le tribunal peut fixer.
+
+**Certaines réclamations fédérales**
+
+(3) Par dérogation au paragraphe (2), une réclamation peut être présentée pour une somme exigible au titre de l’un des textes législatifs ci-après dans les délais visés à ce paragraphe ou dans les trois mois suivant le moment où la déclaration du revenu ou une preuve des faits sur laquelle est fondée la réclamation est déposée auprès du ministre du Revenu national ou est signalée à son attention ou, dans le cas d’une réclamation pour une somme exigible au titre d’une loi visée à l’alinéa c), auprès du ministre provincial chargé de l’application du texte en cause :
+
+- a) la *Loi de l’impôt sur le revenu*;
+
+- b) toute disposition du *Régime de pensions du Canada* ou de la *Loi sur l’assurance-emploi* qui renvoie à la *Loi de l’impôt sur le revenu* et qui prévoit la perception d’une cotisation, au sens du *Régime de pensions du Canada*, d’une cotisation ouvrière ou d’une cotisation patronale, au sens de la *Loi sur l’assurance-emploi*, ou d’une cotisation prévue par la partie VII.1 de cette loi ainsi que des intérêts, pénalités et autres charges afférents;
+
+- c) toute loi provinciale dont l’objet est semblable à celui de la *Loi de l’impôt sur le revenu*, ou qui renvoie à cette loi, et qui prévoit la perception d’une somme, ainsi que des intérêts, pénalités et autres charges afférents, laquelle somme :
+  - (i) soit a été retenue par une personne sur un paiement effectué à une autre personne, ou déduite d’un tel paiement, et se rapporte à un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*,
+  - (ii) soit est de même nature qu’une cotisation prévue par le *Régime de pensions du Canada*, si la province est une province instituant un régime général de pensions au sens du paragraphe 3(1) de cette loi et si la loi provinciale a institué un régime provincial de pensions au sens de ce paragraphe;
+
+- d) la *Loi sur la taxe d’accise*;
+
+- e) la *Loi de 2001 sur l’accise*;
+
+- f) la *Loi sur les douanes*;
+
+- g) la *Loi sur le droit pour la sécurité des passagers du transport aérien*;
+
+- h) la *Loi sur la taxe sur les logements sous-utilisés*; *[2022, ch. 10, art. 173]*
+
+- i) la *Loi sur la taxe sur certains biens de luxe*; *[2022, ch. 10, art. 173]*
+
+- j) la *Loi sur la taxe sur les services numériques*;
+
+- k) la *Loi sur l’impôt minimum mondial*.
+
+**Aucun dividende**
+
+(4) À moins que le syndic ne retienne des fonds suffisants pour pourvoir au paiement de toute réclamation qui peut être produite sous l’autorité des textes législatifs visés au paragraphe (3), aucun dividende ne peut être déclaré avant l’expiration des trois mois suivant le dépôt par le syndic de toutes les déclarations à déposer.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 149; 1992, ch. 1, art. 20; 1997, ch. 12, art. 91; 2005, ch. 47, art. 92; 2007, ch. 36, art. 51; 2009, ch. 33, art. 26
+- 2022, ch. 5, art. 12
+- 2022, ch. 10, art. 137
+- 2022, ch. 10, art. 173
+- 2024, ch. 15, art. 99
+- 2024, ch. 17, art. 83
+- 2024, ch. 17, art. 111
+
+</details>
+
+### 150 Droit d’un créancier qui n’a pas prouvé sa réclamation avant la déclaration du dividende
+
+Un créancier qui n’a pas prouvé sa réclamation avant la déclaration d’un dividende a droit, sur preuve de cette réclamation, au paiement, sur tout montant d’argent qui se trouve alors entre les mains du syndic, d’un ou de plusieurs dividendes qu’il n’a pas reçus, avant que ce montant soit appliqué au paiement d’un dividende ultérieur; il n’a toutefois pas le droit de déranger la distribution d’un dividende déclaré avant que sa réclamation ait été prouvée, à cause du fait qu’il n’y a pas participé, sauf aux conditions que le tribunal peut prescrire.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 121
+
+</details>
+
+### 151 Dividende final et partage des biens
+
+Lorsque le syndic a réalisé tous les biens du failli ou tout ce qui de ces biens, selon son avis joint à celui des inspecteurs, peut être réalisé sans prolonger inutilement la durée de l’administration, et a réglé ou déterminé ou fait régler ou déterminer les réclamations de tous les créanciers qui doivent prendre rang à l’encontre de l’actif du failli, il prépare un état définitif des recettes et des débours et un bordereau de dividende, et, sous réserve des autres dispositions de la présente loi, partage les biens du failli entre les créanciers qui ont prouvé leurs réclamations.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 122
+
+</details>
+
+### 152 État des recettes et débours
+
+(1) L’état définitif des recettes et des débours préparé par le syndic contient :
+
+- a) le relevé complet des sommes reçues par le syndic sur les biens du failli ou autrement, le montant des intérêts qu’il a reçus, les sommes qu’il a déboursées et les dépenses qu’il a subies, les sommes qu’il a versées à des personnes avec qui il a un lien de dépendance pour la prestation de services et la rémunération qu’il réclame;
+
+- b) tous les détails, la description et la valeur de la totalité des biens du failli qui n’ont pas été vendus ou réalisés, avec indication du motif pour lequel ces biens n’ont pas été vendus ou réalisés, ainsi que la façon dont il en a été disposé.
+
+**L’état doit être en la forme prescrite**
+
+(2) L’état est préparé en la forme prescrite ou s’en rapproche dans la mesure où les circonstances de l’espèce le permettent, et est soumis, avec le bordereau de dividende, aux inspecteurs pour qu’ils l’approuvent.
+
+**Copie adressée au surintendant**
+
+(3) Le syndic adresse une copie de l’état et du bordereau de dividende au surintendant, après que ceux-ci ont été approuvés par les inspecteurs.
+
+**Le surintendant peut faire des commentaires**
+
+(4) Le surintendant peut faire, selon qu’il l’estime utile, des commentaires que le syndic soumet au fonctionnaire taxateur, pour que celui-ci les étudie lors de la taxation des comptes du syndic.
+
+**Avis du dividende définitif**
+
+(5) Après que le surintendant a fait des commentaires ou qu’il a informé le syndic qu’il n’a aucun commentaire à faire, ce dernier, une fois que ses comptes ont été taxés, transmet de la manière prescrite, à chaque créancier dont la réclamation a été prouvée, au registraire, au surintendant et au failli les documents suivants :
+
+- a) une copie de l’état définitif des recettes et des débours;
+
+- b) une copie du bordereau de dividende;
+
+- c) un avis en la forme prescrite de son intention de payer un dividende définitif après l’expiration d’un délai de quinze jours à compter de la transmission des avis, état et bordereau de dividende, et de demander au tribunal sa libération à une date subséquente survenant au moins trente jours après le paiement du dividende.
+
+**Oppositions**
+
+(6) Nulle personne intéressée n’a droit d’objecter à l’état définitif et au bordereau de dividende, à moins de produire au registraire, avant l’expiration des quinze jours mentionnés à l’alinéa (5)c), un avis de son opposition en en indiquant les raisons, et de signifier au syndic une copie de l’avis.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 152; 1992, ch. 1, art. 20, ch. 27, art. 55; 2005, ch. 47, art. 93
+
+</details>
+
+### 153 Dividendes sur des biens communs et distincts
+
+Lorsque des biens communs et distincts sont administrés, les dividendes peuvent être déclarés en même temps, et le syndic en répartit les dépenses.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 124
+
+</details>
+
+### 154 Dividendes non réclamés et fonds non distribués
+
+(1) Avant de procéder à sa libération, le syndic fait parvenir au surintendant, pour qu’ils soient déposés, conformément aux instructions de ce dernier, chez le receveur général, les dividendes non réclamés et les fonds non distribués qui restent entre ses mains, pourvu que ces dividendes et ces fonds ne fassent pas l’objet d’une exemption aux termes des Règles générales; il fournit une liste des noms et des adresses postales, dans la mesure où ils sont connus, des créanciers qui ont droit aux dividendes non réclamés en indiquant le montant payable à chacun d’eux.
+
+**Le receveur général acquitte les réclamations**
+
+(2) Le receveur général verse par la suite, sur demande, à tout créancier son dividende, tel qu’indiqué sur cette liste, et ce paiement a le même effet que s’il était effectué par le syndic.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 154; 1992, ch. 27, art. 56
+
+</details>
+
+### Administration sommaire
+
+### 155 Administration sommaire
+
+Dans l’administration sommaire des actifs sous l’autorité de la présente loi, les dispositions suivantes s’appliquent :
+
+- a) toutes les procédures sous le régime du présent article s’intitulent : « Administration sommaire »;
+
+- b) la garantie que doit déposer un syndic en vertu de l’article 16 n’est pas requise sauf si le séquestre officiel l’exige;
+
+- b.1) [Abrogé, 1992, ch. 1, art. 161]
+
+- c) avis de la faillite ne peut être publié dans un journal local à moins que le syndic ne l’estime utile ou que le tribunal ne l’ordonne;
+
+- d) tous les avis, déclarations et autres documents doivent être transmis de la manière prescrite;
+
+- d.1) sur demande du séquestre officiel ou des créanciers représentant en valeur au moins vingt-cinq pour cent des réclamations prouvées, le syndic convoque, en la forme et de la manière prescrites, la première assemblée des créanciers, qui doit se tenir dans les vingt et un jours suivant la convocation;
+
+- e) il ne peut y avoir d’inspecteurs à moins que les créanciers ne décident d’en nommer, et si aucun inspecteur n’est nommé, le syndic peut, à défaut d’instructions des créanciers, accomplir toutes les choses ordinairement susceptibles d’être accomplies par le syndic avec la permission des inspecteurs;
+
+- f) dans les circonstances prévues par les instructions du surintendant, les actifs de certaines personnes peuvent être traités comme un seul actif lorsque la nature des rapports qui existent entre elles le justifie;
+
+- g) dans les circonstances prévues par les instructions du surintendant et sur approbation de celui-ci, le syndic peut déposer les fonds afférents à l’administration sommaire d’actifs dans un même compte en fiducie ou en fidéicommis;
+
+- h) l’avis de faillite et, selon le cas, le préavis de libération imminente ou la demande de libération du failli peuvent être donnés en un seul avis en la forme prescrite;
+
+- i) par dérogation à l’article 152, la procédure, y compris la taxation, relative aux comptes du syndic est celle prescrite;
+
+- j) par dérogation aux paragraphes 41(1), (5) et (6), la procédure de sa libération est celle prescrite;
+
+- k) l’autorisation du tribunal mentionnée au paragraphe 30(4) pour la disposition — notamment par vente — de biens du failli en faveur d’une personne liée à celui-ci n’est nécessaire que si les créanciers décident de l’exiger.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 155; 1992, ch. 1, art. 16 et 161, ch. 27, art. 57; 1997, ch. 12, art. 92; 1999, ch. 31, art. 26; 2005, ch. 47, art. 94
+
+</details>
+
+### 156 Honoraires et déboursés du syndic
+
+Le syndic reçoit les honoraires et déboursés qui peuvent être prescrits.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 127
+
+</details>
+
+### 156.1 Accord sur les honoraires et débours du syndic
+
+La personne physique qui fait faillite pour la première fois sous le régime du droit canadien ou de tout pays prescrit et qui n’est pas tenue de faire des versements à l’actif de la faillite au titre de l’article 68 peut conclure avec le syndic un accord prévoyant le paiement par elle, avant l’expiration de la période de douze mois suivant sa libération, d’une somme au titre des honoraires et débours du syndic n’excédant pas la somme prescrite. Cet accord peut être exécuté après la libération du failli.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 95
+
+</details>
+
+### 157 Toutes les autres dispositions s’appliquent
+
+Sauf dans les cas prévus à l’article 155, toutes les dispositions de la présente loi, dans la mesure où elles sont applicables, s’appliquent, compte tenu des adaptations de circonstance, à l’administration sommaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 128
+
+</details>
+
+## Faillis
+
+### Services de consultation
+
+### 157.1 Consultations
+
+(1) Dans les cas où le failli est une personne physique, le syndic :
+
+- a) est tenu de lui offrir des consultations, ou de voir à ce qu’il lui en soit offert;
+
+- b) peut offrir des consultations aux personnes qui, selon les instructions du surintendant, ont des rapports financiers avec le failli.
+
+Le syndic s’acquitte des tâches que lui confie le présent paragraphe conformément aux instructions émises par le surintendant aux termes de l’alinéa 5(4)b); les frais des consultations sont à la charge de l’actif, à titre de frais d’administration, selon le taux prescrit.
+
+**Idem**
+
+(2) Les consultations offertes par le syndic à un débiteur qui n’est pas un failli doivent être offertes conformément aux instructions données par le surintendant aux termes de l’alinéa 5(4)b).
+
+**Effet sur la libération d’office**
+
+(3) Le paragraphe 168.1(1) ne s’applique pas au failli qui est une personne physique, dans la mesure où il a refusé ou omis de se prévaloir des consultations offertes aux termes du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 58; 1997, ch. 12, art. 93; 2005, ch. 47, art. 96
+
+</details>
+
+### Obligations des faillis
+
+### 158 Obligations des faillis
+
+Le failli doit :
+
+- a) révéler et remettre tous ses biens qui sont en sa possession ou sous son contrôle, au syndic ou à une personne que le syndic autorise à en prendre possession en tout ou en partie;
+
+- a.1) dans les circonstances prévues par les instructions du surintendant, remettre au syndic, pour annulation, toutes les cartes de crédit délivrées au failli et en sa possession ou sous son contrôle;
+
+- b) remettre au syndic tous les livres, registres, documents, écrits et papiers, notamment les documents de titre, les polices d’assurance et les archives et déclarations d’impôt, ainsi que les copies de ce qui précède, se rattachant de quelque façon à ses biens ou affaires;
+
+- c) aux date, heure et lieu que peut fixer le séquestre officiel, se présenter devant ce dernier ou devant tout autre séquestre officiel délégué par le séquestre officiel, pour y subir un interrogatoire sous serment sur sa conduite, les causes de sa faillite et la disposition de ses biens;
+
+- d) dans les cinq jours suivant sa faillite, à moins que le séquestre officiel ne prolonge le délai, préparer et soumettre en quatre exemplaires au syndic un bilan en la forme prescrite attesté par affidavit et indiquant les détails de ses avoirs et de ses obligations, ainsi que les noms et adresses de ses créanciers, les garanties qu’ils détiennent respectivement, les dates auxquelles les garanties ont été respectivement données, et les renseignements supplémentaires ou autres qui peuvent être exigés; si les affaires du failli sont mêlées ou compliquées au point qu’il ne peut adéquatement lui-même en préparer un relevé convenable, le séquestre officiel peut, comme dépenses d’administration de l’actif, autoriser l’emploi d’une personne compétente pour aider à la préparation du relevé;
+
+- e) dresser un inventaire de ses avoirs ou donner au syndic toute l’assistance qu’il peut donner pour dresser l’inventaire;
+
+- f) révéler au syndic tous les biens aliénés au cours de la période allant du premier jour de l’année précédant l’ouverture de la faillite, ou de la date antérieure que le tribunal peut fixer, jusqu’à la date de la faillite inclusivement, et comment, à qui et pour quelle considération toute partie des biens a été aliénée, sauf la partie de ces biens qui a été aliénée dans le cours ordinaire du commerce, ou employée pour dépenses personnelles raisonnables;
+
+- g) révéler au syndic tous les biens aliénés par opération sous-évaluée au cours de la période allant du premier jour de la cinquième année précédant l’ouverture de la faillite jusqu’à la date de la faillite inclusivement;
+
+- h) assister à la première assemblée de ses créanciers, à moins d’en être empêché par la maladie ou pour une autre cause suffisante, et s’y soumettre à un interrogatoire;
+
+- i) lorsqu’il en est requis, assister aux autres assemblées de ses créanciers ou des inspecteurs, ou se rendre aux ordres du syndic;
+
+- j) se soumettre à tout autre interrogatoire sous serment au sujet de ses biens ou de ses affaires, selon qu’il en est requis;
+
+- k) aider de tout son pouvoir à la réalisation de ses biens et au partage des produits entre ses créanciers;
+
+- l) exécuter les procurations, transferts, actes et instruments qu’il peut être requis d’exécuter;
+
+- m) examiner l’exactitude de toutes preuves de réclamations produites, s’il en est requis par le syndic;
+
+- n) s’il a connaissance que quelqu’un a produit une réclamation fausse, rapporter immédiatement le fait au syndic;
+
+- n.1) aviser le syndic de tout changement important de sa situation financière;
+
+- o) d’une façon générale, accomplir, au sujet de ses biens et du partage du produit parmi ses créanciers, tous actes et toutes choses que le syndic peut raisonnablement lui demander de faire, ou que les Règles générales peuvent prescrire, ou qu’il peut recevoir l’ordre de faire du tribunal par une ordonnance spéciale rendue à l’égard d’un cas particulier, ou rendue à l’occasion d’une requête particulière du syndic, d’un créancier ou d’une personne intéressée;
+
+- p) jusqu’à ce qu’il ait été disposé de sa demande de libération et jusqu’à ce que l’administration de son actif ait été complétée, tenir le syndic constamment informé de son adresse ou de son lieu de résidence.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 158; 1992, ch. 27, art. 59; 1997, ch. 12, art. 94; 2004, ch. 25, art. 73; 2017, ch. 26, art. 9
+
+</details>
+
+### 159 Lorsque le failli est une personne morale
+
+Lorsque le failli est une personne morale, le fonctionnaire qui exécute la cession ou tout dirigeant de la personne morale ou toute personne qui, directement ou indirectement, en a, ou en a eu, le contrôle de fait, désigné par le séquestre officiel, doit se présenter devant lui pour être interrogé et doit remplir toutes les obligations que l’article 158 impose à un failli, et, s’il omet de le faire, il est susceptible d’être puni comme s’il était le failli.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 159; 1992, ch. 27, art. 60
+
+</details>
+
+### 160 Exécution de fonctions par un failli emprisonné
+
+Lorsqu’un failli subit un emprisonnement, le tribunal peut, afin de lui permettre d’assister devant le tribunal aux procédures en faillite auxquelles sa présence personnelle est requise, ou de lui permettre d’assister à la première assemblée des créanciers, ou de remplir les obligations que la présente loi lui impose, ordonner qu’il soit amené sous la garde d’un huissier-exécutant ou d’un autre fonctionnaire dûment autorisé, à tels date, heure et lieu qui peuvent être désignés, ou le tribunal peut rendre toute autre ordonnance qu’il juge utile dans les circonstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 160; 2004, ch. 25, art. 74(A)
+
+</details>
+
+### Interrogatoire des faillis et autres
+
+### 161 Interrogatoire du failli par le séquestre officiel
+
+(1) Avant la libération du failli, le séquestre officiel, lorsque celui-ci se présente devant lui, l’interroge sous serment sur sa conduite, les causes de sa faillite et la disposition de ses biens, et lui pose les questions prescrites ou des questions au même effet, ainsi que toutes autres questions qu’il peut juger opportunes.
+
+**Compte rendu**
+
+(2) Le séquestre officiel établit le compte rendu de l’interrogatoire et le transmet au surintendant et au syndic.
+
+**Communication sur demande**
+
+(2.1) Si l’interrogatoire est tenu avant la première assemblée des créanciers, le compte rendu est communiqué aux créanciers à l’assemblée, sinon il n’est communiqué qu’aux créanciers qui lui en font la demande.
+
+**Interrogatoire devant un autre séquestre officiel**
+
+(3) Lorsqu’il l’estime utile, le séquestre officiel peut autoriser un interrogatoire devant tout autre séquestre officiel.
+
+**Le séquestre officiel doit signaler le défaut de se présenter**
+
+(4) Lorsqu’un failli ne se présente pas pour être interrogé par le séquestre officiel, ce dernier en fait rapport à la première assemblée des créanciers.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 161; 1997, ch. 12, art. 95; 2004, ch. 25, art. 75(F); 2005, ch. 47, art. 97
+
+</details>
+
+### 162 Enquête par le séquestre officiel
+
+(1) Le séquestre officiel peut, et sur les instructions du surintendant doit, effectuer ou faire effectuer toute enquête ou investigation qui peut être estimée nécessaire au sujet de la conduite du failli, des causes de sa faillite et de la disposition de ses biens, et le séquestre officiel fait rapport des conclusions de toute enquête ou investigation de ce genre au surintendant, au syndic et au tribunal.
+
+(2) [Abrogé, 2005, ch. 47, art. 98]
+
+**Application de l’art. 164**
+
+(3) L’article 164 s’applique relativement à une enquête ou à une investigation prévue par le paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 162; 2004, ch. 25, art. 76(F); 2005, ch. 47, art. 98
+
+</details>
+
+### 163 Interrogatoire du failli et d’autres par le syndic
+
+(1) Le syndic, sur une résolution ordinaire adoptée par les créanciers, ou sur la demande écrite ou résolution de la majorité des inspecteurs, peut, sans ordonnance, examiner sous serment, devant le registraire du tribunal ou une autre personne autorisée, le failli, toute personne réputée connaître les affaires du failli ou toute personne qui est ou a été mandataire, commis, préposé, dirigeant, administrateur ou employé du failli, au sujet de ce dernier, de ses opérations ou de ses biens, et il peut ordonner à toute personne susceptible d’être ainsi interrogée de produire les livres, documents, correspondance ou papiers en sa possession ou pouvoir qui se rapportent en totalité ou en partie au failli, à ses opérations ou à ses biens.
+
+**Examen par le créancier**
+
+(2) Sur demande faite au tribunal par un créancier, le surintendant ou une autre personne intéressée et sur preuve d’une raison suffisante, une ordonnance peut être rendue pour interroger sous serment, devant le registraire ou une autre personne autorisée, le syndic, le failli ou tout inspecteur ou créancier ou toute autre personne nommée dans l’ordonnance, afin d’effectuer une investigation sur l’administration de l’actif d’un failli; le tribunal peut en outre ordonner la production par la personne visée des livres, documents, correspondance ou papiers en sa possession ou son pouvoir qui se rapportent en totalité ou en partie au failli, au syndic ou à tout créancier, les frais de cet interrogatoire et de cette investigation étant laissés à la discrétion du tribunal.
+
+**L’interrogatoire doit être produit**
+
+(3) Le témoignage de toute personne interrogée sous l’autorité du présent article doit, s’il a été transcrit, être produit au tribunal et peut être lu lors de toute procédure prise devant le tribunal aux termes de la présente loi et à laquelle est partie la personne interrogée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 163; 1997, ch. 12, art. 96; 2004, ch. 25, art. 77(A)
+
+</details>
+
+### 164 Le syndic peut exiger la production des livres et autres biens du failli
+
+(1) Lorsqu’une personne a, ou que l’on croit ou soupçonne qu’elle a en sa possession ou pouvoir des biens du failli, ou tout livre, document ou papier concernant, en tout ou en partie, le failli, ses opérations ou ses biens, ou indiquant que cette personne est endettée envers le failli, cette personne peut être tenue par le syndic de produire ce livre, document ou papier pour la gouverne de ce syndic, ou de lui remettre tout bien du failli qu’elle a en sa possession.
+
+**Interrogatoire sur défaut de produire**
+
+(2) Lorsqu’une personne omet de produire un livre, document ou papier, ou de remettre un bien, dans les cinq jours à compter du moment où elle est tenue de le faire au titre du présent article, le syndic peut, sans ordonnance, l’interroger en présence du registraire du tribunal ou de toute autre personne autorisée concernant ces bien, livre, document ou papier qu’elle est censée avoir en sa possession.
+
+**Assistance obligatoire**
+
+(3) Toute personne mentionnée au paragraphe (1) peut être contrainte d’être présente et de témoigner, et de produire, à son interrogatoire, tout livre, document ou papier qu’elle est obligée de produire aux termes du présent article, de la même manière et sous réserve des mêmes règles d’interrogatoire et des mêmes conséquences en cas de défaut de se présenter ou de refus de révéler les affaires au sujet desquelles elle peut être interrogée, qui s’appliqueraient au failli.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 164; 1997, ch. 12, art. 97; 2004, ch. 25, art. 78(F)
+
+</details>
+
+### 165 Admission de dette
+
+(1) Lorsque, à l’interrogatoire, une personne admet qu’elle est endettée envers le failli, le tribunal peut, à la demande du syndic, lui ordonner de verser au syndic, à la date et de la manière que le tribunal juge opportunes, le montant admis, ou une partie de ce montant, en acquittement complet ou non de la totalité du montant en question, selon que le tribunal le juge à propos, avec ou sans les frais de l’interrogatoire.
+
+**Admission de détenir des biens du failli**
+
+(2) Lorsqu’une personne admet, à l’interrogatoire, qu’elle a en sa possession des biens appartenant au failli, le tribunal peut, à la demande du syndic, lui ordonner de remettre au syndic ces biens, ou toute partie de ces biens, à la date, de la manière et aux conditions que le tribunal juge équitables.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 135
+
+</details>
+
+### 166 Peine pour défaut de se présenter à l’examen
+
+Lorsque le failli ne se présente pas pour être interrogé devant le séquestre officiel, ainsi que l’exige l’alinéa 158c), ou lorsque le failli ou une autre personne reçoit une convocation ou une assignation pour subir un interrogatoire et qu’il a reçu ou que lui a été offerte une somme suffisante pour couvrir ses frais de déplacement et honoraires de témoin ainsi que le prescrivent les Règles générales, et qu’il refuse ou néglige de comparaître comme la convocation ou l’assignation l’en requiert, le tribunal, à la demande du syndic ou du séquestre officiel, peut, par mandat, faire appréhender et amener pour subir un interrogatoire le failli ou l’autre personne ainsi en défaut.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 166; 2005, ch. 47, art. 99
+
+</details>
+
+### 167 Obligation de répondre aux questions
+
+La personne interrogée est tenue de répondre à toutes les questions se rattachant aux affaires ou aux biens du failli, et au sujet des causes de sa faillite et de la disposition de ses biens.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 167; 2004, ch. 25, art. 79(F)
+
+</details>
+
+### Arrestation des faillis
+
+### 168 Arrestation d’un failli en certains cas
+
+(1) Le tribunal peut, par mandat, faire arrêter et détenir un failli, et faire saisir tous les livres, papiers et biens en sa possession et les faire mettre en lieu sûr, tel qu’il est ordonné, jusqu’à la date que le tribunal peut prescrire, dans les circonstances suivantes :
+
+- a) si, après la production d’une requête en faillite contre lui, le tribunal juge qu’il y a des raisons de croire qu’il s’est évadé ou qu’il est sur le point de s’évader du Canada en vue d’éviter le paiement de la dette qui a occasionné la présentation de la requête, d’éviter sa comparution au sujet de celle-ci, d’éviter d’être interrogé sur ses affaires, ou d’autre façon éviter, retarder ou gêner les procédures en matière de faillite contre lui;
+
+- b) si, après avoir fait une cession, le tribunal juge qu’il y a des raisons de croire qu’il s’est évadé, ou qu’il est sur le point de s’évader, du Canada, en vue d’éviter le paiement de ses dettes ou d’éviter d’être interrogé sur ses affaires;
+
+- c) si, après la production d’une requête en faillite ou d’une cession, le tribunal juge qu’il y a des motifs raisonnables de croire, selon le cas :
+  - (i) qu’il est sur le point d’enlever ses biens en vue d’empêcher ou de retarder leur prise de possession par le syndic,
+  - (ii) qu’il a caché ou qu’il est sur le point de cacher ou de détruire une partie de ses biens ou de ses livres, documents ou écrits qui pourraient servir au syndic ou à ses créanciers au cours des procédures relatives à la faillite;
+
+- d) s’il soustrait des biens en sa possession d’une valeur de plus de vingt-cinq dollars sans la permission du tribunal après la signification d’une requête en faillite, ou sans la permission du syndic après qu’une cession a été faite;
+
+- e) si, après que des procédures ont été intentées aux termes de la présente loi, il n’a pas obéi à une ordonnance du tribunal.
+
+**Paiements après arrestation**
+
+(2) Aucun paiement ou proposition faite, ni aucun cautionnement donné après une arrestation opérée sous l’autorité du présent article, n’est soustrait à l’application des dispositions de la présente loi concernant les préférences frauduleuses.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 168; 2004, ch. 25, art. 80
+
+</details>
+
+### Libération des faillis
+
+### 168.1 Libération d’office
+
+(1) Sous réserve des paragraphes (2) et 157.1(3), les dispositions qui suivent s’appliquent au failli qui est une personne physique — autre que le failli visé au paragraphe 172.1(1) :
+
+- a) s’il fait faillite pour la première fois sous le régime du droit canadien ou de tout pays prescrit, il est libéré d’office :
+  - (i) à l’expiration des neuf mois suivant la date de la faillite sauf si, pendant ces neuf mois, il a été tenu de faire des versements à l’actif de la faillite au titre de l’article 68 ou si un avis d’opposition à sa libération a été donné,
+  - (ii) à l’expiration des vingt et un mois suivant la date de la faillite sauf si un tel avis a été donné;
+
+- b) s’il a déjà fait faillite une fois sous le régime du droit canadien ou de tout pays prescrit, il est libéré d’office :
+  - (i) à l’expiration des vingt-quatre mois suivant la date de la faillite sauf si, pendant ces vingt-quatre mois, il a été tenu de faire des versements à l’actif de la faillite au titre de l’article 68 ou un avis d’opposition à sa libération a été donné,
+  - (ii) à l’expiration des trente-six mois suivant la date de la faillite sauf si un tel avis a été donné.
+
+**Application**
+
+(2) Le paragraphe (1) n’a pas pour effet d’empêcher le failli de demander au tribunal sa libération avant la date où il serait normalement libéré d’office; cependant, dans un tel cas, le paragraphe (1) cesse de s’appliquer à cette personne.
+
+**Application d’autres dispositions**
+
+(3) Les dispositions de la présente loi en matière de libération des faillis s’appliquent à la personne physique qui n’a jamais fait faillite sous le régime du droit canadien ou de tout pays prescrit dans la mesure où elles ne sont pas incompatibles avec le présent article, peu importe si elle demande sa libération au titre du paragraphe (2).
+
+**Préavis d’une libération d’office imminente**
+
+(4) Le syndic donne, en la forme prescrite, un préavis d’au moins quinze jours de la libération d’office du failli à ce dernier, au surintendant et à chaque créancier qui a prouvé sa réclamation, à sa dernière adresse connue.
+
+**Effet de la libération**
+
+(5) La libération d’office équivaut à une ordonnance de libération absolue.
+
+**Certificat**
+
+(6) Sans délai après la libération d’office, le syndic délivre au failli libéré un certificat, en la forme prescrite, attestant qu’il est libéré de toutes ses dettes, à l’exception de celles visées au paragraphe 178(1), et en remet un double au surintendant.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 61; 1997, ch. 12, art. 98; 2004, ch. 25, art. 81; 2005, ch. 47, art. 100
+
+</details>
+
+### 168.2 Opposition à la libération d’office
+
+(1) Les dispositions qui suivent s’appliquent à quiconque s’oppose à la libération d’office d’une personne physique en faillite :
+
+- a) s’agissant du surintendant, il donne, en tout temps avant la date où le failli serait normalement libéré d’office, un avis de son opposition, avec motif à l’appui, au syndic et au failli;
+
+- b) s’agissant du créancier, il donne, en tout temps avant cette date, un avis de son opposition, avec motif à l’appui, au surintendant, au syndic et au failli;
+
+- c) s’agissant du syndic, il donne, en tout temps avant cette date, un avis de son opposition en la forme et de la manière prescrites au failli et au surintendant, avec motif à l’appui.
+
+**Demande d’audition de l’opposition**
+
+(2) Sous réserve de la médiation prévue à l’article 170.1, si le surintendant, le syndic ou un créancier s’opposent à la libération d’office de la personne physique en faillite, le syndic doit sans délai demander au tribunal une convocation pour l’audition de l’opposition de la façon prévue aux articles 169 à 176 dans les trente jours suivant la date de convocation ou à telle date postérieure que le tribunal peut fixer à sa requête ou à celle du failli.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 100
+
+</details>
+
+### 169 La mise en faillite opère comme demande de libération
+
+(1) L’établissement d’une ordonnance de faillite contre toute personne, comme la cession de biens — par toute personne autre qu’une personne morale ou une personne physique assujettie au paragraphe 168.1(1) — emporte demande de libération.
+
+**Le syndic doit obtenir une convocation**
+
+(2) Avant de procéder à sa propre libération et au plus tôt trois mois et au plus tard un an après la faillite de la personne visée au paragraphe (1), le syndic doit, sur préavis de cinq jours au failli, demander au tribunal une convocation pour audition de la demande de libération du failli à une date qui ne peut dépasser de plus de trente jours la date de convocation ou à telle autre date que le tribunal peut fixer à sa requête ou à celle du failli.
+
+(3) [Abrogé, 2005, ch. 47, art. 101]
+
+**Personne morale qui a fait faillite**
+
+(4) Une personne morale ne peut demander une libération à moins d’avoir acquitté intégralement les réclamations de ses créanciers.
+
+**Honoraires et débours du syndic**
+
+(5) Le tribunal peut, avant de délivrer une convocation, si le syndic le requiert, exiger que soit déposée auprès de celui-ci telle somme, ou que lui soit fournie telle garantie que le tribunal estime appropriées, pour le paiement de ses honoraires et débours occasionnés par la demande de libération.
+
+**Avis aux créanciers**
+
+(6) Dès qu’il a obtenu une convocation ou qu’il en a reçu l’avis, le syndic, pas moins de quinze jours avant la date fixée pour l’audition de la demande de libération, en communique l’avis, en la forme et de la manière prescrites, au surintendant, au failli et à chaque créancier connu, à sa dernière adresse connue.
+
+**Procédures au cas où le syndic n’est pas libre**
+
+(7) Dans le cas où le syndic n’est pas libre de remplir les fonctions requises d’un syndic lors de la demande de libération d’un failli, le tribunal peut autoriser toute autre personne à remplir ces fonctions et peut donner les instructions qu’il juge nécessaires afin de permettre que soit présentée au tribunal la demande du failli.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 169; 1992, ch. 27, art. 62; 1997, ch. 12, art. 99; 2004, ch. 25, art. 82; 2005, ch. 47, art. 101
+
+</details>
+
+### 170 Le syndic doit préparer un rapport
+
+(1) Dans les circonstances et aux moments prescrits, le syndic prépare un rapport, en la forme prescrite, sur :
+
+- a) les affaires du failli;
+
+- b) les causes de sa faillite;
+
+- c) la manière dont le failli a rempli les obligations à lui imposées sous l’autorité de la présente loi ou dont il a obéi aux ordonnances du tribunal;
+
+- d) sa conduite tant avant qu’après l’ouverture de la faillite;
+
+- e) la question de savoir s’il a été déclaré coupable d’une infraction aux termes de la présente loi;
+
+- f) tout autre fait, incident ou circonstance qui justifierait le tribunal de refuser une ordonnance de libération pure et simple.
+
+Le rapport est accompagné d’une résolution des inspecteurs déclarant s’ils approuvent ou désapprouvent ce rapport, et dans ce dernier cas les motifs de la désapprobation sont mentionnés.
+
+**Production et signification du rapport**
+
+(2) Lorsqu’une demande de libération est pendante, le syndic produit le rapport au tribunal au moins deux jours avant la date fixée pour l’audition de la demande; il en transmet une copie au surintendant, au failli, ainsi qu’aux créanciers qui en ont fait la demande au moins dix jours avant cette date. Dans tous les autres cas, il produit le rapport et en transmet une copie au surintendant avant de procéder à la libération.
+
+**Le surintendant peut fournir un rapport**
+
+(3) Le surintendant peut faire au tribunal tel rapport supplémentaire ou tel autre rapport qu’il juge opportun ou qui, à son avis, devrait être présenté au tribunal relativement à la demande de libération.
+
+**Représentation par avocat**
+
+(4) Le syndic ou tout créancier peut assister à l’audition et se faire entendre personnellement ou se faire représenter par un avocat.
+
+**Preuve à l’audition**
+
+(5) Pour les fins de la demande de libération, le rapport du syndic constitue une preuve des déclarations qui y sont contenues.
+
+**Droit du failli d’objecter aux déclarations du rapport**
+
+(6) Lorsqu’un failli a l’intention de contester une déclaration contenue dans le rapport du syndic, il donne par écrit, à la date ou avant la date fixée pour l’audition de la demande de libération, un avis au syndic en spécifiant les assertions du rapport auxquelles il se propose d’objecter à l’audition.
+
+**Droit des créanciers d’objecter**
+
+(7) Tout créancier, qui a l’intention de s’opposer à la libération d’un failli pour d’autres motifs que ceux que mentionne le rapport du syndic, donne au syndic et au failli, à l’heure ou avant l’heure fixée pour l’audition de la demande de libération, avis de son intention de s’objecter, et déclare les motifs de son opposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 170; 1997, ch. 12, art. 100; 2005, ch. 47, art. 102
+
+</details>
+
+### 170.1 Transmission d’une demande par le syndic
+
+(1) Lorsqu’une opposition fondée uniquement sur les motifs mentionnés aux alinéas 173(1)m) ou n) est déposée par un créancier ou le syndic, ce dernier transmet une demande de médiation, en la forme prescrite, au séquestre officiel dans les cinq jours — ou dans le délai supérieur fixé par le séquestre officiel — suivant la date où la personne physique en faillite aurait été libérée d’office n’eût été l’opposition.
+
+**Procédure**
+
+(2) La procédure de médiation est fixée par les Règles générales.
+
+**Convocation par le tribunal**
+
+(3) En cas d’échec de la médiation ou de manquement du failli aux conditions prévues par l’entente consécutive à la médiation, le syndic demande sans délai au tribunal de fixer une date d’audience à tenir dans les trente jours suivant la date de convocation ou à la date postérieure que le tribunal peut fixer, les dispositions de la présente partie relatives aux demandes de libération s’appliquant avec les adaptations nécessaires.
+
+**Certificat de libération**
+
+(4) Le syndic transmet au failli, dès que celui-ci a rempli les conditions prévues par l’entente consécutive à la médiation, un certificat, en la forme prescrite, attestant qu’il est libéré de toutes ses dettes, à l’exception de celles mentionnées au paragraphe 178(1), et il en remet un double au surintendant.
+
+**Dossier**
+
+(5) Les documents constituant le dossier de médiation font partie des dossiers visés au paragraphe 11.1(2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 101; 2005, ch. 47, art. 103; 2007, ch. 36, art. 100
+
+</details>
+
+### 171 Rapport du syndic
+
+(1) À la demande du surintendant, le syndic, dans les deux mois qui suivent sa nomination ou dans le délai supérieur que peut accorder le surintendant, prépare en la forme prescrite et produit à celui-ci un rapport indiquant les renseignements suivants :
+
+- a) le nom du débiteur et, lorsque le débiteur est une personne morale, les noms et adresses des administrateurs et dirigeants de la personne morale et, le cas échéant, les noms des personnes qui, de l’avis du syndic, contrôlaient véritablement les transactions courantes de la personne morale ou les affaires du débiteur ou qui, de l’avis du syndic, étaient responsables de la majeure partie du passif du débiteur ou sur les instructions de qui, de l’avis du syndic, la majeure partie du passif du débiteur a été contractée;
+
+- b) si, de l’avis du syndic, l’insuffisance de l’actif par rapport au passif du débiteur a été expliquée de façon satisfaisante ou, dans la négative, s’il existe des preuves d’une disparition notable de l’actif qui n’est pas expliquée;
+
+- c) l’opinion à laquelle est parvenu le syndic au sujet des causes probables de la faillite après avoir consulté les inspecteurs et d’autres personnes, la faillite devant être présentée comme le résultat d’une ou de plusieurs des causes probables suivantes :
+  - (i) la malchance,
+  - (ii) l’inexpérience,
+  - (iii) l’incompétence,
+  - (iv) la négligence,
+  - (v) l’expansion excessive,
+  - (vi) la spéculation injustifiée,
+  - (vii) la négligence grossière,
+  - (viii) la fraude,
+  - (ix) toute autre cause probable (à spécifier);
+
+- d) les faits et renseignements sur lesquels le syndic s’est fondé pour parvenir à l’opinion exprimée en conformité avec les alinéas b) et c).
+
+**Rapports aux personnes intéressées**
+
+(2) Un rapport distinct ne renfermant que les renseignements à fournir au surintendant selon les alinéas (1)a) et b) est immédiatement préparé, en la forme prescrite, par le syndic et copie en est adressée, par courrier recommandé ou certifié, dans une enveloppe portant la mention : « personnel et confidentiel », à chacune des personnes nommées en conformité avec les alinéas (1)a) et b) dans le rapport au surintendant.
+
+**Rapport au séquestre officiel**
+
+(3) Le syndic remet le rapport visé au paragraphe (2) au séquestre officiel au plus tôt deux mois et au plus tard trois mois suivant la date de production de son rapport au surintendant.
+
+**Demande au tribunal au sujet du rapport**
+
+(4) Nonobstant le paragraphe (3), lorsque, avant d’avoir produit son rapport au séquestre officiel en conformité avec ce paragraphe, le syndic reçoit, de l’une des personnes nommées en conformité avec les alinéas (1)a) et b) dans le rapport préparé conformément au paragraphe (2), notification d’une copie de demande au tribunal visant à faire modifier de quelque façon le rapport ou à se faire dispenser de satisfaire aux exigences du paragraphe (3), le syndic ne peut produire le rapport en vertu du paragraphe (3) sauf selon les instructions que peut donner le tribunal.
+
+**Modification du rapport au surintendant**
+
+(5) Lorsque le rapport à produire aux termes du paragraphe (3) a été modifié à quelque point de vue sur les instructions du tribunal, le syndic informe le surintendant de toute modification ainsi apportée et le surintendant modifie en conséquence le rapport qui lui est fait par le syndic.
+
+**Décharge de la responsabilité**
+
+(6) Le syndic n’encourt aucune responsabilité pour une déclaration faite, ou une opinion exprimée par lui de bonne foi et émise, ou présentée comme émise, par lui en conformité avec le présent article, et personne n’encourt de responsabilité pour avoir publié ou mentionné des sujets contenus dans le rapport du syndic au séquestre officiel, si la publication ou la mention est faite après la production du rapport au séquestre officiel.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 171; 1992, ch. 1, art. 20, ch. 27, art. 63; 1997, ch. 12, art. 102
+
+</details>
+
+### 172 Le tribunal peut accorder ou refuser la libération
+
+(1) À l’audition de la demande de libération d’un failli autre que celui visé à l’article 172.1, le tribunal peut, selon le cas :
+
+- a) accorder ou refuser une ordonnance de libération absolue;
+
+- b) suspendre l’exécution de l’ordonnance pour une période déterminée;
+
+- c) accorder une ordonnance de libération subordonnée à des conditions relativement à des recettes ou à un revenu pouvant par la suite échoir au failli ou relativement aux biens qu’il a subséquemment acquis.
+
+**Le tribunal peut refuser ou suspendre la libération ou l’accorder conditionnellement**
+
+(2) Sur preuve de l’un des faits mentionnés à l’article 173, laquelle peut être faite oralement sous serment, par affidavit ou autrement, le tribunal, selon le cas :
+
+- a) refuse la libération;
+
+- b) suspend la libération pour la période qu’il juge convenable;
+
+- c) exige du failli, comme condition de sa libération, qu’il accomplisse les actes, paie les montants d’argent, consente aux jugements ou se conforme aux autres conditions que le tribunal peut ordonner.
+
+**Le tribunal peut, après un an, modifier les conditions**
+
+(3) Lorsque, après l’expiration d’une année à compter de la date où une ordonnance est rendue en vertu du présent article, le failli prouve au tribunal qu’il n’existe pas de probabilité raisonnable qu’il soit en état de se conformer aux conditions de cette ordonnance, le tribunal peut modifier les conditions de l’ordonnance, ou de toute ordonnance y substituée, de la manière et aux conditions qu’il estime utiles.
+
+**Pouvoir de suspendre**
+
+(4) Les pouvoirs d’imposer des conditions à la libération du failli ou de la suspendre peuvent être exercés concurremment.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 172; 2005, ch. 47, art. 104; 2007, ch. 36, art. 52 et 101
+
+</details>
+
+### 172.1 Exception — failli ayant une dette fiscale
+
+(1) Dans le cas d’un failli qui a une dette fiscale impayée d’un montant de deux cent mille dollars ou plus représentant soixante-quinze pour cent ou plus de la totalité des réclamations non garanties prouvées, l’audition de la demande de libération ne peut se tenir avant l’expiration :
+
+- a) s’il fait faillite pour la première fois sous le régime du droit canadien ou de tout pays prescrit :
+  - (i) des neuf mois suivant la date de la faillite si, pendant ces neuf mois, il n’a pas été tenu de faire des versements à l’actif de la faillite au titre de l’article 68,
+  - (ii) des vingt et un mois suivant la date de la faillite, dans les autres cas;
+
+- b) s’il a déjà fait faillite une fois sous le régime du droit canadien ou de tout pays prescrit :
+  - (i) des vingt-quatre mois suivant la date de la faillite si, pendant ces vingt-quatre mois, il n’a pas été tenu de faire des versements à l’actif de la faillite au titre de l’article 68,
+  - (ii) des trente-six mois suivant la date de la faillite, dans les autres cas;
+
+- c) dans les autres cas, des trente-six mois suivant la date de la faillite.
+
+**Le syndic doit obtenir une convocation**
+
+(2) Avant de procéder à sa propre libération et avant le premier jour où peut avoir lieu l’audition de la demande de libération du failli visé au paragraphe (1), le syndic doit, sur préavis de cinq jours au failli, demander au tribunal une convocation pour l’audition de cette demande.
+
+**Le tribunal peut refuser ou suspendre la libération ou l’accorder conditionnellement**
+
+(3) Lors de l’audition de la demande de libération, le tribunal, sous réserve du paragraphe (4), selon le cas :
+
+- a) refuse la libération;
+
+- b) suspend la libération pour la période qu’il juge convenable;
+
+- c) exige du failli, comme condition de sa libération, qu’il accomplisse les actes, paie les sommes, consente aux jugements ou se conforme aux autres conditions qu’il peut ordonner.
+
+**Éléments à prendre en considération**
+
+(4) Lorsqu’il rend sa décision sur la demande, le tribunal prend en considération :
+
+- a) la situation du failli au moment où il a contracté la dette fiscale;
+
+- b) les efforts qu’il a déployés pour la rembourser;
+
+- c) les versements qu’il a effectués, le cas échéant, à l’égard d’autres dettes tout en omettant de déployer les efforts voulus pour rembourser sa dette fiscale;
+
+- d) sa situation financière à venir.
+
+**Obligation en cas de suspension de la libération**
+
+(5) S’il ordonne la suspension de la libération du failli, le tribunal précise dans l’ordonnance que celui-ci est tenu, en plus de fournir mensuellement au syndic un état de ses revenus et dépenses, de produire toute déclaration de revenu exigée par la loi.
+
+**Le tribunal peut, après un an, modifier les conditions**
+
+(6) Lorsque, après l’expiration d’une année à compter de la date où une ordonnance est rendue en vertu du présent article, le failli prouve au tribunal qu’il n’existe pas de probabilité raisonnable qu’il soit en état de se conformer aux conditions de cette ordonnance, le tribunal peut modifier ces conditions, ou celles de toute ordonnance qui lui est substituée, de la manière et aux conditions qu’il estime utiles.
+
+**Pouvoir de suspendre**
+
+(7) Le pouvoir d’assujettir la libération du failli à des conditions ou de la suspendre peuvent être exercés concurremment.
+
+**Définition de **dette fiscale****
+
+(8) Au présent article, **dette fiscale** s’entend du montant payable, au sens du paragraphe 223(1) de la *Loi de l’impôt sur le revenu*, compte non tenu des alinéas b) à c), par un particulier et de la somme à payer par un particulier au titre d’une loi provinciale qui prévoit un impôt semblable, de par sa nature, à l’impôt sur le revenu auquel les particuliers sont assujettis en vertu de la *Loi de l’impôt sur le revenu*, y compris le montant des intérêts, sanctions et amendes imposés sous le régime de cette loi et de la loi provinciale. N’est cependant pas visée la somme relative aux obligations d’une personne morale dont un particulier peut être responsable en qualité d’administrateur ou d’ancien administrateur de celle-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 105; 2007, ch. 36, art. 53
+
+</details>
+
+### 173 Faits motivant le refus, la suspension ou l’octroi de la libération sous conditions
+
+(1) Les faits visés à l’article 172 sont les suivants :
+
+- a) la valeur des avoirs du failli n’est pas égale à cinquante cents par dollar de ses obligations non garanties, à moins que celui-ci ne prouve au tribunal que ce fait provient de circonstances dont il ne peut à bon droit être tenu responsable;
+
+- b) le failli a omis de tenir les livres de comptes qui sont ordinairement et régulièrement tenus dans l’exercice de son commerce et qui révèlent suffisamment ses opérations commerciales et sa situation financière au cours de la période allant du premier jour de la troisième année précédant l’ouverture de la faillite jusqu’à la date de la faillite inclusivement;
+
+- c) le failli a continué son commerce après avoir pris connaissance de son insolvabilité;
+
+- d) le failli n’a pas tenu un compte satisfaisant des pertes d’avoirs ou de toute insuffisance d’avoirs pour faire face à ses obligations;
+
+- e) le failli a occasionné sa faillite, ou y a contribué, par des spéculations téméraires et hasardeuses, par une extravagance injustifiable dans son mode de vie, par le jeu ou par négligence coupable à l’égard de ses affaires commerciales;
+
+- f) le failli a occasionné à l’un de ses créanciers des frais inutiles en présentant une défense futile ou vexatoire dans toute action régulièrement intentée contre lui;
+
+- g) le failli a, au cours de la période allant du premier jour du troisième mois précédant l’ouverture de la faillite jusqu’à la date de la faillite inclusivement, subi des frais injustifiables en intentant une action futile ou vexatoire;
+
+- h) le failli a, au cours de la période allant du premier jour du troisième mois précédant l’ouverture de la faillite jusqu’à la date de la faillite inclusivement, alors qu’il ne pouvait pas acquitter ses dettes à leur échéance, accordé une préférence injuste à l’un de ses créanciers;
+
+- i) le failli a, au cours de la période allant du premier jour du troisième mois précédant l’ouverture de la faillite jusqu’à la date de la faillite inclusivement, contracté des obligations en vue de porter ses avoirs à cinquante cents par dollar du montant de ses obligations non garanties;
+
+- j) le failli a, dans une occasion antérieure, été en faillite, ou a fait une proposition à ses créanciers;
+
+- k) le failli s’est rendu coupable de fraude ou d’abus frauduleux de confiance;
+
+- l) le failli a commis une infraction aux termes de la présente loi ou de toute autre loi à l’égard de ses biens, de sa faillite ou des procédures en l’espèce;
+
+- m) le failli n’a pas fait les versements établis en application de l’article 68;
+
+- n) le failli a choisi la faillite et non la proposition comme solution à son endettement, dans le cas où il aurait pu faire une proposition viable;
+
+- o) le failli n’a pas rempli les autres obligations qui lui sont imposées au titre de la présente loi ou n’a pas observé une ordonnance du tribunal.
+
+**Demande de libération faite par un cultivateur**
+
+(2) Les alinéas (1)b) et c) ne s’appliquent pas à une demande de libération présentée par un failli dont la principale activité — et la principale source de revenu — était, à l’ouverture de la faillite, l’agriculture ou la culture du sol.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 173; 1997, ch. 12, art. 103
+
+</details>
+
+### 174 Avoirs d’un failli réputés équivaloir à cinquante cents par dollar
+
+Pour l’application de l’article 173, les avoirs du failli sont réputés être d’une valeur égale à cinquante cents par dollar de la somme de ses obligations non garanties, lorsque le tribunal est convaincu que les biens du failli ont réalisé, réaliseront vraisemblablement ou auraient pu réaliser, si avait été exercée la prudence voulue, un chiffre égal à cinquante cents par dollar de ses obligations non garanties.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 144
+
+</details>
+
+### 175 Le tribunal peut accorder certificat
+
+(1) Une incapacité établie par un texte de loi quelconque, en raison de faillite, cesse lorsque le failli obtient du tribunal sa libération, ainsi qu’un certificat attestant que la faillite provient d’un malheur, sans mauvaise conduite de la part du failli.
+
+**Appel**
+
+(2) Le tribunal peut, s’il le juge à propos, accorder le certificat mentionné au paragraphe (1), et appel peut être interjeté du refus d’accorder ce certificat.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 145
+
+</details>
+
+### 176 Obligation du failli dans le cas de libération sous conditions
+
+(1) Lorsqu’une ordonnance est accordée subordonnément à des conditions, ou sur le consentement du failli à un jugement, le failli doit, jusqu’à ce qu’il ait rempli ces conditions ou satisfait à ce jugement :
+
+- a) fournir au syndic les renseignements que ce dernier peut exiger à l’égard de ses gains et de ses biens et revenus subséquemment acquis;
+
+- b) au moins une fois chaque année, produire au tribunal et au syndic une déclaration attestée sous serment indiquant les détails de tous biens ou revenus qu’il peut avoir acquis subséquemment à sa libération.
+
+Le syndic ou tout créancier peut exiger que le failli se présente pour être interrogé sous serment relativement aux faits contenus dans la déclaration, ou à ses gains, son revenu, ses biens postérieurement acquis ou ses opérations.
+
+**Peine en cas de manquement**
+
+(2) Lorsque le failli ne fournit pas les renseignements ou ne produit pas la déclaration qu’exige le paragraphe (1), ne se présente pas à l’examen lorsqu’il en est requis ou ne répond pas pleinement et exactement à toutes les questions qui se rapportent à ses gains, son revenu, ses biens postérieurement acquis ou ses opérations, le tribunal peut, à la demande du syndic ou d’un créancier, annuler l’ordonnance de libération.
+
+**Le syndic doit distribuer les fonds payables aux termes d’une libération conditionnelle**
+
+(3) Lorsqu’une ordonnance conditionnelle de libération d’un failli est rendue prescrivant que ce dernier paie un dividende ou une somme d’argent supplémentaire, tout versement à valoir sur ce dividende ou cette somme est fait au syndic pour distribution aux créanciers.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 146
+
+</details>
+
+### 177
+
+[Abrogé, 2000, ch. 12, art. 17]
+
+### 178 L’ordonnance de libération ne libère pas des dettes
+
+(1) Une ordonnance de libération ne libère pas le failli :
+
+- a) de toute amende, pénalité, ordonnance de restitution ou toute ordonnance similaire infligée ou rendue par un tribunal, ou de toute autre dette provenant d’un engagement ou d’un cautionnement en matière pénale;
+
+- a.1) de toute indemnité accordée en justice dans une affaire civile :
+  - (i) pour des lésions corporelles causées intentionnellement ou pour agression sexuelle,
+  - (ii) pour décès découlant de celles-ci;
+
+- b) de toute dette ou obligation pour pension alimentaire;
+
+- c) de toute dette ou obligation aux termes de la décision d’un tribunal en matière de filiation ou d’aliments ou aux termes d’une entente alimentaire au profit d’un époux, d’un ex-époux ou ancien conjoint de fait ou d’un enfant vivant séparé du failli;
+
+- d) de toute dette ou obligation résultant de la fraude, du détournement, de la concussion ou de l’abus de confiance alors qu’il agissait, dans la province de Québec, à titre de fiduciaire ou d’administrateur du bien d’autrui ou, dans les autres provinces, à titre de fiduciaire;
+
+- e) de toute dette ou obligation résultant de l’obtention de biens ou de services par des faux-semblants ou la présentation erronée et frauduleuse des faits, autre qu’une dette ou obligation qui découle d’une réclamation relative à des capitaux propres;
+
+- f) de l’obligation visant le dividende qu’un créancier aurait eu droit de recevoir sur toute réclamation prouvable non révélée au syndic, à moins que ce créancier n’ait été averti ou n’ait eu connaissance de la faillite et n’ait omis de prendre les mesures raisonnables pour prouver sa réclamation;
+
+- g) de toute dette ou obligation découlant d’un prêt consenti ou garanti au titre de la *Loi fédérale sur les prêts aux étudiants*, de la *Loi fédérale sur l’aide financière aux étudiants* ou de toute loi provinciale relative aux prêts aux étudiants lorsque la faillite est survenue avant la date à laquelle le failli a cessé d’être un étudiant, à temps plein ou à temps partiel, au regard de la loi applicable, ou dans les sept ans suivant cette date;
+
+- g.1) de toute dette ou obligation découlant d’un prêt octroyé au titre de la *Loi sur les prêts aux apprentis* lorsque la faillite est survenue avant la date à laquelle le failli a cessé, au regard de cette loi, d’être un apprenti admissible, au sens de cette loi, ou dans les sept ans suivant cette date;
+
+- h) de toute dette relative aux intérêts dus à l’égard d’une somme visée à l’un des alinéas a) à g.1).
+
+**Ordonnance de non-application du paragraphe (1)**
+
+(1.1) Lorsque le failli qui a une dette visée aux alinéas (1)g) ou g.1) n’est plus un étudiant à temps plein ou à temps partiel ou un apprenti admissible, selon le cas, depuis au moins cinq ans au regard de la loi applicable, le tribunal peut, sur demande, ordonner que la dette soit soustraite à l’application du paragraphe (1) s’il est convaincu que le failli a agi de bonne foi relativement à ses obligations découlant de cette dette et qu’il a et continuera à avoir des difficultés financières telles qu’il ne pourra pas acquitter celle-ci.
+
+**Réclamations libérées**
+
+(2) Une ordonnance de libération libère le failli de toutes autres réclamations prouvables en matière de faillite.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 178; L.R. (1985), ch. 3 (2^e^ suppl.), art. 28; 1992, ch. 27, art. 64; 1997, ch. 12, art. 105; 1998, ch. 21, art. 103; 2000, ch. 12, art. 18; 2001, ch. 4, art. 32; 2004, ch. 25, art. 83; 2005, ch. 47, art. 107; 2007, ch. 36, art. 54; 2014, ch. 20, art. 484
+
+</details>
+
+### 179 Un associé n’est pas libéré
+
+Une ordonnance de libération ne libère pas une personne qui, au moment de la faillite, était un associé du failli ou cofiduciaire avec le failli, ou était conjointement liée ou avait passé un contrat en commun avec lui, ou une personne qui était caution ou semblait être une caution pour lui.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 179; 2004, ch. 25, art. 84(F); 2005, ch. 47, art. 108(A)
+
+</details>
+
+### 180 Le tribunal peut annuler la libération
+
+(1) Lorsqu’un failli, après sa libération, ne remplit pas les obligations que lui impose la présente loi, le tribunal peut, sur demande, annuler sa libération.
+
+**Annulation de la libération obtenue par fraude**
+
+(2) Lorsque le tribunal juge que la libération du failli a été obtenue par fraude, il peut, sur demande, annuler sa libération.
+
+**Effet de l’annulation de la libération**
+
+(3) Une ordonnance révoquant ou annulant la libération d’un failli ne porte pas atteinte à la validité de toute vente, de toute disposition de biens, de tout paiement effectué ou de toute chose dûment faite avant la révocation ou l’annulation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 180; 2004, ch. 25, art. 85(F)
+
+</details>
+
+### 181 Pouvoir du tribunal d’annuler la faillite
+
+(1) Lorsque le tribunal est d’avis qu’une ordonnance de faillite n’aurait pas dû être rendue, ou une cession produite, il peut rendre une ordonnance qui annule la faillite.
+
+**Effet d’annulation de la faillite**
+
+(2) Lorsqu’une ordonnance est rendue en vertu du paragraphe (1), toutes les ventes et dispositions de biens, tous les paiements dûment effectués et tous les actes faits antérieurement par le syndic, par une autre personne agissant sous son autorité ou par le tribunal sont valides; mais les biens du failli sont dévolus à la personne que le tribunal peut nommer, ou, à défaut de cette nomination, retournent au failli pour tout droit, domaine ou intérêt du syndic, aux conditions, s’il en est, que le tribunal peut ordonner.
+
+**État définitif des recettes et des débours**
+
+(3) Malgré l’annulation de la faillite, le syndic prépare sans délai l’état définitif des recettes et des débours visé à l’article 151.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 181; 2004, ch. 25, art. 86; 2005, ch. 47, art. 109
+
+</details>
+
+### 182 Suspension de l’émission de l’ordonnance
+
+(1) L’ordonnance de libération ou d’annulation porte la date à laquelle elle est rendue, mais ne peut être émise ou délivrée avant l’expiration du délai accordé pour un appel ni, si appel est interjeté, avant que l’appel ait été finalement jugé.
+
+(2) [Abrogé, 1992, ch. 27, art. 65]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 182; 1992, ch. 27, art. 65
+
+</details>
+
+## Tribunaux et procédure
+
+### Compétence des tribunaux
+
+### 183 Tribunaux compétents
+
+(1) Les tribunaux suivants possèdent la compétence en droit et en equity qui doit leur permettre d’exercer la juridiction de première instance, auxiliaire et subordonnée en matière de faillite et en d’autres procédures autorisées par la présente loi durant leurs termes respectifs, tels que ces termes sont maintenant ou peuvent par la suite être tenus, pendant une vacance judiciaire et en chambre :
+
+- a) dans la province d’Ontario, la Cour supérieure de justice;
+
+- b) [Abrogé, 2001, ch. 4, art. 33]
+
+- c) dans les provinces de la Nouvelle-Écosse et de la Colombie-Britannique, la Cour suprême;
+
+- d) dans les provinces du Nouveau-Brunswick et d’Alberta, la Cour du Banc de la Reine;
+
+- e) dans la province de l’Île-du-Prince-Édouard, la Cour suprême;
+
+- f) dans les provinces du Manitoba et de la Saskatchewan, la Cour du Banc de la Reine;
+
+- g) dans la province de Terre-Neuve-et-Labrador, la Division de première instance de la Cour suprême;
+
+- h) au Yukon, la Cour suprême du Yukon, dans les Territoires du Nord-Ouest, la Cour suprême des Territoires du Nord-Ouest et, au Nunavut, la Cour de justice du Nunavut.
+
+**Compétence de la Cour supérieure de la province de Québec**
+
+(1.1) Dans la province de Québec, la Cour supérieure possède la compétence pour exercer la juridiction de première instance, auxiliaire et subordonnée en matière de faillite et en d’autres procédures autorisées par la présente loi durant son terme, tel que celui-ci est maintenant ou peut par la suite être tenu, pendant une vacance judiciaire et en chambre.
+
+**Cours d’appel — provinces de common law**
+
+(2) Sous réserve du paragraphe (2.1), les cours d’appel du Canada, dans les limites de leur compétence respective, sont, en droit et en equity, conformément à leur procédure ordinaire, sauf divergences prévues par la présente loi ou par les Règles générales, investies de la compétence d’entendre et de juger les appels interjetés des tribunaux exerçant juridiction de première instance en vertu de la présente loi.
+
+**Cour d’appel de la province de Québec**
+
+(2.1) Dans la province de Québec, la Cour d’appel, dans les limites de sa compétence, est, conformément à sa procédure ordinaire, sauf divergences prévues par la présente loi ou par les Règles générales, investie de la compétence d’entendre et de juger les appels interjetés de la Cour supérieure.
+
+**Cour suprême du Canada**
+
+(3) La Cour suprême du Canada a compétence pour entendre et décider, suivant sa procédure ordinaire, tout appel ainsi autorisé et pour adjuger les frais.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 183; L.R. (1985), ch. 27 (2^e^ suppl.), art. 10; 1990, ch. 17, art. 3; 1998, ch. 30, art. 14; 1999, ch. 3, art. 15; 2001, ch. 4, art. 33; 2002, ch. 7, art. 83; 2015, ch. 3, art. 9
+
+</details>
+
+### 184 Nomination de registraires, etc.
+
+Chacune des personnes énumérées ci-dessous procède aux nominations et affectations de registraires, commis et autres fonctionnaires en matière de faillite qu’elle juge utiles pour l’expédition des questions au sujet desquelles la présente loi accorde compétence ou pouvoir, et peut spécifier ou restreindre la compétence territoriale de ces registraires, commis ou autres fonctionnaires :
+
+- a) le juge en chef du tribunal;
+
+- b) dans la province de Québec, le juge en chef ou le juge en chef adjoint du district pour lequel il a été nommé;
+
+- c) au Yukon, le commissaire du Yukon;
+
+- d) dans les Territoires du Nord-Ouest, le commissaire des Territoires du Nord-Ouest;
+
+- e) dans le territoire du Nunavut, le commissaire du Nunavut.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 184; 1993, ch. 28, art. 78; 2002, ch. 7, art. 84
+
+</details>
+
+### 185 Désignation, par le juge en chef, de juges pour siéger en faillite
+
+(1) Le juge en chef du tribunal, ou, dans la province de Québec, le juge en chef ou le juge en chef adjoint dans le district où il a été nommé, peut, si à son avis il l’estime convenable ou nécessaire pour la bonne application de la présente loi, nommer ou désigner un ou plusieurs des juges du tribunal aux fins d’exercer les pouvoirs judiciaires et la juridiction que confère la présente loi et qui peuvent être exercés par un seul juge; le jugement, la décision ou l’ordonnance d’un pareil juge ainsi nommé ou désigné est réputé le jugement, la décision ou l’ordonnance du tribunal; dans la présente loi, toute mention relative au tribunal s’applique à pareil juge exerçant ainsi les pouvoirs et la juridiction du tribunal.
+
+**Aucune diminution de pouvoirs**
+
+(2) Le présent article n’a pas pour effet de diminuer ou d’atteindre les pouvoirs ou la juridiction du tribunal ou de l’un de ses juges qui n’a pas été ainsi spécialement nommé ou désigné.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 155
+
+</details>
+
+### 186 Exercice du pouvoir par des juges d’autres tribunaux sur nomination par le ministre
+
+Le ministre peut, s’il l’estime convenable ou nécessaire pour la bonne application de la présente loi, autoriser un juge de district, de comté ou autre juge à exercer, en tout ou en partie, les pouvoirs et la juridiction du tribunal, ou d’un juge ou registraire du tribunal, sous réserve de toute restriction ou condition; tout juge ainsi autorisé est réputé un juge ou un registraire, selon le cas, du tribunal exerçant juridiction en matière de faillite; lorsque mention est faite du tribunal, du juge du tribunal ou du registraire, cette mention s’applique à ce juge de district, de comté ou autre, dans la mesure de son autorité.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 156
+
+</details>
+
+### Autorité des tribunaux
+
+### 187 Sceau du tribunal
+
+(1) Tout tribunal doit avoir un sceau le désignant; le sceau et la signature du juge ou du registraire de ce tribunal sont admis d’office dans toutes les procédures judiciaires.
+
+**Les tribunaux ne sont soumis à aucune restriction**
+
+(2) Dans l’exercice des pouvoirs que leur confère la présente loi, les tribunaux ne sont soumis à aucune restriction provenant d’une ordonnance d’un autre tribunal.
+
+**Pouvoir du juge en chambre**
+
+(3) Sous réserve des autres dispositions de la présente loi et des Règles générales, le juge d’un tribunal peut exercer en chambre la totalité ou partie de sa juridiction.
+
+**Sessions périodiques**
+
+(4) Des sessions périodiques pour l’expédition des affaires des tribunaux sont tenues aux dates, heures, lieux et intervalles que prescrit chacun de ces tribunaux.
+
+**Le tribunal peut réviser, etc.**
+
+(5) Tout tribunal peut réviser, rescinder ou modifier toute ordonnance qu’il a rendue en vertu de sa juridiction en matière de faillite.
+
+**Exécution d’ordonnances**
+
+(6) Toute ordonnance du tribunal peut être exécutée comme si elle était un jugement du tribunal.
+
+**Renvoi dans une autre division**
+
+(7) Sur preuve satisfaisante que les affaires du failli peuvent être administrées d’une manière plus économique dans un autre district ou dans une autre division de faillite, ou pour un autre motif suffisant, le tribunal peut, par ordonnance, renvoyer des procédures, que prévoit la présente loi et qui sont pendantes devant lui, à un autre district ou à une autre division de faillite.
+
+**Instruction des causes, etc.**
+
+(8) Le tribunal peut ordonner l’instruction de tout litige ou la tenue de toute enquête par un juge ou fonctionnaire d’un des tribunaux de la province, et la décision de ce juge ou de ce fonctionnaire est sujette à appel devant un juge en matière de faillite, à moins que le juge ne soit juge d’une cour supérieure, alors que l’appel doit, sous réserve de l’article 193, être interjeté devant la Cour d’appel.
+
+**Un vice de forme n’invalide pas les procédures**
+
+(9) Un vice de forme ou une irrégularité n’invalide pas des procédures en faillite, à moins que le tribunal devant lequel est présentée une opposition à la procédure ne soit d’avis qu’une injustice grave a été causée par ce vice ou cette irrégularité, et qu’une ordonnance de ce tribunal ne puisse remédier à cette injustice.
+
+**Procédures prises erronément devant un tribunal**
+
+(10) Le présent article n’a pas pour effet d’invalider des procédures pour le motif qu’elles ont été intentées, prises ou continuées devant un tribunal incompétent; mais le tribunal peut, à tout moment, renvoyer les procédures au tribunal compétent.
+
+**Le tribunal peut prolonger le délai**
+
+(11) Lorsque la présente loi restreint le délai fixé pour accomplir une action ou chose, le tribunal peut prolonger ce délai, avant ou après son expiration, aux termes, s’il en est, qu’il estime utile d’imposer.
+
+**Le tribunal peut dispenser de certaines exigences concernant les avis**
+
+(12) Lorsque, de l’avis du tribunal, les frais qu’entraîne la préparation de déclarations, de listes de créanciers ou d’autres documents dont la présente loi exige l’expédition avec les avis aux créanciers, ou lorsque les frais d’envoi de pareils documents ou avis ne sont pas justifiables dans les circonstances, le tribunal peut permettre d’omettre ces documents ou d’en omettre une partie ou d’expédier les documents ou avis de la façon qu’il estime indiquée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 187; 1992, ch. 1, art. 20, ch. 27, art. 66; 2004, ch. 25, art. 87
+
+</details>
+
+### 188 Exécution d’ordonnances rendues par d’autres tribunaux
+
+(1) Une ordonnance rendue par le tribunal, sous le régime de la présente loi, est exécutée dans les tribunaux ayant juridiction en matière de faillite ailleurs au Canada, de la même manière, à tous les égards, que si l’ordonnance avait été rendue par le tribunal tenu par les présentes de l’exécuter.
+
+**Les tribunaux doivent s’entraider**
+
+(2) Tous les tribunaux, ainsi que les fonctionnaires de ces tribunaux, doivent s’entraider et se faire les auxiliaires les uns des autres en toutes matières de faillite; une ordonnance d’un tribunal demandant de l’aide, accompagnée d’une requête à un autre tribunal, est censée suffisante pour permettre au dernier tribunal d’exercer, en ce qui concerne les affaires prescrites par l’ordonnance, la juridiction que le tribunal qui a présenté la requête ou le tribunal à qui la requête a été présentée, pourrait exercer relativement à des affaires semblables dans sa juridiction.
+
+**Exécution de mandats**
+
+(3) Un mandat d’un tribunal peut être exécuté partout au Canada de la même manière et sous réserve des mêmes privilèges qu’un mandat, délivré par un juge de paix en vertu du *Code criminel* ou en conformité avec celui-ci, peut être exécuté contre une personne accusée d’un acte criminel.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 158
+
+</details>
+
+### 189 Mandat de perquisition
+
+(1) Sur demande ex parte du syndic ou du séquestre provisoire, le tribunal peut, s’il est convaincu, sur la foi d’une dénonciation sous serment, qu’il y a des motifs raisonnables de croire à la présence de biens du failli en un endroit quelconque, délivrer un mandat l’autorisant, sous réserve des conditions éventuellement fixées, à y perquisitionner et à y saisir les biens du failli.
+
+**Usage de la force**
+
+(1.1) Le syndic ou le séquestre provisoire ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
+
+**Incarcération**
+
+(2) Lorsque le tribunal fait incarcérer quelqu’un, l’incarcération peut s’opérer dans telle prison convenable que le tribunal juge appropriée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 189; L.R. (1985), ch. 31 (1^er^ suppl.), art. 28
+
+</details>
+
+### 190 Preuve des procédures en matière de faillite
+
+(1) Est admissible en preuve, en toutes procédures judiciaires, un document établi ou employé au cours de procédures en matière de faillite ou d’autres procédures intentées en vertu de la présente loi, si le sceau d’un tribunal ayant juridiction en matière de faillite paraît y avoir été apposé, si le juge d’un tel tribunal paraît l’avoir signé ou si un registraire d’un tel tribunal a certifié que ce document est une copie conforme.
+
+**Preuve documentaire**
+
+(2) La production d’un document original relatif à des procédures en matière de faillite, ou d’une copie certifiée par la personne qui l’a tirée comme étant une copie conforme, ou par un successeur en fonctions d’une telle personne, comme étant une copie conforme d’un document trouvé dans les archives dont il a la garde ou la possession, constitue la preuve du contenu de ces documents.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 160
+
+</details>
+
+### 191 Décès du failli, d’un témoin, etc.
+
+En cas de décès du failli, de l’époux ou conjoint de fait d’un failli ou d’un témoin dont la déposition a été reçue par un tribunal dans des procédures intentées sous le régime de la présente loi, la déposition de la personne ainsi décédée, paraissant avoir été scellée du sceau du tribunal, ou une copie de cette déposition paraissant avoir été ainsi scellée, est admissible comme preuve des dépositions qui y sont faites.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 191; L.R. (1985), ch. 31 (1^er^ suppl.), art. 76(A); 2000, ch. 12, art. 19
+
+</details>
+
+### Pouvoirs du registraire
+
+### 192 Pouvoirs du registraire
+
+(1) Les registraires des divers tribunaux possèdent les pouvoirs et la juridiction, sans restriction des pouvoirs que confèrent autrement la présente loi ou les Règles générales :
+
+- a) d’entendre des requêtes en faillite et de rendre des ordonnances de faillite, lorsqu’elles ne sont pas contestées;
+
+- b) d’interroger des faillis ou d’autres personnes;
+
+- c) de rendre les ordonnances de libération;
+
+- d) d’approuver des propositions concordataires, lorsqu’elles ne sont pas contestées;
+
+- e) de rendre des ordonnances provisoires dans les cas d’urgence;
+
+- f) d’entendre et de décider toute demande non contestée ou ex parte;
+
+- g) de sommer et d’interroger le failli ou toute personne connue comme ayant en sa possession ou soupçonnée d’avoir en sa possession des biens du failli ou de lui être endettée, ou d’être en état de donner des renseignements concernant le failli, ses opérations ou ses biens;
+
+- h) d’entendre et de décider les demandes relatives à des preuves de réclamations, qu’elles soient contestées ou non;
+
+- i) de taxer ou de fixer les frais, et d’approuver les comptes;
+
+- j) d’entendre et de décider une affaire avec le consentement de toutes les parties;
+
+- k) d’entendre et de décider toute question se rapportant à la pratique et à la procédure des tribunaux;
+
+- l) de régler et de signer toutes ordonnances et jugements des tribunaux qu’un juge n’a pas réglés ou signés, et d’émettre toutes ordonnances, tous jugements, mandats ou autres procédures des tribunaux;
+
+- m) d’exercer toutes les fonctions administratives nécessaires relativement à la pratique et à la procédure devant les tribunaux;
+
+- n) d’entendre et de décider les appels de la décision d’un syndic accordant ou refusant une réclamation.
+
+**Peuvent être exercés par un juge**
+
+(2) Les pouvoirs et la juridiction, conférés à un registraire par le présent article ou autrement, peuvent être exercés par un juge.
+
+**Mandat de dépôt**
+
+(3) Un registraire n’a pas le pouvoir de délivrer un mandat de dépôt pour outrage au tribunal.
+
+**Appel du registraire**
+
+(4) Toute personne mécontente d’une ordonnance ou d’une décision du registraire peut en interjeter appel à un juge.
+
+**Ordonnance du registraire**
+
+(5) Toute ordonnance rendue ou tout acte fait par un registraire dans l’exercice de ses pouvoirs et de sa juridiction est réputé être une ordonnance ou un acte du tribunal.
+
+**Renvoi à un juge par un registraire**
+
+(6) Un registraire peut renvoyer toute affaire qui relève ordinairement de sa compétence à un juge pour qu’il en dispose.
+
+**Renvoi à un juge**
+
+(7) Un juge peut ordonner que toute affaire devant un registraire soit portée devant le juge pour audition et décision.
+
+**Peuvent agir l’un pour l’autre**
+
+(8) Tout registraire en matière de faillite peut agir pour tout autre registraire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 192; 1992, ch. 27, art. 67; 2004, ch. 25, art. 88
+
+</details>
+
+### Appels
+
+### 193 Cour d’appel
+
+Sauf disposition expressément contraire, appel est recevable à la Cour d’appel de toute ordonnance ou décision d’un juge du tribunal dans les cas suivants :
+
+- a) le point en litige concerne des droits futurs;
+
+- b) l’ordonnance ou la décision influera vraisemblablement sur d’autres causes de nature semblable en matière de faillite;
+
+- c) les biens en question dans l’appel dépassent en valeur la somme de dix mille dollars;
+
+- d) la libération est accordée ou refusée, lorsque la totalité des réclamations non acquittées des créanciers dépasse cinq cents dollars;
+
+- e) dans tout autre cas, avec la permission d’un juge de la Cour d’appel.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 193; 1992, ch. 27, art. 68
+
+</details>
+
+### 194 Cour suprême du Canada
+
+La décision de la Cour d’appel sur tout appel est définitive et sans appel, sauf autorisation spéciale, accordée par la Cour suprême du Canada, d’en appeler à ce tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 164; S.R., ch. 44(1^er^ suppl.), art. 10
+
+</details>
+
+### 195 Suspension d’instance sur un appel
+
+Sauf dans la mesure où le jugement dont il est interjeté appel est sujet à exécution provisoire malgré l’appel, toutes les procédures exercées en vertu d’une ordonnance ou d’un jugement dont il est appelé sont suspendues jusqu’à ce qu’il soit disposé de l’appel; mais la Cour d’appel, ou un juge de ce tribunal, peut modifier ou annuler la suspension ou l’ordonnance d’exécution provisoire s’il apparaît que l’appel n’est pas poursuivi avec diligence, ou pour toute autre raison qui peut être jugée convenable.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 195; 1992, ch. 27, art. 69
+
+</details>
+
+### 196 Aucune suspension de procédures, à moins d’ordonnance
+
+Un appel à la Cour suprême du Canada ne peut avoir pour effet de suspendre les procédures, sauf dans la mesure où celle-ci l’ordonne.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 166; S.R., ch. 44(1^er^ suppl.), art. 10
+
+</details>
+
+### Frais judiciaires
+
+### 197 Frais à la discrétion du tribunal
+
+(1) Sous réserve des autres dispositions de la présente loi et des Règles générales, les frais de toutes procédures judiciaires intentées sous le régime de la présente loi, ou les frais s’y rapportant, sont laissés à la discrétion du tribunal.
+
+**Adjudication des frais**
+
+(2) En adjugeant les frais, le tribunal peut ordonner qu’ils soient taxés et soldés entre les parties ou entre l’avocat et le client, ou le tribunal peut fixer une somme à payer au lieu de taxation ou de frais taxés; mais, à défaut d’indication expresse, les frais découleront de l’issue de l’instance et seront taxés entre les parties.
+
+**Responsabilité personnelle d’un syndic quant aux frais**
+
+(3) Lorsqu’une action ou des procédures sont exercées par un syndic ou contre un syndic, ou lorsqu’un syndic devient partie à une action ou à des procédures, soit à sa propre demande ou à la demande de toute autre partie à l’instance, il n’est pas personnellement responsable des frais, à moins que le tribunal n’en décide autrement.
+
+**Quand les frais sont payables**
+
+(4) Il ne peut être payé aucuns frais sur l’actif du failli, sauf les frais de personnes dont les services ont été par écrit autorisés par le syndic et les frais que le tribunal a adjugés contre le syndic ou sur l’actif du failli.
+
+(5) [Abrogé, 2005, ch. 47, art. 110]
+
+**Priorité des frais judiciaires**
+
+(6) Les frais judiciaires sont acquittés dans l’ordre de priorité suivant :
+
+- a) commissions sur perceptions qui constituent une réclamation de premier rang sur toute somme perçue;
+
+- b) lorsqu’ils ont été régulièrement autorisés par le tribunal ou approuvés par les créanciers ou les inspecteurs, frais subis par le syndic après la faillite et avant la première assemblée des créanciers;
+
+- c) frais de cession ou frais supportés par un créancier requérant jusqu’au prononcé d’une ordonnance de faillite;
+
+- d) frais adjugés contre le syndic ou sur l’actif du failli;
+
+- e) frais pour services légaux rendus d’autre manière au syndic ou relativement à l’actif.
+
+**Frais en cas d’opposition à la libération**
+
+(6.1) Si un créancier s’oppose à la libération d’un failli qui est, en conséquence, libéré sous condition, le tribunal peut, s’il l’estime indiqué, adjuger au créancier des frais de justice et autres, à concurrence des sommes versées à l’actif au titre de l’ordonnance de libération conditionnelle ou d’un consentement à jugement visant le failli.
+
+**Frais en cas d’opposition futile ou vexatoire**
+
+(7) Si le tribunal conclut que l’opposition d’un créancier à la libération est futile ou vexatoire, il peut, s’il l’estime indiqué, adjuger à l’actif contre le créancier les frais de justice et autres.
+
+(8) [Abrogé, 2005, ch. 47, art. 110]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 197; 1997, ch. 12, art. 106; 2004, ch. 25, art. 89; 2005, ch. 47, art. 110
+
+</details>
+
+## Infractions
+
+### 198 Infractions en matière de faillite
+
+(1) Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal de un an, ou l’une de ces peines, ou, par mise en accusation, une amende maximale de dix mille dollars et un emprisonnement maximal de trois ans, ou l’une de ces peines, tout failli qui, selon le cas :
+
+- a) dispose d’une façon frauduleuse de ses biens avant ou après l’ouverture de la faillite;
+
+- b) refuse ou néglige de répondre complètement et véridiquement à toutes les questions qui lui sont posées à bon droit au cours d’un interrogatoire tenu conformément à la présente loi;
+
+- c) fait une fausse inscription ou commet sciemment une omission importante dans un état ou un compte;
+
+- d) après l’ouverture de la faillite, ou dans l’année précédant l’ouverture de la faillite, cache, détruit, mutile ou falsifie un livre ou document se rapportant à ses biens ou affaires, en dispose ou y fait une omission, ou participe à ces actes, à moins qu’il n’ait eu aucunement l’intention de cacher l’état de ses affaires;
+
+- e) après l’ouverture de la faillite, ou dans l’année précédant l’ouverture de la faillite, obtient tout crédit ou tout bien au moyen de fausses représentations faites par lui ou par toute autre personne à sa connaissance;
+
+- f) après l’ouverture de la faillite, ou dans l’année précédant l’ouverture de la faillite, cache ou transporte frauduleusement tout bien d’une valeur de cinquante dollars ou plus, ou une créance ou dette;
+
+- g) après l’ouverture de la faillite, ou dans l’année précédant l’ouverture de la faillite, hypothèque ou met en gage ou nantit tout bien qu’il a obtenu à crédit et qu’il n’a pas payé, ou en dispose, à moins que, dans le cas d’un commerçant, l’acte ne soit effectué selon les pratiques ordinaires du commerce et à moins qu’il n’ait eu aucunement l’intention de frauder.
+
+**Manquement aux obligations**
+
+(2) Le failli qui, sans motif raisonnable, ne se conforme pas à une ordonnance rendue en application de l’article 68 ou omet de remplir une obligation imposée par l’article 158 commet une infraction et encourt, sur déclaration de culpabilité :
+
+- a) par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal de un an, ou l’une de ces peines;
+
+- b) par mise en accusation, une amende maximale de dix mille dollars et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 198; 1992, ch. 27, art. 71; 1997, ch. 12, art. 107; 2004, ch. 25, art. 90(F)
+
+</details>
+
+### 199 Failli non libéré qui ne se déclare pas tel
+
+Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines, le failli non libéré qui, selon le cas :
+
+- a) entreprend un commerce ou un négoce sans révéler, à toutes les personnes avec qui il conclut des affaires, qu’il est un failli non libéré;
+
+- b) obtient du crédit de toutes personnes, pour un montant total de mille dollars ou plus, sans les informer qu’il est un failli non libéré.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 199; 1992, ch. 27, art. 72; 2005, ch. 47, art. 111
+
+</details>
+
+### 200 Failli qui ne tient pas des livres de comptabilité appropriés
+
+(1) Toute personne devenant en faillite ou présentant une proposition, qui, dans une occasion antérieure, a été en faillite ou a présenté une proposition à ses créanciers, commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal d’un an ou l’une de ces peines, dans les cas suivants :
+
+- a) se livrant à un commerce ou à une entreprise, au cours de la période allant du premier jour de la deuxième année précédant l’ouverture de la faillite jusqu’à la date de la faillite inclusivement, elle n’a pas tenu ni conservé des livres de comptabilité appropriés;
+
+- b) pendant la même période, elle cache, détruit, mutile ou falsifie un livre ou document se rapportant à ses biens ou à ses affaires, ou en dispose, ou participe à ces actes, à moins qu’elle n’ait eu aucunement l’intention de cacher l’état de ses affaires.
+
+**Définition de **livres de comptabilité appropriés****
+
+(2) Pour l’application du présent article, un débiteur est réputé ne pas avoir tenu des livres de comptabilité appropriés s’il n’a pas tenu les livres ou comptes qui sont nécessaires pour montrer ou expliquer ses opérations et sa situation financière dans son commerce ou son entreprise, y compris un ou des livres renfermant des inscriptions au jour le jour et suffisamment détaillées de tous les encaissements et décaissements, et, lorsque le commerce ou l’entreprise a comporté la vente et l’achat de marchandises, les comptes de toutes les marchandises vendues et achetées, et des états des inventaires annuels et autres.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 200; 1992, ch. 27, art. 73; 1997, ch. 12, art. 108; 2004, ch. 25, art. 91(F)
+
+</details>
+
+### 201 Fausse réclamation
+
+(1) Lorsque, dans une procédure sous le régime de la présente loi, un créancier ou toute personne prétendant être un créancier fait, volontairement et avec l’intention de frauder, une fausse réclamation ou une preuve, déclaration ou un état de compte qui est faux dans un détail important, ce créancier ou cette personne commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines.
+
+**Inspecteurs qui acceptent des honoraires illégaux**
+
+(2) Lorsqu’un inspecteur accepte du failli ou de toute personne, firme ou personne morale agissant en son nom, ou du syndic, des honoraires, commissions ou émoluments quelconques, autres que les honoraires réguliers que la présente loi prévoit ou en supplément de tels honoraires, il commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines.
+
+**Opérations illégales**
+
+(3) Lorsque le failli conclut une opération avec une autre personne aux fins d’obtenir un bénéfice ou un avantage auquel ni l’un ni l’autre d’entre eux n’aurait droit, il commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 201; 1992, ch. 27, art. 74
+
+</details>
+
+### 202 Autres infractions
+
+(1) Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines, quiconque, selon le cas :
+
+- a) n’étant pas un syndic autorisé, accomplit un acte à titre de syndic autorisé ou se fait passer pour tel;
+
+- b) étant un syndic, soit avant d’avoir fourni la garantie requise par le paragraphe 16(1), soit après l’avoir fournie, mais pendant que cette garantie n’est pas en vigueur, agit en qualité de syndic ou exerce tout pouvoir d’un syndic;
+
+- c) ayant été nommé syndic, omet, avec l’intention de frauder, d’observer l’une des dispositions de la présente loi, ou de s’y conformer, ou omet de faire, d’observer ou d’exécuter régulièrement tout acte ou fonction que le tribunal peut lui enjoindre de faire, d’observer ou d’exécuter, conformément à la présente loi;
+
+- d) ayant été nommé syndic, omet, sans excuse raisonnable, d’observer l’une des dispositions de la présente loi, ou de s’y conformer, ou omet de faire, d’observer ou d’exécuter régulièrement tout acte ou fonction que le tribunal peut lui enjoindre de faire, d’observer ou d’exécuter, conformément à la présente loi;
+
+- e) ayant été nommé syndic d’un actif, et un autre syndic ayant été nommé à sa place, ne remet pas au syndic substitué, sur demande, tous les biens non administrés de cet actif, ainsi que les livres, registres et documents de cet actif et de son administration;
+
+- f) directement ou indirectement sollicite ou invite une personne à faire une cession ou une proposition prévue par la présente loi, ou à demander par voie de requête une ordonnance de faillite;
+
+- g) étant un syndic, directement ou indirectement brigue des procurations pour voter à une assemblée de créanciers;
+
+- h) étant un syndic, conclut un arrangement dans des circonstances quelconques avec le failli ou avec un conseiller juridique, un commissaire-priseur ou une autre personne employée relativement à une faillite, pour un cadeau, une rémunération, une contrepartie ou un avantage pécuniaire ou autre, quelle qu’en soit la nature, excédant la rémunération payable sur l’actif, ou accepte une telle contrepartie ou un tel avantage de cette personne, ou conclut un arrangement pour céder une partie de sa rémunération, soit comme séquestre au sens du paragraphe 243(2) ou comme syndic, au failli ou à un conseiller juridique, un commissaire-priseur ou une autre personne employée relativement à la faillite, ou cède une partie de cette rémunération.
+
+**Infractions et peines**
+
+(2) Quiconque omet de se conformer à toute disposition de l’article 10 ou y contrevient commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines.
+
+**Idem**
+
+(2.1) Quiconque contrevient ou omet de se conformer à une ordonnance rendue en vertu de l’article 204.1 commet une infraction et encourt, sur déclaration de culpabilité :
+
+- a) par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines;
+
+- b) par mise en accusation, une amende maximale de dix mille dollars et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+
+**Exception**
+
+(3) L’alinéa (1)h) ne peut s’interpréter comme s’appliquant à un partage des honoraires du syndic entre des personnes qui font ensemble fonction de syndic de l’actif d’un failli ou de syndic conjoint à celui d’une proposition.
+
+**Idem**
+
+(4) Sous réserve des autres dispositions de la présente loi, quiconque contrevient ou omet de se conformer à la présente loi, aux Règles générales ou aux règlements commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, un emprisonnement maximal d’un an et une amende maximale de cinq mille dollars, ou l’une de ces peines.
+
+**Non-conformité à une convocation**
+
+(5) Quiconque, sans motif légitime, ne se conforme pas à une convocation faite en vertu du paragraphe 14.02(1.1) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de mille dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 202; 1992, ch. 27, art. 75; 2004, ch. 25, art. 92; 2005, ch. 47, art. 112
+
+</details>
+
+### 203 Peine pour enlèvement sans avis des biens du failli
+
+À l’exception du syndic, quiconque, dans les trente jours qui suivent la remise au syndic de la preuve de réclamation mentionnée à l’article 81 ou lorsque telle preuve n’a pas été remise, retire ou tente de retirer, en tout ou en partie, les biens mentionnés à cet article, de la garde ou possession du failli, du syndic ou d’un autre gardien de ces biens, sauf avec la permission écrite du syndic, commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 174
+
+</details>
+
+### 203.1 Actes accomplis pendant la suspension ou l’annulation
+
+Le syndic qui exerce des fonctions à ce titre après que sa licence a été annulée pour défaut de paiement des droits afférents, après que sa licence a été suspendue ou annulée au titre du paragraphe 13.2(5) ou après qu’il a été avisé conformément au paragraphe 14.02(4) de la suspension ou de l’annulation de sa licence commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 76; 1997, ch. 12, art. 109
+
+</details>
+
+### 203.2 Actions contraires aux conditions ou aux restrictions
+
+Le syndic qui exerce des attributions qui ne lui ont pas été conférées en raison des conditions ou des restrictions dont le surintendant a assorti sa licence est coupable d’une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 76
+
+</details>
+
+### 204 Personnes morales et leurs dirigeants
+
+En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires, ou des personnes qui, directement ou indirectement en ont, ou en ont eu, le contrôle de fait, qui ont ordonné ou autorisé l’infraction, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 204; 1992, ch. 27, art. 77; 2004, ch. 25, art. 93(A)
+
+</details>
+
+### 204.1 Travaux d’intérêt collectif
+
+En sus de toute peine infligée par application de la présente loi et compte tenu de la nature de l’infraction, ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant à toute personne déclarée coupable d’exécuter des travaux d’intérêt collectif à des conditions raisonnables.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 77
+
+</details>
+
+### 204.2 Ordonnance de modification des sanctions
+
+(1) Le tribunal qui a rendu une ordonnance en vertu de l’article 204.1 peut, sur demande du procureur général du Canada ou de la personne, accepter de faire comparaître celle-ci et, après avoir entendu les observations de l’un ou l’autre, sous réserve du paragraphe (2), modifier l’ordonnance selon ce qui est applicable en l’espèce et lui paraît justifié par tout changement dans la situation de la personne :
+
+- a) soit en modifiant l’ordonnance ou ses conditions ou en prolongeant sa validité, sans toutefois qu’elle excède un an;
+
+- b) soit en raccourcissant la période de validité de l’ordonnance ou en dégageant la personne, absolument ou partiellement ou pour une durée limitée, de l’obligation de se conformer à telle condition de celle-ci.
+
+**Préavis**
+
+(2) Avant de modifier une ordonnance en vertu du présent article, le tribunal peut en faire donner préavis aux personnes qu’il juge intéressées; il peut aussi les entendre.
+
+**Restriction**
+
+(3) Après audition de la demande visée au paragraphe (1), toute nouvelle demande est subordonnée à l’autorisation du tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 77
+
+</details>
+
+### 204.3 Dommages
+
+(1) Lorsqu’une personne a été reconnue coupable d’une infraction à la présente loi et qu’une personne subit un préjudice ou une perte de ce fait, le tribunal peut, lors de l’infliction de la peine, condamner le coupable à payer un montant compensatoire à la personne lésée ou au syndic.
+
+**Exécution**
+
+(2) Le bénéficiaire de l’ordonnance peut, en cas de défaut de paiement immédiat, déposer l’ordonnance auprès de la cour supérieure de la province dans laquelle le procès a eu lieu. Dès lors, l’ordonnance peut être exécutée comme un jugement de ce tribunal contre l’auteur de l’infraction comme s’il s’agissait d’un jugement en matière civile.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 77; 1997, ch. 12, art. 110
+
+</details>
+
+### 205 Le syndic doit faire rapport des infractions
+
+(1) Lorsqu’un séquestre officiel ou un syndic a des motifs de croire qu’une infraction visée par la présente loi ou par toute autre loi fédérale ou provinciale a été commise à l’égard de l’actif d’un failli pour lequel il a agi sous l’autorité de la présente loi, ou que, pour une raison particulière, il devrait être tenu une enquête relativement à cet actif, il incombe à ce séquestre officiel ou à ce syndic de rapporter l’affaire au tribunal, et d’inclure dans le rapport un relevé de tous les faits ou circonstances de l’affaire dont il a connaissance, les noms des témoins qui, à son avis, devraient être interrogés, ainsi qu’une déclaration relative à l’infraction ou aux infractions censées avoir été commises, et il envoie immédiatement copie de ce rapport au surintendant.
+
+**Rapport des inspecteurs et d’autres personnes**
+
+(2) Le surintendant, ou un créancier, un inspecteur ou toute autre personne intéressée qui a des motifs raisonnables de croire que quelqu’un s’est rendu coupable d’une infraction à la présente loi ou à toute autre loi fédérale ou provinciale relative à un failli, ou à ses biens ou opérations, peut déposer devant le tribunal un rapport des faits sur lesquels il a fondé cette opinion, ou il peut faire telles autres représentations supplémentaires, qu’il jugera convenables, au rapport du séquestre officiel ou du syndic.
+
+**Le tribunal peut autoriser des procédures pénales**
+
+(3) Lorsqu’il est convaincu, sur les représentations du surintendant ou de toute personne agissant en son nom, du séquestre officiel, du syndic ou de tout créancier, inspecteur ou autre personne intéressée, qu’il y a lieu de croire qu’une personne s’est rendue coupable d’une infraction prévue à la présente loi ou à toute autre loi fédérale ou provinciale relative à un failli, ou à ses biens ou opérations, le tribunal peut autoriser le syndic à intenter des procédures aux fins de poursuivre cette personne pour pareille infraction.
+
+**Procédures pénales par le syndic**
+
+(4) Lorsque les créanciers, les inspecteurs ou le tribunal autorisent le syndic ou lui ordonnent d’intenter des procédures contre une personne réputée avoir commis une infraction, le syndic entame ces procédures et envoie ou fait parvenir une copie de pareille résolution ou ordonnance dûment certifiée comme copie conforme, ainsi qu’une copie de tous les rapports ou déclarations de faits sur lesquels est fondée cette ordonnance ou résolution, au procureur de la Couronne ou à l’agent de la Couronne dûment autorisé à représenter la Couronne dans la poursuite d’infractions criminelles dans le district où la prétendue infraction a été commise.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 176
+
+</details>
+
+### 206 Rapport d’infraction
+
+(1) S’il a des motifs raisonnables de croire qu’une infraction prévue par la présente loi ou le *Code criminel*, relative aux biens du failli, a été commise soit avant soit après l’ouverture de la faillite par le failli ou par toute autre personne, le séquestre officiel ou le syndic fait rapport à ce sujet au sous-procureur général ou à tout autre officier de justice compétent de la province concernée ou à la personne dûment désignée à cette fin par cet officier de justice.
+
+**Copie au surintendant**
+
+(2) Une copie d’un rapport fait selon le paragraphe (1) est adressée par le séquestre officiel ou le syndic au surintendant.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 206; 1997, ch. 12, art. 111; 2004, ch. 25, art. 94(F)
+
+</details>
+
+### 207 Exposé substantiel de l’infraction dans l’acte d’accusation
+
+Dans une dénonciation, plainte ou mise en accusation pour une infraction à la présente loi, il suffit d’exposer la substance de l’acte incriminé dans les termes de la présente loi, en spécifiant l’infraction, ou, autant que possible, selon que les circonstances le permettent, sans alléguer ou indiquer aucune dette, aucun acte de faillite, négoce, jugement ou procédure devant un tribunal agissant en vertu de la présente loi, ou une ordonnance, un mandat ou un document émanant d’un semblable tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 178
+
+</details>
+
+### 208 Prescriptions
+
+Une poursuite par mise en accusation sous l’autorité de la présente loi se prescrit par cinq ans à compter de la perpétration de l’infraction. Dans les cas d’une infraction punissable sur déclaration de culpabilité par procédure sommaire, la plainte doit être logée ou la dénonciation déposée dans les trois années qui suivent la date où la cause de la plainte ou dénonciation a pris naissance.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 179
+
+</details>
+
+## Dispositions diverses
+
+### 209 Règles générales
+
+(1) Le gouverneur en conseil peut établir, modifier ou révoquer, et déléguer aux juges des tribunaux ayant juridiction en matière de faillite sous l’autorité de la présente loi, le pouvoir d’établir, de modifier ou de révoquer des Règles générales en vue de l’application de la présente loi.
+
+(2) [Abrogé, 2005, ch. 47, art. 113]
+
+(3) [Abrogé, 1997, ch. 12, art. 112]
+
+**Admission d’office**
+
+(4) Les Règles générales ont le même effet que si elles avaient été établies par la présente loi et elles sont admises d’office.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 209; 1997, ch. 12, art. 112; 2005, ch. 47, art. 113
+
+</details>
+
+### 210 et 211
+
+[Abrogés, 1992, ch. 27, art. 78]
+
+### 212 Droits des banques et autres
+
+La présente loi, autre que les articles 69 à 69.4, 81, 81.1 et 81.2 et la partie XI, n’a pas pour effet de porter atteinte aux droits et privilèges que la *Loi sur les banques* confère aux banques, aux banques étrangères autorisées, au sens de l’article 2 de cette loi, ou aux personnes morales bancaires.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 212; 1992, ch. 27, art. 79; 1999, ch. 28, art. 147
+
+</details>
+
+### 213 Non-application de la *Loi sur les liquidations et les restructurations*
+
+Lorsqu’une requête en faillite ou une cession a été déposée en vertu de la présente loi relativement à une personne morale, la *Loi sur les liquidations et les restructurations* ne s’étend ni ne s’applique à cette personne morale nonobstant les dispositions de cette loi, et toute procédure entamée en vertu de la *Loi sur les liquidations et les restructurations* relativement à cette personne morale avant le dépôt de la requête ou de la cession aux termes de la présente loi devient caduque, sous réserve de l’attribution des dépens afférents à cette procédure qui pourra être faite dans les procédures de faillite, selon ce que l’équité pourra imposer dans ce cas d’espèce.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 213; 1996, ch. 6, art. 167; 2004, ch. 25, art. 95
+
+</details>
+
+### 214 Droits
+
+Les droits payables aux fonctionnaires du tribunal, y compris ceux payables pour les services du séquestre officiel, sont établis conformément aux taux fixés par les Règles générales, soit généralement, soit pour une ou plusieurs provinces, et, lorsque ces règles le précisent, ils appartiennent à Sa Majesté du chef de la province.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 214; 1992, ch. 27, art. 80; 1997, ch. 12, art. 113
+
+</details>
+
+### 215 Aucune action contre le surintendant sans permission du tribunal
+
+Sauf avec la permission du tribunal, aucune action n’est recevable contre le surintendant, un séquestre officiel, un séquestre intérimaire ou un syndic relativement à tout rapport fait ou toute mesure prise conformément à la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 215; 1992, ch. 27, art. 80
+
+</details>
+
+### 215.1 Créances en monnaies étrangères
+
+La réclamation visant une créance en devises étrangères doit être convertie en monnaie canadienne au taux en vigueur :
+
+- a) dans le cas d’une proposition visant une personne insolvable et sauf disposition contraire de la proposition, à la date du dépôt de l’avis d’intention aux termes du paragraphe 50.4(1) ou, en l’absence d’avis, à la date du dépôt de la proposition auprès du séquestre officiel aux termes du paragraphe 62(1);
+
+- b) dans le cas d’une proposition visant un failli et sauf disposition contraire de la proposition, à la date de la faillite;
+
+- c) dans le cas d’une faillite, à la date de la faillite.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 114
+
+</details>
+
+### 216
+
+[Abrogé, 2007, ch. 36, art. 55]
+
+## Paiement méthodique des dettes
+
+### 217 Définitions
+
+Les définitions qui suivent s’appliquent à la présente partie.
+
+**créancier inscrit** Créancier qui est nommé dans une ordonnance de fusion. (**registered creditor**)
+
+**débiteur** À l’exclusion d’une personne morale, tout débiteur insolvable. (**debtor**)
+
+**greffier** Greffier du tribunal. (**clerk**)
+
+**tribunal**
+  - a) Dans les provinces du Manitoba et d’Alberta, la Cour du Banc de la Reine;
+  - b) dans toute autre province, le tribunal que désignent les règlements pris pour l’application de la présente partie. (**court**)
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 188; 1978-79, ch. 11, art. 10; 1984, ch. 41, art. 2
+
+</details>
+
+### 218 Application
+
+(1) La présente partie ne s’applique qu’aux catégories suivantes de dettes :
+
+- a) un jugement ordonnant le paiement d’une somme d’argent, lorsque le montant ne dépasse pas mille dollars;
+
+- b) un jugement ordonnant le paiement d’une somme d’argent, lorsque le montant dépasse mille dollars, si le créancier en vertu du jugement consent à être régi par la présente partie;
+
+- c) une réclamation ou une demande formelle visant ou concernant une somme d’argent, une dette, un compte, un engagement ou autre chose, qui ne dépasse pas mille dollars;
+
+- d) une réclamation ou une demande formelle visant ou concernant une somme d’argent, une dette, un compte, un engagement ou autre chose, qui dépasse mille dollars, si le créancier faisant valoir une telle réclamation ou demande formelle consent à être régi par la présente partie.
+
+**Exception**
+
+(2) Nonobstant le paragraphe (1), la présente partie ne s’applique pas aux catégories suivantes de dettes :
+
+- a) une dette échue, due ou payable :
+  - (i) soit à Sa Majesté du chef du Canada ou d’une province,
+  - (ii) soit à une municipalité au Canada,
+  - (iii) soit à un district scolaire au Canada;
+
+- b) une dette relative au revenu public ou susceptible d’être levée et perçue sous forme d’impôts;
+
+- c) un engagement découlant d’une hypothèque ou d’une servitude foncière ou d’une promesse ou d’un contrat de vente d’un immeuble;
+
+- d) une dette contractée par un négociant ou un commerçant dans le cours ordinaire de ses affaires.
+
+**Idem**
+
+(3) Nonobstant le paragraphe (1), la présente partie ne s’applique pas aux catégories suivantes de dettes, sauf si le créancier consent à être régi par la présente partie :
+
+- a) dans la province du Manitoba :
+  - (i) une réclamation de salaire qui peut être entendue par un magistrat en vertu de *The Wages Recovery Act*, ou un jugement à cet égard rendu par un magistrat aux termes de cette loi,
+  - (ii) une réclamation fondée sur un privilège, ou un jugement à cet égard, aux termes de *The Mechanics’ Liens Act*;
+
+- b) dans la province d’Alberta :
+  - (i) une réclamation de salaire qui peut être entendue par un magistrat en vertu de *The Masters and Servants Act*, ou un jugement à cet égard rendu par un magistrat aux termes de cette loi,
+  - (ii) une réclamation fondée sur un privilège, ou un jugement à cet égard, aux termes de *The Mechanics’ Lien Act*, ou de *The Mechanics Lien Act, 1960*,
+  - (iii) une réclamation fondée sur un privilège aux termes de *The Garagemen’s Lien Act*;
+
+- c) dans toute autre province, une dette d’une catégorie soustraite, d’après les règlements, à l’application de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 189
+
+</details>
+
+### 219 Demande d’ordonnance de fusion
+
+(1) Tout débiteur qui réside dans une province où la présente partie s’applique peut demander au greffier du tribunal ayant juridiction là où il réside que soit rendue une ordonnance de fusion.
+
+**Affidavit à produire**
+
+(2) En faisant la demande prévue au paragraphe (1), le débiteur doit produire un affidavit comportant les renseignements suivants :
+
+- a) les nom et adresse de ses créanciers ainsi que le montant qu’il doit à chacun d’eux et, s’il existe entre lui et chacun d’eux des liens quelconques, la nature de ces liens;
+
+- b) un état des biens qu’il possède ou dans lesquels il détient un intérêt et la valeur de cet intérêt;
+
+- c) le montant de son revenu de toute provenance, en en indiquant les sources, et, s’il est marié et vit avec son époux ou s’il vit en union de fait, le montant du revenu de toute provenance de son époux ou conjoint de fait, selon le cas, en en indiquant les sources;
+
+- d) son commerce ou son occupation et, s’il est marié et vit avec son époux ou s’il vit en union de fait, ceux de son époux ou conjoint de fait, selon le cas;
+
+- d.1) le nom et l’adresse de son employeur et, s’il est marié et vit avec son époux ou s’il vit en union de fait, le nom et l’adresse de l’employeur de son époux ou conjoint de fait, selon le cas;
+
+- e) le nombre de personnes à sa charge, le nom de chacune et le degré de parenté dans chaque cas, ainsi que des détails sur la mesure dans laquelle chacune de ces personnes est à sa charge;
+
+- f) le montant payable pour la pension et le logement ou le loyer ou à titre de versement sur la maison d’habitation, selon le cas;
+
+- g) une indication révélant si, parmi les réclamations de ses créanciers, certaines sont garanties et, s’il en est, la nature et les particularités de la garantie détenue par chaque semblable créancier.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 219; L.R. (1985), ch. 31 (1^er^ suppl.), art. 77; 2000, ch. 12, art. 20; 2007, ch. 36, art. 56
+
+</details>
+
+### 220 Fonctions du greffier
+
+(1) Le greffier :
+
+- a) verse au dossier l’affidavit mentionné au paragraphe 219(2), en y attribuant un numéro, et inscrit les détails qu’il comporte sur un registre;
+
+- b) après lecture de l’affidavit et audition du débiteur :
+  - (i) détermine les montants que ce dernier doit verser au tribunal ainsi que les dates de ces versements, jusqu’à acquittement intégral de toutes les réclamations portées au registre,
+  - (ii) inscrit dans ce registre les détails des montants et des dates de versement ainsi arrêtés ou, s’il y a lieu, y note que les circonstances où se trouve présentement le débiteur ne justifient pas la détermination immédiate de semblables montants ou dates;
+
+- c) fixe une date pour l’audition des oppositions des créanciers.
+
+**Avis à donner**
+
+(2) Le greffier donne avis d’une demande d’ordonnance de fusion à chaque créancier nommé dans l’affidavit produit relativement à la demande; l’avis comprend les renseignements suivants :
+
+- a) les détails de toutes les inscriptions faites sur le registre à l’égard de la demande;
+
+- b) la date fixée pour l’audition des oppositions des créanciers à la demande ou à l’une des inscriptions portées au registre à cet égard.
+
+L’avis doit contenir une déclaration portant que le créancier sera, avant la date fixée pour l’audition des oppositions, informé des oppositions produites auprès du greffier conformément à l’article 221 relativement à la demande d’ordonnance.
+
+**Idem**
+
+(3) L’avis mentionné au paragraphe (2) est signifié en la manière prescrite et le greffier inscrit sur le registre la date de l’expédition de l’avis.
+
+**Registre**
+
+(4) Le registre mentionné au présent article doit être distinct de tous les autres livres et dossiers que tient le greffier et être accessible au public pour inspection, sans frais, pendant les heures où le bureau du greffier est ouvert au public.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 220; 1992, ch. 1, art. 20, ch. 27, art. 81
+
+</details>
+
+### 221 Opposition par le créancier
+
+(1) Dans les trente jours qui suivent la date où a été expédié l’avis d’une demande visant une ordonnance de fusion en application de l’article 220, un créancier peut produire auprès du greffier une opposition concernant l’une ou l’autre des questions suivantes :
+
+- a) le montant inscrit sur le registre à titre de dette envers ce créancier ou tout autre créancier;
+
+- b) les montants, déterminés par le greffier, que le débiteur doit verser au tribunal, ou le fait qu’aucun semblable montant n’a été déterminé;
+
+- c) les dates fixées pour le paiement de tout semblable montant, s’il y a lieu.
+
+**Idem**
+
+(2) Le greffier inscrit sur le registre un mémorandum de la date de réception de toute opposition produite auprès de lui.
+
+**Avis d’opposition**
+
+(3) Lorsqu’un créancier a produit une opposition, le greffier donne, sans délai et en la manière prescrite avis de l’opposition, ainsi que des date, heure et lieu de son audition, au débiteur et à chaque créancier nommé dans l’affidavit produit relativement à la demande et y précise, s’il y a lieu, le créancier dont la réclamation a fait l’objet d’une opposition aux termes du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 221; 1992, ch. 1, art. 17 et 20, ch. 27, art. 82
+
+</details>
+
+### 222 Créanciers ajoutés à la liste
+
+Aux date et heure fixées pour l’audition d’une opposition visant une ordonnance de fusion, le greffier peut ajouter au registre le nom de tout créancier du débiteur dont il a un avis et dont le nom n’apparaît pas à l’affidavit du débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 193
+
+</details>
+
+### 223 Audition des oppositions
+
+(1) Aux date et heure fixées pour l’audition de l’opposition, le greffier doit prendre en considération toute opposition relative à une ordonnance de fusion qui a été produite auprès de lui conformément à la présente partie, et :
+
+- a) si l’opposition vise la réclamation d’un créancier et que les parties en viennent à un accord ou si la réclamation du créancier est un jugement d’un tribunal et que la seule opposition vise le montant payé à cet égard, il peut statuer sur l’opposition de façon sommaire et déterminer le montant dû au créancier;
+
+- b) si l’opposition vise les modalités ou le mode proposés de paiement des réclamations par le débiteur ou si les modalités de paiement ne sont pas établies mais devraient l’être, il peut statuer sur l’opposition de façon sommaire et déterminer, selon que les circonstances l’exigent, les modalités et le mode de paiement des réclamations, ou décider qu’aucune modalité ne peut présentement être fixée;
+
+- c) de toute façon, il peut sur un avis de motion renvoyer toute opposition pour qu’il en soit décidé par le tribunal ou de la manière que le tribunal peut autrement ordonner.
+
+**L’ordonnance est rendue**
+
+(2) Une fois terminée l’audition mentionnée au paragraphe (1), le greffier inscrit sur le registre sa décision ou la décision du tribunal, selon le cas, et rend une ordonnance de fusion.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 194
+
+</details>
+
+### 224 Prononcé de l’ordonnance de fusion
+
+Lorsqu’il n’a été reçu aucune opposition dans le délai de trente jours à compter de la date où a été expédié l’avis d’une demande d’ordonnance de fusion en application de l’article 220, le greffier :
+
+- a) fait une inscription sur le registre dans ce sens;
+
+- b) rend l’ordonnance de fusion.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 224; 1992, ch. 1, art. 18, ch. 27, art. 83
+
+</details>
+
+### 225 Contenu de l’ordonnance de fusion
+
+(1) Une ordonnance de fusion énonce ce qui suit :
+
+- a) le nom de chaque créancier inscrit au registre, ainsi que le montant qui lui est dû;
+
+- b) les montants que le débiteur doit verser au tribunal ainsi que les dates des versements ou, s’il y a lieu, la mention portant que les circonstances où se trouve présentement le débiteur ne justifient pas la détermination immédiate de semblables montants ou dates.
+
+**Effet d’une ordonnance**
+
+(2) Une ordonnance de fusion :
+
+- a) est un jugement du tribunal en faveur de chaque créancier nommé au registre, pour le montant dû à ce dernier d’après l’inscription qui y est faite;
+
+- b) est une ordonnance du tribunal concernant le paiement par le débiteur des montants y indiqués, aux dates prévues;
+
+- c) porte intérêt aux taux qui, en droit, s’appliquent à une somme due en vertu d’un jugement du tribunal qui a prononcé l’ordonnance ou à tous autres taux prescrits par règlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 225; 1992, ch. 27, art. 84
+
+</details>
+
+### 226 Cas où il n’est rendu aucune ordonnance
+
+(1) Il ne peut être rendu d’ordonnance de fusion qui ne prévoit pas le paiement intégral de toutes les dettes auxquelles elle se rapporte dans un délai de trois ans, sauf dans les cas suivants :
+
+- a) tous les créanciers inscrits y consentent par écrit;
+
+- b) le tribunal approuve l’ordonnance.
+
+**Présomption**
+
+(1.1) Le créancier inscrit qui n’a pas, dans les trente jours de sa réception, répondu à une demande sollicitant son consentement aux termes de l’alinéa (1)a) est présumé avoir consenti à l’ordonnance de fusion.
+
+**Renvoi au tribunal**
+
+(2) Le greffier soumet à l’approbation ou autre décision du tribunal toute ordonnance de fusion mentionnée au paragraphe (1), après un avis de motion adressé à tout créancier inscrit qui n’y a pas consenti par écrit.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 226; 1992, ch. 27, art. 85
+
+</details>
+
+### 227 Nouvel examen de l’ordonnance de fusion
+
+(1) Si une des parties visées par une ordonnance de fusion qu’a rendue le greffier demande, au moyen d’un avis de motion présenté dans les quinze jours qui suivent la date où l’ordonnance est rendue, que celle-ci fasse l’objet d’une révision, le tribunal peut étudier de nouveau l’ordonnance de fusion et la confirmer, la modifier ou l’écarter et prendre à son sujet la décision qu’il juge opportune.
+
+**La décision doit être inscrite**
+
+(2) Le greffier inscrit sur le registre toute décision qu’a prise le tribunal aux termes du paragraphe (1) et cette décision deviendra exécutoire à la place de l’ordonnance du greffier.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 227; 1997, ch. 12, art. 115
+
+</details>
+
+### 228 Des modalités peuvent être imposées au débiteur
+
+En statuant sur toute question à lui soumise, le tribunal peut imposer à un débiteur, au sujet de la garde de ses biens ou de la façon d’en disposer ou de disposer du produit en provenant, les modalités qu’il juge opportunes pour la protection des créanciers inscrits et peut donner à ce sujet les directives qu’exigent les circonstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 199
+
+</details>
+
+### 229 L’ordonnance de fusion fait obstacle aux moyens de contrainte
+
+Dès l’établissement d’une ordonnance de fusion, aucun tribunal de la province où réside le débiteur ne peut décerner de moyen de contrainte ou d’exécution forcée, contre le débiteur à la requête du créancier, concernant une dette à laquelle la présente partie s’applique, sauf dans la mesure qui y est permise.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 200
+
+</details>
+
+### 230 Cession des biens du débiteur au greffier
+
+(1) Après l’établissement d’une ordonnance de fusion, le greffier peut exiger et recevoir du débiteur une cession envers lui-même, à titre de greffier du tribunal, de tous deniers exigibles, dus ou payables ou qui deviendront exigibles, dus ou payables au débiteur, ou de tout montant gagné ou à gagner par le débiteur.
+
+**Avis**
+
+(2) Sauf convention contraire, le greffier est tenu de donner sans délai à la personne qui doit un montant d’argent, ou est sur le point d’en devoir un, un avis de la cession mentionnée au paragraphe (1) et toutes les sommes perçues sur de tels montants sont portées au crédit des réclamations contre le débiteur aux termes de l’ordonnance de fusion.
+
+**Mandat d’exécution**
+
+(3) Le greffier peut décerner un mandat d’exécution ou un certificat de jugement concernant une ordonnance de fusion et le faire enregistrer dans tout endroit où un semblable mandat ou certificat peut être exécutoire sur des biens-fonds ou des biens meubles, ou constituer un privilège sur ces biens.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 201
+
+</details>
+
+### 231 Noms de créanciers ajoutés à l’ordonnance
+
+(1) Lorsque, avant le paiement intégral des réclamations contre un débiteur aux termes d’une ordonnance de fusion, le greffier est informé d’une réclamation visée par la présente partie mais non incluse dans l’ordonnance, il doit, sous réserve du paragraphe (2) et sur avis au débiteur et au créancier ainsi qu’à chacun des créanciers inscrits :
+
+- a) déterminer le montant dû au créancier;
+
+- b) s’il le juge nécessaire, modifier les montants que le débiteur doit verser au tribunal et les dates des versements afin de tenir compte de la nouvelle réclamation;
+
+- c) inscrire les questions mentionnées aux alinéas a) et b) sur le registre.
+
+**Le tribunal décide**
+
+(2) Lorsque le débiteur ou un créancier inscrit conteste la réclamation d’un créancier, mentionnée au paragraphe (1), le greffier, sur avis de motion, renvoie l’affaire au tribunal, dont la décision doit être inscrite sur le registre.
+
+**Avis**
+
+(3) Le greffier apporte à l’ordonnance de fusion les modifications qui s’imposent pour donner effet aux inscriptions portées au registre en conformité avec le présent article et il en donne avis aux créanciers inscrits.
+
+**Le créancier doit prendre part à la distribution**
+
+(4) Dès qu’une réclamation a été inscrite sur le registre en conformité avec le présent article, le créancier doit participer avec les autres créanciers à toute nouvelle distribution des montants versés au tribunal par le débiteur ou pour son compte.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 202
+
+</details>
+
+### 232 Réclamations garanties
+
+(1) Un créancier inscrit dont la réclamation est garantie peut choisir de faire appel à la garantie, même si la réclamation est comprise dans l’ordonnance de fusion.
+
+**Lorsque le produit excède la réclamation**
+
+(2) Lorsque le produit provenant de la réalisation de la garantie mentionnée au paragraphe (1) excède la réclamation du créancier inscrit, l’excédent est versé au tribunal et appliqué au paiement des autres jugements à l’encontre du débiteur.
+
+**Exemption**
+
+(3) Le paragraphe (2) ne s’applique pas lorsque la garantie prend la forme de biens meubles exempts de saisie selon la loi en vigueur dans la province où l’ordonnance de fusion a été rendue.
+
+**Réclamation réduite**
+
+(4) Lorsque le produit de la réalisation de la garantie mentionnée au paragraphe (1) est inférieur à la réclamation du créancier inscrit, le créancier conserve son droit au solde de sa réclamation.
+
+**Exception**
+
+(5) Le paragraphe (4) ne s’applique pas dans un cas où, selon la loi en vigueur dans la province où l’ordonnance de fusion a été rendue, un créancier qui, selon le cas :
+
+- a) fait valoir sa garantie au moyen de la rentrée en possession ou de la rentrée en possession et de la vente;
+
+- b) saisit et vend une semblable garantie aux termes d’une ordonnance d’exécution rendue en conformité avec un jugement obtenu contre le débiteur à l’égard de la réclamation ainsi garantie,
+
+est limité dans son recouvrement d’une telle réclamation à la garantie ainsi remise en sa possession ou au produit de la vente d’une semblable garantie.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 203
+
+</details>
+
+### 233 Exécution de l’ordonnance si le débiteur fait défaut
+
+(1) Un créancier inscrit peut au moyen d’un avis de motion s’adresser au tribunal dans les cas suivants :
+
+- a) un débiteur omet de se conformer à une ordonnance ou directive du tribunal;
+
+- b) une autre procédure en vue du recouvrement d’un montant d’argent est intentée contre le débiteur;
+
+- c) le débiteur a contracté, après que l’ordonnance de fusion a été rendue, d’autres dettes excédant au total cinq cents dollars;
+
+- d) il est obtenu contre le débiteur un jugement dont le montant est supérieur à celui auquel la présente partie s’applique sans le consentement du créancier mis en cause par le jugement, et ce dernier refuse de permettre que son nom soit ajouté au registre;
+
+- e) le débiteur a des biens ou des fonds qui devraient être affectés à la satisfaction de l’ordonnance de fusion.
+
+**Demande ex parte**
+
+(2) Un créancier inscrit peut s’adresser ex parte au tribunal lorsqu’un débiteur :
+
+- a) ou bien est sur le point de quitter, ou a quitté, la province où l’ordonnance de fusion a été rendue en laissant des biens meubles sujets à la saisie en voie d’exécution;
+
+- b) ou bien, avec intention de frauder ses créanciers, a tenté ou tente d’enlever de la province où l’ordonnance de fusion a été rendue des biens meubles sujets à la saisie en voie d’exécution.
+
+**Procédures autorisées**
+
+(3) Sur réception de la demande visée aux paragraphes (1) ou (2), le tribunal peut :
+
+- a) ou bien autoriser le créancier inscrit qui a fait la demande à prendre, au nom de tous les créanciers inscrits, pour la mise à exécution de l’ordonnance de fusion, les procédures que le tribunal estime opportunes;
+
+- b) ou bien, lorsqu’il apparaît opportun de le faire et sur avis à toutes les parties, rendre une ordonnance permettant à tous les créanciers inscrits de procéder, indépendamment les uns des autres, à la mise à exécution de leurs réclamations aux termes de l’ordonnance de fusion.
+
+**Montants affectés au jugement**
+
+(4) Tous les montants d’argent recouvrés à la suite des procédures prises en conformité avec l’alinéa (3)a), après le paiement des frais subis à cet égard, sont payés au tribunal et portés au crédit des jugements contre le débiteur inscrit au registre.
+
+**Procédures si l’omission se prolonge**
+
+(5) Lorsqu’un débiteur omet de faire au tribunal un paiement qu’une ordonnance de fusion lui enjoint de faire et que l’omission dure trois mois, tous les créanciers inscrits ont droit de procéder sans délai, indépendamment les uns des autres et sans renvoi au tribunal, à la mise à exécution de leurs réclamations aux termes de l’ordonnance de fusion, à moins que le tribunal, à la demande du débiteur, n’en ordonne autrement après avoir été convaincu que les circonstances qui ont occasionné l’omission et sa continuation étaient indépendantes de la volonté du débiteur.
+
+**Recours ouvert au débiteur**
+
+(6) Lorsqu’une ordonnance a été rendue aux termes de l’alinéa (3)b) ou que des procédures ont été entamées en application du paragraphe (5), le débiteur selon l’ordonnance de fusion n’a pas le droit, sans la permission du tribunal, à un autre redressement prévu par la présente partie tant qu’une réclamation contre lui inscrite au registre n’a pas été satisfaite.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 233; 1997, ch. 12, art. 116
+
+</details>
+
+### 234 Nouvel examen du débiteur
+
+(1) Un débiteur ou un créancier inscrit peut demander ex parte au greffier de procéder à un nouvel examen et à une nouvelle audition du débiteur sur sa situation financière.
+
+**Idem**
+
+(2) La nouvelle audition mentionnée au paragraphe (1) ne peut avoir lieu :
+
+- a) qu’avec la permission du greffier;
+
+- b) si le greffier refuse, qu’avec la permission du tribunal.
+
+**Avis de l’audition**
+
+(3) Le greffier donne à toutes les parties visées par l’ordonnance de fusion un avis d’au moins trente jours les informant de la date fixée pour l’audition mentionnée au paragraphe (1).
+
+**Le greffier peut modifier une ordonnance, etc.**
+
+(4) Lorsque, après examen de la preuve présentée lors de la nouvelle audition mentionnée au paragraphe (1), le greffier est d’avis :
+
+- a) ou bien que les modalités de paiement prévues dans l’ordonnance de fusion;
+
+- b) ou bien que la décision selon laquelle les circonstances où se trouve le débiteur ne justifient pas la détermination immédiate des montants et des dates de versement de ceux-ci,
+
+devraient être modifiées à cause d’un changement survenu dans les circonstances où se trouve le débiteur, il peut :
+
+- c) soit modifier l’ordonnance en ce qui concerne les montants que le débiteur doit verser au tribunal ou les dates de ces versements;
+
+- d) soit, sur avis de motion, renvoyer l’affaire au tribunal pour qu’il en soit décidé.
+
+**Application de l’art. 227**
+
+(5) L’article 227 s’applique, compte tenu des adaptations de circonstance, à une décision du greffier rendue sous le régime du paragraphe (4).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 234; 1992, ch. 1, art. 19
+
+</details>
+
+### 235 Affectation des montants versés au tribunal
+
+(1) Sous réserve du paragraphe (3), le greffier distribue les montants versés au tribunal au titre des dettes d’un débiteur au moins une fois tous les trois mois.
+
+**Idem**
+
+(2) Le greffier distribue ces montants au prorata, ou selon une méthode qui s’en rapproche le plus possible, entre les créanciers inscrits.
+
+**Paiements de moins de cinq dollars**
+
+(3) Sauf dans le cas d’un paiement final aux termes d’une ordonnance de fusion, le greffier n’est pas tenu de faire à un créancier un paiement dont le montant est inférieur à cinq dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 206
+
+</details>
+
+### 236 Serments
+
+(1) Pour l’application de la présente partie, le greffier peut examiner toute personne sous serment et peut faire prêter le serment.
+
+**Procès-verbal**
+
+(2) Le greffier dresse par écrit un compte rendu sommaire de toutes les dépositions faites à une audition.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 207
+
+</details>
+
+### 237 Ordonnance de faillite ou cession
+
+(1) Lorsqu’un débiteur à l’égard de qui une ordonnance de fusion a été rendue aux termes de la présente partie fait une cession en conformité avec l’article 49, ou lorsqu’une ordonnance de faillite est rendue contre lui en application de l’article 43, ou lorsqu’une proposition de ce débiteur est approuvée par le tribunal ayant juridiction en matière de faillite selon les articles 59 à 61, tout montant payé au tribunal en conformité avec cette ordonnance de fusion et non encore distribué aux créanciers inscrits est dès lors distribué entre ces créanciers par le greffier dans les proportions que leur alloue l’ordonnance de fusion.
+
+**Procédures selon d’autres parties**
+
+(2) Des procédures intentées sous le régime de la présente partie n’empêchent pas l’ouverture de procédures par ou contre le débiteur en vertu de toute autre partie de la présente loi.
+
+**Idem**
+
+(3) Les parties I à IX de la présente loi ne s’appliquent pas aux procédures prévues par la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 237; 2004, ch. 25, art. 96
+
+</details>
+
+### 238 Appel
+
+Une décision ou ordonnance du tribunal rendue aux termes de la présente partie est sujette à appel de la même manière que s’il s’agissait d’un jugement du tribunal dans une action civile.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 209
+
+</details>
+
+### 239 Le greffier doit faire rapport
+
+(1) Dès qu’une ordonnance de fusion est rendue, le greffier en adresse une copie au surintendant.
+
+**Idem**
+
+(2) Le greffier remet au surintendant les rapports que celui-ci peut exiger pour la mise en oeuvre de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 239; 1992, ch. 27, art. 86
+
+</details>
+
+### 239.1 Interdiction
+
+Il est interdit à tout employeur de congédier, mettre à pied ou suspendre un débiteur, ou de lui imposer toute autre mesure disciplinaire, au seul motif qu’il a demandé une ordonnance de fusion au titre de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 87
+
+</details>
+
+### 239.2 Interdiction
+
+(1) Il est interdit à toute entreprise de service public d’interrompre le service qu’elle fournit à un débiteur au seul motif qu’il est insolvable, qu’il a demandé une ordonnance de fusion au titre de la présente partie ou qu’il n’a pas payé le service fourni avant la demande d’ordonnance de fusion.
+
+**Paiements en espèces**
+
+(2) Le paragraphe (1) n’a pas pour effet d’exiger la prestation de nouvelles fournitures de services, sauf en cas de paiement en espèces.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 87
+
+</details>
+
+### 240 Règlements
+
+Le gouverneur en conseil peut, par règlement :
+
+- a) prescrire les formules à utiliser en application de la présente partie;
+
+- b) régir les frais, honoraires et prélèvements à payer sous le régime de la présente partie;
+
+- c) définir ce qu’on entend, pour l’application de la présente partie, par « tribunal » dans chacune des provinces, sauf le Manitoba et l’Alberta;
+
+- d) adapter la présente partie à l’organisation judiciaire ou aux autres circonstances d’une province particulière;
+
+- e) modifier, à l’égard de toute province, les catégories de dettes et leurs montants auxquels la présente partie s’applique;
+
+- f) changer ou prescrire, à l’égard de toute province, les catégories de dettes auxquelles la présente partie ne s’applique pas;
+
+- f.1) régir le renvoi des procédures dans une province autre que celle où l’ordonnance de fusion a été rendue;
+
+- g) prendre toute autre mesure d’application de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 240; 1992, ch. 27, art. 88
+
+</details>
+
+### 241 Vérification des comptes
+
+Les comptes de chaque greffier, relatifs aux procédures prévues par la présente partie, sont sujets à vérification de la même manière que s’ils étaient les comptes d’un fonctionnaire provincial.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-3, art. 212
+
+</details>
+
+### 242 Application
+
+(1) À la demande du lieutenant-gouverneur en conseil d’une province, le gouverneur en conseil déclare par décret que la présente partie commence à s’appliquer ou cesse de s’appliquer, selon le cas, dans la province en question.
+
+**Application automatique**
+
+(2) Sous réserve d’une éventuelle déclaration faite en vertu du paragraphe (1) indiquant qu’elle cesse de s’appliquer à la province en cause, la présente partie s’applique à toute province dans laquelle elle était en vigueur à l’entrée en vigueur de ce paragraphe.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-3, art. 242; 2002, ch. 7, art. 85; 2007, ch. 36, art. 57
+
+</details>
+
+## Créanciers garantis et séquestres
+
+### 243 Nomination d’un séquestre
+
+(1) Sous réserve du paragraphe (1.1), sur demande d’un créancier garanti, le tribunal peut, s’il est convaincu que cela est juste ou opportun, nommer un séquestre qu’il habilite :
+
+- a) à prendre possession de la totalité ou de la quasi-totalité des biens — notamment des stocks et comptes à recevoir — qu’une personne insolvable ou un failli a acquis ou utilisés dans le cadre de ses affaires;
+
+- b) à exercer sur ces biens ainsi que sur les affaires de la personne insolvable ou du failli le degré de prise en charge qu’il estime indiqué;
+
+- c) à prendre toute autre mesure qu’il estime indiquée.
+
+**Restriction relative à la nomination d’un séquestre**
+
+(1.1) Dans le cas d’une personne insolvable dont les biens sont visés par le préavis qui doit être donné par le créancier garanti aux termes du paragraphe 244(1), le tribunal ne peut faire la nomination avant l’expiration d’un délai de dix jours après l’envoi de ce préavis, à moins :
+
+- a) que la personne insolvable ne consente, aux termes du paragraphe 244(2), à l’exécution de la garantie à une date plus rapprochée;
+
+- b) qu’il soit indiqué, selon lui, de nommer un séquestre à une date plus rapprochée.
+
+**Définition de **séquestre****
+
+(2) Dans la présente partie, mais sous réserve des paragraphes (3) et (4), **séquestre** s’entend de toute personne qui :
+
+- a) soit est nommée en vertu du paragraphe (1);
+
+- b) soit est nommément habilitée à prendre — ou a pris — en sa possession ou sous sa responsabilité, aux termes d’un contrat créant une garantie sur des biens, appelé « contrat de garantie » dans la présente partie, ou aux termes d’une ordonnance rendue sous le régime de toute autre loi fédérale ou provinciale prévoyant ou autorisant la nomination d’un séquestre ou d’un séquestre-gérant, la totalité ou la quasi-totalité des biens — notamment des stocks et comptes à recevoir — qu’une personne insolvable ou un failli a acquis ou utilisés dans le cadre de ses affaires.
+
+**Définition de **séquestre** — paragraphe 248(2)**
+
+(3) Pour l’application du paragraphe 248(2), la définition de **séquestre**, au paragraphe (2), s’interprète sans égard à l’alinéa a) et aux mots « ou aux termes d’une ordonnance rendue sous le régime de toute autre loi fédérale ou provinciale prévoyant ou autorisant la nomination d’un séquestre ou d’un séquestre-gérant ».
+
+**Syndic**
+
+(4) Seul un syndic peut être nommé en vertu du paragraphe (1) ou être habilité aux termes d’un contrat ou d’une ordonnance mentionné à l’alinéa (2)b).
+
+**Lieu du dépôt**
+
+(5) La demande de nomination est déposée auprès du tribunal compétent dans le district judiciaire de la localité du débiteur.
+
+**Ordonnances relatives aux honoraires et débours**
+
+(6) Le tribunal peut, relativement au paiement des honoraires et débours du séquestre nommé en vertu du paragraphe (1), rendre toute ordonnance qu’il estime indiquée, y compris une ordonnance portant que la réclamation de celui-ci à l’égard de ses honoraires et débours est garantie par une sûreté de premier rang sur tout ou partie des biens de la personne insolvable ou du failli, avec préséance sur les réclamations de tout créancier garanti; le tribunal ne peut toutefois déclarer que la réclamation du séquestre est ainsi garantie que s’il est convaincu que tous les créanciers garantis auxquels l’ordonnance pourrait sérieusement porter atteinte ont été avisés à cet égard suffisamment à l’avance et se sont vu accorder l’occasion de se faire entendre.
+
+**Sens de **débours****
+
+(7) Pour l’application du paragraphe (6), ne sont pas comptés comme débours les paiements effectués dans le cadre des opérations propres aux affaires de la personne insolvable ou du failli.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89; 2005, ch. 47, art. 115; 2007, ch. 36, art. 58
+
+</details>
+
+### 244 Préavis
+
+(1) Le créancier garanti qui se propose de mettre à exécution une garantie portant sur la totalité ou la quasi-totalité du stock, des comptes recevables ou des autres biens d’une personne insolvable acquis ou utilisés dans le cadre des affaires de cette dernière doit lui en donner préavis en la forme et de la manière prescrites.
+
+**Délai**
+
+(2) Dans les cas où un préavis est requis aux termes du paragraphe (1), le créancier garanti ne peut, avant l’expiration d’un délai de dix jours suivant l’envoi du préavis, mettre à exécution la garantie visée par le préavis, à moins que la personne insolvable ne consente à une exécution à une date plus rapprochée.
+
+**Préavis**
+
+(2.1) Pour l’application du paragraphe (2), le créancier garanti ne peut obtenir le consentement visé par le paragraphe avant l’envoi du préavis visé au paragraphe (1).
+
+**Non-application du présent article**
+
+(3) Le présent article ne s’applique pas, ou cesse de s’appliquer, au créancier garanti dont le droit de réaliser sa garantie ou d’effectuer toute autre opération, relativement à celle-ci est protégé aux termes du paragraphe 69.1(5) ou (6), ou à l’égard de qui a été levée, aux termes de l’article 69.4, la suspension prévue aux articles 69 à 69.2.
+
+**Idem**
+
+(4) Le présent article ne s’applique pas dans les cas où une personne agit, à titre de séquestre, à l’égard de la personne insolvable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89; 1994, ch. 26, art. 9(A)
+
+</details>
+
+### 245 Avis du séquestre
+
+(1) Le séquestre doit, dans les meilleurs délais et au plus tard dans les dix jours suivant la date où il devient, par nomination ou autrement, séquestre à l’égard de tout ou partie des biens d’une personne insolvable ou d’un failli, en donner avis, en la forme et de la manière prescrites, au surintendant — l’avis devant, dans ce cas, être accompagné des droits prescrits — et :
+
+- a) s’agissant d’un failli, au syndic;
+
+- b) s’agissant d’une personne insolvable, à celle-ci, à tous ceux de ses créanciers dont il a pu, en y allant de ses meilleurs efforts, dresser la liste.
+
+**Idem**
+
+(2) Le séquestre de tout ou partie des biens d’une personne insolvable est tenu de donner immédiatement avis de son entrée en fonctions à tout créancier dont il prend connaissance des nom et adresse après l’envoi de l’avis visé au paragraphe (1).
+
+**Nom et adresse des créanciers**
+
+(3) La personne insolvable doit, dès qu’elle est avisée de l’entrée en fonctions d’un séquestre à l’égard de tout ou partie de ses biens, fournir à celui-ci la liste des noms et adresses de tous ses créanciers.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89
+
+</details>
+
+### 246 Déclaration
+
+(1) Le séquestre doit, dès sa prise de possession ou, si elle survient plus tôt, sa prise de contrôle de tout ou partie des biens d’une personne insolvable ou d’un failli, établir une déclaration contenant les renseignements prescrits au sujet de l’exercice de ses attributions à l’égard de ces biens; il en transmet sans délai une copie au surintendant et :
+
+- a) à la personne insolvable ou, en cas de faillite, au syndic;
+
+- b) à tout créancier de la personne insolvable ou du failli qui en fait la demande au plus tard six mois après que le séquestre a complété l’exercice de ses attributions en l’espèce.
+
+**Rapports provisoires**
+
+(2) Le séquestre doit, conformément aux Règles générales, établir des rapports provisoires supplémentaires portant sur son mandat et en fournir un exemplaire au surintendant, à la personne insolvable ou, dans le cas d’un failli, au syndic et à tout créancier de la personne insolvable ou du failli qui en demande un exemplaire dans les six mois suivant la fin du mandat du séquestre.
+
+**Rapport définitif et état de comptes**
+
+(3) Dès qu’il cesse d’occuper ses fonctions, le séquestre établit, en la forme prescrite, un rapport définitif et un état de comptes contenant les renseignements prescrits relativement à l’exercice de ses attributions; il en transmet sans délai une copie au surintendant et :
+
+- a) à la personne insolvable ou, en cas de faillite, au syndic;
+
+- b) à tout créancier de la personne insolvable ou du failli qui en fait la demande au plus tard six mois après que le séquestre a complété l’exercice de ses attributions en l’espèce.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89
+
+</details>
+
+### 246.1 Propriété intellectuelle — disposition
+
+(1) Si la personne insolvable ou le failli est partie à un contrat qui autorise une autre partie à utiliser un droit de propriété intellectuelle qui est compris dans une disposition d’actifs par le séquestre, cette disposition n’empêche pas l’autre partie d’utiliser le droit en question ni d’en faire respecter l’utilisation exclusive, à condition que cette autre partie respecte ses obligations contractuelles à l’égard de l’utilisation de ce droit, et ce, pour la période prévue au contrat et pour toute prolongation de celle-ci dont elle se prévaut de plein droit.
+
+**Propriété intellectuelle — résiliation**
+
+(2) Si la personne insolvable ou le failli est partie à un contrat qui autorise une autre partie à utiliser un droit de propriété intellectuelle, la résiliation de ce contrat par le séquestre n’empêche pas l’autre partie d’utiliser le droit en question ni d’en faire respecter l’utilisation exclusive, à condition que cette autre partie respecte ses obligations contractuelles à l’égard de l’utilisation de ce droit, et ce, pour la période prévue au contrat et pour toute prolongation de celle-ci dont elle se prévaut de plein droit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2018, ch. 27, art. 268
+
+</details>
+
+### 247 Obligation de diligence
+
+Le séquestre doit gérer les biens de la personne insolvable ou du failli en toute honnêteté et de bonne foi, et selon des pratiques commerciales raisonnables.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89
+
+</details>
+
+### 248 Pouvoirs du tribunal
+
+(1) S’il est convaincu, à la suite d’une demande du surintendant, de la personne insolvable, du syndic — en cas de faillite —, du séquestre ou d’un créancier que le créancier garanti, le séquestre ou la personne insolvable ne se conforme pas ou ne s’est pas conformé à l’une ou l’autre des obligations que lui imposent les articles 244 à 247, le tribunal peut, aux conditions qu’il estime indiquées :
+
+- a) ordonner au créancier garanti, au séquestre ou à la personne insolvable de se conformer à ses obligations;
+
+- b) interdire au créancier garanti ou au séquestre de réaliser les biens de la personne insolvable ou du failli, ou de faire toutes autres opérations à leur égard, jusqu’à ce qu’il se soit conformé à ses obligations.
+
+**Idem**
+
+(2) Sur demande du surintendant, de la personne insolvable, du syndic — en cas de faillite — ou d’un créancier, présentée au plus tard six mois après la transmission au surintendant de l’état de comptes visé au paragraphe 246(3), le tribunal peut ordonner au séquestre de lui soumettre cet état de comptes pour examen; le tribunal peut, de la manière et dans la mesure qu’il estime indiquées, ajuster les honoraires et dépenses du séquestre qui y sont consignés.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89
+
+</details>
+
+### 249 Instructions du tribunal
+
+Le tribunal donne au séquestre qui lui en fait la demande les instructions écrites qu’il estime indiquées sur toute disposition de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89
+
+</details>
+
+### 250 Ordonnance d’un autre tribunal
+
+(1) Une demande peut être présentée aux termes des articles 248 ou 249 indépendamment de toute ordonnance qu’aurait pu rendre un tribunal au sens du paragraphe 243(1).
+
+**Incompatibilité**
+
+(2) Les dispositions d’une ordonnance rendue aux termes de l’article 248 ou d’une instruction donnée aux termes de l’article 249 l’emportent sur les dispositions incompatibles du contrat de garantie ou de l’ordonnance du tribunal portant nomination du séquestre, de même que sur les dispositions incompatibles de toute autre ordonnance rendue par le même tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89
+
+</details>
+
+### 251 Protection du séquestre
+
+Le séquestre est à l’abri de toute poursuite pour le préjudice ou les pertes résultant de l’envoi ou de la fourniture par lui de tout avis prévu à l’article 245 ou de toute déclaration ou tout rapport établis conformément à l’article 246, s’il a agi de bonne foi dans l’exercice effectif ou censé tel des pouvoirs et fonctions que lui confèrent ces articles.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89; 1997, ch. 12, art. 117(F)
+
+</details>
+
+### 252 Moyen de défense
+
+Le créancier garanti ou le séquestre dont on allègue, dans le cadre d’une poursuite, qu’il a contrevenu à l’une ou l’autre des dispositions de la présente partie, peut opposer comme moyen de défense le fait — qu’il doit démontrer — que, au moment de la prétendue contravention, il avait des motifs raisonnables de croire que le débiteur n’était pas insolvable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 27, art. 89
+
+</details>
+
+## Faillite des courtiers en valeurs mobilières
+
+### Définitions
+
+### 253 Définitions
+
+Les définitions qui suivent s’appliquent à la présente partie.
+
+**capitaux nets** En ce qui concerne les comptes de titres d’un client, maintenus à un même titre, le montant des capitaux nets correspond à la valeur nette en dollars des comptes que le courtier en valeurs mobilières devrait au client après liquidation, par vente ou par achat, au moment de la clôture de ses opérations à la date de la faillite, des postes de valeurs mobilières de tous les comptes, à l’exception des valeurs mobilières immatriculées que le client revendique, y compris tout montant relatif aux opérations sur des titres qui n’étaient pas réglées à la date de la faillite, mais qui l’ont été par la suite. Ce montant doit toutefois être réduit du montant qui serait dû par le client au courtier à la date de la faillite, y compris tout montant relatif aux opérations sur des titres qui n’étaient pas réglées à la date de la faillite, mais qui l’ont été par la suite, et du montant des paiements faits, après la date de la faillite, avec l’autorisation du syndic relativement aux dettes du failli. (**net equity**)
+
+**client** S’entend également :
+  - a) de la personne avec laquelle ou pour laquelle un courtier en valeurs mobilières traite en qualité de mandant ou de mandataire, et qui a une réclamation contre le courtier à l’égard de titres que, dans le cadre normal de ses activités, celui-ci a reçus ou acquis de cette personne ou détient pour le compte de cette dernière :
+    - (i) pour dépôt ou mise à part,
+    - (ii) en vue d’une vente,
+    - (iii) en contrepartie d’une vente réalisée,
+    - (iv) par suite d’un achat,
+    - (v) en vue de garantir l’exécution d’une obligation assumée par cette personne,
+    - (vi) en vue d’effectuer un transfert;
+  - b) de la personne qui a, contre un courtier en valeurs mobilières, une réclamation par suite de la vente ou de la conversion faite sans droit par celui-ci d’un titre visé à l’alinéa a);
+  - c) de la personne pour qui un courtier en valeurs mobilières détient de l’argent ou d’autres avoirs.
+N’est pas visée à la présente définition la personne qui a, contre un courtier en valeurs mobilières, une réclamation pour des sommes d’argent ou des titres qui, en raison d’une convention ou par l’effet d’une règle de droit, font partie du capital du courtier ou une réclamation qui est subordonnée aux réclamations des créanciers de celui-ci. (**customer**)
+
+**client responsable** Client qui, en cette qualité ou autrement, du fait de sa conduite, a provoqué l’insolvabilité du courtier en valeurs mobilières ou y a largement contribué. (**deferred customer**)
+
+**contrat en cours** Tout contrat exécutoire conclu par un courtier en valeurs mobilières en vue de l’achat ou de la vente de titres et non exécuté par livraison ou paiement à la date de la faillite. (**open contractual commitment**)
+
+**contrat financier admissible**[Abrogée, 2007, ch. 29, art. 101]
+
+**courtier en valeurs mobilières** Toute personne, membre ou non d’une bourse de valeurs, qui achète des titres à un client ou pour celui-ci ou vend des titres à un client ou pour celui-ci, pour son compte ou en qualité de mandataire, et notamment celle qui a l’obligation de s’inscrire pour avoir le droit de conclure avec le public des opérations sur les titres, à l’exception des personnes qui sont exclues de la définition de « personne morale » à l’article 2. (**securities firm**)
+
+**détenir** S’agissant de valeurs mobilières, est visée l’action de détenir sous forme électronique. (**hold**)
+
+**organisme d’indemnisation des clients** Toute entité prescrite et, sauf exclusion par les Règles générales, le Fonds canadien de protection des épargnants. (**customer compensation body**)
+
+**valeur mobilière** ou **titre** Vise les documents — écrits ou sur support électronique — reconnus comme tels, et notamment :
+  - a) ceux attestant l’existence d’actions, de droits de participation ou d’autres droits ou intérêts dans des biens ou dans une entreprise, y compris les actions, actions de participation et parts ou actions de fonds commun de placement;
+  - b) ceux attestant l’existence de dettes, y compris les billets, obligations, débentures, hypothèques, certificats de dépôt, effets de commerce et titres hypothécaires;
+  - c) ceux attestant l’existence d’un droit ou d’un intérêt à l’égard d’options, de bons ou de souscriptions, ou au titre de contrats de marchandises, de contrats à terme de titres financiers ou de contrats d’échange ou d’autres contrats à terme, ou au titre d’autres instruments dérivés, y compris les contrats financiers admissibles;
+  - d) les documents prescrits. (**security**)
+
+**valeur mobilière immatriculée** Valeur mobilière immatriculée au nom d’un client, qui, à la date de la faillite, est détenue par un courtier en valeurs mobilières ou en son nom pour le compte d’un client et a été régulièrement inscrite au nom de celui-ci ou est en train de l’être, à l’exception de toute valeur mobilière ainsi inscrite au nom du client qui est négociable par le courtier, notamment par endossement. (**customer name securities**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2004, ch. 25, art. 97(A); 2005, ch. 47, art. 117; 2007, ch. 29, art. 101
+
+</details>
+
+### Dispositions générales
+
+### 254 Autres dispositions applicables
+
+(1) Les dispositions de la présente loi s’appliquent, avec les adaptations nécessaires, aux réclamations des clients visant des valeurs mobilières et des valeurs mobilières immatriculées comme si les clients étaient des créanciers.
+
+**Application d’autres dispositions aux opérations**
+
+(2) Les articles 95 à 101 s’appliquent, avec les adaptations nécessaires, aux opérations sur des titres qu’un client a conclues avec un courtier en valeurs mobilières ou par l’intermédiaire de celui-ci.
+
+**Non-application**
+
+(3) La présente partie ne s’applique pas aux procédures intentées sous le régime de la partie III.
+
+**Résiliation ou compensation**
+
+(4) La présente partie ne porte pas atteinte aux droits d’une partie à un contrat, notamment un contrat financier admissible, en ce qui touche la résiliation ou la compensation.
+
+**Créanciers garantis**
+
+(5) La présente partie ne porte pas atteinte aux droits des créanciers garantis.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2004, ch. 25, art. 98(A); 2007, ch. 29, art. 102; 2017, ch. 26, art. 10
+
+</details>
+
+### 255 Conflit
+
+Dans la mesure où elles sont applicables, les dispositions de la présente loi régissent les faillites visées par la présente partie; toutefois, les dispositions de la présente partie l’emportent en cas de conflit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118
+
+</details>
+
+### 256 Requête en faillite — courtier en valeurs mobilières
+
+(1) Une requête en faillite peut être déposée, au titre des articles 43 à 45, contre un courtier en valeurs mobilières par, outre un créancier :
+
+- a) une commission des valeurs mobilières constituée sous le régime de la législation provinciale si :
+  - (i) le courtier a commis un acte de faillite aux termes du paragraphe (2) ou de l’article 42 dans les six mois précédant le dépôt de la requête, alors qu’il détenait un permis délivré par la commission ou était inscrit auprès de celle-ci en vue d’exercer des activités au Canada,
+  - (ii) dans le cas d’un acte de faillite visé au paragraphe (2), la suspension mentionnée à ce paragraphe est en vigueur au moment du dépôt de la requête;
+
+- b) une bourse des valeurs mobilières reconnue par une telle commission si :
+  - (i) le courtier a commis un acte de faillite aux termes du paragraphe (2) ou de l’article 42 dans les six mois précédant le dépôt de la requête alors qu’il était membre de cette bourse,
+  - (ii) dans le cas d’un acte de faillite visé au paragraphe (2), la suspension mentionnée à ce paragraphe est en vigueur au moment du dépôt de la requête;
+
+- c) l’organisme d’indemnisation des clients en cause si :
+  - (i) le courtier a commis un acte de faillite aux termes du paragraphe (2) ou de l’article 42 dans les six mois précédant le dépôt de la requête alors qu’il avait des clients dont tout ou partie des comptes de titres étaient protégés par l’organisme,
+  - (ii) dans le cas d’un acte de faillite visé au paragraphe (2), la suspension mentionnée à ce paragraphe est en vigueur au moment du dépôt de la requête;
+
+- d) une personne qui, à l’égard des biens du courtier, est un séquestre au sens du paragraphe 243(2), séquestre-gérant ou liquidateur ou une personne exerçant des fonctions semblables qui est nommée sous le régime de la législation fédérale ou provinciale en matière de valeurs mobilières, si le courtier a commis un acte de faillite aux termes de l’article 42 dans les six mois précédant le dépôt de la requête.
+
+**Suspension du courtier en valeurs mobilières**
+
+(2) Pour l’application des alinéas (1)a) à c), constitue un acte de faillite la suspension soit de l’inscription du courtier en valeurs mobilières par la commission des valeurs mobilières visée à l’alinéa (1)a), soit de la suspension de la qualité de membre du courtier en valeurs mobilières par la bourse des valeurs mobilières visée à l’alinéa (1)b) si la suspension découle de son défaut de satisfaire aux exigences en matière de suffisance de capital.
+
+**Signification à la commission des valeurs mobilières**
+
+(3) Copie de la requête déposée au titre des alinéas (1)b) ou c) doit être signifiée à la commission des valeurs mobilières compétente dans la localité où elle a été déposée, et ce avant l’expiration de la période prescrite précédant l’audition de la requête ou de la période plus courte que le tribunal peut fixer.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2004, ch. 25, art. 99; 2005, ch. 47, art. 118
+
+</details>
+
+### 257 Envoi d’un relevé
+
+Le syndic de l’actif d’un courtier en valeurs mobilières envoie aux clients de celui-ci un relevé de leurs comptes de titres et une copie de l’avis de faillite visé au paragraphe 102(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118
+
+</details>
+
+### 258 Clients responsables
+
+(1) Si le syndic est d’avis qu’un client devrait être traité comme un client responsable, il peut demander au tribunal de rendre une ordonnance sur ce point, auquel cas il transmet au client copie de la demande, avec les motifs pour lesquels il devrait être ainsi traité. Le tribunal peut, sur préavis qu’il estime indiqué, rendre l’ordonnance qu’il estime indiquée dans les circonstances.
+
+**Organisme d’indemnisation des clients**
+
+(2) La demande peut également être présentée par l’organisme d’indemnisation des clients qui protège les comptes de titres des clients en cause. Le cas échéant, l’organisme transmet copie de la demande au client concerné, avec les motifs pour lesquels il devrait être traité comme un client responsable, et le tribunal peut, sur préavis qu’il estime indiqué, rendre l’ordonnance qu’il estime indiquée dans les circonstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118
+
+</details>
+
+### 259 Pouvoirs du syndic
+
+Dans le cadre d’une faillite visée à la présente partie, le syndic peut, sans la permission des inspecteurs et tant qu’il n’en a pas été nommé et, par la suite, avec leur permission :
+
+- a) agir comme fondé de pouvoir à l’égard des titres qui lui sont dévolus et les transférer;
+
+- b) vendre des valeurs mobilières, à l’exception des valeurs mobilières immatriculées;
+
+- c) acheter des valeurs mobilières;
+
+- d) obtenir mainlevée d’une garantie afférente à des titres qui lui sont dévolus;
+
+- e) exécuter un contrat en cours;
+
+- f) tenir les comptes de titres des clients et satisfaire aux appels de marge;
+
+- g) distribuer des sommes d’argent et des titres aux clients;
+
+- h) transférer des comptes de titres à un courtier en valeurs mobilières et, dans la mesure du possible, satisfaire aux demandes des clients relatives aux contrats en cours et à leur transfert à ce courtier, et conclure des arrangements sur l’indemnisation de celui-ci en cas de découvert de trésorerie ou à l’égard des valeurs mobilières des comptes transférés;
+
+- i) liquider des comptes de titres sans préavis;
+
+- j) vendre, sans soumission, des avoirs essentiels aux activités du courtier en valeurs mobilières.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2004, ch. 25, art. 100; 2015, ch. 3, art. 10(F)
+
+</details>
+
+### 260 Décision du syndic
+
+Le syndic :
+
+- a) détermine quelles sont les valeurs mobilières des comptes de titres qui seront traitées comme des valeurs mobilières immatriculées;
+
+- b) avise les clients en cause de sa décision dans les meilleurs délais.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118
+
+</details>
+
+### Distribution de l’actif
+
+### 261 Dévolution au syndic des valeurs mobilières
+
+(1) En cas de faillite d’un courtier en valeurs mobilières, sont dévolues au syndic :
+
+- a) les valeurs mobilières appartenant au courtier;
+
+- b) les valeurs mobilières et les sommes d’argent détenues par toute personne pour le compte du courtier;
+
+- c) les valeurs mobilières et les sommes d’argent détenues par le courtier pour le compte d’un client, à l’exception des valeurs mobilières immatriculées.
+
+**Constitution de fonds**
+
+(2) En cas de faillite d’un courtier en valeurs mobilières et de dévolution au syndic de biens au titre du paragraphe (1) ou de toute autre disposition de la présente loi, ce dernier constitue :
+
+- a) un fonds — le fonds des clients — qui est composé :
+  - (i) des valeurs mobilières — y compris celles obtenues après la date de la faillite, mais à l’exception des valeurs mobilières immatriculées et des contrats financiers admissibles auxquels le courtier est partie — qui sont détenues par celui-ci ou pour son compte :
+    - (A) relativement aux comptes de titres des clients,
+    - (B) relativement aux comptes des personnes qui ont conclu des contrats financiers admissibles avec le courtier et qui ont déposé auprès de celui-ci des valeurs mobilières afin de garantir l’exécution de leurs obligations,
+    - (C) relativement aux comptes propres au courtier,
+  - (ii) des sommes d’argent — y compris celles obtenues après la date de la faillite et les sommes et autres revenus énumérés ci-après — qui sont détenues par le courtier ou pour son compte relativement aux comptes de titres des clients, aux comptes des personnes qui ont conclu des contrats financiers admissibles avec lui et qui ont déposé auprès de lui des sommes d’argent afin de garantir l’exécution de leurs obligations et aux comptes de titres propres au courtier :
+    - (A) les dividendes, intérêts ou autres revenus relatifs aux valeurs mobilières visées au sous-alinéa (i),
+    - (B) les sommes obtenues par la disposition des valeurs mobilières visées au sous-alinéa (i),
+    - (C) les sommes obtenues relativement aux contrats d’assurance portant sur les réclamations des clients à l’égard des valeurs mobilières visées au sous-alinéa (i);
+  - (iii) des placements du courtier dans ses filiales, qui ne sont pas visés aux sous-alinéas (i) ou (ii);
+
+- b) un fonds — le fonds général — composé des autres biens dévolus au syndic.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2004, ch. 25, art. 101(F); 2005, ch. 47, art. 119
+
+</details>
+
+### 262 Répartition et distribution — fonds des clients
+
+(1) Les sommes d’argent et les valeurs mobilières du fonds des clients sont, en premier lieu, affectées au paiement des frais d’administration mentionnés à l’alinéa 136(1)b), dans la mesure où les sommes du fonds général sont insuffisantes, et, en second lieu, versées aux clients, à l’exception des clients responsables, en proportion de leurs capitaux nets. Le cas échéant, le reliquat est versé au fonds général.
+
+**Biens déposés au titre d’un contrat financier admissible**
+
+(1.1) Lorsqu’une personne a, au titre d’un contrat financier admissible, déposé des biens auprès d’un courtier en valeurs mobilières afin de garantir l’exécution de ses obligations et que ces biens sont versés au fonds des clients au titre de l’alinéa 261(2)a), elle participe à la distribution de l’actif de ce fonds comme si elle était un client du courtier; elle a une réclamation pour ses capitaux nets dont le montant équivaut à la valeur nette des biens qui aurait pu être remise après déduction des sommes dues au titre du contrat.
+
+**Distribution de valeurs mobilières**
+
+(2) Si le fonds des clients comporte des valeurs mobilières d’un type donné, le syndic distribue celles-ci aux clients qui ont des réclamations les visant, en proportion de leurs réclamations et à concurrence de leurs capitaux nets, à moins qu’il estime plus indiqué dans les circonstances de les vendre et de distribuer le produit de la vente à ces clients en proportion de leurs réclamations.
+
+**Compensation**
+
+(2.1) Sous réserve du paragraphe (2), le syndic peut acquitter tout ou partie de la réclamation d’un client visant un type particulier de valeurs mobilières en remettant à celui-ci des valeurs de ce type auxquelles il avait droit à la date de la faillite. Il est entendu que le syndic peut à cette fin acheter des valeurs mobilières conformément à l’article 259.
+
+**Répartition — fonds général**
+
+(3) Les biens du fonds général sont distribués, par ordre de priorité :
+
+- a) aux créanciers privilégiés, selon l’ordre prévu au paragraphe 136(1);
+
+- b) au prorata :
+  - (i) aux clients, à l’exception des clients responsables, ayant des réclamations visant des capitaux nets qui restent une fois distribués les biens du fonds des clients et les biens obtenus d’un organisme d’indemnisation des clients, le cas échéant, en proportion de leurs réclamations pour des capitaux nets,
+  - (ii) le cas échéant, à l’organisme d’indemnisation des clients, à concurrence des paiements faits ou des compensations accordées aux clients à l’égard de leurs capitaux nets,
+  - (iii) aux créanciers, en proportion de la valeur de leur réclamation;
+
+- c) au prorata, aux créanciers visés à l’article 137;
+
+- d) aux clients responsables, en proportion de leurs réclamations pour des capitaux nets.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2005, ch. 47, art. 120
+
+</details>
+
+### 263 Remise des valeurs mobilières immatriculées
+
+(1) Le syndic remet au client les valeurs mobilières immatriculées qui lui appartiennent si celui-ci n’est pas endetté envers le courtier en valeurs mobilières.
+
+**Remise des valeurs mobilières immatriculées**
+
+(2) Le syndic remet au client les valeurs mobilières immatriculées qui lui appartiennent lorsque celui-ci n’est plus endetté envers le courtier en valeurs mobilières relativement à ces valeurs ou à tout autre titre.
+
+**Dette envers le courtier en valeurs mobilières**
+
+(3) Lorsqu’un client est endetté envers le courtier en valeurs mobilières relativement à des valeurs mobilières immatriculées qui lui appartiennent ou à tout autre titre, le syndic peut, après avis au client, vendre des valeurs pour le montant des dettes sans que ce dernier retienne un droit, titre ou intérêt en l’espèce. Le cas échéant, le syndic remet les valeurs mobilières immatriculées non vendues au client.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2005, ch. 47, art. 121
+
+</details>
+
+### 264 Consultation de l’organisme d’indemnisation des clients
+
+Lorsqu’un organisme d’indemnisation des clients protège tout ou partie des comptes des clients d’un courtier en valeurs mobilières, le syndic doit le consulter sur l’administration de la faillite; l’organisme peut désigner un inspecteur pour agir en son nom.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118
+
+</details>
+
+### 265 Réclamation après la distribution
+
+Un client peut prouver sa réclamation après la distribution de sommes d’argent ou de valeurs mobilières du fonds des clients et a droit de recevoir, avant qu’une distribution ultérieure ne soit effectuée au profit des autres clients, de tels biens du fonds se trouvant entre les mains du syndic au moment où sa réclamation est prouvée et ce à concurrence de ses capitaux nets; toutefois, sa réclamation ne peut porter atteinte aux distributions antérieures des biens du fonds des clients et du fonds général.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118
+
+</details>
+
+### État des recettes et débours
+
+### 266 État et relevé
+
+Outre les autres relevés, états et rapports qu’il doit préparer au titre de la présente loi, le syndic prépare :
+
+- a) un relevé, d’une part, de la distribution des biens du fonds des clients aux clients qui ont prouvé leur réclamation et, d’autre part, de l’aliénation des valeurs mobilières immatriculées;
+
+- b) tout autre rapport sur la distribution ou l’aliénation que le tribunal ordonne.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118
+
+</details>
+
+## Insolvabilité en contexte international
+
+### Objet
+
+### 267 Objet
+
+La présente partie a pour objet d’offrir des moyens pour traiter des cas d’insolvabilité en contexte international et de promouvoir les objectifs suivants :
+
+- a) assurer la collaboration entre les tribunaux et les autres autorités compétentes du Canada et ceux des ressorts étrangers intervenant dans de tels cas;
+
+- b) garantir une plus grande certitude juridique dans le commerce et les investissements;
+
+- c) administrer équitablement et efficacement les instances d’insolvabilité en contexte international, de manière à protéger les intérêts des créanciers et des autres parties intéressées, y compris les débiteurs;
+
+- d) protéger les biens des débiteurs et en optimiser la valeur;
+
+- e) faciliter le redressement des entreprises en difficulté, de manière à protéger les investissements et préserver les emplois.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2005, ch. 47, art. 122
+
+</details>
+
+### Définitions
+
+### 268 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente partie.
+
+**instances étrangères** Toute procédure judiciaire ou administrative, y compris la procédure provisoire, régie par une loi étrangère relative à la faillite ou à l’insolvabilité qui touche les droits de l’ensemble des créanciers et dans le cadre de laquelle les biens et les affaires du débiteur sont placés sous la responsabilité ou la surveillance d’un tribunal étranger aux fins de réorganisation ou de liquidation. (**foreign proceeding**)
+
+**principale** Qualifie l’instance étrangère qui a lieu dans le ressort où le débiteur a ses principales affaires. (**foreign main proceeding**)
+
+**représentant étranger** Personne ou organisme qui, même à titre provisoire, est autorisé dans le cadre d’une instance étrangère à administrer les biens ou les affaires du débiteur aux fins de réorganisation ou de liquidation, ou à y agir en tant que représentant. (**foreign representative**)
+
+**secondaire** Qualifie l’instance étrangère autre que l’instance étrangère principale. (**foreign non-main proceeding**)
+
+**tribunal étranger** Autorité, judiciaire ou autre, compétente pour contrôler ou surveiller des instances étrangères. (**foreign court**)
+
+**Lieu des principales affaires**
+
+(2) Pour l’application de la présente partie, sauf preuve contraire, le siège social du débiteur ou, s’agissant d’une personne physique, le lieu de sa résidence habituelle est présumé être celui où il a ses principales affaires.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2004, ch. 25, art. 102; 2005, ch. 47, art. 122
+
+</details>
+
+### Reconnaissance des instances étrangères
+
+### 269 Demande de reconnaissance des instances étrangères
+
+(1) Le représentant étranger peut demander au tribunal de reconnaître l’instance étrangère pour laquelle il a qualité.
+
+**Documents accompagnant la demande de reconnaissance**
+
+(2) La demande de reconnaissance est accompagnée des documents suivants :
+
+- a) une copie certifiée conforme de l’acte introductif — quelle qu’en soit la désignation — de l’instance étrangère ou le certificat délivré par le tribunal étranger attestant l’introduction de celle-ci;
+
+- b) une copie certifiée conforme de l’acte — quelle qu’en soit la désignation — autorisant le représentant étranger à agir à ce titre ou le certificat délivré par le tribunal étranger attestant la qualité de celui-ci;
+
+- c) une déclaration faisant état de toutes les instances étrangères visant le débiteur qui sont connues du représentant étranger.
+
+**Documents acceptés comme preuve**
+
+(3) Le tribunal peut, sans preuve supplémentaire, accepter les documents visés aux alinéas (2)a) et b) comme preuve du fait qu’il s’agit d’une instance étrangère et que le demandeur est le représentant étranger dans le cadre de celle-ci.
+
+**Autres documents**
+
+(4) En l’absence de ces documents, il peut accepter toute autre preuve — qu’il estime indiquée — de l’introduction de l’instance étrangère et de la qualité du représentant étranger.
+
+**Traduction**
+
+(5) Il peut exiger la traduction des documents accompagnant la demande.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2005, ch. 47, art. 122
+
+</details>
+
+### 270 Ordonnance de reconnaissance
+
+(1) S’il est convaincu que la demande de reconnaissance vise une instance étrangère et que le demandeur est un représentant étranger dans le cadre de celle-ci, le tribunal reconnaît, par ordonnance, l’instance étrangère en cause.
+
+**Nature de l’instance étrangère**
+
+(2) Il précise dans l’ordonnance s’il s’agit d’une instance étrangère principale ou secondaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2005, ch. 47, art. 122
+
+</details>
+
+### 271 Effets de la reconnaissance d’une instance étrangère principale
+
+(1) Sous réserve des paragraphes (2) à (4), dès le prononcé de l’ordonnance de reconnaissance qui précise qu’il s’agit d’une instance étrangère principale :
+
+- a) il est interdit d’intenter ou de continuer une action, mesure d’exécution ou autre procédure visant les biens, dettes, obligations ou engagements du débiteur en cause;
+
+- b) si le débiteur exploite une entreprise, il ne peut disposer, notamment par vente, des biens de l’entreprise situés au Canada hors du cours ordinaire des affaires ou de ses autres biens situés au Canada;
+
+- c) s’il est une personne physique, il ne peut disposer, notamment par vente, de ses biens au Canada.
+
+**Non-application du paragraphe (1)**
+
+(2) Le paragraphe (1) ne s’applique pas si, au moment où l’ordonnance de reconnaissance est rendue, une procédure a déjà été intentée sous le régime de la présente loi contre le débiteur.
+
+**Exceptions**
+
+(3) Les interdictions visées aux alinéas (1)a) et b) sont subordonnées aux exceptions que le tribunal précise dans l’ordonnance de reconnaissance et qui auraient existé au Canada si l’instance étrangère avait été intentée sous le régime de la présente loi.
+
+**Application de la présente loi et d’autres lois**
+
+(4) Le paragraphe (1) n’a pas pour effet d’empêcher que soit intentée ou continuée, contre le débiteur, une procédure sous le régime de la présente loi, de la *Loi sur les liquidations et les restructurations* ou de la *Loi sur les arrangements avec les créanciers des compagnies*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2005, ch. 47, art. 122
+
+</details>
+
+### 272 Mesures disponibles après la reconnaissance d’une instance étrangère
+
+(1) Si l’ordonnance de reconnaissance a été rendue, le tribunal, sur demande présentée par le représentant étranger demandeur, peut, s’il est convaincu que la mesure est nécessaire pour protéger les biens du débiteur ou les intérêts d’un ou de plusieurs créanciers, rendre toute ordonnance qu’il estime indiquée, notamment pour :
+
+- a) s’il s’agit d’une instance étrangère secondaire, imposer les interdictions visées aux alinéas 271(1)a) à c) et préciser, le cas échéant, à quelles exceptions elles sont subordonnées, par l’effet du paragraphe 271(3);
+
+- b) régir l’interrogatoire des témoins et la manière de recueillir les preuves et de fournir des renseignements concernant les biens, affaires, dettes, obligations et engagements du débiteur;
+
+- c) confier l’administration ou la réalisation de tout ou partie des biens du débiteur situés au Canada au représentant étranger ou à toute autre personne;
+
+- d) nommer, pour la période qu’il estime indiquée, un syndic comme séquestre à tout ou partie des biens du débiteur situés au Canada et ordonner à celui-ci :
+  - (i) de prendre possession de tout ou partie des biens du débiteur mentionnés dans la nomination et d’exercer sur ces biens ainsi que sur les affaires du débiteur le degré d’emprise que le tribunal estime indiqué,
+  - (ii) de prendre toute autre mesure que le tribunal estime indiquée.
+
+**Restriction**
+
+(2) Si, au moment où l’ordonnance de reconnaissance est rendue, une procédure a déjà été intentée sous le régime de la présente loi contre le débiteur, l’ordonnance prévue au paragraphe (1) doit être compatible avec toute ordonnance qui peut être rendue dans le cadre de cette procédure.
+
+**Application de la présente loi et d’autres lois**
+
+(3) L’ordonnance rendue au titre de l’alinéa (1)a) n’a pas pour effet d’empêcher que soit intentée ou continuée, contre le débiteur, une procédure sous le régime de la présente loi, de la *Loi sur les liquidations et les restructurations* ou de la *Loi sur les arrangements avec les créanciers des compagnies*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2005, ch. 47, art. 122
+
+</details>
+
+### 273 Conditions
+
+Le tribunal peut assortir les ordonnances qu’il rend au titre de la présente partie des conditions qu’il estime indiquées dans les circonstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2005, ch. 47, art. 122
+
+</details>
+
+### 274 Début et continuation des procédures
+
+Si l’ordonnance de reconnaissance est rendue, le représentant étranger en cause peut intenter ou continuer toute procédure visée aux articles 43, 46 à 47.1 et 49 et aux paragraphes 50(1) et 50.4(1) comme s’il était créancier du débiteur, ou le débiteur, selon le cas.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2004, ch. 25, art. 103; 2005, ch. 47, art. 122
+
+</details>
+
+### Obligations
+
+### 275 Collaboration — tribunal
+
+(1) Si l’ordonnance de reconnaissance a été rendue, le tribunal collabore dans toute la mesure possible avec le représentant étranger et le tribunal étranger en cause dans l’instance étrangère reconnue.
+
+**Collaboration — autres autorités compétentes**
+
+(2) Si une procédure a été intentée sous le régime de la présente loi contre un débiteur et qu’une ordonnance a été rendue reconnaissant une instance étrangère visant ce débiteur, toute personne exerçant des attributions dans le cadre de la procédure intentée sous le régime de la présente loi collabore dans toute la mesure possible avec le représentant étranger et le tribunal étranger en cause.
+
+**Moyens d’assurer la collaboration**
+
+(3) Pour l’application du présent article, la collaboration peut être assurée par tout moyen approprié, notamment :
+
+- a) la nomination d’une personne chargée d’agir suivant les instructions du tribunal;
+
+- b) la communication de renseignements par tout moyen jugé approprié par celui-ci;
+
+- c) la coordination de l’administration et de la surveillance des biens et des affaires du débiteur;
+
+- d) l’approbation ou l’application par les tribunaux des accords concernant la coordination des procédures;
+
+- e) la coordination de procédures concurrentes concernant le même débiteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, ch. 12, art. 118; 2005, ch. 47, art. 122; 2007, ch. 36, art. 59
+
+</details>
+
+### 276 Obligations du représentant étranger
+
+Si l’ordonnance de reconnaissance est rendue, il incombe au représentant étranger demandeur :
+
+- a) d’informer sans délai le tribunal :
+  - (i) de toute modification sensible de l’état de l’instance étrangère reconnue,
+  - (ii) de toute modification sensible de sa qualité,
+  - (iii) de toute autre instance étrangère visant le débiteur qui a été portée à sa connaissance;
+
+- b) de publier, sans délai après le prononcé de l’ordonnance, une fois par semaine pendant deux semaines consécutives, ou selon les modalités qui y sont prévues, dans le journal ou les journaux au Canada qui y sont précisés, un avis contenant les renseignements prescrits.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122
+
+</details>
+
+### Procédures multiples
+
+### 277 Procédures concomitantes
+
+Si, après qu’a été rendue une ordonnance de reconnaissance à l’égard d’une instance étrangère visant un débiteur, une procédure est intentée sous le régime de la présente loi contre ce débiteur :
+
+- a) le tribunal examine toute ordonnance rendue au titre de l’article 272 et, s’il conclut qu’elle n’est pas compatible avec toute ordonnance rendue dans le cadre de la procédure, il la modifie ou la révoque;
+
+- b) s’il s’agit d’une instance étrangère principale, le tribunal lève les interdictions visées aux alinéas 271(1)a) à c) s’il conclut qu’elles ne sont pas compatibles avec les interdictions semblables imposées dans le cadre de la procédure.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122
+
+</details>
+
+### 278 Plusieurs instances étrangères
+
+(1) Si, après qu’a été rendue une ordonnance de reconnaissance à l’égard d’une instance étrangère secondaire visant un débiteur, une ordonnance de reconnaissance est rendue à l’égard d’une instance étrangère principale visant le même débiteur, le tribunal examine toute ordonnance rendue au titre de l’article 272 dans le cadre de l’instance étrangère secondaire et, s’il conclut qu’elle n’est pas compatible avec toute ordonnance rendue au titre de cet article dans le cadre de l’instance étrangère principale, il la modifie ou la révoque.
+
+**Plusieurs instances étrangères**
+
+(2) Si, après qu’a été rendue une ordonnance de reconnaissance à l’égard d’une instance étrangère secondaire visant un débiteur, une autre ordonnance de reconnaissance est rendue à l’égard d’une instance étrangère secondaire visant le même débiteur, le tribunal examine, en vue de coordonner ces instances, toute ordonnance rendue au titre de l’article 272 dans le cadre de la première instance reconnue et la modifie ou la révoque s’il l’estime indiqué.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122
+
+</details>
+
+### Dispositions diverses
+
+### 279 Autorisation d’agir à titre de représentant dans une procédure intentée sous le régime de la présente loi
+
+Le tribunal peut autoriser toute personne ou tout organisme à agir à titre de représentant à l’égard de toute procédure intentée sous le régime de la présente loi en vue d’obtenir la reconnaissance de celle-ci dans un ressort étranger.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122
+
+</details>
+
+### 280 Statut du représentant étranger
+
+Le représentant étranger n’est pas soumis à la juridiction du tribunal pour le motif qu’il a présenté une demande au titre de la présente partie, sauf en ce qui touche les frais de justice; le tribunal peut toutefois subordonner toute ordonnance visée à la présente partie à l’observation par le représentant étranger de toute autre ordonnance rendue par lui.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122
+
+</details>
+
+### 281 Procédures intentées à l’étranger — appel
+
+Le fait qu’une instance étrangère fait l’objet d’un appel ou d’une révision n’a pas pour effet d’empêcher le représentant étranger de présenter toute demande au tribunal au titre de la présente partie; malgré ce fait, le tribunal peut, sur demande, accorder des redressements.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122
+
+</details>
+
+### 282 Présomption d’insolvabilité
+
+Pour l’application de la présente partie, une copie certifiée conforme de l’ordonnance de faillite, d’insolvabilité ou de réorganisation ou de toute ordonnance semblable, rendue contre un débiteur dans le cadre d’une instance étrangère, fait foi, sauf preuve contraire, de l’insolvabilité de celui-ci et de la nomination du représentant étranger au titre de l’ordonnance.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122
+
+</details>
+
+### 283 Sommes reçues à l’étranger
+
+(1) Lorsqu’une ordonnance de faillite est rendue ou qu’une proposition ou une cession est faite au titre de la présente loi à l’égard du débiteur, les éléments énumérés ci-après doivent être pris en considération dans la distribution des dividendes aux créanciers d’un débiteur au Canada comme s’ils faisaient partie de la distribution :
+
+- a) les sommes qu’un créancier a reçues — ou auxquelles il a droit — à l’étranger, à titre de dividende, dans le cadre d’une instance étrangère le visant;
+
+- b) la valeur de tout bien du débiteur que le créancier a acquis à l’étranger au titre d’une créance prouvable ou par suite d’un transfert qui, si la présente loi lui était applicable, procurerait à un créancier une préférence sur d’autres créanciers ou constituerait une opération sous-évaluée.
+
+**Restriction**
+
+(2) Un créancier n’a toutefois pas le droit de recevoir un dividende dans le cadre de la distribution faite au Canada tant que les titulaires des créances venant au même rang que la sienne dans l’ordre de collocation prévu par la présente loi n’ont pas reçu un dividende dont le pourcentage d’acquittement est égal au pourcentage d’acquittement des éléments visés aux alinéas (1)a) et b).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122
+
+</details>
+
+### 284 Application de règles
+
+(1) La présente partie n’a pas pour effet d’empêcher le tribunal d’appliquer, sur demande faite par le représentant étranger ou tout autre intéressé, toute règle de droit ou d’equity relative à la reconnaissance des ordonnances étrangères en matière d’insolvabilité et à l’assistance à prêter au représentant étranger, dans la mesure où elle n’est pas incompatible avec les dispositions de la présente loi.
+
+**Exception relative à l’ordre public**
+
+(2) La présente partie n’a pas pour effet d’empêcher le tribunal de refuser de prendre une mesure contraire à l’ordre public.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122; 2007, ch. 36, art. 60
+
+</details>
+
+## Examen de la loi
+
+### 285 Rapport
+
+(1) Dans les cinq ans suivant l’entrée en vigueur du présent article, le ministre présente au Sénat et à la Chambre des communes un rapport sur la présente loi et les conséquences de son application, dans lequel il fait état des modifications qu’il juge souhaitables.
+
+**Examen parlementaire**
+
+(2) Le comité du Sénat, de la Chambre des communes ou mixte, constitué ou désigné à cette fin, est saisi d’office du rapport et procède dans les meilleurs délais à l’étude de celui-ci et, dans l’année qui suit son dépôt ou le délai supérieur accordé par le Sénat, la Chambre des communes ou les deux chambres, selon le cas, présente son rapport.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 47, art. 122
+
+</details>
+
+
+## DISPOSITIONS CONNEXES
+
+### — L.R. (1985), ch. 27 (2^e^ suppl.), art. 11
+
+### 11 Disposition transitoire : procédure
+
+Les procédures intentées en vertu des dispositions modifiées en annexe avant l’entrée en vigueur de l’article 10 se poursuivent en conformité avec les nouvelles dispositions sans autres formalités.
+
+### — 1990, ch. 17, par. 45(1)
+
+### 45 Disposition transitoire : procédures
+
+(1) Les procédures intentées avant l’entrée en vigueur du présent paragraphe et auxquelles s’appliquent des dispositions visées par la présente loi se poursuivent sans autres formalités en conformité avec ces dispositions dans leur forme modifiée.
+
+### — 1992, ch. 27, par. 9(2) et (3)
+
+
+(2) Lorsque, avant l’entrée en vigueur du présent article, le surintendant a, par écrit, fait part à un titulaire de licence de son intention de soumettre à son sujet un rapport au ministre aux termes de l’article 7 de la *Loi sur la faillite*, dans sa version antérieure à l’entrée en vigueur de l’article 6 de la présente loi :
+
+- a) les dispositions suivantes de la *Loi sur la faillite* continuent de s’appliquer, dans la mesure où elles ont trait à l’investigation effectuée relativement à ce titulaire de licence et visée à l’article 7 de cette loi :
+  - (i) les articles 7 et 8, dans leur version antérieure à l’entrée en vigueur de l’article 6 de la présente loi,
+  - (ii) les paragraphes 14(2) et (3), dans leur version antérieure à l’entrée en vigueur du présent article;
+
+- b) les articles 14.01 à 14.03 de la *Loi sur la faillite et l’insolvabilité*, édictés par le paragraphe (1) du présent article, ne s’appliquent pas dans la mesure où les dispositions de la *Loi sur la faillite* visées à l’alinéa a) continuent de s’appliquer.
+
+### — 1992, ch. 27, par. 9(2) et (3)
+
+
+(3) Lorsque, aux termes du paragraphe (2), le paragraphe 14(2) de la *Loi sur la faillite* continue de s’appliquer et que l’audition à laquelle le titulaire de licence a droit aux termes du paragraphe 14(2) n’a pas commencé avant l’entrée en vigueur du présent article, le ministre peut, par écrit et aux conditions qu’il précise dans cet écrit, déléguer les attributions que lui confère le paragraphe 14(2) à toute personne autre que le surintendant.
+
+### — 1992, ch. 27, par. 16(2) et (3)
+
+
+(2) L’article 47 de la *Loi sur la faillite*, dans sa version antérieure à l’entrée en vigueur du paragraphe (1), continue de s’appliquer aux propositions concordataires déposées avant l’entrée en vigueur de ce paragraphe.
+
+### — 1992, ch. 27, par. 16(2) et (3)
+
+
+(3) Les articles 47 à 47.2 de la *Loi sur la faillite et l’insolvabilité*, édictés par le paragraphe (1), ne s’appliquent pas aux séquestres intérimaires nommés avant l’entrée en vigueur de ces articles.
+
+### — 1992, ch. 27, par. 32(2)
+
+
+**Application**
+
+(2) La partie III de la *Loi sur la faillite*, dans sa version antérieure à l’entrée en vigueur du présent paragraphe, continue de s’appliquer aux propositions concordataires déposées avant l’entrée en vigueur de celui-ci.
+
+### — 1992, ch. 27, par. 35(2)
+
+
+(2) L’article 68.1 de la *Loi sur la faillite et l’insolvabilité*, édicté par le paragraphe (1), ne s’applique qu’au débiteur qui devient un failli après l’entrée en vigueur de cet article.
+
+### — 1992, ch. 27, par. 36(2)
+
+
+(2) L’article 69 de la *Loi sur la faillite*, dans sa version antérieure à l’entrée en vigueur du présent paragraphe continue de s’appliquer aux propositions concordataires déposées avant l’entrée en vigueur du présent paragraphe, ainsi qu’aux faillites survenues avant cette date.
+
+### — 1992, ch. 27, par. 38(2)
+
+
+(2) Les articles 81.1 et 81.2 de la *Loi sur la faillite et l’insolvabilité*, édictés par le paragraphe (1), ne s’appliquent qu’aux marchandises livrées après l’entrée en vigueur de ces articles.
+
+### — 1992, ch. 27, par. 42(2)
+
+
+(2) L’article 101.2 de la *Loi sur la faillite et l’insolvabilité* ne s’applique qu’au débiteur qui devient un failli après l’entrée en vigueur de cet article.
+
+### — 1992, ch. 27, par. 50(2)
+
+
+(2) Le paragraphe 121(1) de la même loi, édicté par le paragraphe (1), ne s’applique qu’au failli qui est devenu un failli après l’entrée en vigueur de ce paragraphe.
+
+### — 1992, ch. 27, par. 54(3)
+
+
+(3) L’alinéa 136(1)d) de la *Loi sur la faillite*, dans sa version à l’entrée en vigueur du paragraphe (1), continue à s’appliquer aux faillites survenues avant l’entrée en vigueur de ce paragraphe.
+
+### — 1992, ch. 27, par. 61(2) et (3)
+
+
+(2) L’article 168.1 de la *Loi sur la faillite et l’insolvabilité*, édicté par le paragraphe (1), s’applique au particulier qui fait faillite avant l’entrée en vigueur de cet article si aucune demande d’audition n’a été présentée en application des paragraphes 169(2) ou (3) de cette loi avant cette entrée en vigueur.
+
+### — 1992, ch. 27, par. 61(2) et (3)
+
+
+(3) Si, par application du paragraphe (2), l’article 168.1 de la même loi s’applique au particulier qui a fait faillite plus de sept mois avant l’entrée en vigueur de cet article, alors :
+
+- a) à l’alinéa 168.1(1)a), la mention de « dans les huit mois suivant la date à laquelle une ordonnance de séquestre est rendue ou une cession est faite par le particulier » vaut mention de « dans le mois suivant la date d’entrée en vigueur du présent article »;
+
+- b) aux alinéas 168.1(1)b) à d), la mention de « dans les neuf mois suivant la faillite », et, dans le passage de l’alinéa f) qui précède le sous-alinéa (i), la mention de « dans les neuf mois suivant la date de la faillite » valent mention de « dans les deux mois suivant l’entrée en vigueur du présent article »;
+
+- c) aux sous-alinéas 168.1(1)f)(i) et (ii), la mention de « neuf » vaut mention de « deux »;
+
+- d) au paragraphe 168.1(2), la mention de « neuf mois suivant la faillite » vaut mention de « deux mois suivant l’entrée en vigueur du présent article ».
+
+### — 1992, ch. 27, par. 89(2)
+
+
+(2) La partie XI de la *Loi sur la faillite et l’insolvabilité*, édictée par le paragraphe (1), ne s’applique qu’aux personnes qui sont devenues séquestres après l’entrée en vigueur du présent paragraphe.
+
+### — 1992, ch. 27, art. 92
+
+### 92 Réexamen
+
+Trois ans révolus après l’entrée en vigueur du présent article, le comité de la Chambre des communes, du Sénat ou des deux chambres désigné ou constitué à cette fin se saisit de la présente loi. Le comité examine à fond, dès que possible, cette loi ainsi que les conséquences de son application en vue de la présentation, dans un délai d’un an à compter du début de l’examen ou tel délai plus long autorisé par la Chambre des communes, d’un rapport au Parlement.
+
+### — 1997, ch. 12, par. 15(2)
+
+
+**Application**
+
+(2) Le paragraphe (1) s’applique aux faillites, aux propositions et aux mises sous séquestre visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 59(2)
+
+
+**Application**
+
+(2) Le paragraphe (1) s’applique aux faillites visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 60(2)
+
+
+**Application**
+
+(2) Le paragraphe (1) s’applique aux faillites visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 61(2)
+
+
+**Application**
+
+(2) Le paragraphe (1) s’applique aux faillites visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 62(2)
+
+
+**Application**
+
+(2) Le paragraphe (1) s’applique aux procédures visées à la partie III qui sont intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 63(3)
+
+
+**Application**
+
+(3) Les paragraphes (1) ou (2) s’appliquent aux propositions visées par des procédures intentées après l’entrée en vigueur du paragraphe en cause.
+
+### — 1997, ch. 12, par. 64(2)
+
+
+**Application**
+
+(2) Le paragraphe (1) s’applique aux propositions visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 65(2)
+
+
+**Application**
+
+(2) Le paragraphe (1) s’applique aux faillites et aux propositions visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 73(2)
+
+
+**Application**
+
+(2) Le paragraphe (1) s’applique aux faillites et aux propositions visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 74(3)
+
+
+**Application**
+
+(3) Le paragraphe (1) s’applique aux faillites et aux propositions visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 78(3)
+
+
+**Application**
+
+(3) Le paragraphe (2) s’applique aux faillites visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 82(3)
+
+
+**Application**
+
+(3) Les paragraphes (1) ou (2) s’appliquent aux faillites et aux propositions visées par des procédures intentées après l’entrée en vigueur du paragraphe en cause.
+
+### — 1997, ch. 12, par. 84(3)
+
+
+**Application**
+
+(3) Les paragraphes (1) ou (2) s’appliquent aux faillites visées par des procédures intentées après l’entrée en vigueur du paragraphe en cause.
+
+### — 1997, ch. 12, par. 87(3)
+
+
+**Application**
+
+(3) Les paragraphes (1) ou (2) s’appliquent aux faillites et aux propositions visées par des procédures intentées après l’entrée en vigueur du paragraphe en cause.
+
+### — 1997, ch. 12, par. 89(3)
+
+
+**Application**
+
+(3) Les paragraphes (1) ou (2) s’appliquent aux faillites et aux propositions visées par des procédures intentées après l’entrée en vigueur du paragraphe en cause.
+
+### — 1997, ch. 12, par. 90(5)
+
+
+**Application**
+
+(5) Le paragraphe (2) s’applique aux faillites et aux propositions visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 92(3)
+
+
+**Application**
+
+(3) Le paragraphe (1) s’applique aux faillites visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 101(2)
+
+
+**Application**
+
+(2) Le paragraphe (1) s’applique aux faillites visées par des procédures intentées après son entrée en vigueur.
+
+### — 1997, ch. 12, par. 103(2)
+
+
+**Application**
+
+(2) Les alinéas 173(1)m) ou n) de la même loi, édictés par le paragraphe (1), s’appliquent aux faillites visées par des procédures intentées après l’entrée en vigueur de l’alinéa en cause.
+
+### — 1997, ch. 12, par. 105(4)
+
+
+**Application**
+
+(4) Les paragraphes (1), (2) ou (3) s’appliquent aux faillites et aux propositions visées par des procédures intentées après l’entrée en vigueur du paragraphe en cause.
+
+### — 1997, ch. 12, par. 118(2)
+
+
+**Application**
+
+(2) La partie XII de la même loi, édictée par le paragraphe (1), s’applique aux faillites visées par des procédures intentées après l’entrée en vigueur de celui-ci.
+
+### — 1997, ch. 12, art. 119
+
+### 119 Application
+
+Les articles 30 à 58 s’appliquent aux procédures intentées au titre de la *Loi sur la faillite et l’insolvabilité* après l’entrée en vigueur du présent article.
+
+### — 1998, ch. 19, par. 250(2)
+
+
+(2) Le paragraphe (1) est réputé entré en vigueur le 15 juin 1994. Toutefois, pour l’application du paragraphe 67(3) de la même loi, édicté par le paragraphe (1), après le 14 juin 1994 et avant le 30 juin 1996, le renvoi aux paragraphes 86(2) ou (2.1) de la *Loi sur l’assurance-emploi* est remplacé par un renvoi aux paragraphes 57(2) ou (3) de la *Loi sur l’assurance-chômage*.
+
+### — 1998, ch. 21, par. 103(3) et (4)
+
+
+**Application**
+
+(3) Le paragraphe (1) s’applique aux dettes et obligations sans égard au fait qu’elles surviennent avant ou après l’entrée en vigueur du présent article.
+
+### — 1998, ch. 21, par. 103(3) et (4)
+
+
+**Application**
+
+(4) Les paragraphes (1) et (2) s’appliquent aux faillites et aux propositions visées par des procédures intentées après l’entrée en vigueur du présent article.
+
+### — 1998, ch. 30, art. 10
+
+### 10 Procédures
+
+Les procédures intentées avant l’entrée en vigueur du présent article et auxquelles s’appliquent des dispositions visées par les articles 12 à 16 se poursuivent sans autres formalités en conformité avec ces dispositions dans leur forme modifiée.
+
+### — 2000, ch. 12, art. 21
+
+### [^]21 Application
+
+Les articles 8 à 20 ne s’appliquent qu’aux faillites, aux propositions et aux mises sous séquestre visées par des procédures intentées après l’entrée en vigueur du présent article.
+
+### — 2000, ch. 30, par. 143(2)
+
+
+(2) Le paragraphe (1) est réputé être entré en vigueur le 30 novembre 1992. Toutefois, avant le 30 juin 1996, les renvois à la *Loi sur l’assurance-emploi* à l’alinéa 54(2.1)b) de la *Loi sur la faillite et l’insolvabilité*, édicté par le paragraphe (1), sont remplacés par des renvois à la *Loi sur l’assurance-chômage*.
+
+### — 2000, ch. 30, par. 144(2)
+
+
+(2) Le paragraphe (1) est réputé être entré en vigueur le 30 novembre 1992. Toutefois, avant le 30 juin 1996, les renvois à la *Loi sur l’assurance-emploi* à l’alinéa 60(1.1)b) de la *Loi sur la faillite et l’insolvabilité*, édicté par le paragraphe (1), sont remplacés par des renvois à la *Loi sur l’assurance-chômage*.
+
+### — 2000, ch. 30, par. 145(3)
+
+
+(3) Les paragraphes (1) et (2) sont réputés être entrés en vigueur le 30 novembre 1992. Toutefois, avant le 30 juin 1996, les renvois à la *Loi sur l’assurance-emploi* au sous-alinéa 69(1)c)(ii) de la *Loi sur la faillite et l’insolvabilité*, édicté par le paragraphe (1), et aux sous-alinéas 69(3)a)(ii) et b)(ii) de la même loi, édictés par le paragraphe (2), sont remplacés par des renvois à la *Loi sur l’assurance-chômage*.
+
+### — 2000, ch. 30, par. 146(4) et (5)
+
+
+(4) Le paragraphe (1) s’applique aux propositions visées par des procédures intentées en vertu de la même loi après le 29 septembre 1997.
+
+### — 2000, ch. 30, par. 146(4) et (5)
+
+
+(5) Les paragraphes (2) et (3) sont réputés être entrés en vigueur le 30 novembre 1992. Toutefois, avant le 30 juin 1996, les renvois à la *Loi sur l’assurance-emploi* aux sous-alinéas 69.1(3)a)(ii) et b)(ii) de la *Loi sur la faillite et l’insolvabilité*, édictés par le paragraphe (2), sont remplacés par des renvois à la *Loi sur l’assurance-chômage*.
+
+### — 2000, ch. 30, par. 148(2)
+
+
+(2) Le paragraphe (1) est réputé être entré en vigueur le 30 novembre 1992. Toutefois, avant le 30 juin 1996, les renvois à la *Loi sur l’assurance-emploi* à l’alinéa 86(3)b) de la *Loi sur la faillite et l’insolvabilité*, édicté par le paragraphe (1), sont remplacés par des renvois à la *Loi sur l’assurance-chômage*.
+
+### — 2001, ch. 4, art. 177
+
+### 177 Faillite et insolvabilité — créancier garanti
+
+(1) La définition de **créancier garanti**, au paragraphe 2(1) de la *Loi sur la faillite et l’insolvabilité*, dans sa version édictée par l’article 25 de la présente loi, ne s’applique qu’aux faillites et aux propositions visées par des procédures intentées après l’entrée en vigueur de cet article. Le présent paragraphe n’a toutefois pas pour effet de modifier la situation de toute personne qui était un créancier garanti dans le cadre d’une faillite ou d’une proposition visée par des procédures intentées avant l’entrée en vigueur de cet article.
+
+**Faillite et insolvabilité — al. 136(1)e)**
+
+(2) L’alinéa 136(1)e) de la *Loi sur la faillite et l’insolvabilité*, dans sa version édictée par l’article 31 de la présente loi, ne s’applique qu’aux faillites et aux propositions visées par des procédures intentées après l’entrée en vigueur de cet article. Le présent paragraphe n’a toutefois pas pour effet de modifier la situation de toute personne qui était un créancier garanti dans le cadre d’une faillite ou d’une proposition visée par des procédures intentées avant l’entrée en vigueur de cet article.
+
+**Faillite et insolvabilité — al. 178(1)d)**
+
+(3) L’alinéa 178(1)d) de la *Loi sur la faillite et l’insolvabilité*, dans sa version édictée par l’article 32 de la présente loi, ne s’applique qu’aux faillites visées par des procédures intentées après l’entrée en vigueur de cet article.
+
+### — 2005, ch. 47, art. 133, modifié par 2007, ch. 36, art. 107
+
+### 133 *Loi sur la faillite et l’insolvabilité*
+
+(1) Toute modification à la *Loi sur la faillite et l’insolvabilité* édictée par l’un des articles 2 à 5 ou 7 à 106, le paragraphe 107(1) ou l’un des articles 108 à 123 de la présente loi ne s’applique qu’à l’égard des personnes suivantes :
+
+- a) celles qui deviennent faillis à la date d’entrée en vigueur de la modification ou par la suite;
+
+- b) celles qui déposent un avis d’intention à la date d’entrée en vigueur de la modification ou par la suite;
+
+- c) celles qui déposent une proposition à la date d’entrée en vigueur de la modification ou par la suite alors qu’elles n’avaient pas déposé d’avis d’intention;
+
+- d) celles à l’égard desquelles une proposition est déposée à la date d’entrée en vigueur de la modification ou par la suite alors qu’elles n’avaient pas déposé d’avis d’intention;
+
+- e) celles dont la totalité ou une partie des biens est mise en la possession ou sous la responsabilité d’un séquestre intérimaire nommé à la date d’entrée en vigueur de la modification ou par la suite;
+
+- f) celles dont la totalité ou une partie des biens est mise en la possession ou sous la responsabilité d’un séquestre à la date d’entrée en vigueur de la modification ou par la suite.
+
+**Paragraphe 107(2)**
+
+(2) La modification à la *Loi sur la faillite et l’insolvabilité* édictée par le paragraphe 107(2) de la présente loi ne s’applique qu’à l’égard des personnes qui, à la date de son entrée en vigueur, sont des faillis non libérés et de celles qui deviennent des faillis à cette date ou par la suite.
+
+### — 2005, ch. 47, art. 135
+
+### 135 Disposition transitoire
+
+Le surintendant des faillites qui est en fonctions à l’entrée en vigueur du paragraphe 5(1) de la *Loi sur la faillite et l’insolvabilité*, édicté par le paragraphe 6(1), continue d’exercer sa charge jusqu’à l’expiration de son mandat comme s’il avait été nommé en vertu de ce paragraphe 5(1).
+
+### — 2007, ch. 29, art. 117
+
+### 117 *Loi sur la faillite et l’insolvabilité*
+
+La modification apportée à la *Loi sur la faillite et l’insolvabilité* par l’un des articles 91, 92, 94 à 96 et 99 à 101 de la présente loi ne s’applique qu’aux personnes qui, à la date d’entrée en vigueur de la modification ou par la suite :
+
+- a) soit deviennent faillis;
+
+- b) soit déposent un avis d’intention;
+
+- c) soit déposent une proposition alors qu’elles n’avaient pas déposé d’avis d’intention;
+
+- d) soit sont visées par une proposition déposée alors qu’elles n’avaient pas déposé d’avis d’intention.
+
+### — 2007, ch. 36, art. 110
+
+### 110 *Loi sur la faillite et l’insolvabilité*
+
+Toute modification à la *Loi sur la faillite et l’insolvabilité* édictée par l’un des paragraphes 1(1) et (5) à (7), les articles 3 ou 6, le paragraphe 9(3), les articles 12 ou 13, les paragraphes 14(2) ou (3), 15(2) ou (3), 16(2) ou (3) ou 17(2), l’un des articles 19 à 22, 25, 31, 34, 35, 37, 42, 44, 46 à 48 et 50, le paragraphe 51(1), l’un des articles 55 à 57 ou le paragraphe 58(2) de la présente loi ne s’applique qu’à l’égard des personnes suivantes :
+
+- a) celles qui deviennent faillis à la date d’entrée en vigueur de la modification ou par la suite;
+
+- b) celles qui déposent un avis d’intention à la date d’entrée en vigueur de la modification ou par la suite;
+
+- c) celles qui déposent une proposition à la date d’entrée en vigueur de la modification ou par la suite alors qu’elles n’avaient pas déposé d’avis d’intention;
+
+- d) celles à l’égard desquelles une proposition est déposée à la date d’entrée en vigueur de la modification ou par la suite alors qu’elles n’avaient pas déposé d’avis d’intention;
+
+- e) celles dont la totalité ou une partie des biens est mise en la possession ou sous la responsabilité d’un séquestre intérimaire nommé à la date d’entrée en vigueur de la modification ou par la suite;
+
+- f) celles dont la totalité ou une partie des biens est mise en la possession ou sous la responsabilité d’un séquestre à la date d’entrée en vigueur de la modification ou par la suite.
+
+### — 2009, ch. 31, art. 66
+
+### 66
+
+Les articles 84.1 et 84.2 de la *Loi sur la faillite et l’insolvabilité*, édictés par l’article 64, et l’article 88 de cette loi, édicté par l’article 65, s’appliquent aux procédures intentées au titre de cette loi à compter de la date de sanction de la présente loi.
+
+### — 2011, ch. 24, art. 164
+
+### 164 Disposition transitoire
+
+La *Loi sur le Programme de protection des salariés*, dans sa version modifiée par l’article 163, s’applique :
+
+- a) au salaire dû à une personne physique par un employeur qui a fait faillite après le 5 juin 2011;
+
+- b) au salaire dû à une personne physique par un employeur dont tout bien est mis en possession ou sous la responsabilité d’un séquestre, au sens du paragraphe 243(2) de la *Loi sur la faillite et l’insolvabilité*, après le 5 juin 2011.
+
+### — 2018, ch. 27, art. 270
+
+### 270 *Loi sur la faillite et l’insolvabilité*
+
+Les paragraphes 65.11(7) et 65.13(9) et les articles 72.1 et 246.1 de la *Loi sur la faillite et l’insolvabilité*, édictés par les articles 265 à 268, ne s’appliquent qu’à l’égard des procédures intentées sous le régime de cette loi à la date d’entrée en vigueur du présent article ou par la suite.
+
+### — 2019, ch. 29, art. 149
+
+### 149
+
+L’article 4.2, l’alinéa 67(1)b.3) et les paragraphes 101(1), (2.01), (2.1), (3.1) et (5.1) de la *Loi sur la faillite et l’insolvabilité*, édictés par les articles 133 à 135, ne s’appliquent qu’à l’égard des procédures intentées sous le régime de cette loi à la date d’entrée en vigueur de l’article, de l’alinéa ou du paragraphe, selon le cas, ou par la suite.
+
+### — 2023, ch. 6, par. 7(1)
+
+### 7 Exception — employeurs
+
+(1) Les articles 2 à 4 ne s’appliquent pas à la personne qui est un employeur et qui, la veille de leur entrée en vigueur, participait à un régime de pension prescrit institué pour ses employés, et ce, jusqu’au quatrième anniversaire de l’entrée en vigueur de la présente loi.
+
+### — 2024, ch. 15, art. 275
+
+### 275 *Loi sur la faillite et l’insolvabilité*
+
+La définition de **personne morale**, à l’article 2 de la *Loi sur la faillite et l’insolvabilité*, édictée par l’article 273, ne s’applique qu’à l’égard des procédures intentées sous le régime de cette loi à la date d’entrée en vigueur de cet article 273 ou après cette date.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2024, ch. 15, art. 273
+
+### 273
+
+La définition de **personne morale**, à l’article 2 de la *Loi sur la faillite et l’insolvabilité*, est remplacée par ce qui suit :

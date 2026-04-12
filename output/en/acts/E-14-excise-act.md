@@ -1,0 +1,5023 @@
+---
+title: "Excise Act"
+long_title: "An Act respecting excise"
+chapter: "E-14"
+language: "en"
+type: "act"
+---
+
+# Excise Act
+
+> An Act respecting excise
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Excise Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 1
+
+</details>
+
+## Application
+
+### 1.1 Non-application of Act
+
+(1) Despite anything in this Act, on the coming into force of Parts 3 and 4 of the *Excise Act, 2001*, this Act ceases to apply in respect of
+
+- (a) the manufacture of any goods or substance other than beer, malt liquor and any product manufactured in accordance with subsection 169(2); and
+
+- (b) the handling of, or the dealing with, anything that is or relates to any goods or substance other than beer, malt liquor and any product manufactured in accordance with subsection 169(2), to the extent that the *Excise Act, 2001* applies to that handling or dealing.
+
+**Meaning of **beer** and **malt liquor****
+
+(2) In subsection (1), **beer** and **malt liquor** have the meaning assigned by section 4.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2002, c. 22, s. 363
+
+</details>
+
+### 1.2 Non-application — transformation of beer concentrate
+
+(1) This Act does not apply to the transformation, by dilution or hydration, of beer concentrate into beer for consumption as a beverage on the premises where it is transformed if the transformation is done in a manner approved by the Minister.
+
+**Meaning of **beer****
+
+(2) For the purposes of subsection (1), **beer** means a product that would be **beer** or **malt liquor**, as defined in section 4, if that definition were read without reference to its paragraph (b).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2017, c. 33, s. 165
+
+</details>
+
+## Interpretation
+
+### General
+
+### 2 Definitions
+
+In this Act,
+
+**bonding warehouse** means any warehouse in which goods subject to excise may be stored or deposited without payment of the duty imposed by this Act; (**entrepôt**)
+
+**collector** means every officer of excise who is appointed to collect the duties imposed by this Act in any defined district or excise division; (**receveur**)
+
+**Commissioner** means the Commissioner of Revenue appointed under section 25 of the *Canada Revenue Agency Act*; (**commissaire**)
+
+**Department**[Repealed, 1999, c. 17, s. 139]
+
+**departmental analyst** means a person employed as a chemical analyst in any department or agency of the government of Canada or of any province; (**analyste de ministère**)
+
+**departmental regulations**[Repealed, 1999, c. 17, s. 139]
+
+**Deputy Minister**[Repealed, 1999, c. 17, s. 139]
+
+**excise division** means the district or territory under the survey of the collector; (**division d’accise**)
+
+**holiday**, in relation to any area in Canada, means a day that is a holiday for employees employed in that area
+  - (a) by the Canada Revenue Agency and who are entitled to additional compensation for work performed on that day, or
+  - (b) in the Public Service and to whom regulations made pursuant to the *Financial Administration Act* respecting terms and conditions of employment apply; (**jour férié**)
+
+**inspector** means any superior officer or any inspector of excise who is appointed or authorized to perform the duties of inspector in any defined district or excise division; (**inspecteur**)
+
+**Minister** means the Minister of National Revenue; (**ministre**)
+
+**ministerial regulations** means all regulations made by the Minister under this Act; (**règlements ministériels**)
+
+**officer** means every officer of excise who is employed or appointed to the survey of manufactures, operations or premises subject to excise, and every person employed for the purpose of the administration or enforcement of this Act, including any member of the Royal Canadian Mounted Police; (**préposé**)
+
+**person** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual, a government or a body that is a society, a union, a club, an association, a commission or another organization of any kind; (**personne**)
+
+**possession** means not only having in one’s own personal possession, but also knowingly
+  - (a) having in the actual possession or custody of any other person, and
+  - (b) having in any place, whether belonging to or occupied by one’s self or not, for the use or benefit of one’s self or of any other person; (**possession**)
+
+**provincial analyst** means any analyst appointed by the government of any province and having authority to make any analysis for any public purpose; (**analyste provincial**)
+
+**regulations**, unless the context indicates that the reference is to ministerial regulations, means regulations made by the Governor in Council under this Act; (**règlements**)
+
+**stamp** means any distinctive mark, label or seal impressed on, printed on, marked on, indented into or affixed to any goods subject to excise, or any distinctive mark, label or seal impressed on, printed on, marked on, indented into or affixed to any package in which any of those goods are contained; (**estampille**)
+
+**subject to excise** means subject to the provisions of this Act, of any other Act respecting duties of excise or of any proclamation, order in council or ministerial regulation published or made under those provisions; (**sujet à l’accise**, **soumis à l’accise** ou **assujetti à l’accise**)
+
+**subsequent offence** means an offence committed within five years after the date of a previous conviction; (**récidive**)
+
+**superior officer** means the Commissioner and any officer or member of a class of officers designated by the Minister; (**fonctionnaire supérieur**)
+
+**vehicle** means any motor vehicle, aircraft or other conveyance designed to be driven or drawn by any means including muscular power, and any part thereof, and includes any equipment necessary for the proper operation of the vehicle and any appurtenances of the vehicle; (**véhicule**)
+
+**vessel**, where used to indicate a craft for navigation of the water, includes any ship, vessel or boat of any kind whatever, whether propelled by steam or otherwise and whether used as a sea-going vessel or on inland waters only, and also includes any vehicle; (**vaisseau**)
+
+**volume of absolute ethyl alcohol** means such volume measured at twenty degrees Celsius (20°C). (**volume d’alcool éthylique absolu**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 2; R.S., 1985, c. 1 (2nd Supp.), s. 213(F); 1994, c. 13, s. 7, c. 37, s. 1; 1999, c. 17, ss. 139, 144(E); 2005, c. 38, ss. 91, 138; 2007, c. 2, s. 58
+
+</details>
+
+### 2.1 Possession
+
+For the purposes of subsections 225(1) and (3) and 235(3), section 239.1 and subsections 240(1) and (2), where one of two or more persons, with the knowledge and consent of the rest, has anything in the person’s possession, it shall be deemed to be in the custody and possession of each and all of them.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 25, s. 31; 2001, c. 32, s. 63
+
+</details>
+
+### 2.2 Related persons
+
+For the purposes of this Act, persons are related to each other if they are related persons within the meaning of subsections 251(2) to (6) of the *Income Tax Act*, except that
+
+- (a) a reference in those subsections to “corporation” shall be read as a reference to “corporation or partnership”; and
+
+- (b) a reference in those subsections to “shares” or “shareholders” shall, in respect of a partnership, be read as a reference to “rights” or “partners”, respectively.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2007, c. 2, s. 59
+
+</details>
+
+### 2.3 Associated persons
+
+(1) For the purposes of this Act, a particular corporation is associated with another corporation if, by reason of subsections 256(1) to (6) of the *Income Tax Act*, the particular corporation is associated with the other corporation for the purposes of that Act.
+
+**Corporations controlled by same person or group**
+
+(2) For the purposes of this Act, a person other than a corporation is associated with a particular corporation if the particular corporation is controlled by the person or by a group of persons of which the person is a member and each of whom is associated with each of the others.
+
+**Partnership or trust**
+
+(3) For the purposes of this Act, a person is associated with
+
+- (a) a partnership if the total of the shares of the profits of the partnership to which the person and all other persons who are associated with the person are entitled is more than half of the total profits of the partnership, or would be more than half of the total profits of the partnership if it had profits; and
+
+- (b) a trust if the total of the values of the interests in the trust of the person and all other persons who are associated with the person is more than half of the total value of all interests in the trust.
+
+**Association with third person**
+
+(4) For the purposes of this Act, a person is associated with another person if each of them is associated with the same third person.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2007, c. 2, s. 59
+
+</details>
+
+### 2.4 Exception
+
+If a corporation that is a licensed brewer would otherwise be related to another corporation that is also a licensed brewer by reason that the corporations are controlled by individuals connected by blood relationship, marriage or common-law partnership or adoption, the corporations are deemed not to be related for the purposes of section 170.1 if it is established that they deal with each other at arm’s length.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2007, c. 2, s. 59
+
+</details>
+
+### Distilleries
+
+### 3 Definitions
+
+(1) In this Act,
+
+**alcohol**, **ethyl alcohol** and **spirits** mean any material or substance, whether in liquid or any other form, containing any proportion by mass or by volume of absolute ethyl alcohol (C~2~H~5~OH); (**alcool**, **alcool éthylique** ou **eau-de-vie**)
+
+**beer**, **wash** or **wort**, as applied to distilleries, means all liquor made in whole or in part from grain, malt or other saccharine matter, whether or not the liquor is fermented or unfermented; (**bière**, **moût fermenté** ou **moût**)
+
+**Canadian brandy** means spirits distilled exclusively from the juices of native fruits, without the addition of sugar or other saccharine matter; (**brandy canadien**)
+
+**chemical still** means any distilling apparatus that is kept and used by any person for the sole purpose of distilling water or reclaiming alcohol previously used in or for the preparation or manufacture of chemical, medicinal or pharmaceutical preparations, or that is used for scientific or industrial purposes, and not used for the manufacture or distillation of spirits, of which use in every case the Minister shall be the sole judge; (**alambic de chimiste**)
+
+**closed spirit-receiver** means the vessel or vessels into which the spirit is conveyed for measurement; (**récipient d’eau-de-vie fermé**)
+
+**distiller** means any person who conducts, works, occupies or carries on any distillery, who rectifies any spirits by any process whatever, either by himself or his agent, or who has in his possession, complete or partially completed, or who imports, makes or manufactures, in whole or in part, any still, worm, rectifying or other apparatus suitable for the manufacture of spirits, and everyone who makes or keeps beer or wash prepared, in preparation or fit for distilling, or low wines or faints, or who has in his possession or use a still or rectifying apparatus, shall be deemed to be a distiller; (**distillateur**)
+
+**distillery** means any place or premises where
+  - (a) any process of fermentation for the production of wash is carried on,
+  - (b) any wash is kept or produced for the purpose of distillation,
+  - (c) any mash-tub, fermenting-tun, worm or still for the distillation of spirits is set up or used,
+  - (d) any process of distillation whatever of spirits is carried on,
+  - (e) any process of rectification of spirits, either by re-distillation or filtration, or other process is carried on,
+  - (f) any spirits are manufactured or produced from any substance whatever, by any process whatever, or
+  - (g) any still, rectifier or other apparatus, suitable for the manufacture of spirits, is in whole or in part manufactured, made or kept,
+and every office, workshop, warehouse, granary, fermenting-room, mash-house, still-room, rectifying-house, vault, cellar, shed, yard or other place owned or occupied by or on behalf of, or for the use of, any distiller, or in which any part of his business as such is transacted, where any grain, matter, material or apparatus suitable for or adapted to the production of spirits, or that is or is to be used in the production or rectification of spirits, is kept or stored, where any of the products of the distillery are kept or stored or where any process of manufacture is carried on, shall be held to be included in and to form part of the distillery to which it is attached or appurtenant; (**distillerie**)
+
+**rectifier** means any pipe, vessel or still into which the spirit is conveyed for the purpose of rectification by re-distillation, filtration or any other process; (**rectificateur**)
+
+**rectifying spirits** means the process of refining spirits by re-distillation, filtration or any other process; (**rectification d’eau-de-vie**)
+
+**still** means any distilling apparatus whatever adapted or adaptable to the distillation of spirits; (**alambic**)
+
+**worm** means any pipe, condenser or other equipment used or intended to be used for the condensation of spirit vapour. (**serpentin**)
+
+**Working of a distillery**
+
+(2) Any use made of any still, worm, mash-tub or fermenting-tun, rectifying or other apparatus suitable for the manufacture of wash, beer or spirits, for the distillation or rectification of any spirits or for fermenting any beer or wash, or the making or commencing to make, or the importation of, any such still, worm, mash-tub, fermenting-tun, rectifying or other apparatus, shall be deemed to be a working of a distillery and acting as a distiller within the meaning of this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 3; R.S., c. 15(1st Supp.), s. 2; 1980-81-82-83, c. 68, s. 49
+
+</details>
+
+### Breweries
+
+### 4 Definitions
+
+In this Act,
+
+**beer concentrate** means any product
+  - (a) that has an alcoholic strength in excess of 11.9% absolute ethyl alcohol by volume,
+  - (b) that is either
+    - (i) made by dehydrating a fermented liquor (other than **wine**, as defined in section 2 of the *Excise Act, 2001*) that is brewed in whole or in part from malt, grain or any saccharine matter without any process of distillation and that has an alcoholic strength not in excess of 11.9% absolute ethyl alcohol by volume, or
+    - (ii) intended, before being offered for consumption as a beverage, to be transformed by dilution or hydration into a fermented liquor (other than **wine**, as defined in section 2 of the *Excise Act, 2001*) that has an alcoholic strength not in excess of 11.9% absolute ethyl alcohol by volume, if the production of the product
+  - (c) that is not intended or marketed for consumption as a beverage without further transformation on the premises where it is to be consumed as a beverage, and
+  - (d) for which the manner of the further transformation is approved by the Minister; (**concentré de bière**)
+
+**beer** or **malt liquor** means any product (other than **wine**, as defined in section 2 of the *Excise Act, 2001*) containing more than 0.5% absolute ethyl alcohol by volume that is
+  - (a) a fermented liquor that is brewed in whole or in part from malt, grain or any saccharine matter without any process of distillation and that has an alcoholic strength not in excess of 11.9% absolute ethyl alcohol by volume, or
+  - (b) beer concentrate; (**bière** ou **liqueur de malt**)
+
+**brewer** means any person who conducts, works, occupies or carries on any brewery, either personally or by an agent; (**brasseur**)
+
+**brewery** means any place or premises where any beer is manufactured, and all offices, granaries, mash-rooms, cooling-rooms, vaults, yards, cellars and store-rooms connected therewith or in which any material to be used in the manufacture of beer is kept or stored, where any process of manufacture is carried on, where any apparatus connected with that manufacture is kept or used or where any of the products of brewing or fermentation are kept or stored, shall be held to be included in and to form part of the brewery to which they are attached or appurtenant; (**brasserie**)
+
+**malt** means any substance prepared by steeping grain or leguminous seeds in water, allowing the grain or seeds to germinate, and checking the germination by drying. (**malt**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 4; 2002, c. 22, s. 364; 2008, c. 28, s. 49; 2017, c. 33, s. 166
+- 2022, c. 10, s. 133
+
+</details>
+
+### Bonded Manufacturers
+
+### 5 Definitions
+
+In this Act,
+
+**bonded manufactory** means any place or premises licensed to use spirits or other goods subject to excise in the manufacture of articles under formula approved by the Minister, and every place or premises where any of those articles are warehoused, stored or kept shall be held to form a part of the bonded manufactory to which it is attached or appurtenant; (**fabrique-entrepôt** ou **manufacture-entrepôt**)
+
+**bonded manufacturer** means a person who carries on under bond and subject to ministerial regulations the manufacture of articles in the production of which goods subject to excise are used in combination with other materials. (**fabricant entrepositaire** ou **manufacturier entrepositaire**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 5; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Tobacco and Cigars and Manufacturers thereof
+
+### 6 Definitions
+
+In this Act,
+
+**accredited representative** means a person who is entitled to the tax exemptions specified in Article 34 of the Convention set out in Schedule I to the *Foreign Missions and International Organizations Act* or Article 49 of the Convention set out in Schedule II to that Act; (**représentant accrédité**)
+
+**Canada twist**, otherwise called *tabac blanc en torquettes*, means the unstemmed, unflavoured and unpressed leaf of tobacco grown in Canada, twisted and made into coils by a manufacturer of tobacco duly licensed under this Act; (**tabac canadien en torquette** ou **tabac blanc en torquette**)
+
+**casing** and **case** refer to the operation of adding to raw leaf tobacco any flavouring materials, but moistening by water alone is not casing; (**aromatisation**)
+
+**cigar** means every description of cigar, cigarillo and cheroot and any roll or tubular construction intended for smoking that consists of a filler composed of pieces of natural or reconstituted leaf tobacco, a binder of natural or reconstituted leaf tobacco in which the filler is wrapped and a wrapper of natural or reconstituted leaf tobacco; (**cigare**)
+
+**cigar manufactory** means any place or premises where raw leaf tobacco is worked up into a cigar, and every workshop, office, store-room, shed, yard or other place where any of the raw material is or is to be stored, where any process connected with the manufacture or preparation of cigars is or is intended to be carried on or where any of the products of the manufacture are or are intended to be stored shall be held to be included in and to form part of the cigar manufactory to which they are attached or appurtenant; (**fabrique de cigares** ou **manufacture de cigares**)
+
+**cigar manufacturer** means any person who, either personally or by an agent, carries on the manufacture of cigars, and the casing, packing, cutting, pressing, grinding, rolling, drying, crushing or stemming of any raw leaf tobacco, or otherwise preparing raw leaf tobacco for manufacture into cigars, is a working of a cigar manufactory and an acting as a cigar manufacturer within the meaning of this Act; (**fabricant de cigares** ou **manufacturier de cigares**)
+
+**cigar stamp** means any stamp required by this Act and the ministerial regulations to be affixed to a cigar, or a package, carton, box, crate or other container containing cigars, entered for consumption or imported into Canada, to indicate
+  - (a) in the case of cigars manufactured in Canada, that the duties of excise have been paid on the cigars, and
+  - (b) in the case of cigars imported into Canada, that the additional customs duty has been paid under the *Customs Act* and the *Customs Tariff* on the cigars; (**estampille de cigares**)
+
+**cigarette** means every description of cigarette and any roll or tubular construction intended for smoking, other than a cigar or a tobacco stick, and where any cigarette exceeds one hundred and two millimetres (102 mm) in length, each seventy-six millimetres (76 mm) or fraction thereof shall be deemed to be a separate cigarette; (**cigarettes**)
+
+**excise tax** means the taxes levied under section 23 of the *Excise Tax Act*; (**taxe d’accise**)
+
+**foreign duty free shop** has the meaning assigned by subsection 2(1) of the *Excise Tax Act*; (**boutique hors taxes à l’étranger**)
+
+**foreign ships’ stores** has the meaning assigned by subsection 2(1) of the *Excise Tax Act*; (**provisions de bord à l’étranger**)
+
+**manufactured tobacco** means every article, other than cigars, made by a tobacco manufacturer from raw leaf tobacco by any process whatever, and includes cigarettes, tobacco sticks and snuff; (**tabac fabriqué** ou **tabac manufacturé**)
+
+**raw leaf tobacco** means unmanufactured tobacco or the leaves and stems of the tobacco plant; (**tabac en feuilles**)
+
+**standard leaf tobacco**, as applied to any kind of tobacco, means that which consists of ten per cent of water and ninety per cent of solid matter; (**tabac en feuilles régulier**)
+
+**tobacco manufactory** means any place or premises where raw leaf tobacco is worked up into manufactured tobacco, and every workshop, office, store-room, warehouse, shed, yard or other place where any of the raw material is or is to be stored, where any process connected with the manufacture or preparation of manufactured tobacco is or is intended to be carried on or where any of the products of the manufacture are or are intended to be stored shall be held to be included in and to form part of the tobacco manufactory to which they are attached or appurtenant; (**fabrique de tabac** ou **manufacture de tabac**)
+
+**tobacco manufacturer** means everyone who manufactures tobacco for himself, or who employs others to manufacture tobacco, other than cigars, whether the manufacture is by casing, packing, cutting, pressing, grinding, rolling, drying, crushing or stemming of any raw leaf tobacco, or otherwise preparing raw leaf or manufactured or partially manufactured tobacco, by the putting up for use or consumption of scraps, waste, clippings, stems or deposits of tobacco, resulting from any process of handling tobacco, or by the working or preparation of raw leaf tobacco, scraps, waste, clippings, stems or deposits of tobacco, by sifting, twisting, screening or any other process; (**fabricant de tabac** ou **manufacturier de tabac**)
+
+**tobacco marking** means any information required by this Act and the regulations to be printed on or affixed to
+  - (a) packages, cartons, boxes, crates and other containers containing manufactured tobacco that is not required by this Act and the ministerial regulations to be put up in packages that are required to be stamped with a tobacco stamp,
+  - (b) a cigar that is not required by this Act and the ministerial regulations to be stamped with a cigar stamp, or
+  - (c) packages, cartons, boxes, crates and other containers containing cigars that are not required by this Act and the ministerial regulations to be put up in packages that are required to be stamped with a cigar stamp; (**mention obligatoire**)
+
+**tobacco packer** means any person who, subject to ministerial regulations, by himself or his agent, deals in, prepares, packs, stems, reconstitutes or converts Canadian raw leaf tobacco or employs others to do so; (**paqueteur de tabac**)
+
+**tobacco stamp** means any stamp required by this Act and the ministerial regulations to be impressed on, printed on, marked on, indented into or affixed to a cigarette, or a package, carton, box, crate or other container containing manufactured tobacco, entered for consumption or imported into Canada, or to be affixed to Canadian raw leaf tobacco entered for consumption, to indicate
+  - (a) in the case of manufactured tobacco manufactured in Canada or Canadian raw leaf tobacco, that the duties of excise have been paid on the manufactured tobacco or the Canadian raw leaf tobacco, and
+  - (b) in the case of manufactured tobacco imported into Canada, that the additional customs duty has been paid under the *Customs Act* and the *Customs Tariff* on the manufactured tobacco; (**estampille de tabac**)
+
+**tobacco stick** means any roll or tubular construction of tobacco intended for smoking, other than a cigar, that requires further preparation to be consumed and, where any tobacco stick exceeds ninety millimetres (90 mm) in length or eight hundred milligrams (800 mg), each sixty millimetres (60 mm) or six hundred and fifty milligrams (650 mg), as the case may be, or fraction thereof shall be deemed to be a separate tobacco stick. (**bâtonnets de tabac**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 6; 1991, c. 42, s. 6; 1993, c. 25, s. 32; 1994, c. 37, s. 2; 1999, c. 17, s. 144(E); 2001, c. 16, s. 7
+
+</details>
+
+## Application
+
+### 7 Rates binding and payable by Her Majesty
+
+(1) The rates and duties of excise imposed by this Act or any other law relating to excise as well as the rates and duties of excise imposed by any law relating to excise or inland revenue enacted and in force since July 1, 1867 are binding on and payable by Her Majesty in respect of any goods manufactured or imported by or for Her Majesty, whether in right of Canada or a province, and whether or not the goods so manufactured or imported belonged at the time of manufacture or importation to Her Majesty, and any and all of those Acts shall be construed and interpreted as if the rates and duties of excise were and are by express words charged on and made payable by Her Majesty.
+
+**Interpretation**
+
+(2) Nothing contained in subsection (1) is intended to impose or to declare the imposition of any tax on, or to make or declare liable to taxation, any property belonging to Her Majesty in right of Canada or a province.
+
+**Duties payable after seizure**
+
+(3) Without restricting the generality of subsections (1) and (2), when any goods subject to excise have been seized or forfeited by the government of any province or any public authority established by or under the authority of that government, the duties of excise imposed by this Act are payable and may be recovered in the same manner as if those goods were found in the possession of any private person.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 7
+
+</details>
+
+## General
+
+### Licences
+
+### 8 Minister may refuse or suspend licence
+
+(1) The Minister may, for any reason that he deems sufficient in the public interest, refuse to issue any licence or to grant any privilege authorized by this Act, and may suspend, cancel or revoke a licence granted or any privilege given by this Act.
+
+**Commissioner may act**
+
+(2) The Minister may authorize the Commissioner to exercise on the Minister’s behalf any of the powers conferred on the Minister by this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 8; 1999, c. 17, s. 140
+
+</details>
+
+### 9 No licence in places unsurveyed or unsettled
+
+No licence shall be issued under this Act, nor shall any business subject to excise be carried on, in any unsurveyed or unsettled tract of country or in any district or place prohibited by order in council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 9
+
+</details>
+
+### 10 Business may not be carried on without licence
+
+No person, unless licensed to do so, shall carry on any business or trade subject to excise or use any utensil, machinery or apparatus suitable for carrying on that business or trade or, not being licensed as a distiller or licensed to carry on the business of rectifying spirits, import, make or begin to make any still, rectifier or other apparatus suitable for the manufacture or rectification of spirits.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 10
+
+</details>
+
+### 11 List of apparatus to be furnished to collector
+
+Every person who imports, makes, has in his possession or keeps any still, worm, mash-tub, fermenting-tun, distilling, rectifying or brewing apparatus, tobacco press or mill for cutting or grinding tobacco shall, forthwith, after the apparatus or machinery comes into his possession and in each subsequent year on or before April 10, give to the collector of the division in which the apparatus or machinery is located a full and particular list, description and return thereof, the same in nature and form as is required by this Act in an application for a licence to use similar apparatus or machinery.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 11
+
+</details>
+
+### 12 Term of licence
+
+Each licence issued pursuant to this Act expires on March 31 next following the date of its issue, but, unless the licence is suspended, cancelled or revoked, it shall be deemed to be reissued from year to year on each successive April 1 on payment, on or before March 31 in each year, of the fee prescribed by the regulations for the issue of the licence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 12; R.S., c. 15(1st Supp.), s. 4
+
+</details>
+
+### 13 Application for licence
+
+Every person who requires a licence under this Act shall make application therefor in writing over the person’s signature to the collector, or any other officer designated by the Minister, within whose district or excise division the business for which the licence is required is to be carried on, and every application shall be made in the form prescribed by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 13; 1999, c. 17, s. 141(E)
+
+</details>
+
+### 14 What application must show
+
+(1) Every application for a licence under this Act shall state the exact locality in the city, town, village, township or local municipality, as the case may be, where the premises are situated, in which the business for which the licence is required is to be carried on, and shall also contain or have annexed thereto a full and particular written description in triplicate, with such models, diagrams or drawings, also in triplicate, as may be required by ministerial regulations.
+
+**Where licence to apply**
+
+(2) No licence shall authorize a person to carry on any business subject to excise in any place other than the premises mentioned in the application for the licence, but on application being made, in the form prescribed by the Minister, by the holder of any licence under this Act, the licence so held may be transferred from any premises to any other premises situated within the same excise division, without payment of additional licence fee, if all the requirements of this Act have been complied with by the holder of the licence with reference to the premises to which it is proposed to transfer it and all obligations imposed by the licence have been fulfilled.
+
+**New bond**
+
+(3) Whenever any transfer of a licence is made pursuant to subsection (2), a new bond shall be taken as is required on the issue of a new licence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 14; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 15 Name of surety
+
+Every application for a licence under this Act shall state the name of the guarantee company proposed by the applicant therefor as his surety, in accordance with the requirements of this Act, and it shall also state, in the case of a tobacco manufactory, the maximum quantity of manufactured tobacco, and, in the case of a cigar manufactory, the maximum number of cigars intended to be produced in each month.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 15
+
+</details>
+
+### 16 List and description of apparatus
+
+Every application for a licence for distilling or brewing shall contain, in addition to the information required by sections 14 and 15, a list and description in triplicate of all utensils, stills, worms, boilers, mash-tubs, fermenting-tuns, coolers, closed spirit-receivers or other vessels or machinery that are intended to be placed on the premises or that are on the premises at the time of application, specifying distinctly and clearly
+
+- (a) the dimensions and capacity of every still, mash-tub, fermenting-tun, cooler, closed spirit-receiver and every other utensil, in centimetres and litres, the purpose to which each is to be applied and the locality or position in the premises in which it is, or is to be, placed or used; and
+
+- (b) a description of every pipe, conduit, trough, hose, valve, pump, cock and of every means of connection or communication between the several vessels or utensils used in or about the distillery or brewery, with a description and drawing or model showing the exact position of every cock, valve, connection and joint.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 16; 1980-81-82-83, c. 68, s. 51
+
+</details>
+
+### 17 Premises to be surveyed by officer
+
+(1) No licence shall be granted for carrying on any business subject to excise until after a survey has been made by the collector, or an officer instructed for the purpose by him, of the buildings or places in which the business is to be carried on or until the collector or other officer has certified in writing that the application, descriptions, models, diagrams and drawings correctly represent the premises, and that all the provisions of this Act and of every order in council or ministerial regulation made in virtue thereof have been complied with respecting the place or premises.
+
+**No licence if premises unsatisfactory**
+
+(2) No licence shall be granted for carrying on any business subject to excise in a building or premises that, after careful survey, appear to the Minister to be so situated with reference to surrounding buildings or places of business, or to be so constructed or arranged, as to embarrass or endanger the full collection of the revenue.
+
+(3) [Repealed, R.S., 1985, c. 15 (1st Supp.), s. 47]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 17; R.S., 1985, c. 15 (1st Supp.), s. 47; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 18 Term of bond
+
+Every bond entered into under this Act remains in force so long as any duty on any articles or commodities subject to excise, or on any licence to which the bond relates, or any penalty, remains unpaid by the person to whom the licence was granted.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 18
+
+</details>
+
+### 19 New bond
+
+(1) Whenever any new licence is granted to any person, a new bond shall be entered into with reference to the new licence.
+
+**Idem**
+
+(2) A new bond shall be given, whenever, during the period for which any licence is in force to which the bond first given relates, the guarantee company is wound up, becomes insolvent or ceases to do business in Canada, and the licence is void from the time the person to whom it was granted is required by the collector or superior officer to enter into a new bond until the time when the new bond is given, during which time the person neglecting to enter into the new bond shall be held to be without a licence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 19
+
+</details>
+
+### 20 Application for licence
+
+(1) Every application for a licence under this Act shall be forwarded by the collector to the district inspector and by the district inspector to the Minister with such information as is required by any ministerial regulation.
+
+**Licence issued**
+
+(2) As soon as an application referred to in subsection (1) is returned to the collector, endorsed with the approval of the district inspector and authorized by the Minister, and on the due execution of the bond with surety as herein required, the collector shall issue a licence to carry on the business and to use the utensils, machinery and apparatus specified in the application, and in the place and premises therein specified, and in such place or premises only, and shall immediately report the issue of the licence to the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 20; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 21 Forfeiture of licence
+
+(1) The Minister may declare forfeited any licence authorized by this Act in any case where a person who, being a manufacturer of any class of goods subject to a duty of excise, either directly or indirectly,
+
+- (a) makes a sale of any of those goods, or consigns them for sale on commission, to another person, subject to the condition that the purchaser or consignee shall not sell or deal in goods of a like kind produced by, or obtained or to be obtained from, any other manufacturer or dealer; or
+
+- (b) makes a sale of any of those goods, or consigns them for sale on commission, to another person, on such terms as would, in their application, give more profit to the purchaser or consignee if he should not sell or deal in goods of a like kind produced by, or obtained or to be obtained from, any other manufacturer or dealer.
+
+**Notice in *Canada Gazette***
+
+(2) The collector shall, on the forfeiture of a licence under subsection (1), cause a notice of the forfeiture to be forthwith inserted in the *Canada Gazette*, and from and after the insertion thereof the licence is void.
+
+**Condition for granting new licence**
+
+(3) No new licence shall be granted to a person whose licence has been forfeited under subsection (1), and no licence shall be granted to any other person for carrying on any business in the premises occupied by the former licence holder until the Minister is satisfied that the dealings referred to in this section have ceased.
+
+**Decision of Minister final**
+
+(4) The decision of the Minister is final as to whether any sale or consignment of goods is, or is not, subject to any conditions or on any terms that are mentioned in this section.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 21
+
+</details>
+
+### 22 Proof of licence
+
+The burden of proof that any licence required by this Act has been issued lies on the person to whom the licence is alleged to have been issued.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 22
+
+</details>
+
+### 23 Posting up
+
+Every person licensed under this Act shall keep his licence posted up in a conspicuous place in his manufactory.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 23
+
+</details>
+
+### 24 Payment of licence fees
+
+All licence fees are due and payable at the time the licence is granted, and in no case shall a licence be issued until all fees are paid.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 24
+
+</details>
+
+### Obligations of Licensees
+
+### 25 Assistance to inspecting officer
+
+Every person licensed under this Act shall, at all times when required, supply any officer with all assistance, lights, ladders, tools, staging or other thing necessary for inspecting the premises, stock, tools or apparatus belonging to the licensed person, or for weighing, gauging or testing any article or commodity then on the premises for which the licence is granted, and shall open all doors, and open for examination all boxes, packages, casks, barrels and other vessels, when required to do so by any officer of excise.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 25
+
+</details>
+
+### 26 Notice of any alterations or additions to apparatus
+
+Where any person holding a licence under this Act intends to make any alteration or addition to the premises, utensils, machinery or apparatus described in this Act, to remove any portion of those utensils, machinery or apparatus or to make any use of any compartment or room for a purpose different from that mentioned in the written description accompanying his application for licence, notice in writing shall be served on the collector of the intention to make those alterations, additions, removals or changes at least one week before they are commenced, and every notice shall set out fully and correctly the particulars of the proposed alterations, additions, removals or changes, and on completion of the work, that person shall furnish the collector with supplementary plans and descriptions, which the collector shall forward to the district inspector.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 26
+
+</details>
+
+### 27 Minister may require new list, etc., of apparatus
+
+The Minister may, for sufficient cause, of which sufficiency he is the sole judge, at any time after having given ten days notice, require a new list and description, with such models, diagrams or drawings as are required by this Act in an application for a licence, to be made out and furnished by any person holding a licence under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 27
+
+</details>
+
+### 28 Inspection of weights and measures
+
+All beams, scales, weights and measures used in or about any premises subject to excise shall be inspected, tested and verified by an inspector of weights and measures as often as any inspector directs, except that scales used in a tobacco or cigar manufactory, when used exclusively for weighing tobacco during any intermediate process of manufacture and not used for weighing raw material brought into the manufactory or taken for use therein, or in ascertaining the manufactured products of the manufactory, may be used without inspection.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 28
+
+</details>
+
+### 29 Night work
+
+(1) Except under authority of the collector and in the presence of an officer of excise,
+
+- (a) no act, operation or process, for the supervision of which the presence of an officer is required by a ministerial regulation, shall be done or carried on in any premises licensed under this Act, and
+
+- (b) no goods subject to excise shall be removed from any premises licensed under this Act,
+
+between the hours of five o’clock in the afternoon and eight o’clock the following morning.
+
+**Extra time of officers to be paid for**
+
+(2) Whenever any business, act, operation or process, for the supervision of which the presence of an officer is required by any regulation then in force, is carried on or done in any premises licensed under this Act before eight o’clock in the forenoon, during the dinner hour or after five o’clock in the afternoon, or on a holiday at any hour, the person in whose premises the business, act, operation or process is carried on or done shall pay the collector for the attendance of the officer or officers during the extra time they are so employed, at such rate as is determined by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 29; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 30 Inscription over premises
+
+(1) There shall be conspicuously placed over the chief entrance to every place or premises subject to excise the name of the person by whom, or the name and style of the firm or corporation by which, the place or premises are occupied.
+
+**Marking of utensils**
+
+(2) Every mash-tub, fermenting-tun, closed spirit-receiver, cooler, tank, vat or other vessel that is used to do anything for which a licence is required by this Act, or that is used for containing any commodity subject to excise, shall have written, stamped or printed on it in white Roman characters, at least fifty millimetres (50 mm) in height, on a black ground, the serial number and the capacity thereof in litres.
+
+**Under direction of officer**
+
+(3) Every notice or written or printed designation or name of any person, place or thing required by this section shall be printed, painted, put up or affixed under and according to the direction of an officer and at the expense of the person on whose behalf it is done.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 30; 1980-81-82-83, c. 68, s. 52
+
+</details>
+
+### Books, Accounts and Papers
+
+### 31 Keeping of books
+
+Every person who carries on a business subject to excise shall
+
+- (a) keep, within the licensed premises in which that business is carried on by him, stock books and other books in a form and manner prescribed by ministerial regulations and retain those books until the expiration of six years from the end of the calendar year in respect of which they are kept or until written permission for their prior disposal is given by the Minister; and
+
+- (b) clearly record in the books referred to in paragraph (a), day by day and on the same day on which the circumstance, thing or act to be recorded is done or occurs, such particulars as are required by any ministerial regulation in that behalf.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 31; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 32 Yearly inventory of stock
+
+(1) Every person who is a distiller, tobacco manufacturer, cigar manufacturer, bonded manufacturer or brewer shall make and deliver to the collector of the division in which the manufactory or premises of that person is or are situated, an inventory in such form as is prescribed by the Minister of the quantity of the different kinds of raw material, articles and goods in process of manufacture, and manufactured products, and all other materials held or owned by that person at the close of business on the last day of the fiscal period of that person, as determined for the purposes of the *Income Tax Act*, in each year or at any intermediate time when required by the Minister.
+
+**Monthly returns**
+
+(1.1) Every person who has a licence for a bonding warehouse granted under paragraph 50(1)(c) shall make a monthly return to the collector of the division in which the warehouse is situated of the quantity of manufactured tobacco and cigars delivered to accredited representatives, listing the quantity for each country represented by the accredited representatives.
+
+**Yearly inventory of stock in bonding warehouse**
+
+(1.2) Every person who has a licence for a bonding warehouse granted under paragraph 50(1)(c) shall make and deliver to the collector of the division in which the warehouse is situated an inventory in such form as is prescribed by the Minister of the goods stored in the warehouse at the close of business on the last day of the fiscal period of that person, as determined for the purposes of the *Income Tax Act*, in each year or at any intermediate time when required by the Minister.
+
+**Stock-taking**
+
+(2) The stock-taking necessary to make up the inventories referred to in subsections (1) and (1.2) shall be done in the manner specified by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 32; R.S., 1985, c. 12 (4th Supp.), s. 56; 1993, c. 25, s. 33; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 33 Inspection of books and papers
+
+(1) Every person who is licensed to carry on any business subject to excise shall, as often as is required by the collector or any inspector and at any time within ordinary business hours, or when any operation is being carried on within the licensed premises, produce for the inspection of any such officer
+
+- (a) all books, papers and accounts, kept in accordance with the requirements of this Act, in which books, papers or accounts the officer may enter any memorandum, statement or account of quantities, in which case he shall attest the same by his initials; and
+
+- (b) all books, accounts, statements and returns whatever, and all partnership accounts used by any such person or by any co-partners in carrying on the licensed business, whether those books, accounts, statements or returns are considered private or otherwise and whether they are or are not on the licensed premises, and every officer shall be permitted to take extracts therefrom or copies thereof.
+
+**Officer seizing may remove books, etc.**
+
+(2) In case of seizure of any article or thing in any premises subject to excise for contravention of this Act, the seizing officer or any superior officer may take possession of and remove all or any books, papers or accounts kept under the requirements of this Act, and may retain them until the seizure is declared valid by competent authority or the article or thing seized or the proceeds thereof is, by competent authority, directed to be restored.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 33
+
+</details>
+
+### 34 No erasure allowed in books
+
+No erasure shall be made in any books required to be kept in accordance with this Act by any person licensed under it, nor shall any leaf or leaves, or part of a leaf or leaves, be removed therefrom, and any obliterating of words or figures by any means whatever, other than by ruling through them with ink in such a manner as not to render the words or figures so ruled out incapable of being read, shall be deemed to be an erasure.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 34
+
+</details>
+
+### 35 Quantities to be stated
+
+(1) Except as otherwise provided in this Act, every quantity of grain recorded or stated in the stock books mentioned herein, and in all returns, accounts, inventories and statements required by this Act to be kept or made, and the quantity of every other article or commodity, except fluids, used in or about any premises subject to excise, or entering into the manufacture of any article or commodity subject to excise, shall be stated in grams or kilograms.
+
+**Fluids**
+
+(2) All quantities of fluids, except when otherwise provided in this Act, shall be stated in the stock books, returns, accounts, inventories and statements referred to in subsection (1), in millilitres or litres, and the quantity of any fluid, in millilitres or litres, shall, for all the purposes of this Act, be determined by weighing or gauging, in such manner as is prescribed by any ministerial regulation in that behalf.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 35; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Returns
+
+### 36 Monthly returns
+
+All returns, unless otherwise provided in this Act, shall be made distinct and separate for each month, and shall relate to the month last preceding the day of making the returns.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 36
+
+</details>
+
+### 36.1 Determination of periods for semi-annual returns
+
+(1) The following are six-month periods of a licensed brewer:
+
+- (a) the period beginning on January 1 and ending on June 30, or the portion of that period, if any, that ends before the month on which a revocation under subsection (3) or (4) becomes effective; and
+
+- (b) the period beginning on July 1 and ending on December 31, or the portion of that period, if any, that ends before the month on which a revocation under subsection (3) or (4) becomes effective.
+
+**Semi-annual returns**
+
+(2) On application by a licensed brewer in the form and manner specified by the Minister, the Minister may, in writing, authorize the brewer to make a return for each six-month period in a particular year if
+
+- (a) the brewer has been licensed for a period exceeding one year;
+
+- (b) the total of all duty imposed, levied and collected on beer and malt liquor brewed by the brewer and any person associated with the brewer in the year ending immediately before the particular year did not exceed $120,000;
+
+- (c) the total of all duty imposed, levied and collected on beer and malt liquor brewed by the brewer and any person associated with the brewer in the particular year does not exceed $120,000; and
+
+- (d) the brewer is in compliance with the Act.
+
+**Deemed revocation**
+
+(3) An authorization under subsection (2) is deemed to be revoked if the total of all duties imposed, levied and collected on beer and malt liquor by the brewer and any person associated with the brewer exceeds $120,000 in a year, which revocation is effective as of the first day after the end of the six-month period in which the excess occurs.
+
+**Revocation — other**
+
+(4) The Minister may revoke an authorization if
+
+- (a) the brewer requests in writing the Minister to do so;
+
+- (b) the brewer fails to comply with the Act; or
+
+- (c) the Minister considers that the authorization is no longer required.
+
+**Notice of revocation**
+
+(5) If the Minister revokes an authorization under subsection (4), the Minister shall send a notice in writing of the revocation to the brewer and shall specify in the notice the month for which the revocation becomes effective.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2010, c. 25, s. 105
+
+</details>
+
+### 37 Time for making return — general
+
+(1) Every return with respect to quantities, required to be made by this Act, shall be made to the collector on or before the tenth working day of each month for the month last preceding that day.
+
+**Time for making return — semi-annual**
+
+(2) Despite subsection (1), if a licensed brewer is authorized by the Minister to make a return for a six-month period under subsection 36.1(2), the return shall be made to the collector on or before the tenth working day of the month following the end of the six-month period.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 37; R.S., 1985, c. 12 (4th Supp.), s. 57; 2010, c. 25, s. 106
+
+</details>
+
+### 38 How attested
+
+(1) Every account or return rendered as provided under this Act shall be made and signed by the person carrying on the business to which it relates, or his agent, and shall also be signed by the foreman, clerk, chief workman or other person employed on the premises where the business is carried on who has personal knowledge of the matters dealt with.
+
+**Further attestation**
+
+(2) The collector or any superior officer may, at any time after the making of the account or return referred to in subsection (1), require any other person employed on the premises who, in his opinion, is best acquainted with the quantity of material used and goods produced, subject to excise, to testify on oath before him respecting the correctness of the account or return.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 38
+
+</details>
+
+### 39 Certification
+
+Every person who signs an account or statement that is rendered as required under this Act shall certify on the face of that account or statement as follows:
+
+I,  ... , certify that the several accounts included in this return are true according to their purport, and that I have personal knowledge of the matters set out therein.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 39; R.S., 1985, c. 12 (4th Supp.), s. 58
+
+</details>
+
+### 40 Officer may question
+
+(1) Any collector, officer or superior officer may, when an account or statement is made, or at any time thereafter, put to the person or persons making it such questions as the collector, officer or superior officer may deem necessary.
+
+(2) [Repealed, R.S., 1985, c. 12 (4th Supp.), s. 59]
+
+**Officer may examine**
+
+(3) The collector or officer may, when the account or statement is made, or at any time thereafter, examine under oath, with respect to the truth of the statement, any person or persons employed or who have, at any time, been employed on or about the premises subject to excise, to which the account relates, or any person doing business therewith, selling material thereto or buying goods therefrom, and also any common carrier, agent, clerk or other person who has been concerned in the removal of any of the goods or material to or from any premises subject to excise, or in taking or keeping an account of those removals, and may reject all such written statements as are shown by the evidence to be incorrect or unreliable, and that rejection shall render the person making the return liable to the same punishment as he would be liable to if no return had been made.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 40; R.S., 1985, c. 12 (4th Supp.), s. 59
+
+</details>
+
+### 41 Mode of giving notices and returns
+
+(1) All notices, lists, descriptions, returns, inventories, statements, accounts and reports required by this Act to be given or made to any officer or person shall be held to be validly so given or made if they are delivered to the officer or person, as the case may be, or if they are left at the usual place of business or residence of the officer or person, within the period or time fixed in this Act without any reference to the mode by which the notices, lists, descriptions, returns, inventories, statements, accounts or reports were conveyed to the officer or person.
+
+**Burden of proof**
+
+(2) The burden of proof that all notices, lists, descriptions, returns, inventories, statements, accounts and reports referred to in subsection (1) have been given or made, as required by this Act, lies on the person whose duty it is to give or make them.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 41
+
+</details>
+
+### Duties, how Ascertained and when Payable
+
+### 42 Calculation of duty
+
+(1) The amount of duty shall be calculated on the mass, measurements, accounts, statements and returns, taken, kept or made, as provided in this Act, subject to correction and approval by the collector or other officer thereunto duly authorized, and when two or more methods for determining quantities or the amount of duty to be paid are provided for, the method that yields the largest quantity or the greatest amount of duty shall be the standard.
+
+**Verification**
+
+(2) Where the collector or any superior officer has any reason to doubt the correctness of any account, statement or return, he shall compute the mass, measurements or quantities personally and levy the duty accordingly.
+
+**Basis of calculation**
+
+(3) The computation described in this section may be based on any reliable evidence respecting the quantity of material brought into the premises subject to excise, the quantity of the manufactured article removed therefrom or the quantity or strength of any articles used in any of the processes of manufacture.
+
+**Proof of error**
+
+(4) Where the result of a computation described in this section is disputed, the burden of proof of the error or wrong shall rest with the person who is liable for the payment of the duty.
+
+**Refund of duties**
+
+(5) Where application in writing is made within three years from the date when payment of duty is made, the Minister may refund any duty of excise or fee erroneously paid or overpaid under this Act, but in no case shall a refund or repayment be made unless application is made in accordance with this subsection.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 42; 1976-77, c. 28, s. 49(F); 1980-81-82-83, c. 68, s. 54
+
+</details>
+
+### 43 On what quantities duties to be levied
+
+All duties of excise imposed by this Act shall accrue and be levied on the quantities ascertained in the manner provided in this Act, or otherwise proved.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 43
+
+</details>
+
+### 44 Determination of alcohol, etc.
+
+(1) Every person who is required to determine a quantity or volume of alcohol, spirits or absolute ethyl alcohol for the purposes of this Act or the regulations or ministerial regulations shall make such determination
+
+- (a) in the manner prescribed by ministerial regulations using instruments
+  - (i) that are specified, or are of a class, type or design specified, by ministerial regulations, and
+  - (ii) that have been examined and approved, or are of a class, type or design that has been examined and approved, by the Minister as meeting the specifications prescribed therefor by ministerial regulations; or
+
+- (b) using tanks that have been approved by the Minister, where tanks are used to make the determination.
+
+**Re-examination**
+
+(2) The Minister may at any time direct in writing that any instrument previously examined and approved, or of a class, type or design previously examined and approved, by him for the purposes of subsection (1) be submitted to him for re-examination and, where he so directs, the person having the custody and control of that instrument shall forthwith submit it to the Minister for re-examination.
+
+**Idem**
+
+(3) In addition to any re-examination referred to in subsection (2), the Minister may, on request, re-examine any instrument previously examined and approved, or of a class, type or design previously examined and approved, by him for the purposes of subsection (1).
+
+**Revocation of approval**
+
+(4) After re-examining an instrument pursuant to subsection (2) or (3), the Minister may revoke in writing his approval of that instrument or instruments of the same class, type or design as that instrument.
+
+**Idem**
+
+(5) The Minister may revoke his approval, given pursuant to paragraph (1)(b), of the use of a tank for determining a quantity or volume of alcohol, spirits or absolute ethyl alcohol.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 44; R.S., 1985, c. 7 (2nd Supp.), s. 61; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 45 Regulations
+
+(1) The Minister may make regulations
+
+- (a) specifying instruments, or classes, types or designs of instruments, for the purposes of subsection 44(1);
+
+- (b) prescribing the manner in which approval of an instrument under section 44 is to be indicated on the instrument and providing for the removal of the indication and the issue or cancellation of certificates in relation thereto;
+
+- (c) prescribing the manner in which quantities or volumes of alcohol, spirits or absolute ethyl alcohol are to be determined for the purposes of subsection 44(1);
+
+- (d) prescribing the fees to be paid for the examination or re-examination of instruments under section 44 and for any other service or good provided by the Minister in relation to that section; and
+
+- (e) prescribing specifications for any instrument, or any class, type or design of instrument, for the purposes of subsection 44(1).
+
+**Commencement of regulations**
+
+(2) Any regulation made pursuant to subsection (1) may be made effective with reference to any period commencing on or after March 31, 1981.
+
+**Determination of alcohol, etc., in special circumstances**
+
+(3) Where circumstances or conditions make it difficult to determine a quantity or volume of alcohol, spirits or absolute ethyl alcohol in accordance with subsection 44(1), the determination may be made in another manner or by another method that is approved by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 45; R.S., 1985, c. 7 (2nd Supp.), s. 62
+
+</details>
+
+### 46 Power to restore reduced duties
+
+Where the duty imposed under this Act on spirits, malt or beer has been reduced, and it is made to appear to the Governor in Council that in any province the prices of spirituous or malt liquors to the consumer have not been reduced to, or are not being maintained at, levels that will give the consumer the full benefit of that reduction, the Governor in Council may order that the reduction shall be no longer in effect and, on publication of that order in the *Canada Gazette*, the full rates of duty theretofore payable on those goods shall again be in force and effect.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 44
+
+</details>
+
+### 47 Duties due on passing of entry
+
+(1) Except as otherwise provided in this Act, the several duties imposed by this Act shall be levied in respect of any goods subject to duty when those goods are entered for consumption by the manufacturer or importer thereof, and shall be payable and collected at that time or at such later time and in such manner as is prescribed by the regulations.
+
+**Monthly returns**
+
+(2) Except as otherwise provided in this Act, all goods subject to excise, the manufacture of which has been completed during any month, shall be returned as produced, and at the end of each month shall either be entered for duty ex-manufactory or be warehoused.
+
+**Entry requirement for manufactured tobacco and cigars**
+
+(3) All manufactured tobacco and cigars that are manufactured in Canada shall, at the time they are completely manufactured, be entered for consumption or be entered into a bonding warehouse, in accordance with this Act and the ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 47; 1993, c. 25, s. 34; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 48 No removal until duty paid
+
+(1) No goods that are subject to a duty of excise under this Act shall be removed from any premises subject to excise or from any premises subject to excise to any retail outlet on those premises, until the duty on those goods has been paid or secured by bond in the manner by law required.
+
+**Idem**
+
+(2) Subsection (1) does not apply in respect of goods the payment of duty on which may, under any regulations made pursuant to subsection 47(1), be made at a time later than the time at which they are entered for consumption.
+
+**Presumption**
+
+(3) For the purposes of subsection (1), a retail outlet is deemed to be on premises subject to excise if it is in a building or other place that forms part of or is appurtenant to, or that communicates in any way whatever, except by means of a public highway, with those premises.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 48; R.S., 1985, c. 15 (1st Supp.), s. 48
+
+</details>
+
+### Bonding and Warehousing
+
+### 49 Bonding warehouse
+
+Any portion of the premises of a manufacturer licensed under this Act that is designated as a bonding warehouse in the manufacturer’s application for a licence and shown as such on the plans accompanying the application shall, on the granting of the licence, be a bonding warehouse within the meaning of this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 47
+
+</details>
+
+### 50 To whom bonding warehouse licence may be granted
+
+(1) Subject to this Act and any regulation made under this Act, a licence for a bonding warehouse may be granted to
+
+- (a) any distiller for the storage, at a place other than his distillery, of specially denatured alcohol or alcohol intended for use exclusively in manufacturing or for commercial purposes and not for use as a beverage or in the manufacture of a beverage;
+
+- (b) any board, commission or other government agency that by the law of a province is empowered to sell or to authorize the sale of intoxicating liquor; or
+
+- (c) any person who is authorized by a licensed tobacco manufacturer or a licensed cigar manufacturer to be the only person, other than the manufacturer, who is entitled to distribute the manufacturer’s tobacco or cigars to accredited representatives, exclusively for the storage in the warehouse and subsequent sale of the manufacturer’s tobacco or cigars to accredited representatives.
+
+**Bond**
+
+(2) Prior to the issue of a licence for a bonding warehouse to a distiller pursuant to paragraph (1)(a), the distiller shall, jointly with a guarantee company approved by the Minister, enter into a bond to Her Majesty in right of Canada in an amount determined by the Minister and conditioned on the payment of all duties and penalties to which the owner of the warehouse or of any goods stored therein may become liable under this Act.
+
+**Idem**
+
+(3) Prior to the issue of a licence for a bonding warehouse to a board, commission or other government agency pursuant to paragraph (1)(b), the board, commission or other government agency shall enter into a bond to Her Majesty in right of Canada in an amount determined by the Minister and conditioned in the manner described in subsection (2).
+
+**Idem**
+
+(4) Before a licence for a bonding warehouse is granted to a person under paragraph (1)(c), the person shall, jointly with a guarantee company approved by the Minister, enter into a bond to Her Majesty in right of Canada in an amount determined by the Minister as security for the payment of any amount that is or may become payable under this Act or the *Excise Tax Act* in respect of goods stored in the warehouse.
+
+**Limitation on granting licence**
+
+(5) No person shall be granted a licence under paragraph (1)(c) for more than one bonding warehouse.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 50; 1993, c. 25, s. 35
+
+</details>
+
+### 50.1 Cancellation of bonding warehouse licence
+
+(1) Where a person has been granted a licence for a bonding warehouse under paragraph 50(1)(c) by reason of being authorized by a licensed tobacco manufacturer or a licensed cigar manufacturer to be the only person, other than the manufacturer, who is entitled to distribute the manufacturer’s tobacco or cigars to accredited representatives and the person ceases to be so authorized, the Minister shall cancel that licence.
+
+**Return of tobacco and cigars on cancellation of licence**
+
+(2) On the cancellation, suspension or revocation of a licence granted under paragraph 50(1)(c), the person to whom the licence was granted shall return all the tobacco and cigars stored in the bonding warehouse at the time the licence is cancelled, suspended or revoked to the licensed manufacturers of the tobacco and cigars.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 25, s. 36
+
+</details>
+
+### 51 Fee for bonding warehouse licence
+
+A person to whom, or a board, commission or government agency to which, a licence for a bonding warehouse is granted under subsection 50(1) shall pay a licence fee prescribed by the regulations to the collector of the district or excise division in which the warehouse is located.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 51; 1993, c. 25, s. 36
+
+</details>
+
+### 52 Warehousing of goods
+
+Goods subject to excise may, subject to the following provisions and to ministerial regulations, be deposited in any suitable bonding warehouse without payment of the duty imposed by this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 52; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 52.1 Limitation on entry of tobacco into bonding warehouse
+
+Manufactured tobacco shall not be entered into a bonding warehouse if it is intended to be removed for
+
+- (a) delivery to a duty free shop licensed as such under the *Customs Act*;
+
+- (b) export for delivery to a foreign duty free shop;
+
+- (c) export for delivery as foreign ships’ stores;
+
+- (d) entry into a bonded warehouse, licensed as such under the *Customs Tariff*; or
+
+- (e) delivery as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2001, c. 16, s. 8; 2002, c. 22, s. 425(F)
+
+</details>
+
+### 53 Security of bonding warehouses
+
+Bonding warehouses shall be made secure in accordance with requirements prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 51; R.S., c. 15(1st Supp.), s. 10
+
+</details>
+
+### 54 Goods at owner’s risk
+
+All goods warehoused shall be at the risk of the owner and, unless destroyed by fire, the duty shall be payable thereon as if they were entered for consumption.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 52
+
+</details>
+
+### 55 Term of warehousing
+
+Except as otherwise provided in this Act, no goods shall remain warehoused for a period longer than two years, and at the end of that period the full amount of duty remaining unpaid shall be collected, but if no deficiency in the goods exists they may be re-warehoused for a further period of two years.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 53
+
+</details>
+
+### 56 Deficiency of goods in warehouse
+
+(1) Where the quantity of goods bonded in any warehouse, at any time or by any means, falls short or is deficient of the actual quantity that ought to be or remain warehoused, after deducting the quantities entered ex-warehouse, the owner thereof is liable for the full duties on the balance of goods with which the warehouse stands debited, and the goods remaining are subject to the duties on the quantity deficient and shall be sold for payment thereof, by order of the Minister, and the surplus, if any, is payable to the person who warehoused the goods, or his assigns, after deducting all penalties and expenses incurred.
+
+**Re-warehousing**
+
+(2) When the Minister is satisfied that no goods have been illegally removed from the warehouse, any goods that are actually in the warehouse at the time stock is taken, or at the expiration of two years, may be re-warehoused on payment of the full amount of duty on the ascertained deficiency.
+
+**Certain spirits subject to an abatement**
+
+(3) Spirits for the fortification of native wines when stored in wooden barrels in a bonding warehouse at a registered winery may, in the event of a deficiency arising, be subject to an abatement, which shall not exceed two-thirds of one per cent for each complete month after the date of original warehousing, but no abatement shall be allowed for a period of more than twelve months, and every abatement shall be made in respect of each specific package and shall in no case exceed the actual deficiency found to exist in the package.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 54
+
+</details>
+
+### 57 When duty computed
+
+At the time of entering goods for warehouse, the amount of duty shall be computed and ascertained and stated in the entry.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 55
+
+</details>
+
+### 58 Transfer of goods other than cigars and manufactured tobacco in bond
+
+(1) Goods, other than cigars and manufactured tobacco, warehoused under this Act may, without payment of duty, be transferred or removed from one bonding warehouse to another in bond, exported in bond or released from bond to accredited representatives for their personal or official use, if the transfer, removal, exportation or release is in accordance with the regulations and the ministerial regulations.
+
+**Removal to customs bonded warehouse or duty free shop**
+
+(2) Goods subject to excise, other than cigars and manufactured tobacco, may, without payment of duty, be removed from a bonding warehouse
+
+- (a) to a bonded warehouse, licensed as such under the *Customs Tariff*, if the goods are
+  - (i) designated for delivery as ships’ stores,
+  - (ii) for sale to accredited representatives for their personal or official use, or
+  - (iii) for export; or
+
+- (b) to a duty free shop, licensed as such under the *Customs Act*, if the goods are for sale to persons who are about to leave Canada.
+
+**Delivery and sale to be in accordance with regulations**
+
+(3) Goods removed under subsection (2) shall be delivered and sold in accordance with any ministerial regulations that apply.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 58; R.S., 1985, c. 7 (2nd Supp.), s. 63; 1993, c. 25, s. 37; 1995, c. 41, s. 109; 1999, c. 17, s. 144(E); 2001, c. 16, s. 9; 2002, c. 22, s. 425(F)
+
+</details>
+
+### 58.1 Definitions
+
+(1) The definitions in this subsection apply in this section.
+
+**foreign brand tobacco** means tobacco in respect of which the excise tax imposed under section 23.13 of the *Excise Tax Act* is not payable because of section 23.3 of that Act. (**tabac de marque étrangère**)
+
+**manufactured tobacco** does not include partially manufactured tobacco or foreign brand tobacco. (**tabac fabriqué**)
+
+**partially manufactured tobacco** means a tobacco product made by a tobacco manufacturer that is cut filler or cut rag or that is manufactured less fully than cut filler or cut rag. (**tabac partiellement fabriqué**)
+
+**Categories of manufactured tobacco**
+
+(2) For the purposes of subsection (4), each of the following constitutes a category of manufactured tobacco:
+
+- (a) cigarettes;
+
+- (b) tobacco sticks; and
+
+- (c) manufactured tobacco other than cigarettes and tobacco sticks.
+
+**Removal of manufactured tobacco in bond**
+
+(3) Manufactured tobacco may, without payment of duty, be removed from a bonding warehouse only if
+
+- (a) it is
+  - (i) removed by its manufacturer and exported in bond in accordance with subsection (4) and not for delivery to a foreign duty free shop or as foreign ships’ stores,
+  - (ii) removed by its manufacturer and entered into another bonding warehouse in bond, or
+  - (iii) released to accredited representatives for their personal or official use; and
+
+- (b) the removal and exportation, entry or release, as the case may be, are in accordance with the regulations and the ministerial regulations.
+
+**Maximum quantity permitted to be exported in bond**
+
+(4) A tobacco manufacturer shall not, at a particular time in a calendar year, remove a particular quantity of a category of manufactured tobacco from the manufacturer’s bonding warehouse for export in bond if the total quantity of that category of manufactured tobacco removed in the year up to that time by the manufacturer from a bonding warehouse for export in bond, plus the particular quantity, exceeds 1.5% of the total quantity of manufactured tobacco of that category manufactured by the manufacturer in the preceding calendar year.
+
+**Quantities to be excluded for the purpose of subsection (4)**
+
+(5) The total quantities referred to in subsection (4) shall not include any quantity of manufactured tobacco that was exported by the manufacturer for delivery to a foreign duty free shop or as foreign ships’ stores.
+
+**Removal of cigars in bond**
+
+(6) Cigars may, without payment of duty, be removed from a bonding warehouse only if
+
+- (a) they are
+  - (i) removed by their manufacturer and
+    - (A) exported in bond,
+    - (B) entered into another bonding warehouse in bond,
+    - (C) entered into a bonded warehouse, licensed as such under the *Customs Tariff*, if the person entering the cigars into the bonded warehouse certifies to the manufacturer that they are for delivery as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*,
+    - (D) transferred to a duty free shop, licensed as such under the *Customs Act*, if the operator of the duty free shop certifies to the manufacturer that the cigars are for sale to persons who are about to leave Canada, or
+    - (E) delivered as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*, or
+  - (ii) released to accredited representatives for their personal or official use; and
+
+- (b) the removal and export, entry, transfer, sale, delivery or release, as the case may be, are in accordance with the regulations and the ministerial regulations.
+
+**Removal of partially manufactured tobacco or foreign brand tobacco in bond**
+
+(7) Partially manufactured tobacco or foreign brand tobacco may, without payment of duty, be removed by its manufacturer from a bonding warehouse only if
+
+- (a) it is entered into another bonding warehouse in bond or exported in bond and not for delivery to a foreign duty free shop or as foreign ships’ stores; and
+
+- (b) the removal and entry or export, as the case may be, are in accordance with the regulations and the ministerial regulations.
+
+**Diversion**
+
+(8) A person who has acquired goods that are manufactured tobacco, foreign brand tobacco or cigars is liable to pay the duty that would have been payable on the goods at the time the goods were completely manufactured, if the goods
+
+- (a) have been relieved, under this Act or otherwise, from the duty because of the purpose for which the person acquired them;
+
+- (b) are removed from a bonded warehouse licensed as such under the *Customs Tariff*, sold or used by the person for another purpose; and
+
+- (c) would not have been relieved from the duty if the person had acquired them for the other purpose.
+
+**Duty payable at time of acquisition**
+
+(9) The duty a person is liable to pay under subsection (8) on goods is deemed to have become payable by the person at the time the person acquired the goods.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2001, c. 16, s. 9; 2002, c. 22, s. 425(F)
+
+</details>
+
+### 59 Goods entered for warehouse
+
+Goods entered for warehouse shall be marked and described in such manner as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 59; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 60 Marking of warehoused containers
+
+All packages, cartons, boxes, crates and other containers of any description containing goods warehoused in a bonding warehouse by the manufacturer of the goods shall, at the time they are so warehoused, be marked and identified in a manner prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 60; 1989, c. 22, s. 9
+
+</details>
+
+### 61 Stowage in warehouse
+
+Goods warehoused in a bonding warehouse shall be stowed or arranged therein in a manner prescribed by the regulations or, in the absence of any applicable regulations, in such manner that the casks, boxes or packages described in each entry for warehousing are placed together in separate lots and, except in the case of manufactured tobacco or cigars, in such manner that the casks, boxes or packages described in one entry are not intermixed with those described in another entry.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 59; R.S., c. 15(1st Supp.), s. 12
+
+</details>
+
+### 62 To be marked or numbered when required
+
+Whenever the marks or numbers on any goods in warehouse have been omitted, or have been defaced or otherwise become illegible, or whenever the goods are not stowed or arranged in compliance with the requirements of this Act or the regulations, the owner of the goods shall, within one week, on being required to do so, mark, number, arrange or stow them, as the case may be, to the satisfaction of the collector for the district or excise division in which the warehouse is located, or of any inspector.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 60; R.S., c. 15(1st Supp.), s. 12
+
+</details>
+
+### 63 Entries to be refused until compliance
+
+Except as otherwise provided in this Act, the collector or other officer, in whose charge goods warehoused under this Act or any other Act relating to warehousing are placed, shall refuse all warehousing transactions until the owner of the goods or his agent has complied with all conditions with respect thereto required by this or any other Act, or by any regulations made by virtue of this or any other Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 62
+
+</details>
+
+### 64 Forms of entries
+
+All entry papers, either for warehouse, ex-warehouse for removal or other purposes, shall be made in such forms and shall be attested in such manner as the Minister directs.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 63
+
+</details>
+
+### Powers and Duties of Officers
+
+### 65 Minister and inspecting officers
+
+(1) The Minister or other person acting as Minister and every superior officer has and may exercise in each and every excise division all the powers and rights conferred by this Act on the collector or any other officer.
+
+**Power to delegate**
+
+(2) The Minister may authorize a superior officer to exercise on his behalf the powers or any of them conferred on him by this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 64
+
+</details>
+
+### 66 Officers of excise
+
+(1) All persons employed for the purposes of this Act, including members of the Royal Canadian Mounted Police, are officers of excise.
+
+**Persons to have powers and duties of officers**
+
+(2) All members of any police force designated under subsection (4) have the powers and duties of an officer for the purposes of any of sections 69, 70 and 88, subsection 163(3), section 177, subsection 225(2), sections 226 and 227, subsections 233(3) and 239.1(2) and section 255 that are specified in the designation.
+
+**Persons deemed to be officers**
+
+(3) All members of any police force designated under subsection (4) shall be deemed to be officers for the purposes of any of sections 76, 79, 82, 84, 97 and 107, subsection 117(1) and section 124 that are specified in the designation.
+
+**Designation of police forces**
+
+(4) The Minister and the Minister of Public Safety and Emergency Preparedness may designate any police force in Canada for the purposes of any of the provisions referred to in subsections (2) and (3) that are specified in the designation, subject to any terms and conditions specified in the designation, for any period specified in the designation.
+
+**Designation may be varied or cancelled**
+
+(5) The Minister and the Minister of Public Safety and Emergency Preparedness may at any time vary or cancel a designation made under subsection (4).
+
+**Designation to be published**
+
+(6) A designation made under subsection (4), and any variation or cancellation of one, shall be published in the *Canada Gazette* and shall not be effective before it is so published.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 66; 1994, c. 37, s. 3; 2005, c. 10, s. 34
+
+</details>
+
+### 67 Power to administer oaths
+
+Every superior officer, and every collector, and such other officers as are designated by the Governor in Council are hereby empowered and authorized to administer all oaths and receive all declarations required or authorized by this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 66
+
+</details>
+
+### 68 Power to examine on oath
+
+(1) Any superior officer of excise or collector, the chief or any divisional chief officer of the preventive service and any other officer designated by the Minister may conduct any inquiry or investigation in matters relating to the excise, and may summon before him any person and may examine him and require him to give evidence on oath, orally or in writing, or on solemn affirmation if he is entitled to affirm in civil matters, on any matter pertinent to the inquiry or investigation, and any person thus authorized to conduct an inquiry or investigation may administer the oath or affirmation.
+
+**May issue subpoena or summons**
+
+(2) Any officer authorized to conduct any inquiry or investigation pursuant to subsection (1) may for the purpose thereof issue a subpoena or other request or summons, requiring and commanding any person named therein to appear at the time and place mentioned therein, and then and there to testify to all matters within his knowledge relative to the subject-matter of the investigation, and to bring with him and produce any document, book or paper that he has in his possession or under his control relative to any such matter, and that person may be summoned from any part of Canada by virtue of the subpoena, request or summons.
+
+**Expenses**
+
+(3) Reasonable travel expenses shall be paid to any person summoned under subsection (2) at the time of service of the subpoena, request or summons.
+
+**Witness failing to attend, etc.**
+
+(4) Every person who
+
+- (a) being required to attend in the manner provided in this section, fails, without valid excuse, to attend accordingly,
+
+- (b) being commanded to produce any document, book or paper in his possession or under his control, fails to produce it,
+
+- (c) refuses to be sworn or to affirm, as the case may be, or
+
+- (d) refuses to answer any proper question put to him by the officers,
+
+is, on summary conviction before any provincial court judge, or judge of a superior or county court, having jurisdiction in the county or district in which that person resides or in which the place is at which he was so required to attend, liable to a fine not exceeding four hundred dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 68; R.S., 1985, c. 27 (1st Supp.), s. 203
+
+</details>
+
+### 69 Schedule of property seized
+
+The collector or any other officer, or any person aiding or assisting him in seizing property as forfeited under this Act, shall mark and number each separate piece, and make a schedule, of all the property seized, with the estimated value thereof, which schedule or list shall be dated and signed by the collector or other officer, and a true copy thereof shall be given to the person from whom the seizure was made, or forwarded to his latest known post office address by registered letter, and another copy, together with the collector’s or other officer’s report relating to the seizure, shall be transmitted without delay to the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 67
+
+</details>
+
+### 70 Property seized to be marked and secured
+
+All property seized under this Act shall be seized, marked and secured in the name of Her Majesty, and the power of seizing, marking and securing the property shall be exercised by direction and under the authority of the collector or other officer, where and when necessary in order to carry out the provisions of this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 68
+
+</details>
+
+### 71 Forfeited goods
+
+Where any stock, steam-engine, boiler, still, fermenting-tun, machinery, apparatus, vessel or utensil, boat, vessel, vehicle or other article or commodity is forfeited under this Act, for any contravention thereof, it may be seized by the collector or other officer, or by any other person acting on the authority of that officer, at any time after the commission of the offence for which it is forfeited, and may be marked, detained, removed, sold or otherwise secured until condemned or released by competent authority, and shall not, while under seizure, be used by the offender, and if condemned, it shall be removed, sold or otherwise dealt with as the Minister directs.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 69
+
+</details>
+
+### 72 Powers of officers
+
+Every officer may
+
+- (a) with any assistants acting under him and by his direction, at all times, by night or by day, enter into and remain in, as long as he deems necessary, any building or place belonging to or used by any person for the purpose of carrying on any trade or business subject to excise, or in which are any machinery, utensils or apparatus subject to excise or that may be used in the manufacture of goods subject to excise;
+
+- (b) with any assistants acting under him and by his direction, at any time between six o’clock in the forenoon and ten o’clock in the afternoon, enter the premises of any dealer in which any goods subject to excise are stored, kept or sold;
+
+- (c) with any assistants acting under him and by his direction, inspect any such building, place or premises, and take such account as he deems necessary of every part thereof, and of all works, vessels, utensils, goods and materials, machinery and apparatus, belonging or in any wise appertaining to that business;
+
+- (d) break up or cause to be broken up or removed any floor, wall, partition, ceiling, roof, door or other part of the building, place or premises, or any ground surrounding them, for the purpose of ascertaining whether there is any pipe, worm, still, conduit, tool, vessel, utensil, machinery or apparatus, or any stock, goods, commodity or article subject to excise, concealed or kept out of view;
+
+- (e) examine the worm of any still or other apparatus used by any distiller or bonded manufacturer, by causing the water to be drawn off from the worm-tub or refrigerator containing the worm, at any time when, in the opinion of the officer, the doing so will not be prejudicial to the working of the still or other apparatus, or when he deems it necessary to do so for the prevention or detection of fraud;
+
+- (f) gauge, measure, weigh, prove, mark, label, stamp, lock, seal or otherwise designate or secure any apparatus, vessel, machinery, utensils or goods subject to excise, and close, seal and secure all or any of them during the period when the distillery, brewery, tobacco manufactory, cigar manufactory or bonded manufactory is not at work; and
+
+- (g) take, at any time that he is instructed by the collector or superior officer to do so, a sample or samples of any goods unmanufactured, in process of manufacture or manufactured, in the stock or possession of any person carrying on business subject to excise, and the samples shall be furnished by the manufacturer or other person free of cost.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 70
+
+</details>
+
+### 73 Power to make forcible entry
+
+Where any officer, with any assistants acting under him and by his direction, after having demanded admittance into any premises subject to excise and having declared his name and business at the gate or entrance door, or at any window or door of the premises, or at the door, window or gate of any building or place forming part thereof, is not immediately admitted into the premises, the officer and any persons acting in his aid may at all times, by night or by day, break through any of the doors, windows or walls of the premises necessary to be broken open or through to enable him and them to enter the premises, but if the breaking is done by night, it shall be in the presence of a constable or other peace officer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 71
+
+</details>
+
+### 74 Search warrant
+
+Any justice of the peace may grant to any collector or other officer, or any person acting under or by direction of a collector, on affidavit made before him, stating reasonable grounds to the satisfaction of the justice for the issuing thereof, a search warrant under which the collector, officer or person may, at any hour between sunrise and sunset, enter into and search any house, building or place mentioned in the search warrant as being one in which it has been made to appear by affidavit that there is reasonable cause to suppose that an unlicensed still, worm, mash-tub, cooler, fermenting-tun, press, cutting-knife, mill or other vessel or implement is unlawfully in use or possession, or in respect of which the provisions of this Act are otherwise contravened.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 72
+
+</details>
+
+### 75 Arrest without warrant
+
+Any officer or person having the powers of an officer of excise may arrest without warrant any one found committing any offence declared by this Act to be an indictable offence, or declared by the *Criminal Code* to be an indictable offence, whenever that offence arises out of or is connected with the performance of duties in the administration of this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 73
+
+</details>
+
+### 76 Storage of goods seized
+
+Any article or commodity seized as forfeited under this Act or any Act relating to excise may, at the option of the seizing officer, be kept or stored in the building or place where it was seized until it is condemned or ordered to be restored to any claimant, and as long as the article or commodity is under seizure, the building or place in which it is so kept or stored shall be held to be in the sole custody of the officer, or other person appointed for that purpose by the seizing officer or by any superior officer, or the article or commodity may, by direction of the seizing officer or superior officer, be removed to be kept in any other place.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 74
+
+</details>
+
+### 77 Collector or officer may examine on oath
+
+Where any person does, or permits to be done, anything in or about any premises subject to excise that, in the opinion of any officer, is intended or likely to mislead the officer in the discharge of his duty, or to prevent him from ascertaining the true quantity of the products of the business therein carried on, that person or any other person who is supposed to have any knowledge of the facts may be examined on oath by any collector or other superior officer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 75
+
+</details>
+
+### 78
+
+[Repealed, R.S., 1985, c. 27 (1st Supp.), s. 190]
+
+### 79 Others to assist officers
+
+All justices of the peace, mayors, bailiffs, constables, all persons serving under Her Majesty by commission, warrant or otherwise and all other persons whomever shall aid and assist, and they are hereby respectively required to aid and assist, every officer in the due execution of any act or thing authorized, required or enjoined by this Act or any other Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 77
+
+</details>
+
+### 80 and 81
+
+[Repealed, R.S., 1985, c. 27 (1st Supp.), s. 190]
+
+### Protection of Officers
+
+### 82 Action against officers
+
+(1) No writ shall be issued against, nor any process served on, any officer for any thing done or purporting to be done, in the exercise of his duty as an officer until one month after notice in writing has been served on him, in which notice shall be clearly and explicitly stated the cause of action, the name and place of residence of the person who intends to bring the action and the name of his attorney, solicitor or agent.
+
+**Evidence**
+
+(2) No evidence of any cause of action shall be produced except of such cause of action as is contained in the notice referred to in subsection (1), and no verdict or judgment shall be given for the plaintiff, unless he proves on the trial that the notice was given, in default of which proof the defendant is entitled to a verdict or judgment and costs.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 80
+
+</details>
+
+### 83 Limitation of time for action
+
+(1) Every action referred to in subsection 82(1) shall be brought within three months after the cause thereof arose and shall be laid and tried in the place or district where the acts complained of were committed.
+
+**Defendant’s plea**
+
+(2) The defendant may plead the general issue and give the special matter in evidence.
+
+**Costs**
+
+(3) If the plaintiff in an action is non-suited or discontinues the action, or if, on demurrer or otherwise, judgment is given against the plaintiff, the defendant shall recover costs and have such remedy for the costs as any defendant has in other cases where costs are given.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 81
+
+</details>
+
+### 84 Officer may tender amends
+
+Any officer or person against whom any action is brought under this Act on account of anything done, or purporting to be done, under the authority of this Act, may, within one month after the notice referred to in subsection 82(1) has been served, tender amends to the person complaining or his agent and plead the tender in bar or answer to the action, together with other pleas or defences, and if the court or jury, as the case may be, finds the amends sufficient, a judgment or verdict shall be given for the defendant, and in that case, or if the plaintiff is non-suited or discontinues his action, or judgment is given for the defendant on demurrer or otherwise, the defendant is entitled to the like costs as he would have been entitled to in case he had pleaded the general issue only, but the defendant may, by leave of the court in which the action is brought, at any time before issue is joined, pay money into court as in other actions.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 82
+
+</details>
+
+### 85 If defendants acted on probable cause
+
+If, in any action under this Act, the court or judge before whom the action is tried certifies that the defendant or defendants in the action acted on probable cause, the plaintiff in the action is not entitled to more than twenty cents damages or to any costs of suit.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 83
+
+</details>
+
+### 86 Probable cause in actions to enforce seizures
+
+(1) Where any information or suit is brought to trial or determined on account of any seizure or entry made under this Act and a verdict is found or decision or judgment is given for the claimant, and the court or judge before whom the cause has been tried certifies that there was probable cause for the seizure or entry, the claimant is not entitled to any costs of suit nor is the person who made the seizure or entry liable to any action, indictment or other suit or prosecution on account of the seizure or entry.
+
+**Probable cause in proceedings against seizing officer**
+
+(2) Where any action, indictment or other suit or prosecution is brought to trial against any person on account of the seizure or entry referred to in subsection (1), in which a verdict or judgment is given against the defendant, the plaintiff, if probable cause is certified, besides the thing seized, if a seizure, or the value thereof, is not entitled to more than twenty cents damages or to any costs of suit, nor shall the defendant in the prosecution in that case be fined more than ten cents.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 84
+
+</details>
+
+### Offences and Punishment
+
+### 87 Not posting licence
+
+Every manufacturer who neglects or refuses to keep his licence posted up in a conspicuous place in his manufactory shall incur a fine not exceeding fifty dollars for the first offence and one hundred dollars for each subsequent offence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 85
+
+</details>
+
+### 88 Goods and apparatus forfeited if no licence
+
+(1) Any of the following things, namely,
+
+- (a) all grain, malt, raw tobacco and other material in stock,
+
+- (b) all engines, machinery, utensils, worms, stills, mash-tubs, fermenting-tuns, tobacco presses or knives,
+
+- (c) all tools or materials suitable for the making of stills, worms, rectifying or similar apparatus, and
+
+- (d) all spirits, malt, beer, tobacco, cigars and other manufactured articles,
+
+that are at any time found in any place or premises where anything is being done that is subject to excise, and for which a licence is required under this Act, but in respect of which no licence has been issued, shall be seized by any officer having a knowledge thereof and be forfeited to the Crown, and may either be destroyed when and where found or removed to a place for safe-keeping, in the discretion of the seizing officer.
+
+**Horses, vehicles, etc.**
+
+(2) All horses, vehicles, vessels and other appliances that have been or are being used for the purpose of transporting in contravention of this Act or the regulations, or in or on which are found any goods subject to excise, or any materials or apparatus used or to be used in contravention of this Act or the regulations in the production of any goods subject to excise and all such goods, materials or apparatus may likewise be seized as forfeited by the seizing officer and may be dealt with in the manner described in subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 88; 1995, c. 36, s. 12
+
+</details>
+
+### 88.1 Notification of seizure
+
+Where an officer has evidence that a person may be entitled to make an application under subsection 88.2(1) in respect of a horse, vehicle, vessel or other appliance seized as forfeited under this Act, the officer shall take such measures as are reasonable to ensure that notification of the seizure is sent to that person at the person’s last known address.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, c. 36, s. 13
+
+</details>
+
+### 88.2 Person who claims interest in things seized
+
+(1) If a horse, vehicle, vessel or other appliance has been seized as forfeited under this Act, any person, other than the person accused of an offence resulting in the seizure or person in whose possession the horse, vehicle, vessel or other appliance was seized, who claims an interest in the horse, vehicle, vessel or other appliance as owner, mortgagee, hypothecary creditor or holder of a lien or other like interest may, within thirty days after the seizure, apply to any judge of any superior court of a province or to a judge of the Federal Court for an order declaring the claimant’s interest.
+
+**Conditions**
+
+(2) Where, after such notice to the Minister as the judge referred to in subsection (1) may require, it is made to appear to the satisfaction of the judge
+
+- (a) that the claimant is innocent of any complicity in the offence resulting in the seizure or of any collusion with the offender in relation thereto, and
+
+- (b) that the claimant exercised all reasonable care in respect of the person permitted to obtain the possession of the horse, vehicle, vessel or other appliance to satisfy the claimant that it was not likely to be used contrary to this Act or, if a mortgagee, hypothecary creditor or holder of a lien or other like interest, that before becoming the mortgagee, hypothecary creditor or holder of the lien or other interest the claimant exercised such care with respect to the mortgagor, hypothecary debtor or person from whom the lien or interest was acquired,
+
+the claimant is entitled to an order that the claimant’s interest is not affected by the seizure.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, c. 36, s. 13; 2004, c. 25, s. 138(E)
+
+</details>
+
+### 89 Engines and apparatus forfeited if any fraud
+
+Every steam-engine, boiler, mill, still, worm, rectifying apparatus, fermenting-tun, mash-tub, cistern, machine, vessel, tub, cask, pipe or cock, with the contents thereof, and all stores or stocks of grain, spirits, malt, beer, tobacco, cigars, drugs or other materials or commodities that are in any place or premises subject to excise, shall be forfeited to the Crown and be dealt with accordingly if any fraud against the revenue is committed in the place or premises, or if the owner of the place, premises, apparatus, goods or commodities, his agent or any person employed by him, or any person having lawful possession or control of the place, premises, apparatus, goods or commodities, is discovered in the act of committing, or is convicted of committing, any act in or about the place or premises that is declared by this Act to be an indictable offence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 87
+
+</details>
+
+### 90 Forfeiture of goods for non-payment of duty
+
+Every article or thing subject to duty under this Act, and on which the duty imposed by this Act has not been paid at the proper time as provided in this Act, may be seized by any officer as forfeited to the Crown and be dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 88
+
+</details>
+
+### 91 Unlawfully using stamped packages
+
+Every person who puts into any package, barrel or cask that has been stamped, marked or branded under this Act any article or commodity subject to excise on which the duty imposed by this Act has not been paid or secured, or that has not been inspected as required by this Act, is guilty of an indictable offence, and for a first offence shall incur a fine of not more than five hundred dollars and not less than one hundred dollars, and for each subsequent offence a fine not exceeding five hundred dollars, and is, in addition, for any offence, liable to imprisonment for a term not exceeding three months.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 89
+
+</details>
+
+### 92 Failing to obliterate brands
+
+Every person
+
+- (a) who, having removed the contents of any package, barrel or cask labelled, branded, marked or sealed as required by this Act, fails forthwith to obliterate or effectually deface the label, brand, mark or seal, or
+
+- (b) in whose possession is found any package, barrel or cask referred to in paragraph (a), the contents of which have been removed and the label, brand, mark or seal on which has not been obliterated or defaced,
+
+shall, for each offence, incur a fine not exceeding one hundred dollars, and the package, barrel or cask in respect of which the offence has been committed shall be forfeited to the Crown and may be seized and detained by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 90
+
+</details>
+
+### 93 Unlawfully keeping stamped packages
+
+Every person who, except as permitted by this Act or by ministerial regulations, brings or causes or permits to be brought into any place licensed under this Act, belonging to him, or into any place in which any business subject to excise is carried on under his supervision or control, or in whose licensed premises there is at any time found any box, jar, barrel, bag or other package, such as is used for containing any of the articles subject to excise that are made in the licensed premises, and having attached or affixed to it, under any provision of this Act, any stamp, mark or brand, or a part of any stamp, mark or brand, as evidence that the duty to which the contents of the box, jar, barrel, bag or other package is liable has been paid or secured, or that the inspection to which the article is liable has been made, shall, for a first offence, incur a fine of not more than five hundred dollars and not less than one hundred dollars, and for each subsequent offence a fine not exceeding five hundred dollars, and all articles subject to excise on the premises at the time of the commission of the subsequent offence shall be forfeited to the Crown and shall be seized by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 93; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 94 Person carrying on business subject to excise
+
+Every person carrying on any business subject to excise, or having in his possession or on his premises any machinery, tools, utensils, apparatus or appliances suitable for carrying on any business subject to excise, who
+
+- (a) neglects, refuses or omits to make a true and correct return and entry at the time and in the manner required by this Act, or at any time when specially required to do so under the provisions of this Act, of all workshops, apartments, utensils, tools, apparatus, machinery or appliances possessed, occupied or used by or for him, or existing in or introduced into or intended to be used in the premises in which the business is or might be carried on,
+
+- (b) makes use of any still, worm, fermenting-tun, mash-tub, tobacco-press, cutting machine, vessel, utensil, closed spirit-receiver, fixed or movable pipe, cock, pump or other appliance or apparatus, or permits any appliance or apparatus to be used in his distillery, brewery, tobacco manufactory, cigar manufactory or bonded manufactory, or other premises subject to excise, which, or any of which, have not been known or reported to the proper officer prior to being so used,
+
+- (c) makes any changes therein or additions thereto without duly notifying the collector,
+
+- (d) makes, causes to be made or permits to exist any secret, covert or unusual connection or communication between the several parts or compartments of the premises in which the business is carried on, other than as shown on the return or plan made thereof,
+
+- (e) allows any pipes, pumps, cocks, conduits, troughs or other means for conducting fluids or other matter from one part of the premises to another or from one vessel to another, other than those that are clearly indicated and made known on the returns, models, diagrams or entries made of the premises or vessels, or other than have been made known to the collector or other than are permitted to be used by this Act,
+
+- (f) permits any apparatus, utensils, vessels, pipes, store-rooms or compartments of the premises to be used or occupied otherwise than for the purpose for which they have been entered or returned,
+
+- (g) neglects or refuses to designate in the manner required by this Act the contents or capacity of, and the purpose to which, each vessel, utensil, apparatus, pipe, conduit, store-room, workshop or compartment of the premises is applied,
+
+- (h) refuses to admit the collector or other officer or his assistants to the premises where any business subject to excise is carried on, at any hour of the day or night when the business is being carried on, or when any act or thing connected with the carrying on of the business is being performed therein,
+
+- (i) refuses to admit any officer to inspect any place or premises where any material, utensil or apparatus suitable for carrying on any business subject to excise is placed or deposited, or
+
+- (j) does or causes or permits to be done anything, in or about the premises in which the business is carried on, that is intended or likely to mislead any officer in the discharge of his duty or to prevent him from ascertaining the true quantity of the products of the business carried on therein,
+
+shall, for a first offence, incur a fine of not more than five hundred dollars and not less than two hundred dollars, and for each subsequent offence a fine not exceeding five hundred dollars and, for any offence, first or subsequent, a further fine not exceeding one hundred dollars for each and every day on which the offence is committed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 92
+
+</details>
+
+### 95 Licensee refusing to make list
+
+Any person who holds a licence under this Act shall incur the same punishment as is prescribed by this Act for carrying on any business subject to excise without a licence, if that person, at any time, having been required in the manner authorized by this Act to make out and furnish with reference to the licensed premises a new list and description with such models, diagrams or drawings as are required by this Act in an application for a licence, refuses to comply with the requisition.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 93
+
+</details>
+
+### 96 Apparatus forfeited where penalty incurred
+
+Every still, worm, rectifying apparatus, fermenting-tun, mash-tub, machinery, tobacco-press, cutting-machine, vessel, utensil, pipe, cock, pump, trough, conduit or apparatus, with all and every matter or thing that they contain and the contents of every store-room, workshop or apartment in respect of which any punishment is incurred under this Act, or that has not been entered, described or returned as required by this Act, shall be forfeited to the Crown and may be seized and detained by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 94
+
+</details>
+
+### 97 Refusing to assist officers
+
+Every person who, when called on in the Queen’s name by an officer to aid or assist him in the execution of any act or duty required by this Act, refuses or neglects to do so, and every master or person in charge of any vessel and every driver or person conducting or having charge of any vehicle or conveyance who refuses or neglects to stop the vessel, vehicle or conveyance when required to do so in the Queen’s name by an officer, is guilty of an indictable offence and liable to a fine of not more than one hundred dollars and not less than fifty dollars or to imprisonment for a term of not more than six months and not less than three months or to both fine and imprisonment, and in default of payment of the fine to a term or a further term of imprisonment of not more than six months and not less than three months.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 95
+
+</details>
+
+### 98 Offences in relation to books
+
+Every person carrying on any business subject to excise who fails or neglects, or allows any person acting for him or in his employ to fail or neglect, to keep books that are required to be kept by this Act or by any regulation made in that behalf, or to make true and correct entries therein of all particulars required by this Act to be entered in the books, and every person carrying on any business subject to excise who
+
+- (a) in any way alters or falsifies any of those entries or makes, or causes or allows to be made, any untrue entry or entries in the books,
+
+- (b) removes, or causes or permits the removal, from the books of any leaf or leaves or part of a leaf or leaves,
+
+- (c) defaces or erases, or causes or permits to be defaced or erased, any entry made therein,
+
+- (d) neglects or refuses to prepare and deliver any inventory or make any return or statement, to give any information or to render any accounts required by this Act,
+
+- (e) falsifies any return, inventory, statement or account, or knowingly gives false information, or
+
+- (f) neglects or refuses to produce any book, account, statement or return required by this Act to be kept, or any private books or accounts that are demanded for the inspection of any duly authorized officer, when required to do so during ordinary business hours,
+
+is guilty of an indictable offence and shall, for a first offence, incur a fine of not more than three hundred dollars and not less than fifty dollars, and for each subsequent offence a fine not exceeding five hundred dollars, together with a further fine equal to double the amount of licence fees, duty or other impost payable under this Act by that person at the time of the offence on any spirits, malt, beer, manufactured tobacco, cigars, stock, goods manufactured in bond or materials for manufacturing them.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 96
+
+</details>
+
+### 99 Articles in respect of which no return made
+
+(1) Every article or commodity in respect of which
+
+- (a) any fraudulent, false, incorrect or imperfect information, entry, return, inventory, account or statement has been made or given,
+
+- (b) any information, entry, return, inventory, account or statement has been in whole or in part neglected or refused to be made or given, or
+
+- (c) any information, entry, return, inventory, account or statement has been in whole or in part erased, defaced, removed or destroyed
+
+shall be forfeited to the Crown and shall be seized by any officer and dealt with accordingly.
+
+**False or fraudulent return**
+
+(2) All goods or materials, machinery, utensils, tools, apparatus or commodities in respect of which
+
+- (a) any fraudulent, false, incorrect or imperfect information, entry, return, inventory, account or statement has been made or given,
+
+- (b) any information, entry, return, inventory, account or statement has been, in whole or in part, neglected, or omitted, or refused to be made or given, or
+
+- (c) any information, entry, return, inventory, account or statement has been, in whole or in part, erased, defaced, removed or destroyed
+
+shall be forfeited to the Crown and shall be seized by any officer and dealt with accordingly.
+
+**Idem**
+
+(3) Any goods or materials, machinery, utensils, tools, apparatus or commodities that are found in any premises subject to excise at the time when it is discovered that anything described in paragraph (2)(a), (b) or (c) has been done in respect thereof shall be forfeited to the Crown and shall be seized by any officer and dealt with accordingly.
+
+**Penalty**
+
+(4) Every person who is required by this Act to make a return and fails to make the return within the time required by section 37 shall pay forthwith a penalty of two hundred and fifty dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 99; R.S., 1985, c. 12 (4th Supp.), s. 60
+
+</details>
+
+### 100 Using weights and measures not inspected and approved
+
+Except as otherwise provided in this Act, every person who uses, or causes or permits the using of, any beams, scales, weights or measures in or about any premises subject to excise, other than those that have been tested, inspected and approved by the proper officer as provided in this Act, shall, for every offence, incur a fine not exceeding one hundred dollars and a further fine not exceeding fifty dollars for each subsequent day on which the use is continued, and the beams, scales, weights and measures shall be forfeited to the Crown and shall be seized by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 98
+
+</details>
+
+### 101 Breaking the Crown’s lock or seal, etc.
+
+Every person is guilty of an indictable offence who
+
+- (a) opens or breaks any lock or seal or other contrivance attached to any apparatus, vessel, pipe, trough, safe, closed spirit-receiver, meter, pump, cock, room, warehouse or other apartment used for the security of the revenue under this Act;
+
+- (b) unlawfully abstracts any goods from any place where they or any of them are retained under the supervision of any officer;
+
+- (c) counterfeits any label, stamp or seal provided for under this Act; or
+
+- (d) without the knowledge and consent of the collector, in any way perforates any vessel or closed spirit-receiver used for containing any spirits on which the duties have not been paid.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 99
+
+</details>
+
+### 102 Removing bonded goods without entry
+
+(1) Where any goods subject to excise are removed or in any way abstracted from any bonding warehouse, without due entries having been made and the duties paid as required by law, whether the removal or abstraction is effected with or without the knowledge or consent of the person holding the licence for the warehouse or of the owner of the goods abstracted, the person to whom the licence for the warehouse was granted and the owner of the goods shall, in addition to the duties of excise to which the goods abstracted were liable, incur a penalty equal in amount to the duties.
+
+**Remaining goods liable**
+
+(2) All goods, articles or things remaining in a bonding warehouse, when it is ascertained that any goods have been unlawfully abstracted, are liable for the duties to which the abstracted goods were subject and for the penalty described in subsection (1), and may be forthwith sold by order of the collector or other officer whose duty it then is to collect the duties of excise.
+
+**Proceeds**
+
+(3) The proceeds of a sale held pursuant to subsection (2) shall be applied
+
+- (a) to the liquidation of the duties of excise to which the goods then in warehouse are subject;
+
+- (b) to the payment of the duties of excise to which the abstracted goods are subject; and
+
+- (c) to the payment of the penalty imposed by this section.
+
+**Remission to innocent owners**
+
+(4) Where the persons who become liable to the penalty imposed by this section show, to the satisfaction of the Minister, that they were in no way privy to the unlawful abstraction of the goods, or that the goods were stolen by some person or persons unknown to them, and that they have used all possible means for the detection and arrest of the criminal, the Minister may remit the penalty on payment of the duties to which the goods would otherwise have been liable.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 100
+
+</details>
+
+### 102.1 Penalty for removal from bonding warehouse for certain exports
+
+Every person who removes from a bonding warehouse and exports in bond manufactured tobacco (as defined in subsection 58.1(1)) otherwise than in accordance with subparagraph 58.1(3)(a)(i) and paragraph 58.1(3)(b) is liable to pay, in addition to any duties or taxes that are payable under this or any other Act in respect of the tobacco, a penalty equal to the total of those duties and taxes, and that penalty becomes payable at the time the tobacco is exported.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2001, c. 16, s. 10
+
+</details>
+
+### 103 Goods removed before duty paid
+
+Any goods removed from any premises subject to excise before the duty thereon has been paid or secured by bond in the manner required by law shall be seized and detained by any officer having a knowledge of the fact, and shall be forfeited to the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 101
+
+</details>
+
+### 104 Unlawful removal
+
+Goods subject to excise that have been removed from licensed premises contrary to this Act shall be forfeited to the Crown and may be seized and detained by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 102
+
+</details>
+
+### 105 Not disposing of goods in accordance with entry
+
+If any goods subject to excise entered to be warehoused are not duly carried into and deposited in the warehouse, or having been so deposited are afterwards taken out of the warehouse without lawful permit, or having been entered and cleared for export in bond are not duly carried and shipped or otherwise conveyed out of Canada, or are afterwards re-landed, sold or used in or brought into Canada without the permission of the proper officer of the Crown, those goods shall be forfeited to the Crown and may be seized by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 103
+
+</details>
+
+### 106 Unlawfully using apparatus
+
+Every person licensed under this Act who commences any operation, or uses any apparatus for which a notice is required to be given, before the time mentioned in the notice as that of the commencement or use shall, for every offence, incur a fine not exceeding one hundred dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 104
+
+</details>
+
+### 107 Taking away goods seized or detained
+
+Every person who, whether pretending to be the owner or not, either secretly or openly, and whether with or without force or violence, takes or carries away any goods, vessel, vehicle or other thing that has been seized or detained on suspicion, as forfeited under this Act, before the same has been declared by competent authority to have been seized, without due cause and without the permission of the officer or person who seized the same or of a competent authority, shall be deemed to have stolen the goods, vessel, vehicle or other thing, being the property of Her Majesty, and is guilty of theft and liable to a term of imprisonment of not more than three years and not less than three months.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 105
+
+</details>
+
+### 108 Refusing to give evidence
+
+Every person who refuses or neglects to appear before any court, judge or any justice of the peace to give evidence, when summoned, concerning any alleged offence against this Act, or who refuses or neglects to give evidence when required, before any officer authorized by this Act to examine that person, shall, for that refusal or neglect, incur a fine not exceeding one hundred dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 106
+
+</details>
+
+### 109 Contravention of Act in other respects
+
+Every person who commits any offence against any of the provisions of this Act or of any regulation that is not declared by this Act to be an indictable offence, or who neglects to perform any duty imposed on him by this Act or by any regulation, for which commission or neglect no punishment is specially provided, is liable to a fine of not more than two hundred dollars and not less than twenty-five dollars, and in default of payment of the fine shall be imprisoned for a term of not more than three months and not less than one month.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 107
+
+</details>
+
+### 110 Imprisonment in lieu of or in addition to fine
+
+Whenever any person is convicted of any offence against this Act for which a fine only is provided, the court may, if it thinks fit, in addition to or in lieu of any of the punishments authorized by this Act, sentence the offender to be imprisoned for a term of not more than two years and not less than one month.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 108
+
+</details>
+
+### Recovery of Duties and Penalties
+
+### 110.1 Penalty and interest
+
+(1) Subject to subsection (2), on default in payment of any duty or penalty payable under this Act within the time prescribed by this Act or the regulations, the person liable to pay that duty or penalty shall pay without delay, in addition to the amount in default,
+
+- (a) a penalty of one-half of one per cent, in respect of each month or fraction of a month between the expiration of that time and the day on which the total duty, penalty and interest outstanding is paid, calculated on the total duty, penalty and interest outstanding at the beginning of that month; and
+
+- (b) interest at such rates per annum prescribed under the *Income Tax Act* for amounts payable by the Minister under that Act as refunds of overpayments of tax to a person that is not a corporation, as are in effect from time to time, in respect of each day between the expiration of that time and the day on which the total duty, penalty and interest outstanding is paid, calculated on the total duty, penalty and interest outstanding on that day.
+
+**Extension of time for payment**
+
+(2) The Minister may, before or after the expiration of the time prescribed by this Act or the regulations for the payment of any duty, extend in writing the time for paying that duty and, where the Minister so extends the time,
+
+- (a) the duty and interest thereon shall be paid within the time as so extended;
+
+- (b) interest accrues under subsection (1) in respect of the duty as if the time had not been so extended;
+
+- (c) no penalty accrues or shall be deemed to have accrued under subsection (1) in respect of the duty before the expiration of the time as so extended; and
+
+- (d) penalty and interest accrue under subsection (1) in respect of a default in payment of the duty or interest thereon, or any portion thereof, within the time as so extended as if the default were a default referred to in that subsection.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 12 (4th Supp.), s. 61; 1996, c. 21, s. 62; 2001, c. 16, s. 11; 2010, c. 12, s. 37
+
+</details>
+
+### 111 Definitions
+
+(1) The following definitions apply in this section.
+
+**action** means an action to collect a tax debt of a person and includes a proceeding in a court and anything done by the Minister under any provision of this Part. (**action**)
+
+**legal representative** of a person means a trustee in bankruptcy, an assignee, a liquidator, a curator, a receiver of any kind, a trustee, an heir, an administrator, an executor, a liquidator of a succession, a committee, or any other like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with any property, business, commercial activity or estate that belongs or belonged to, or that is or was held for the benefit of, the person or the person’s estate. (**représentant légal**)
+
+**tax debt** means any amount payable by a person under this Act. (**dette fiscale**)
+
+**Although no account or return rendered**
+
+(2) All duties of excise or licence fees payable under this Act are recoverable at any time after they ought to have been accounted for and paid, whether an account of quantity of the goods or commodities or a true return of the utensils, tools and apparatus on which the duties or licence fees are payable has or has not been made as required by this Act.
+
+**Debts to Her Majesty**
+
+(3) A tax debt is a debt due to Her Majesty and is recoverable as such with full costs of suit in the Federal Court or any other court of competent jurisdiction or in any other manner provided by this Act.
+
+**No actions after limitation period**
+
+(4) The Minister may not commence an action to collect a tax debt after the end of the limitation period for the collection of the tax debt.
+
+**Limitation period**
+
+(5) The limitation period for the collection of a tax debt of a person
+
+- (a) begins
+  - (i) if the tax debt became payable after March 3, 2004, on the earliest day on which the Minister can commence an action to collect that tax debt, and
+  - (ii) if subparagraph (i) does not apply and the tax debt was payable on March 4, 2004, or would have been payable on that date but for a limitation period that otherwise applied to the collection of the tax debt, on March 4, 2004; and
+
+- (b) ends, subject to subsection (9), on the day that is 10 years after the day on which it begins.
+
+**Limitation period restarted**
+
+(6) The limitation period described in subsection (5) for the collection of a tax debt of a person restarts (and ends, subject to subsection (9), on the day that is 10 years after the day on which it restarts) on any day, before it would otherwise end, on which
+
+- (a) the person acknowledges the tax debt in accordance with subsection (7); or
+
+- (b) the Minister commences an action to collect the tax debt.
+
+**Acknowledgement of tax debts**
+
+(7) A person acknowledges a tax debt if the person
+
+- (a) promises, in writing, to pay the tax debt;
+
+- (b) makes a written acknowledgement of the tax debt, whether or not a promise to pay can be inferred from the acknowledgement and whether or not it contains a refusal to pay; or
+
+- (c) makes a payment, including a purported payment by way of a negotiable instrument that is dishonoured, on account of the tax debt.
+
+**Agent or legal representative**
+
+(8) For the purposes of this section, an acknowledgement made by a person’s agent or legal representative has the same effect as if it were made by the person.
+
+**Extension of limitation period**
+
+(9) In computing the day on which a limitation period ends, there shall be added the number of days on which one or more of the following is the case:
+
+- (a) the Minister has accepted and holds security in lieu of payment of the tax debt;
+
+- (b) if the person was resident in Canada on the applicable date described in paragraph (5)(a) in respect of the tax debt, the person is non-resident; or
+
+- (c) an action that the Minister may otherwise take in respect of the tax debt is restricted or not permitted under any provision of the *Bankruptcy and Insolvency Act*, of the *Companies’ Creditors Arrangement Act* or of the *Farm Debt Mediation Act*.
+
+**Bar to claims**
+
+(10) Despite any law of Canada or a province, Her Majesty is not liable for any claim that arises because the Minister collected a tax debt after the end of any limitation period that applied to the collection of the tax debt and before March 4, 2004.
+
+**Orders after March 3, 2004 and before effect**
+
+(11) Despite any order or judgment made after March 3, 2004 that declares a tax debt not to be payable by a person, or that orders the Minister to reimburse to a person a tax debt collected by the Minister, because a limitation period that applied to the collection of the tax debt ended before royal assent to any measure giving effect to this section, the tax debt is deemed to have become payable on March 4, 2004.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 111; 2004, c. 22, s. 46
+
+</details>
+
+### 112 Dealing with articles seized
+
+(1) Where any article is seized under this Act, the Minister may authorize the collector for the excise division in which the seizure is made, or a superior officer, to sell, destroy or otherwise deal with the article, as if it had been condemned.
+
+**Proceeds of sale**
+
+(1.1) The Minister shall hold the proceeds from the sale of any article under subsection (1) until the time for making a claim in respect of the article under section 116 has expired, or, where a claim is made under that section, until that claim has been disposed of.
+
+**Payment of compensation**
+
+(1.2) Where a court decides a claim under section 116 in favour of the claimant and it is not possible to return the article to the claimant, the court shall, in lieu of awarding restitution, order the Minister to pay to the claimant
+
+- (a) where the article was sold, the proceeds from the sale; and
+
+- (b) in any other case, the value of the article.
+
+**Article to be delivered**
+
+(2) The Minister may authorize the collector or superior officer referred to in subsection (1) to deliver up to any claimant any article seized as described in that subsection on the claimant depositing in the hands of the collector or superior officer such sum of money as will represent the full value thereof, or giving security to the satisfaction of the collector or superior officer that the value of the article and all costs shall be paid to the use of Her Majesty, if the article is condemned.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 112; 1994, c. 37, s. 4
+
+</details>
+
+### 113
+
+[Repealed, 1989, c. 22, s. 10]
+
+### 114 Certificate as evidence
+
+In every prosecution under this Act, the certificate of analysis furnished by a departmental analyst or by a provincial analyst is evidence of the facts stated therein and of the authority of the person giving or issuing the certificate without further proof of appointment or signature.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 112
+
+</details>
+
+### 115 Stock in trade and apparatus liable for duties
+
+(1) The grain, malt, beer, tobacco, cigars or other materials or stock in trade from which any goods subject to excise are or could be wholly or in part made, and machinery, implements, articles and utensils used or capable of being used for making, manufacturing or producing any of those goods or preparing any materials therefor, or by means of which any trade, business or employment subject to excise is or has been or might be carried on, and whether so fixed as to form part of the real property or not, that are on the premises mentioned in the licence or in the custody or possession of the person carrying on the trade or business, or in the custody or possession of any factor, agent or other person in trust for or for the use of that person, at the time when any duties become due or any penalty or forfeiture is incurred under this Act,
+
+- (a) are liable for the duties and for the penalty or forfeiture incurred by the person carrying on business subject to excise on whose premises or in the custody or possession of whom or of whose factor, agent or trustee they are; and
+
+- (b) may be seized and sold in satisfaction of the duty, penalty or forfeiture under any warrant of distress, writ of execution or other process for the recovery thereof, and may be removed by the purchaser.
+
+**Preservation of claims of the Crown**
+
+(2) Notwithstanding subsection (1), all claims of the Crown, whether preferential or privileged, or not, on any other property of the debtor or offender, or his sureties, for any duties, penalties or forfeitures are hereby preserved.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 113
+
+</details>
+
+### 116 Notice of information filed in court
+
+(1) As soon as an information has been filed in any court for the condemnation of any goods or thing seized under this Act, notice thereof shall be posted in the office of the registrar, clerk or prothonotary of the court, and in the office of the collector or chief officer in the excise division in which the goods or thing has been seized.
+
+**Claims to property seized**
+
+(2) Where the owner or person claiming the goods or thing referred to in subsection (1) presents a claim to the court, gives security and complies with all the requirements of this Act in that behalf, the court at its sitting immediately after the notice referred to in that subsection has been posted during one month may hear and determine any claim that has been duly made and filed in the meantime and release or condemn the goods or thing, as the case requires, otherwise the goods or thing shall, after the expiration of that month, be deemed to be condemned and may be sold without any formal condemnation thereof.
+
+**Limitation**
+
+(3) No claim on behalf of any person who has given notice of intention to claim before the posting of the notice referred to in subsection (1) shall be admitted unless it is made within one week after the posting thereof, nor shall any claim be admitted unless notice thereof has been given in writing to the collector or superior officer within one month from the seizure of the goods or thing.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 114
+
+</details>
+
+### 117 Condemnation of property seized
+
+(1) All vehicles, vessels, goods and other things seized as forfeited under this Act or any other Act relating to excise, trade or navigation, shall be deemed and taken to be condemned, and may be dealt with accordingly, unless the person from whom they were seized, or the owner thereof, within one month from the day of seizure, gives notice in writing to the seizing officer, or to the collector in the excise division in which the goods were seized, that he claims or intends to claim them.
+
+**Release of goods on security**
+
+(2) The collector at the place where the seized goods are secured, or any superior officer, may order the delivery of the goods to the owner thereof on receiving security by bond with two sufficient sureties, to be first approved by the collector or superior officer, for double the value in case of condemnation.
+
+**Payment on condemnation**
+
+(3) If the seized goods are condemned, the value thereof shall be forthwith paid to the collector and the bond cancelled, otherwise the penalty of the bond shall be enforced and recovered.
+
+**Bond to be kept by collector**
+
+(4) The bond shall be taken to Her Majesty’s use in the name of the collector and shall be delivered to and kept by the collector.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 115
+
+</details>
+
+### 118 Payment of penalty not to discharge any duty
+
+The payment of any penalty or forfeiture incurred under this Act does not discharge the person paying the penalty or forfeiture from the obligation to pay all duties due by that person, and the duties shall be paid and may be recovered as if the penalty or forfeiture had not been paid or incurred.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 116
+
+</details>
+
+### 119 Recovery of penalties
+
+(1) Every penalty or forfeiture incurred and any term of imprisonment imposed for any offence against this Act, or any other law relating to excise, whether in conjunction with a pecuniary penalty or not, may be sued for and recovered in, or may be imposed, adjudged and ordered,
+
+- (a) by the Federal Court, or any court of record having jurisdiction in the place where the cause of prosecution arises or in which the defendant is served with process; or
+
+- (b) if the amount or value of the penalty or forfeiture does not exceed ten thousand dollars, and the term of imprisonment does not exceed twelve months, exclusive of any term of imprisonment that may be adjudged or ordered for non-payment of any pecuniary penalty, whether or not the offence in respect of which it has been incurred is declared by this Act to be an indictable offence, by summary conviction before a provincial court judge, or any two justices of the peace having jurisdiction in the place where the cause of prosecution arises, or wherein the defendant is served with process, or before any functionary, tribunal or person empowered by the proper legislative authority to perform acts usually required to be done by two or more justices of the peace and acting within the local limits of his or its jurisdiction.
+
+**Priority**
+
+(2) Every action, suit or prosecution taken under this Act, whether under the *Criminal Code* or before any court of competent jurisdiction, shall be inscribed on a privileged docket or roll and heard by privilege and preference.
+
+**May be levied by distress and sale**
+
+(3) Any pecuniary penalty referred to in subsection (1) may, if not forthwith paid, be levied by distress and sale of the goods and chattels of the offender, under the warrant of the court, judge, provincial court judge or justices having cognizance of the case, or the court, judge, provincial court judge or justices may, in its or their discretion, commit the offender to the common jail for a period not exceeding twelve months, unless the penalty and costs, including those of conveying the offender to the common jail and those stated in the warrant of committal, are sooner paid.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 119; R.S., 1985, c. 15 (1st Supp.), s. 49, c. 27 (1st Supp.), s. 203
+
+</details>
+
+### 120 Minimum punishment
+
+Notwithstanding any other statute or law, the court, in any prosecution, suit or proceeding under this Act, has no power to impose less than the minimum punishment prescribed by this Act and has no power to suspend sentence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 118
+
+</details>
+
+### 121 Who may try offence
+
+Where a prosecution in respect of an offence against this Act is brought before a provincial court judge, or before any two justices of the peace, no other justice of the peace shall sit or take part therein, except that in any city or district in which there is more than one provincial court judge, the prosecution may be tried before any one of the provincial court judges.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 121; R.S., 1985, c. 27 (1st Supp.), s. 203
+
+</details>
+
+### 122 Limitation of time for prosecution
+
+Any information or complaint with respect to any offence against this Act or any other law relating to excise may, whenever the prosecution, suit or proceeding in respect of the offence is instituted under the provisions of the *Criminal Code* relating to summary convictions, be laid or made within two years after the time when the matter of the information or complaint arose.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 120
+
+</details>
+
+### 123 Voluntary forfeiture of goods or payment of penalty
+
+Where any article or thing is voluntarily given up or abandoned by the owner thereof to any collector as forfeited under this Act, or any sum of money is voluntarily paid to that collector as the amount of a penalty incurred under this Act, the article or thing may be dealt with as if lawfully condemned and the sum of money as if lawfully recovered.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 121
+
+</details>
+
+### 124 Seizures made under error
+
+Where in any case it appears to the Minister that a seizure has been made through an error in judgment by an officer and that the retention of the seized property would result unfairly in pecuniary loss to the person from whom the property was seized, the seizure may be released by the Minister without reference of the matter to the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 122
+
+</details>
+
+### Appropriation of Penalties and Forfeitures
+
+### 125 Penalties belong to Crown
+
+(1) Subject to this section, all penalties and forfeitures under this Act belong to Her Majesty.
+
+**Division among persons seizing**
+
+(2) The proceeds of any penalties and forfeitures under this Act may, under such regulations as the Governor in Council may prescribe in that behalf, be distributed in whole or in part and may be divided between and paid to any officer and any person giving information or otherwise aiding in effecting a seizure resulting in the penalties or forfeitures.
+
+**Regulations**
+
+(3) The Governor in Council may by regulation prescribe the manner in which the proceeds of penalties and forfeitures under this Act shall be distributed and may provide for payment of awards forthwith after seizure of goods or the preferring of charges where goods are not seized, based on the value of the goods seized, the amount of excise duty evaded or the penalties imposable on any person guilty of any contravention of this Act, as the case may be, and not dependent on forfeiture or the proceeds of forfeiture.
+
+**Remission**
+
+(4) Nothing in this section shall be construed to limit or affect any power vested in the Governor in Council by this Act or any other law with regard to the remission of penalties or forfeitures.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 123
+
+</details>
+
+### 126 Penalties belong to C.R.F.
+
+All sums of money paid or recovered for any penalty or forfeiture under this Act, or any part thereof belonging to Her Majesty, shall be paid to the collector at the port within the jurisdiction of which the offence is committed or to the Commissioner of the Royal Canadian Mounted Police, or any officer commanding a Division of the Royal Canadian Mounted Police, for deposit in either case to the credit of the Receiver General, and shall form part of the Consolidated Revenue Fund.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 126; 1999, c. 17, s. 142(E)
+
+</details>
+
+### 126.1 to 126.3
+
+[Repealed, 2001, c. 32, s. 64]
+
+### Regulations
+
+### 127 Regulations
+
+The Governor in Council may make regulations
+
+- (a) prescribing what shall be special excise services for the performance of which charges shall be payable to Her Majesty, and prescribing those charges; and
+
+- (b) prescribing anything that by this Act is to be prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 125; R.S., c. 15(1st Supp.), s. 13
+
+</details>
+
+### 127.1 Ministerial regulations
+
+The Minister may make regulations for the purposes of any provision of this Act that provides for ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 15 (1st Supp.), s. 50; 1993, c. 25, s. 39(F); 1999, c. 17, s. 144(E)
+
+</details>
+
+### 128 Drawbacks on export
+
+The Governor in Council may, under regulations made for that purpose, allow on the exportation in bond of goods manufactured from, or a product or result of the process of manufacture of, articles subjected to a duty of excise, and on which the duty of excise has been paid, a drawback equal to the duty so paid, with such deduction therefrom as is provided in the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 126
+
+</details>
+
+## Distilleries
+
+### Interpretation
+
+### 129 Provisions additional to Part I
+
+The provisions of this Part are to be construed as additional or supplemental to the provisions of Part I applicable to distilleries and their products.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 128
+
+</details>
+
+### Licences
+
+### 130 Licences to distillers
+
+(1) A licence to carry on the trade or business of a distiller may, with the approval of the district inspector of the district or excise division in which the trade or business is to be carried on, be granted to any person who has complied with the requirements of this Act if that person has, jointly with a guarantee company approved by the Minister, entered into a bond to Her Majesty in right of Canada in an amount determined by the Minister that is not less than two hundred thousand dollars, and in such form that the proposed licensee and the guarantee company are both bound to the full amount of the bond.
+
+**Conditions of bond**
+
+(2) The bond entered into under subsection (1) shall be conditioned on the rendering of all accounts, inventories, statements and returns prescribed by law and the payment of all duties and penalties that the person to whom the licence is to be granted becomes liable to render or pay under this Act, and on the person faithfully complying with all the requirements of this Act according to their true intent and meaning, with regard to the accounts, inventories, statements, returns, duties and penalties, as well as to all other matters and things whatever.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 129; R.S., c. 15(1st Supp.), s. 14
+
+</details>
+
+### 131 Application for licence for chemical still
+
+An application for a licence to import, manufacture, possess and use the chemical stills mentioned in the application shall contain a full and exact description of the stills and of the capacity of each, of the purposes to which they are to be applied and of the place in which they are to be used.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 130
+
+</details>
+
+### 132 Conditions of licence for chemical still
+
+(1) A licence to import, manufacture, possess and use chemical stills may be granted to any person who has complied with the provisions of this Act, if
+
+- (a) the person about to import or make any still, worm, rectifying or other apparatus suitable for the manufacture of spirits or for the rectification of spirits, before the importation or making is commenced, reports in writing to the nearest collector his intention in relation thereto, stating the number of stills, worms, rectifying or other apparatus or part thereof, suitable for the manufacture of spirits or for the rectification of spirits, to be imported or about to be manufactured, showing, with reference to each
+  - (i) the capacity of the apparatus or parts thereof,
+  - (ii) the name and residence of the person for whom the apparatus or part thereof is to be imported or made,
+  - (iii) the time at which every apparatus or part thereof is to be imported or made,
+  - (iv) the date at which the apparatus or part thereof is to be removed from the place where it is to be manufactured, and
+  - (v) the material of which the apparatus is or is to be made;
+
+- (b) the granting of the licence has been approved by the district inspector and authorized by the Minister, and all the apparatus connected therewith is so made and arranged, and the whole so situated with respect to the location and nature of the building in which it is placed, as to all of which the Minister shall be the sole judge, that the stills and apparatus may be kept under such supervision by an officer as will prevent their fraudulent use; and
+
+- (c) the person has, before the licence is issued, jointly with a guarantee company approved by the Minister, entered into a bond to Her Majesty in the sum of one thousand dollars.
+
+**Conditions of bond**
+
+(2) The bond entered into under subsection (1) shall be conditioned on the rendering of all accounts and the payment of all duties and penalties that the person to whom the licence is granted becomes liable to render or pay under this Act, and on the person complying with the requirements thereof, with regard to the accounts, duties and penalties, as well as to all other matters and things whatever.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 131
+
+</details>
+
+### 133 Fee for distilling and rectifying licence
+
+A person to whom a licence for distilling by any process is granted shall pay to the collector of the district or excise division in which the process is to be carried on under the licence a licence fee prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 132; R.S., c. 15(1st Supp.), s. 15
+
+</details>
+
+### 134 Licence fee for chemical still
+
+(1) Subject to subsection (2), a person to whom a licence to import, manufacture, possess and use a chemical still is granted shall pay to the collector of the district or excise division in which the still is situated a licence fee prescribed by the regulations.
+
+**Exception**
+
+(2) Any person importing, manufacturing, possessing and using a chemical still, the measured content of which does not exceed twenty-three litres (23 L), or any bona fide public hospital duly certified as such by the Department of Health importing, manufacturing, possessing and using a chemical still of any capacity, may, on registering the still at the office of the collector of the district or excise division in which it is situated, be permitted to import, manufacture, possess and use the still without payment of a licence fee or the giving of a bond, but the importation, manufacture, possession or use of the still without registration shall be deemed an importing, manufacturing, possessing or using of a still contrary to this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 134; 1999, c. 31, s. 83
+
+</details>
+
+### Duties of Excise
+
+### 135 Excise duties on spirits
+
+(1) There shall be imposed, levied and collected on all spirits distilled or brought into a distillery the duties of excise set out in the schedule, which shall be paid to the collector as provided in this Act.
+
+**Drawback of duty on spirits**
+
+(2) A drawback of ninety-nine per cent of the duty paid pursuant to subsection (1) on spirits testing not less than eighty-five per cent absolute ethyl alcohol by volume that are sold and delivered, with the approval of the Minister and in such limited quantities as are prescribed by him, may be granted, under ministerial regulations, to a distiller or to any person purchasing spirits from a board, commission or other government agency that by the law of a province is empowered to sell spirits, when the spirits are sold and delivered,
+
+- (a) for scientific purposes only,
+  - (i) to any scientific and research laboratory in receipt annually of aid from the government of Canada or a province, or
+  - (ii) to any university or other educational institution at which courses recognized by the government of the province in which the institution is situated to be of post-secondary level are taught;
+
+- (b) to any person for the purposes of scientific research, the results of which are regularly made available to the public without charge;
+
+- (c) to any bona fide public hospital or municipal health clinic certified to be such by the Department of Health, for medicinal purposes only; and
+
+- (d) to any health institution in receipt annually of aid from the government of Canada or a province, for medicinal and research purposes only.
+
+**Power to permit use duty free**
+
+(3) Notwithstanding anything in this section, the Governor in Council may permit the use of spirits, duty free, in any chemical or industrial process in which the spirits are completely destroyed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 135; 1999, c. 17, s. 144(E), c. 31, s. 84
+
+</details>
+
+### 136 Definition of **pharmacist**
+
+(1) In this section, **pharmacist** means a person who is registered, licensed or authorized under the law of any province to carry on the business of preparing, manufacturing, compounding or dispensing, for sale to a consumer, medicines and pharmaceutical preparations, and does in fact carry on business as a retail pharmacist.
+
+**Spirits used by pharmacist**
+
+(2) The Minister may grant to any pharmacist a licence to use spirits in the preparation of prescriptions for medicines and pharmaceutical preparations.
+
+**Drawback**
+
+(3) Where spirits are purchased by a pharmacist licensed under this section from a provincial liquor control board or commission or other person lawfully authorized to sell spirits and the duties otherwise imposed by law have been paid thereon, the pharmacist is entitled to a drawback of all such duty in excess of duties of excise imposed by this Act.
+
+**Licence required**
+
+(4) No person shall receive spirits for any purpose mentioned in this section without first obtaining a licence from the Minister.
+
+**Fee for pharmacist’s licence**
+
+(5) A pharmacist to whom a licence is granted under this section shall pay to the collector of the district or excise division in which he carries on business a licence fee prescribed by the regulations.
+
+**Bond**
+
+(6) A licensee shall jointly with a guaranty company approved by the Minister enter into a bond to Her Majesty in the sum of one thousand dollars, which bond shall be conditioned that the licensee shall use all spirits specified in this section exclusively in the preparation of prescriptions and pharmaceutical preparations on his own premises, that the licensee shall keep books and accounts and make such entries and returns as are required by any regulations and that the licensee shall faithfully comply with all the requirements of this Act and the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 136; R.S., c. 15(1st Supp.), s. 17
+
+</details>
+
+### 137 Computing duty
+
+(1) The duty on spirits shall be charged and computed as follows:
+
+- (a) on the grain used for its production at the rate of one litre (1 L) of absolute ethyl alcohol for every three and six-tenths kilograms (3.6 kg), or in a distillery where malt only or a clear wort process is used, on the grain or malt used for its production at the rate of one litre (1 L) of absolute ethyl alcohol for every four and two-tenths kilograms (4.2 kg),
+
+- (b) on the quantity of beer, wash or wort fermented or made in the distillery, at the rate of one litre (1 L) of absolute ethyl alcohol for every twenty-four and one-half litres (24.5 L) of beer, wash or wort,
+
+- (c) on the quantity of beer, wash or wort fermented or made, in proportion to its alcoholic value,
+
+- (d) on the quantity of spirits that passes into the closed spirit-receivers, or
+
+- (e) on the quantity of spirits sold or removed from any distillery by the distiller, or by his agent or for his account,
+
+and that method of computation that yields the greatest amount of revenue is, in all cases, the one on which the distiller shall pay the duty.
+
+**When damaged grain or mill offal used**
+
+(2) When any distiller is about to use damaged grain or mill offal and gives the collector one week’s notice of his intention to do so, such officer as is instructed for that purpose by the collector shall specially inspect the beer or wash made from the damaged grain or mill offal and test its alcoholic value and the quantity of the material that it contains.
+
+**Idem**
+
+(3) If the officer referred to in subsection (2) reports that the yield of the damaged grain or mill offal is less than one litre (1 L) of absolute ethyl alcohol to three and six-tenths kilograms (3.6 kg), the Minister may authorize the assessment of the duty on the highest quantity ascertained by any of the other methods, without reference to the quantity of damaged grain or mill offal used by the distiller.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 137; R.S., c. 15(1st Supp.), s. 18; 1980-81-82-83, c. 68, s. 58
+
+</details>
+
+### 138 Abatement
+
+(1) Notwithstanding section 56, an abatement from duty of excise on distilled spirits produced in or brought into a distillery may be allowed in respect of
+
+- (a) distilled spirits lost through shrinkage by evaporation while the spirits were maturing in warehouse,
+
+- (b) distilled spirits lost through redistillation, distillery stock operations, vatting, blending, racking, rewarehousing, reducing, bottling and handling operations, or
+
+- (c) such quantity of fusel-oil or other refuse as is separated therefrom by a second process of distillation,
+
+where the distiller establishes to the satisfaction of the Minister that a loss of spirits occurred as set out in paragraph (a) or (b) or a separation was made as set out in paragraph (c), the amount of the loss or separation and that, in the case of a loss, it did not occur through voluntary destruction of spirits by the distiller, theft or the failure of the distiller to exercise reasonable diligence and effective control of his operations.
+
+**Refund or drawback**
+
+(1.1) A refund or drawback of the customs duty imposed under section 21 of the *Customs Tariff*, in respect of spirits, wine or flavouring materials having a spirit content, on which the customs duty has been paid and not refunded and that are brought into a distillery for the purpose of blending with spirits in bond, may be granted under such terms and conditions as the Governor in Council may, by regulation, prescribe.
+
+**Regulations**
+
+(2) The Governor in Council may make regulations
+
+- (a) providing for the form and manner in which evidence in support of a claim under subsection (1) shall be submitted; and
+
+- (b) prescribing the terms and conditions under which a refund or drawback may be granted pursuant to subsection (1.1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 138; R.S., 1985, c. 15 (1st Supp.), s. 51; 1997, c. 36, s. 206
+
+</details>
+
+### 139 Computing standard of production
+
+For the purposes of computing duty by the methods prescribed in section 137, the Governor in Council may, by regulation, prescribe the method of determining
+
+- (a) the quantity of grain used in production of spirits in a distillery;
+
+- (b) the quantity of beer, wash or wort fermented or made in a distillery;
+
+- (c) the alcoholic value of beer, wash or wort fermented or made in a distillery;
+
+- (d) the quantity of spirits that passes into the closed spirit-receivers in a distillery; and
+
+- (e) the quantity of spirits sold or removed from a distillery.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 138; R.S., c. 15(1st Supp.), s. 19
+
+</details>
+
+### 140 Apparatus to be constructed according to regulations
+
+(1) The following, namely,
+
+- (a) the spirit-receiver, doubler, low wines receiver, faints receiver, the safe or apparatus enclosing the tail of the worm or still,
+
+- (b) every pump used for removing any spirit, beer, wash or wort or other matter to or from any vessel, or from one vessel to another, and every lock, pipe, valve, duct, conduit, cock or connection used for securing, leading to or from, or between, or for giving access to any of the vessels mentioned or referred to in this paragraph, and
+
+- (c) every valve, pipe, cock, gauge, pump, lock or other apparatus, utensil, appliance or arrangement for securing, gauging, ascertaining, testing or proving the quantity or strength of any spirit, beer, wash or worts, manufactured or distilled, or for preventing the undue abstraction of any such spirits, beer, wash or worts,
+
+shall be constructed, arranged and applied at the cost of the distiller, in accordance with such plans, designs, drawings and regulations and of such materials as are approved by the Minister.
+
+**Regulations**
+
+(2) The Governor in Council may make regulations requiring that all pipe-lines, troughs and conduits in distilleries that are used for the conveyance of spirits, beer, wash or wort, water or denatured or specially denatured alcohol be painted or coloured in such colours as are prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 139; R.S., c. 15(1st Supp.), s. 20
+
+</details>
+
+### 141 Marking of casks and barrels
+
+All casks and barrels used in a distillery or for storage or delivery of spirits by a distillery shall be clearly and legibly marked, by cutting, branding or painting in durable colours, with the name of the distiller and with such other marks, numbers or other information as is prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 140; R.S., c. 15(1st Supp.), s. 20
+
+</details>
+
+### 142 Tail of worm to be enclosed in safe
+
+(1) The tail of every worm in every distillery shall be enclosed in a locked or sealed safe, or other suitable apparatus, in which the strength of the spirits and low wines flowing from the worm may be approximately ascertained by the inspection of the hydrometer or other suitable instruments contained therein.
+
+**Safe to be approved**
+
+(2) Every safe referred to in subsection (1) shall be constructed in such manner and secured by such means and by such mechanism as are approved by the Minister.
+
+**Pipes to convey spirits**
+
+(3) From the closed safe or apparatus referred to in subsection (1) all low wines, faints and spirits, from time to time running from the end of the worm, shall be conveyed to the doubler or closed spirit-receiver, as the case may be, through suitable pipes of such metal as are required by ministerial regulations, visible throughout the whole of their length, with stop cocks and other appliances so arranged that the liquid may be conveyed either to the doubler or to the receiver, but so that no portion of the liquid can be abstracted or diverted from the closed spirit-receiver or doubler without the knowledge and consent of the proper officer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 142; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 143 Number and capacity of receivers
+
+(1) In every distillery two closed spirit-receivers shall be provided, each of such capacity as may be required by the Minister.
+
+**Quantities produced ascertained by regulations**
+
+(2) The quantities of spirits produced in a distillery shall be ascertained in such manner as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 143; R.S., 1985, c. 12 (4th Supp.), s. 62; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 144 Spirit not to be removed
+
+The spirit that passes from the tail of the worm to the closed spirit-receiver shall not be removed from the closed spirit-receiver except for the purpose of ascertaining the quantity and strength thereof as provided by this Act or by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 144; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 145 Receiver to be a closed vessel and locked
+
+The closed spirit-receiver shall be a closed vessel and all pipes, cocks or valves communicating therewith, as well as all means of access thereto, shall be securely locked or sealed, and the key or keys shall be kept and controlled, in the manner prescribed by ministerial regulations, by such officer or employee of the distiller as is designated for that purpose by the distiller in accordance with the ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 145; R.S., 1985, c. 12 (4th Supp.), s. 63; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 146 Space for examination around apparatus
+
+(1) Around, above and below every closed spirit-receiver and every apparatus used for gauging or testing the strength of spirits, and every safe or apparatus used for enclosing or guarding the tail of the worm, and around and above every fermenting-tun, still charger, beer pump or spirit pump, there shall be sufficient space to admit of a full and careful examination of each vessel or apparatus, with the contents thereof, and there shall be sufficient light for the purpose of that examination.
+
+**Beer reservoir**
+
+(2) The beer reservoir in every distillery shall be so placed that it and every pipe, trough, hose or conduit leading into or from it may be fully seen and examined, and no pipes, troughs, hoses or conduits for the passage of any water, spirits, wash or other liquid shall be placed near to any such beer reservoir, or so that any fluid whatever can be run into it, except with the knowledge of the officer in charge.
+
+**Licence cancelled for non-compliance**
+
+(3) Any failure to comply with the requirements or provisions of this section, after a notice of one month has been given of the default, is sufficient cause for cancelling any licence granted to the distiller so in default, and no further licence shall be granted to any person for distilling within the premises in which the default has occurred, until all the requirements of this section and the preceding sections have been fully complied with.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 145
+
+</details>
+
+### 147 Certain apparatus to be locked up
+
+(1) In every distillery that is not working, all the worms, still-heads, closed spirit-receivers and doublers, with all pipes and cocks leading to or connecting with them shall be closed and locked or sealed in such manner as the collector or inspecting officer requires or directs, and the absence from any worm, still-head, closed spirit-receiver, doubler or cock of the locks or seals required by this subsection, subjects the distiller in whose distillery the default has occurred to the same penalties as he would be liable to for working without a licence.
+
+**Exception**
+
+(2) Notwithstanding subsection (1), whenever it becomes necessary to execute any repairs to any of the apparatus mentioned in that subsection, the locks and seals may be removed by the proper officer, to such extent as is actually necessary for the performance of the repairs, and during the period they are actually in progress.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 146
+
+</details>
+
+### 148 Certain apparatus to be locked or sealed
+
+In distilleries where a doubler is used or where a portion of the products of the still, commonly called low wines or faints, are passed over for redistillation, the vessels and pipes used in that process shall be locked or sealed and shall receive the low wines from the safe or apparatus that encloses the tail of the worm, through suitable metal pipes, cocks or valves properly secured by locks or seals, so as to prevent the running or removal of any liquid therefrom, except with the knowledge and concurrence of the proper officer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 147
+
+</details>
+
+### Returns
+
+### 149 What distiller’s accounts must show
+
+Every one who carries on business as a distiller shall render to the collector a just and true account in writing, extracted from the books kept as required by this Act, and the account shall exhibit such particulars as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 149; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Bonding and Warehousing
+
+### 150 Entering for warehousing, warehousing and ex-warehousing
+
+(1) All spirits produced, brought into or removed from a distillery shall be warehoused, entered for warehouse or ex-warehoused in such manner and put up in such packages or quantities as may be prescribed by ministerial regulations.
+
+**Regulations**
+
+(2) The Governor in Council may make regulations governing the redistillation, distillery stock operations, vatting, blending, racking, rewarehousing, reducing and handling of spirits in warehouse or in transit from one warehouse to another.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 150; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 151 Equivalent how determined
+
+The Governor in Council may, by regulation, fix the quantity or the mode of determining the quantity of spirits that shall be held to be equivalent to any assigned mass of molasses.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 150; 1980-81-82-83, c. 68, s. 60
+
+</details>
+
+### 152 Stowage of casks
+
+All casks of spirits shall be arranged and stowed in the warehouse so that access may be easily had to each cask, and so that the marks and numbers thereon may be conveniently read or ascertained.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 151
+
+</details>
+
+### 153 No refund of duties except under regulations
+
+The duty paid on spirits taken out of warehouse for consumption, or that have gone directly into consumption, shall not be refunded by way of drawback, or otherwise on the exportation of those spirits out of Canada, unless when specially permitted by regulation made by the Governor in Council in that behalf.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 152
+
+</details>
+
+### 154 Bottling of spirits in bond
+
+The Governor in Council may make regulations authorizing the bottling of spirits in bond at any licensed distillery and the removal therefrom of those spirits after being so bottled.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 153; R.S., c. 15(1st Supp.), s. 22
+
+</details>
+
+### 155 Labels on bottles
+
+Subject to the *Trademarks Act* and the *Food and Drugs Act*, no person shall attach to any bottle, flask or other package of spirits any label, stamp or other device containing any statement or information other than the name of the spirits and the name of the bottler and his place of residence, unless the form and wording thereof have first been approved by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 155
+- 2014, c. 20, s. 366(E)
+
+</details>
+
+### Permits
+
+### 156 Removal of spirits from distillery
+
+No spirits shall be removed from any distillery, or from any warehouse in which they have been bonded or stored, until a permit for that removal has been granted in such form and by such authority as the Governor in Council, from time to time, directs and determines.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 155; R.S., c. 15(1st Supp.), s. 23
+
+</details>
+
+### 157 Officer may examine packages being removed
+
+(1) Any officer, or any constable or peace officer, having general authority therefor from any superior officer, may stop and detain any person or vehicle carrying packages of any kind believed by him to contain spirits, and may examine those packages and require the production of a permit authorizing the removal thereof.
+
+**Permit to be endorsed**
+
+(2) If the permit required by subsection (1) is produced, the officer shall endorse the time and place of examination thereon.
+
+**Detention if no permit**
+
+(3) If the permit required by subsection (1) is not produced and the packages are found to contain spirits, the packages may, with their contents, be detained until evidence to the satisfaction of the officer is adduced that the spirits were being lawfully removed and that the duty thereon had been paid.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 156
+
+</details>
+
+### Offences and Punishment
+
+### 158 Exercising any business of distilling without licence
+
+(1) Every person who, without having a licence under this Act then in force,
+
+- (a) distils or rectifies any spirits, or makes or ferments any beer, wash or wort,
+
+- (b) assists in distilling or rectifying any spirits, or in making or fermenting any beer, wash or wort, in any unlicensed place,
+
+- (c) imports, makes, commences to make, sells, offers for sale or delivers any still, worm, rectifying or other apparatus suitable for the manufacture of spirits or for the rectification of spirits, or any part of the apparatus,
+
+- (d) completely or partially sets up or assists in setting up, prepares or partially prepares for working, any such still, worm, rectifying or other apparatus,
+
+- (e) has in his possession, in any place, any such still, worm, rectifying or other apparatus, or any part or parts thereof, or any beer, wash or wort suitable for the manufacture of spirits, except in cases of duly registered chemical stills as provided for in this Act, or in whose place or on whose premises those things are found,
+
+- (f) conceals or keeps, or allows or suffers to be concealed, or kept, in any place or premises owned or controlled by him, any such still, worm, rectifying or other apparatus, or part thereof, or any beer, wash or wort suitable for the manufacture of spirits, or
+
+- (g) conceals by removing, or removes, or assists in concealing by removing or otherwise, any such still, worm, rectifying or other apparatus, or part thereof, or any beer, wash or wort suitable for the manufacture of spirits,
+
+is guilty of an indictable offence and liable to
+
+- (h) a fine of not more than ten thousand dollars and not less than five hundred dollars,
+
+- (i) imprisonment for a term not exceeding twelve months, or
+
+- (j) both fine and imprisonment
+
+and, in default of payment of a fine imposed under paragraph (h) or (j), to imprisonment for a term not exceeding twelve months in addition to the imprisonment, if any, imposed under paragraph (i) or (j).
+
+**Apparatus to be seized**
+
+(2) All stills, worms, fermenting-tuns, rectifying or other apparatus suitable for the manufacture of spirits, or for the rectification of spirits, or parts thereof, and all beer, wash, wort or spirits that are found in the possession of any unlicensed person, or in any unlicensed place, shall be forfeited to the Crown, and shall be seized by any officer, and may either be destroyed when and where found or removed to a place of safe-keeping in the discretion of the seizing officer.
+
+**Exception**
+
+(3) Nothing in this section applies to anyone duly licensed to carry on the trade or business of a distiller or the trade or business of rectifying spirits.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 158; R.S., c. 15(1st Supp.), s. 25; 1980-81-82-83, c. 68, s. 61
+
+</details>
+
+### 159 Additional punishment
+
+Every person who has been convicted of an offence under section 158 or adjudged liable to the punishment therein provided shall in addition to that punishment forfeit and pay for the use of Her Majesty double the amount of excise duty and licence fee that should have been paid by him under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 159
+
+</details>
+
+### 160 Apparatus perforated or plugged
+
+(1) Where in any distillery there is at any time found a vessel that may be used for containing any of the products resulting from distillation before the quantity of the products is determined and an account taken thereof, in which there is any perforation, hole or aperture, other than such as is necessary for the lawful use of the vessel, or in contravention of this Act, the distiller in whose distillery the vessel so perforated is found, although the holes or apertures or perforations have been plugged or stopped, shall incur a penalty of five hundred dollars, and the vessel, with its contents, together with all the stock of spirits or grain in the distillery at the time the unlawful perforation is discovered, shall be forfeited to the Crown and dealt with accordingly.
+
+**Exception**
+
+(2) A hole or perforation accidentally made may with the permission of the Minister be repaired under the supervision of an officer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 160
+
+</details>
+
+### 161 Removing spirits
+
+(1) Spirits removed from any distillery or warehouse in which they have been bonded or stored before a permit for that removal has been granted as required by section 156 shall be forfeited to the Crown and shall be seized and detained by any officer and dealt with accordingly.
+
+**Package detained**
+
+(2) Where any package containing spirits has been detained by any officer by reason of the package being carried by any person or vehicle without a permit and if within thirty days after the detention thereof evidence is not adduced to the satisfaction of the officer that the spirits were being lawfully removed and that the duty thereon had been paid, the package and spirits so detained shall be forfeited to the Crown and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 161
+
+</details>
+
+### 162 Removal of spirits contrary to regulations
+
+Where spirits are removed from a distillery in a cask or package containing less than a quantity prescribed by the regulations, those spirits are forfeited to the Crown and shall be seized by an officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 162; R.S., c. 15(1st Supp.), s. 26
+
+</details>
+
+### 163 Sale of spirits unlawfully manufactured, etc.
+
+(1) Every person is guilty of an indictable offence who, without lawful excuse, sells or offers for sale or purchases or has in the person’s possession any spirits, whether or not the person is the owner thereof,
+
+- (a) unlawfully manufactured;
+
+- (b) unlawfully imported;
+
+- (c) unlawfully or fraudulently removed from any distillery;
+
+- (d) unlawfully or fraudulently removed from any bonded manufactory;
+
+- (e) unlawfully or fraudulently removed from any bonded warehouse;
+
+- (f) unlawfully or fraudulently removed from any place where spirits subject to drawback are held;
+
+- (g) that have been released from excise bond exempt from duty as being for the use of a person or organization by law entitled to the exemption, but which spirits have been subsequently sold or otherwise disposed of to a person not entitled to any exemption; or
+
+- (h) that have been released from excise bond either free or at a reduced rate of duty for a specific use and have been subsequently diverted to a use other than that for which the exemption was given.
+
+**Punishment**
+
+(2) Every person who is convicted of an offence under subsection (1) is liable to
+
+- (a) a fine of not more than ten thousand dollars and not less than five hundred dollars,
+
+- (b) imprisonment for a term not exceeding twelve months, or
+
+- (c) both fine and imprisonment
+
+and, in default of payment of a fine imposed under paragraph (a) or (c), to imprisonment for a term not exceeding twelve months in addition to the imprisonment, if any, imposed under paragraph (b) or (c).
+
+**Forfeiture**
+
+(3) All spirits referred to in subsection (1) wherever they are found, and all horses and vehicles, vessels and other appliances that have been or are being used for the purpose of transporting the spirits so manufactured, imported, removed, disposed of, diverted, or in or on which the spirits are found, shall be forfeited to the Crown, and may be seized and detained by any officer and be dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 163; 1989, c. 22, s. 11
+
+</details>
+
+### 164
+
+[Repealed, 1995, c. 36, s. 14]
+
+### 165 Illegal possession
+
+Where any two or more persons are found together and they, or any one of them, have in their or his possession any spirits liable to seizure under this Act, each of those persons having knowledge of the fact of the possession is guilty of an offence and punishable in accordance with the provisions of this Act as if the goods were found in his possession.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 165
+
+</details>
+
+### 166 Attaching to packages of spirits any unauthorized label
+
+Every person who, except as authorized by the *Trademarks Act*, attaches to any bottle, flask or other package of spirits any label, stamp or other device containing any statement or information other than the name of the spirits and the name of the bottler and his place of residence, unless the form and wording thereof have been first approved by the Minister, is guilty of an offence and liable on summary conviction,
+
+- (a) for a first offence, to a fine not exceeding fifty dollars, and
+
+- (b) for each subsequent offence, to a fine not exceeding one hundred dollars,
+
+and in addition thereto in either case to an additional fine equal to eleven cents per litre on the reputed contents of the bottles, flasks or other packages so illegally labelled or stamped.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 166
+- 2014, c. 20, s. 366(E)
+
+</details>
+
+## Breweries
+
+### Interpretation
+
+### 167 Provisions additional to Part I
+
+The provisions of this Part are to be construed as additional or supplemental to the provisions of Part I applicable to breweries.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 168
+
+</details>
+
+### Licences
+
+### 168 Conditions of licence
+
+(1) A licence to carry on the trade or business of a brewer may be granted to any person who has complied with the requirements of this Act, if the granting of the licence has been approved by the district inspector, and the person has, jointly with a guarantee company approved by the Minister, entered into a bond to Her Majesty in an amount determined by the Minister that is not less than five thousand dollars.
+
+**Conditions of bond**
+
+(2) The bond entered into under subsection (1) shall be conditioned on the rendering of all accounts and the payment of all duties and penalties that the person to whom the licence is to be granted becomes liable to render or pay under this Act, and on the person faithfully complying with all the requirements of this Act according to their true intent and meaning, with regard to the accounts, duties and penalties, as well as to all other matters and things whatever.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 169
+
+</details>
+
+### 169 Fee for licence
+
+(1) A person to whom a licence for brewing is granted shall pay to the collector of the district or excise division in which he proposes to carry on the trade or business of a brewer a licence fee prescribed by the regulations.
+
+**Manufacture of malt products**
+
+(2) No person shall manufacture a product if malt or malt and other ingredients are infused and the resultant wort is used in the manufacturing process, unless a formula is submitted and approved by the Minister, and the person manufacturing the product has, jointly with a guarantee company approved by the Minister, entered into a bond to Her Majesty in the sum of five thousand dollars conditioned on the complete manufacture of the goods in accordance with the formula and compliance with such other conditions as are prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 169; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Duties of Excise
+
+### 170 Duties — beer or malt liquor
+
+(1) There shall be imposed, levied and collected on every hectolitre of beer or malt liquor, other than beer concentrate, the duties of excise set out in Part II of the schedule, which duties shall be paid to the collector as provided in this Act.
+
+**Duties — beer concentrate**
+
+(1.1) There shall be imposed, levied and collected, and paid to the collector as provided in this Act, on beer concentrate the duties of excise determined by the following formula:
+
+```
+A × B × C
+where
+Ais the quantity in litres of beer concentrate,
+Bis the maximum quantity, determined in hectolitres, of any particular beer product that can be transformed in a manner approved by the Minister from a litre of that beer concentrate, and
+Cis the rate of duties of excise set out in Part II of the schedule that is applicable in respect of a hectolitre of that particular beer product.
+```
+
+
+**Wastage allowance**
+
+(2) Notwithstanding subsection (1), where beer or malt liquor is produced by a person licensed under section 168 to carry on the trade or business of a brewer, an allowance prescribed by the regulations shall be made for loss in production based on the duty assessed on the beer or malt liquor produced, but the allowance shall not exceed five per cent thereof.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 170; 2007, c. 2, s. 60; 2017, c. 33, s. 167
+
+</details>
+
+### 170.1 Reduced rates — production
+
+(1) With respect to the first 75,000 hectolitres of beer and malt liquor brewed in Canada per year by a licensed brewer and any person related or associated with the brewer, there shall be imposed, levied and collected on each of those hectolitres the duties of excise set out in Part II.1 of the schedule, which duties shall be paid to the collector as provided in this Act, and section 170 does not apply to those hectolitres.
+
+**Exclusion — beer concentrate**
+
+(1.1) Despite subsection (1), the duties of excise set out in Part II.1 of the schedule do not apply to beer concentrate or beer transformed from beer concentrate and that beer concentrate or beer transformed from beer concentrate does not count toward the determination under subsection (1) of the first 75,000 hectolitres of beer and malt liquor brewed in Canada per year.
+
+**Reduced rates — packaging**
+
+(2) If the beer or malt liquor described by subsection (1) is packaged by a licensed brewer (in this subsection, referred to as the “packaging brewer”) other than the licensed brewer or related or associated person referred to in that subsection, there shall be imposed, levied and collected on every hectolitre of beer or malt liquor packaged by the packaging brewer duties of excise at the rates that applied to the beer or malt liquor under subsection (1).
+
+**Exclusion of exports**
+
+(3) In subsection (1), the reference to “first 75,000 hectolitres of beer and malt liquor brewed in Canada” does not include beer or malt liquor that is exported or deemed to be exported under section 173.
+
+**Treatment of contract production**
+
+(4) If, at any time, beer or malt liquor is brewed by a licensed brewer for another licensed brewer under an agreement with the other brewer, subsection (1) applies as though it had been brewed by the brewer who has brewed the greater volume of beer and malt liquor during the year up to that time.
+
+**Election for related or associated licensees**
+
+(5) If a licensed brewer is related or associated with one or more other licensed brewers, each of the brewers must file with the Minister an election in a form and manner satisfactory to the Minister that allocates the 75,000 hectolitre quantity amongst the brewers. The election must be filed no later than the filing due date of the first return in which the brewer reports duties that are imposed, levied and collected under subsection (1).
+
+**Brewer formed by business combination**
+
+(6) For the purposes of this section, if, in a year, two or more brewers (each of which is referred to in this subsection as a “predecessor brewer”) are amalgamated, merged or otherwise combined to form a new brewer, the following rules apply:
+
+- (a) the aggregate production of beer and malt liquor of the new and predecessor brewers for that year will be used for the purposes of applying subsection (1);
+
+- (b) the new brewer must determine the amount of duty that would have been imposed, levied and collected under subsection (1) on the aggregate production; and
+
+- (c) the new brewer is liable for and must, within 60 days of the combination, report and pay any difference between the amount calculated under paragraph (b) and the amounts paid by the predecessor brewers.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2007, c. 2, s. 61; 2017, c. 33, s. 168
+- 2022, c. 10, s. 134
+
+</details>
+
+### 170.2 Definition of **inflationary adjusted year**
+
+(1) In this section, **inflationary adjusted year** means 2018 and every year after that year.
+
+**Annual adjustments**
+
+(2) Each rate of duty set out in Part II of the schedule applicable in respect of a hectolitre of beer or malt liquor is to be adjusted on April 1 of an inflationary adjusted year so that the rate is equal to the greater of
+
+- (a) the rate determined by the formula
+
+```
+A × B
+where
+Ais the rate of duty applicable to the hectolitre on March 31 of the inflationary adjusted year, and
+Bis the amount, rounded to the nearest one-thousandth, or, if the amount is equidistant from two consecutive one-thousandths, rounded to the higher one-thousandth, determined by the formulaC/DwhereCis the Consumer Price Index for the 12-month period ending on September 30 of the particular year preceding the inflationary adjusted year, andDis the Consumer Price Index for the 12-month period ending on September 30 of the year preceding the particular year, and
+```
+
+
+- (b) the rate of duty referred to in the description of A in paragraph (a).
+
+**Adjustment — 2023**
+
+(2.1) In respect of the inflationary adjusted year that is 2023, the description of B in paragraph (2)(a) is deemed to be equal to 1.02.
+
+**Adjustment — 2024**
+
+(2.2) In respect of the inflationary adjusted year that is 2024, the description of B in paragraph (2)(a) is deemed to be equal to 1.02.
+
+**Adjustment — 2025**
+
+(2.3) In respect of the inflationary adjusted year that is 2025, if the amount determined for B in paragraph (2)(a) without reference to this subsection is greater than 1.02, the description of B in that paragraph is deemed to be equal to 1.02.
+
+**Rounding**
+
+(3) The adjusted rate determined under subsection (2) is to be rounded
+
+- (a) in the case of the rates set out in sections 1 and 2 of Part II of the schedule, to the nearest one-hundredth or, if the adjusted rate is equidistant from two consecutive one-hundredths, to the higher one-hundredth; and
+
+- (b) in the case of the rate set out in section 3 of Part II of the schedule, to the nearest one-thousandth or, if the adjusted rate is equidistant from two consecutive one-thousandths, to the higher one-thousandth.
+
+**Consumer Price Index**
+
+(4) In this section, the Consumer Price Index for any 12-month period is the result arrived at by
+
+- (a) aggregating the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the *Statistics Act*, for each month in that period;
+
+- (b) dividing the aggregate obtained under paragraph (a) by 12; and
+
+- (c) rounding the result obtained under paragraph (b) to the nearest one-thousandth or, if the result obtained is equidistant from two consecutive one-thousandths, to the higher one-thousandth.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2017, c. 20, s. 42
+- 2023, c. 26, s. 124
+- 2024, c. 17, s. 113
+
+</details>
+
+### 171 Computation of duty
+
+The duty imposed by this Act on beer or malt liquor shall be charged and computed in such manner as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 171; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 172 Beer brewed for non-commercial use
+
+(1) Notwithstanding sections 170 and 171, the duties of excise thereby imposed shall not be levied or collected on beer that is made or brewed by any person for personal or family consumption or to be given away without charge and that is not for sale or commercial use.
+
+**Exempt brewing apparatus**
+
+(2) Any apparatus used only for making or brewing beer in the circumstances described in subsection (1) is exempt from the provisions of this Act respecting the possession of brewing apparatus by unlicensed persons.
+
+(3) and (4) [Repealed, R.S., 1985, c. 7 (2nd Supp.), s. 64]
+
+**Offence and punishment**
+
+(5) Every one who makes or brews beer for personal or family consumption or to be given away without charge and who sells or puts to a commercial use beer so made or brewed is guilty of an indictable offence and liable to the penalties provided by subsection 176(1) for making or brewing beer without a licence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 172; R.S., 1985, c. 7 (2nd Supp.), s. 64
+
+</details>
+
+### 173 Drawback on beer exported
+
+(1) Every licensed brewer who exports beer or malt liquor of his own manufacture is entitled to receive a drawback equivalent to the duty imposed thereon, and the amount of the drawback shall be computed in such manner and by such means as are directed by ministerial regulations.
+
+**Notice of intention to export**
+
+(2) No drawback under this section shall be allowed or paid unless the brewer claiming it gave notice to an officer of his intention to export the beer or malt liquor in respect of which the drawback is claimed and made such declaration respecting the quantity thereof as is required by ministerial regulations.
+
+**Transactions deemed to be exports**
+
+(3) For the purposes of this section and section 174, the delivery of beer or malt liquor
+
+- (a) for use as ships’ stores, or
+
+- (b) to or for the use of any person or class of persons designated by the Governor in Council,
+
+under such conditions as the Governor in Council prescribes, shall be deemed to be an export.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 173; 1999, c. 17, s. 144(E); 2002, c. 22, s. 425(F)
+
+</details>
+
+### 174 Regulations
+
+(1) The Governor in Council may make such regulations as to him seem necessary for carrying into effect and enforcing the provisions of this Act respecting the operation of a licensed brewery, the information to be shown on containers, the keeping of records, the making of entries and returns, the sale or removal from a licensed brewery of beer for exportation and the collection of the duties imposed by this Act.
+
+**Idem**
+
+(2) Regulations made under this section may provide for the destruction of beer that has become unfit for use
+
+- (a) in storage tanks, bottles, kegs or other containers, before it was shipped from the brewery, or
+
+- (b) in the containers in which it was shipped from the brewery,
+
+and for the refunding to the brewer, in whole or in part, of the duty paid on beer so destroyed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 174; R.S., 1985, c. 7 (2nd Supp.), s. 65, c. 12 (4th Supp.), s. 64; 2000, c. 30, s. 168(F)
+
+</details>
+
+### Returns
+
+### 175 Every brewer to make returns
+
+Every person who carries on business as a brewer shall render to the collector a just and true account in writing, extracted from the books kept as required by this Act, and the account shall exhibit such particulars as may be required by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 175; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Offences and Punishment
+
+### 176 Brewing without a licence
+
+(1) Every person who, without having a licence under this Act then in force,
+
+- (a) makes or brews any beer or malt liquor, except beer that is made or brewed for personal or family consumption or to be given away without charge and that is not for sale or commercial use, or
+
+- (b) has in his possession, whether the owner thereof or not, any beer or malt liquor that has not been made or brewed, distributed or disposed of in accordance with this Act,
+
+is guilty of an indictable offence and liable
+
+- (c) for a first offence, to a fine of not more than one hundred dollars and not less than twenty-five dollars, and in default of payment of the fine to a term of imprisonment, with or without hard labour, of not more than three months and not less than one month, and
+
+- (d) for each subsequent offence, to a fine of not more than two hundred and fifty dollars and not less than one hundred and fifty dollars, and in default of payment of the fine to a term of imprisonment with hard labour of not more than six months and not less than two months.
+
+**Additional punishment**
+
+(2) Every person who becomes liable to the punishment provided for in subsection (1) shall, in addition thereto, forfeit and pay for the use of Her Majesty double the amount of excise duty and licence fee that should have been paid by that person under this Act.
+
+**Exception**
+
+(3) Subsection (1) does not apply to a person who is licensed as a spirits licensee under section 14 of the *Excise Act, 2001* and who produces beer solely for the purpose of distilling the beer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 176; R.S., 1985, c. 7 (2nd Supp.), s. 66; 2002, c. 22, s. 365
+
+</details>
+
+### 177 Illegal possession of apparatus
+
+Every person who has in his possession any brewing apparatus contrary to this Act shall incur, for a first offence, a fine of not more than one hundred dollars and not less than twenty-five dollars, and for each subsequent offence a fine of not more than two hundred and fifty dollars and not less than one hundred and fifty dollars and, in either case, all brewing apparatus may be seized as forfeited.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 178
+
+</details>
+
+### 178 Penalties
+
+(1) Every brewer who
+
+- (a) fails to keep any record or make any entry or return as required by ministerial regulations,
+
+- (b) removes beer or malt liquor from the vessels in which it is to be gauged before the quantity has been determined and assessed for duty,
+
+- (c) adds to the volume of beer or malt liquor after assessment of duty except under the supervision of an officer,
+
+- (d) evades or attempts to evade the payment of duties imposed by this Act, or any part thereof, or
+
+- (e) fails to comply with any of the requirements of this Act or any ministerial regulation,
+
+is liable to a fine of not more than five thousand dollars and not less than one thousand dollars and shall, in addition thereto, forfeit and pay for the use of Her Majesty double the amount of excise duty, if any, that should have been paid by him under this Act.
+
+**Seizure**
+
+(2) All vessels, utensils and apparatus, the property of the brewer referred to in subsection (1), used in or about the licensed brewery, and all beer, grain, malt or wort found in or about the brewery, may be seized as forfeited.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 178; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 179 Sale, removal, etc.
+
+Every person who sells, removes, receives or purchases or in any way aids in the sale, removal, receipt or purchase of any beer on which the duties of excise imposed by this Act have not been paid is guilty of an indictable offence and liable
+
+- (a) for a first offence, to a fine of not more than two hundred dollars and not less than fifty dollars or to imprisonment, with or without hard labour, for a term of not more than three months and not less than one month or to both fine and imprisonment; and
+
+- (b) for each subsequent offence, to a fine of not more than two hundred dollars and not less than one hundred dollars or to imprisonment for a term of not more than six months and not less than three months or to both fine and imprisonment.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 180
+
+</details>
+
+## Bonded Manufacturers
+
+### Interpretation
+
+### 180 Provisions additional to Part I
+
+The provisions of this Part are to be construed as additional or supplemental to the provisions of Part I applicable to bonded manufacturers.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 181
+
+</details>
+
+### Licences
+
+### 181 Manufacture in bond
+
+The Governor in Council may, in his discretion, authorize the manufacture in bond of such goods as he sees fit to designate, in the manufacture or production of which spirits or other articles subject to duties of customs or excise are used, by persons licensed to that effect, subject to the provisions of this Act and to regulations made by the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 182
+
+</details>
+
+### 182 Conditions of licence
+
+(1) A licence to carry on the manufacture in bond of a certain kind or kinds of goods to be mentioned in the application for the licence in certain premises to be therein described may be granted to any person who has complied with the requirements of this Act, if the granting of the licence has been approved by the district inspector and the person has, jointly with a guarantee company approved by the Minister, entered into a bond to Her Majesty in an amount determined by the Minister that is not less than five thousand dollars, and in such form that the proposed licensee and the guarantee company are both bound to the full amount of the bond, and every such licence shall be known as a bonded manufacturing licence.
+
+**Conditions of bond**
+
+(2) The bond entered into under subsection (1) shall be conditioned on the rendering of all accounts, inventories, statements and returns prescribed by law and the payment of all duties and penalties that the person to whom the licence is to be granted becomes liable to render or pay under this Act, and on the person faithfully complying with all the requirements of this Act according to their true intent and meaning, with regard to the accounts, inventories, statements, returns, duties and penalties, as well as to all other matters and things whatever.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 183
+
+</details>
+
+### 183 What application for licence must contain
+
+Every bonded manufacturer shall, when required, furnish the Minister with a description of all materials to be used in the manufacture of the articles he intends to produce, and whenever the ingredients or the proportions stated are such as to make an evasion of duty or loss of revenue on any of those articles possible, of which the Minister is the judge, no article shall be manufactured.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 184
+
+</details>
+
+### 184 Fee for licence
+
+A person to whom a licence for manufacturing in bond is granted shall pay to the collector of the district or excise division in which he proposes to carry on the manufacturing in bond a licence fee prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 185; R.S., c. 15(1st Supp.), s. 32
+
+</details>
+
+### Duties of Excise
+
+### 185 Duties
+
+There shall be imposed, levied and collected on the spirits used in the manufacture of goods in bond within Canada the duties of excise set out in the schedule, which duties shall be paid to the collector as provided in this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 187
+
+</details>
+
+### Returns
+
+### 186 Returns
+
+Every bonded manufacturer shall render to the collector such returns as may be required by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 186; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Drawback and Remission of Duties
+
+### 187 Drawbacks
+
+(1) Every person who manufactures any goods in bond under a licence granted under this Act and who exports any of those goods, in the production of which any article has been used on which duties of customs or excise have been paid by him, is, on the production of due proof of the use and payment of duty and on proof of export, entitled to receive a drawback equal to the duties paid on the articles used in the production of the goods exported.
+
+**Amount**
+
+(2) The amount of a drawback under this section shall be determined in such manner, and the proof of the payment of the duty and export of the goods for which the drawback is claimed shall be of such nature, as are directed or required by the ministerial regulation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 187; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 188 Dutiable articles may be taken into factory
+
+Every bonded manufacturer may receive into the premises for which his licence is granted, as into a bonding warehouse, and, except as is otherwise provided in this Act, without payment of the duty thereon, all such spirits and other articles as are commonly used in the manufacture of the goods for which the licence is granted, on a permit for that purpose granted by the collector, in such form, and on such bond being entered into, and on such conditions as are prescribed in any order in council or ministerial regulation, but no less quantity of those spirits or other articles shall be so received at any time than might be taken out of bond for consumption.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 188; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Supervision
+
+### 189 Duty on quantities deficient
+
+(1) Where at any time the quantity of any dutiable article found by an inspector in stock is less than the quantity that, with the quantity lawfully taken for use and accounted for, would be equivalent to the whole quantity of that article taken into the manufactory, the bonded manufacturer shall forthwith pay the amount of duty for which the quantity so deficient would have been liable if entered for consumption from a regular bonding warehouse, and the duty so collected shall be held to be a duty of excise and shall be collected and accounted for as such.
+
+**Abatement**
+
+(2) An abatement, not exceeding one per cent of the quantity of any dutiable article taken for use, may, in accordance with ministerial regulations, be allowed on deficiencies found at stock-taking in any licensed bonded manufactory or licensed pharmacist’s premises.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 189; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 190 Definition of **standard of production**
+
+(1) In this section, **standard of production** means that from every litre or 0.78924 kg of absolute ethyl alcohol taken for use there shall be produced therefrom not less than one-half kilogram (0.5 kg) of acetic acid.
+
+**Duty payable**
+
+(2) Where, at any time in any bonded manufactory licensed to manufacture vinegar, it is ascertained by stock-taking that the standard of production established by this Act has not been reached, the duty on the quantity of spirits equivalent to the deficiency so determined shall become due and payable forthwith.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 192; 1980-81-82-83, c. 68, s. 67
+
+</details>
+
+### 191 Minimum quantity
+
+No less quantity of goods manufactured in bond shall be ex-warehoused for consumption by one entry than would be liable to a duty of twenty dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 193
+
+</details>
+
+### Offences and Punishment
+
+### 192 Removing spirits or specially denatured alcohol
+
+Every person who, without the specific authority of the Minister, removes any spirits or specially denatured alcohol to be used for any chemical or manufacturing purpose from any bonded manufactory, and every person who receives any of those spirits removed in contravention of this section, shall incur a fine not exceeding two hundred dollars for the first offence and five hundred dollars for each subsequent offence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 194
+
+</details>
+
+### Regulations
+
+### 193 Regulations
+
+The Governor in Council may make regulations respecting the sale of spirits to be used for any chemical or manufacturing purposes not otherwise provided for in this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 195
+
+</details>
+
+### 194 Generally
+
+The Governor in Council may make such regulations as to him seem necessary for carrying into effect and enforcing the provisions of this Act respecting the manufacture of goods in bond, or the warehousing of those goods when manufactured or restricting the sale of those goods, and may, by those regulations, require any bond or any oath or solemn affirmation that he deems requisite for those purposes.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 196
+
+</details>
+
+## Tobacco and Cigars and Manufacturers Thereof
+
+### Interpretation
+
+### 195 Provisions additional to Part I
+
+The provisions of this Part are to be construed as additional or supplemental to the provisions of Part I applicable to tobacco and cigars and the manufacturers thereof.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 197
+
+</details>
+
+### Licences
+
+### 196 Conditions of licence
+
+(1) A licence to carry on the trade or business of a tobacco or cigar manufacturer may be granted to any person who has complied with the requirements of this Act, if the granting of the licence has been approved by the district inspector and the person has, jointly with a guarantee company approved by the Minister, entered into a bond to Her Majesty in an amount determined by the Minister that is not less than one thousand dollars, and in such form that the proposed licensee and the guarantee company are both bound to the full amount of the bond.
+
+**Conditions of bond**
+
+(2) The bond entered into under subsection (1) shall be conditioned on the rendering of all accounts, inventories, statements and returns prescribed by law and the payment of all duties and penalties that the person to whom the licence is to be granted becomes liable to render or pay under this Act, and on the person faithfully complying with all the requirements of the law relating to the manufacture and warehousing of tobacco or cigars according to their true intent and meaning, with regard to the accounts, inventories, statements, returns, duties and penalties, as well as to all other matters and things whatever.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 198
+
+</details>
+
+### 197 Limitation on business to be carried on
+
+No manufacturer of tobacco or cigars shall carry on in any premises in which he is licensed to manufacture tobacco or cigars any business that would significantly impede the efficient administration of this Act and any regulations made under this Act in relation to the manufacture of tobacco or cigars therein.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 199; R.S., c. 15(1st Supp.), s. 34
+
+</details>
+
+### 198 Fee for licence
+
+A person to whom a licence for the manufacture of tobacco or cigars is granted shall pay to the collector of the district or excise division in which he proposes to carry on that manufacturing a licence fee prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 200; R.S., c. 15(1st Supp.), s. 34
+
+</details>
+
+### 199 Manufactories to be numbered and registered
+
+(1) Every collector shall cause the several manufactories of tobacco and cigars in his excise division to be numbered in accordance with a register kept by the Minister, and the registered number shall be issued by the Minister and shall not thereafter be changed.
+
+**Tobacco manufactories**
+
+(2) The registered numbers for tobacco manufactories shall be separate and distinct from those issued to cigar manufacturers.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 201
+
+</details>
+
+### Duties
+
+### 200 Duties of excise on manufactured and Canadian raw leaf tobacco
+
+(1) There shall be imposed, levied and collected on tobacco and cigars manufactured in Canada and on Canadian raw leaf tobacco the duties of excise set out in the schedule, payable
+
+- (a) in the case of manufactured tobacco or cigars, by the manufacturer thereof, at the time the tobacco or cigars are completely manufactured; and
+
+- (b) in the case of Canadian raw leaf tobacco, by the tobacco packer at the time the Canadian raw leaf tobacco is tied or otherwise packaged for consumption.
+
+**Not considered paid until received**
+
+(2) The duties payable under subsection (1) shall be paid to the Receiver General at such time and in such manner as is prescribed by the regulations, and shall not be considered to have been paid until they are received by the Receiver General.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 200; 1993, c. 25, s. 40
+
+</details>
+
+### Tobacco Packaging, Stamping and Marking
+
+### 201 Packaging and stamping of manufactured tobacco and cigars manufactured in Canada
+
+(1) Before manufactured tobacco, or cigars, that are manufactured in Canada are entered for consumption under this Act,
+
+- (a) they shall be put up and prepared by their manufacturer in packages that have printed on them such information as is prescribed by the ministerial regulations; and
+
+- (b) the manufactured tobacco or cigars and their packages, cartons, boxes, crates and other containers shall be stamped with tobacco stamps or cigar stamps by the manufacturer as required by the ministerial regulations.
+
+**Packaging and stamping of imported manufactured tobacco and cigars**
+
+(2) Subject to subsection (3), before imported manufactured tobacco or imported cigars are released under Part II of the *Customs Act*,
+
+- (a) they shall be put up and prepared by the importer in packages that have printed on them such information as is prescribed by the ministerial regulations; and
+
+- (b) the manufactured tobacco or cigars and their packages, cartons, boxes, crates and other containers shall be stamped with tobacco stamps or cigar stamps by the importer as required by the ministerial regulations.
+
+**Exception for small importations**
+
+(3) Subsection (2) does not apply with respect to manufactured tobacco or cigars that are imported by an individual in accordance with the *Customs Act* in quantities not in excess of such quantities as are prescribed by the ministerial regulations if the manufactured tobacco or cigars are for consumption by the individual or by another person at the expense of the individual.
+
+**Packaging and stamping of Canadian raw leaf tobacco**
+
+(4) All Canadian raw leaf tobacco that is to be entered for consumption under this Act shall be put up and prepared in packages by the tobacco packer before it is entered for consumption, and the packages shall be stamped with tobacco stamps by the tobacco packer in accordance with the ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 201; 1993, c. 25, s. 40; 1994, c. 37, s. 5(F); 1999, c. 17, s. 144(E); 2001, c. 16, s. 12
+
+</details>
+
+### 202 Definition of **tobacco product**
+
+(1) In this section, **tobacco product** means manufactured tobacco or cigars.
+
+**Marking of packages — product manufactured in Canada**
+
+(2) Subject to subsections (4) and (5), all packages, cartons, boxes, crates and other containers containing tobacco products manufactured in Canada that are not to be entered for consumption shall, at the time they are entered into a bonding warehouse by the manufacturer of the tobacco products, have printed on them or affixed to them such tobacco markings as are prescribed by the regulations and such other information as is prescribed by the ministerial regulations.
+
+**Marking of packages — imported products**
+
+(3) Subject to subsection (4), before packages, cartons, boxes, crates and other containers containing tobacco products imported into Canada are removed
+
+- (a) to a duty free shop licensed as such under the *Customs Act* for sale to persons who are about to leave Canada,
+
+- (b) for sale to accredited representatives, or
+
+- (c) to a bonded warehouse licensed as such under the *Customs Tariff*
+  - (i) for removal to a duty free shop licensed as such under the *Customs Act* for sale to persons who are about to leave Canada,
+  - (ii) for sale to accredited representatives, or
+  - (iii) for delivery as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*,
+
+they shall have printed on them or affixed to them such tobacco markings as are prescribed by the regulations and such other information as is prescribed by the ministerial regulations.
+
+**Exemption for prescribed tobacco product**
+
+(4) Subsections (2) and (3) do not apply with respect to a tobacco product of a particular brand if the tobacco product of the particular brand is not commonly sold in Canada and is prescribed in the regulations made for the purposes of this subsection.
+
+**Exemption for prescribed cigarette**
+
+(5) Subsection (2) does not apply with respect to cigarettes of a particular type or formulation, manufactured in Canada and exported from Canada under a brand that is also applied to cigarettes of a different type or formulation that are manufactured and sold in Canada, if
+
+- (a) cigarettes of the particular type or formulation exported under that brand are prescribed in the regulations made for the purposes of this subsection; and
+
+- (b) cigarettes of that particular type or formulation have never been sold in Canada by the manufacturer under that brand or any other brand.
+
+**Distinguishing different products**
+
+(6) For the purposes of subsection (5), a cigarette of a particular type or formulation may be considered to be different from another cigarette sold under the same brand if it is reasonable to do so having regard to the physical characteristics of the cigarettes before and during consumption.
+
+**Regulations**
+
+(7) The Governor in Council may make regulations
+
+- (a) prescribing a tobacco product of a particular brand, for the purposes of subsection (4); and
+
+- (b) prescribing cigarettes of a particular type or formulation exported under a particular brand, for the purposes of subsection (5).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 202; 1993, c. 25, s. 40; 1995, c. 41, s. 110; 1999, c. 17, s. 144(E); 2002, c. 22, s. 425(F)
+
+</details>
+
+### 203
+
+(1) and (2) [Repealed, 1993, c. 25, s. 41]
+
+**Penalties**
+
+(3) The owner or importer of manufactured tobacco and cigars imported into Canada shall be subject to all the penal provisions prescribed in respect of manufacturers of tobacco or cigars manufactured in Canada.
+
+(4) [Repealed, 1993, c. 25, s. 41]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 203; 1993, c. 25, s. 41
+
+</details>
+
+### 204 If not stamped or marked
+
+All imported manufactured tobacco and cigars that, when reported under the *Customs Act*, are not stamped or marked as required by this Act and the ministerial regulations or by this Act and the regulations shall be placed in a warehouse licensed as a sufferance warehouse under the *Customs Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 204; R.S., 1985, c. 1 (2nd Supp.), s. 186; 1993, c. 25, s. 42; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 205 and 206
+
+[Repealed, 1993, c. 25, s. 42]
+
+### 207 Re-working or destruction of tobacco and cigars
+
+Manufactured tobacco and cigars that have become unfit for use may be re-worked or destroyed in accordance with ministerial regulations, and those regulations may provide for the refunding to the manufacturer, in whole or in part, of the duty paid thereon.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 207; R.S., 1985, c. 7 (2nd Supp.), s. 67; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 208 Disposal of raw material
+
+All raw leaf tobacco, stems, cuttings, liquorice, sugar, gum or other raw material shall, when brought into, used in or removed from a tobacco or cigar manufactory, be dealt with in such manner as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 208; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 209
+
+[Repealed, 1993, c. 25, s. 43]
+
+### 210 Sale of cigars
+
+(1) Cigars, when put up in packages of less than ten cigars, shall not be sold or removed from any licensed factory in lots of less than one hundred cigars.
+
+**Sale of tobacco or cigarettes**
+
+(2) No less quantity than one-half kilogram (0.5 kg) of manufactured tobacco or one hundred cigarettes shall be sold or removed from any licensed factory.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 214; 1980-81-82-83, c. 68, s. 68
+
+</details>
+
+### 211 Stamp regulations
+
+The Minister may make regulations prescribing the form of stamps to be impressed on, printed on, marked on, indented into or affixed to Canadian raw leaf tobacco, cigarettes, cigars and packages, cartons, boxes, crates and other containers containing manufactured tobacco or cigars, the information to be provided on the stamps and the manner in which the stamps are to be affixed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 211; 1993, c. 25, s. 44; 1994, c. 37, s. 6; 1999, c. 17, s. 144(E); 2001, c. 16, s. 13
+
+</details>
+
+### 212 Tobacco stems and sweepings, etc.
+
+All stems, sweepings or other waste or refuse tobacco that are found in a tobacco or cigar manufactory and are not intended to be used shall be disposed of under ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 212; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Regulations
+
+### 213 Regulations
+
+The Governor in Council may, subject to this Act, make such regulations as to him seem necessary concerning imported or domestic raw leaf tobacco and tobacco and cigars manufactured in or imported into Canada
+
+- (a) for warehousing raw leaf tobacco;
+
+- (b) for destroying such raw leaf tobacco as is not entered for exportation or manufacture;
+
+- (c) for removing raw leaf tobacco from one warehouse to another;
+
+- (d) for causing accounts to be kept by tobacco and cigar manufacturers of all raw leaf tobacco received by them and subsequently disposed of by them by removal, sale or otherwise;
+
+- (e) for determining the manner in which the computation of the mass of tobacco with reference to the standard established by this Act shall be made;
+
+- (f) for the inspection of tobacco and cigars and the collection of the duty thereon, and as is deemed most effective for the prevention of frauds in the payment of that duty;
+
+- (g) for the manufacture and sale of Canada twist;
+
+- (h) for determining the time when tobacco and cigars shall be considered as completely manufactured; and
+
+- (i) for determining when completely manufactured tobacco and cigars shall be entered for consumption or duty ex-manufactory or be warehoused.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 217; 1980-81-82-83, c. 68, s. 70
+
+</details>
+
+### Quantities of Tobacco and Cigars
+
+### 214 Quantities
+
+Quantities of tobacco and cigars shall be stated in such manner as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 214; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Returns
+
+### 215 Returns
+
+Every tobacco or cigar manufacturer shall render monthly to the collector a just and true account, in writing, extracted from the books kept as provided by this Act, and the account shall exhibit such particulars as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 215; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Bonding and Warehousing
+
+### 216 Warehousing and ex-warehousing of tobacco and cigars
+
+Except for export or ship’s stores, no less quantity than fifty kilograms (50 kg) of manufactured tobacco, two thousand cigars or two thousand cigarettes shall be warehoused or ex-warehoused by one entry.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 216; 2002, c. 22, s. 425(F)
+
+</details>
+
+### 217 Stowage of packages in warehouse
+
+All boxes, caddies or packages of manufactured tobacco and cigars shall be arranged and stowed in warehouse in such manner as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 217; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 218 No refund on tobacco ex-warehoused
+
+The duty paid on manufactured tobacco and cigars entered for consumption shall not be refunded by way of drawback or otherwise on the exportation of the tobacco or cigars out of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 223
+
+</details>
+
+### 219 Removal in bond
+
+Manufactured tobacco and cigars intended for export or removal in bond may be removed from the manufactory in such manner and under such restrictions, bond or other security as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 219; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Canadian Leaf Tobacco
+
+### 220 Tobacco grown for private use
+
+A person who grows tobacco on his own land or property and manufactures the tobacco into common Canada twist or cut tobacco solely for the use of himself and such members of his family as are resident with him on the farm or premises on which the tobacco was grown, and not for sale, does not require a licence for so doing, nor is the tobacco so manufactured subject to excise duty, but the quantity so manufactured in any one year shall not exceed fifteen kilograms (15 kg) for each adult member of the family resident on the farm or premises.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 225; 1980-81-82-83, c. 68, s. 72
+
+</details>
+
+### 221 Licence to carry on business of tobacco packer
+
+(1) A licence to carry on the trade or business of a tobacco packer may be granted to any person who has complied with the requirements of this Act, if that person has, jointly with a guarantee company approved by the Minister, entered into a bond to Her Majesty in the sum of one thousand dollars.
+
+**Conditions of bond**
+
+(2) The bond entered into under subsection (1) shall be conditioned on the rendering of all accounts, inventories, statements and returns prescribed by law and the payment of all duties and penalties that the person to whom the licence is to be granted becomes liable to render or pay under this Act, and on the person faithfully complying with all the requirements of this Act according to their true intent and meaning, with regard to the accounts, inventories, statements, returns, duties and penalties, as well as to all other matter and things whatever.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 226
+
+</details>
+
+### 222 Fee for licence
+
+A person to whom a licence to carry on the trade or business of a tobacco packer is granted shall pay to the collector of the district or excise division in which he proposes to carry on that trade or business a licence fee prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 227; R.S., c. 15(1st Supp.), s. 38
+
+</details>
+
+### 223 Regulations
+
+The Minister may, subject to this Act, make such regulations as to him seem necessary for carrying into effect and enforcing the provisions of this Act concerning Canadian raw leaf tobacco,
+
+- (a) for causing accounts to be kept by tobacco packers of all Canadian raw leaf tobacco received by them, and the stemmed and unstemmed leaf subsequently disposed of by them by removal, sale or otherwise;
+
+- (b) for the stemming, reconstituting or converting of Canadian raw leaf tobacco and for the disposal of stemmed, reconstituted or converted leaf and of stems and waste;
+
+- (c) for the preparing and packing of Canadian raw leaf tobacco and for the disposal thereof to persons or firms licensed under this Act who are entitled to receive raw leaf tobacco, or for export;
+
+- (d) for the packaging, stamping and disposal of Canadian raw leaf tobacco for consumption;
+
+- (e) for providing for any difference in weight occurring in, or resulting from, the operations of handling, storing, preparing, packing, stemming or otherwise treating Canadian raw leaf tobacco; and
+
+- (f) for the inspection of Canadian raw leaf tobacco on the premises of licensed tobacco packers and the collection of duty thereon, and as is deemed most effective for the prevention of frauds in the payment of that duty.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 228; R.S., c. 15(1st Supp.), s. 39
+
+</details>
+
+### 224 Monthly account
+
+Every tobacco packer shall render monthly to the collector a just and true account, in writing, extracted from the books kept as required by this Act, which account shall exhibit such particulars as may be prescribed by ministerial regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 224; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 225 Selling, etc., unstamped raw leaf tobacco
+
+(1) Every person who, except as provided in this Act, without having a licence as required by this Act, disposes of, sells, offers for sale, purchases or has in the person’s possession Canadian raw leaf tobacco that is not stamped with a tobacco stamp in accordance with this Act and the ministerial regulations is guilty of an offence punishable on summary conviction and liable to a fine of not more than ten thousand dollars, and in default of payment of the fine to a term of imprisonment of not more than twelve months.
+
+**Forfeiture**
+
+(2) Any tobacco found that is not packaged and stamped as required by this Act shall be forfeited to the Crown and be seized and dealt with accordingly.
+
+**Exceptions**
+
+(3) It shall be deemed not to be an offence against this section for a tobacco grower to have in his possession
+
+- (a) tobacco grown by him on his own property for sale or other disposal only to persons licensed and thereby entitled to receive the tobacco, where the tobacco is either on his property or is being transported by him for the purpose of being cured as provided in paragraph (b) or after being cured as provided in that paragraph; and
+
+- (b) tobacco grown by any other person, if the tobacco grower, in whose possession it is, operates a tobacco drying kiln on his property and the tobacco is on that property with the written permission of a superior officer and solely for the purpose of being cured and returned to the other person forthwith after completion of the curing process.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 225; 1993, c. 25, s. 45; 1999, c. 17, s. 144(E)
+
+</details>
+
+### Offences and Punishment
+
+### 226 Operating without a licence
+
+Every person who, without having a licence under this Act then in force,
+
+- (a) manufactures any tobacco or cigars except as permitted by this Act,
+
+- (b) claiming to have grown any tobacco and manufactured it solely for his own use, sells or barters away any tobacco so manufactured, or
+
+- (c) having purchased any raw leaf tobacco grown in Canada from the cultivator thereof, in any way unlawfully manufactures that tobacco and sells it, or offers it for sale in a manufactured state,
+
+is guilty of an offence punishable on summary conviction and liable to a fine of not more than ten thousand dollars, and in default of payment of the fine to a term of imprisonment of not more than twelve months, and all goods subject to excise found on the premises in which the offence is committed shall be forfeited to Her Majesty in right of Canada and shall be seized by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 226; 1993, c. 25, s. 46
+
+</details>
+
+### 227 Unlawfully manufacturing home produced tobacco
+
+Every person who, without having a licence under this Act then in force, manufactures any tobacco grown on his own land or property
+
+- (a) for the purpose of sale, or for any purpose other than use by himself and such members of his family as are resident with him on the farm or premises on which the tobacco was grown,
+
+- (b) into any product other than Canada twist, or
+
+- (c) in excess of fifteen kilograms (15 kg) for each adult member of the family resident on the farm or premises,
+
+is guilty of an offence punishable on summary conviction and liable to a fine of not more than ten thousand dollars, and in default of payment of the fine to a term of imprisonment of not more than twelve months, and all goods subject to excise found on the premises in which the offence is committed shall be forfeited to Her Majesty in right of Canada and shall be seized by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 227; 1993, c. 25, s. 47
+
+</details>
+
+### 228 Further punishment
+
+Every person who becomes liable to a punishment provided for in section 226 or 227 shall, in addition thereto, forfeit to Her Majesty in right of Canada triple the amount of excise duty and licence fee that should have been paid by that person under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 228; 1993, c. 25, s. 48
+
+</details>
+
+### 229 to 232
+
+[Repealed, 1993, c. 25, s. 48]
+
+### 233 Unlawful packaging or stamping
+
+(1) Every person who packages or stamps tobacco or cigars in such a way as to indicate that the duties of excise have been paid in respect of the tobacco or cigars or, in the case of imported tobacco or cigars, that the additional customs duty has been paid under the *Customs Act* and the *Customs Tariff* in respect of the tobacco or cigars, and who is not a licensed tobacco manufacturer, a licensed cigar manufacturer or a tobacco packer or, where the tobacco or cigars have been reported under the *Customs Act* and released under that Act, the importer or owner of the tobacco or cigars,
+
+- (a) is guilty of an indictable offence and liable to
+  - (i) a fine of not less than ten thousand dollars and not more than one million dollars, or
+  - (ii) both the fine described in subparagraph (i) and imprisonment for a term not exceeding five years; or
+
+- (b) is guilty of an offence punishable on summary conviction and liable to
+  - (i) a fine of not less than one thousand dollars and not more than one hundred thousand dollars, or
+  - (ii) both the fine described in subparagraph (i) and imprisonment for a term not exceeding two years.
+
+**Imprisonment in default of payment**
+
+(2) Where a fine is imposed under subsection (1), a term of imprisonment may be imposed in default of payment of the fine, but no such term shall exceed
+
+- (a) where the fine is imposed under paragraph (1)(a), five years in addition to any other term of imprisonment imposed on the person under that paragraph; and
+
+- (b) where the fine is imposed under paragraph (1)(b), two years in addition to any other term of imprisonment imposed on the person under that paragraph.
+
+**Forfeiture**
+
+(3) All articles subject to excise on the premises at the time the tobacco or cigars referred to in subsection (1) are discovered shall be forfeited to Her Majesty in right of Canada and shall be seized by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 233; 1993, c. 25, s. 49
+
+</details>
+
+### 234
+
+[Repealed, 1993, c. 25, s. 49]
+
+### 235 Unlawful removal of tobacco or cigars
+
+(1) Every person who removes or permits the removal from any manufactory, or from any place where tobacco or cigars are made, any manufactured tobacco or cigars
+
+- (a) without the manufactured tobacco or cigars being packaged,
+
+- (b) without the manufactured tobacco or cigars being stamped with tobacco stamps or cigar stamps in accordance with this Act and the ministerial regulations, where the tobacco or cigars are entered for consumption, or
+
+- (c) without having printed on, or affixed to, the packages, cartons, boxes, crates or other containers containing the manufactured tobacco or cigars tobacco markings in accordance with this Act and the regulations, where the tobacco or cigars are removed in bond,
+
+is guilty of an offence punishable on summary conviction and liable to a fine of not more than ten thousand dollars or to both that fine and imprisonment for a term not exceeding twelve months.
+
+**Imprisonment in default of payment**
+
+(2) Where a fine is imposed under subsection (1), a term of imprisonment may be imposed in default of payment of the fine, but no such term shall exceed twelve months in addition to any other term of imprisonment imposed on the person under that subsection.
+
+**Forfeiture**
+
+(3) All manufactured tobacco or cigars removed in contravention of subsection (1), or possessed without being stamped with tobacco stamps or cigar stamps as required by this Act and the ministerial regulations or without the packages, cartons, boxes, crates or other containers in which the manufactured tobacco or cigars are contained having printed on them or affixed to them tobacco markings as required by this Act and the regulations, shall be forfeited to Her Majesty in right of Canada and shall be seized by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 235; 1993, c. 25, s. 50; 1994, c. 37, s. 7; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 236
+
+[Repealed, 1993, c. 25, s. 50]
+
+### 237 Receiving goods from manufacturers not duly licensed
+
+Every person who purchases or receives for sale any manufactured tobacco or cigars from any manufacturer not duly licensed under this Act is guilty of an offence punishable on summary conviction and liable to a fine of not more than ten thousand dollars, and in default of payment of the fine to imprisonment for a term not exceeding twelve months, and shall, in addition thereto, forfeit all the manufactured tobacco or cigars so purchased or received for sale, or the full value of the manufactured tobacco or cigars including all duties and taxes that were payable under this Act or any other Act in respect of the manufactured tobacco or cigars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 237; 1993, c. 25, s. 51
+
+</details>
+
+### 237.1 Receiving goods fraudulently stamped or marked
+
+Every person who purchases or receives for sale any manufactured tobacco or cigars that are fraudulently stamped is guilty of an offence punishable on summary conviction and liable to a fine of not more than ten thousand dollars, and in default of payment of the fine to imprisonment for a term not exceeding twelve months, and shall, in addition thereto, forfeit all the manufactured tobacco or cigars so purchased or received for sale, or the full value of the manufactured tobacco or cigars including all duties and taxes that were payable under this Act or any other Act in respect of the manufactured tobacco or cigars.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 25, s. 51
+
+</details>
+
+### 238 Receiving manufactured tobacco or cigars not packaged and stamped
+
+Except as provided in this Act, every person who purchases or receives for sale any manufactured tobacco or cigars that have not been packaged and stamped with tobacco stamps or cigar stamps as required by this Act and the ministerial regulations is guilty of an offence punishable on summary conviction and liable to a fine not exceeding ten thousand dollars, and in default of payment of the fine to imprisonment for a term not exceeding twelve months, and shall, in addition to the fine, forfeit all the manufactured tobacco or cigars so purchased or received for sale, or the full value of the manufactured tobacco or cigars including all duties and taxes that were payable under this Act or any other Act in respect of the manufactured tobacco or cigars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 238; 1993, c. 25, s. 51; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 239 False account of tobacco brought into factory
+
+Every manufacturer of tobacco or cigars who omits to enter, or allows any person in his employ to omit to enter, in the inventories, statements, books or returns kept or made pursuant to this Act or the regulations a true account of all tobacco brought into his manufactory shall, for each offence, incur a fine of not more than one thousand dollars and not less than two hundred dollars, and all goods subject to excise found on the premises in which the offence is committed shall be forfeited to the Crown and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 245
+
+</details>
+
+### 239.1 Absence of stamps to be notice
+
+(1) The absence of the proper tobacco stamp or cigar stamp required by this Act and the ministerial regulations to be impressed on, printed on, marked on, indented into or affixed to any cigarette or cigar or any package, carton, box, crate or other container of manufactured tobacco or cigars sold, offered for sale, kept for sale or found in the possession of any person is notice to all persons that
+
+- (a) in the case of manufactured tobacco or cigars manufactured in Canada, the duties of excise and excise tax imposed on the manufactured tobacco or cigars have not been paid; and
+
+- (b) in the case of manufactured tobacco or cigars imported into Canada, the additional customs duty imposed on the manufactured tobacco or cigars under the *Customs Act* and the *Customs Tariff* and the excise tax imposed on the manufactured tobacco or cigars have not been paid.
+
+**Tobacco or cigars to be forfeited**
+
+(2) Manufactured tobacco or cigars that are not put up in packages and stamped with tobacco stamps or cigar stamps as required by this Act and the ministerial regulations and that are
+
+- (a) sold or offered for sale, other than
+  - (i) in the case of manufactured tobacco, by a licensed tobacco manufacturer for export from Canada in accordance with this Act and the ministerial regulations,
+  - (i.1) in the case of cigars, by a licensed cigar manufacturer
+    - (A) for export from Canada in accordance with this Act and the ministerial regulations, or
+    - (B) as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*,
+  - (ii) by a person who has a licence for a bonding warehouse granted under paragraph 50(1)(c),
+  - (iii) by a person licensed under the *Customs Tariff* to operate a bonded warehouse, where
+    - (A) the cigars were manufactured in Canada and are sold or offered for sale as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*, or
+    - (B) the manufactured tobacco or cigars were imported and are, in accordance with this Act, the *Customs Tariff* and the *Customs Act*, sold or offered for sale to an accredited representative, to a duty free shop licensed under the *Customs Act*, as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*, to an operator of a bonded warehouse licensed under the *Customs Tariff* or for export, or
+  - (iv) by a person licensed under the *Customs Act* to operate a duty free shop, if
+    - (A) the manufactured tobacco was imported and is sold or offered for sale in accordance with that Act to a person about to leave Canada, or
+    - (B) the cigars are sold or offered for sale in accordance with that Act to a person about to leave Canada,
+
+- (b) found in the possession of any person, other than
+  - (i) in the possession of a licensed tobacco manufacturer or licensed cigar manufacturer, in the manufactory of that manufacturer,
+  - (ii) in the possession of a person who has a licence for a bonding warehouse granted under paragraph 50(1)(c), in that bonding warehouse,
+  - (iii) while the manufactured tobacco or cigars are in transit in accordance with ministerial regulations after having been removed in bond under ministerial regulations,
+  - (iv) in the case of cigars or imported manufactured tobacco, in the possession of a person licensed under the *Customs Tariff* to operate a bonded warehouse or under the *Customs Act* to operate a sufferance warehouse or duty free shop in that warehouse or duty free shop,
+  - (v) in the possession of a person who is an accredited representative for the personal or official use of that person,
+  - (vi) in the case of cigars or imported manufactured tobacco, in the possession of a person as ships’ stores, if the acquisition and possession of the cigars or manufactured tobacco by that person are in accordance with the regulations made under the *Customs Act*, the *Customs Tariff* and the *Excise Tax Act*, or
+  - (vii) in such quantities as may be prescribed by ministerial regulations, where
+    - (A) the manufactured tobacco or cigars were imported by an individual for consumption by the individual or for consumption by another person at the individual’s expense,
+    - (B) the manufactured tobacco or cigars were imported in quantities not in excess of such quantities as are prescribed by ministerial regulations made for the purposes of subsection 201(3), and
+    - (C) all duties, within the meaning assigned by subsection 2(1) of the *Customs Act*, payable on the manufactured tobacco or cigars have been paid,
+
+shall be forfeited to Her Majesty in right of Canada and shall be seized by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 25, s. 52; 1994, c. 37, s. 8; 1995, c. 41, s. 111; 1999, c. 17, s. 144(E); 2001, c. 16, s. 14; 2002, c. 22, s. 425(F)
+
+</details>
+
+### 240 Unlawful sale or possession of manufactured tobacco or cigars
+
+(1) Subject to subsections (2) and (3), every person who sells or offers for sale or has in the person’s possession any manufactured tobacco or cigars, whether manufactured in or imported into Canada, not put up in packages and stamped with tobacco stamps or cigar stamps in accordance with this Act and the ministerial regulations,
+
+- (a) is guilty of an indictable offence and liable to
+  - (i) a fine of not less than the amount determined under subsection (1.1) and not more than the amount determined under subsection (1.2), or
+  - (ii) both the fine described in subparagraph (i) and imprisonment for a term not exceeding 5 years; or
+
+- (b) is guilty of an offence punishable on summary conviction and liable to
+  - (i) a fine of not less than the amount determined under subsection (1.1) and not more than the lesser of $500,000 and the amount determined under subsection (1.2), or
+  - (ii) both the fine described in subparagraph (i) and imprisonment for a term not exceeding two years.
+
+**Minimum amount**
+
+(1.1) The amount determined under this subsection for an offence under subsection (1) in relation to manufactured tobacco or cigars is the greater of
+
+- (a) the total of
+  - (i) $0.16 multiplied by the number of cigarettes, if any, to which the offence relates,
+  - (ii) $0.11 multiplied by the number of tobacco sticks, if any, to which the offence relates,
+  - (iii) $0.11 multiplied by the number of grams of manufactured tobacco, if any, other than cigarettes or tobacco sticks, to which the offence relates, and
+  - (iv) $0.16 multiplied by the number of cigars, if any, to which the offence relates, and
+
+- (b) $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
+
+**Maximum amount**
+
+(1.2) The amount determined under this subsection for an offence under subsection (1) in relation to manufactured tobacco or cigars is the greater of
+
+- (a) the total of
+  - (i) $0.24 multiplied by the number of cigarettes, if any, to which the offence relates,
+  - (ii) $0.16 multiplied by the number of tobacco sticks, if any, to which the offence relates,
+  - (iii) $0.16 multiplied by the number of grams of manufactured tobacco, if any, other than cigarettes or tobacco sticks, to which the offence relates, and
+  - (iv) $0.50 multiplied by the number of cigars, if any, to which the offence relates, and
+
+- (b) $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
+
+**Where possession not an offence**
+
+(2) Subsection (1) does not apply to the possession of manufactured tobacco or cigars
+
+- (a) by a licensed tobacco manufacturer or licensed cigar manufacturer, in the manufactory of that manufacturer;
+
+- (b) by a person who has a licence for a bonding warehouse granted under paragraph 50(1)(c), in that bonding warehouse;
+
+- (c) while the manufactured tobacco or cigars are in transit in accordance with ministerial regulations after having been removed in bond under ministerial regulations;
+
+- (d) in the case of cigars or imported manufactured tobacco, by a person licensed under the *Customs Tariff* to operate a bonded warehouse or under the *Customs Act* to operate a sufferance warehouse or duty free shop, in that warehouse or duty free shop;
+
+- (e) by a person who is an accredited representative for the personal or official use of that person;
+
+- (f) in the case of cigars or imported manufactured tobacco, as ships’ stores by a person if the acquisition and possession of the cigars or manufactured tobacco by that person are in accordance with the regulations made under the *Customs Act*, the *Customs Tariff* and the *Excise Tax Act*; or
+
+- (g) in such quantities as may be prescribed by ministerial regulations, where
+  - (i) the manufactured tobacco or cigars were imported by an individual for consumption by the individual or for consumption by another person at the individual’s expense,
+  - (ii) the manufactured tobacco or cigars were imported in quantities not in excess of such quantities as are prescribed by ministerial regulations made for the purposes of subsection 201(3), and
+  - (iii) all duties, within the meaning assigned by subsection 2(1) of the *Customs Act*, payable on the manufactured tobacco or cigars have been paid.
+
+**Where sale or offer to sell not an offence**
+
+(3) Subsection (1) does not apply to the sale or offer for sale of manufactured tobacco or cigars
+
+- (a) in the case of manufactured tobacco, by a licensed tobacco manufacturer for export from Canada in accordance with this Act and the ministerial regulations;
+
+- (a.1) in the case of cigars, by a licensed cigar manufacturer
+  - (i) for export from Canada in accordance with this Act and the ministerial regulations, or
+  - (ii) as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*;
+
+- (b) by a person who has a licence for a bonding warehouse granted under paragraph 50(1)(c);
+
+- (c) by a person licensed under the *Customs Tariff* to operate a bonded warehouse, where
+  - (i) the cigars were manufactured in Canada and are sold or offered for sale as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*, or
+  - (ii) the manufactured tobacco or cigars were imported and are, in accordance with this Act, the *Customs Act* and the *Customs Tariff,* sold or offered for sale to an accredited representative, to a duty free shop licensed under the *Customs Act*, as ships’ stores in accordance with the regulations made under the *Customs Tariff* and the *Excise Tax Act*, to an operator of a bonded warehouse licensed under the *Customs Tariff* or for export; or
+
+- (d) by a person licensed under the *Customs Act* to operate a duty free shop, if
+  - (i) the manufactured tobacco was imported and is sold or offered for sale in accordance with that Act to a person about to leave Canada, or
+  - (ii) the cigars are sold or offered for sale in accordance with that Act to a person about to leave Canada.
+
+**Imprisonment in default of payment**
+
+(4) Where a fine is imposed under subsection (1), a term of imprisonment may be imposed in default of payment of the fine, but no such term shall exceed
+
+- (a) where the fine is imposed under paragraph (1)(a), five years in addition to any other term of imprisonment imposed on the person under that paragraph; and
+
+- (b) where the fine is imposed under paragraph (1)(b), two years in addition to any other term of imprisonment imposed on the person under that paragraph.
+
+**Offence to sell or distribute except in original package**
+
+(5) Every person who
+
+- (a) sells or offers for sale any cigars or manufactured tobacco, other than cigarettes, otherwise than in or from the original package stamped with a cigar stamp or tobacco stamp in accordance with this Act and the ministerial regulations,
+
+- (b) sells or offers for sale any cigarettes otherwise than in the original package stamped with a tobacco stamp in accordance with this Act and the ministerial regulations, or
+
+- (c) distributes free of charge for advertising purposes any cigars or manufactured tobacco otherwise than in or from the original package stamped with a cigar stamp or tobacco stamp in accordance with this Act and the ministerial regulations,
+
+whether or not the proper duty has been paid under this Act or under the *Customs Act* and the *Customs Tariff* on the manufactured tobacco or cigars, is guilty of an offence punishable on summary conviction and liable to a fine not exceeding ten thousand dollars and, in default of payment of the fine, to imprisonment for a term not exceeding twelve months.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 240; 1989, c. 22, s. 12; 1993, c. 25, s. 52; 1994, c. 29, s. 15; 1995, c. 41, s. 112; 1999, c. 17, s. 144(E); 2001, c. 16, s. 15; 2002, c. 22, s. 425(F)
+
+</details>
+
+### 241 and 242
+
+[Repealed, 1993, c. 25, s. 52]
+
+## Denatured Alcohol, Specially Denatured Alcohol and Wood Alcohol
+
+### 243 Definitions
+
+In this Part, and in any regulation made under this Part,
+
+**denatured alcohol** means alcohol in suitable admixture with such denaturants as to render it in the judgment of the Minister non-potable and to prevent recovery of the ethyl alcohol; (**alcool dénaturé**)
+
+**denatured spirits** means spirits in suitable admixture with such denaturants as to render them in the opinion of the Minister non-potable and to prevent recovery of the ethyl alcohol; (**eau-de-vie dénaturée**)
+
+**regulation** means a regulation made under this Part; (**règlement**)
+
+**specially denatured alcohol** means alcohol in suitable admixture with such special denaturants as have been approved by the Minister; (**alcool spécialement dénaturé**)
+
+**wood alcohol** means any volatile liquid, whether obtained by the destructive distillation of wood or otherwise, the chief constituent of which is methyl alcohol and which contains not more than twenty-five per cent by weight of acetone. (**alcool méthylique**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 249; 1980-81-82-83, c. 68, s. 75
+
+</details>
+
+### 244 Exemption from duty
+
+Denatured alcohol and specially denatured alcohol that are intended for use in the arts and industries, or for fuel, light or power, or for any mechanical purpose, may be manufactured in Canada free from excise duty.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 250
+
+</details>
+
+### 245 Alcohol made and treated in distilleries
+
+Except as provided in this Act, no alcohol shall be manufactured, denatured or recovered in Canada, except in distilleries thereto licensed, and it is further declared that this section refers to and is binding on Her Majesty whether in right of Canada or any province.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 251
+
+</details>
+
+### 246 Denatured alcohol
+
+(1) Denatured alcohol shall be sold, delivered and transported without restriction to dealers, manufacturers and other persons.
+
+**Specially denatured alcohol**
+
+(2) Specially denatured alcohol shall be imported, manufactured or sold only under such conditions as the Minister may by regulation prescribe.
+
+**Sale or delivery to manufacturer or dealer**
+
+(2.1) Specially denatured alcohol shall not be sold or delivered to a manufacturer or dealer unless it is sold or delivered to the manufacturer or dealer, as the case may be,
+
+- (a) under a ministerial permit; and
+
+- (b) for a use in respect of which denatured alcohol would be unsuitable.
+
+**None for beverage purposes**
+
+(3) No alcohol shall be manufactured or sold under this Part for beverage purposes.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 246; 1999, c. 17, s. 143(E); 2000, c. 30, s. 169
+
+</details>
+
+### 247 Restriction on use of recovered alcohol
+
+The recovery of alcohol after it has been used for industrial purposes and its redistillation and purification shall only be done on the premises in which the alcohol was used or at a duly licensed distillery, and all alcohol recovered on those premises must be used in the same manufacturing establishment in which it was originally used.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 253
+
+</details>
+
+### 248 Labels on containers of methyl-hydrate or denatured alcohol
+
+All vessels containing wood alcohol or denatured alcohol, the labelling of which is not regulated by any regulations made under the *Hazardous Products Act*, shall be labelled in accordance with regulations prescribed under this Act for the purpose of ensuring that the contents of the vessels are clearly identified as a poison.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 254; R.S., c. 15(1st Supp.), s. 43
+
+</details>
+
+### 249 Licence necessary
+
+No person who has not been licensed as provided in this Act shall carry on the business of the manufacture of wood alcohol.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 255
+
+</details>
+
+### 250 Conditions of licence
+
+(1) A licence to carry on the business of the manufacture of wood alcohol may be granted to any person who has complied with this Act, if the granting of the licence has been approved by the district inspector and authorized by the Minister, and the person has, jointly with a guarantee company, approved by the Minister, entered into a bond to Her Majesty in the sum of four thousand dollars.
+
+**Conditions of bond**
+
+(2) The bond entered into under subsection (1) shall be conditioned on the rendering of all accounts, inventories, statements and returns prescribed by law and the payment of all duties and penalties that the person to whom the licence is to be granted becomes liable to render or pay under this Act, and on the person faithfully complying with all the requirements of this Act according to their true intent and meaning.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 256
+
+</details>
+
+### 251 Fee for licence
+
+A person to whom a licence for the manufacture of wood alcohol is granted shall pay to the collector of the district or excise division in which he proposes to carry on the manufacturing of wood alcohol a licence fee prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 257; R.S., c. 15(1st Supp.), s. 44
+
+</details>
+
+### 252 Application of certain provisions to manufacture methyl-hydrate
+
+All the provisions of this Act respecting bonded manufacturers, licences and the obligations of persons holding them, the keeping of books or accounts, and the making of returns, in so far as applied by ministerial regulations, and all provisions respecting penalties, in so far as applicable, have full force and effect with respect to the manufacture of wood alcohol, the manufacture, denaturing, special denaturing and recovery of alcohol, and the persons licensed as provided in this Act, as if those provisions had been enacted with special reference to the manufacture, denaturing, special denaturing and recovery of alcohol and the issue of licences for the manufacturers.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 252; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 253 Deodorizing, etc., of denatured alcohol
+
+Every person who deodorizes or clarifies, or attempts to deodorize or clarify, any denatured alcohol or specially denatured alcohol, whether by distillation, filtration or any other process, is guilty of an indictable offence and liable, for a first offence, to a fine not exceeding five hundred dollars, and for each subsequent offence to a fine not exceeding one thousand dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 259
+
+</details>
+
+### 254 Using spirits containing methyl alcohol
+
+Every person who uses spirits containing methyl alcohol in any form in any pharmaceutical or medicinal preparation intended for internal use is liable to a fine not exceeding five hundred dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 260; R.S., c. 15(1st Supp.), s. 45
+
+</details>
+
+### 255 Punishment for contravening provisions of the Act and regulations
+
+Except as otherwise provided in this Act, any person who holds in possession, sells, exchanges or delivers any alcohol, denatured alcohol, specially denatured alcohol or wood alcohol contrary to this Act, or any regulations made under this Act, is guilty of an indictable offence and is,
+
+- (a) for a first offence, liable to a fine of not more than one thousand dollars and not less than one hundred dollars or to imprisonment, with or without hard labour, for a term of not more than three months and not less than one month or to both fine and imprisonment, and, in default of payment of any fine imposed under this section, to a term of imprisonment of not more than six months and not less than three months, such term of imprisonment to be in addition to any imprisonment already imposed under this section, and
+
+- (b) for each subsequent offence, liable to a fine of not more than one thousand dollars and not less than two hundred dollars or to imprisonment, with hard labour, for a term of not more than twelve months and not less than three months, and, in default of payment of the fine, to a further term of imprisonment equal to that already imposed by the court for the subsequent offence,
+
+and all such alcohol unlawfully held in possession, sold, exchanged or delivered, wherever found, and all horses, vehicles, vessels and other appliances that have been or are being used for the purpose of transporting the alcohol, or in or on which the alcohol is found, shall be seized as forfeited to the Crown and shall be dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-12, s. 261
+
+</details>
+
+### 256 Licence to manufacture denatured spirits
+
+(1) A special temporary licence to engage in the manufacture of denatured spirits may be granted by the Minister to any person who has complied with this Act, where
+
+- (a) denatured spirits manufactured under the licence are for use solely in experimentation and development of a fuel; and
+
+- (b) the denatured spirits and fuel referred to in paragraph (a) are for the licensee’s own use and not for sale or distribution.
+
+**Security**
+
+(2) A person applying for a special temporary licence referred to in subsection (1) shall give security to Her Majesty in right of Canada, in the manner described in subsection (3), for an amount determined by the Minister that is not more than ten thousand dollars and not less than four thousand dollars.
+
+**Nature of security**
+
+(3) The security referred to in subsection (2) shall be realizable against a bank or be by bond of an incorporated guarantee company authorized to do business in Canada, acceptable to the Minister, or by deposit of bonds or other securities of or guaranteed by the Government of Canada.
+
+**Form of bond**
+
+(4) Where the security required by subsection (2) is by bond of an incorporated guarantee company, the bond shall be in a form approved by the Minister.
+
+**Realization of security**
+
+(5) Security given by a person to Her Majesty in right of Canada pursuant to subsection (2) may be realized by Her Majesty if that person fails to comply with this section and sections 257 to 259 or the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 68, s. 76
+
+</details>
+
+### 257 Information to accompany application and compliance with regulations
+
+(1) A person applying for a special temporary licence referred to in subsection 256(1) shall, at the time the person applies for the licence, provide a complete description of the distilling process proposed to be used including diagrams indicating spirit lines, and any other supporting information the Minister may require, and shall comply with all ministerial regulations relating to equipment, premises, facilities and controls for the operation of the process and other operations related thereto.
+
+**Term of licence**
+
+(2) A special temporary licence granted under subsection 256(1) shall be valid for one year or such lesser period stated in the licence as the Minister may determine, and at the end of the year or stated period, the licence shall be deemed to have expired.
+
+**Persons to whom licence not to be granted**
+
+(3) A special temporary licence shall not be granted under subsection 256(1) to any person who has been convicted of an offence under this Act or under an Act of the legislature of a province respecting the manufacture and sale of intoxicating liquor or to any person to whom the Minister deems it inadvisable in the public interest to issue such a licence.
+
+**Section 245 not to apply**
+
+(4) Section 245 does not apply to operations carried on pursuant to a special temporary licence granted under subsection 256(1) during the period for which the licence remains valid.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 257; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 258 Duties of person to whom licence granted
+
+(1) A person to whom a special temporary licence has been granted under subsection 256(1) shall keep adequate books and records for the purposes of this Act, provide returns as and when required by this Act or the regulations and pay all duties, charges and penalties for which he may be liable under this Act or the regulations.
+
+**No liability for excise duty**
+
+(2) A person to whom a special temporary licence has been granted under subsection 256(1) is not liable to pay excise duty on denatured spirits manufactured by him and used for the purpose described in that subsection.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 68, s. 76
+
+</details>
+
+### 259 Duty on expiration
+
+(1) On the expiration of a special temporary licence granted under subsection 256(1), the person thereby licensed shall cease all manufacturing operations authorized under the licence.
+
+**Idem**
+
+(2) Within thirty days of the expiration of a special temporary licence granted under subsection 256(1), or such further period as the Minister may, in writing, allow,
+
+- (a) all spirits produced by the person thereby licensed, not including denatured spirits, shall be destroyed in accordance with ministerial regulations; and
+
+- (b) all stills, worms and other apparatus used in the manufacture of denatured spirits pursuant to the licence shall be transferred to a person authorized under this Act to possess that apparatus, or be destroyed in accordance with ministerial regulations.
+
+**Spirits and apparatus forfeited**
+
+(3) Where a person possesses spirits manufactured by him pursuant to a special temporary licence granted under subsection 256(1) or any still, worm or other apparatus used in the manufacture of those spirits, otherwise than in accordance with this Act, the spirits or apparatus shall be forfeited to the Crown and may be seized and detained by any officer and dealt with accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, s. 259; 1999, c. 17, s. 144(E)
+
+</details>
+
+### 260 Application of certain sections to denatured spirits
+
+Sections 248, 252, 253 and 255 shall be read and construed as applying to denatured spirits.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 68, s. 76
+
+</details>
+
+
+## SCHEDULE
+
+(Sections 135, 170, 170.1, 170.2, 185 and 200)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-14, Sch.; R.S., 1985, c. 7 (2nd Supp.), s. 68, c. 42 (2nd Supp.), s. 15, c. 12 (4th Supp.), ss. 65, 66; 1989, c. 22, s. 14; 1990, c. 45, ss. 33 to 35; 1991, c. 42, ss. 7, 8; 2006, c. 4, s. 43; 2007, c. 2, ss. 62, 63; 2017, c. 20, ss. 43, 44
+- 2024, c. 17, s. 114
+- 2024, c. 17, s. 115
+- 2024, c. 17, s. 116
+
+</details>
+
+
+## RELATED PROVISIONS
+
+### — 2002, c. 22, ss. 305 to 307
+
+### 305 Meaning of **implementation date**
+
+In sections 306 to 320, **implementation date** means the day on which Parts 3 and 4 come into force.
+
+### — 2002, c. 22, ss. 305 to 307
+
+### 306 Transitional treatment of duties on packaged spirits
+
+The following rules apply to packaged spirits on which a duty, at a rate determined by the application of section 1 of Part I of the schedule to the *Excise Act*, was imposed under that Act or levied under the *Customs Tariff* but that had not become payable before the implementation date:
+
+- (a) as of that day, the duty is relieved;
+
+- (b) as of that day, the *Excise Act* ceases to apply in respect of the spirits;
+
+- (c) in the case of imported packaged spirits that have not been released under the *Customs Act*, this Act, the *Customs Act* and the *Customs Tariff* apply in respect of them as though they were imported on that day; and
+
+- (d) in the case of any other packaged spirits, this Act applies in respect of them as though
+  - (i) they were produced and packaged in Canada on that day by the person having possession of them immediately before that day and the person were permitted under this Act to produce and package them, and
+  - (ii) if the spirits are in the possession of a duty free shop or an accredited representative or delivered as ships’ stores in accordance with the *Ships’ Stores Regulations*, they had been entered into an excise warehouse and then removed from the warehouse in accordance with paragraph 147(1)(a) on that day.
+
+### — 2002, c. 22, ss. 305 to 307
+
+### 307 Transitional treatment of duties on bulk spirits
+
+(1) The following rules apply to bulk spirits on which a duty, at a rate determined by the application of section 1 of Part I of the schedule to the *Excise Act*, was imposed under that Act or levied under the *Customs Tariff* but that had not become payable before the implementation date:
+
+- (a) as of that day, the duty is relieved;
+
+- (b) as of that day, the *Excise Act* ceases to apply in respect of the spirits;
+
+- (c) in the case of imported bulk spirits that have not been released under the *Customs Act*, this Act, the *Customs Act* and the *Customs Tariff* apply in respect of them as though they were imported on that day; and
+
+- (d) in the case of any other bulk spirits, this Act applies in respect of them as though they were produced in Canada on that day by the person having possession of them immediately before that day.
+
+**Transitional treatment of bulk spirits imported for bottling or blending**
+
+(2) The following rules apply to bulk spirits on which a duty, at a rate determined by the application of section 1 of Part I of the schedule to the *Excise Act*, was levied under the *Customs Tariff* and remitted under the *Distilled Spirits for Bottling in Bond Remission Order* or the *Imported Spirits for Blending Remission Order* before the implementation date:
+
+- (a) as of that day, the duty imposed on the spirits under subsection 135(1) of the *Excise Act* when they were entered into a distillery is relieved;
+
+- (b) as of that day, the *Excise Act* ceases to apply in respect of the spirits; and
+
+- (c) this Act applies in respect of them as though they were produced in Canada on that day by the person having possession of them immediately before that day.
+
+### — 2002, c. 22, ss. 312 to 314
+
+### 312 Definitions
+
+(1) The definitions in this subsection apply in this section.
+
+**bonded manufacturer** means a person who holds, before the implementation date, a licence under subsection 182(1) of the *Excise Act*. (**fabricant entrepositaire**)
+
+**licensed pharmacist** means a person who holds, before the implementation date, a licence under subsection 136(2) of the *Excise Act*. (**pharmacien titulaire de licence**)
+
+**Application of Act to spirits in possession of bonded manufacturer or licensed pharmacist**
+
+(2) If, on the implementation date, a bonded manufacturer or a licensed pharmacist possesses, in accordance with their licence, spirits that were produced before that day, the following rules apply:
+
+- (a) as of that day, the *Excise Act* ceases to apply in respect of the spirits; and
+
+- (b) this Act applies in respect of them as though
+  - (i) in the case of bulk spirits, the spirits were produced in Canada on that day by the manufacturer or the pharmacist and, if they are a licensed user, they were permitted to produce the spirits, or
+  - (ii) in the case of packaged spirits, the spirits were produced and packaged in Canada on that day by the manufacturer or the pharmacist and they were permitted to produce and package the spirits.
+
+**Refund of duty paid by bonded manufacturer or licensed pharmacist**
+
+(3) If, on the implementation date, a bonded manufacturer or licensed pharmacist possesses spirits on which duty at a rate determined by the application of subsection 1(2) or (3) of Part I of the schedule to the *Excise Act* was paid, the manufacturer or pharmacist may apply to the Minister for a refund of the duty.
+
+**Limitation**
+
+(4) No refund shall be paid under this section unless the application for the refund is filed with the Minister in the prescribed form and manner within one year after the implementation date.
+
+### — 2002, c. 22, ss. 312 to 314
+
+### 313 Application of Act to spirits to be used for scientific purposes
+
+If a person described by any of paragraphs 135(2)(a) to (d) of the *Excise Act* possesses, on the implementation date, spirits in respect of which a drawback under subsection 135(2) of that Act is granted at any time, the following rules apply:
+
+- (a) as of that day, the *Excise Act* ceases to apply in respect of the spirits;
+
+- (b) this Act applies in respect of them as though
+  - (i) in the case of bulk spirits, the spirits were produced in Canada on that day by the person and, if the person is a registered user, the person were permitted to produce the spirits, or
+  - (ii) in the case of packaged spirits,
+    - (A) the spirits were produced and packaged in Canada on that day by the person,
+    - (B) the person were permitted to produce and package the spirits, and
+    - (C) if the person is a registered user, the spirits were, on that day, entered into an excise warehouse and then removed from the warehouse in accordance with subparagraph 147(1)(a)(iii); and
+
+- (c) if the spirits are contained in a special container and the person is a registered user
+  - (i) the person shall, despite subsection 78(1), mark the container on that day, and
+  - (ii) the container is deemed to have been entered into an excise warehouse and then removed from the warehouse in accordance with paragraph 147(2)(a) on that day.
+
+### — 2002, c. 22, ss. 312 to 314
+
+### 314 Application of Act to alcohol in bottle-your-own premises
+
+The following rules apply to alcohol contained in a special container located on a person’s bottle-your-own premises on the implementation date:
+
+- (a) the person shall, despite subsections 78(1) and 83(1), mark the container on that day;
+
+- (b) in the case of spirits, this Act applies in respect of them as though the duty, at a rate determined by the application of section 1 of Part I of the schedule to the *Excise Act*, that had become payable before that day in respect of them were imposed and, if the duty is paid, paid under this Act; and
+
+- (c) in the case of wine,
+  - (i) for the purposes of subsection 135(1), section 82 does not apply to the marking of the container under paragraph (a), and
+  - (ii) this Act applies in respect of the wine as though the tax under section 27 of the *Excise Tax Act* that had become payable before that day in respect of it were a duty that was imposed and, if the tax is paid, paid under this Act.
+
+### — 2002, c. 22, ss. 316, 317
+
+### 316 Transitional treatment of Canadian manufactured tobacco products
+
+(1) The following rules apply to a tobacco product manufactured in Canada before the implementation date:
+
+- (a) if tax on the product imposed under section 23 of the *Excise Tax Act* had not become payable before that day,
+  - (i) the tax is relieved,
+  - (ii) if duty on the product imposed under the *Excise Act* had not become payable before that day, the duty is relieved, and
+  - (iii) this Act applies in respect of the product as though it were manufactured in Canada on that day by the manufacturer to the same extent that the product was manufactured immediately before that day;
+
+- (b) if the product was stamped or marked under the *Excise Act*, the product is deemed to be stamped or marked, as the case may be, under this Act; and
+
+- (c) the *Excise Act* and Parts III, VI and VII of the *Excise Tax Act* cease to apply in respect of the product.
+
+**Refund of duty paid**
+
+(2) If duty imposed under the *Excise Act* on a tobacco product manufactured in Canada before the implementation date had become payable before that day but tax under section 23 of the *Excise Tax Act* had not become payable before that day, the manufacturer of the product may apply to the Minister for a refund of the duty.
+
+**Limitation**
+
+(3) No refund shall be paid under this section unless the application for the refund is filed with the Minister in the prescribed form and manner within one year after the implementation date.
+
+### — 2002, c. 22, ss. 316, 317
+
+### 317 Transitional treatment of imported tobacco products
+
+The following rules apply to an imported tobacco product:
+
+- (a) if duty levied under section 21 of the *Customs Tariff* and tax imposed under section 23 of the *Excise Tax Act* on the product had not become payable before the implementation date,
+  - (i) the duty and tax are relieved, and
+  - (ii) this Act and the *Customs Act* apply in respect of the product as though it were imported into Canada on that day by the importer;
+
+- (b) if the product was stamped or marked under the *Excise Act*, the product is deemed to be stamped or marked, as the case may be, under this Act; and
+
+- (c) the *Excise Act* and Parts III, VI and VII of the *Excise Tax Act* cease to apply in respect of the product.
+
+### — 2002, c. 22, s. 320
+
+### 320 Removal of tobacco products from bonding warehouse of manufacturer
+
+(1) If a tobacco product manufactured in Canada is, on the implementation date, located in a bonding warehouse of a person who is licensed under subsection 196(1) of the *Excise Act*, the product shall be removed from the warehouse and entered into an excise warehouse on that day.
+
+**Removal of tobacco products from bonding warehouse of authorized distributor**
+
+(2) If a tobacco product manufactured in Canada is, on the implementation date, located in a bonding warehouse of a person who is licensed under paragraph 50(1)(c) of the *Excise Act*, the product shall, on that day, be removed from the warehouse and
+
+- (a) entered into the person’s special excise warehouse, if the person is a special excise warehouse licensee and the product is one that the person is permitted under this Act to distribute; or
+
+- (b) returned to the excise warehouse of the tobacco licensee who manufactured the product.
+
+### — 2006, c. 4, s. 50
+
+### 50
+
+For the purposes of applying the provisions of the *Customs Act* and the *Excise Act* that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though sections 43, 48 and 49 had come into force on July 1, 2006.
+
+### — 2007, c. 2, s. 61(2)
+
+### 61
+
+(2) Subsection (1) is deemed to have come into force on July 1, 2006, except that, for 2006, every reference to “75,000” in section 170.1 of the Act, as enacted by subsection (1), shall be read as a reference to “37,500”.
+
+### — 2007, c. 2, s. 63(2)
+
+### 63
+
+(2) Subsection (1) is deemed to have come into force on July 1, 2006, except that, for 2006,
+
+- (a) the reference to “35,000” in section 4 of Part II.1 of the schedule to the Act, as enacted by subsection (1), shall be read as a reference to “22,500”; and
+
+- (b) section 5 of Part II.1 of the schedule to the Act, as enacted by subsection (1), does not apply.
+
+### — 2008, c. 28, ss. 49(2), (3)
+
+### 49
+
+(2) With respect to fermented liquor that is brewed by a brewer in whole or in part from malt, grain or any saccharine matter without any process of distillation and that has an alcoholic strength in excess of 11.9% absolute ethyl alcohol by volume, a valid licence held by the brewer under the *Excise Act* is deemed to be a valid spirits licence issued under section 14 of the *Excise Act, 2001* until the day that is 30 days after the day on which this Act is assented to.
+
+(3) For the purposes of applying the provisions of the *Excise Act, 2001* and of the *Customs Act* that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though this section had come into force on February 27, 2008.
+
+### — 2017, c. 20, s. 67
+
+### 67
+
+For the purposes of applying the provisions of the *Customs Act* and the *Excise Act* that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount is to be determined and interest is to be computed on it as though sections 44 and 58 to 63 and subsections 64(1) and 65(1) had been assented to on March 23, 2017.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2024, c. 17, s. 114(2)
+
+### 114
+
+(2) Paragraphs 1(a) to (c) of Part II.1 of the schedule to the Act, as amended by subsection (1), are amended by replacing “5%” with “10%”.
+
+### — 2024, c. 17, s. 115(2)
+
+### 115
+
+(2) Paragraphs 2(a) to (c) of Part II.1 of the schedule to the Act, as amended by subsection (1), are amended by replacing “10%” with “20%”.
+
+### — 2024, c. 17, s. 116(2)
+
+### 116
+
+(2) Paragraphs 3(a) to (c) of Part II.1 of the schedule to the Act, as amended by subsection (1), are amended by replacing “20%” with “40%”.

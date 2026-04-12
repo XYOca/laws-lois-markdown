@@ -1,0 +1,1174 @@
+---
+title: "Expropriation Act"
+long_title: "An Act respecting the expropriation of land"
+chapter: "E-21"
+language: "en"
+type: "act"
+---
+
+# Expropriation Act
+
+> An Act respecting the expropriation of land
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Expropriation Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 16(1st Supp.), s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+(1) In this Act,
+
+**Court** means the Federal Court; (**tribunal**)
+
+**Crown** means Her Majesty in right of Canada; (**Couronne**)
+
+**expropriated** means taken by the Crown under Part I; (**exproprié**)
+
+**expropriated interest**[Repealed, 2011, c. 21, s. 127]
+
+**expropriated interest or right** means any estate, interest or right that has been lost, in whole or in part, by the registration of a notice of confirmation under Part I; (**droit ou intérêt exproprié**)
+
+**interest in land**[Repealed, 2011, c. 21, s. 127]
+
+**land** includes mines, buildings, structures, other things in the nature of fixtures and objects that are immovable within the meaning of Quebec civil law and also includes minerals whether precious or base, on, above or below the surface, but excludes minerals above the surface in Quebec; (**bien-fonds**)
+
+**Minister**
+  - (a) in relation to the provisions of this Act other than Part II, means the Minister of Public Works and Government Services or, for such periods and in relation to such matters to which the powers, duties and functions of the Minister under this Act extend as may be specified in any instrument of delegation signed by the Minister of Public Works and Government Services and published in the *Canada Gazette*, such other Minister described in paragraph (b) as is named in the instrument, and
+  - (b) in relation to Part II, means a Minister presiding over a department named in Schedule I to the *Financial Administration Act*; (**ministre**)
+
+**notice of confirmation** means a notice of confirmation described in section 14; (**avis de confirmation**)
+
+**notice of intention** means a notice of intention described in section 5; (**avis d’intention**)
+
+**owner**[Repealed, 2011, c. 21, s. 127]
+
+**register** includes file or deposit; (**enregistrer**)
+
+**registrar** means the officer with whom the titles relating to real property and immovables are registered or recorded. (**registrateur**)
+
+**Interpretation**
+
+(2) For the purposes of this Act,
+
+- (a) an interest in land relates to any land in Canada elsewhere than in Quebec;
+
+- (b) an immovable real right relates to any land in Quebec and includes the right of a lessee of the land;
+
+- (c) an owner of an interest is a person who has a right, estate or interest in any land in Canada elsewhere than in Quebec; and
+
+- (d) a holder of a right is a person who has a right in any land in Quebec, including a lessee of the land.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 2; 1996, c. 16, s. 60; 2011, c. 21, s. 127
+
+</details>
+
+### 3 Sending of notices and other documents
+
+(1) For the purposes of this Act, where any notice or other document or a copy thereof is required or authorized to be sent to a person other than the Minister or the Attorney General of Canada,
+
+- (a) the document or copy shall be sent to that person by being mailed by registered mail addressed to him at his latest known address or, if his address is unknown, by being published in at least one issue of a publication, if any, in general circulation within the area in which the land to which the document relates is situated; and
+
+- (b) the document or copy shall be deemed to have been sent to that person at the time when it was mailed or first published in accordance with paragraph (a).
+
+**Idem**
+
+(2) Where any objection or other document is to be served on the Minister, it shall be served on him by being left at, or by being sent by registered mail to, the office of the Minister, but if any such document is sent by registered mail to the office of the Minister service thereof shall be deemed not to be effected until it has been received at that office.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 16(1st Supp.), s. 2
+
+</details>
+
+## Expropriation
+
+### Acquisition and Abandonment of Land
+
+### 4 Authority to expropriate
+
+(1) Any interest in land or immovable real right, including any of the interests or rights mentioned in sections 7 and 7.1, that, in the opinion of the Minister, is required by the Crown for a public work or other public purpose may be expropriated by the Crown in accordance with the provisions of this Part.
+
+**Exception**
+
+(2) No interest in land that is **Category IA-N land**, as defined in subsection 2(1) of the *Naskapi and the Cree-Naskapi Commission Act*, may be expropriated under this Part without the consent of the Governor in Council.
+
+**Exception**
+
+(2.1) No interest in land that is **Category IA land**, as defined in subsection 2(2) of the *Cree Nation of Eeyou Istchee Governance Agreement Act*, may be expropriated under this Part without the consent of the Governor in Council.
+
+**Exception**
+
+(3) No right or interest in lands that are **shíshálh lands**, as defined in subsection 2(1) of the *shíshálh Nation Self-Government Act*, may be expropriated under this Part without the consent of the Governor in Council.
+
+**Exception**
+
+(4) No interest in settlement land as defined in section 2 of the *Yukon Surface Rights Board Act* may be expropriated under this Part without the consent of the Governor in Council.
+
+**Exception**
+
+(5) No interest in Tetlit Gwich’in Yukon land may be expropriated under this Part without the consent of the Governor in Council.
+
+**Notice of intention**
+
+(6) Where an interest in land referred to in subsection (4) or (5) is to be expropriated, notice of intention to obtain the consent of the Governor in Council shall be given to the Yukon first nation or Gwich’in Tribal Council, as the case may be, on completion of any public hearing and submission of a report to the Minister required by section 10 or, if no hearing is held, on the expiration of the period of thirty days referred to in section 9.
+
+**Definition of **Tetlit Gwich’in Yukon land****
+
+(7) In this section, **Tetlit Gwich’in Yukon land** means land as described in Annex B, as amended from time to time, to Appendix C of the Comprehensive Land Claim Agreement between Her Majesty the Queen in right of Canada and the Gwich’in, as represented by the Gwich’in Tribal Council, that was approved, given effect and declared valid by the *Gwich’in Land Claim Settlement Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 4; R.S., 1985, c. 20 (2nd Supp.), s. 2; 1994, c. 43, s. 84; 2011, c. 21, s. 128; 2018, c. 4, s. 128
+- 2022, c. 9, s. 41
+
+</details>
+
+### 4.1 Request by railway company to expropriate
+
+(1) If a railway company, as defined in section 87 of the *Canada Transportation Act*, requires an interest in land or immovable real right for the purposes of its railway and has unsuccessfully attempted to purchase the interest or right, the railway company may request the Minister of Transport to have the Minister have the interest or right expropriated by the Crown in accordance with this Part.
+
+**Power of Minister**
+
+(2) The Minister shall have the interest in land or immovable real right expropriated by the Crown in accordance with this Part if
+
+- (a) the Minister of Transport is of the opinion that the interest or right is required by the railway company for its railway and recommends to the Governor in Council that it be expropriated in accordance with this Part; and
+
+- (b) the Governor in Council consents to the expropriation of the interest or right.
+
+**Deemed opinion**
+
+(3) If the Minister of Transport is of the opinion that the interest in land or immovable real right is required by the railway company for its railway, the Minister is deemed to be of the opinion that the interest or right is required by the Crown for a public work or other public purpose.
+
+**Charges for services**
+
+(4) The appropriate minister in relation to Part I of this Act may make regulations prescribing fees or charges to be paid by a railway company in respect of an expropriation referred to in subsection (2), and rates of interest payable in respect of those fees and charges.
+
+**Debt due to Her Majesty**
+
+(5) The fees or charges are a debt due to Her Majesty in right of Canada by the railway company, and shall bear interest at the prescribed rate from the date they are payable.
+
+**Security**
+
+(6) The Minister may require the company to provide security, in an amount determined by the Minister and subject to any terms and conditions that the Minister may specify, for the payment of any fees or charges that are or may become payable under this section.
+
+**Vesting**
+
+(7) For the purpose of this section, the reference to the Crown in section 15 shall be read as a reference to the railway company that made a request under subsection (1).
+
+**Restriction on alienation**
+
+(8) If an interest in land or immovable real right that was vested in the Crown before the expropriation is obtained by a railway company under section 15, the railway company may not alienate that interest or right except to transfer it to the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1996, c. 10, s. 228; 2011, c. 21, s. 129
+
+</details>
+
+### 5 Notice of intention to expropriate
+
+(1) If, in the opinion of the Minister, any interest in land or immovable real right is required by the Crown for a public work or other public purpose, the Minister may request the Attorney General of Canada to register a notice of intention to expropriate the interest or right, signed by the Minister, setting out
+
+- (a) a description of the land;
+
+- (b) the nature of the interest or right intended to be expropriated and whether the interest or right is intended to be subject to any existing interest in land or immovable real right;
+
+- (c) an indication of the public work or other public purpose for which the interest or right is required; and
+
+- (d) a statement that it is intended that the interest or right be expropriated by the Crown.
+
+**Registration of notice**
+
+(2) On receiving from the Minister a request to register a notice of intention described in this section, the Attorney General of Canada shall cause the notice, together with a plan of the land to which the notice relates, to be registered in the office of the registrar for the county, district or registration division in which the land is situated, and, after causing any investigations and searches to be made respecting the state of the title to the land that appear to him or her to be necessary or desirable, the Attorney General of Canada shall provide the Minister with a report setting out the names and latest known addresses, if any, of the persons appearing to have any estate, interest or right in the land, so far as he or she has been able to ascertain them.
+
+**Further indication of public purpose**
+
+(3) If, in the opinion of the Minister, the interest or right to which a notice of intention described in this section relates is required by the Crown for a purpose related to the safety or security of Canada or a state allied or associated with Canada and it would not be in the public interest to indicate that purpose, a statement in the notice to the effect that the interest or right is required by the Crown for such a purpose is sufficient compliance with paragraph (1)(c) without any other indication.
+
+**Further indication of public purpose — additional information**
+
+(4) Subject to subsection (3), the Minister shall, for the purposes of sections 9 and 10 and to the extent that it appears to him or her practicable and in the public interest to do so, make available to any person on request any additional information that is available to the Minister with respect to the public work or other public purpose for which the interest or right to which a notice registered under this section relates is required by the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 5; 2011, c. 21, s. 130
+
+</details>
+
+### 6 Error, etc., in notice or plan
+
+(1) If a notice or plan registered under section 5 contains any omission, misstatement or erroneous description, a corrected notice or plan may be registered and will be deemed to relate back to the day the original notice or plan was registered.
+
+**Validity of notice — nature of the interest or right**
+
+(2) A notice registered under section 5 is not invalid by reason only that it does not set out the nature of the interest or right intended to be expropriated and, in that case, the interest or right intended to be expropriated includes all the interests in the land or immovable real rights to which the notice relates.
+
+**Validity of notice — existing interest in land or immovable real right**
+
+(3) A notice registered under section 5 is not invalid by reason only that it does not set out whether the interest or right intended to be expropriated is intended to be subject to an existing interest in land or immovable real right to which the notice relates, and, if it does not do so, the interest or right intended to be expropriated is not subject to that existing interest or right.
+
+**Provincial lands**
+
+(4) If it appears to the Attorney General of Canada that any land, interest in land or immovable real right to which a notice registered under section 5 relates belongs to Her Majesty in right of any province, he or she shall immediately cause the attorney general of the province to be notified of the registration and its particulars.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 6; 2011, c. 21, s. 130
+
+</details>
+
+### 7 Nature of interests that may be set out in notice — provinces other than Quebec
+
+In Canada elsewhere than in Quebec, a notice of intention may set out, as the nature of the interest intended to be expropriated, any estate or interest in land, including, without restricting the generality of the foregoing,
+
+- (a) an interest limited as to time or by condition or otherwise;
+
+- (b) an easement, profit or other servitude;
+
+- (c) any right to, over or in respect of land that might be conferred by the owner of the land, whether or not that right, if conferred by the owner, could be asserted against a subsequent owner of the land;
+
+- (d) any restriction on the use of land that might be assumed by covenant or other agreement, whether or not that restriction, if assumed by the owner of the land, could be asserted against a subsequent owner thereof; and
+
+- (e) the exclusive possession of land for a limited time or for a definite or indefinite period, subject to any conditions or limitations that may be specified in the notice.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 7; 2011, c. 21, s. 130
+
+</details>
+
+### 7.1 Nature of rights that may be set out in notice — Quebec
+
+In Quebec, a notice of intention may set out, as the nature of the right intended to be expropriated, any immovable real right.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, c. 21, s. 130
+
+</details>
+
+### 8 Sending of copies and publication of notice
+
+(1) If a notice of intention to expropriate an interest in land or immovable real right has been registered, the Minister shall cause a copy of the notice
+
+- (a) to be published in at least one issue of a publication, if any, in general circulation within the area in which the land is situated, within thirty days after the registration of the notice, and
+
+- (b) to be sent to each of the persons whose names are set out in the report of the Attorney General of Canada referred to in subsection 5(2), as soon as practicable after the registration of the notice,
+
+and forthwith after causing a copy thereof to be sent by registered mail to each of the persons referred to in paragraph (b), shall cause the notice to be published in the *Canada Gazette*.
+
+**When notice deemed given**
+
+(2) A notice of intention shall be deemed to be given on the day on which it is published in the *Canada Gazette* under subsection (1), and where any notice so published contains an omission, mis-statement or erroneous description, a corrected notice may be published in the *Canada Gazette*, which shall be deemed to relate back to the day the original notice was published therein.
+
+**Statement regarding right to object**
+
+(3) There shall be included in any notice or copy published or sent as described in subsection (1) a statement of the provisions of section 9 as that section applies to the intended expropriation of the interest or right to which the notice relates.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 8; 2011, c. 21, s. 131
+
+</details>
+
+### 9 Objections
+
+Any person who objects to the intended expropriation of an interest in land or immovable real right to which a notice of intention relates may, within 30 days after the day on which the notice is given, serve on the Minister an objection in writing stating the name and address of that person and indicating the nature of the objection, the grounds on which the objection is based and the nature of the interest of that person in the matter of the intended expropriation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 9; 2011, c. 21, s. 132
+
+</details>
+
+### 10 Public hearing
+
+(1) Forthwith after the expiration of the period of thirty days referred to in section 9, the Minister shall, if the Minister has been served with an objection under that section, order that a public hearing be conducted with respect to the objection and any other objection to the intended expropriation that has been or may be served on the Minister.
+
+**Appointment of hearing officer**
+
+(2) Where the Minister orders that a public hearing be conducted with respect to an objection or objections, the Minister shall immediately request the Attorney General of Canada to appoint a hearing officer to conduct the hearing and the Attorney General of Canada shall thereupon appoint a suitable person, who is not a person employed in the public service as defined in subsection 3(1) of the *Public Service Superannuation Act*, to be a hearing officer for that purpose.
+
+**Remuneration and expenses**
+
+(3) A hearing officer appointed under this section shall be paid such remuneration and expenses as may be fixed by the Attorney General of Canada with the approval of the Treasury Board.
+
+**Duties of hearing officer**
+
+(4) A hearing officer appointed under this section shall
+
+- (a) as soon as possible after the appointment of the hearing officer and in any case not later than seven days after the date thereof, fix a suitable time and place for the public hearing and cause notice of the time and place to be given by publishing it in at least one issue of a publication, if any, in general circulation within the area in which the land is situated and by sending it to each of the persons whose names are set out in the report of the Attorney General of Canada referred to in subsection 5(2) and each other person who served an objection on the Minister;
+
+- (b) at the time and place fixed for the public hearing, provide an opportunity to be heard to each person appearing thereat who served an objection on the Minister or such of those persons as the hearing officer deems necessary in order to report to the Minister on the nature and grounds of the objections;
+
+- (c) make such inspection of the land as the hearing officer deems necessary and receive and consider any written representations filed with the hearing officer before or at the hearing by any person who served an objection on the Minister; and
+
+- (d) within thirty days after the appointment of the hearing officer, prepare and submit to the Minister a report in writing on the nature and grounds of the objections made.
+
+**Idem**
+
+(5) A hearing officer is not required to give any notice, hold any hearing or take any other action required by subsection (4) with respect to any objection served on the Minister under section 9 and may at any time disregard any such objection if it appears to the hearing officer that the objection is frivolous or vexatious or is not made in good faith.
+
+**Right to legal counsel**
+
+(6) Any person who may be heard at a public hearing under this section may be represented by legal counsel at the hearing.
+
+**Conduct of hearing**
+
+(7) A public hearing under this section shall, subject to this section, be conducted in such manner as may be determined by the hearing officer.
+
+**Extension of time for report**
+
+(8) At the request of any hearing officer, the Attorney General of Canada may extend, for a period not exceeding thirty days, the time limited by this section for preparing and submitting to the Minister a report.
+
+**Costs of asserting objections**
+
+(9) A hearing officer shall, in any report submitted by him to the Minister under this section, fix such amount, if any, as the hearing officer deems reasonable, not exceeding such maximum amount as may be authorized by any tariff of costs prescribed by the Governor in Council for the purpose of this section, in respect of the costs of any person who served an objection on the Minister that were incurred by that person in asserting the objection, and on the certificate of the Minister the Minister of Finance shall, out of the Consolidated Revenue Fund, cause to be paid to that person the amount so certified in respect of those costs.
+
+**Failure to conduct or report hearing**
+
+(10) Where, for any reason, a hearing officer appointed to conduct a public hearing under this section fails to do so or to prepare and submit to the Minister a report as and when required by this section, the Minister shall so notify the Attorney General of Canada who shall immediately appoint another hearing officer for that purpose.
+
+**Order if possession by Crown urgently required**
+
+(11) If, before a notice of intention is registered, the Governor in Council is of the opinion that the physical possession or use by the Crown of the land to the extent of the interest or right intended to be expropriated is, by reason of special circumstances, urgently required and that to order that a public hearing be conducted with respect to it would occasion a delay prejudicial to the public interest, the Governor in Council may direct that no order be made by the Minister under subsection (1) with respect to the intended expropriation and, in which case, a statement to that effect shall be included in the notice of intention.
+
+**Exception**
+
+(12) Subsection (11) does not apply in respect of land described in subsection 4(4) or (5), but the Yukon first nation concerned or the Gwich’in Tribal Council, as the case may be, may agree to waive the requirement for a public hearing and, if it does so before a notice of intention is registered, a statement of the waiver shall be included in the notice of intention.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 10; 1994, c. 43, s. 85; 2003, c. 22, s. 225(E); 2011, c. 21, s. 133
+
+</details>
+
+### 11 Confirmation or abandonment of intention
+
+(1) Where a notice of intention has been given, the Minister may
+
+- (a) confirm the intention, in the manner provided in section 14,
+  - (i) if no objection is filed with him under section 9 within the period of thirty days referred to in that section,
+  - (ii) if an objection has been filed with him under section 9 within the period of thirty days referred to in that section, after receiving and considering the report of a hearing officer appointed to conduct a public hearing with respect thereto, or
+  - (iii) whether or not an objection has been filed with him under section 9, if a statement to the effect described in subsection 10(11) has been included in the notice of intention; or
+
+- (b) abandon the intention.
+
+**Idem**
+
+(2) Where, on the expiration of one hundred and twenty days after the day the notice was given, the Minister has not confirmed the intention in the manner provided in section 14, the Minister shall be deemed to have abandoned the intention.
+
+**If more limited interest or right only required**
+
+(3) Whenever, at the time of confirming an intention to expropriate an interest in land or immovable real right, the Minister is of the opinion that a more limited interest or right is required by the Crown for a public work or other public purpose, the Minister may confirm the intention to expropriate the more limited interest or right, in which case the Minister shall be deemed to have abandoned the intention to expropriate the remainder of the interest in land or immovable real rights.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 11; 2011, c. 21, s. 134
+
+</details>
+
+### 12 Notice of abandonment of intention
+
+(1) If the Minister has abandoned an intention to expropriate an interest in land or immovable real right otherwise than by confirming an intention to expropriate a more limited interest or right in it, the Minister shall immediately cause a notice of abandonment of the intention to be sent
+
+- (a) to each of the persons then appearing to have any estate, interest or right in the land, so far as the Attorney General of Canada has been able to ascertain them, and each other person who served an objection on the Minister under section 9; and
+
+- (b) to the Attorney General of Canada, who shall immediately confirm the abandonment by causing the notice to be registered in the office of the registrar where the notice of intention was registered.
+
+**Right of owner or holder if abandonment of intention**
+
+(2) If an intention to expropriate an interest in land or immovable real right, or the remainder of the interest or rights, has been abandoned, compensation in accordance with this Part shall be paid by the Crown to any person who was the owner or holder of the interest or right or of the remainder of the interest or rights at the time when the notice of intention was registered.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 12; 2011, c. 21, s. 135
+
+</details>
+
+### 13 Copy of report and reasons to be sent on request
+
+If the Minister, after receiving and considering a report of a hearing officer appointed to conduct a public hearing with respect to an objection served on the Minister by any person under section 9, has confirmed an intention to expropriate an interest in land or immovable real right, or a more limited interest or right in it, in the manner provided in section 14, the Minister shall, at the written request of the person who served the objection, provide that person with a copy of the report of the hearing officer and, if effect was not given to the objection, a statement of the reasons that the Minister had for not giving it effect.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 13; 2011, c. 21, s. 135
+
+</details>
+
+### 14 Notice of confirmation of intention
+
+(1) The Minister may confirm an intention to expropriate an interest in land or immovable real right to which a notice of intention relates, or a more limited interest or right in the land, by requesting the Attorney General of Canada to register a notice of confirmation, signed by the Minister, setting out,
+
+- (a) if the interest or right expropriated is the same as the interest or right to which the notice of intention relates, a statement that the intention to expropriate that interest or right is confirmed; or
+
+- (b) if the interest or right expropriated is a more limited interest or right than the interest or right to which the notice of intention relates, a statement that the intention to expropriate the interest or right to which the notice of intention relates is confirmed except as expressly specified in the statement.
+
+**Registration of notice**
+
+(2) On receiving from the Minister a request to register a notice of confirmation described in this section, the Attorney General of Canada shall cause the notice to be registered in the office of the registrar where the notice of intention was registered, and if the land to which the notice of confirmation relates is more limited in area than the land described in the notice of intention, shall cause a revised plan of the land to which the notice of confirmation relates to be registered therewith.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 14; 2011, c. 21, s. 136
+
+</details>
+
+### 15 Effect of registration of notice
+
+On the registration of a notice of confirmation,
+
+- (a) the interest or right confirmed to be expropriated becomes and is absolutely vested in the Crown; and
+
+- (b) any other estate, interest or right is, as against the Crown or any person claiming on behalf of or under the direction of the Crown, thereby lost to the extent that the estate, interest or right is inconsistent with the interest or right confirmed to be expropriated.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 15; 2011, c. 21, s. 137
+
+</details>
+
+### 16 Copies to be sent and offer of full compensation to be made
+
+(1) When a notice of confirmation has been registered, the Minister shall,
+
+- (a) immediately after the registration of the notice, cause a copy of the notice to be sent to each of the persons then appearing to have any estate, interest or right in the land, so far as the Attorney General of Canada has been able to ascertain them, and each other person who served an objection on the Minister under section 9; and
+
+- (b) within 90 days after the day on which the notice is registered, or, if at any time before the expiration of those 90 days an application has been made under section 18, within the later of
+  - (i) 90 days after the day on which the notice is registered, or
+  - (ii) 30 days after the day on which the application is finally disposed of,
+  make to each person who is entitled to compensation under this Part, in respect of an expropriated interest or right to which the notice of confirmation relates, an offer in writing of compensation, in an amount estimated by the Minister to be equal to the compensation to which that person is then entitled under this Part in respect of that interest or right, not conditional on the provision by that person of any release or releases and without prejudice to the right of that person, if the person accepts the offer, to claim additional compensation in respect thereof.
+
+**If delay in offer**
+
+(2) If, in any case, it is not practicable for the Minister to make an offer of compensation under this section in respect of an expropriated interest or right within the applicable period described in paragraph (1)(b), the Minister shall make such an offer as soon as practicable after the expiration of that period and in any event before any compensation is adjudged by the Court to be payable under this Part in respect of that interest or right, in which case, interest as described in subsection 36(4) is payable in addition to any other interest payable under section 36 to the person entitled to compensation in respect of that interest or right.
+
+**Offer to be based on written appraisal**
+
+(3) An offer of compensation made to a person under this section in respect of an expropriated interest or right shall be based on a written appraisal of the value of that interest or right, and a copy of the appraisal shall be sent to that person at the time of the making of the offer.
+
+**Statements to be included in copy of notice and in offer**
+
+(4) There shall be included in any copy of a notice of confirmation sent to any person as described in paragraph (1)(a) a statement of the provisions of section 29 as that section applies to them, and there is to be included in any offer in writing sent to any person as described in paragraph (1)(b) a statement to the effect that the offer is not conditional on them providing any release or releases and is made without prejudice to their right, if the offer is accepted, to claim additional compensation in respect of the expropriated interest or right.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 16; 2011, c. 21, s. 137
+
+</details>
+
+### 17 Where offer accepted
+
+Where an offer of compensation has been made to any person under section 16, the full amount thereof shall, forthwith on the acceptance of the offer, be paid to that person.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 16(1st Supp.), s. 15
+
+</details>
+
+### 18 Determination respecting title
+
+(1) If the Attorney General of Canada, at any time after the registration of a notice of confirmation, is in doubt as to the persons who had any estate, interest or right in the land to which the notice relates or as to its nature or extent, the Attorney General of Canada may apply to the Court to make a determination respecting the state of the title to the land or any part of the land immediately before the registration of the notice, and to adjudge who had an estate, interest or right in the land at that time, and its nature and extent.
+
+**Hearing**
+
+(2) An application under this section shall in the first instance be made ex parte and the Court shall fix a time and place for the hearing of the persons concerned and give directions as to
+
+- (a) the persons who are to be served with the notice of the hearing, the contents of the notice and the manner of service thereof;
+
+- (b) the material and information to be submitted by the Attorney General of Canada or any other persons; and
+
+- (c) such other matters as the Court considers necessary.
+
+**Adjudication**
+
+(3) After the hearing under subsection (2), the Court shall either adjudge for the purposes of this Part what persons had any estate, interest or right in the land to which the notice of confirmation relates immediately before the registration of the notice, and its nature and extent, or direct an issue or issues to be tried for the purpose of enabling the Court to make such an adjudication.
+
+**Effect of adjudication**
+
+(4) An adjudication made by the Court for the purposes of this Part is deemed to be a final judgment of the Court and, subject to variation on appeal, if any, to finally determine for all purposes of this Part what persons had any estate, interest or right in the land to which the notice of confirmation relates immediately before the registration of the notice, and its nature and extent.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 18; 2011, c. 21, s. 138
+
+</details>
+
+### 19 Right of Crown to physical possession
+
+(1) Despite section 15, the Crown becomes entitled to take physical possession or make use of any land to which a notice of confirmation relates, to the extent of the expropriated interest or right, only at such of the following times as is applicable:
+
+- (a) at the time of the registration of the notice of confirmation, if at that time no other person who was the owner or holder of an interest or right in the land immediately before the registration of the notice of confirmation is in occupation of the land;
+
+- (b) at such time, if any, after the registration of the notice of confirmation as physical possession or use of the land to the extent of the expropriated interest or right is given up to the Crown without any notice under paragraph (c) having been sent to the persons described in that paragraph; or
+
+- (c) in any other case, at any time after the registration of the notice of confirmation that
+  - (i) the Minister has sent a notice to each of the persons appearing to have had any estate, interest or right in the land at the time of the registration of the notice of confirmation, so far as the Attorney General of Canada has been able to ascertain them, or, if an application has been made under section 18 and has been finally disposed of, to each of the persons adjudged to have had an estate, interest or right in the land immediately before the registration of the notice of confirmation, that physical possession or use is required by the Crown on and after the expiration of any period that is specified in the notice, being not less than 90 days after the day on which the notice is sent to each of those persons, and either that period has expired or physical possession or use has been given up to the Crown before the expiration of that period, and
+  - (ii) the Minister has made an offer under section 16 to each of the persons then entitled to compensation under this Part in respect of an expropriated interest or right.
+
+**If possession by Crown urgently required**
+
+(2) If, at any time before or after a notice of confirmation has been registered, the Governor in Council is of the opinion that the physical possession or use by the Crown of the land to which the notice relates to the extent of the expropriated interest or right or interest or right intended to be expropriated is, by reason of special circumstances, urgently required, the Governor in Council may direct
+
+- (a) that there be substituted for the 90 days referred to in paragraph (1)(c) any lesser number of days that in his or her opinion the circumstances require; or
+
+- (b) if an application has been made under section 18 but has not been finally disposed of, that physical possession or use may be taken or made by the Crown despite the fact that no offer has then been made under section 16.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 19; 2011, c. 21, s. 139
+
+</details>
+
+### 20 Intention to abandon expropriation — right of election to accept or reject abandonment
+
+(1) If, at any time before any compensation is paid in respect of an expropriated interest or right, the Minister is of the opinion that the interest or right is not or is no longer required by the Crown for a public work or other public purpose, or that a more limited interest or right only is so required, the Minister may give notice that he or she intends to abandon the interest or right or the remainder of the interest or rights, as the case may be, by causing a copy of the notice to be sent to each of the persons mentioned in paragraph 19(1)(c), each of whom may, within 30 days after the day a copy of the notice was sent to them, serve on the Minister a notice in writing that they elect to
+
+- (a) accept the abandonment, and have the interest or right or the remainder of the interest or rights revest in them to the extent that the abandonment would operate so that the interest or right or the remainder would revest in them; or
+
+- (b) reject the abandonment.
+
+**If election to accept abandonment**
+
+(2) If each of the persons to whom a notice is sent under subsection (1) serves a notice on the Minister under that subsection that they elect to accept the abandonment, the Minister may cause a notice of abandonment of the expropriated interest or right or the remainder of the interest or rights, as the case may be, to be sent to each of those persons and to the Attorney General of Canada, who shall immediately confirm the abandonment by causing the notice to be registered in the office of the registrar where the notice of confirmation was registered.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 20; 2011, c. 21, s. 139
+
+</details>
+
+### 21 Effect of confirmation of abandonment
+
+If an expropriated interest or right or the remainder of the interest in land or immovable real rights is confirmed to be abandoned, the expropriated interest or right then revests in the persons from whom it was taken or the persons entitled to claim on their behalf or under their direction, or the land revests in those persons subject to the more limited interest or right in the land retained by the Crown, as the case may be.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 21; 2011, c. 21, s. 139
+
+</details>
+
+### 22 Duties of registrar
+
+Every registrar shall receive and permanently preserve in their office any notices and plans that the Attorney General of Canada causes to be registered under this Part, and shall endorse on the notices and plans the day, hour and minute when they were received as the time of registration and make any entries in the records or registers that will make their registration public.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 22; 2011, c. 21, s. 140(E)
+
+</details>
+
+### 23 Notice conclusive except against Crown
+
+Unless questioned by the Crown,
+
+- (a) a document purporting to be signed by the Minister shall be deemed to have been so signed;
+
+- (b) it shall be deemed that
+  - (i) all of the interests or rights to which a notice of intention relates are,
+  - (ii) a more limited interest or right only to which a notice of confirmation relates is, or
+  - (iii) an interest or right stated in a notice of abandonment to be abandoned or the remainder of the interest or rights, as the case may be, is not or is no longer,
+  in the opinion of the Minister required by the Crown for a public work or other public purpose; and
+
+- (c) it shall be deemed that, on being caused to be registered by the Attorney General of Canada in the office of the registrar where a notice of intention to expropriate an interest in land or immovable real right was registered, a document purporting to be a notice of confirmation of the intention to expropriate that interest or right or a more limited interest or right only in the land is a notice of confirmation of that intention then registered in accordance with this Part.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 23; 2011, c. 21, s. 141
+
+</details>
+
+### 24 Evidence of notice and registration
+
+A document purporting to be certified by a registrar to be a true copy of a notice or plan registered under this Part at a time stated in the certificate is, without proof of the official character or signature of the registrar, evidence of the facts stated therein and of the registration of the notice or plan at the time so stated.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 16(1st Supp.), s. 22
+
+</details>
+
+### Compensation
+
+### 25 Right to compensation
+
+(1) Compensation is to be paid by the Crown to each person who, immediately before the registration of a notice of confirmation, was the owner or holder of an estate, interest or right in the land to which the notice relates, to the extent of their expropriated interest or right, the amount of which compensation is equal to the aggregate of
+
+- (a) the value of the expropriated interest or right at the time of its taking, and
+
+- (b) the amount of any decrease in value of the remaining property of the owner or holder, as determined under section 27.
+
+**Time as of which value to be determined**
+
+(2) For the purposes of this section and sections 26 and 27, the time of the taking of an expropriated interest or right is,
+
+- (a) if an election is made under subsection (3) by the owner or holder of the interest or right, the time specified by the owner or holder in their election; and
+
+- (b) in any other case, the time when the notice of confirmation was registered.
+
+**Election to have the value of the interest or right determined**
+
+(3) If no copy of a notice of confirmation was sent to a person whose name is set out in the report of the Attorney General of Canada referred to in subsection 5(2) or who served an objection on the Minister under section 9 until a time more than 90 days after the day on which the notice is registered, that person may, at any time before any compensation is paid to them in respect of any expropriated interest or right of which they were the owner or holder immediately before the registration of the notice of confirmation, elect to have the value of the interest or right determined, as specified by them in their election, at either
+
+- (a) the time when the notice of confirmation was registered; or
+
+- (b) the time when the copy of the notice of confirmation was sent to them.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 25; 2011, c. 21, s. 142
+
+</details>
+
+### 26 Rules for determining value
+
+(1) The rules set out in this section shall be applied in determining the value of an expropriated interest or right.
+
+**Market value defined**
+
+(2) Subject to this section, the value of an expropriated interest or right is its market value, being the amount that would have been paid for the interest or right if, at the time of its taking, it had been sold in the open market by a willing seller to a willing buyer.
+
+**If owner or holder required to give up occupation**
+
+(3) If the owner or holder of an expropriated interest or right was in occupation of any land at the time the notice of confirmation was registered and, as a result of the expropriation, it has been necessary for them to give up occupation of the land, the value of the expropriated interest or right is the greater of
+
+- (a) the market value of that interest or right determined as set out in subsection (2), and
+
+- (b) the aggregate of
+  - (i) the market value of that interest or right determined on the basis that the use to which the expropriated interest or right was being put at the time of its taking was its highest and best use, and
+  - (ii) the costs, expenses and losses arising out of or incidental to the owner’s or holder’s disturbance, including moving to other premises, but if those costs, expenses and losses cannot practically be estimated or determined, there may be allowed in their place a percentage, not more than 15, of the market value determined as set out in subparagraph (i),
+  plus the value to the owner or holder of any element of special economic advantage to them arising out of or incidental to their occupation of the land, to the extent that no other provision is made by this paragraph for the inclusion of that element in determining the value of the expropriated interest or right.
+
+**If Crown has taken physical possession of land**
+
+(4) If the Crown has taken physical possession or made use of the land referred to in subsection (3) on the expiration of a period of notice to the owner or holder shorter than the 90 days mentioned in paragraph 19(1)(c), there shall be added to the value of the expropriated interest or right otherwise determined under this section an additional amount equal to 10 per cent of that value.
+
+**If specially designed building erected on land**
+
+(5) Despite subsection (3), if any parcel of land to which a notice of confirmation relates had any building or other structure erected on it that was specially designed for use for the purpose of a school, hospital, municipal institution or religious or charitable institution or for any similar purpose, the use of which building or other structure for that purpose by the owner or holder has been rendered impracticable as a result of the expropriation, the value of the expropriated interest or right is, if that interest or right was and, but for the expropriation, would have continued to be used for that purpose and at the time of its taking there was no general demand or market for that interest or right for that purpose, the greater of
+
+- (a) the market value of the expropriated interest or right determined as set out in subsection (2), and
+
+- (b) the aggregate of
+  - (i) the cost of any reasonably alternative interest in land or immovable real right for that purpose, and
+  - (ii) the cost, expenses and losses arising out of or incidental to moving to and re-establishment on other premises, but if those costs, expenses and losses cannot practically be estimated or determined, there may instead be allowed a percentage, not exceeding 15, of the cost referred to in subparagraph (i),
+  minus the amount by which the owner or holder has improved, or may reasonably be expected to improve, their position through re-establishment on other premises.
+
+**If Crown has taken physical possession of land**
+
+(6) If the Crown has taken physical possession or made use of the parcel of land referred to in subsection (5) on the expiration of a period of notice to the owner or holder shorter than the 90 days mentioned in paragraph 19(1)(c), there shall be added to the value of the expropriated interest or right otherwise determined under this section an additional amount equal to 10 per cent of that value.
+
+**Additional factors**
+
+(7) For the purposes of subparagraphs (3)(b)(ii) and (5)(b)(ii), consideration shall be given to the time and circumstances in which a former owner or holder was allowed to continue in occupation of the land after the Crown became entitled to take physical possession or make use of it, and to any assistance given by the Minister to enable the former owner or holder to seek and obtain alternative premises.
+
+**Land used for residence**
+
+(8) If an expropriated interest or right was, immediately before the registration of a notice of confirmation, being used by its owner or holder for the purposes of their residence and the value of the interest or right otherwise determined under this section is less than the minimum amount sufficient to enable the owner or holder, at the earlier of
+
+- (a) the time of payment to them of any compensation in respect of the interest or right, otherwise than pursuant to any offer made to them under section 16, and
+
+- (b) the time when the Crown became entitled to take physical possession or make use of the land to the extent of the expropriated interest or right,
+
+to relocate their residence in or on premises reasonably equivalent to the premises expropriated, there shall be added to the value of the interest or right otherwise determined under this section the amount by which that minimum amount exceeds that value.
+
+**Moving and relocation expenses of lessee**
+
+(9) If an expropriated interest or right was, immediately before the registration of a notice of confirmation, owned or held by a lessee, there shall be substituted for the amount determined under subparagraph (3)(b)(ii) or (5)(b)(ii), or the amount by which the minimum amount referred to in subsection (8) exceeds the value of the interest or right referred to in the notice of confirmation otherwise determined under this section, as the case may be, any part of that amount that is appropriate having regard to
+
+- (a) the length of the term of the lease and the portion of the term remaining at the time at which the determination is relevant;
+
+- (b) any right or reasonable prospect of renewal of the term that the lessee had; and
+
+- (c) any investment in the land by the lessee and the nature of any business carried on by them on the land.
+
+**Land subject to security interest or real security**
+
+(10) If an expropriated interest or right was, immediately before the registration of a notice of confirmation, subject to an interest in land or immovable real right held by its owner or holder as security only, in this subsection called a “security interest” or, in Quebec, a “real security”,
+
+- (a) the value of the expropriated interest or right is the aggregate of
+  - (i) the value of the interest or right determined under this section as though it had not been subject to any security interest or real security, and
+  - (ii) the amount of any loss or anticipated loss to the owner or holder of the expropriated interest or right resulting from a difference in rates of interest during the remainder of the period for which any principal amount payable under the terms of the security was advanced, that difference to be calculated on the basis of an assumed rate of interest not greater than the prevailing rate of interest for an equivalent security, to the extent that no other provision is made by this section for the inclusion of an amount in respect of the loss or anticipated loss in determining the value of the expropriated interest or right,
+  less the value of each security interest or real security to which the expropriated interest or right was subject, determined as provided in paragraph (b) but as though no amount were included by virtue of subparagraph (b)(ii);
+
+- (b) the value of the security interest or real security is the aggregate of
+  - (i) the principal amount outstanding under the terms of the security, and any interest due or accrued under those terms, at the time of the registration of the notice of confirmation, and
+  - (ii) an amount equal to three times the interest element, calculated as a monthly amount, of any payment of interest or of principal and interest payable under the terms of the security at the rate in effect under the terms of the security immediately before the registration of the notice of confirmation,
+  and if the expropriated interest or right was subject to more than one security interest or real security, the value of each security interest or real security is to be determined in the order of its rank but in no case is the value of any security interest or real security to which an expropriated interest or right was subject to exceed the value of the expropriated interest or right otherwise determined under this section as though it had not been subject to any security interest or real security, less the value of each other security interest or real security the value of which is required by this subsection to be determined in accordance with its ranking; and
+
+- (c) if part only of the interest or a more limited right that was subject to a security interest or real security was expropriated, the value of the security interest or real security is that proportion of its value otherwise determined under this subsection as though the whole of the interest or a less limited right subject to the security interest or real security had been expropriated, that
+  - (i) the value of the part only of the interest or a more limited right, otherwise determined under this subsection as though it had not been subject to any security interest or real security,
+  is of
+  - (ii) the value of the whole of the interest or a less limited right otherwise determined under this subsection as though it had not been subject to any security interest or real security
+  less the same proportion of the interest element of any payment made under the terms of the security, between the time of the registration of the notice of confirmation and the time of payment of any compensation in respect of the security interest or real security otherwise than pursuant to any offer made to its owner or holder under section 16.
+
+**Factors not to be taken into account**
+
+(11) In determining the value of an expropriated interest or right, no account is to be taken of
+
+- (a) any anticipated or actual use by the Crown of the land at any time after the expropriation;
+
+- (b) any value established or claimed to be established by or by reference to any transaction or agreement involving the lease or disposition of the interest or right, or any part of the interest or a more limited right, where the transaction or agreement was entered into after the registration of the notice of intention to expropriate;
+
+- (c) any increase or decrease in the value of the interest or right resulting from the anticipation of expropriation by the Crown or from any knowledge or expectation, before the expropriation, of the public work or other public purpose for which the interest or right was expropriated; or
+
+- (d) any increase in the value of the interest or right resulting from its having been put to a use that was contrary to law.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 26; 2011, c. 21, s. 142
+
+</details>
+
+### 27 Decrease in value of remaining property where severance
+
+(1) The amount of the decrease in value, if any, of the remaining property of an owner or holder is the value of all of their interests in land or immovable real rights immediately before the time of the taking of the expropriated interest or right, determined as provided in section 26, minus the aggregate of
+
+- (a) the value of the expropriated interest or right, and
+
+- (b) the value of all their remaining interests in land or immovable real rights immediately after the time of the taking of the expropriated interest or right.
+
+**Factors to consider in determining change in value of remaining property**
+
+(2) For the purpose of paragraph (1)(b), the value of the owner’s or holder’s remaining interests in land or immovable real rights immediately after the time of the taking of the expropriated interest or right is to be determined as provided in section 26, except that, in determining that value, account is to be taken of any increase or decrease in the value of any remaining interests in land or immovable real rights that immediately before the registration of the notice of confirmation were held by the owner or holder together with the expropriated interest or right, resulting from the construction or use or anticipated construction or use of any public work on the land to which the notice relates or from the use or anticipated use of that land for any public purpose.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 27; 2011, c. 21, s. 142
+
+</details>
+
+### 28 Additional factors to be taken into account
+
+(1) The fact of
+
+- (a) an abandonment or revesting under this Part of an interest in land or an immovable real right or of the remainder of the interest or rights, or
+
+- (b) any undertaking given on behalf of the Crown by the Minister, or by any other person within the scope of the Minister’s authority, to make any alteration, construct any work or grant or concede or transfer any other land or interest in land or immovable real right,
+
+shall be taken into account, in connection with all other circumstances of the case, in determining the amount to be paid to any person claiming compensation for an expropriated interest or right.
+
+**Compensation payable if intention to expropriate abandoned**
+
+(2) If an intention to expropriate an interest in land or immovable real right or the remainder of the interest or rights has been abandoned, the compensation payable by the Crown to its owner or holder is the amount of any actual loss sustained by the owner or holder, after the time when the notice of intention was registered and before the time when the abandonment of the intention, or the intention to expropriate a more limited interest or right, as the case may be, was confirmed, in consequence of the registration
+
+- (a) of the notice of intention, if the intention to expropriate the interest or right has been abandoned; or
+
+- (b) of the notice of intention in so far as that notice relates to the remainder of the interest or rights, if the intention to expropriate the remainder has been abandoned.
+
+**Application of sections 31 and 32**
+
+(3) In relation to the compensation described in subsection (2), the provisions of sections 31 and 32 apply with such modifications as the circumstances require, and as though for the reference in paragraph 31(1)(a) to “the registration of the notice of confirmation” there were substituted a reference to the confirmation of the abandonment of the intention.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 28; 2011, c. 21, s. 143
+
+</details>
+
+### 29 Legal, appraisal and other costs to be paid by Crown
+
+(1) The Crown shall pay to each person entitled to compensation under this Part an amount equal to the legal, appraisal and other costs reasonably incurred by him in asserting a claim for that compensation, except any of those costs incurred after the institution of any proceedings under sections 31 and 32.
+
+**Taxing**
+
+(2) The costs provided for in subsection (1) may be taxed by the official responsible for taxing costs in the Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 16(1st Supp.), s. 27
+
+</details>
+
+### Payment of Compensation
+
+### 30 Notice to negotiate settlement of compensation payable
+
+(1) If, after an offer of compensation in respect of an expropriated interest or right has been made under section 16 to any person entitled to compensation, that person and the Minister are unable to agree on the amount of the compensation, either the person or the Minister may, within 60 days after the day on which the offer is made, serve on the other a notice to negotiate settlement of the compensation to which the person is then entitled.
+
+**Stay of proceedings**
+
+(2) If a notice has been served as provided in subsection (1), no proceedings under sections 31 and 32 are to be instituted, or if instituted are to be proceeded with, by or on behalf of either the person entitled to compensation or the Attorney General of Canada in respect of the expropriation, until the expiration of 60 days after the day on which the notice is served, unless before the expiration of those 60 days the negotiator to whom the matter is referred under subsection (4) has made a report to the Minister that he or she has been unable to effect a settlement and has sent a copy of the report to the person entitled to compensation.
+
+**Appointment of negotiators; remuneration, etc.**
+
+(3) The Governor in Council, on the recommendation of the Attorney General of Canada, may appoint one or more suitable persons, who are not persons employed in the public service as defined in subsection 3(1) of the *Public Service Superannuation Act*, to act as negotiators for the purposes of this section, and may fix and authorize payment of the remuneration and expenses to be paid to those persons for any period while they are so acting.
+
+**Reference to negotiator**
+
+(4) Immediately after any notice to negotiate is served on the Minister or a person entitled to compensation in accordance with this section, the Minister shall refer the matter to a negotiator appointed under subsection (3) who shall, on reasonable notice to that person and the Minister, meet with them or their authorized representatives, make any inspection of the land that he or she deems necessary, receive and consider any appraisals, valuations or other written or oral evidence submitted to him or her on which either the person or the Minister relies for his or her estimation of the amount of the compensation payable, whether or not the evidence would be admissible in proceedings before a court, and endeavour to effect a settlement of the compensation payable.
+
+**Report of negotiator**
+
+(5) The negotiator shall, within 60 days after the day on which the notice to negotiate is served, report to the Minister his or her success or failure in the matter of the negotiation, and shall thereupon send a copy of his or her report to the person entitled to compensation.
+
+**Statements in course of negotiation**
+
+(6) Evidence of anything said or of any admission made in the course of a negotiation under this section is not admissible in any proceedings before a court for the recovery or determination of the compensation payable to the person entitled to it.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 30; 2003, c. 22, s. 225(E); 2011, c. 21, s. 144
+
+</details>
+
+### 31 Proceedings to determine compensation
+
+(1) Subject to section 30,
+
+- (a) a person entitled to compensation in respect of an expropriated interest or right may,
+  - (i) at any time after the registration of the notice of confirmation, if no offer under section 16 has been accepted by him, and
+  - (ii) within one year after the acceptance of the offer, in any other case,
+  commence proceedings in the Court by statement of claim for the recovery of the amount of the compensation to which he is then entitled; or
+
+- (b) the Attorney General of Canada may at any time after the registration of the notice of confirmation, whether or not proceedings under paragraph (a) have been commenced, file a notice in the matter in the Court setting out
+  - (i) the particulars of the expropriation in relation to any parcel of land to which the notice of confirmation relates,
+  - (ii) the names, so far as they have been ascertained, of each of the persons entitled to compensation in respect of an expropriated interest or right and the names of the persons who are to be parties to the proceedings,
+  - (iii) the amount of any offer made under section 16 to any of the persons who are to be parties to the proceedings, and
+  - (iv) such further facts as appear to be relevant.
+
+**Notice filed in Court**
+
+(2) A notice filed in the Court under subsection (1) shall be deemed to commence an action or suit, involving the persons stated therein to be parties to the proceedings, for the final determination of the compensation payable or any other matter or issue arising out of the registration of the notice of confirmation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 31; 2011, c. 21, s. 145
+
+</details>
+
+### 32 Statement of claim
+
+(1) Each person stated in a notice filed in the Court under subsection 31(1) to be a party to the proceedings shall, within a period of thirty days after the day the notice is served on him or within such further time as the Court or a judge thereof may allow either before or after the expiration of that period, serve on the Attorney General of Canada and file in the Court a statement of claim in the proceedings.
+
+**Statement of defence**
+
+(2) The Attorney General of Canada shall, within a period of thirty days after the day on which a statement of claim referred to in subsection (1) was served on him, or, if more than one such statement was served on him, the latest day on which any of those statements was served on him, or within such further time as the Court or a judge thereof may allow either before or after the expiration of that period, serve on each person serving a statement of claim and file in the Court a statement of defence or answer thereto.
+
+**Procedure**
+
+(3) Subject to this section and section 31, an action or suit commenced as described in subsection 31(2) shall be proceeded with in accordance with the Rules and Orders of Practice and Procedure before the Court and as if the proceedings had been commenced by statement of claim filed by a person stated in a notice filed in the Court under subsection 31(1) to be a party to the proceedings.
+
+**Where application under section 18 pending**
+
+(4) Where an application has been made under section 18 and, at the time any proceedings arising out of the expropriation to which the application relates are commenced by statement of claim as described in paragraph 31(1)(a), the application has not been finally disposed of, the proceedings shall be stayed until the application is finally disposed of.
+
+**Judgment as bar to further claims**
+
+(5) A judgment, whether by consent, default or otherwise, in any proceedings under this section or section 31 bars all further claims of the parties and of any persons claiming on their behalf or under their direction, including any claim in respect of dower or of dower not yet open or in respect of any mortgage, hypothec or other right, and the Court shall declare the amount of compensation payable and make any order for the distribution, payment or investment of any compensation money, and for the securing of the rights of all persons interested, that may be necessary.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 32; 2011, c. 21, s. 146
+
+</details>
+
+### 33 Character of compensation
+
+(1) Any compensation agreed to be payable or the compensation adjudged by the Court under this Part to be payable in respect of an expropriated interest or right stands in lieu of the interest or right.
+
+**Effect of payment in case of security interest or real security**
+
+(2) Any compensation agreed to be payable or the compensation adjudged by the Court under this Part to be payable in respect of a security interest or real security described in subsection 26(10) is, for all purposes as between the owner or holder of the interest or right, subject to the security interest or real security and the owner or holder of the security interest or real security, to be deemed to discharge any liability, under the terms of the security, of the owner or holder of the interest or right, subject to the security interest or real security, to the extent of the compensation so agreed or adjudged to be payable, and, if any amount or proportion of any amount described in subparagraph 26(10)(b)(ii) is included in the compensation, to be in full satisfaction of any notice or bonus required under the terms of the security in respect of its prepayment resulting from the expropriation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 33; 2011, c. 21, s. 147
+
+</details>
+
+### 34 Crown in position of purchaser
+
+If any compensation in respect of an expropriated interest or right has been paid to a person of whose right to claim compensation the Crown had notice at the time of payment, no compensation is payable to another person, whether that other person’s interest or right is derived from the person to whom compensation has been paid or otherwise, if under the law of the province in which the land is situated the interest or right giving rise to the claim to compensation of that other person would have been void or, in Quebec, null or unenforceable against the Crown had the Crown, at the time the notice of intention was registered, been a purchaser of the expropriated interest or right.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 34; 2011, c. 21, s. 147
+
+</details>
+
+### 35 Set-off and recovery of excess compensation
+
+If any compensation has been paid to a person in respect of an expropriated interest or right pursuant to an offer made to them under section 16, the amount so paid to that person is to be deducted from the amount of the compensation adjudged by the Court under this Part to be payable to them in respect of that interest or right, and when the paid amount exceeds the amount so adjudged to be payable, the excess constitutes a debt due to the Crown and may be recovered by the Crown in any court of competent jurisdiction.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 35; 2011, c. 21, s. 147
+
+</details>
+
+### 35.1 Exception
+
+(1) Notwithstanding any other provision of this Act, any dispute as to the compensation payable in respect of an expropriated interest in land described in subsection 4(4) or (5) may be heard and determined only by the Yukon Surface Rights Board under and in accordance with the *Yukon Surface Rights Board Act*.
+
+**Provisions applicable**
+
+(2) Subsection 16(2) and sections 33, 35 and 36 apply, with such modifications as the circumstances require, in respect of compensation determined by the Yukon Surface Rights Board as if that compensation were compensation adjudged by the Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, c. 43, s. 86
+
+</details>
+
+### Interest
+
+### 36 Definitions
+
+(1) In this section,
+
+**basic rate** means a rate determined in the manner prescribed by any order made from time to time by the Governor in Council for the purposes of this section, being not less than the average yield, determined in the manner prescribed by that order, from Government of Canada treasury bills; (**taux de base**)
+
+**compensation** means the amount adjudged by the Court under this Part to be payable in respect of an expropriated interest or right; (**indemnité**)
+
+**date of possession** means the day on which the Crown became entitled to take physical possession or make use of the land to which a notice of confirmation relates; (**date de la possession**)
+
+**date of the offer** means the day on which an offer was accepted; (**date de l’offre**)
+
+**offer** means an offer under section 16. (**offre**)
+
+**Interest payable by Crown**
+
+(2) Interest is payable by the Crown at the basic rate on the compensation, from the date of possession to the date judgment is given, except where an offer has been accepted.
+
+**Interest payable where offer accepted**
+
+(3) Where an offer has been accepted, interest is payable by the Crown from the date of the offer to the date judgment is given,
+
+- (a) at the basic rate on the amount by which the compensation exceeds the amount of the offer, and
+
+- (b) in addition, at the rate of five per cent per annum on the compensation, if the amount of the offer is less than ninety per cent of the compensation,
+
+and where an offer has been accepted after the date of possession, interest is payable at the basic rate on the compensation, from the date of possession to the date of the offer.
+
+**Additional interest where delay in offer**
+
+(4) Where an offer is not made until after the expiration of the applicable period described in paragraph 16(1)(b) for the making of the offer, interest, in addition to any interest payable under subsection (2) or (3), is payable by the Crown at the rate of five per cent per annum on the compensation, from the expiration of that period to the day on which an offer is made.
+
+**Discretion of Court where delay**
+
+(5) Where the Court is of opinion that any delay in the final determination of the compensation is attributable in whole or in part to any person entitled thereto, or that the person has failed to deliver up possession within a reasonable time after demand, the Court may, for the whole or any part of any period for which he would otherwise be entitled to interest, refuse to allow him interest, except that the Court shall not so refuse by reason only that an offer made to him was not accepted.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 36; 2011, c. 21, s. 148
+
+</details>
+
+### Entry and Possession
+
+### 37 Entry for inspection appraisal
+
+(1) If a notice of intention has been registered, any person authorized in writing in that behalf by the Minister may, at any reasonable time on notice to a person in occupation of the land to which the notice relates, enter on the land for the purpose of making any inspection of the land that they are authorized by this Part to make, or for the purpose of making an appraisal of the value of the land or any interest in land or immovable real right.
+
+**Prevention, etc., of entry**
+
+(2) Every one who, without lawful excuse, prevents any person from or obstructs or hinders any person in doing any thing that that person is authorized by subsection (1) to do is guilty of an offence punishable on summary conviction.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 37; 2011, c. 21, s. 149
+
+</details>
+
+### 38 Warrant for possession
+
+(1) When the Minister, or a person acting for the Minister, is prevented from entering on or taking physical possession or making use of any land to the extent of any expropriated interest or right under this Part, a judge of the Court or any judge of a superior court of a province may, on proof of the expropriation and, when required, of the right of the Crown to take physical possession or make use of it, and after notice to show cause given in any manner and to any persons who shall be parties to the proceedings that the judge prescribes, issue a warrant in accordance with the form set out in the schedule to the appropriate sheriff directing that the Minister, or a person authorized to act for the Minister, be put in physical possession of the land to the extent of the expropriated interest or right.
+
+**Execution of warrant**
+
+(2) The sheriff shall forthwith execute a warrant issued to him under this section and shall make return of the warrant to the court to which the judge who issued it belongs, and of the manner in which it was executed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 38; 2011, c. 21, s. 150
+
+</details>
+
+### Costs
+
+### 39 Costs
+
+(1) Subject to subsection (2), the costs of and incident to any proceedings in the Court under this Part are in the discretion of the Court or, in the case of proceedings before a judge of the Court or a judge of the superior court of a province, in the discretion of the judge, and the Court or the judge may direct that the whole or any part of those costs be paid by the Crown or by any party to the proceedings.
+
+**Costs payable by the Crown**
+
+(2) If the amount of the compensation adjudged under this Part to be payable to a party to any proceedings in the Court under sections 31 and 32 in respect of an expropriated interest or right does not exceed the total amount of any offer made under section 16 and any subsequent offer made to the party in respect of that interest or right before the commencement of the trial of the proceedings, the Court shall, unless it finds the amount of the compensation claimed by the party in the proceedings to have been unreasonable, direct that the whole of the party’s costs of and incident to the proceedings be paid by the Crown, and if the amount of the compensation so adjudged to be payable to the party exceeds that total amount, the Court shall direct that the whole of the party’s costs of and incident to the proceedings, determined by the Court on a solicitor and client basis, be paid by the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 39; 2011, c. 21, s. 151
+
+</details>
+
+## Use of Lands
+
+### 40 Powers of Minister
+
+A Minister, or any other person with the written consent of the Minister, may, on seven days notice sent to the owner thereof,
+
+- (a) enter into and on any land and survey and take levels of the land, and make such borings or sink such trial pits as the Minister or other person deems necessary for any purpose related to a public work;
+
+- (b) enter on any land and deposit thereon earth, stones, gravel, trees, bushes, logs, poles, brushwood or other material required for a public work, or for the purpose of digging up, quarrying and carrying away earth, stones, gravel or other material, and cutting down and carrying away trees, bushes, logs, poles, brushwood or other material therefrom, for the construction, repair or maintenance of a public work;
+
+- (c) make and use all such temporary roads to and from timber, stones, clay, gravel or sand or gravel pits as are required by the Minister or other person for the convenient passing to and from a public work during the construction, repair or maintenance thereof;
+
+- (d) enter on any land for the purpose of making proper drains to carry off water from a public work or for keeping those drains in repair;
+
+- (e) divert or alter, temporarily or permanently, the course of any river or other watercourse or any railway, road, street or other way, or raise or sink its level, in order to carry it over or under, on the level of or by the side of a public work, as the Minister or other person deems necessary for any purpose related to that work; and
+
+- (f) for the purposes of a public work, divert or alter the position of any water pipe, oil or gas pipe, sewer or drain, or any telegraph, telephone or electric wire, pole or tower.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 16(1st Supp.), s. 37
+
+</details>
+
+### 41 Removal and replacement of wall, fence, etc.
+
+Whenever it is necessary, in the construction, repair or maintenance of a public work, to take down or remove any wall or fence of any owner or occupier of land adjoining a public work, or to construct any drain or ditch for carrying off water, the wall or fence shall be replaced as soon as the necessity that caused its taking down or removal has ceased, and after it has been so replaced, or when the drain or ditch is completed, the owner or occupier of the land shall maintain the wall, fence, drain or ditch to the same extent as he might by law be required to do if the wall or fence had never been so taken down or removed, or the drain or ditch had always existed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 16(1st Supp.), s. 38
+
+</details>
+
+### 42 Use of explosives
+
+(1) Where the Crown has contracted with any person for the construction or execution of any public work, or where, by direction of the Governor in Council, or of a Minister within the scope of the powers of the Minister, any officer, employee or agent of the Crown is charged with the construction or execution of any public work, the Governor in Council may, if in the opinion of the Governor in Council it is necessary or expedient that any material be excavated or removed by blasting or the use of explosives, authorize the work to be performed in that manner, notwithstanding that the blasting or explosions may cause damage to land or other property or to the prosecution of any industry or work that is situated in the vicinity of the work or that may be thereby affected.
+
+**Notice and application for review**
+
+(2) Notice of the authorization of any work in the manner set out in subsection (1) shall be sent at least seven days in advance to the owner of any land or other property or to any person carrying on any industry or work that may be affected by the work, and that owner or person may, within seven days after the sending of the notice to him, apply to the Governor in Council or to any person designated by him for a review of the authorization.
+
+**Compensation for damages**
+
+(3) If the construction or execution of a public work is contracted for, then, unless the contract otherwise provides, the amount of compensation payable by the Crown is chargeable to the contractor, and, if not paid by him forthwith on demand, may be recovered from him by the Crown as money paid to the contractor’s use, or may be deducted from any money in the hands of the Crown belonging or payable to the contractor.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 16(1st Supp.), s. 39
+
+</details>
+
+### 43 Crown liable to pay compensation as though no defence of statutory authority
+
+Compensation shall be paid by the Crown to each person by whom any actual loss or damage is sustained by reason of the exercise of any power under this Part, equal to the amount of any such loss or damage for which the Crown would be liable to that person if the power had not been exercised under the authority of a statute.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 16(1st Supp.), s. 40
+
+</details>
+
+## General
+
+### 44 Appointment of trustee, etc., to act for persons under disability
+
+(1) The Court may, when a trustee, guardian or tutor, curator, or someone else representing any person who is incapable or any other persons including issue unborn is unable or unwilling to act on their behalf or where any such person or persons including issue unborn are not so represented, after any notice that the Court may direct, appoint a trustee, guardian or tutor, curator, or other representative to act on their behalf for the purposes of this Act.
+
+**Protection of beneficiaries**
+
+(2) The Court in making any appointment under subsection (1) may give such directions with respect to the disposal, application or investment of any compensation payable under this Act as it deems necessary to secure the interests of all persons having a claim thereto.
+
+**Contract, etc., binding**
+
+(3) Any contract, agreement, release or receipt made or given by any person appointed under subsection (1) and any instrument or act of transfer made or given in pursuance of the contract or agreement is binding for all purposes on the person by whom and any person or persons including issue unborn on behalf of whom the contract, agreement, release or receipt is made or given.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, s. 44; 2011, c. 21, s. 152
+
+</details>
+
+
+## SCHEDULE
+
+(Subsection 38(1))
+
+WarrantIN THE MATTER OFthe *Expropriation Act*of CanadaProvince ofor TerritoryAND IN THE MATTER OF...To :The sheriff of the  ...Whereas the appropriate Minister in relation to Part I of the *Expropriation Act* or a person acting for him or her has been prevented from entering on or taking physical possession of the land described as follows, to the extent of any expropriated interest or right in that land under the Act:And whereas the proof required by section 38 of the Act has been made before me;This is therefore to command you in Her Majesty’s name to immediately put the Minister or the person authorized to act for him or her in physical possession of the said land to the extent of the expropriated interest or right in that land and make return of this Warrant to the (*name of court*) and of the manner in which it was executed.Given under my hand this  ...  day of  ... , 20 ......Judge
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-21, Sch.; 2011, c. 21, s. 153
+
+</details>
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2002, c. 7, ss. 167, 168
+
+### 167 1994, c. 43, s. 84
+
+Subsection 4(4) of the *Expropriation Act* is replaced by the following:
+
+### — 2002, c. 7, ss. 167, 168
+
+### 168 1994, c. 43, s. 86
+
+Section 35.1 of the Act is replaced by the following:

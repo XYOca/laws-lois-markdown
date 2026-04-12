@@ -1,0 +1,2559 @@
+---
+title: "Loi sur les allocations de retraite des parlementaires"
+long_title: "Loi procurant des allocations de retraite, sur une base contributive, aux personnes qui ont siégé au Parlement"
+chapter: "M-5"
+language: "en"
+type: "act"
+---
+
+# Loi sur les allocations de retraite des parlementaires
+
+> Loi procurant des allocations de retraite, sur une base contributive, aux personnes qui ont siégé au Parlement
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur les allocations de retraite des parlementaires*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. M-10, art. 1
+
+</details>
+
+## Définitions et champ d’application
+
+### 2 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente loi.
+
+**actuaire en chef** L’actuaire en chef du Bureau du surintendant des institutions financières. (**Chief Actuary**)
+
+**compte d’allocations** Le compte d’allocations de retraite des parlementaires prorogé par l’article 3. (**Retiring Allowances Account**)
+
+**compte de convention** Le compte de convention de retraite des parlementaires visé à l’article 27. (**Compensation Arrangements Account**)
+
+**enfant** L’enfant, le beau-fils ou la belle-fille du parlementaire — actuel ou ancien —, ou la personne adoptée légalement ou de fait par lui qui, selon le cas :
+  - a) est âgé de moins de dix-huit ans;
+  - b) est âgé de dix-huit ans ou plus mais de moins de vingt-cinq ans et fréquente à plein temps une école ou une université au sens des règlements, et ce sans interruption appréciable depuis la date de ses dix-huit ans ou, s’il est postérieur à cette date, depuis le décès du parlementaire. (**child**)
+
+**facteur de réduction** À l’égard d’un ancien parlementaire, le nombre obtenu au moyen du calcul visé à l’élément D du paragraphe 37.3(2). (**reduction factor**)
+
+**gains maximums** Pour une ou plusieurs sessions d’une année civile et à l’égard d’un parlementaire :
+  - a) pour toute année civile antérieure à 2016, la somme prise en compte pour l’acquisition de prestations au cours de cette année dans le cadre d’un régime de pension agréé suivant la *Loi de l’impôt sur le revenu*, et calculée par division du plafond des prestations déterminées pour cette année par 0,02;
+  - b) pour l’année civile 2016 et toute année civile subséquente, la somme obtenue par la formule ci-après, arrondie au multiple supérieur de cent dollars :
+
+**gains ouvrant droit à pension** À l’égard d’un parlementaire pour une année civile, le total de ses gains suivants :
+  - a) l’indemnité de session pour l’année civile;
+  - b) toute indemnité annuelle à payer pour l’année civile;
+  - c) tout traitement à payer pour l’année civile. (**pensionable earnings**)
+
+**indemnité annuelle** Indemnité annuelle à payer à un parlementaire au titre des articles 62, 62.3 ou 62.4 de la *Loi sur le Parlement du Canada* ou, en qualité de vice-président ou vice-président adjoint de comité, au titre d’une loi de crédits fédérale. (**annual allowance**)
+
+**indemnité de session**
+  - a) Pour une période antérieure au 8 octobre 1970, les allocations payables à un parlementaire en application de l’article 55 et du paragraphe 63(3) de la *Loi sur le Parlement du Canada*, dans sa version à l’entrée en vigueur du présent alinéa;
+  - b) pour une période comprise entre le 7 octobre 1970 et le 8 juillet 1974 exclus :
+    - (i) s’il s’agit d’un sénateur, les cinq sixièmes des allocations payables à un parlementaire en application de l’article 55 de la *Loi sur le Parlement du Canada*,
+    - (ii) s’il s’agit d’un député, les allocations payables à un parlementaire en application de l’article 55 de la *Loi sur le Parlement du Canada*;
+  - c) pour une période postérieure au 7 juillet 1974, les allocations à payer à un parlementaire au titre des articles 55 ou 55.1 de la *Loi sur le Parlement du Canada*. (**sessional indemnity**)
+
+**ministre** Le président du Conseil du Trésor. (**Minister**)
+
+**moyenne annuelle de l’indemnité de session** Indemnité de session annuelle moyenne reçue par un parlementaire pendant toute période de cinq ans de service validable choisie par lui ou pour son compte ou pendant des périodes consécutives de service validable ainsi choisies totalisant cinq ans. (**average annual sessional indemnity**)
+
+**moyenne annuelle des gains ouvrant droit à pension** Moyenne annuelle des gains ouvrant droit à pension reçus par un parlementaire en cette qualité pendant toute période de cinq ans de service validable choisie par lui ou pour son compte ou pendant des périodes consécutives de service validable ainsi choisies totalisant cinq ans. (**average annual pensionable earnings**)
+
+**moyenne des maximums des gains ouvrant droit à pension** À l’égard d’un ancien parlementaire, moyenne des maximums des gains annuels ouvrant droit à pension, au sens du paragraphe 2(1) du *Régime de pensions du Canada*, pour l’année  —  et pour chacune des quatre années précédentes  —  où s’est produit le premier en date des événements suivants :
+  - a) le parlementaire a perdu sa qualité de parlementaire;
+  - b) il est devenu admissible à une allocation de retraite conformément au *Régime de pensions du Canada* ou d’un régime provincial de pensions semblable. (**average maximum pensionable earnings**)
+
+**parlementaire** Sénateur ou député. (**member**)
+
+**pension de réversion**[Abrogée, 2000, ch. 12, art. 176]
+
+**plafond des prestations déterminées**
+  - a) Pour une année civile antérieure à 1995, 1 722,22 $;
+  - b) pour toute année civile à compter de 1995, le montant prévu par règlement. (**defined benefit limit**)
+
+**session** Session du Parlement. (**session**)
+
+**survivant** Personne qui, selon le cas :
+  - a) était unie par les liens du mariage :
+    - (i) à un parlementaire, actuel ou ancien, à son décès,
+    - (ii) à un ancien parlementaire au moment où il a perdu sa qualité de parlementaire;
+  - b) établit qu’elle cohabitait dans une union de type conjugal :
+    - (i) depuis au moins un an, avec un parlementaire, actuel ou ancien, à son décès,
+    - (ii) avec un ancien parlementaire au moment où il a perdu sa qualité de parlementaire. (**survivor**)
+
+**traitement** Traitement à payer à un parlementaire au titre des articles 4 ou 4.1 de la *Loi sur les traitements*, des articles 60, 61, 62.1 ou 62.2 de la *Loi sur le Parlement du Canada* ou, en qualité de ministre d’État ou de ministre sans portefeuille, au titre d’une loi de crédits fédérale. (**salary**)
+
+**version antérieure** La présente loi dans sa version au 31 décembre 1991. (**former Act**)
+
+**Calcul de la moyenne annuelle de l’indemnité de session**
+
+(2) Pour le calcul de la moyenne annuelle de l’indemnité de session d’un parlementaire, toute période pendant laquelle, suivant les alinéas 12(1)b) ou c) ou 34(1)b), dans leur version antérieure au 1^er^ janvier 2013, il n’est pas prélevé de cotisations à l’égard de son indemnité de session est réputée être une période de service validable à son crédit.
+
+**Calcul de la moyenne annuelle de l’indemnité de session**
+
+(2.1) Pour le calcul de la moyenne annuelle de l’indemnité de session d’un parlementaire, toute période pendant laquelle il doit cotiser en vertu du paragraphe 12(2) ou devrait cotiser en vertu de ce paragraphe s’il était âgé de moins de soixante et onze ans est réputée être une période de service validable à son crédit.
+
+**Calcul de la moyenne annuelle des gains ouvrant droit à pension**
+
+(2.2) Pour le calcul de la moyenne annuelle des gains ouvrant droit à pension d’un parlementaire, toute période pendant laquelle il doit cotiser en vertu du paragraphe 12(2.1) ou devrait cotiser en vertu de ce paragraphe s’il était âgé de moins de soixante et onze ans est réputée être une période de service validable à son crédit.
+
+**Application des parties I à V aux sénateurs**
+
+(3) Les parties I à V, sauf l’article 58, ne s’appliquent qu’aux sénateurs nommés après le 1^er^ juin 1965.
+
+**Application générale aux parlementaires**
+
+(4) Pour l’application de la présente loi, les députés conservent leur qualité de parlementaire à la dissolution de la Chambre des communes, mais la perdent, sauf nomination dans l’intervalle au Sénat, à la date des élections générales suivantes s’ils ne sont pas réélus.
+
+**Idem**
+
+(5) En tout état de cause, toute allocation payable au titre de la présente loi, à l’exception de l’allocation de retrait constitue une annuité versée à compter de la date où l’intéressé y a droit.
+
+**Pouvoir de fixer un nombre**
+
+(6) L’actuaire en chef peut, en tenant compte du pourcentage fixé pour l’application du paragraphe 17.1(2), fixer un nombre pour l’application de l’élément B à l’alinéa b) de la définition de **gains maximums** au paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 2; 1992, ch. 46, art. 81; 1995, ch. 30, art. 1; 1999, ch. 34, art. 224; 2000, ch. 12, art. 176; 2001, ch. 20, art. 14; 2005, ch. 16, art. 14; 2012, ch. 22, art. 2
+- 2022, ch. 10, art. 244
+
+</details>
+
+## Choix relatif à l’adhésion
+
+### 2.1 Continuation des cotisations
+
+(1) Le député en poste au cours de la trente-cinquième législature et qui cotise au titre des paragraphes 9(1) ou (2), 11(1), 12(2), 31(1), (2) ou (3), 33(1) ou (2) ou 34(2) ou de l’article 47 à l’entrée en vigueur du présent article peut, dans les soixante jours suivant la date de cette entrée en vigueur, choisir de continuer de cotiser, suivant le paragraphe 56(2), au titre des dispositions qui lui sont applicables au moment du choix.
+
+**Début des cotisations**
+
+(2) La personne qui devient député après l’entrée en vigueur du présent article et au cours de la trente-cinquième législature peut, dans les soixante jours suivant le premier jour de séance de la Chambre des communes qui suit son élection, choisir, suivant le paragraphe 56(2), de cotiser à compter de la date de celle-ci, au titre de celles des dispositions suivantes qui lui sont applicables : les paragraphes 9(1) et (2), 12(2), 31(1), (2) et (3) et 34(2) et l’article 47.
+
+**Exception**
+
+(3) Le paragraphe (2) ne s’applique pas à la personne qui avait le droit d’exercer le choix prévu au paragraphe (1) et ne l’a pas fait.
+
+**Irrévocabilité**
+
+(4) Les choix prévus au présent article sont irrévocables.
+
+**Présomption d’exercice du choix**
+
+(5) Les présomptions suivantes s’appliquent dans le cadre de la présente loi :
+
+- a) le parlementaire qui a le droit d’exercer un choix suivant le paragraphe (1) et qui meurt avant de l’avoir fait est réputé avoir choisi, immédiatement avant son décès, de continuer de cotiser au titre des dispositions qui lui étaient applicables à ce moment;
+
+- b) la personne qui a le droit d’exercer un choix suivant le paragraphe (2) et qui meurt avant de l’avoir fait est réputée avoir choisi, immédiatement avant son décès, de cotiser au titre des dispositions qui lui auraient été applicables.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, ch. 30, art. 2
+
+</details>
+
+### 2.2 Application de la loi aux parlementaires exerçant leur choix
+
+La présente loi continue de s’appliquer aux parlementaires qui ont exercé l’un des choix prévus à l’article 2.1.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, ch. 30, art. 2
+
+</details>
+
+### 2.3 Application de la loi aux parlementaires qui n’ont pas exercé leur choix
+
+(1) Sous réserve des autres dispositions du présent article et des articles 2.4 et 2.5, la présente loi cesse de s’appliquer au parlementaire qui avait le droit d’exercer l’un des choix prévus à l’article 2.1 et ne l’a pas fait.
+
+**Indemnité de retrait**
+
+(2) Il est versé, en une somme forfaitaire, au parlementaire visé au paragraphe (1) une indemnité de retrait égale au total des éléments suivants :
+
+- a) les cotisations qu’il a versées au titre de la présente loi et des parties I, III et IV de la version antérieure;
+
+- b) l’intérêt qu’il a versé sur ces cotisations au titre de l’article 11 ou des alinéas 33(1)c) ou (2)b) de la présente loi ou de l’article 23 de la version antérieure.
+
+**Réduction**
+
+(3) L’indemnité de retrait payable au parlementaire qui avait eu cette qualité pendant au moins six ans au 25 octobre 1993 est réduite du montant des cotisations — et des intérêts afférents — que celui-ci a versées à l’égard de la période de service validable — attribuable à sa qualité de parlementaire — antérieure à cette date.
+
+**Intérêts**
+
+(4) Les intérêts à verser sur l’indemnité de retrait sont calculés selon les modalités prévues au paragraphe 63(2) comme si les alinéas (2)a) et b) étaient mentionnés à l’alinéa 63(2)a), la mention de l’année où le sénateur ou député perd sa qualité de parlementaire valant mention de l’année où l’indemnité devient payable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, ch. 30, art. 2
+
+</details>
+
+### 2.4 Retour au régime
+
+(1) La présente loi s’applique de nouveau au parlementaire, visé au paragraphe 2.3(1), qui perd sa qualité de parlementaire et l’acquiert de nouveau au cours de la trente-sixième législature ou d’une législature ultérieure.
+
+(2) [Abrogé, 1998, ch. 23, art. 9]
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, ch. 30, art. 2; 1998, ch. 23, art. 9
+
+</details>
+
+### 2.5 Retrait et droits antérieurs
+
+(1) L’article 11, le paragraphe 12(3), les articles 13, 16, 17, 19 à 26, 33, 35 à 37, 39 à 46 et 48 à 55, le paragraphe 56(2) et les articles 57 à 63 de la présente loi et l’article 23 de la version antérieure continuent de s’appliquer, avec les adaptations nécessaires, au parlementaire, visé au paragraphe 2.3(1), qui avait eu la qualité de parlementaire pendant au moins six ans au 25 octobre 1993.
+
+**Présomption**
+
+(2) Pour l’application des dispositions mentionnées au paragraphe (1), le parlementaire est réputé n’avoir reçu aucune indemnité de session après le 24 octobre 1993.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, ch. 30, art. 2
+
+</details>
+
+### 2.6 Choix relatif à l’adhésion
+
+(1) Le député en poste qui avait le droit d’exercer le choix prévu à l’article 2.1 et ne l’a pas fait peut, dans les 90 jours qui suivent l’entrée en vigueur du présent article, choisir de se soumettre de nouveau à l’application de la présente loi.
+
+**Applicabilité**
+
+(2) Le paragraphe (1) ne s’applique qu’au député en poste au moment de l’entrée en vigueur du présent article et qui le demeure jusqu’au moment d’exercer son choix.
+
+**Irrévocabilité**
+
+(3) Le choix prévu au paragraphe (1) est irrévocable.
+
+**Application continue de la loi**
+
+(4) La présente loi continue de s’appliquer au député qui exerce le choix prévu au paragraphe (1), comme si elle lui avait toujours été applicable.
+
+**Remboursement de l’indemnité de retrait et versement des contributions**
+
+(5) Le député qui exerce le choix prévu au paragraphe (1) verse au Trésor, dans les 90 jours suivant la date de son choix, une somme forfaitaire correspondant au total de ce qui suit :
+
+- a) l’indemnité de retrait versée au député aux termes du paragraphe 2.3(2);
+
+- b) les intérêts versés au député aux termes du paragraphe 2.3(4);
+
+- c) les contributions qu’il aurait versées si la présente loi n’avait pas cessé de s’appliquer à lui.
+
+**Crédit aux comptes**
+
+(6) La somme versée aux termes du paragraphe (5) est portée au crédit du compte d’allocations et du compte de convention, selon les proportions.
+
+**Contribution réputée**
+
+(7) La partie de la somme forfaitaire versée en application des alinéas (5)a) et c) est réputée être une contribution versée par le député.
+
+**Choix annulé en cas de non-paiement**
+
+(8) Le choix prévu au paragraphe (1) est réputé ne pas avoir été fait si la somme à verser aux termes du paragraphe (5) n’est pas versée dans le délai imparti. Le paragraphe 57(2) s’applique si le député qui a exercé le choix décède avant l’expiration du délai.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1998, ch. 23, art. 10
+
+</details>
+
+## Taux de cotisation
+
+### 2.7 Obligation de fixer des taux
+
+(1) L’actuaire en chef fixe des taux de cotisation pour l’application des dispositions de la présente loi qui exigent des cotisations au taux de cotisation applicable.
+
+**Appartenance à l’une ou l’autre des chambres du Parlement**
+
+(2) L’actuaire en chef ne peut se fonder sur l’appartenance des parlementaires à l’une ou l’autre des chambres du Parlement lorsqu’il fixe des taux de cotisation pour l’application des dispositions de la présente loi.
+
+(3) [Abrogé, 2015, ch. 36, art. 94]
+
+**Taux de cotisation pour l’application de l’alinéa 31.1(1)a) — 2013 à 2015**
+
+(4) Malgré le paragraphe (1), mais sous réserve du paragraphe (9), le taux de cotisation applicable pour l’application de l’alinéa 31.1(1)a) pour les années civiles 2013 à 2015 est de quatre pour cent.
+
+**Taux de cotisation pour l’application de l’alinéa 31.1(1)b) — 2013 à 2015**
+
+(5) Malgré le paragraphe (1), les taux de cotisation applicables pour l’application de l’alinéa 31.1(1)b) pour les années civiles 2013 à 2015 sont les suivants :
+
+- a) pour 2013, quatre pour cent;
+
+- b) pour 2014, cinq pour cent;
+
+- c) pour 2015, six pour cent.
+
+**Taux de cotisation pour l’application des alinéas 31.1(1)c) et (2)a) et b) — 2013 à 2015**
+
+(6) Malgré le paragraphe (1), mais sous réserve des paragraphes (7) à (9), les taux de cotisation applicables pour l’application des alinéas 31.1(1)c) et (2)a) et b) pour les années civiles 2013 à 2015 sont les suivants :
+
+- a) pour 2013, huit pour cent;
+
+- b) pour 2014, neuf pour cent;
+
+- c) pour 2015, dix pour cent.
+
+**Taux de cotisation à l’égard de certains parlementaires — 2013 à 2015**
+
+(7) Malgré le paragraphe (1), le taux de cotisation applicable pour l’application de l’alinéa 31.1(1)c) pour les années civiles 2013 à 2015, pour les parlementaires qui doivent cotiser en vertu du paragraphe 12(2), est de quatre pour cent à l’égard de la partie de leur traitement ou de leur indemnité annuelle qui excède leurs gains maximums pour l’année civile.
+
+**Taux de cotisation à l’égard de certains parlementaires — 2013 à 2015**
+
+(8) Malgré le paragraphe (1), les taux de cotisation applicables pour l’application de l’alinéa 31.1(1)c) pour les années civiles 2013 à 2015, à l’égard des traitements ou indemnités annuelles des parlementaires qui doivent cotiser en vertu du paragraphe 12(2), sont les suivants :
+
+- a) pour 2013, quatre pour cent;
+
+- b) pour 2014, cinq pour cent;
+
+- c) pour 2015, six pour cent.
+
+**Taux de cotisation à l’égard de certains parlementaires — 2013 à 2015**
+
+(9) Malgré le paragraphe (1), le taux de cotisation applicable pour l’application des alinéas 31.1(1)a) et (2)a) pour les années civiles 2013 à 2015, pour les parlementaires qui doivent cotiser en vertu du paragraphe 12(2) et les parlementaires qui devraient cotiser en vertu du paragraphe 12(2) s’ils étaient âgés de moins de soixante et onze ans, est de un pour cent.
+
+**Publication des taux**
+
+(10) Le ministre fait publier les taux de cotisation fixés en vertu du paragraphe (1) dans la *Gazette du Canada* dès que possible après que les taux sont fixés.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 3; 2015, ch. 36, art. 94
+
+</details>
+
+### 2.8 Objectif — taux de cotisation
+
+Lorsqu’il fixe des taux de cotisation, l’actuaire en chef vise à faire en sorte que, à partir du 1^er^ janvier 2017, le montant total des cotisations à verser par les parlementaires au titre des parties I et II couvre cinquante pour cent du coût des prestations de service courant relativement aux prestations à payer au titre des parties I, II et IV.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 3; 2015, ch. 36, art. 95
+
+</details>
+
+## Suspension d’un parlementaire
+
+### 2.9 Exclusion : service validable
+
+Si un parlementaire est suspendu par suite d’un vote majoritaire à cet effet des sénateurs ou des députés, selon le cas, est exclue de son service validable la période qui commence à la prise d’effet de la suspension et qui se termine à la date à laquelle est rétabli, par un vote majoritaire des sénateurs ou des députés, selon le cas, son droit d’accumuler du service validable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 20, art. 166
+
+</details>
+
+### 2.91 Effet de la suspension
+
+Malgré les dispositions des parties I, II et V, il n’est pas prélevé de cotisations au titre de celles-ci à l’égard de toute période visée à l’article 2.9.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 20, art. 166
+
+</details>
+
+### 2.92 Aucun choix pendant la suspension
+
+(1) Le parlementaire ne peut exercer un choix prévu aux parties I ou II pendant la période qui commence à la prise d’effet de la suspension visée à l’article 2.9 et qui se termine le jour du vote majoritaire des sénateurs ou des députés, selon le cas, qui rétablit son droit d’accumuler du service validable ou, s’il est postérieur, celui fixé par ce vote pour le rétablissement de son droit.
+
+**Paragraphes 10(1) ou 32(1)**
+
+(2) La période visée au paragraphe (1) n’est pas prise en compte dans le calcul du délai dont le parlementaire dispose pour exercer un choix prévu aux paragraphes 10(1) ou 32(1).
+
+**Aucun choix à l’égard de la période de suspension**
+
+(3) Aucun choix prévu par la présente loi ne peut être exercé à l’égard de la période visée à l’article 2.9.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 20, art. 166
+
+</details>
+
+## Prorogation du compte
+
+### 3 Prorogation
+
+(1) Est prorogé le compte d’allocations de retraite des parlementaires, ouvert parmi les comptes du Canada par l’article 4 de la version antérieure.
+
+**Transfert des cotisations du premier ministre**
+
+(2) Le 1^er^ janvier 1992 est porté au débit du compte d’allocations et au crédit du compte de convention la fraction du solde créditeur du compte d’allocations correspondant, selon des estimations raisonnables, au total des éléments suivants :
+
+- a) les cotisations versées au titre de l’article 18 de la version antérieure et portées au crédit du compte d’allocations en application de l’alinéa 4(1)a) de cette version;
+
+- b) les cotisations portées au crédit du compte d’allocations en application de l’alinéa 5a) de cette version;
+
+- c) les intérêts, imputés conformément à l’alinéa 5c) de cette version, sur la fraction du solde créditeur du compte d’allocations correspondant, selon des estimations raisonnables, aux cotisations visées aux alinéas a) et b).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 3; 1992, ch. 46, art. 81
+
+</details>
+
+## Allocations de retraite des parlementaires
+
+### Application
+
+### 4 Crédit du compte d’allocations
+
+(1) Sont portés au crédit du compte d’allocations :
+
+- a) les cotisations versées, à compter du 1^er^ janvier 1992, au titre des articles 9, 9.1, 11 et 11.1 et au titre des paragraphes 21(7) et 22(3) de la version antérieure;
+
+- b) les intérêts versés en application des articles 11 et 11.1;
+
+- c) les montants visés à l’article 5.
+
+**Montants portés au débit du compte**
+
+(2) Les allocations et les autres prestations payables au titre de la présente partie, ainsi que les prestations supplémentaires correspondantes payables au titre de la partie IV, sont prélevées sur le Trésor et portées au débit du compte d’allocations.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 4; 1992, ch. 46, art. 81; 2001, ch. 20, art. 15; 2012, ch. 22, art. 4
+
+</details>
+
+### 5 Crédits annuels
+
+(1) À chaque exercice, sont portés au crédit du compte d’allocations :
+
+- a) le montant que, selon le ministre, il faudra ajouter pour couvrir le coût des allocations, des prestations supplémentaires et des autres prestations acquises pendant chaque mois et qui deviendront imputables à ce compte;
+
+- b) une somme qui représente les intérêts sur le solde créditeur de ce compte, calculée et portée au crédit de ce compte conformément au paragraphe (2).
+
+**Calcul du montant**
+
+(2) La somme visée à l’alinéa (1)b) est portée au crédit du compte d’allocations trimestriellement au cours de chaque exercice, soit le dernier jour de chaque trimestre, et est calculée par multiplication du solde créditeur du compte le dernier jour du trimestre précédent par le taux visé au paragraphe (3).
+
+**Taux**
+
+(3) Pour l’application du paragraphe (2), le taux est le taux effectif trimestriel dérivé du taux d’intérêt d’évaluation pour l’exercice énoncé dans le plus récent rapport d’évaluation actuarielle à l’égard de la présente loi, déposé au Sénat et à la Chambre des communes en application de l’article 9 de la *Loi sur les rapports relatifs aux pensions publiques*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 5; 1992, ch. 46, art. 81; 2012, ch. 22, art. 5
+
+</details>
+
+### 6
+
+[Abrogé, 2012, ch. 22, art. 6]
+
+### 7 Estimation du déficit au 1^er^ janvier 1992
+
+(1) Le ministre effectue l’estimation du total des allocations et des autres prestations payables au 1^er^ janvier 1992 suivant la présente partie.
+
+**Amortissement**
+
+(2) Sont portés au crédit du compte d’allocations, à la date et selon les modalités déterminées par le ministre, les montants qu’à son avis il faudra ajouter, à la fin de la période prévue par règlement, au solde créditeur que devrait alors, selon lui, avoir ce compte pour couvrir le coût total estimatif.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 7; 1992, ch. 46, art. 81
+
+</details>
+
+### 8 Montant porté au crédit du compte pour couvrir le coût total
+
+Est portée au crédit du compte d’allocations, à la date et selon les modalités déterminées par le ministre, une somme qu’à son avis, fondé sur des conseils actuariels, il faudra ajouter à ce qu’il estime être le solde créditeur du compte à cette date pour couvrir le coût total des allocations et des autres prestations à payer au titre de la présente partie, ainsi que le coût des prestations supplémentaires correspondantes à payer au titre de la partie IV.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 8; 1992, ch. 46, art. 81; 2012, ch. 22, art. 7
+
+</details>
+
+### 8.1 Montant porté au débit
+
+Si le ministre est d’avis, en se fondant sur des conseils actuariels, que ce qu’il estime être le solde créditeur du compte d’allocations excède le coût total des allocations et des autres prestations à payer en application de la présente partie, ainsi que le coût des prestations supplémentaires correspondantes à payer au titre de la partie IV, il peut être porté au débit du compte, à la date et selon les modalités déterminées par lui, une somme qu’il précise.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 7
+
+</details>
+
+### Cotisations
+
+### 9 Cotisations obligatoires — du 1^er^ janvier 2001 au 31 décembre 2015
+
+(1) Pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2015, les parlementaires cotisent, pour chaque année civile, au compte d’allocations par retenue sur leur indemnité de session, au taux de quatre pour cent à l’égard de la partie de leur indemnité de session qui n’excède pas leurs gains maximums pour l’année civile.
+
+**Non-application**
+
+(1.01) Le paragraphe (1) ne s’applique pas aux parlementaires qui sont tenus de cotiser en vertu du paragraphe 12(2).
+
+**Cotisations obligatoires**
+
+(1.1) Par dérogation au paragraphe 2.3(1), les parlementaires qui pouvaient exercer un choix en vertu des articles 2.1 et 2.6 mais ne l’ont pas fait cotisent, pendant la période commençant le 21 septembre 2000 et se terminant le 31 décembre 2000, au compte d’allocations par retenue au taux de quatre pour cent sur leur indemnité de session.
+
+**Application continue de la loi**
+
+(1.2) La présente loi recommence à s’appliquer au député qui exerce le choix prévu au paragraphe (1.1) à compter de l’entrée en vigueur du présent paragraphe et est réputée s’appliquer à lui comme si elle lui avait toujours été applicable.
+
+**Cotisations supplémentaires**
+
+(2) Pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2015, les parlementaires visés par le paragraphe 12(2) cotisent de plus, pour chaque année civile, au compte d’allocations par retenue sur leur traitement ou leur indemnité annuelle, au taux de quatre pour cent à l’égard de la partie de leur traitement ou de leur indemnité annuelle qui n’excède pas leurs gains maximums, sauf s’ils choisissent de ne pas cotiser au titre du présent paragraphe et s’ils choisissent aussi, avant le 31 décembre 2015, de ne pas cotiser au titre des paragraphes 31(4) ou (5) ou au titre des alinéas 31.1(1)c) ou (2)b), ou de cotiser à un taux moindre que celui du présent paragraphe.
+
+(3) et (4) [Abrogés, 2001, ch. 20, art. 16]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 9; 1992, ch. 46, art. 81; 2000, ch. 27, art. 3; 2001, ch. 20, art. 16; 2003, ch. 16, art. 1; 2012, ch. 22, art. 8
+
+</details>
+
+### 9.1 Cotisations obligatoires — à compter du 1^er^ janvier 2016
+
+(1) À compter du 1^er^ janvier 2016, les parlementaires cotisent, pour chaque année civile, au compte d’allocations par retenue sur leurs gains ouvrant droit à pension au taux de cotisation applicable à l’égard de la partie déterminée par l’actuaire en chef de la portion de leurs gains ouvrant droit à pension qui n’excède pas leurs gains maximums pour l’année civile.
+
+**Exception**
+
+(2) Le paragraphe (1) ne s’applique pas aux parlementaires qui sont tenus de cotiser en vertu du paragraphe 12(2.1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 9
+
+</details>
+
+### 10 Choix de cotiser pour une session antérieure
+
+(1) Sous réserve des autres dispositions du présent article, un sénateur ou député qui a perdu sa qualité de parlementaire, puis la recouvre, peut choisir de cotiser au compte d’allocations pour toute session antérieure à son mandat actuel au cours de laquelle il a déjà été parlementaire; le cas échéant, ce choix est à exercer conformément au paragraphe 56(2) dans l’année suivant l’ouverture de la première session après que l’intéressé est redevenu parlementaire.
+
+**Choix de cotiser pour une période antérieure**
+
+[^](1.1) Le parlementaire tenu de cotiser au titre du paragraphe 9(1.1) peut, conformément au paragraphe 56(2), dans l’année qui suit l’entrée en vigueur du présent paragraphe, choisir de cotiser au compte d’allocations pour la période antérieure à son mandat actuel au cours de laquelle il a déjà été parlementaire, laquelle période antérieure est composée de la période à l’égard de laquelle il n’était pas tenu de cotiser et de la période à l’égard de laquelle il a reçu une indemnité de retrait aux termes du paragraphe 2.3(2).
+
+**Obligation de cotiser à deux régimes**
+
+(2) Le parlementaire qui exerce son choix à compter du 1^er^ janvier 1992 doit également choisir de cotiser, pour la session antérieure en cause, au compte de convention visé à la partie II.
+
+**Obligation de cotiser à deux régimes**
+
+(2.1) Le parlementaire qui exerce le choix visé au paragraphe (1.1) doit également choisir en même temps de cotiser, pour la période en cause, au compte de convention visé à la partie II.
+
+**Autres conditions**
+
+[^](3) Ce choix est en outre subordonné à l’une des conditions suivantes :
+
+- a) le parlementaire a déjà cotisé ou choisi de cotiser, à l’égard de la session antérieure, en vertu de la présente partie ou des parties I ou III de la version antérieure et il avait droit à une indemnité de retrait pour cette session soit au titre des articles 15 ou 32 de cette version, soit au titre de l’article 18;
+
+- b) il avait le droit, avant la fin de son mandat antérieur, de choisir de cotiser à l’égard de cette session mais ne l’a pas fait;
+
+- c) il n’avait pas qualité de député le jour de l’entrée en vigueur du présent alinéa, a reçu une indemnité de retrait aux termes du paragraphe 2.3(2) et n’a pas choisi, aux termes de l’article 2.6, de se soumettre de nouveau à l’application de la présente loi;
+
+- d) il a reçu une indemnité de retrait aux termes du paragraphe 2.3(2) et n’a pas choisi, aux termes du paragraphe (1.1), de se soumettre à l’application de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 10; 1992, ch. 46, art. 81; 1998, ch. 23, art. 11; 2000, ch. 27, art. 4
+
+</details>
+
+### 11 Cotisations pour une session antérieure — choix avant le 1^er^ janvier 2016
+
+(1) Le parlementaire qui choisit, avant le 1^er^ janvier 2016, de cotiser au compte d’allocations pour une session antérieure verse au Trésor :
+
+- a) s’il exerce son choix à compter du 1^er^ janvier 2001 et que son indemnité de session pour cette session antérieure excède ses gains maximums pour l’année civile :
+  - (i) une cotisation égale à quatre pour cent de la partie de son indemnité de session correspondante qui n’excède pas ses gains maximums,
+  - (ii) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final pour cette session de l’indemnité de session jusqu’à la date du choix;
+
+- a.1) s’il exerce son choix le 1^er^ janvier 1992 ou par la suite mais avant le 1^er^ janvier 2001 ou si son indemnité de session pour cette session antérieure n’excède pas ses gains maximums pour l’année civile et qu’il exerce son choix à compter du 1^er^ janvier 2001 :
+  - (i) une cotisation égale à quatre pour cent :
+    - (A) de l’indemnité de session correspondante,
+    - (B) des montants reçus, à l’égard de cette session, au titre de son traitement ou de son indemnité annuelle s’il a, par ce choix, décidé d’y cotiser,
+  - (ii) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final pour cette session de l’indemnité de session, du traitement ou de l’indemnité annuelle jusqu’à celle du choix;
+
+- b) s’il exerce son choix avant le 1^er^ janvier 1992 :
+  - (i) dans le cas où il a déjà exercé un choix au titre du paragraphe 22(1) de la version antérieure — et ce avant le 1^er^ août 1981 dans le cas d’un député —, une cotisation représentant la différence entre la somme des montants suivants et le total des cotisations qu’il a versées ou choisi de verser sous le régime des parties I à V de la version antérieure à cet égard et qui ne lui ont pas été remboursées à titre d’indemnité de retrait :
+    - (A) six pour cent de l’indemnité de session reçue suivant l’article 55 de la *Loi sur le Parlement du Canada* à l’égard de cette session si elle s’est tenue avant l’ouverture de la 26^e^ législature,
+    - (B) sept et demi pour cent du montant reçu en tant que député ou six pour cent du montant reçu en tant que sénateur à titre d’indemnité pour cette session, si elle s’est tenue postérieurement à la 25^e^ législature,
+    - (C) sept et demi pour cent du montant reçu, au titre de son traitement ou de son indemnité annuelle, à l’égard de cette session s’il a, par ce choix, décidé d’y cotiser,
+  - (ii) dans le cas d’un député qui a exercé un choix soit après le 1^er^ août 1981 mais avant le 1^er^ janvier 1992 au titre du paragraphe 22(1) de la version antérieure, soit au titre du paragraphe 22(2) de cette version, une cotisation représentant la différence entre, d’une part, dix pour cent du montant qui lui a été versé en tant que député à titre d’indemnité pour cette session et, d’autre part, le total des cotisations qu’il a versées ou choisi de verser sous le régime des parties I à V de cette version à cet égard et qui ne lui ont pas été remboursées à titre d’indemnité de retrait,
+  - (iii) dans le cas où il a déjà exercé un choix au titre du paragraphe 21(7) de la version antérieure, une cotisation égale à deux et demi pour cent de son traitement ou de son indemnité annuelle à l’égard de cette session,
+  - (iv) dans le cas où il a déjà exercé un choix au titre du paragraphe 22(3) de la version antérieure, une cotisation n’excédant pas dix pour cent de son traitement ou de son indemnité annuelle à l’égard de cette session,
+  - (v) sauf à l’égard de la fraction de la cotisation visée au sous-alinéa (vi), les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final pour cette session de l’indemnité de session, du traitement ou de l’indemnité annuelle jusqu’à celle du choix,
+  - (vi) à l’égard de la fraction de cette cotisation comprise dans une indemnité de retrait versée au titre des parties I à V de la version antérieure, les intérêts, calculés au taux et selon les modalités réglementaires à compter de la date du versement de l’indemnité jusqu’à celle du choix, sur l’ensemble :
+    - (A) d’une part, de cette fraction de la cotisation,
+    - (B) d’autre part, de l’intérêt sur cette fraction de la cotisation que comprenait l’indemnité de retrait.
+
+**Cotisations pour une période antérieure**
+
+(1.1) Le parlementaire qui choisit de cotiser au compte d’allocations pour la période visée au paragraphe 10(1.1) verse au Trésor :
+
+- a) une cotisation égale à quatre pour cent :
+  - (i) de l’indemnité de session correspondante,
+  - (ii) des montants reçus, à l’égard de cette période, au titre de son traitement ou de son indemnité annuelle s’il a, par ce choix, décidé d’y cotiser;
+
+- b) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final pour cette période de l’indemnité de session, du traitement ou de l’indemnité annuelle jusqu’à celle du choix.
+
+**Cotisations maximales**
+
+(2) Par dérogation à la division (1)a.1)(i)(B) et au sous-alinéa (1.1)a)(ii), il n’est pas prélevé de cotisations sur la partie du total de l’indemnité de session, du traitement ou de l’indemnité annuelle qui excède, pour une ou plusieurs sessions ou périodes déterminées d’une année civile :
+
+- a) les gains maximums reçus par un parlementaire au cours de cette année civile;
+
+- b) la fraction des gains maximums reçus par un sénateur ou un député correspondant à la fraction de l’année civile au cours de laquelle il avait la qualité de parlementaire et calculée conformément au règlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 11; 1992, ch. 46, art. 81; 2000, ch. 27, art. 5; 2001, ch. 20, art. 17; 2012, ch. 22, art. 10
+
+</details>
+
+### 11.1 Cotisations pour une session antérieure — choix à compter du 1^er^ janvier 2016
+
+(1) Le parlementaire qui choisit, le 1^er^ janvier 2016 ou par la suite, de cotiser au compte d’allocations pour une session antérieure verse au Trésor :
+
+- a) une cotisation, calculée aux taux de cotisation — fixés pour l’application de l’article 9.1 — qui sont en vigueur à la date du choix, à l’égard de la partie de ses gains ouvrant droit à pension pour cette session qui n’excède pas ses gains maximums pour l’année en question pour cette session;
+
+- b) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final de ses gains annuels ouvrant droit à pension pour cette session jusqu’à la date du choix.
+
+**Gains maximums pour une année partielle**
+
+(2) Pour l’application du paragraphe (1), les gains maximums du parlementaire qui n’avait pas la qualité de parlementaire pendant une année civile entière sont, pour cette année, ceux auxquels il aurait par ailleurs eu droit multipliés par la fraction de l’année civile pendant laquelle il avait cette qualité.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 11
+
+</details>
+
+### 12 Limitation
+
+(1) Malgré les autres dispositions de la présente partie, il n’est pas prélevé de cotisations au titre de celle-ci :
+
+- a) à l’égard d’une session au cours de laquelle un parlementaire a perdu sa qualité de sénateur pour cause de déchéance ou a été expulsé de la Chambre des communes;
+
+- b) si le parlementaire a atteint l’âge de soixante et onze ans.
+
+- c) [Abrogé, 2012, ch. 22, art. 12]
+
+**Maintien d’une cotisation de un pour cent**
+
+(2) Pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2015, le parlementaire qui n’a pas atteint l’âge de soixante et onze ans cotise en vertu de la présente partie, pour chaque année civile, par retenue sur son indemnité de session, un pour cent de la partie de son indemnité de session qui n’excède pas ses gains maximums pour l’année civile après que le total des produits obtenus par multiplication du nombre d’années de service validable à son crédit par les facteurs indiqués au paragraphe 16(1) et, selon le cas, aux paragraphes 36(2) ou (6) donne 0,75.
+
+**Cotisations à compter du 1^er^ janvier 2016**
+
+(2.1) À compter du 1^er^ janvier 2016, le parlementaire qui n’a pas atteint l’âge de soixante et onze ans cotise en vertu de la présente partie pour chaque année civile, par retenue sur ses gains ouvrant droit à pension, au taux de cotisation applicable à l’égard de la partie de ses gains ouvrant droit à pension qui n’excède pas ses gains maximums pour l’année civile après que la somme du produit obtenu en application du paragraphe (2) et du produit du nombre d’années de service validable à son crédit à compter du 1^er^ janvier 2016 par 0,02 donne 0,75.
+
+**Montants exclus du calcul**
+
+(3) En calculant le montant total qu’un parlementaire a versé ou choisi de verser suivant la présente partie et, s’il y a lieu, les parties I à V de la version antérieure, on ne peut inclure :
+
+- a) aucune cotisation à l’égard de laquelle une indemnité de retrait a été versée;
+
+- b) aucune cotisation à l’égard de laquelle son choix a été révoqué;
+
+- c) aucun montant versé à titre d’intérêt.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 12; 1992, ch. 46, art. 81; 2001, ch. 20, art. 18; 2003, ch. 16, art. 2; 2012, ch. 22, art. 12
+
+</details>
+
+### Allocations de retraite
+
+### 13 Droits aux allocations
+
+Les allocations et autres prestations prévues à la présente partie sont versées aux sénateurs ou aux députés qui perdent leur qualité de parlementaire ou, au décès de parlementaires, actuels ou anciens, aux ayants cause visés à cette partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 13; 1992, ch. 46, art. 81
+
+</details>
+
+### 14 Allocations aux anciens parlementaires
+
+(1) Sous réserve de l’article 58, le sénateur ou député qui perd sa qualité de parlementaire avant le 1^er^ janvier 1992 et qui a cotisé ou choisi de cotiser au titre des parties I ou III de la version antérieure pendant au moins six ans en cette qualité a droit sa vie durant, à l’égard de ces cotisations — à l’exception de celles qu’il a versées au titre des paragraphes 21(5) ou (7) de cette version —, à une allocation de retraite égale à la moyenne annuelle de son indemnité de session multipliée par :
+
+- a) le total, à l’égard de chaque année ou fraction d’année de service validable calculée conformément aux paragraphes (2) et (3) :
+  - (i) du nombre d’années de service validable à son crédit en raison des cotisations qu’il a versées au titre du paragraphe 21(4) ou du sous-alinéa 23a)(iii) de cette version, multiplié par 0,02,
+  - (ii) du nombre d’années de service validable à son crédit en raison des cotisations qu’il a versées en tant que député au titre des parties I et III de cette version, à l’exception du paragraphe 21(4) ou du sous-alinéa 23a)(iii), multiplié par :
+    - (A) 0,035, dans le cas de chacune des dix premières années,
+    - (B) 0,03, dans le cas de chacune des dix années suivantes,
+    - (C) 0,02, dans le cas de chaque année ultérieure,
+  - (iii) du nombre d’années de service validable à son crédit en raison des cotisations qu’il a versées en tant que sénateur au titre des parties I et III de cette version, à l’exception du paragraphe 21(4) ou du sous-alinéa 23a)(iii), multiplié par 0,03;
+
+- b) le nombre d’années et de fractions d’année de service validable, calculé conformément aux paragraphes (4) et (5), et par 0,05.
+
+**Calcul des années de service validable**
+
+(2) Pour l’application du paragraphe (1), le sénateur ou député qui perd sa qualité de parlementaire est censé, à l’égard de toute période de service — antérieure au 1^er^ août 1981 dans le cas d’un député — pour laquelle il n’a pas exercé le choix prévu au paragraphe 22(2) de la version antérieure, avoir une année de service validable à son crédit :
+
+- a) pour chaque cotisation de 240 $ qu’il a versée ou choisi de verser sur les indemnités de session reçues pour les sessions du Parlement tenues avant le 12 novembre 1953;
+
+- b) pour chaque cotisation de 480 $ qu’il a versée ou choisi de verser sur les indemnités de session reçues pour les sessions du Parlement tenues après le 11 novembre 1953 et avant le 8 avril 1963;
+
+- c) pour chaque cotisation de sept et demi pour cent qu’il a versée ou choisi de verser sur les indemnités de session reçues en tant que député pour les sessions du Parlement tenues, entièrement ou non, au cours de toute période de douze mois commençant le 8 avril de chaque année à compter de 1963;
+
+- d) pour chaque cotisation de six pour cent qu’il a versée ou choisi de verser sur les indemnités de session reçues en tant que sénateur pour les sessions du Parlement tenues, entièrement ou non, au cours de toute période de douze mois commençant le 4 avril de chaque année à compter de 1965;
+
+- e) pour chaque cotisation — de 1 350 $ ou, si elle est supérieure, de sept et demi pour cent de son indemnité de session — qu’il a versée ou choisi de verser en tant que député, au cours d’une année civile, sur son traitement ou son indemnité annuelle.
+
+**Idem**
+
+(3) Lorsque la cotisation qu’il a versée ou choisi de verser sous le régime des parties I et III de la version antérieure à l’égard soit de sessions visées aux alinéas (2)a), b), c) ou d), soit de tout traitement ou de toute indemnité annuelle visés à l’alinéa (2)e), est inférieure au montant indiqué à l’alinéa applicable, le parlementaire est censé avoir à son crédit la fraction d’année de service validable que cette cotisation représente par rapport au montant indiqué à cet alinéa.
+
+**Idem**
+
+(4) Pour l’application du paragraphe (1), le député qui perd sa qualité de parlementaire est censé — à l’égard de toute période de service postérieure au 31 juillet 1981 et antérieure à 1992 ou pour laquelle il a exercé le choix prévu au paragraphe 22(2) de la version antérieure — avoir une année de service validable à son crédit pour chaque cotisation de dix pour cent qu’il a versée ou choisi de verser sur les indemnités de session reçues pour les sessions du Parlement tenues, entièrement ou non, au cours de toute période de douze mois commençant le 8 avril de chaque année.
+
+**Application du paragraphe (3)**
+
+(5) Pour l’application du paragraphe (4), la présomption du paragraphe (3) relative à la fraction d’année de service validable est à prendre en compte avec les adaptations nécessaires.
+
+**Limitation**
+
+(6) Malgré les autres dispositions du présent article, l’allocation de retraite payable à l’intéressé ne peut excéder la moyenne annuelle de son indemnité de session multipliée par 0,75.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 14; 1989, ch. 6, art. 15; 1992, ch. 46, art. 81; 2012, ch. 22, art. 13
+
+</details>
+
+### 15 Allocation de retraite supplémentaire
+
+(1) Sous réserve de l’article 58, le sénateur ou député qui perd sa qualité de parlementaire avant le 1^er^ janvier 1992 et qui, d’une part, a cotisé ou choisi de cotiser au titre des parties I ou III de la version antérieure pendant au moins six ans en cette qualité, d’autre part, a cotisé suivant les paragraphes 21(5) ou (7) de cette version, a droit sa vie durant à une allocation de retraite supplémentaire égale à la moyenne annuelle de son indemnité de session multipliée par le nombre d’années de service validable à son crédit déterminé conformément aux paragraphes (2) et (3), le tout multiplié par 0,05.
+
+**Calcul des années de service validable**
+
+(2) Pour l’application du paragraphe (1), le député qui perd sa qualité de parlementaire est censé avoir une année de service validable à son crédit pour chaque cotisation de dix pour cent de l’indemnité de session qu’il a versée ou choisi de verser, au cours d’une année civile, à l’égard de son traitement ou de son indemnité annuelle.
+
+**Application du paragraphe 14(3)**
+
+(3) Pour l’application du paragraphe (2), la présomption du paragraphe 14(3) relative à la fraction d’année de service validable est à prendre en compte avec les adaptations nécessaires.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 15; 1992, ch. 46, art. 81
+
+</details>
+
+### 16 Situation après le 1^er^ janvier 1992
+
+(1) Sous réserve des articles 58 et 59, le sénateur ou député qui perd sa qualité de parlementaire à compter du 1^er^ janvier 1992 et qui a cotisé ou choisi de cotiser au titre soit de la présente partie, soit des parties I ou III de la version antérieure, pendant au moins six ans en cette qualité a droit, sa vie durant, à l’égard de ces cotisations — à l’exception de celles qu’il a versées au titre de la présente partie sur son traitement ou son indemnité annuelle, au titre du paragraphe 12(2) ou à celui des paragraphes 21(5) ou (7) de la version antérieure —, à une allocation de retraite égale à la moyenne annuelle de son indemnité de session multipliée par :
+
+- a) le nombre d’années et de fractions d’année de service validable, calculé conformément aux paragraphes (3), (4) et (6), et par 0,03 dans le cas d’un sénateur ou 0,05 dans le cas d’un député;
+
+- b) sous réserve du paragraphe (2), le nombre d’années et de fractions d’année de service validable, calculé conformément aux paragraphes (5) et (6), et par 0,02.
+
+**Limite d’âge**
+
+(2) Aucune allocation de retraite ne peut être versée à un parlementaire au titre de l’alinéa (1)b) avant qu’il n’ait atteint l’âge de soixante ans.
+
+**Service validable des sénateurs avant le 1^er^ janvier 1992**
+
+(3) Pour l’application de l’alinéa (1)a), le sénateur qui perd sa qualité de parlementaire est censé — à l’égard de toute période de service antérieure au 1^er^ janvier 1992 — avoir à son crédit une année de service validable pour chaque cotisation de six pour cent qu’il a versée ou choisi de verser sur les indemnités de session reçues pour les sessions du Parlement tenues, entièrement ou non, au cours de toute période de douze mois commençant le 4 avril de chaque année à compter de 1965.
+
+**Service validable des députés avant le 1^er^ janvier 1992**
+
+(4) Pour l’application de l’alinéa (1)a), le député qui perd sa qualité de parlementaire est censé — à l’égard de toute période de service antérieure au 1^er^ janvier 1992 — avoir à son crédit une année de service validable pour chaque cotisation de dix pour cent qu’il a versée ou choisi de verser sur les indemnités de session reçues pour les sessions du Parlement tenues, entièrement ou non, au cours de toute période de douze mois commençant le 8 avril de chaque année.
+
+**Service validable entre le 1^er^ janvier 1992 et le 31 décembre 2015**
+
+(5) Pour l’application de l’alinéa (1)b), le sénateur ou le député qui perd sa qualité de parlementaire est censé — à l’égard de toute période de service pendant la période commençant le 1^er^ janvier 1992 et se terminant le 31 décembre 2015 ou de toute période de service validable pour laquelle il a exercé, au cours de cette période, le choix prévu à l’article 10 — avoir à son crédit une année de service validable pour chaque cotisation de quatre pour cent qu’il a versée ou choisi de verser en vertu de la présente partie sur les indemnités de session reçues pour les sessions du Parlement tenues, entièrement ou non, au cours de toute période de douze mois commençant le 8 avril, dans le cas du député, et le 4 avril, dans le cas du sénateur, de chaque année.
+
+**Idem**
+
+(6) Lorsque la cotisation qu’il a versée ou choisi de verser au titre soit de la présente partie, soit des parties I ou III de la version antérieure, à l’égard de sessions visées au paragraphe (3), (4) ou (5), est inférieure au montant indiqué au paragraphe applicable, le parlementaire est censé avoir à son crédit la fraction d’année de service validable que cette cotisation représente par rapport au montant indiqué au même paragraphe.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 16; 1992, ch. 46, art. 81; 2012, ch. 22, art. 14
+
+</details>
+
+### 17 Allocation de retraite supplémentaire
+
+(1) Sous réserve de l’article 58, le sénateur ou député qui perd sa qualité de parlementaire à compter du 1^er^ janvier 1992 et qui, d’une part, a cotisé ou choisi de cotiser au titre soit de la présente partie, soit de la partie III de la version antérieure, pendant au moins six ans en cette qualité, d’autre part, a cotisé soit au titre de la présente partie à l’égard de son traitement ou de son indemnité annuelle, soit au titre des paragraphes 21(5) ou (7) de la version antérieure, a droit, sa vie durant, à une allocation de retraite supplémentaire égale à la moyenne annuelle de son indemnité de session multipliée par :
+
+- a) le nombre d’années et de fractions d’année de service validable, calculé conformément aux paragraphes (3) et (5), et par 0,05;
+
+- b) sous réserve du paragraphe (2), le nombre d’années et de fractions d’année de service validable, calculé conformément aux paragraphes (4) et (5), et par 0,02.
+
+**Limite d’âge**
+
+(2) Aucune allocation de retraite supplémentaire ne peut être versée à un parlementaire au titre de l’alinéa (1)b) avant qu’il n’ait atteint l’âge de soixante ans.
+
+**Calcul des années de service validable**
+
+(3) Pour l’application de l’alinéa (1)a), le sénateur ou député qui perd sa qualité de parlementaire est censé — à l’égard de toute période de service antérieure au 1^er^ janvier 1992 — avoir à son crédit une année de service validable pour chaque cotisation — égale à dix pour cent de l’indemnité de session versée à un député — qu’il a versée ou choisi de verser, au cours d’une année civile, sur son traitement ou son indemnité annuelle.
+
+**Calcul des années de service validable à compter du 1^er^ janvier 1992**
+
+(4) Pour l’application de l’alinéa (1)b), le sénateur ou député qui perd sa qualité de parlementaire est censé :
+
+- a) à l’égard de toute période de service commençant à compter du 1^er^ janvier 1992 et se terminant avant le 1^er^ janvier 2001 ou de toute période de service validable pour laquelle il a exercé, au cours de cette période, le choix prévu à l’article 10, avoir à son crédit une année de service validable pour chaque cotisation — égale à quatre pour cent de l’indemnité de session versée à un député — qu’il a versée ou choisi de verser, au cours d’une année civile, au titre du paragraphe 9(2) ou de la division 11(1)a)(i)(B), dans sa version antérieure à l’entrée en vigueur du présent alinéa, ou de la division 11(1)a.1)(i)(B);
+
+- b) pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2015 ou toute période de service validable pour laquelle il a exercé, au cours de cette période, le choix prévu à l’article 10, avoir à son crédit une année de service validable pour chaque cotisation — égale à quatre pour cent de l’indemnité de session qui lui était payable à titre de député ou de sénateur, selon le cas — qu’il a versée ou choisi de verser, au cours d’une année civile, au titre du paragraphe 9(2) ou du sous-alinéa 11(1)a)(i).
+
+**Exception**
+
+(4.1) Le paragraphe (4), dans sa version antérieure au 12 juillet 2001, s’applique à l’égard de toute période de service validable au crédit d’un parlementaire au titre du choix visé au paragraphe 36(10).
+
+**Application du paragraphe 16(6)**
+
+(5) Pour l’application des paragraphes (3) ou (4), la présomption du paragraphe 16(6) relative à la fraction d’année de service validable est à prendre en compte avec les adaptations nécessaires.
+
+**Limite — service validable avant le 1^er^ janvier 2016**
+
+(6) L’allocation de retraite supplémentaire à payer à une personne en vertu du paragraphe (1) ne tient compte que du service validable de la personne avant le 1^er^ janvier 2016.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 17; 1992, ch. 46, art. 81; 2001, ch. 20, art. 19; 2003, ch. 16, art. 3; 2012, ch. 22, art. 15
+
+</details>
+
+### 17.1 Situation à compter du 1^er^ janvier 2016 — 65 ans ou plus
+
+(1) Sous réserve des articles 58 et 59, la personne qui perd sa qualité de parlementaire après le 31 décembre 2015, qui a cotisé ou choisi de cotiser au titre soit de la présente partie, soit des parties I ou III de la version antérieure, pendant au moins six ans en cette qualité et qui a atteint l’âge de soixante-cinq ans au moment de perdre sa qualité de parlementaire a droit, sa vie durant, à une allocation de retraite calculée conformément au paragraphe (2).
+
+**Montant**
+
+(2) Le montant de l’allocation de retraite est égal à la partie de sa moyenne annuelle des gains ouvrant droit à pension qui n’excède pas les gains maximums de la personne pour l’année civile pendant laquelle elle perd sa qualité de parlementaire, multipliés par le nombre d’années et de fractions d’année de service validable calculé suivant les paragraphes (3) et (4), multiplié par 0,02 et réduit du montant représentant un pourcentage, fixé par l’actuaire en chef, du produit de la somme visée à l’alinéa a) par le nombre obtenu à l’alinéa b) :
+
+- a) la moyenne des gains maximums ouvrant droit à pension de la personne;
+
+- b) le nombre d’années et de fractions d’année de service validable calculé conformément aux paragraphes (3) et (4), multiplié par 0,02.
+
+**Service validable**
+
+(3) Sous réserve du paragraphe (4), le service validable d’une personne pour l’application du paragraphe (2) est composé de ce qui suit :
+
+- a) le nombre d’années et de fractions d’année de service en sa qualité de parlementaire après le 31 décembre 2015 pendant lesquelles la personne a été tenue de cotiser en vertu de la présente partie, à l’exception de toute période pendant laquelle lui a été versée une indemnité de retrait;
+
+- b) le nombre d’années et de fractions d’année de service au crédit du parlementaire au titre du choix qu’il a fait le 1^er^ janvier 2016 ou par la suite.
+
+**Exclusion — service avec cotisations en vertu du par. 12(2.1)**
+
+(4) Le service de la personne en sa qualité de parlementaire au cours duquel elle a été tenue de cotiser en vertu du paragraphe 12(2.1), le cas échéant, n’est pas pris en compte dans le calcul de son service validable au titre du paragraphe (3).
+
+**Pension de retraite prise en compte**
+
+(5) Lorsqu’il fixe le pourcentage pour l’application du paragraphe (2), l’actuaire en chef prend en compte la pension de retraite à payer à une personne au titre du *Régime de pensions du Canada* ou d’un régime de pensions provincial semblable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 16
+
+</details>
+
+### 17.2 Situation à compter du 1^er^ janvier 2016 — avant 65 ans
+
+(1) Sous réserve des articles 58 et 59, la personne qui perd sa qualité de parlementaire après le 31 décembre 2015, qui a cotisé ou choisi de cotiser au titre soit de la présente partie, soit des parties I ou III de la version antérieure, pendant au moins six ans en cette qualité, qui n’a pas atteint l’âge de soixante-cinq ans au moment de perdre sa qualité de parlementaire et qui a choisi de recevoir une allocation de retraite en vertu de l’article 37.3 recevra, sous réserve du paragraphe (3), et ce, sa vie durant, une allocation de retraite d’un montant calculé conformément au paragraphe (2).
+
+**Montant de l’allocation de retraite**
+
+(2) Pour l’application du paragraphe (1), le montant de l’allocation de retraite est égal au montant de l’allocation de retraite calculé conformément à l’article 17.1 comme si cet article s’appliquait à la personne, et réduit du produit obtenu par multiplication de ce montant par le facteur de réduction.
+
+**Quand une allocation de retraite est à payer**
+
+(3) L’allocation de retraite prévue au paragraphe (1) sera à payer à celui des jours ci-après qui est postérieur à l’autre :
+
+- a) le jour où la personne atteint l’âge de soixante ans;
+
+- b) le jour où la personne commence à recevoir son allocation en vertu de l’article 37.3.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 16
+
+</details>
+
+### Indemnité de retrait
+
+### 18 Indemnité de retrait
+
+Il est versé, en une somme forfaitaire, au sénateur ou député qui perd sa qualité de parlementaire et qui n’a pas cotisé ni choisi de cotiser au titre soit de la présente partie, soit des parties I, III et IV de la version antérieure, pendant au moins six ans en cette qualité, une indemnité de retrait égale au total :
+
+- a) des cotisations versées au titre de ces parties;
+
+- b) de l’intérêt sur les cotisations versées au titre de l’article 23 de la version antérieure ou des articles 11 ou 11.1.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 18; 1992, ch. 46, art. 81; 2012, ch. 22, art. 17
+
+</details>
+
+### 19 Cas d’expulsion
+
+Il est versé, en une somme forfaitaire, au parlementaire qui perd sa qualité de sénateur pour cause de déchéance ou qui est expulsé de la Chambre des communes une indemnité de retrait égale au total :
+
+- a) des cotisations versées au titre de la présente partie et des parties I, III et IV de la version antérieure;
+
+- b) de l’intérêt sur les cotisations versées au titre de l’article 23 de la version antérieure ou des articles 11 ou 11.1.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 19; 1989, ch. 6, art. 16; 1992, ch. 46, art. 81; 2012, ch. 22, art. 18
+
+</details>
+
+### 19.1
+
+[Abrogé, 1998, ch. 23, art. 12]
+
+### Allocations aux survivants
+
+### 20 Allocation aux survivants
+
+(1) Au décès d’un parlementaire, actuel ou ancien, il est versé :
+
+- a) au survivant, une allocation égale, au total, aux trois cinquièmes de l’allocation de retraite de base, à répartir selon les modalités prévues au paragraphe (1.1) s’il y a deux survivants;
+
+- b) à chaque enfant, une allocation égale au dixième de l’allocation de retraite de base, à condition que le total des allocations payables aux enfants n’excède pas les trois dixièmes de l’allocation de retraite de base, ou égale aux deux dixièmes de celle-ci si personne n’a droit à l’allocation visée à l’alinéa a), à condition que, dans ce cas, le total des allocations payables aux enfants n’excède pas les huit dixièmes de l’allocation de retraite de base.
+
+**Répartition**
+
+(1.1) Le montant total de l’allocation prévue à l’alinéa (1)a) est ainsi réparti :
+
+- a) le survivant visé à l’alinéa a) de la définition de **survivant**, au paragraphe 2(1), reçoit l’excédent éventuel du montant total sur le montant visé à l’alinéa b);
+
+- b) le survivant visé à l’alinéa b) de cette définition reçoit la fraction du montant total ayant pour numérateur le nombre d’années où il a vécu avec le parlementaire alors que celui-ci avait cette qualité et pour dénominateur le nombre total d’années où il a eu cette qualité.
+
+**Arrondissement**
+
+(1.2) Pour le calcul des années composant la fraction, une partie d’année est comptée comme une année si elle est égale ou supérieure à six mois; elle n’est pas prise en compte dans le cas contraire.
+
+**Allocation de retraite de base**
+
+(2) Pour l’application du présent article, l’allocation de retraite de base comprend :
+
+- a) dans le cas d’un ancien parlementaire, l’ensemble des allocations de retraite et des allocations de retraite supplémentaires qui lui étaient versées au titre de la présente partie au moment de son décès ou auxquelles il aurait eu droit à ce titre avant son décès une fois l’âge de soixante ans atteint;
+
+- b) dans le cas d’un parlementaire actuel, l’ensemble des allocations de retraite et des allocations de retraite supplémentaires auxquelles il aurait eu droit au titre de la présente partie s’il avait perdu la qualité de parlementaire et atteint l’âge de soixante ans avant son décès.
+
+**Réductions non comprises**
+
+(3) Pour l’application du paragraphe (2), si un montant a été soustrait — ou aurait été soustrait — dans le calcul du montant de l’allocation de retraite d’un parlementaire, actuel ou ancien, en vertu de l’article 17.1 ou 17.2, le parlementaire est censé avoir reçu en vertu de cet article une allocation de retraite — ou y avoir eu droit — calculée compte non tenu de cette réduction.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 20; 1992, ch. 46, art. 81; 1995, ch. 30, art. 4; 1999, ch. 34, art. 225; 2012, ch. 22, art. 19
+
+</details>
+
+### 21 Exclusion
+
+Sous réserve des règlements, l’enfant qu’un sénateur ou député a eu après avoir perdu la qualité de parlementaire n’a pas droit à l’allocation visée à l’article 20.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 21; 1992, ch. 46, art. 81
+
+</details>
+
+### 22 Disposition de réserve
+
+L’article 21 n’a pas pour effet de porter atteinte à l’admissibilité d’un enfant issu d’un mariage antérieur du parlementaire, actuel ou ancien, à l’allocation prévue à l’article 20.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 22; 1992, ch. 46, art. 81
+
+</details>
+
+### 23
+
+[Abrogé, 2000, ch. 12, art. 177]
+
+### 24 Modalités
+
+Les allocations visées à l’article 20 :
+
+- a) sont payées à terme échu par versements mensuels sensiblement égaux;
+
+- b) sont payables à compter soit du premier jour du mois qui suit le décès d’un parlementaire actuel, soit du jour suivant le décès d’un ancien parlementaire;
+
+- c) dans le cas d’une allocation prévue à l’alinéa 20(1)a), sont versées au bénéficiaire sa vie durant.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 24; 1992, ch. 46, art. 81; 1995, ch. 30, art. 6; 2000, ch. 12, art. 177
+
+</details>
+
+### 25 Choix pour anciens parlementaires
+
+(1) L’ancien parlementaire peut, lorsque la personne à qui il est marié ou avec laquelle il cohabite dans une union de type conjugal depuis au moins un an n’aurait pas droit au versement d’une allocation en vertu des alinéas 20(1)a) ou 40(1)a), choisir conformément aux règlements, afin que la personne puisse avoir droit à une allocation en vertu du paragraphe (3), de réduire le montant :
+
+- a) des allocations de retraite et de toute allocation de retraite supplémentaire auxquelles il a droit en vertu de la présente partie;
+
+- b) des allocations compensatoires, s’il y a lieu, et de toute allocation compensatoire supplémentaire auxquelles il a droit en vertu de la partie II.
+
+**Condition d’exercice du choix**
+
+(2) Pour pouvoir exercer le choix prévu au paragraphe (1), l’ancien parlementaire doit en même temps exercer celui qui est prévu au paragraphe 45(1), si celui-ci est applicable.
+
+**Droit à une allocation**
+
+(3) La personne qui était mariée à l’ancien parlementaire ou cohabitait avec lui dans une union de type conjugal depuis au moins un an à la date du choix exercé en application du paragraphe (1) et à la date de son décès, a droit à une allocation d’un montant déterminé suivant le choix et les règlements, pourvu que ce choix ne soit pas révoqué ou réputé avoir été révoqué.
+
+**Versement de l’allocation**
+
+(4) L’allocation visée au paragraphe (1) est payable, à compter du jour suivant le décès de l’ancien parlementaire, à terme échu par versements mensuels sensiblement égaux et est versé à la personne sa vie durant.
+
+**Absence de droits concurrents**
+
+(5) La personne qui a droit à une allocation aux termes des articles 20 ou 40 après le décès de l’ancien parlementaire n’a pas droit de recevoir une allocation à l’égard de celui-ci en vertu du paragraphe (3).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 25; 1992, ch. 46, art. 81; 2000, ch. 12, art. 177; 2012, ch. 22, art. 20
+
+</details>
+
+### 26
+
+[Abrogé, 2000, ch. 12, art. 177]
+
+## Convention de retraite des parlementaires
+
+### Institution du compte
+
+### 27 Ouverture et crédit du compte
+
+(1) Est ouvert, parmi les comptes du Canada, le compte de convention de retraite des parlementaires. Ce compte est crédité :
+
+- a) des cotisations versées au titre des articles 31, 33 et 47;
+
+- b) des intérêts versés suivant l’article 33;
+
+- c) des montants visés à l’article 28;
+
+- d) des montants visés au paragraphe 3(2).
+
+**Prestations portées au débit du compte**
+
+(2) Les allocations et autres prestations payables au titre de la présente partie ou de la partie III, ainsi que les prestations supplémentaires correspondantes payables au titre de la partie IV, sont prélevées sur le Trésor et portées au débit du compte.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 27; 1992, ch. 46, art. 81; 2001, ch. 20, art. 20
+
+</details>
+
+### 28 Crédits annuels
+
+(1) À chaque exercice, sont portés au crédit du compte de convention :
+
+- a) le montant que, selon le ministre, il faudra ajouter pour couvrir le coût des allocations, des prestations supplémentaires et des autres prestations acquises pendant chaque mois et qui deviendront imputables à ce compte;
+
+- b) une somme qui représente les intérêts sur le solde créditeur de ce compte, calculée et portée au crédit du compte conformément au paragraphe (2).
+
+**Calcul du montant**
+
+(1.1) La somme visée à l’alinéa (1)b) est portée au crédit du compte de convention trimestriellement au cours de chaque année financière, soit le dernier jour de chaque trimestre, et est calculée par multiplication du solde créditeur du compte le dernier jour du trimestre précédent par le taux visé au paragraphe (1.2).
+
+**Taux**
+
+(1.2) Pour l’application du paragraphe (1.1), le taux est le taux effectif trimestriel dérivé du taux d’intérêt d’évaluation pour l’année civile énoncé dans le plus récent rapport d’évaluation actuarielle à l’égard de la présente loi, déposé au Sénat et à la Chambre des communes en application de l’article 9 de la *Loi sur les rapports relatifs aux pensions publiques*.
+
+**Idem**
+
+(2) À chaque année civile, les remboursements payables, s’il y a lieu, au titre du paragraphe 207.7(2) de la *Loi de l’impôt sur le revenu* sont portés au crédit du compte de convention.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 28; 1992, ch. 46, art. 81; 2012, ch. 22, art. 21
+
+</details>
+
+### 29 Crédits suivant le rapport d’évaluation
+
+Est portée au crédit du compte de convention, à la date et selon les modalités déterminées par le ministre, une somme qu’à son avis, fondé sur des conseils actuariels, il faudra ajouter à ce qu’il estime être le solde créditeur du compte à cette date pour couvrir le coût total des allocations et autres prestations à payer au titre de la présente partie et de la partie III, ainsi que le coût des prestations supplémentaires correspondantes à payer au titre de la partie IV.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 29; 1992, ch. 46, art. 81; 2012, ch. 22, art. 22
+
+</details>
+
+### 29.1 Somme portée au débit
+
+Si le ministre est d’avis, en se fondant sur des conseils actuariels, que ce qu’il estime être le solde créditeur du compte de convention excède le coût total des allocations et des autres prestations à payer en application de la présente partie et de la partie III, ainsi que le coût des prestations supplémentaires correspondantes à payer au titre de la partie IV, il peut être porté au débit du compte, à la date et selon les modalités déterminées par lui, une somme qu’il précise.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 22
+
+</details>
+
+### 30 Montants portés au débit du compte
+
+(1) À chaque année civile, l’impôt payable, s’il y a lieu, au titre du paragraphe 207.7(1) de la *Loi de l’impôt sur le revenu* est porté au débit du compte de convention.
+
+**Montants à porter au crédit d’autres comptes**
+
+(2) Les montants ainsi portés au débit du compte de convention sont portés au crédit du compte approprié parmi les comptes du Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 30; 1992, ch. 46, art. 81
+
+</details>
+
+### Cotisations
+
+### 31 Cotisations
+
+(1) À compter du 1^er^ janvier 2001, les sénateurs et les députés cotisent au compte de convention, par retenue sur leur indemnité de session :
+
+- a) s’ils sont âgés de moins de soixante-neuf ans, au taux de quatre pour cent de la partie de l’indemnité de session qui excède les gains maximums reçus au cours d’une année civile et de trois pour cent du total de l’indemnité de session;
+
+- b) s’ils sont âgés de soixante-neuf ans ou plus, au taux de sept pour cent de l’indemnité de session.
+
+**Cotisations**
+
+(2) Par dérogation au paragraphe 2.3(1), les députés qui pouvaient exercer un choix en vertu des articles 2.1 et 2.6 mais ne l’ont pas fait cotisent au compte de convention, pour la période commençant le 21 septembre 2000 et se terminant le 31 décembre 2000, par retenue sur leur indemnité annuelle, au taux respectif de cinq pour cent avant l’âge de soixante et onze ans et de neuf pour cent à compter de cet âge.
+
+**Cotisations supplémentaires**
+
+(3) Les parlementaires qui ne sont pas visés par l’alinéa 12(1)b) cotisent en sus au compte de convention, à compter du 1^er^ janvier 2001, par retenue au taux de sept pour cent sur leur traitement ou leur indemnité annuelle, sauf s’ils choisissent de ne pas cotiser au titre du présent paragraphe.
+
+**Cotisations supplémentaires**
+
+(4) Sauf s’ils choisissent de ne pas cotiser au titre du paragraphe 9(2) et du présent paragraphe, les parlementaires visés par l’alinéa 12(1)b) et âgés de moins de soixante-neuf ans cotisent en plus au compte de convention, à compter du 1^er^ janvier 2001, par retenue au taux de :
+
+- a) trois pour cent sur la partie de leur traitement ou de leur indemnité annuelle qui n’excède pas les gains maximums reçus au cours d’une année civile;
+
+- b) sept pour cent sur la partie de leur traitement et de leur indemnité annuelle qui excède ces gains.
+
+**Cotisations supplémentaires**
+
+(5) Les parlementaires visés par l’alinéa 12(1)b) et âgés de soixante-neuf ans ou plus cotisent en plus au compte de convention, à compter du 1^er^ janvier 2001, par retenue au taux de sept pour cent sur leur traitement ou leur indemnité annuelle, sauf s’ils choisissent de ne pas cotiser au titre du présent paragraphe.
+
+**Cessation d’application**
+
+(6) Le présent article cesse de s’appliquer le 31 décembre 2012.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 31; 1989, ch. 6, art. 17 et 18; 1992, ch. 46, art. 81; 1995, ch. 30, art. 7; 2000, ch. 27, art. 6; 2001, ch. 20, art. 21; 2003, ch. 16, art. 4; 2012, ch. 22, art. 23
+
+</details>
+
+### 31.1 Cotisations — du 1^er^ janvier 2013 au 31 décembre 2015 — moins de 71 ans
+
+(1) Pendant la période commençant le 1^er^ janvier 2013 et se terminant le 31 décembre 2015, les parlementaires âgés de moins de soixante et onze ans cotisent pour chaque année civile au compte de convention :
+
+- a) par retenue sur leur indemnité de session, au taux de cotisation applicable à l’égard de la partie de leur indemnité de session qui excède leurs gains maximums pour l’année civile;
+
+- b) par retenue, au taux de cotisation applicable, sur leur indemnité de session payable au parlementaire;
+
+- c) par retenue, aux taux de cotisation applicables, sur leur indemnité annuelle ou leur traitement, sauf s’ils choisissent de ne pas cotiser au titre du présent alinéa.
+
+**Cotisations — du 1^er^ janvier 2013 au 31 décembre 2015 — 71 ans ou plus**
+
+(2) Pendant la période commençant le 1^er^ janvier 2013 et se terminant le 31 décembre 2015, les parlementaires âgés de soixante et onze ans ou plus cotisent pour chaque année civile au compte de convention :
+
+- a) par retenue, au taux de cotisation applicable, sur leur indemnité de session;
+
+- b) par retenue, au taux de cotisation applicable, sur leur indemnité annuelle ou leur traitement, sauf s’ils choisissent de ne pas cotiser au titre du présent alinéa.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 24
+
+</details>
+
+### 31.2 Cotisations — à compter du 1^er^ janvier 2016 — moins de 71 ans
+
+(1) À compter du 1^er^ janvier 2016, les parlementaires âgés de moins de soixante et onze ans cotisent pour chaque année civile au compte de convention par retenue sur leurs gains ouvrant droit à pension :
+
+- a) au taux de cotisation applicable à l’égard de la partie de leurs gains ouvrant droit à pension qui excède leurs gains maximums pour l’année civile;
+
+- b) au taux de cotisation applicable à l’égard de leurs gains ouvrant droit à pension.
+
+**Cotisations — à compter du 1^er^ janvier 2016 — 71 ans ou plus**
+
+(2) À compter du 1^er^ janvier 2016, les parlementaires âgés de soixante et onze ans ou plus cotisent au compte de convention par retenue, au taux de cotisation applicable, sur leurs gains ouvrant droit à pension.
+
+**Taux différents**
+
+(3) L’actuaire en chef fixe, pour l’application de l’alinéa (1)a), des taux différents pour les parlementaires qui doivent cotiser en vertu du paragraphe 12(2.1) et, pour l’application du paragraphe (2), des taux différents pour les parlementaires qui devraient cotiser en vertu du paragraphe 12(2.1) s’ils étaient âgés de moins de soixante et onze ans.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 24; 2015, ch. 36, art. 96
+
+</details>
+
+### 32 Choix de cotiser pour une session antérieure
+
+(1) Sous réserve des autres dispositions du présent article, un sénateur ou député qui a perdu sa qualité de parlementaire, puis la recouvre, peut choisir de cotiser au compte de convention pour toute session antérieure à son mandat actuel, au cours de laquelle il a déjà été parlementaire; le cas échéant, ce choix est à exercer conformément au paragraphe 56(2) dans l’année suivant l’ouverture de la première session après que l’intéressé est redevenu parlementaire.
+
+**Choix de cotiser pour une période antérieure**
+
+(1.1) Le parlementaire tenu de cotiser au titre du paragraphe 31(2) peut, dans l’année qui suit le 21 septembre 2000, choisir de cotiser au compte de convention pour la période antérieure à son mandat actuel au cours de laquelle il a déjà été parlementaire, laquelle période antérieure est composée de la période à l’égard de laquelle il n’était pas tenu de cotiser et de la période à l’égard de laquelle il a reçu une indemnité de retrait aux termes du paragraphe 2.3(2).
+
+**Obligation de cotiser à deux régimes**
+
+(2) Le parlementaire qui exerce ce choix doit également choisir de cotiser, pour la session antérieure en cause, au compte d’allocations visé à la partie I.
+
+**Obligation de cotiser à deux régimes**
+
+(2.1) Le parlementaire qui exerce le choix visé au paragraphe (1.1) doit également choisir en même temps de cotiser, pour la période en cause, au compte d’allocations visé à la partie I.
+
+**Autres conditions**
+
+[^](3) Ce choix est en outre subordonné à l’une des conditions suivantes :
+
+- a) le parlementaire a déjà cotisé ou choisi de cotiser, à l’égard de la session antérieure, en vertu de la présente partie ou des parties I ou III de la version antérieure et il avait droit à une indemnité de retrait pour cette session soit au titre des articles 15 ou 32 de cette version, soit au titre de l’article 38;
+
+- b) il avait le droit, avant la fin de son mandat antérieur, de choisir de cotiser à l’égard de cette session mais ne l’a pas fait;
+
+- c) il n’avait pas qualité de député le jour de l’entrée en vigueur du présent alinéa, a reçu une indemnité de retrait aux termes du paragraphe 2.3(2) et n’a pas choisi, aux termes de l’article 2.6, de se soumettre de nouveau à l’application de la présente loi;
+
+- d) il a reçu une indemnité de retrait aux termes du paragraphe 2.3(2) et n’a pas choisi, aux termes du paragraphe (1.1), de se soumettre à l’application de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 32; 1992, ch. 46, art. 81; 1998, ch. 23, art. 13; 2000, ch. 27, art. 7; 2001, ch. 20, art. 22
+
+</details>
+
+### 33 Cotisations pour une session antérieure
+
+(1) Le parlementaire qui choisit de cotiser au titre du paragraphe 32(1) au compte de convention pour une session antérieure verse au Trésor :
+
+- a) dans le cas d’une session où il était député et d’un choix exercé avant le 13 juillet 1995, une cotisation égale soit à sept pour cent s’il exerce le choix avant l’âge de soixante et onze ans, soit à onze pour cent s’il l’exerce à compter de cet âge :
+  - (i) de l’indemnité de session correspondante,
+  - (ii) du traitement ou de l’indemnité annuelle s’il a décidé de cotiser à cet égard;
+
+- a.1) dans le cas d’une session où il était député et d’un choix exercé le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001, une cotisation égale soit à cinq pour cent s’il exerce le choix avant l’âge de soixante et onze ans, soit à neuf pour cent s’il l’exerce à compter de cet âge :
+  - (i) de l’indemnité de session correspondante,
+  - (ii) du traitement ou de l’indemnité annuelle s’il a décidé de cotiser à cet égard;
+
+- a.2) dans le cas d’une session où il était député et pour laquelle son indemnité de session excède ses gains maximums pour l’année civile et d’un choix exercé le 1^er^ janvier 2001 ou par la suite :
+  - (i) s’il exerce le choix avant d’atteindre l’âge de soixante-neuf ans :
+    - (A) une cotisation égale à la somme de quatre pour cent de la partie de cette indemnité de session qui excède ses gains maximums et de trois pour cent du total de cette indemnité de session,
+    - (B) une cotisation égale à sept pour cent de la somme de son traitement et de son indemnité annuelle s’il a choisi de cotiser à cet égard,
+  - (ii) s’il a au moins soixante-neuf ans lorsqu’il exerce le choix :
+    - (A) une cotisation égale à sept pour cent de cette indemnité de session,
+    - (B) une cotisation égale à sept pour cent de la somme de son traitement et de son indemnité annuelle s’il a choisi de cotiser à cet égard;
+
+- a.3) dans le cas d’une session où il était député et pour laquelle son indemnité de session n’excède pas ses gains maximums pour l’année civile et d’un choix exercé le 1^er^ janvier 2001 ou par la suite :
+  - (i) une cotisation égale soit à trois pour cent de cette indemnité de session, s’il exerce le choix avant d’atteindre l’âge de soixante-neuf ans, soit à sept pour cent de cette indemnité de session, s’il a au moins soixante-neuf ans lorsqu’il exerce le choix,
+  - (ii) s’il touchait un traitement ou une indemnité annuelle pour cette session et a également choisi de cotiser cet égard :
+    - (A) une cotisation égale à la somme de trois pour cent de la partie de ce traitement ou de cette indemnité annuelle qui, combiné à son indemnité de session, n’excède pas ses gains maximums pour l’année civile et de sept pour cent de la partie de ce traitement ou de cette indemnité annuelle qui, combiné à son indemnité de session, excède ses gains maximums pour l’année civile, s’il exerce le choix avant d’atteindre l’âge de soixante-neuf ans,
+    - (B) une cotisation égale à sept pour cent de ce traitement ou de cette indemnité annuelle, s’il a au moins soixante-neuf ans lorsqu’il exerce le choix;
+
+- b) dans le cas d’une session où il était sénateur :
+  - (i) à la condition que le choix soit exercé le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001, une cotisation égale soit à trois pour cent s’il exerce son choix avant l’âge de soixante et onze ans, soit à sept pour cent s’il l’exerce à compter de cet âge, de l’indemnité de session correspondante,
+  - (ii) à la condition que le choix soit exercé avant le 13 juillet 1995, une cotisation égale soit à sept pour cent, s’il exerce son choix avant l’âge de soixante et onze ans, soit à onze pour cent, s’il l’exerce à compter de cet âge, du traitement ou de l’indemnité annuelle s’il a décidé de cotiser à cet égard au titre du présent sous-alinéa et, s’il y a lieu, du paragraphe (2),
+  - (iii) dans le cas où le choix est exercé le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001, une cotisation égale soit à cinq pour cent, s’il exerce son choix avant l’âge de soixante et onze ans, soit à neuf pour cent, s’il l’exerce à compter de cet âge, du traitement ou de l’indemnité annuelle s’il a décidé de cotiser à cet égard au titre du présent sous-alinéa et, s’il y a lieu, du paragraphe (2),
+  - (iv) dans le cas d’un choix exercé le 1^er^ janvier 2001 ou par la suite et d’une session pour laquelle son indemnité de session excède ses gains maximums pour l’année civile :
+    - (A) s’il exerce le choix avant d’atteindre l’âge de soixante-neuf ans :
+    - (B) s’il a au moins soixante-neuf ans lorsqu’il exerce le choix :
+  - (v) dans le cas d’un choix exercé le 1^er^ janvier 2001 ou par la suite et d’une session pour laquelle son indemnité de session n’excède pas ses gains maximums pour l’année civile :
+    - (A) s’il exerce le choix avant d’atteindre l’âge de soixante-neuf ans :
+    - (B) s’il a au moins soixante-neuf ans lorsqu’il exerce le choix :
+
+- c) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final de l’indemnité de session ou, s’il y a lieu, du traitement ou de l’indemnité annuelle à l’égard de cette session jusqu’à celle du choix.
+
+**Cotisations pour une période antérieure**
+
+(1.1) Le parlementaire qui choisit de cotiser au compte de convention pour la période visée au paragraphe 32(1.1) verse au Trésor :
+
+- a) une cotisation égale à cinq pour cent s’il exerce le choix avant l’âge de soixante et onze ans, et à neuf pour cent s’il l’exerce à compter de cet âge :
+  - (i) de l’indemnité de session correspondante,
+  - (ii) des montants reçus, à l’égard de cette période, au titre de son traitement ou de son indemnité annuelle s’il a, par ce choix, décidé d’y cotiser;
+
+- b) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final pour cette période de l’indemnité de session, du traitement ou de l’indemnité annuelle jusqu’à celle du choix.
+
+**Cotisations maximales**
+
+(2) Le parlementaire de moins de soixante et onze ans ne verse pas de cotisations au titre du sous-alinéa (1)a)(ii) sur la fraction de la somme de l’indemnité de session, du traitement ou de l’indemnité annuelle qui excède les gains maximums reçus au cours d’une ou plusieurs sessions d’une année civile ou ceux reçus pour la fraction de l’année où il avait la qualité de parlementaire comparé à l’année entière et calculé conformément au règlement; toutefois, il verse au Trésor :
+
+- a) dans le cas du choix exercé avant le 13 juillet 1995, onze pour cent de cet excédent et, dans le cas du choix exercé le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001, neuf pour cent de cet excédent;
+
+- b) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final de ce traitement ou de cette indemnité annuelle jusqu’à celle du choix.
+
+**Cotisations maximales**
+
+(3) Le parlementaire de moins de soixante et onze ans ne verse pas de cotisations au titre du sous-alinéa (1.1)a)(ii) sur la fraction de la somme de l’indemnité de session, du traitement ou de l’indemnité annuelle qui excède les gains maximums reçus au cours d’une période déterminée d’une année civile ou ceux reçus pour la fraction de l’année où il avait la qualité de parlementaire comparé à l’année entière et calculé conformément au règlement; toutefois, il verse au Trésor :
+
+- a) une cotisation égale à neuf pour cent de cet excédent;
+
+- b) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final de ce traitement ou de cette indemnité annuelle jusqu’à celle du choix.
+
+**Gains maximums pour une année partielle**
+
+(4) Pour l’application du paragraphe (1), les gains maximums du parlementaire qui n’avait pas la qualité de parlementaire pour une année civile entière sont, pour cette année, ceux auxquels il aurait par ailleurs eu droit multipliés par la fraction de l’année civile au cours de laquelle il avait cette qualité.
+
+**Application**
+
+(5) Le présent article ne s’applique qu’à l’égard des choix faits avant 1^er^ janvier 2013.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 33; 1992, ch. 46, art. 81; 1995, ch. 30, art. 8; 2000, ch. 27, art. 8; 2001, ch. 20, art. 23; 2003, ch. 16, art. 5; 2012, ch. 22, art. 25
+
+</details>
+
+### 33.1 Cotisations pour des sessions antérieures — choix fait entre le 1^er^ janvier 2013 et le 31 décembre 2015
+
+(1) Le parlementaire qui choisit, pendant la période commençant le 1^er^ janvier 2013 et se terminant le 31 décembre 2015, de cotiser au compte de convention pour une session antérieure verse au Trésor :
+
+- a) s’il est âgé de moins de soixante et onze ans au moment de son choix, à la fois :
+  - (i) une cotisation calculée au taux de cotisation qui lui est applicable — fixé pour l’application de l’alinéa 31.1(1)a) — et qui est en vigueur à la date du choix à l’égard de la partie de son indemnité de session au cours de cette session qui excède ses gains maximums pour l’année en question au cours de cette session,
+  - (ii) une cotisation calculée au taux de cotisation qui lui est applicable — fixé pour l’application de l’alinéa 31.1(1)b) — et qui est en vigueur à la date du choix à l’égard de son indemnité de session au cours de cette session qui excède ses gains maximums pour l’année en question au cours de cette session,
+  - (iii) une cotisation calculée au taux de cotisation qui lui est applicable — fixé pour l’application de l’alinéa 31.1(1)c) — et qui est en vigueur à la date du choix à l’égard de son indemnité annuelle ou de son traitement au cours de cette session s’il a choisi de cotiser à cet égard;
+
+- b) s’il est âgé de soixante et onze ans ou plus au moment de son choix, à la fois :
+  - (i) une cotisation calculée au taux de cotisation qui lui est applicable — fixé pour l’application de l’alinéa 31.1(2)a) — et qui est en vigueur à la date du choix à l’égard de son indemnité de session au cours de cette session,
+  - (ii) une cotisation calculée au taux de cotisation qui lui est applicable — fixé pour l’application de l’alinéa 31.1(2)b) — et qui est en vigueur à la date du choix à l’égard de son indemnité annuelle ou de son traitement au cours de cette session s’il a choisi de cotiser à cet égard;
+
+- c) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final, pour cette session, de l’indemnité de session, du traitement ou de l’indemnité annuelle, selon le cas, jusqu’à celle du choix.
+
+**Gains maximums pour une année partielle**
+
+(2) Pour l’application du paragraphe (1), les gains maximums du parlementaire qui n’avait pas la qualité de parlementaire pendant une année civile entière sont, pour cette année, ceux auxquels il aurait par ailleurs eu droit multipliés par la fraction de l’année civile pendant laquelle il avait cette qualité.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 26
+
+</details>
+
+### 33.2 Cotisations pour des sessions antérieures — choix à compter du 1^er^ janvier 2016
+
+(1) Le parlementaire qui choisit, le 1^er^ janvier 2016 ou par la suite, de cotiser au compte de convention pour une session antérieure verse au Trésor :
+
+- a) s’il est âgé de moins de soixante et onze ans au moment de son choix, à la fois :
+  - (i) une cotisation calculée au taux de cotisation qui lui est applicable — fixé pour l’application de l’alinéa 31.2(1)a) — et qui est en vigueur à la date du choix à l’égard de la partie de ses gains ouvrant droit à pension au cours de cette session qui excède ses gains maximums au cours de l’année en question pour cette session,
+  - (ii) une cotisation calculée au taux de cotisation qui lui est applicable — fixé pour l’application de l’alinéa 31.2(1)b) — et qui est en vigueur à la date du choix à l’égard de ses gains ouvrant droit à pension au cours de cette session;
+
+- b) s’il est âgé de soixante et onze ans ou plus au moment de son choix, une cotisation calculée au taux de cotisation qui lui est applicable — fixé pour l’application du paragraphe 31.2(2) — et qui est en vigueur à la date du choix à l’égard de ses gains ouvrant droit à pension au cours de cette session;
+
+- c) les intérêts sur cette cotisation calculés au taux et selon les modalités réglementaires, à compter de la date du versement final, pour cette session, des gains ouvrant droit à pension jusqu’à celle du choix.
+
+**Gains maximums pour une année partielle**
+
+(2) Pour l’application du paragraphe (1), les gains maximums du parlementaire qui n’avait pas la qualité de parlementaire pendant une année civile entière sont, pour cette année, ceux auxquels il aurait par ailleurs eu droit multipliés par la fraction de l’année civile pendant laquelle il avait cette qualité.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 26
+
+</details>
+
+### 34 Limitation
+
+Malgré les autres dispositions de la présente partie, il n’est pas prélevé de cotisations au titre de celle-ci à l’égard d’une session au cours de laquelle un parlementaire a perdu sa qualité de sénateur pour cause de déchéance ou a été expulsé de la Chambre des communes.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 34; 1992, ch. 46, art. 81; 2001, ch. 20, art. 24; 2003, ch. 16, art. 6; 2012, ch. 22, art. 26
+
+</details>
+
+### 34.1 Maintien d’une cotisation d’un pour cent — du 1^er^ janvier 2001 au 31 décembre 2012 — 69 ans et plus
+
+(1) Pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2012, le parlementaire âgé de soixante-neuf ans ou plus cotise en vertu de la présente partie, pour chaque année civile, par retenue sur son indemnité de session, un pour cent de l’indemnité de session qui lui est due après que le total des produits obtenus par multiplication du nombre d’années de service validable à son crédit par les facteurs indiqués au paragraphe 16(1) et, selon le cas, aux paragraphes 36(2) ou (6) donne 0,75.
+
+**Réserve — un pour cent**
+
+(2) Pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2012, les parlementaires assujettis au paragraphe 12(2) cotisent au compte de convention, pour chaque année civile, par retenue sur leur indemnité de session, un pour cent de la partie de leur indemnité de session qui excède leurs gains maximums reçus pour l’année civile.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 26
+
+</details>
+
+### 34.2 Sommes exclues du calcul
+
+En calculant la somme totale qu’un parlementaire a versée ou choisi de verser au titre de la présente partie, on ne peut inclure :
+
+- a) aucune cotisation à l’égard de laquelle une indemnité de retrait a été versée au titre de la présente partie;
+
+- b) aucune cotisation à l’égard de laquelle son choix a été révoqué au titre de la présente partie;
+
+- c) aucune somme versée à titre d’intérêt.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 26
+
+</details>
+
+### Allocations
+
+### 35 Droit aux allocations
+
+Les allocations et autres prestations prévues à la présente partie sont versées aux sénateurs ou aux députés qui perdent leur qualité de parlementaire ou, au décès de parlementaires, actuels ou anciens, aux ayants cause visés à la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 35; 1992, ch. 46, art. 81
+
+</details>
+
+### 36 Allocation compensatoire
+
+(1) Sous réserve des articles 58 et 59, une allocation compensatoire déterminée conformément au présent article est payée au parlementaire, sa vie durant, à l’égard des cotisations versées au titre de la présente partie, à l’exception de celles qu’il a versées à l’égard de son traitement ou de son indemnité annuelle ou au titre des paragraphes 34(2) ou (2.1), dans leur version au 31 décembre 2012 — ou des alinéas 31.1(1)a) ou (2)a) si le parlementaire cotisait au taux de cotisation prévu au paragraphe 485. 2.7(9) —, lorsque le parlementaire, à la fois :
+
+- a) perd sa qualité de parlementaire à compter du 1^er^ janvier 1992;
+
+- b) a cotisé ou choisi de cotiser au titre soit de la présente partie, soit des parties I ou III de la version antérieure, pendant au moins six ans.
+
+**Allocation compensatoire à payer à l’ancien député**
+
+(2) L’allocation compensatoire à payer à l’ancien parlementaire en application du présent article est, dans le cas de cotisations à titre de député, égale au total du montant obtenu selon l’alinéa a) et de celui obtenu selon l’alinéa b) :
+
+- a) le produit de la moyenne annuelle de son indemnité de session et, sous réserve des paragraphes (3) et (3.1), du nombre d’années et de fractions d’année de service validable, calculé pour l’application de l’alinéa 16(1)b) conformément aux paragraphes 16(5) et (6), multiplié par :
+  - (i) s’il a moins de soixante ans :
+    - (A) 0,05 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé — le 1^er^ janvier 1992 ou par la suite mais avant le 13 juillet 1995,
+    - (B) 0,04 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé à la division (A) — le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001,
+    - (C) 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé aux divisions (A) ou (B) — le 1^er^ janvier 2001 ou par la suite mais avant le 1^er^ janvier 2016,
+  - (ii) sous réserve des sous-alinéas (iii) et (iv), s’il a au moins soixante ans :
+    - (A) 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé — le 1^er^ janvier 1992 ou par la suite mais avant le 13 juillet 1995,
+    - (B) 0,02 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé à la division (A) — le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001,
+    - (C) 0,01 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé aux divisions (A) ou (B) — le 1^er^ janvier 2001 ou par la suite mais avant le 1^er^ janvier 2016,
+  - (iii) s’il a au moins soixante et onze ans et a cotisé après avoir atteint cet âge :
+    - (A) 0,05 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé — au cours de la période commençant le 1^er^ janvier 1992 ou, s’il est postérieur, le jour de son soixante et onzième anniversaire et se terminant le 12 juillet 1995,
+    - (B) 0,04 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé à la division (A) — au cours de la période commençant le 13 juillet 1995 ou, s’il est postérieur, le jour de son soixante et onzième anniversaire et se terminant le 31 décembre 2000,
+    - (C) 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé aux divisions (A) ou (B) ou au sous-alinéa a)(iv) — pendant la période commençant le 1^er^ janvier 2013 ou, s’il est postérieur, le jour de son soixante et onzième anniversaire et se terminant le 31 décembre 2015,
+  - (iv) s’il a au moins soixante-neuf ans, 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé aux divisions (iii)(A) ou (B) — pendant la période commençant le 1^er^ janvier 2001 ou, s’il est postérieur, le jour de son soixante-neuvième anniversaire et se terminant le 31 décembre 2012;
+
+- b) le produit de la moyenne annuelle de son indemnité de session et du nombre d’années de service validable, calculé conformément au paragraphe (4), multiplié par 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations — sauf celles à l’égard desquelles le choix a été exercé avant le 1^er^ janvier 2001 — versées pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2012;
+
+- c) le produit de la moyenne annuelle de son indemnité de session et du nombre d’années de service validable, calculé conformément au paragraphe (4.1), multiplié par 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations — sauf celles à l’égard desquelles le choix a été exercé avant le 1^er^ janvier 2013 — versées pendant la période commençant le 1^er^ janvier 2013 et se terminant le 31 décembre 2015.
+
+**Calcul des années de service validable pour l’application des divisions (2)a)(iii)(A) et (B)**
+
+(3) Pour l’application des divisions (2)a)(iii)(A) et (B), le député qui perd sa qualité de parlementaire est censé avoir à son crédit une année de service validable pour :
+
+- a) chaque cotisation — égale à onze pour cent de l’indemnité de session versée, au cours d’une année civile, à un député — qu’il a, avant le 13 juillet 1995, versée ou choisi de verser au cours d’une année civile, au titre des articles 31 ou 33, dans leur version antérieure à cette date, à l’exception des sommes versées à l’égard de son traitement ou de son indemnité annuelle ou à titre d’intérêts;
+
+- b) chaque cotisation — égale à neuf pour cent de l’indemnité de session versée, au cours d’une année civile, à un député — qu’il a, le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001, versée ou choisi de verser au cours d’une année civile, au titre des articles 31 ou 33, dans leur version antérieure au 1^er^ janvier 2001, à l’exception des sommes versées à l’égard de son traitement ou de son indemnité annuelle ou à titre d’intérêts.
+
+**Calcul des années de service validable pour l’application de la division (2)a)(iii)(C) et des sous-alinéas (2)a)(iv) et (6)a)(iv)**
+
+(3.1) Pour l’application de la division (2)a)(iii)(C) et des sous-alinéas (2)a)(iv) et (6)a)(iv), le sénateur ou le député qui perd sa qualité de parlementaire est censé avoir à son crédit le même nombre d’années et de fractions d’année de service validable qui serait calculé pour l’application de l’alinéa 16(1)b) conformément aux paragraphes 16(5) et (6) s’il était tenu de cotiser au titre de la partie I.
+
+**Calcul des années de service validable pour l’application des alinéas (2)b) et (6)b)**
+
+(4) Pour l’application des alinéas (2)b) et (6)b), le sénateur ou le député qui perd sa qualité de parlementaire est censé avoir à son crédit une année de service validable pour chaque cotisation — égale à sept pour cent de l’indemnité de session qui lui a été versée, au cours d’une année civile, à titre de sénateur ou de député, selon le cas — qu’il a, pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2012, versée ou choisi de verser sous le régime des paragraphes 31(1) ou 33(1) à l’égard de la partie de son indemnité de session qui excède ses gains maximums pour l’année civile.
+
+**Calcul des années de service validable pour l’application des alinéas (2)c) et (6)c)**
+
+(4.1) Pour l’application des alinéas (2)c) et (6)c), relativement aux années civiles 2013, 2014 et 2015, le sénateur ou le député qui perd sa qualité de parlementaire est censé avoir à son crédit une année de service validable pour chaque cotisation calculée conformément au paragraphe (4.2) qu’il a, pendant l’année civile, versée ou choisi de verser sous le régime de l’article 31.1 ou du paragraphe 33.1(1) à l’égard de la partie de son indemnité de session qui excède ses gains maximums pour l’année civile.
+
+**Calcul pour l’application du paragraphe (4.1)**
+
+(4.2) Pour l’application du paragraphe (4.1), la cotisation représente l’indemnité de session qui a été versée au parlementaire, au cours de l’année civile, à titre de sénateur ou de député, selon le cas, multipliée par le taux de cotisation qui est fixé pour cette année civile pour l’application de l’alinéa 31.1(2)a).
+
+**Application des paragraphes (3), (4), (4.1) et (7)**
+
+(5) Pour l’application des paragraphes (3), (4), (4.1) et (7), la présomption du paragraphe 16(6) relative à la fraction d’année de service validable est à prendre en compte avec les adaptations nécessaires.
+
+**Allocation compensatoire à payer à l’ancien sénateur**
+
+(6) L’allocation compensatoire à payer à l’ancien parlementaire en application du présent article est, dans le cas de cotisations versées à titre de sénateur, égale au total du montant obtenu selon l’alinéa a) et de celui obtenu selon l’alinéa b) :
+
+- a) le produit de la moyenne annuelle de son indemnité de session et, sous réserve du paragraphe (7), du nombre d’années et de fractions d’année de service validable, calculé pour l’application de l’alinéa 16(1)b) conformément aux paragraphes 16(5) et (6), multiplié par :
+  - (i) s’il a moins de soixante ans, 0,03,
+  - (ii) sous réserve des sous-alinéas (iii) et (iv), s’il a au moins soixante ans, 0,01,
+  - (iii) s’il a au moins soixante-neuf ans, 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf les choix exercés avant son soixante-neuvième anniversaire — pendant la période commençant le 1^er^ janvier 2001 ou, s’il est postérieur, le jour de son soixante-neuvième anniversaire et se terminant le 31 décembre 2012,
+  - (iv) s’il a au moins soixante et onze ans, 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf les choix exercés avant son soixante et onzième anniversaire — pendant la période commençant le 1^er^ janvier 2013 ou, s’il est postérieur, le jour de son soixante et onzième anniversaire et se terminant le 31 décembre 2015;
+
+- b) le produit de la moyenne annuelle de son indemnité de session et du nombre d’années de service validable, calculé conformément au paragraphe (4), multiplié par 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations — sauf celles à l’égard desquelles le choix a été exercé avant le 1^er^ janvier 2001 — versées pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2012;
+
+- c) le produit de la moyenne annuelle de son indemnité de session et du nombre d’années de service validable, calculé conformément au paragraphe (4.1), multiplié par 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations — sauf celles à l’égard desquelles le choix a été exercé avant le 1^er^ janvier 2013 — versées pendant la période commençant le 1^er^ janvier 2013 et se terminant le 31 décembre 2015.
+
+**Calcul des années de service validable pour l’application du sous-alinéa (6)a)(iii)**
+
+(7) Pour l’application du sous-alinéa (6)a)(iii), le sénateur qui perd sa qualité de parlementaire est censé avoir à son crédit une année de service validable pour chaque cotisation — égale à sept pour cent de l’indemnité de session qui lui a été versée, au cours d’une année civile, à titre de sénateur — qu’il a, avant le 1^er^ janvier 2001, versée ou choisi de verser au cours de cette année civile au titre des articles 31 ou 33, dans leur version antérieure à cette date, à l’exception des sommes versées à l’égard de son traitement ou de son indemnité annuelle ou à titre d’intérêts.
+
+**Cas particulier : choix exercé avant le 1^er^ janvier 2001**
+
+(8) Les multiplicateurs visés à l’alinéa (2)a) sont remplacés, dans les cas où l’allocation compensatoire est à verser à une personne qui, le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001, a choisi de cotiser au titre de la présente partie pour une session ou partie de session antérieure au 1^er^ janvier 2001, par les suivants :
+
+- a) si la personne a moins de soixante ans, 0,04;
+
+- b) si elle a au moins soixante ans et n’est pas régie par l’alinéa c), 0,02;
+
+- c) si elle a au moins soixante et onze ans et a cotisé après avoir atteint cet âge, 0,04 pour les années et fractions d’année de service validable calculées en fonction des cotisations — sauf celles à l’égard desquelles un choix a été exercé antérieurement — versées à compter de son soixante et onzième anniversaire.
+
+**Cas particulier : choix exercé entre le 1^er^ janvier 2001 et le 31 décembre 2015**
+
+(9) Les multiplicateurs visés à l’alinéa (2)a) sont remplacés, dans les cas où l’allocation compensatoire est à verser à une personne qui, pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2015, a choisi de cotiser au titre de la présente partie pour une session ou partie de session antérieure au 31 décembre 2015, par les suivants :
+
+- a) si la personne a moins de soixante ans, 0,03;
+
+- b) si elle a au moins soixante ans et n’est pas régie par les alinéas c) et d), 0,01;
+
+- c) si elle a au moins soixante-neuf ans et a cotisé après avoir atteint cet âge, 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations — sauf celles à l’égard desquelles un choix a été exercé antérieurement — versées pendant la période commençant le 1^er^ janvier 2001 ou, s’il est postérieur, le jour de son soixante-neuvième anniversaire et se terminant le 31 décembre 2012;
+
+- d) si elle a au moins soixante et onze ans et a cotisé après avoir atteint cet âge, 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf les choix exercés avant son soixante et onzième anniversaire — pendant la période commençant le 1^er^ janvier 2013 ou, s’il est postérieur, le jour de son soixante et onzième anniversaire et se terminant le 31 décembre 2015.
+
+**Exception**
+
+(10) Les divisions (2)a)(i)(B), (ii)(B) et (iii)(B) et le paragraphe (8), et non les divisions (2)a)(i)(C) et (ii)(C), le sous-alinéa (2)a)(iv) et le paragraphe (9), s’appliquent à l’égard de la période de service validable au crédit d’un parlementaire en vertu d’un choix exercé au titre des paragraphes 10(1.1) ou 32(1.1) ou, dans le cas d’un choix exercé le 27 novembre 2000 ou par la suite mais avant le 27 novembre 2001, des paragraphes 10(1) ou 32(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 36; 1992, ch. 46, art. 81; 1995, ch. 30, art. 9; 2001, ch. 20, art. 25; 2003, ch. 16, art. 7; 2012, ch. 22, art. 27 et 41
+
+</details>
+
+### 37 Allocation compensatoire supplémentaire
+
+(1) Sous réserve de l’article 58, le sénateur ou député qui perd sa qualité de parlementaire à compter du 1^er^ janvier 1992 et qui, d’une part, a cotisé ou choisi de cotiser au titre soit de la présente partie, soit des parties I ou III de la version antérieure, pendant au moins six ans en cette qualité, d’autre part, a cotisé au titre de la présente partie à l’égard de son traitement ou de son indemnité annuelle a droit, sa vie durant, à une allocation compensatoire supplémentaire déterminée suivant le présent article.
+
+**Idem**
+
+(2) L’allocation compensatoire supplémentaire payable à l’ancien parlementaire est égale au total :
+
+- a) du produit de la moyenne annuelle de son indemnité de session par le nombre d’années et de fractions d’année de service validable, calculé pour l’application de l’alinéa 17(1)b) conformément aux paragraphes 17(4) et (5), multiplié par :
+  - (i) s’il a moins de soixante ans :
+    - (A) 0,05 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé — le 1^er^ janvier 1992 ou par la suite mais avant le 13 juillet 1995,
+    - (B) 0,04 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé à la division (A) — le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001,
+    - (C) 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé aux divisions (A) ou (B) — le 1^er^ janvier 2001 ou par la suite mais avant le 1^er^ janvier 2016,
+  - (ii) sous réserve des sous-alinéas (iii) et (iv), s’il a au moins soixante ans :
+    - (A) 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé — le 1^er^ janvier 1992 ou par la suite mais avant le 13 juillet 1995,
+    - (B) 0,02 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé à la division (A) — le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001,
+    - (C) 0,01 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé aux divisions (A) ou (B) — le 1^er^ janvier 2001 ou par la suite mais avant le 1^er^ janvier 2016,
+  - (iii) s’il a au moins soixante et onze ans et a cotisé après avoir atteint cet âge :
+    - (A) 0,05 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé — au cours de la période commençant le 1^er^ janvier 1992 ou, s’il est postérieur, le jour de son soixante et onzième anniversaire et se terminant le 12 juillet 1995,
+    - (B) 0,04 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé à la division (A) — au cours de la période commençant le 13 juillet 1995 ou, s’il est postérieur, le jour de son soixante et onzième anniversaire et se terminant le 31 décembre 2000,
+    - (C) 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé aux divisions (A) ou (B) — pendant la période commençant le 1^er^ janvier 2013 ou, s’il est postérieur, le jour de son soixante et onzième anniversaire et se terminant le 31 décembre 2015,
+  - (iv) s’il a au moins soixante-neuf ans et a cotisé après avoir atteint cet âge, 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf les choix visés au sous-alinéa (iii) — pendant la période commençant le 1^er^ janvier 2001 ou, s’il est postérieur, le jour de son soixante-neuvième anniversaire et se terminant le 31 décembre 2012;
+
+- b) du produit de la moyenne annuelle de son indemnité de session par le nombre d’années de service validable, calculé conformément aux paragraphes (3) et (4), multiplié par :
+  - (i) 0,05 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé — le 1^er^ janvier 1992 ou par la suite mais avant le 13 juillet 1995,
+  - (ii) 0,04 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf le choix visé au sous-alinéa (i) — le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001,
+  - (iii) 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations — sauf celles à l’égard desquelles un choix a été exercé avant le 1^er^ janvier 2001 — versées pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2012,
+  - (iv) 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations — sauf celles à l’égard desquelles un choix a été exercé avant le 1^er^ janvier 2013 — versées pendant la période commençant le 1^er^ janvier 2013 et se terminant le 31 décembre 2015.
+
+**Calcul des années de service validable**
+
+(3) Pour l’application de l’alinéa (2)b), le sénateur ou député qui perd sa qualité de parlementaire est censé avoir à son crédit une année de service validable pour :
+
+- a) chaque cotisation — égale à onze pour cent de l’indemnité de session versée, au cours d’une année civile, à un député — qu’il a, avant le 13 juillet 1995, versée ou choisi de verser au cours d’une année civile, au titre des paragraphes 31(2) ou (3) ou 33(2), dans leur version antérieure à l’entrée en vigueur du présent alinéa, ou des sous-alinéas 33(1)a)(ii) ou b)(ii) s’il avait atteint l’âge de soixante et onze ans à la date du choix;
+
+- b) chaque cotisation — égale à neuf pour cent de l’indemnité de session versée, au cours d’une année civile, à un député — qu’il a, le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001, versée ou choisi de verser au cours d’une année civile, au titre des dispositions visées à l’alinéa a);
+
+- c) chaque cotisation — égale à sept pour cent de l’indemnité de session qui lui a été versée, au cours d’une année civile, à titre de sénateur ou de député, selon le cas — qu’il a, pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2012, versée ou choisi de verser sous le régime du paragraphe 31(3), de l’alinéa 31(4)b) ou des paragraphes 31(5) ou 33(1), à l’exception des sommes versées sous le régime de ce dernier paragraphe à l’égard d’une indemnité de session ou à titre d’intérêts;
+
+**Calcul des années de service validable**
+
+(3.1) Pour l’application de l’alinéa (2)b), relativement aux années civiles 2013, 2014 et 2015, le sénateur ou député qui perd sa qualité de parlementaire est censé avoir à son crédit une année de service validable pour chaque cotisation calculée conformément au paragraphe (3.2) qu’il a, pendant l’année civile, versée ou choisi de verser sous le régime de l’alinéa 31.1(1)c) ou (2)b) ou du paragraphe 33.1(1), à l’exception des sommes versées sous le régime de ce dernier paragraphe à l’égard d’une indemnité de session ou à titre d’intérêts.
+
+**Calcul pour l’application du paragraphe (3.1)**
+
+(3.2) Pour l’application du paragraphe (3.1), la cotisation représente l’indemnité de session qui a été versée au parlementaire, au cours de l’année civile, à titre de sénateur ou de député, selon le cas, multipliée par le taux de cotisation qui est fixé pour cette année civile pour l’application de l’alinéa 31.1(2)a).
+
+**Application du paragraphe 14(3)**
+
+(4) Pour l’application du paragraphe (3), la présomption du paragraphe 14(3) relative à la fraction d’année de service validable est à prendre en compte avec les adaptations nécessaires.
+
+**Cas particulier**
+
+(5) Dans les cas où l’allocation compensatoire supplémentaire est payable à une personne qui, le 13 juillet 1995 ou par la suite mais avant le 1^er^ janvier 2001, a choisi de cotiser au titre de la présente partie pour une session ou partie de session antérieure au 1^er^ janvier 2001, les multiplicateurs sont modifiés de la façon suivante :
+
+- a) ceux visés à l’alinéa (2)a) sont remplacés par les suivants :
+  - (i) si la personne a moins de soixante ans, 0,04,
+  - (ii) si elle a au moins soixante ans et n’est pas régie par le sous-alinéa (iii), 0,02,
+  - (iii) si elle a au moins soixante et onze ans et a cotisé après avoir atteint cet âge, 0,04 pour les années et fractions d’année de service validable calculées en fonction des cotisations — sauf celles à l’égard desquelles un choix a été exercé antérieurement — versées à compter de son soixante et onzième anniversaire;
+
+- b) ceux visés à l’alinéa (2)b) sont remplacés par 0,04.
+
+**Cas particulier : choix exercé entre le 1^er^ janvier 2001 et le 31 décembre 2015**
+
+(6) Les multiplicateurs visés à l’alinéa (2)a) sont remplacés, dans les cas où l’allocation compensatoire supplémentaire est à verser à une personne qui, pendant la période commençant le 1^er^ janvier 2001 et se terminant le 31 décembre 2015, a choisi de cotiser au titre de la présente partie pour une session ou partie de session antérieure au 31 décembre 2015, par les suivants :
+
+- a) si la personne a moins de soixante ans, 0,03;
+
+- b) si elle a au moins soixante ans et n’est pas régie par les alinéas c) et d), 0,01;
+
+- c) si elle a au moins soixante-neuf ans et a cotisé après avoir atteint cet âge, 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées ou à l’égard desquelles un choix a été exercé, sauf tout choix exercé antérieurement pendant la période commençant le 1^er^ janvier 2001 ou, s’il est postérieur, le jour de son soixante-neuvième anniversaire et se terminant le 31 décembre 2012;
+
+- d) si elle a au moins soixante et onze ans et a cotisé après avoir atteint cet âge, 0,03 pour les années et fractions d’année de service validable calculées en fonction des cotisations versées — ou à l’égard desquelles un choix a été exercé, sauf tout choix exercé avant son soixante et onzième anniversaire — pendant la période commençant le 1^er^ janvier 2013 ou, s’il est postérieur, le jour de son soixante et onzième anniversaire et se terminant le 31 décembre 2015.
+
+**Exception**
+
+(7) Les divisions (2)a)(i)(B), (ii)(B) et (iii)(B), le sous-alinéa (2)b)(ii), l’alinéa (3)b) et le paragraphe (4), et non les divisions (2)a)(i)(C) et (ii)(C), les sous-alinéas (2)a)(iv) et b)(iii), l’alinéa (3)c) et le paragraphe (5), s’appliquent à l’égard de la période de service validable au crédit d’un parlementaire en vertu d’un choix exercé au titre des paragraphes 10(1.1) ou 32(1.1) ou, dans le cas d’un choix exercé le 27 novembre 2000 ou par la suite mais avant le 27 novembre 2001, des paragraphes 10(1) ou 32(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 37; 1992, ch. 46, art. 81; 1995, ch. 30, art. 10; 2001, ch. 20, art. 26; 2003, ch. 16, art. 8; 2012, ch. 22, art. 28 et 41
+
+</details>
+
+### 37.1 Début des versements — du 13 juillet 1995 au 31 décembre 2015
+
+(1) Les allocations prévues aux articles 36 et 37 ne sont, pour la période de service validable calculée en fonction des cotisations — sauf celles à l’égard desquelles un choix a été exercé avant le 13 juillet 1995 — versées pendant la période commençant le 13 juillet 1995 et se terminant le 31 décembre 2015, versées qu’au moment où la personne atteint l’âge de cinquante-cinq ans ou que le jour, s’il est antérieur, où elle commence, après avoir perdu sa qualité de parlementaire, à avoir le droit de recevoir une pension d’invalidité au titre du *Régime de pensions du Canada* ou d’un régime provincial de pensions semblable.
+
+**Exceptions**
+
+(2) Le paragraphe (1) ne s’applique pas à la personne qui, lorsqu’elle perd sa qualité de parlementaire, a droit à une pension d’invalidité au titre du *Régime de pensions du Canada* ou d’un régime provincial de pensions semblable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, ch. 30, art. 11; 2012, ch. 22, art. 29
+
+</details>
+
+### 37.2 Allocation de retraite à compter du 1^er^ janvier 2016 — 65 ans ou plus
+
+(1) Sous réserve des articles 58 et 59, la personne qui perd sa qualité de parlementaire après le 31 décembre 2015, qui a cotisé ou choisi de cotiser au titre soit de la présente partie, soit des parties I ou III de la version antérieure, pendant au moins six ans en cette qualité et qui a atteint l’âge de soixante-cinq ans au moment de perdre sa qualité de parlementaire, a droit, sa vie durant, à une allocation compensatoire calculée conformément au paragraphe (2).
+
+**Montant**
+
+(2) Le montant de l’allocation compensatoire est calculé selon la formule suivante :
+
+```
+(A × B × 0,03) – (C + D)
+où :
+Areprésente la moyenne annuelle des gains ouvrant droit à pension de la personne;
+Ble nombre d’années et de fractions d’année de service validable calculé conformément aux paragraphes (3) et (4);
+Cune somme égale au produit du nombre obtenu par le calcul visé à l’élément B par le montant de la partie de la moyenne annuelle de ses gains ouvrant droit à pension qui n’excède pas les gains maximums de la personne pour l’année civile pendant laquelle elle perd sa qualité de parlementaire multipliés par 0,02;
+Dune somme égale à un pourcentage, fixé par l’actuaire en chef pour l’application du paragraphe 17.1(2), du produit de la somme obtenue au sous-alinéa (i) par le nombre visé au sous-alinéa (ii) :(i)la moyenne des gains maximums ouvrant droit à pension de la personne multipliée par B,(ii)0,01.
+```
+
+
+**Service validable**
+
+(3) Sous réserve du paragraphe (4), le service validable d’une personne pour l’application du paragraphe (2) est composé de ce qui suit :
+
+- a) le nombre d’années et de fractions d’année de service en sa qualité de parlementaire après le 31 décembre 2015 pendant lesquelles la personne a été tenue de cotiser en vertu de la présente partie, à l’exception de toute période pendant laquelle lui a été versée une indemnité de retrait;
+
+- b) le nombre d’années et de fractions d’année de service au crédit du parlementaire au titre du choix qu’il a fait le 1^er^ janvier 2016 ou par la suite.
+
+**Exclusion — service avec cotisations en vertu du par. 12(2.1)**
+
+(4) Le service de la personne en sa qualité de parlementaire au cours duquel elle a été tenue de cotiser en vertu du paragraphe 12(2.1), le cas échéant, n’est pas pris en compte dans le calcul de son service validable au titre du paragraphe (3).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 30
+
+</details>
+
+### 37.3 Situation à compter du 1^er^ janvier 2016 — avant 65 ans
+
+(1) Sous réserve des articles 58 et 59, la personne qui perd sa qualité de parlementaire après le 31 décembre 2015, qui a cotisé ou choisi de cotiser au titre soit de la présente partie, soit des parties I ou III de la version antérieure, pendant au moins six ans en cette qualité, qui n’a pas atteint l’âge de soixante-cinq ans au moment de perdre sa qualité de parlementaire et qui a choisi de recevoir une allocation compensatoire en vertu du présent article recevra, à partir de la date qu’elle précise :
+
+- a) si cette date est antérieure à son soixantième anniversaire :
+  - (i) jusqu’à l’âge de soixante ans, une allocation compensatoire d’un montant calculé conformément au paragraphe (2),
+  - (ii) après avoir atteint l’âge de soixante ans, et ce, sa vie durant, une allocation compensatoire d’un montant calculé conformément au paragraphe (3);
+
+- b) si cette date est concomitante ou postérieure à son soixantième anniversaire, sa vie durant, une allocation compensatoire d’un montant calculé conformément au paragraphe (3).
+
+**Montant de l’allocation compensatoire — avant 60 ans**
+
+(2) Pour l’application du sous-alinéa (1)a)(i), le montant de l’allocation compensatoire est calculé selon la formule suivante :
+
+```
+(A × B × 0,03) – (C × D)
+où :
+Areprésente la moyenne annuelle des gains ouvrant droit à pension de la personne;
+Ble nombre d’années et de fractions d’année de service validable calculé conformément aux paragraphes 37.2(3) et (4);
+Cle produit de A x B x 0,03;
+Dle produit obtenu par multiplication de 0,01 par le nombre d’années que représente l’excédent de l’âge de soixante-cinq ans sur son âge, arrondi au dixième d’année près, au moment où l’allocation est payable.
+```
+
+
+**Montant de l’allocation compensatoire**
+
+(3) Pour l’application du sous-alinéa (1)a)(ii) et de l’alinéa (1)b), le montant de l’allocation compensatoire est calculé selon la formule suivante :
+
+```
+A – (A × B)
+où :
+Areprésente l’allocation qui serait payable à une personne en vertu du paragraphe 37.2(2) si celle-ci avait atteint l’âge de soixante-cinq ans;
+Ble facteur de réduction.
+```
+
+
+**Limite : début des paiements**
+
+(4) La personne ne peut pas choisir une date de début du paiement qui soit antérieure à son cinquante-cinquième anniversaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 30
+
+</details>
+
+### Indemnité de retrait
+
+### 38 Indemnité de retrait
+
+Il est versé, en une somme forfaitaire, au sénateur ou député qui perd sa qualité de parlementaire et qui n’a pas cotisé ni choisi de cotiser au titre soit de la présente partie, soit des parties I, III ou IV de la version antérieure, pendant au moins six ans en cette qualité, une indemnité de retrait égale au total :
+
+- a) des cotisations versées au titre de ces parties;
+
+- b) de l’intérêt sur les cotisations versées au titre des alinéas 33(1)c) ou (2)d), 33.1(1)c) ou 33.2(1)c).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 38; 1992, ch. 46, art. 81; 2012, ch. 22, art. 31
+
+</details>
+
+### 39 Cas d’expulsion
+
+Il est versé, en une somme forfaitaire, au parlementaire qui perd sa qualité de sénateur pour cause de déchéance ou qui est expulsé de la Chambre des communes une indemnité de retrait égale au total :
+
+- a) des cotisations versées au titre de la présente partie et des parties I, III et IV de la version antérieure;
+
+- b) de l’intérêt sur les cotisations versées au titre des alinéas 33(1)c) ou (2)d), 33.1(1)c) ou 33.2(1)c).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 39; 1992, ch. 46, art. 81; 2012, ch. 22, art. 32
+
+</details>
+
+### 39.1
+
+[Abrogé, 1998, ch. 23, art. 14]
+
+### Allocations aux survivants
+
+### 40 Allocation aux survivants
+
+(1) Au décès d’un parlementaire, actuel ou ancien, il est versé :
+
+- a) au survivant, une allocation égale, au total, aux trois cinquièmes de l’allocation compensatoire de base, à répartir selon les modalités prévues au paragraphe (1.1) s’il y a plus d’un survivant;
+
+- b) à chaque enfant, une allocation égale au dixième de l’allocation compensatoire de base, à condition que le total des allocations payables aux enfants n’excède pas les trois dixièmes de l’allocation compensatoire de base, ou égale aux deux dixièmes de celle-ci si personne n’a droit à l’allocation visée à l’alinéa a), à condition que, dans ce cas, le total des allocations payables aux enfants n’excède pas les huit dixièmes de l’allocation compensatoire de base.
+
+**Répartition**
+
+(1.1) Le montant total de l’allocation prévue à l’alinéa (1)a) est ainsi réparti :
+
+- a) le survivant visé à l’alinéa a) de la définition de **survivant**, au paragraphe 2(1), reçoit l’excédent éventuel du montant total sur le montant visé à l’alinéa b);
+
+- b) le survivant visé à l’alinéa b) de cette définition reçoit la fraction du montant total ayant pour numérateur le nombre d’années où il a vécu avec le parlementaire alors que celui-ci avait cette qualité et pour dénominateur le nombre total d’années où il a eu cette qualité.
+
+**Arrondissement**
+
+(1.2) Pour le calcul des années composant la fraction, une partie d’année est comptée comme une année si elle est égale ou supérieure à six mois; elle n’est pas prise en compte dans le cas contraire.
+
+**Allocation compensatoire de base**
+
+(2) Pour l’application du présent article, l’allocation compensatoire de base comprend :
+
+- a) dans le cas d’un ancien parlementaire, l’ensemble des allocations compensatoires et des allocations compensatoires supplémentaires qui lui étaient versées au titre de la présente partie au moment de son décès, calculées comme s’il avait eu soixante ans à ce moment;
+
+- b) dans le cas d’un parlementaire actuel, l’ensemble des allocations compensatoires et des allocations compensatoires supplémentaires auxquelles il aurait eu droit au titre de la présente partie s’il avait perdu la qualité de parlementaire et atteint l’âge de soixante ans avant son décès.
+
+**Présomption**
+
+(3) Pour l’application du paragraphe (2), si le parlementaire, actuel ou ancien, a accumulé du service validable à son crédit le 1^er^ janvier 2016 ou après cette date, il est censé avoir reçu une allocation compensatoire — ou y avoir eu droit — d’un montant calculé conformément au paragraphe 37.2(2) compte non tenu du calcul visé à l’élément D de ce paragraphe.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 40; 1992, ch. 46, art. 81; 1995, ch. 30, art. 13; 1999, ch. 34, art. 226; 2012, ch. 22, art. 33
+
+</details>
+
+### 41 Exclusion
+
+Sous réserve des règlements, l’enfant qu’un sénateur ou député a eu après avoir perdu la qualité de parlementaire n’a pas droit à l’allocation visée à l’article 40.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. M-5, art. 41; 1992, ch. 46, art. 81
+
+</details>
+
+### 42 Disposition de réserve
+
+L’article 41 n’a pas pour effet de porter atteinte à l’admissibilité d’un enfant issu d’un mariage antérieur du parlementaire, actuel ou ancien, à l’allocation prévue à l’article 40.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81
+
+</details>
+
+### 43
+
+[Abrogé, 2000, ch. 12, art. 178]
+
+### 44 Modalités
+
+Les allocations visées à l’article 40 :
+
+- a) sont payées à terme échu par versements mensuels sensiblement égaux;
+
+- b) sont payables à compter soit du premier jour du mois qui suit le décès d’un parlementaire actuel, soit du jour suivant le décès d’un ancien parlementaire;
+
+- c) dans le cas d’une allocation prévue à l’alinéa 40(1)a), sont versées au bénéficiaire sa vie durant.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 15; 2000, ch. 12, art. 178
+
+</details>
+
+### 45 Choix pour anciens parlementaires
+
+(1) L’ancien parlementaire peut, lorsque la personne à qui il est marié ou avec laquelle il cohabite dans une union de type conjugal depuis au moins un an n’aurait pas droit au versement d’une allocation en vertu des alinéas 20(1)a) ou 40(1)a), choisir conformément aux règlements, afin que la personne puisse avoir droit à une allocation en vertu du paragraphe (3), de réduire le montant :
+
+- a) des allocations de retraite et de toute allocation de retraite supplémentaire auxquelles il a droit en vertu de la partie I;
+
+- b) des allocations compensatoires, s’il y a lieu, et de toute allocation compensatoire supplémentaire auxquelles il a droit en vertu de la présente partie.
+
+**Condition d’exercice du choix**
+
+(2) Pour pouvoir exercer le choix prévu au paragraphe (1), l’ancien parlementaire doit en même temps exercer celui qui est prévu au paragraphe 25(1), si celui-ci est applicable.
+
+**Droit à une allocation**
+
+(3) La personne qui était mariée à l’ancien parlementaire ou cohabitait avec lui dans une union de type conjugal depuis au moins un an à la date du choix exercé en application du paragraphe (1) et à la date de son décès, a droit à une allocation d’un montant déterminé suivant le choix et les règlements, pourvu que ce choix ne soit pas révoqué ou réputé avoir été révoqué.
+
+**Versement de l’allocation**
+
+(4) L’allocation visée au paragraphe (1) est payable, à compter du jour suivant le décès de l’ancien parlementaire, à terme échu par versements mensuels sensiblement égaux et versée à la personne sa vie durant.
+
+**Absence de droits concurrents**
+
+(5) La personne qui a droit à une allocation aux termes des articles 20 ou 40 après le décès de l’ancien parlementaire n’a pas droit de recevoir une allocation à l’égard de celui-ci en vertu du paragraphe (3).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 2000, ch. 12, art. 178; 2012, ch. 22, art. 34
+
+</details>
+
+### 46
+
+[Abrogé, 2000, ch. 12, art. 178]
+
+## Premier ministre
+
+### Cotisations
+
+### 47 Cotisations du premier ministre — du 1^er^ janvier 2013 au 31 décembre 2015
+
+(1) Pendant la période commençant le 1^er^ janvier 2013 et se terminant le 31 décembre 2015, le parlementaire qui occupe le poste de premier ministre cotise à l’égard de son traitement, pour chaque année civile, au compte de convention par retenue sur le traitement annuel qui lui est versé suivant la *Loi sur les traitements* au taux de cotisation applicable fixé pour l’application de l’alinéa 31.1(1)c).
+
+**Cotisations du premier ministre — à partir du 1^er^ janvier 2016**
+
+(2) À compter du 1^er^ janvier 2016, le parlementaire qui occupe le poste de premier ministre cotise à l’égard de son traitement, pour chaque année civile, au compte de convention par retenue sur le traitement annuel qui lui est versé suivant la *Loi sur les traitements* au taux de cotisation fixé pour l’application du paragraphe 31.2(2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 2012, ch. 22, art. 35
+
+</details>
+
+### 48 Allocations des anciens premiers ministres
+
+(1) La personne qui a occupé le poste de premier ministre pendant quatre ans avant le 6 février 2006 a droit, à compter du jour où elle perd sa qualité de parlementaire ou, s’il est postérieur, de celui où elle atteint l’âge de soixante-cinq ans, à une allocation égale aux deux tiers du traitement annuel payable suivant la *Loi sur les traitements* au premier ministre alors en poste.
+
+**Allocations des anciens premiers ministres**
+
+(2) La personne qui a occupé le poste de premier ministre pendant une période de quatre ans commençant le 6 février 2006 ou après cette date a droit, à compter du jour où elle perd sa qualité de parlementaire ou, s’il est postérieur, de celui où elle atteint l’âge de soixante-sept ans, à une allocation d’un montant calculé conformément aux paragraphes (3) et (4).
+
+**Montant**
+
+(3) Le montant de l’allocation représente le traitement annuel payable suivant la *Loi sur les traitements* au premier ministre alors en poste le jour où il perd sa qualité de parlementaire ou, s’il est postérieur, le jour où il atteint l’âge de soixante-sept ans, multiplié par le nombre d’années et de fractions d’année pendant lesquelles le parlementaire a occupé le poste de premier ministre multiplié par 0,03.
+
+**Montant**
+
+(4) L’allocation maximale payable à une personne en vertu du paragraphe (2) est égale aux deux tiers du traitement annuel payable suivant la *Loi sur les traitements* au premier ministre alors en poste le jour où il perd sa qualité de parlementaire ou, s’il est postérieur, le jour où il atteint l’âge de soixante-sept ans.
+
+**Durée de versement de l’allocation**
+
+(5) Le versement de l’allocation se poursuit jusqu’au décès de la personne visée aux paragraphes (1) ou (2), mais il est suspendu pendant toute période où elle est sénateur ou député.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 2012, ch. 22, art. 35
+
+</details>
+
+### 49 Allocation au survivant d’un ancien premier ministre
+
+(1) Il est versé au survivant de la personne visée aux paragraphes 48(1) ou (2) qui occupait le poste de premier ministre une allocation égale à la moitié de celle qu’elle recevait en vertu de ce paragraphe au moment de son décès ou aurait eu le droit de recevoir si, immédiatement avant la date de son décès, elle avait cessé d’occuper ce poste et avait atteint l’âge de soixante-cinq ans, dans le cas d’une personne visée au paragraphe 48(1), ou l’âge de soixante-sept ans, dans le cas d’une personne visée au paragraphe 48(2).
+
+**Répartition de l’allocation s’il y a deux survivants**
+
+(1.1) Si une allocation est payable à deux survivants, le montant total de celle-ci est ainsi réparti :
+
+- a) le survivant visé à l’alinéa (4)a) reçoit l’excédent éventuel du montant total sur le montant visé à l’alinéa b);
+
+- b) le survivant visé à l’alinéa (4)b) reçoit la fraction du montant total ayant pour numérateur le nombre d’années où il a vécu avec le premier ministre alors que celui-ci avait cette qualité et pour dénominateur le nombre total d’années où il a eu cette qualité.
+
+**Arrondissement**
+
+(1.2) Pour le calcul des années composant la fraction, une partie d’année est comptée comme une année si elle est égale ou supérieure à six mois; elle n’est pas prise en compte dans le cas contraire.
+
+**Période de l’allocation**
+
+(2) L’allocation est payable au survivant sa vie durant à compter du jour suivant le décès de la personne visée au paragraphe 48(1) jusqu’au jour du décès du survivant.
+
+**Mensualités**
+
+(3) L’allocation est payable à terme échu par versements mensuels sensiblement égaux.
+
+**Définition de **survivant****
+
+(4) Pour l’application du présent article, **survivant** s’entend de la personne qui, selon le cas :
+
+- a) était unie par les liens du mariage :
+  - (i) à un premier ministre, actuel ou ancien, à son décès,
+  - (ii) à un ancien premier ministre au moment où il a perdu sa qualité de premier ministre;
+
+- b) établit qu’elle cohabitait dans une union de type conjugal :
+  - (i) depuis au moins un an avec un premier ministre, actuel ou ancien, à son décès,
+  - (ii) avec un ancien premier ministre, au moment où il a perdu sa qualité de premier ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 2000, ch. 12, art. 179; 2012, ch. 22, art. 36
+
+</details>
+
+### 49.1 Choix pour un ancien premier ministre
+
+(1) L’ancien premier ministre peut, lorsque la personne à qui il est marié ou avec laquelle il cohabite dans une union de type conjugal depuis au moins un an n’aurait pas droit au versement d’une allocation en vertu du paragraphe 49(1), choisir, conformément aux règlements, de réduire le montant de son allocation en vertu de la présente partie afin que la personne puisse avoir droit à une allocation en vertu du paragraphe (2).
+
+**Droit à une allocation**
+
+(2) La personne qui était mariée à l’ancien premier ministre ou cohabitait avec lui dans une union de type conjugal depuis au moins un an à la date du choix exercé par celui-ci en application du paragraphe (1) et à la date de son décès, a droit à une allocation d’un montant déterminé suivant le choix et les règlements, pourvu que ce choix ne soit pas révoqué ou réputé avoir été révoqué.
+
+**Versement de l’allocation**
+
+(3) L’allocation visée au paragraphe (1) est payable, à compter du jour suivant le décès de l’ancien premier ministre, à terme échu par versements mensuels sensiblement égaux et versée à la personne sa vie durant.
+
+**Absence de droits concurrents**
+
+(4) La personne qui a droit à une allocation aux termes de l’article 49 après le décès de l’ancien premier ministre n’a pas droit de recevoir une allocation à l’égard de celui-ci en vertu du paragraphe (2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2000, ch. 12, art. 180
+
+</details>
+
+## Prestations supplémentaires
+
+### Définitions
+
+### 50 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente partie.
+
+**allocation** Allocation ou autre prestation payable suivant les parties I, II ou III, à l’exclusion de celle payable à titre d’indemnité de retrait. (**allowance**)
+
+**invalide** Incapable d’exercer régulièrement une activité rémunératrice. (**disabled**)
+
+**prestation supplémentaire** Montant visé à l’article 52. (**supplementary benefit**)
+
+**Moment de la retraite**
+
+(2) Pour l’application de la présente partie, un ancien parlementaire est à la retraite la dernière année ou le dernier mois au cours duquel il a perdu sa qualité de parlementaire; les mêmes modalités de temps s’appliquent à l’égard de l’allocation que reçoit une personne au titre des paragraphes 20(1), 25(3), 40(1), 45(3), 49(1) ou 49.1(2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 16; 2000, ch. 12, art. 181
+
+</details>
+
+### Prestation supplémentaire
+
+### 51 Versements
+
+(1) Sous réserve des autres dispositions de la présente partie, une prestation supplémentaire est versée à l’égard de chacune des allocations mensuelles que reçoit une personne en vertu des parties I, II ou III.
+
+**Restriction**
+
+(2) L’ancien parlementaire ne peut recevoir une prestation supplémentaire que s’il a atteint l’âge de soixante ans ou est invalide.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 17
+
+</details>
+
+### 52 Calcul de la prestation supplémentaire
+
+Sous réserve des articles 53 à 55, la prestation supplémentaire versée au titre de l’article 51 à l’égard d’un mois d’une année civile est calculée par rapport à l’année de retraite et est égale au montant payable à cet égard conformément à l’article 4 de la *Loi sur les prestations de retraite supplémentaires* dans sa version au 31 décembre 1991, comme si cette loi s’appliquait à cette allocation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81
+
+</details>
+
+### 53 Exception
+
+La prestation supplémentaire versée mensuellement dans l’année qui suit celle de la retraite est égale au produit des facteurs suivants :
+
+- a) la prestation supplémentaire qui, sans le présent article, serait versée mensuellement à l’intéressé;
+
+- b) le quotient du nombre résiduel de mois entiers de l’année qui suit celui de la retraite par douze.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81
+
+</details>
+
+### 54 Ancien parlementaire qui redevient parlementaire
+
+(1) La prestation supplémentaire payable au moment de la retraite de l’ancien sénateur ou député qui redevient parlementaire ne peut être inférieure à celle qu’il recevait à titre d’ancien parlementaire.
+
+**Prestation supplémentaire minimale**
+
+(2) Le total de l’allocation et de la prestation supplémentaire payable à une personne au titre de l’article 51 à l’égard d’un mois d’une année ne peut être inférieur au total de l’allocation et de la prestation supplémentaire payable à cette personne à l’égard d’un mois de l’année précédente.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81
+
+</details>
+
+### 55 Modalités de versement
+
+La prestation supplémentaire visée à l’article 51 est versée à la même date, suivant les mêmes modalités et à l’égard des mêmes périodes que l’allocation correspondante que reçoit l’intéressé.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81
+
+</details>
+
+## Dispositions générales
+
+### 56 Choix de cotiser pour une partie de session
+
+(1) Le parlementaire qui, suivant les articles 10 ou 32, a le droit de choisir de cotiser pour une ou plusieurs sessions peut exercer ce choix à l’égard d’une partie de celles-ci à condition qu’elle soit la partie la plus récente.
+
+**Forme et date du choix**
+
+(2) Tout choix exercé suivant la présente loi est consigné sur le formulaire prévu par le ministre et adressé à celui-ci; il est réputé exercé à la date où le formulaire, signé par la personne exerçant le choix, est envoyé au ministre.
+
+**Révocation**
+
+(3) La personne qui exerce un choix suivant les parties I ou II peut révoquer celui-ci à tout moment, même en partie, à l’égard des cotisations qu’elle n’a pas encore acquittées en remettant au ministre un avis de révocation, consigné sur le formulaire prévu par celui-ci; dès lors :
+
+- a) elle n’est pas tenue de verser les cotisations visées par la révocation mais elle doit acquitter les intérêts jusqu’à la date de celle-ci;
+
+- b) pour le calcul des allocations ou autres prestations visées aux parties I ou II, elle est censée ne pas avoir exercé le choix indiqué dans la révocation; dans le cas où les allocations ou autres prestations ont déjà été calculées, elles doivent l’être de nouveau et la différence entre les prestations éventuellement versées à l’égard des cotisations visées par la révocation et les prestations visées par le nouveau calcul peut être prélevée, selon les modalités réglementaires, sur toute allocation ou autre prestation payable à elle, sans préjudice des autres recours en recouvrement ouverts à Sa Majesté;
+
+- c) la révocation est définitive.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 18
+
+</details>
+
+### 57 Modalités de versement
+
+(1) Toute somme qu’un parlementaire verse au titre des articles 11, 11.1, 33, 33.1 ou 33.2 peut être acquittée à son choix :
+
+- a) soit en une somme forfaitaire à la date où il exerce son choix;
+
+- b) soit par versements à effectuer selon les modalités réglementaires et dont le montant est établi suivant les tables de mortalité et l’intérêt réglementaires.
+
+**Recouvrement**
+
+(2) Sans préjudice des autres recours en recouvrement ouverts à Sa Majesté, tout montant qu’un parlementaire, actuel ou ancien, doit verser peut, s’il n’est pas acquitté au décès de celui-ci, être recouvré, selon les modalités réglementaires, sur toute allocation payable au titre des paragraphes 20(1), 25(3), 40(1), 45(3), 49(1) ou 49.1(2), avec les intérêts afférents au taux réglementaire à compter de la date d’échéance; la somme recouvrée est alors présumée avoir été versée par le parlementaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 19; 2000, ch. 12, art. 182; 2012, ch. 22, art. 37
+
+</details>
+
+### 58 Suspension des allocations
+
+Toute allocation ou autre prestation versée à un ancien parlementaire suivant les parties I, II ou III est suspendue pendant la période où il est de nouveau parlementaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81
+
+</details>
+
+### 58.1 Début du versement des allocations et montant
+
+(1) Malgré les articles 17.1, 17.2, 37.2 et 37.3, si un ancien parlementaire qui n’a pas encore atteint l’âge de soixante-cinq ans et qui a droit que lui soit versées, mais qui ne reçoit pas encore, une allocation de retraite et une allocation compensatoire en vertu de ces articles commence à avoir le droit de recevoir une pension d’invalidité au titre du *Régime de pensions du Canada* ou d’un régime provincial de pensions semblable, l’allocation de retraite et l’allocation compensatoire lui sont payables en vertu de ces articles le jour où elle commence à avoir le droit de recevoir la pension d’invalidité. Les montants de ces allocations sont les suivants :
+
+- a) le montant de l’allocation de retraite qui lui serait payable en vertu de l’article 17.1 s’il avait atteint l’âge de soixante-cinq ans;
+
+- b) le montant de l’allocation compensatoire qui lui serait payable en vertu de l’article 37.2 s’il avait atteint l’âge de soixante-cinq ans.
+
+**Montant**
+
+(2) Malgré les articles 17.2 et 37.3, si un ancien parlementaire qui n’a pas encore atteint l’âge de soixante-cinq ans et qui reçoit une allocation compensatoire en vertu de l’article 37.3 commence à avoir le droit de recevoir une pension d’invalidité au titre du *Régime de pensions du Canada* ou d’un régime provincial de pensions semblable, les montants de l’allocation de retraite et de l’allocation compensatoire qui lui sont payables en vertu de ces articles le jour où elle commence à avoir le droit de recevoir la pension d’invalidité sont les suivants :
+
+- a) le montant de l’allocation de retraite qui lui serait payable en vertu de l’article 17.1 s’il avait atteint l’âge de soixante-cinq ans;
+
+- b) le montant de l’allocation compensatoire qui lui serait payable en vertu de l’article 37.2 s’il avait atteint l’âge de soixante-cinq ans.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 22, art. 38
+
+</details>
+
+### 59 Limitation
+
+(1) Malgré les autres dispositions de la présente loi et sous réserve du paragraphe (2), le total de l’allocation de retraite et de l’allocation compensatoire payables à un ancien parlementaire au titre des articles 16 ou 36, relativement aux années de service en sa qualité de parlementaire à son crédit avant le 1^er^ janvier 2016, ne peut excéder la moyenne annuelle de son indemnité de session multipliée par 0,75.
+
+**Indemnité de retrait**
+
+(2) Pour l’application du paragraphe (1), toute période pendant laquelle a été versée à la personne une indemnité de retrait et que celle-ci n’a pas choisi de porter à son crédit avant le 1^er^ janvier 2016 n’est pas prise en compte comme année de service en sa qualité de parlementaire à son crédit avant le 1^er^ janvier 2016.
+
+**Limitation**
+
+(3) Malgré les autres dispositions de la présente loi, le total de l’allocation de retraite et de l’allocation compensatoire payables à un ancien parlementaire au titre des articles 17.1, 17.2, 37.2 ou 37.3, relativement aux années de service en sa qualité de parlementaire à son crédit le 1^er^ janvier 2016 ou après cette date, ne peut excéder la moyenne annuelle de ses gains ouvrant droit à pension multipliée par 0,75.
+
+**Limitation**
+
+(4) Malgré les autres dispositions de la présente loi, si une personne a accumulé à son crédit des années de service en sa qualité de parlementaire avant le 1^er^ janvier 2016 et à compter de cette date, ses années de service pendant lesquelles elle doit cotiser en vertu du paragraphe 12(2.1) ou devrait cotiser en vertu de ce paragraphe si elle était âgée de moins de soixante et onze ans ne doivent pas être prises en compte dans le calcul de l’allocation de retraite et de l’allocation compensatoire payables à l’ancien parlementaire au titre des articles 17.1, 17.2, 37.2 ou 37.3.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 2012, ch. 22, art. 39
+
+</details>
+
+### 59.1 Définitions
+
+(1) Les définitions qui suivent s’appliquent au présent article.
+
+**charge** Poste qu’occupe un individu et qui lui donne droit à un traitement, à des honoraires ou à une autre rétribution fixes ou vérifiables, y compris la charge de juge ou le poste de diplomate ou d’administrateur d’une personne morale. (**office**)
+
+**emploi** Poste qu’occupe un particulier au service d’une autre personne, y compris de Sa Majesté, et qui lui donne droit à un traitement, à des honoraires ou à une autre rétribution fixes ou vérifiables. (**employment**)
+
+**emploi fédéral**
+  - a) Emploi ou charge pour lesquels la rémunération est versée en tout ou en partie sur le Trésor ou sur les crédits affectés par le Parlement;
+  - b) emploi ou charge au sein d’un établissement public ou d’une société d’État au sens respectivement des articles 2 et 83 de la *Loi sur la gestion des finances publiques*. (**federal position**)
+
+**marché fédéral de services** Marché de services dont la contrepartie est versée en tout ou en partie sur le Trésor ou sur les crédits affectés par le Parlement, ou par un établissement public ou une société d’État au sens respectivement des articles 2 et 83 de la *Loi sur la gestion des finances publiques*, à l’exclusion du contrat en vertu duquel un individu a le statut d’employé. (**federal service contract**)
+
+**rémunération** Selon le cas :
+  - a) le traitement, les honoraires ou l’autre rétribution versés pour l’exercice des fonctions de l’emploi fédéral;
+  - b) la contrepartie versée pour l’exécution du marché fédéral de services. (**remuneration**)
+
+**Présomptions**
+
+(2) Les présomptions suivantes s’appliquent dans le cas où l’ancien parlementaire contrôle une société de personnes, personne morale, association ou autre entité qui passe un marché fédéral de services :
+
+- a) l’ancien parlementaire est réputé avoir lui-même passé le marché au moment où l’entité l’a fait et être partie au marché tant que l’entité l’est et qu’il continue à la contrôler;
+
+- b) la rémunération relative au marché est réputée égale au montant du traitement, des honoraires ou de l’autre forme de rétribution qui lui sont versés pour les services qu’il fournit dans le cadre du marché.
+
+**Rapport**
+
+(3) L’ancien parlementaire qui, le 13 juillet 1995 ou après cette date, commence à occuper un emploi fédéral ou passe un marché fédéral de services et qui reçoit ou commence à recevoir une allocation ou autre prestation au titre des parties I, II, III ou IV — à l’exception de l’indemnité de retrait et de l’allocation prévue à l’alinéa 20(1)a), au paragraphe 25(3), à l’alinéa 40(1)a) ou aux paragraphes 45(3), 49(1) ou 49.1(2) — est tenu :
+
+- a) d’en informer par écrit le ministre dans les soixante jours qui suivent soit le jour où il commence à occuper cet emploi ou passe le marché, soit le jour où il commence à recevoir l’allocation ou la prestation, selon le dernier à survenir, et de lui faire part du montant de sa rémunération;
+
+- b) par la suite et tant qu’il occupe l’emploi fédéral ou est partie au marché, d’informer le ministre par écrit, dans les soixante jours suivant la date anniversaire du jour retenu pour l’application de l’alinéa a), du montant reçu au cours de l’année précédente à titre de rémunération;
+
+- c) d’informer le ministre par écrit soit de la cessation de l’emploi fédéral, soit du fait qu’il n’est plus partie au marché, que celui-ci est terminé ou qu’il y a par ailleurs été mis fin, dans les soixante jours qui suivent et de lui faire part du montant reçu à titre de rémunération et dont il ne lui a pas déjà fait part dans le cadre du présent article.
+
+**Autres renseignements**
+
+(4) L’ancien parlementaire visé au paragraphe (3) fournit par écrit les autres renseignements relatifs à l’emploi fédéral ou au marché fédéral de services que le ministre exige.
+
+**Réduction**
+
+(5) Si le montant de la rémunération reçue est égal ou supérieur à 5 000 $ pour une année donnée, commençant à la date du début de l’emploi fédéral ou de la passation du marché ou à la date anniversaire, le total des allocations ou autres prestations de l’ancien parlementaire visées au paragraphe (3) et payables pour cette année est réduit de un dollar pour chaque dollar de rémunération reçue pour cette année.
+
+**Recouvrement**
+
+(6) Sans préjudice des autres recours en recouvrement ouverts à Sa Majesté, le montant de la réduction visée au paragraphe (5) peut être recouvré, selon les modalités réglementaires, notamment sur toute allocation ou autre prestation payable à l’ancien parlementaire ou à un autre bénéficiaire à son égard au titre de la présente loi.
+
+**Absence d’influence sur d’autres calculs**
+
+(7) La réduction du montant d’une allocation ou autre prestation dans le cadre du présent article n’influe pas sur le calcul des montants payables au titre des articles 20, 25, 40, 45, 49, 49.1 ou 51.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, ch. 30, art. 20; 2000, ch. 12, art. 183
+
+</details>
+
+### 60 Incessibilité des prestations
+
+Sous réserve de la *Loi sur le partage des prestations de retraite*, ainsi que de la partie II de la *Loi sur la saisie-arrêt et la distraction de pensions* :
+
+- a) les allocations ou autres prestations prévues par la présente loi ne peuvent être cédées, grevées ou assorties d’un exercice anticipé ou données en garantie, et toute opération en ce sens est nulle;
+
+- b) les allocations ou autres prestations auxquelles une personne a droit en vertu de la présente loi ne peuvent faire l’objet d’une renonciation ou d’une conversion et toute opération en ce sens est nulle;
+
+- c) les allocations ou autres prestations prévues par la présente loi sont, en droit et en équité, exemptes d’exécution, de saisie et de saisie-arrêt.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 21
+
+</details>
+
+### 60.1 Allocation d’invalidité
+
+(1) Pour l’application de la présente loi, la personne qui a droit à l’allocation d’invalidité prévue à l’article 71.1 de la *Loi sur le Parlement du Canada* et choisit de la recevoir est réputée être un parlementaire jusqu’à la date à laquelle elle cesse d’y avoir droit.
+
+**Cotisations**
+
+(2) Les cotisations qu’est tenue de verser la personne au titre de la présente loi sont prélevées par retenue sur l’allocation d’invalidité. Elles sont prélevées à compter de la date à laquelle l’allocation devient payable et sont calculées à l’égard des traitements et indemnités à l’égard desquels celle-ci est calculée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2001, ch. 20, art. 27
+
+</details>
+
+### 61 Excédent remis à la succession
+
+Dans le cas où au décès d’un parlementaire, actuel ou ancien, il n’existe aucun ayant cause, ou si ses ayants cause sont décédés ou n’ont droit à aucune allocation ou autre prestation, l’excédent des cotisations qu’il a payées au titre des parties I à III sur les prestations versées au titre de la présente loi à ce parlementaire et ses ayants cause doit être remis à titre de prestation de décès à la succession du parlementaire ou, s’il est inférieur à 1 000 $, de la manière autorisée par le ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81
+
+</details>
+
+### 62 Présomption quant au décès du cotisant ou du bénéficiaire
+
+(1) Lorsqu’une personne — parlementaire, actuel ou ancien, ou personne qui a le droit de recevoir une allocation ou autre prestation prévue par la présente loi — a, que ce soit avant ou après le 31 décembre 1992, disparu dans des circonstances qui, de l’avis du ministre, font présumer hors de tout doute raisonnable qu’elle est décédée, le ministre peut arrêter la date à laquelle, pour l’application de la présente loi, le décès de cette personne est présumé avoir eu lieu et dès lors, cette personne est, pour l’application de la présente loi, réputée être décédée à cette date.
+
+**Modification de la date**
+
+(2) Après avoir arrêté la date du décès présumé d’une personne conformément au paragraphe (1), le ministre, en raison d’éléments de preuve ou de renseignements nouveaux démontrant que la date du décès est différente de celle qui a été arrêtée, peut arrêter une autre date en ce qui concerne le décès; la personne en question est dès lors considérée, pour l’application de la présente loi, comme étant décédée à cette autre date.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 22
+
+</details>
+
+### 63 Intérêts
+
+(1) Les indemnités de retrait payables au titre des parties I ou II et les prestations de décès payables au titre de la présente loi sont versées avec les intérêts afférents calculés suivant le paragraphe (2).
+
+**Calcul de l’intérêt**
+
+(2) Pour tout sénateur ou député qui perd sa qualité de parlementaire après le 31 décembre 1974, le ministre :
+
+- a) fait le compte — sauf s’ils ont été remboursés à titre d’indemnité de retrait ou suivant le présent article — des montants versés au titre du paragraphe 40(1) de la *Loi sur les allocations de retraite des membres du Parlement*, chapitre M-10 des Statuts revisés du Canada de 1970, et des articles 18, 19, 38 et 39 :
+  - (i) avant 1974,
+  - (ii) après 1973 pour chacune des années à l’égard desquelles des cotisations ont été versées suivant la présente loi;
+
+- b) calcule l’intérêt au taux et selon les modalités réglementaires :
+  - (i) sur le montant visé au sous-alinéa a)(i), à compter du 1^er^ janvier 1974 au 31 décembre de l’année précédant celle où le sénateur ou député perd sa qualité de parlementaire,
+  - (ii) sur le montant pour chacune des années visées au sous-alinéa a)(ii), à compter du 1^er^ janvier de l’année suivante au 31 décembre de l’année précédant celle où le sénateur ou député perd sa qualité de parlementaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 23
+
+</details>
+
+### 63.1 Recouvrement d’un montant versé par erreur
+
+Sans préjudice des autres recours en recouvrement ouverts à Sa Majesté, tout montant d’une allocation ou autre prestation payable au titre de la présente loi versé par erreur peut être recouvré, selon les modalités réglementaires, sur toute allocation ou autre prestation à verser ultérieurement au titre de la présente loi au cotisant ou à un autre bénéficiaire à son égard.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, ch. 30, art. 24
+
+</details>
+
+### 64 Règlements
+
+(1) Le gouverneur en conseil peut, par règlement :
+
+- a) [Abrogé, 2012, ch. 22, art. 40]
+
+- b) fixer, pour l’application de l’un des articles 11, 11.1, 33, 33.1 ou 33.2 ou du paragraphe 63(2), le taux d’intérêt et ses modalités de calcul;
+
+- c) fixer la date du versement des allocations ou autres prestations payables au titre de la présente loi, et prévoir la possibilité de versement pour des fractions de période ou, sous réserve de l’article 58, pour la totalité du mois où un bénéficiaire perd son droit aux allocations ou autres prestations ou meurt;
+
+- d) spécifier que, dans le cas où le bénéficiaire est incapable d’administrer ses biens, les allocations ou autres prestations auxquelles il a droit soient versées à une autre personne pour son compte;
+
+- e) [Abrogé, 1995, ch. 30, art. 25]
+
+- f) prévoir les modalités de recouvrement, sur les allocations ou autres prestations payables au titre de la présente loi, des montants visés aux paragraphes 56(3) ou 57(2) ou à l’article 63.1;
+
+- g) fixer les modalités relatives à l’acquittement par versements prévu au paragraphe 57(1), ainsi que les tables de mortalité et l’intérêt servant à établir le montant de ces versements;
+
+- h) prévoir, pour l’application des articles 21 et 41, dans quelles circonstances un enfant a droit à une allocation au titre des parties I ou II;
+
+- h.1) prévoir les modalités du recouvrement relatif à la réduction prévue au paragraphe 59.1(6) par déduction, paiement d’une somme forfaitaire ou de versements ou d’une autre façon, y compris :
+  - (i) l’envoi d’avis,
+  - (ii) l’exercice de choix, notamment quant aux modalités de recouvrement,
+  - (iii) la fixation des tables de mortalité et de l’intérêt,
+  - (iv) l’estimation de montants et le rapprochement des montants à la fin de l’année,
+  - (v) l’ordre des allocations et autres prestations sur lesquelles s’effectue le recouvrement,
+  - (vi) le paiement d’intérêts.
+
+- i) prévoir, pour l’application de la définition d’**enfant** au paragraphe 2(1), l’expression **fréquenter à plein temps une école ou une université**;
+
+- j) prévoir, pour l’application de la définition d’**enfant** au paragraphe 2(1), dans quelles circonstances l’enfant d’un parlementaire, actuel ou ancien, est réputé avoir fréquenté une école ou une université sans interruption appréciable;
+
+- k) indiquer, pour l’application de la définition de **plafond des prestations déterminées** au paragraphe 2(1), le montant prévu pour 1995 et les années civiles postérieures, lequel peut être fixé par renvoi aux dispositions réglementaires prises en vertu de la *Loi de l’impôt sur le revenu*;
+
+- l) fixer, pour l’application de la présente loi, la manière de déterminer toute fraction des gains maximums reçus par un parlementaire au cours d’une année;
+
+- l.1) [Abrogé, 2003, ch. 16, art. 9]
+
+- m) prendre des mesures relatives au choix visé aux articles 25, 45 et 49.1, notamment en ce qui concerne :
+  - (i) la question de savoir à quel moment, de quelle manière et dans quelles circonstances le choix peut être exercé, révoqué ou réputé avoir été révoqué,
+  - (ii) la réduction de l’allocation de l’ancien parlementaire ou de l’ancien premier ministre, selon le cas, lorsqu’un choix a été effectué,
+  - (iii) le montant de l’allocation à laquelle une personne visée aux paragraphes 25(3), 45(3) ou 49.1(2) a droit,
+  - (iv) toute autre mesure qu’il estime nécessaire à l’application de ces articles;
+
+- m.1) et m.2) [Abrogés, 2000, ch. 12, art. 184]
+
+- n) prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
+
+- o) prendre toute autre mesure d’application de la présente loi.
+
+**Rétroactivité des règlements**
+
+(2) Les règlements prévus au paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 25; 2000, ch. 12, art. 184; 2001, ch. 20, art. 28; 2003, ch. 16, art. 9; 2012, ch. 22, art. 40
+
+</details>
+
+### 65 Rapport d’évaluation
+
+(1) Un certificat de coût, un rapport d’évaluation et un rapport d’actif concernant la situation du compte d’allocations sont, conformément à la *Loi sur les rapports relatifs aux pensions publiques*, établis, transmis au ministre désigné au titre de cette loi et déposés au Parlement.
+
+**Date de référence**
+
+(2) Malgré le paragraphe 3(3) de la *Loi sur les rapports relatifs aux pensions publiques*, la date d’arrêt pour l’examen actuariel du compte d’allocations nécessaire à l’établissement du premier rapport d’évaluation achevé après l’entrée en vigueur du présent paragraphe est le 31 mars 1995 au lieu de la date déterminée en application de ce paragraphe, chacun des examens ultérieurs devant obligatoirement se faire dans les trois ans qui suivent le précédent.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 26
+
+</details>
+
+### 66 Idem
+
+(1) Un certificat de coût, un rapport d’évaluation et un rapport d’actif concernant la situation du compte de convention sont, conformément à la *Loi sur les rapports relatifs aux pensions publiques*, établis, transmis au ministre et déposés au Parlement comme si le régime de pension d’une loi mentionnée au paragraphe 3(1) de cette loi s’appliquait à la convention de retraite visée aux parties II et III.
+
+**Dates d’examen**
+
+(2) Pour l’application du paragraphe (1), la date d’arrêt pour l’examen actuariel du compte de convention nécessaire à l’établissement du premier rapport d’évaluation est le 31 mars 1995, chacun des examens ultérieurs devant obligatoirement se faire dans les trois ans qui suivent le précédent.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81; 1995, ch. 30, art. 27
+
+</details>
+
+### 67 Rapport au Parlement
+
+Le ministre dépose devant chaque chambre du Parlement, le plus tôt possible après la fin de chaque exercice, un rapport portant sur l’application de la présente loi au cours de l’exercice précédent et comprenant un état des cotisations et des intérêts reçus, des allocations et autres prestations versées, du nombre de cotisants et de bénéficiaires, ainsi que toute information complémentaire déterminée par règlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 81
+
+</details>
+
+
+## DISPOSITIONS CONNEXES
+
+### — 1989, ch. 6, art. 34
+
+### 34 Reprise du versement d’allocation au conjoint
+
+Lorsque, avant l’entrée en vigueur de la présente loi, il a été suspendu ou a pris fin pour cause de remariage, en application du paragraphe 25(2) de la *Loi sur la pension de la fonction publique*, de l’article 27 de la *Loi sur la pension de retraite des Forces canadiennes*, du paragraphe 30(2) de la *Loi sur la continuation de la pension des services de défense*, du paragraphe 9(5) de la *Loi sur la pension spéciale du service diplomatique*, des paragraphes 14(2), 19(4) ou 31(5) de la *Loi sur les allocations de retraite des parlementaires*, des paragraphes 38.1(2) ou 39(2) de la *Loi sur les allocations de retraite des membres du Parlement*, S.R. 1970, ch. M-10 (dans sa version modifiée par S.R. 1970, ch. 25 (1^er^ suppl.), articles 14 et 15), du paragraphe 24(2) de la *Loi sur la continuation des pensions de la Gendarmerie royale du Canada* ou de l’article 16 de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, dans l’une de leurs versions antérieures à l’entrée en vigueur de la présente loi, le paiement de l’allocation, de la rente ou de la pension au conjoint ou au conjoint survivant reprend, sous réserve de la loi applicable, à compter de l’entrée en vigueur de la présente loi.
+
+### — 1989, ch. 6, par. 35(1)
+
+### 35 Reprise du versement des allocations aux enfants
+
+(1) Lorsque, avant l’entrée en vigueur de la présente loi, il n’a jamais commencé ou a pris fin parce que le bénéficiaire n’était plus considéré, du fait de son mariage, comme un enfant au sens de l’alinéa 12(9)b) de la *Loi sur la pension de la fonction publique*, de l’alinéa 25(4)b) de la *Loi sur la pension de retraite des Forces canadiennes*, de l’alinéa 13(4)b) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, de l’alinéa 47(8)b) de la *Loi sur la continuation des pensions de la Gendarmerie royale du Canada* ou de l’alinéa b) de la définition de **enfant**, au paragraphe 31(6) de la *Loi sur les allocations de retraite des parlementaires*, dans l’une de leurs versions antérieures à l’entrée en vigueur de la présente loi, le paiement de l’allocation ou de la pension au bénéficiaire commence ou reprend, sous réserve de la loi applicable, à compter de l’entrée en vigueur de la présente loi.
+
+### — 1995, ch. 30, art. 28
+
+### 28 Définition de **loi antérieure**
+
+(1) Au présent article, **loi antérieure** s’entend de la *Loi sur les allocations de retraite des parlementaires*, dans sa version du 30 décembre 1992.
+
+**Maintien**
+
+(2) Malgré l’article 81 de la *Loi modifiant certaines lois en matière de pensions et édictant la Loi sur les régimes de retraite particuliers et la Loi sur le partage des prestations de retraite*, chapitre 46 des Lois du Canada (1992), l’article 14 de la loi antérieure continue de s’appliquer après le 30 décembre 1992 aux personnes qu’il régissait à cette date.
+
+**Dispositions applicables**
+
+(3) Les articles 23, 50 à 55, 58, 59.1, 60 et 62 de la *Loi sur les allocations de retraite des parlementaires*, ainsi que les autres dispositions de cette loi mentionnées dans ces articles, s’appliquent, avec les adaptations nécessaires, aux allocations prévues à l’article 14 de la loi antérieure comme si celles-ci y étaient mentionnées.
+
+**Application de certaines lois**
+
+(4) La *Loi sur le partage des prestations de retraite* et la partie II de la *Loi sur la saisie-arrêt et la distraction de pensions* s’appliquent, avec les adaptations nécessaires, aux allocations prévues à l’article 14 de la loi antérieure comme si celles-ci constituaient des prestations de retraite au sens de cette loi ou des prestations de pension au sens de cette partie II.
+
+### — 1999, ch. 34, par. 229(3)
+
+### 229 Disposition transitoire
+
+(3) Les articles 225 et 226 ne s’appliquent qu’à l’égard des parlementaires et anciens parlementaires qui décèdent à la date d’entrée en vigueur du présent paragraphe ou après cette date.
+
+### — 2000, ch. 12, art. 185
+
+### 185
+
+(1) L’article 25 de la *Loi sur les allocations de retraite des parlementaires*, édicté par l’article 177 de la présente loi, s’applique aux choix exercés après l’entrée en vigueur de cet article.
+
+(2) L’article 23 de la *Loi sur les allocations de retraite des parlementaires*, dans sa version à l’entrée en vigueur de l’article 177 de la présente loi, continue de s’appliquer aux choix exercés avant l’entrée en vigueur de cet article.
+
+### — 2000, ch. 12, art. 186
+
+### 186
+
+(1) L’article 45 de la *Loi sur les allocations de retraite des parlementaires*, édicté par l’article 178 de la présente loi, s’applique aux choix exercés après l’entrée en vigueur de cet article.
+
+(2) L’article 43 de la *Loi sur les allocations de retraite des parlementaires*, dans sa version à l’entrée en vigueur de l’article 178 de la présente loi, continue de s’appliquer aux choix exercés avant l’entrée en vigueur de cet article.
+
+### — 2001, ch. 20, art. 30
+
+### [^]30 Application des modifications
+
+(1) Les dispositions de la *Loi sur le Parlement du Canada*, de la *Loi sur les allocations de retraite des parlementaires* et de la *Loi sur les traitements*, dans leur version édictée par la présente loi, s’appliquent :
+
+- a) aux sénateurs et aux députés qui notifient par écrit au greffier du Sénat ou de la Chambre des communes, selon le cas, dans les quatre-vingt-dix jours suivant la date d’entrée en vigueur du présent article, qu’ils choisissent d’y être assujettis;
+
+- b) aux personnes qui deviennent sénateur ou député après la date d’entrée en vigueur du présent article.]
+
+**Non-application des modifications**
+
+[^](2) Les dispositions modifiées ou abrogées par la présente loi, dans leur version antérieure à la date d’entrée en vigueur du présent article, à l’exception de l’alinéa 80(1)a) de la *Loi sur le Parlement du Canada*, dans sa version édictée par l’article 13, s’appliquent aux sénateurs et aux députés qui ne font aucun choix dans le délai imparti.
+
+**Présomption**
+
+(3) Le sénateur ou le député qui meurt avant d’avoir exercé un choix est réputé avoir choisi, immédiatement avant son décès, d’être assujetti aux dispositions mentionnées au paragraphe (1).
+
+**Irrévocabilité**
+
+(4) Les choix prévus au présent article sont irrévocables.
+
+### — 2014, ch. 20, art. 167
+
+### 167 Parlementaire déjà suspendu
+
+Si, à la date d’entrée en vigueur de la présente section, une personne est déjà suspendue par suite d’un vote majoritaire à cet effet, émanant du Sénat ou de la Chambre des communes, et que son droit d’accumuler du service validable n’a pas été rétabli par un tel vote, les périodes visées à l’article 2.9 et au paragraphe 2.92(1) de la *Loi sur les allocations de retraite des parlementaires*, édictés par l’article 166, commencent le jour où la présente section entre en vigueur.

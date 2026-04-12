@@ -1,0 +1,506 @@
+---
+title: "Canadian Centre for Occupational Health and Safety Act"
+long_title: "An Act to establish the Canadian Centre for Occupational Health and Safety"
+chapter: "C-13"
+language: "en"
+type: "act"
+---
+
+# Canadian Centre for Occupational Health and Safety Act
+
+> An Act to establish the Canadian Centre for Occupational Health and Safety
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Canadian Centre for Occupational Health and Safety Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 1
+
+</details>
+
+## Purpose of Act
+
+### 2 Promoting right to healthy and safe working environment by creating Centre
+
+The purpose of this Act is to promote the fundamental right of Canadians to a healthy and safe working environment by creating a national institute concerned with the study, encouragement and cooperative advancement of occupational health and safety, in whose governing body the interests and concerns of workers, trade unions, employers, federal, provincial and territorial authorities, professional and scientific communities and the general public will be represented.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 2; 1984, c. 40, s. 79(F)
+
+</details>
+
+## Interpretation
+
+### 3 Definitions
+
+In this Act,
+
+**Centre** means the Canadian Centre for Occupational Health and Safety established by section 4; (**Centre**)
+
+**Chairman** means the Chairman of the Council; (Version anglaise seulement)
+
+**Council** means the Council of the Centre; (**conseil**)
+
+**executive board** means the executive board established by subsection 14(1); (Version anglaise seulement)
+
+**governor** means a member of the Council; (Version anglaise seulement)
+
+**Minister** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; (**ministre**)
+
+**President** means the President of the Centre. (**président**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 3
+
+</details>
+
+## Constitution of the Centre
+
+### 4 Establishment and government of Centre
+
+There is hereby established a corporation, to be called the Canadian Centre for Occupational Health and Safety, governed by a Council composed of the following persons, to be appointed by the Governor in Council as provided in sections 7 and 8:
+
+- (a) the Chairman;
+
+- (b) thirteen other governors, one to be nominated by the lieutenant governor in council of each of the ten provinces, one to be nominated by the Commissioner of Yukon, one to be nominated by the Commissioner of the Northwest Territories and one to be nominated by the Commissioner of Nunavut;
+
+- (c) four other governors to be appointed after consultation with any organizations representative of workers that the Governor in Council considers appropriate; and
+
+- (d) four other governors to be appointed after consultation with any organizations representative of employers that the Governor in Council considers appropriate.
+
+- (e) [Repealed, 2010, c. 12, s. 1684]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-13, s. 4; 1993, c. 28, s. 78; 2002, c. 7, s. 120(E); 2010, c. 12, s. 1684
+
+</details>
+
+## Objects, Activities and Powers of the Centre
+
+### 5 Objects of Centre
+
+The objects of the Centre are
+
+- (a) to promote health and safety in the workplace in Canada and the physical and mental health of working people in Canada;
+
+- (b) to facilitate
+  - (i) consultation and cooperation among federal, provincial and territorial jurisdictions, and
+  - (ii) participation by labour and management
+  in the establishment and maintenance of high standards of occupational health and safety appropriate to the Canadian situation;
+
+- (c) to assist in the development and maintenance of policies and programs aimed at the reduction or elimination of occupational hazards; and
+
+- (d) to serve as a national centre for statistics and other information relating to occupational health and safety.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 5
+
+</details>
+
+### 6 Activities and powers of Centre
+
+(1) The Centre may, in furtherance of its objects,
+
+- (a) promote, assist, initiate and evaluate research;
+
+- (b) establish and operate systems and facilities for collecting, recording, processing, analysing, evaluating and disseminating statistics and other information;
+
+- (c) publish and otherwise disseminate scientific, technological and other information;
+
+- (d) provide advice, information and service relating to existing or anticipated occupational health and safety problems to workers, trade unions, employers and government, to national, provincial and international organizations and to the public;
+
+- (e) support and facilitate the training of personnel in and for the field of occupational health and safety;
+
+- (f) sponsor and support public meetings, conferences and seminars;
+
+- (g) expend, for the purposes of this Act, any money appropriated by Parliament for the work of the Centre or received by the Centre through the conduct of its operations;
+
+- (h) give recognition to public or private organizations or individuals for outstanding contributions in the field of occupational health and safety; and
+
+- (i) do such other things as are conducive to the carrying out of its objects.
+
+**Centre to consider briefs and other representations**
+
+(2) The Centre shall consider briefs and other written representations submitted to it on matters relating to occupational health and safety and may arrange public forums relating thereto.
+
+**Donations**
+
+(3) The Centre may acquire money, securities or other property by gift, bequest or otherwise and, notwithstanding anything in this Act, may expend, administer or dispose of the money, securities or other property subject to the terms, if any, on which the money, securities or other property is given, bequeathed or otherwise made available to the Centre.
+
+**Ancillary powers**
+
+(4) For the purposes of carrying out its activities under subsections (1) to (3), the Centre has the capacity, rights, powers and privileges of a natural person.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 5; 1984, c. 31, s. 14
+
+</details>
+
+## Members of the Council
+
+### 7 Chairman
+
+(1) The Chairman shall be appointed to hold office during good behaviour for a term not exceeding five years, but may be removed by the Governor in Council for cause.
+
+**Duties of Chairman**
+
+(2) The Chairman shall preside at meetings of the Council and may perform such other duties as are assigned to the Chairman by the Council.
+
+**Acting Chairman**
+
+(3) The Council may authorize one of the governors to act as Chairman if the Chairman is absent or incapacitated or the office of Chairman is vacant, but no person so authorized may act as Chairman for a period exceeding ninety days without the approval of the Governor in Council.
+
+**Eligibility of Chairman for re-appointment**
+
+(4) A person who has served two consecutive terms as Chairman is eligible to be re-appointed to the Council but is not, during the twelve months following the completion of the second term as Chairman, eligible to be re-appointed Chairman.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 6
+
+</details>
+
+### 8 Other governors
+
+(1) Each of the governors other than the Chairman shall be appointed to hold office during pleasure for such term not exceeding four years as will ensure as far as possible the expiration in any one year of the terms of appointment of fewer than half of the governors so appointed.
+
+**Temporary substitute governor**
+
+(2) In the event of the absence or incapacity of a governor other than the Chairman, the Council may, on such terms and conditions as it may prescribe and after such consultation as is appropriate in the circumstances, appoint a temporary substitute governor, but no temporary substitute governor may serve for a period exceeding ninety days without the approval of the Governor in Council.
+
+**Eligibility of governor for re-appointment**
+
+(3) A person who has served two consecutive terms as a governor appointed under subsection (1) is not, during the twelve months following the completion of the second term, eligible to be re-appointed to the Council, except as Chairman.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 7
+
+</details>
+
+### 9 Vacancy
+
+A vacancy in the membership of the Council does not impair the right of the remaining members to act.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 8
+
+</details>
+
+## President
+
+### 10 Appointment of President
+
+(1) The President of the Centre shall be appointed by the Governor in Council after consultation with the Council, for a term not exceeding five years.
+
+**Tenure of President**
+
+(2) Every President holds office during good behaviour, but may be removed by the Governor in Council for cause.
+
+**Where appointee is a governor**
+
+(3) Where the person appointed President is a governor, he ceases to be a governor on assuming the office of President.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 9
+
+</details>
+
+### 11 Duties of President
+
+(1) The President is the chief executive officer of the Centre, has supervision over and direction of the work and staff of the Centre, is the chairman of the executive board and shall perform such duties as are assigned to the President by the Council.
+
+**President to be full-time**
+
+(2) The President shall devote the whole of his time to the performance of the duties of the President under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 9
+
+</details>
+
+### 12 Acting President
+
+The Council may authorize an officer of the Centre to act as President if the President is absent or incapacitated or the office of President is vacant, but no person so authorized may act as President for a period exceeding sixty days without the approval of the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 9
+
+</details>
+
+### 13 Eligibility of President for re-appointment
+
+The President is eligible for re-appointment on the expiration of his term of office.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 9
+
+</details>
+
+## Executive Board
+
+### 14 Executive board established
+
+(1) There is hereby established an executive board of the Centre consisting of the President and at least six governors annually elected from the Council by the governors so that, at any time,
+
+- (a) the number of members of the executive board who were appointed to the Council under paragraph 4(c) is equal to the number of members of the executive board who were appointed to the Council under paragraph 4(d); and
+
+- (b) the aggregate of the number of members of the executive board appointed to the Council under paragraph 4(c) or (d) is not less than 50% of the total number of members of the executive board.
+
+**Duties of executive board**
+
+(2) The executive board shall exercise such of the powers and perform such of the activities of the Centre as the Council may by by-law assign to it and shall submit at each meeting of the Council minutes of its proceedings since the last preceding meeting of the Council and a progress report on the work of the Centre.
+
+**Chairman of executive board**
+
+(3) The President is the chairman of the executive board.
+
+**Quorum**
+
+(4) A majority of the members of the executive board, one of whom is the President, constitutes a quorum.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-13, s. 14; 2010, c. 12, s. 1685
+
+</details>
+
+### 15 Meetings
+
+The executive board shall meet at least six times in each year.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 10
+
+</details>
+
+## Committees and Staff
+
+### 16 Advisory and other committees
+
+The Centre may, in accordance with the by-laws, appoint advisory or other committees.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 11
+
+</details>
+
+### 17 Officers and employees
+
+The Centre may, in accordance with the by-laws, employ or engage such officers, employees and agents as are necessary for the proper conduct of the work of the Centre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 12
+
+</details>
+
+## Remuneration and Expenses
+
+### 18 President
+
+(1) The President shall be paid such salary and expenses as are fixed by the Governor in Council.
+
+**Acting President**
+
+(2) An acting President shall be paid such salary and expenses as are fixed by the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 13
+
+</details>
+
+### 19 Chairman and other governors
+
+The Chairman and the other governors shall not be paid a salary, but may be paid
+
+- (a) such allowance for each day spent in connection with the work of the Centre,
+
+- (b) such allowance for the performance, with the approval of the Council, of any duties over and above their ordinary duties, and
+
+- (c) such travel and living expenses while absent from their ordinary place of residence in connection with the work of the Centre
+
+as are fixed by the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 14; 1980-81-82-83, c. 47, ss. 5, 53(F); 1984, c. 40, s. 79(F)
+
+</details>
+
+## General
+
+### 20 Head office
+
+The head office of the Centre shall be at such place in Canada as is designated by the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 15
+
+</details>
+
+### 21 Meetings of Council
+
+(1) The Council shall meet at least three times in each year, with at least one such meeting at the head office of the Centre, and at such other times and places in Canada as the executive board deems necessary.
+
+**Chairman to preside**
+
+(2) The Chairman shall preside at meetings of the Council.
+
+**Council meetings open to President**
+
+(3) The President is entitled to attend and participate in all meetings of the Council.
+
+**Quorum of Council**
+
+(4) A majority of governors constitutes a quorum of the Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 16
+
+</details>
+
+### 22 By-laws
+
+The Council may make by-laws for the conduct and management of the affairs of the Centre and, without restricting the generality of the foregoing, may make by-laws respecting
+
+- (a) the appointment and operation of advisory or other committees referred to in section 16 and the allowances and expenses, if any, to be paid to members of those committees who are not members of the Council;
+
+- (b) the employment or engagement and the remuneration, expenses and duties of officers, employees and agents of the Centre;
+
+- (c) the procedure in all business at meetings of the Council and of the executive board;
+
+- (d) the assignment of any powers and activities of the Centre to the executive board and the manner in which those powers and activities shall be exercised or performed; and
+
+- (e) the manner in which briefs and other written representations submitted to the Centre are to be considered.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 17
+
+</details>
+
+### 23 Status of governors, officers, employees and agents
+
+(1) Except as provided in subsections (2) and (3), the Chairman and President, the other governors and officers and the employees and agents of the Centre are not part of the federal public administration.
+
+**Superannuation**
+
+(2) The President, the other officers and the employees of the Centre shall be deemed to be employed in the public service for the purposes of the *Public Service Superannuation Act*.
+
+**Compensation**
+
+(3) The President, the other officers and the employees of the Centre shall be deemed to be employed in the federal public administration for the purposes of the *Government Employees Compensation Act* and any regulations made under section 9 of the *Aeronautics Act*.
+
+**Application of *Public Service Superannuation Act* to governors**
+
+(4) The *Public Service Superannuation Act* does not apply to the Chairman or the other governors unless, in the case of any of them, the Governor in Council directs that it shall apply.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985. c. C-13, s. 23; 2003, c. 22, ss. 224(E), 225(E)
+
+</details>
+
+### 24 Centre deemed registered charity
+
+The Centre shall, for the purposes of the *Income Tax Act*, be deemed to be a registered charity within the meaning of that expression for the purposes of that Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-13, s. 24; 1999, c. 31, s. 246(F)
+
+</details>
+
+### 25
+
+[Repealed, 2012, c. 19, s. 170]
+
+## Reports
+
+### 26 Annual report
+
+(1) Within four months after the end of each year, the Council shall submit to the Minister a report on the activities of the Centre for that year, including a summary of the disposition of briefs and other written representations considered by the Centre as required by subsection 6(2) and the financial statements of the Centre.
+
+**Tabling report**
+
+(2) The Minister shall cause the report referred to in subsection (1) to be laid before Parliament not later than the tenth sitting day of Parliament after he receives it.
+
+**Definition of **sitting day of Parliament****
+
+(3) For the purposes of subsection (2), **sitting day of Parliament** means a day on which either House of Parliament sits.
+
+**Report to be sent to each province**
+
+(4) Without delay after the report is laid before Parliament under subsection (2), the Minister shall send a copy of it to the lieutenant governor of each province, the Commissioner of Yukon, the Commissioner of the Northwest Territories and the Commissioner of Nunavut.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-13, s. 26; 1993, c. 28, s. 78; 2002, c. 7, s. 121(E); 2012, c. 19, s. 171
+
+</details>
+
+### 27 Results of research available to public
+
+The results of research assisted or initiated by the Centre shall be made available to the public by the Centre within ninety days after becoming available to the Centre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1977-78, c. 29, s. 22; 1984, c. 40, s. 79(F)
+
+</details>
+
+
+## RELATED PROVISIONS
+
+### — 2012, c. 19, s. 193
+
+### 193 *Canadian Centre for Occupational Health and Safety Act*
+
+The obligations under sections 25 and 26 of the *Canadian Centre for Occupational Health and Safety Act*, as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2012 but do not apply in respect of any subsequent fiscal year.

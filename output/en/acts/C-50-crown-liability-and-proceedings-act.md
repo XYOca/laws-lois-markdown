@@ -1,0 +1,760 @@
+---
+title: "Crown Liability and Proceedings Act"
+long_title: "An Act respecting the liability of the Crown and proceedings by or against the Crown"
+chapter: "C-50"
+language: "en"
+type: "act"
+---
+
+# Crown Liability and Proceedings Act
+
+> An Act respecting the liability of the Crown and proceedings by or against the Crown
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Crown Liability and Proceedings Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 1; 1990, c. 8, s. 21
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**Crown** means Her Majesty in right of Canada; (**État**)
+
+**Crown ship** means a **Crown vessel** as defined in subsection 48(1) of the *Wrecked, Abandoned or Hazardous Vessels Act*; (**navire de l’État**)
+
+**liability**, for the purposes of Part 1, means
+  - (a) in the Province of Quebec, extracontractual civil liability, and
+  - (b) in any other province, liability in tort; (**responsabilité**)
+
+**servant** includes agent, but does not include any person appointed or employed by or under the authority of a law of the Legislature of Yukon, of the Northwest Territories or for Nunavut. (**préposés**)
+
+**tort**[Repealed, 2001, c. 4, s. 34]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 2; 1990, c. 8, s. 22; 1993, c. 28, s. 78; 1998, c. 15, s. 21; 2001, c. 4, s. 34, c. 26, s. 295; 2002, c. 7, s. 151; 2014, c. 2, s. 7
+- 2019, c. 1, s. 135
+
+</details>
+
+### 2.1 Definition of **person**
+
+For the purposes of sections 3 to 5, **person** means a natural person of full age and capacity other than Her Majesty in right of Canada or a province.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2001, c. 4, s. 35
+
+</details>
+
+## Liability
+
+### Liability and Civil Salvage
+
+### 3 Liability
+
+The Crown is liable for the damages for which, if it were a person, it would be liable
+
+- (a) in the Province of Quebec, in respect of
+  - (i) the damage caused by the fault of a servant of the Crown, or
+  - (ii) the damage resulting from the act of a thing in the custody of or owned by the Crown or by the fault of the Crown as custodian or owner; and
+
+- (b) in any other province, in respect of
+  - (i) a tort committed by a servant of the Crown, or
+  - (ii) a breach of duty attaching to the ownership, occupation, possession or control of property.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 3; 2001, c. 4, s. 36
+
+</details>
+
+### 4 Motor vehicles
+
+The Crown is liable for the damage sustained by anyone by reason of a motor vehicle, owned by the Crown, on a highway, for which the Crown would be liable if it were a person.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 4; 2001, c. 4, s. 37
+
+</details>
+
+### 5 Civil salvage
+
+(1) Subject to subsection (2), the law relating to civil salvage, whether of life or property, applies in relation to salvage services rendered in assisting any Crown ship or aircraft, or in saving life from a Crown ship or aircraft, or in saving any cargo or apparel belonging to the Crown, in the same manner as if the ship, aircraft, cargo or apparel belonged to a private person.
+
+**Claims in Federal Court**
+
+(2) All claims against the Crown under subsection (1) shall be heard and determined by a judge of the Federal Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 5; 2001, c. 4, s. 38, c. 26, s. 296
+
+</details>
+
+### 6
+
+[Repealed, 2001, c. 6, s. 113]
+
+### 7 Limitation or prescription period for salvage proceedings
+
+(1) Section 53 of the *Wrecked, Abandoned or Hazardous Vessels Act* applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft.
+
+(2) [Repealed, 2001, c. 6, s. 114]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 7; 2001, c. 6, s. 114, c. 26, s. 298
+- 2019, c. 1, s. 136
+
+</details>
+
+### 8 Saving in respect of prerogative and statutory powers
+
+Nothing in sections 3 to 7 makes the Crown liable in respect of anything done or omitted in the exercise of any power or authority that, if those sections had not been passed, would have been exercisable by virtue of the prerogative of the Crown, or any power or authority conferred on the Crown by any statute, and, in particular, but without restricting the generality of the foregoing, nothing in those sections makes the Crown liable in respect of anything done or omitted in the exercise of any power or authority exercisable by the Crown, whether in time of peace or of war, for the purpose of the defence of Canada or of training, or maintaining the efficiency of, the Canadian Forces.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-38, s. 3
+
+</details>
+
+### Special Provisions respecting Liability
+
+### 9 No proceedings lie where pension payable
+
+No proceedings lie against the Crown or a servant of the Crown in respect of a claim if a pension or compensation has been paid or is payable out of the Consolidated Revenue Fund or out of any funds administered by an agency of the Crown in respect of the death, injury, damage or loss in respect of which the claim is made.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 9; 2001, c. 4, s. 39(F)
+
+</details>
+
+### 10 Liability for acts of servants
+
+No proceedings lie against the Crown by virtue of subparagraph 3(a)(i) or (b)(i) in respect of any act or omission of a servant of the Crown unless the act or omission would, apart from the provisions of this Act, have given rise to a cause of action for liability against that servant or the servant’s personal representative or succession.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 10; 2001, c. 4, s. 40
+
+</details>
+
+### 11 Motor vehicles
+
+No proceedings lie against the Crown by virtue of section 4 in respect of damage sustained by any person by reason of a motor vehicle on a highway unless the driver of the motor vehicle or the driver’s personal representative or succession is liable for the damage so sustained.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 11; 2001, c. 4, s. 40
+
+</details>
+
+### 12
+
+[Repealed, 1999, c. 31, s. 70]
+
+### Property
+
+### 13 Application of subparagraphs 3(a)(ii) and (b)(ii)
+
+(1) Subparagraphs 3(a)(ii) and (b)(ii) are not applicable in respect of any property owned by the Crown unless the Crown or a person acting for the Crown has, in fact,
+
+- (a) in the case of personal property and movables, taken physical control of it; and
+
+- (b) in the case of real property or immovables, entered into occupation of it.
+
+**Effect of orders**
+
+(2) Where the Governor in Council has, by order published in the *Canada Gazette*, declared that the Crown has, before, on or after November 15, 1954, ceased to be in control or in occupation of any property specified in paragraphs (1)(a) and (b), subparagraphs 3(a)(ii) and (b)(ii) are not applicable in respect of the specified property from the day of publication of the order until the day the order is revoked.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 13; 2001, c. 4, s. 41
+
+</details>
+
+### Proceedings in rem
+
+### 14 Proceedings in rem
+
+Nothing in this Act
+
+- (a) authorizes proceedings in rem in respect of any claim against the Crown;
+
+- (b) authorizes the arrest, detention or sale of any Crown ship or aircraft, or of any cargo or other property belonging to the Crown; or
+
+- (c) gives to any person any lien on, or cause of preference on or in respect of, any ship, aircraft, cargo or other property belonging to the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 14; 2001, c. 4, s. 42
+
+</details>
+
+### 15
+
+[Repealed, 1990, c. 8, s. 24]
+
+### Invasion of Privacy
+
+### 16 Definitions
+
+In this section and sections 17 and 18,
+
+**authorization**[Repealed, 1993, c. 40, s. 19]
+
+**electro-magnetic, acoustic, mechanical or other device** means any device or apparatus that is used or is capable of being used to intercept a private communication, but does not include a hearing aid used to correct subnormal hearing of the user to not better than normal hearing; (**dispositif d’interception**)
+
+**intercept** includes listen to, record or acquire a communication or acquire the substance, meaning or purport thereof; (**interception**)
+
+**private communication** means any oral communication or any telecommunication that is made by an originator who is in Canada or is intended by the originator to be received by a person who is in Canada and that is made under circumstances in which it is reasonable for the originator to expect that it will not be intercepted by any person other than the person intended by the originator to receive it, and includes any radio-based telephone communication that is treated electronically or otherwise for the purpose of preventing intelligible reception by any person other than the person intended by the originator to receive it; (**communication privée**)
+
+**public switched telephone network** means a telecommunication facility the primary purpose of which is to provide a land line-based telephone service to the public for compensation; (**réseau téléphonique public commuté**)
+
+**radio-based telephone communication** means any radiocommunication within the meaning of the *Radiocommunication Act* that is made over apparatus that is used primarily for connection to a public switched telephone network. (**communication radiotéléphonique**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 16; 1990, c. 8, s. 26; 1993, c. 40, s. 19
+
+</details>
+
+### 17 Crown liable for interception
+
+(1) Subject to subsection (2), where a servant of the Crown, by means of an electro-magnetic, acoustic, mechanical or other device, intentionally intercepts a private communication, in the course of that servant’s employment, the Crown is liable for all loss or damage caused by or attributable to that interception, and for punitive damages in an amount not exceeding five thousand dollars, to each person who incurred that loss or damage.
+
+**Saving provision**
+
+(2) The Crown is not liable under subsection (1) for loss or damage or punitive damages referred to therein where the interception complained of
+
+- (a) was lawfully made;
+
+- (b) was made with the consent, express or implied, of the originator of the private communication or of the person intended by the originator thereof to receive it; or
+
+- (c) was made by an officer or servant of the Crown who engages in radio frequency spectrum management, for the purpose of identifying, isolating or preventing an unauthorized or interfering use of a frequency or of a transmission.
+
+(3) [Repealed, 1993, c. 40, s. 20]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 17; 1993, c. 40, s. 20; 2001, c. 4, s. 43(F)
+
+</details>
+
+### 18 Crown liable for disclosure
+
+(1) Subject to subsection (2), where a servant of the Crown who has obtained, in the course of that servant’s employment, any information respecting a private communication or a radio-based telephone communication that has been intercepted by means of an electro-magnetic, acoustic, mechanical or other device without the consent, express or implied, of the originator thereof or of the person intended by the originator thereof to receive it, intentionally
+
+- (a) uses or discloses that private communication or radio-based telephone communication or any part thereof or the substance, meaning or purport thereof or of any part thereof, or
+
+- (b) discloses the existence thereof,
+
+the Crown is liable for all loss or damage caused thereby, and for punitive damages in an amount not exceeding five thousand dollars, to each person who incurred that loss or damage.
+
+**Saving provision**
+
+(2) The Crown is not liable for loss or damage or punitive damages referred to in subsection (1) where a servant of the Crown discloses a private communication or a radio-based telephone communication or any part thereof or the substance, meaning or purport thereof or of any part thereof or the existence of a private communication or of a radio-based telephone communication
+
+- (a) with the consent of the originator of the communication or of the person intended by the originator to receive it;
+
+- (b) in the course of or for the purpose of giving evidence in any civil or criminal proceedings or in any other proceedings in which the servant of the Crown may be required to give evidence on oath;
+
+- (c) in the course of or for the purpose of any criminal investigation if the private communication or radio-based telephone communication was not unlawfully intercepted;
+
+- (d) in giving notice under section 189 of the *Criminal Code* or furnishing further particulars pursuant to an order under section 190 of that Act;
+
+- (e) for the purpose of identifying, isolating or preventing an unauthorized or interfering use of a frequency or of a transmission, where the duties of the servant of the Crown include engaging in radio frequency spectrum management; or
+
+- (f) where disclosure is made to a peace officer or prosecutor in Canada or to a person or authority with responsibility in a foreign state for the investigation or prosecution of offences and is intended to be in the interests of the administration of justice in Canada or elsewhere.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 18; R.S., 1985, c. 30 (4th Supp.), s. 46; 1993, c. 40, s. 21; 2001, c. 4, s. 44(F)
+
+</details>
+
+### 18.1 Consent to interception
+
+Where a private communication or a radio-based telephone communication is originated by more than one person or is intended by the originator to be received by more than one person, a consent to the interception thereof by any one of those persons is sufficient for the purposes of paragraph 17(2)(b) and subsection 18(2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 40, s. 22
+
+</details>
+
+### 19 No punitive damages
+
+No award for punitive damages shall be made under section 17 or 18 where punitive damages have been ordered to be paid to the person claiming those damages pursuant to subsection 194(1) of the *Criminal Code*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1973-74, c. 50, s. 4
+
+</details>
+
+### 20 Indemnity
+
+Where a judgment has been given against the Crown by reason of its liability under section 17 or 18, the servant in respect of whose conduct the Crown has been found liable is accountable to the Crown for the amount of the judgment and the Crown may recover that amount from that servant.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 20; 1990, c. 8, s. 27
+
+</details>
+
+### Environmental and Labour Cooperation Treaties
+
+### 20.1 Definitions
+
+In this section and sections 20.2 to 20.4,
+
+**appropriate Commission**[Repealed, 2009, c. 16, s. 25]
+
+**appropriate party**, in respect of a panel determination, means
+  - (a) the Commission for Environmental Cooperation established under Article 8 of the North American Agreement on Environmental Cooperation entered into between the Government of Canada, the Government of the United Mexican States and the Government of the United States of America and signed on September 14, 1993, as amended from time to time in accordance with Article 48 of that Agreement,
+  - (b) the Canada–Chile Commission for Environmental Cooperation established under Article 8 of the Agreement on Environmental Cooperation entered into between the Government of Canada and the Government of the Republic of Chile and signed on February 6, 1997, as amended from time to time in accordance with Article 47 of that Agreement,
+  - (c) the Commission for Labor Cooperation established under Article 8 of the North American Agreement on Labor Cooperation entered into between the Government of Canada, the Government of the United Mexican States and the Government of the United States of America and signed on September 14, 1993, as amended from time to time in accordance with Article 52 of that Agreement,
+  - (d) the Canada–Chile Commission for Labour Cooperation established under Article 8 of the Agreement on Labour Cooperation entered into between the Government of Canada and the Government of the Republic of Chile and signed on February 6, 1997, as amended from time to time in accordance with Article 47 of that Agreement, or
+  - (e) any other party to whom Canada is required to pay a monetary assessment as a result of a panel determination; (**partie compétente**)
+
+**Canada-Chile Environmental Cooperation Agreement**[Repealed, 2009, c. 16, s. 25]
+
+**Canada-Chile Labour Cooperation Agreement**[Repealed, 2009, c. 16, s. 25]
+
+**Environmental Cooperation Agreement**[Repealed, 2009, c. 16, s. 25]
+
+**environmental cooperation treaty** means any treaty respecting environmental cooperation referred to in Part 1 of the schedule; (**traité sur l’environnement**)
+
+**Labor Cooperation Agreement**[Repealed, 2009, c. 16, s. 25]
+
+**labour cooperation treaty** means a treaty, or chapter of a treaty, respecting labour cooperation referred to in Part 2 of the schedule;  (**traité sur le travail**)
+
+**panel** means an arbitral panel or a review panel convened under an environmental cooperation treaty or a labour cooperation treaty; (**groupe spécial**)
+
+**panel determination** means a panel determination as defined in an environmental cooperation treaty or a labour cooperation treaty or, if that expression is not defined, a determination made by a panel under one of those treaties regarding the amount of a monetary assessment that Canada is required to pay.  (**décision d’un groupe spécial**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, c. 11, s. 1; 1997, c. 14, s. 33; 2009, c. 16, s. 25; 2012, c. 18, s. 22; 2014, c. 28, s. 23
+
+</details>
+
+### 20.2 Panel determination may be made an order of the Federal Court
+
+(1) A panel determination that is addressed to the Crown may, for the purpose of its enforcement only, be made an order of the Federal Court.
+
+**Procedure**
+
+(2) To make a panel determination an order of the Federal Court, the appropriate party shall file a certified copy of the determination in the Registry of that Court and, on filing, the determination becomes an order of that Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, c. 11, s. 1; 2009, c. 16, s. 26
+
+</details>
+
+### 20.3 Enforcement proceedings
+
+(1) Subject to subsections (2) to (5), a panel determination that is made an order of the Federal Court is enforceable in the same manner as any other order of that Court.
+
+**Limitation**
+
+(2) Proceedings for enforcement of a panel determination that is made an order of the Federal Court may be taken against the Crown only in that Court and only by the appropriate party.
+
+**Hearings in summary way**
+
+(3) Any proceedings referred to in subsection (2) shall be heard and determined in a summary way.
+
+**Reference to panel**
+
+(4) If any question of fact or interpretation of a panel determination arises in any proceedings referred to in subsection (2), the Federal Court shall refer the question to the panel that made the determination, and the decision of the panel on the question is binding on that Court.
+
+**No interventions**
+
+(5) No person or body may intervene in any proceedings referred to in subsection (2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, c. 11, s. 1; 2009, c. 16, s. 27
+
+</details>
+
+### 20.4 Determinations, orders and decisions are final
+
+(1) Panel determinations, including panel determinations that are made orders of the Federal Court, and orders and decisions made by the Federal Court in any proceedings referred to in subsection 20.3(2) are final and binding and are not subject to appeal to any court.
+
+**Limitation on proceedings**
+
+(2) Subject to section 20.3, no panel determination, including a panel determination that is made an order of the Federal Court, no determination or proceedings of a panel made or carried on or purporting to be made or carried on under any environmental cooperation treaty or labour cooperation treaty, no order or decision made by the Federal Court in any proceedings referred to in subsection 20.3(2) and no proceedings of that Court made or carried on or purporting to be made or carried on under that subsection shall be
+
+- (a) questioned, reviewed, set aside, removed, prohibited or restrained, or
+
+- (b) made the subject of any proceedings in, or any process or order of, any court, whether by way of or in nature of injunction, certiorari, prohibition, quo warranto, declaration or otherwise,
+
+on any ground, including the ground that the determination, proceedings, order or decision is beyond the jurisdiction of the panel or the Federal Court, as the case may be, or that, in the course of any proceedings, the panel or the Federal Court for any reason exceeded or lost its jurisdiction.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, c. 11, s. 1; 1997, c. 14, s. 34; 2009, c. 16, s. 28
+
+</details>
+
+## Proceedings
+
+### Jurisdiction
+
+### 21 Concurrent jurisdiction of provincial court
+
+(1) In all cases where a claim is made against the Crown, except where the Federal Court has exclusive jurisdiction with respect to it, the superior court of the province in which the claim arises has concurrent jurisdiction with respect to the subject-matter of the claim.
+
+**Where proceedings pending in Federal Court**
+
+(2) No court in a province has jurisdiction to entertain any proceedings taken by a person if proceedings taken by that person in the Federal Court in respect of the same cause of action, whether taken before or after the proceedings are taken in the court, are pending.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 21; R.S., 1985, c. 40 (4th Supp.), s. 2; 1990, c. 8, s. 28; 2001, c. 4, s. 45
+
+</details>
+
+### 22 Declaration of rights
+
+(1) Where in proceedings against the Crown any relief is sought that might, in proceedings between persons, be granted by way of injunction or specific performance, a court shall not, as against the Crown, grant an injunction or make an order for specific performance, but in lieu thereof may make an order declaratory of the rights of the parties.
+
+**Servants of Crown**
+
+(2) A court shall not in any proceedings grant relief or make an order against a servant of the Crown that it is not competent to grant or make against the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 22; 1990, c. 8, s. 28; 2001, c. 4, s. 46(F)
+
+</details>
+
+### Procedure
+
+### 23 Taking of proceedings against Crown
+
+(1) Proceedings against the Crown may be taken in the name of the Attorney General of Canada or, in the case of an agency of the Crown against which proceedings are by an Act of Parliament authorized to be taken in the name of the agency, in the name of that agency.
+
+**Service of originating document**
+
+(2) Where proceedings are taken against the Crown, the document originating the proceedings shall be served on the Crown by serving it on the Deputy Attorney General of Canada or the chief executive officer of the agency in whose name the proceedings are taken, as the case may be.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 23; 1990, c. 8, s. 29; 2001, c. 4, s. 47(F)
+
+</details>
+
+### 24 Defences
+
+In any proceedings against the Crown, the Crown may raise
+
+- (a) any defence that would be available if the proceedings were a suit or an action between persons in a competent court; and
+
+- (b) any defence that would be available if the proceedings were by way of statement of claim in the Federal Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 24; 1990, c. 8, s. 30; 2001, c. 4, s. 48
+
+</details>
+
+### 25 No judgment by default without leave
+
+In any proceedings against the Crown, judgment shall not be entered against the Crown in default of appearance or pleading without leave of the court obtained on an application at least fourteen clear days notice of which has been given to the Deputy Attorney General of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 25; 1990, c. 8, s. 31
+
+</details>
+
+### 26 No jury trials
+
+In any proceedings against the Crown, trial shall be without a jury.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 26; 1990, c. 8, s. 31
+
+</details>
+
+### 27 Rules of court
+
+Except as otherwise provided by this Act or the regulations, the rules of practice and procedure of the court in which proceedings are taken apply in those proceedings.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 27; 1990, c. 8, s. 31
+
+</details>
+
+### Costs
+
+### 28 Costs
+
+(1) In any proceedings to which the Crown is a party, costs may be awarded to or against the Crown.
+
+**Costs awarded to Crown**
+
+(2) Costs awarded to the Crown shall not be disallowed or reduced on taxation by reason only that the solicitor or counsel who earned the costs, or in respect of whose services the costs are charged, was a salaried officer of the Crown performing those services in the discharge of the officer’s duty and was remunerated therefor by a salary, or for that or any other reason was not entitled to recover any costs from the Crown in respect of the services so rendered.
+
+(3) [Repealed, 2012, c. 31, s. 305]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 28; 1990, c. 8, s. 31; 1996, c. 17, s. 15; 2012, c. 31, s. 305
+
+</details>
+
+### Execution of Judgment
+
+### 29 No execution against Crown
+
+No execution shall issue on a judgment against the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 29; 1990, c. 8, s. 31; 2001, c. 4, s. 49(F)
+
+</details>
+
+### 30 Payment of judgment
+
+(1) On receipt of a certificate of judgment against the Crown issued under the regulations or the *Federal Courts Rules*, the Minister of Finance shall authorize the payment out of the Consolidated Revenue Fund of any money awarded by the judgment to any person against the Crown.
+
+**Crown costs to be paid to Receiver General**
+
+(2) Any money or costs awarded to the Crown in any proceedings shall be paid to the Receiver General.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 30; 1990, c. 8, s. 31; 2001, c. 4, s. 50(F); 2009, c. 16, s. 29
+
+</details>
+
+### Interest
+
+### 31 Prejudgment interest, cause of action within province
+
+(1) Except as otherwise provided in any other Act of Parliament and subject to subsection (2), the laws relating to prejudgment interest in proceedings between subject and subject that are in force in a province apply to any proceedings against the Crown in any court in respect of any cause of action arising in that province.
+
+**Prejudgment interest, cause of action outside province**
+
+(2) A person who is entitled to an order for the payment of money in respect of a cause of action against the Crown arising outside any province or in respect of causes of action against the Crown arising in more than one province is entitled to claim and have included in the order an award of interest thereon at such rate as the court considers reasonable in the circumstances, calculated
+
+- (a) where the order is made on a liquidated claim, from the date or dates the cause of action or causes of action arose to the date of the order; or
+
+- (b) where the order is made on an unliquidated claim, from the date the person entitled gave notice in writing of the claim to the Crown to the date of the order.
+
+**Special damages and pre-trial pecuniary losses**
+
+(3) When an order referred to in subsection (2) includes an amount for, in the Province of Quebec, pre-trial pecuniary loss or, in any other province, special damages, the interest shall be calculated under that subsection on the balance of the amount as totalled at the end of each six month period following the notice in writing referred to in paragraph (2)(b) and at the date of the order.
+
+**Exceptions**
+
+(4) Interest shall not be awarded under subsection (2)
+
+- (a) on exemplary or punitive damages;
+
+- (b) on interest accruing under this section;
+
+- (c) on an award of costs in the proceeding;
+
+- (d) on that part of the order that represents pecuniary loss arising after the date of the order and that is identified by a finding of the court;
+
+- (e) where the order is made on consent, except by consent of the Crown; or
+
+- (f) where interest is payable by a right other than under this section.
+
+**Judicial discretion**
+
+(5) A court may, where it considers it just to do so, having regard to changes in market interest rates, the conduct of the proceedings or any other relevant consideration, disallow interest or allow interest for a period other than that provided for in subsection (2) in respect of the whole or any part of the amount on which interest is payable under this section.
+
+**Application**
+
+(6) This section applies in respect of the payment of money under judgment delivered on or after the day on which this section comes into force, but no interest shall be awarded for a period before that day.
+
+**Canadian maritime law**
+
+(7) This section does not apply in respect of any case in which a claim for relief is made or a remedy is sought under or by virtue of Canadian maritime law within the meaning of the *Federal Courts Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 31; 1990, c. 8, s. 31; 2001, c. 4, s. 51; 2002, c. 8, s. 182
+
+</details>
+
+### 31.1 Judgment interest, causes of action within province
+
+(1) Except as otherwise provided in any other Act of Parliament and subject to subsection (2), the laws relating to interest on judgments in causes of action between subject and subject that are in force in a province apply to judgments against the Crown in respect of any cause of action arising in that province.
+
+**Judgment interest, causes of action outside or in more than one province**
+
+(2) A judgment against the Crown in respect of a cause of action outside any province or in respect of causes of action arising in more than one province shall bear interest at such rate as the Court considers reasonable in the circumstances, calculated from the time of the giving of the judgment.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 8, s. 31; 2001, c. 4, s. 52(E)
+
+</details>
+
+### Tenders
+
+### 31.2 Tenders
+
+(1) The Crown may, in any proceeding, plead a tender without paying the money tendered into court.
+
+**Written offer**
+
+(2) Every tender of a sum of money on behalf of the Crown shall be deemed to be legally made if made by a written offer to pay the sum, given under the hand of a minister of the Crown, or a person acting for that minister in that behalf, and notified to the person having the claim to that sum.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 8, s. 31
+
+</details>
+
+### Prescription and Limitation
+
+### 32 Provincial laws applicable
+
+Except as otherwise provided in this Act or in any other Act of Parliament, the laws relating to prescription and the limitation of actions in force in a province between subject and subject apply to any proceedings by or against the Crown in respect of any cause of action arising in that province, and proceedings by or against the Crown in respect of a cause of action arising otherwise than in a province shall be taken within six years after the cause of action arose.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 32; 1990, c. 8, s. 31
+
+</details>
+
+### Application of Statutes to the Crown
+
+### 33 Application of statutes to Crown
+
+Except as otherwise expressly provided in this Act, nothing in this Act affects any rule of evidence or any presumption relating to the extent to which the Crown is bound by an Act of Parliament.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-38, s. 20
+
+</details>
+
+### Regulations
+
+### 34 Regulations
+
+The Governor in Council may make regulations
+
+- (a) prescribing rules of practice and procedure in respect of proceedings by, against or involving the Crown, including tariffs of fees and costs;
+
+- (b) prescribing forms for the purposes of proceedings referred to in paragraph (a);
+
+- (c) respecting the issue of certificates of judgments against the Crown;
+
+- (d) making applicable to any proceedings by, against or involving the Crown all or any of the rules of evidence applicable in similar proceedings between subject and subject; and
+
+- (e) generally respecting proceedings by, against or involving the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 34; 1990, c. 8, s. 32; 2006, c. 11, s. 18
+
+</details>
+
+### Agencies and Servants of the Crown
+
+### 35 Proceedings against Crown agencies
+
+(1) This Act, except section 22, applies in respect of any proceedings against an agency of the Crown taken in accordance with any Act of Parliament that authorizes the proceedings to be taken.
+
+**Payment of award**
+
+(2) Any money awarded to any person by a judgment in any proceedings referred to in subsection (1), or the interest thereon, may be paid out of any funds administered by the agency of the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 35; 1990, c. 8, s. 32
+
+</details>
+
+### 36 Status of Canadian Forces and R.C.M.P.
+
+For the purposes of determining liability in any proceedings by or against the Crown, a person who was at any time a member of the Canadian Forces or of the Royal Canadian Mounted Police shall be deemed to have been at that time a servant of the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-50, s. 36; 1990, c. 8, s. 32
+
+</details>
+
+
+## SCHEDULE
+
+(Section 20.1)
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, c. 16, s. 30; 2010, c. 4, s. 24; 2012, c. 18, s. 23, c. 26, ss. 29, 62; 2014, c. 14, s. 16, c. 28, s. 24; 2017, c. 8, s. 16
+- 2019, c. 6, s. 6
+- 2024, c. 3, s. 16
+
+</details>

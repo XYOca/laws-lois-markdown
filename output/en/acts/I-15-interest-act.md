@@ -1,0 +1,187 @@
+---
+title: "Interest Act"
+long_title: "An Act respecting interest"
+chapter: "I-15"
+language: "en"
+type: "act"
+---
+
+# Interest Act
+
+> An Act respecting interest
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Interest Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. I-18, s. 1
+
+</details>
+
+## Rate of Interest
+
+### 2 No restriction except by statute
+
+Except as otherwise provided by this Act or any other Act of Parliament, any person may stipulate for, allow and exact, on any contract or agreement whatever, any rate of interest or discount that is agreed on.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. I-18, s. 2
+
+</details>
+
+### 3 Interest rate when none provided
+
+Whenever any interest is payable by the agreement of parties or by law, and no rate is fixed by the agreement or by law, the rate of interest shall be five per cent per annum.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. I-18, s. 3
+
+</details>
+
+### 4 When per annum rate not stipulated
+
+Except as to mortgages on real property or hypothecs on immovables, whenever any interest is, by the terms of any written or printed contract, whether under seal or not, made payable at a rate or percentage per day, week, month, or at any rate or percentage for any period less than a year, no interest exceeding the rate or percentage of five per cent per annum shall be chargeable, payable or recoverable on any part of the principal money unless the contract contains an express statement of the yearly rate or percentage of interest to which the other rate or percentage is equivalent.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-15, s. 4; 2001, c. 4, s. 91
+
+</details>
+
+### 5 Recovery of sums paid otherwise
+
+If any sum is paid on account of any interest not chargeable, payable or recoverable under section 4, the sum may be recovered back or deducted from any principal or interest payable under the contract.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. I-18, s. 5
+
+</details>
+
+## Interest on Moneys Secured by Mortgage on Real Property or Hypothec on Immovables
+
+### 6 No interest recoverable in certain cases
+
+Whenever any principal money or interest secured by mortgage on real property or hypothec on immovables is, by the mortgage or hypothec, made payable on a sinking fund plan, on any plan under which the payments of principal money and interest are blended or on any plan that involves an allowance of interest on stipulated repayments, no interest whatever shall be chargeable, payable or recoverable on any part of the principal money advanced, unless the mortgage or hypothec contains a statement showing the amount of the principal money and the rate of interest chargeable on that money, calculated yearly or half-yearly, not in advance.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-15, s. 6; 2001, c. 4, s. 92
+
+</details>
+
+### 7 No rate recoverable beyond that so stated
+
+Whenever the rate of interest shown in the statement mentioned in section 6 is less than the rate of interest that would be chargeable by virtue of any other provision, calculation or stipulation in the mortgage or hypothec, no greater rate of interest shall be chargeable, payable or recoverable, on the principal money advanced, than the rate shown in the statement.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-15, s. 7; 2001, c. 4, s. 93(E)
+
+</details>
+
+### 8 No fine, etc., allowed on payments in arrears
+
+(1) No fine, penalty or rate of interest shall be stipulated for, taken, reserved or exacted on any arrears of principal or interest secured by mortgage on real property or hypothec on immovables that has the effect of increasing the charge on the arrears beyond the rate of interest payable on principal money not in arrears.
+
+**Interest on arrears**
+
+(2) Nothing in this section has the effect of prohibiting a contract for the payment of interest on arrears of interest or principal at any rate not greater than the rate payable on principal money not in arrears.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-15, s. 8; 2001, c. 4, s. 94
+
+</details>
+
+### 9 Overcharge may be recovered back
+
+If any sum is paid on account of any interest, fine or penalty not chargeable, payable or recoverable under section 6, 7 or 8, the sum may be recovered back or deducted from any other interest, fine or penalty chargeable, payable or recoverable on the principal.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. I-18, s. 9
+
+</details>
+
+### 10 When no further interest payable
+
+(1) Whenever any principal money or interest secured by mortgage on real property or hypothec on immovables is not, under the terms of the mortgage or hypothec, payable until a time more than five years after the date of the mortgage or hypothec, then, if at any time after the expiration of the five years, any person liable to pay, or entitled to pay in order to redeem the mortgage, or to extinguish the hypothec, tenders or pays, to the person entitled to receive the money, the amount due for principal money and interest to the time of payment, as calculated under sections 6 to 9, together with three months further interest in lieu of notice, no further interest shall be chargeable, payable or recoverable at any time after the payment on the principal money or interest due under the mortgage or hypothec.
+
+**Exception**
+
+(2) Subsection (1) does not apply
+
+- (a) to any mortgage on real property or hypothec on immovables given by a joint stock company or any other corporation, nor to any debenture issued by them, for the payment of which security has been given by way of mortgage on real property or hypothec on immovables; or
+
+- (b) to any prescribed mortgage on real property or prescribed hypothec on immovables given by a prescribed entity, nor to any prescribed debenture issued by it, for the payment of which security has been given by way of mortgage on real property or hypothec on immovables.
+
+**Regulations**
+
+(3) For the purposes of paragraph (2)(b), the Governor in Council may, by regulation,
+
+- (a) prescribe entities; and
+
+- (b) prescribe classes of mortgages and hypothecs given by those entities and classes of debentures issued by them.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-15, s. 10; 2001, c. 4, s. 95; 2008, c. 28, s. 155
+
+</details>
+
+### 11 to 14
+
+[Repealed, 1992, c. 1, s. 146]
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 1996, c. 17, ss. 17, 18
+
+### 17
+
+Section 4 of the *Interest Act* is replaced by the following:
+
+### — 1996, c. 17, ss. 17, 18
+
+### 18
+
+Section 6 of the Act is replaced by the following:
+
+### — 2001, c. 4, ss. 175, 176
+
+### 175 R.S., c. I-15
+
+(1) Subsection 4(1) of the *Interest Act* is replaced by the following:
+
+**Coming into force**
+
+(2) Subsection (1) comes into force on the later of the coming into force of section 91 of this Act and section 17 of the *Agreement on Internal Trade Implementation Act*, chapter 17 of the Statutes of Canada, 1996.
+
+### — 2001, c. 4, ss. 175, 176
+
+### 176 R.S., c. I-15
+
+(1) Subsection 6(1) of the *Interest Act* and the heading before it are replaced by the following:
+
+**Coming into force**
+
+(2) Subsection (1) comes into force on the later of the coming into force of section 92 of this Act and section 18 of the *Agreement on Internal Trade Implementation Act*, chapter 17 of the Statutes of Canada, 1996.

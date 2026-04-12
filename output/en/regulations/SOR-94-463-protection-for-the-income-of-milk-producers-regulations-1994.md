@@ -1,0 +1,39 @@
+---
+title: "Protection for the Income of Milk Producers Regulations (1994)"
+long_title: "Regulations Respecting Protection for the Income of Milk Producers for the Period Beginning on April 1, 1994 and Ending on March 31, 1995"
+instrument_number: "SOR/94-463"
+language: "en"
+type: "regulation"
+---
+
+# Protection for the Income of Milk Producers Regulations (1994)
+
+> Regulations Respecting Protection for the Income of Milk Producers for the Period Beginning on April 1, 1994 and Ending on March 31, 1995
+
+
+## Short Title
+
+### 1
+
+[Repealed, SOR/2017-84, s. 1]
+
+## Interpretation
+
+### 2
+
+[Repealed, SOR/2017-84, s. 1]
+
+## Application
+
+### 3
+
+[Repealed, SOR/2017-84, s. 1]
+
+## Payment to the Canadian Dairy Commission
+
+### 4
+
+[Repealed, SOR/2017-84, s. 1]
+
+> [Repealed, SOR/2017-84, s. 1]
+

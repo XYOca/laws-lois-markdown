@@ -1,0 +1,895 @@
+---
+title: "Loi fédérale sur les prêts aux étudiants"
+long_title: "Loi destinée à faciliter l’octroi de prêts aux étudiants"
+chapter: "S-23"
+language: "en"
+type: "act"
+---
+
+# Loi fédérale sur les prêts aux étudiants
+
+> Loi destinée à faciliter l’octroi de prêts aux étudiants
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi fédérale sur les prêts aux étudiants*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 1
+
+</details>
+
+## Définitions et interprétation
+
+### 2 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente loi.
+
+**année de prêt** Période commençant le 1^er^ août et se terminant le 31 juillet. (**loan year**)
+
+**autorité compétente** Personne, organisme ou autre autorité désignée comme telle par le lieutenant-gouverneur en conseil de la province en cause pour les besoins de la présente loi. (**appropriate authority**)
+
+**certificat d’admissibilité** Certificat établi en la forme déterminée par le ministre et délivré conformément à l’article 14 par ou pour une autorité compétente. (**certificate of eligibility**)
+
+**emprunteur** Personne à qui un prêt est consenti aux termes de la présente loi. (**borrower**)
+
+**établissement d’enseignement agréé** Établissement d’enseignement — situé dans la province ou à l’extérieur de celle-ci — qui offre des cours de niveau postsecondaire et est agréé par le lieutenant-gouverneur en conseil de la province aux termes de la présente loi à titre soit particulier, soit collectif dans le cadre d’une catégorie donnée. (**specified educational institution**)
+
+**étudiant admissible** Personne qui, à la fois :
+  - a) est un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la *Loi sur l’immigration et la protection des réfugiés*;
+  - b) est inscrite ou remplit les conditions d’inscription à un établissement d’enseignement agréé, en qualité d’étudiant à temps plein ou partiel, pour une période d’études au niveau postsecondaire;
+  - c) a l’intention de suivre les cours de cet établissement d’enseignement agréé, en qualité d’étudiant à temps plein ou partiel, pour cette période d’études, si elle a la possibilité financière de le faire. (**qualifying student**)
+
+**ministre** Le ministre de l’Emploi et du Développement social. (**Minister**)
+
+**période d’études** Période des études suivies dans un établissement d’enseignement agréé pour un cours reconnu par celui-ci et l’autorité compétente comme équivalant à un cours que peut suivre un étudiant à temps plein à cet établissement dans le cadre d’un programme d’études d’une durée d’au moins douze semaines consécutives. (**period of studies**)
+
+**prêteur**
+  - a) Banque ou banque étrangère autorisée, au sens de l’article 2 de la *Loi sur les banques*;
+  - b) caisse populaire ou autre coopérative de crédit ayant été, à sa demande, agréée comme prêteur par le ministre pour l’application de la présente loi;
+  - c) société régie par la *Loi sur les sociétés de fiducie et de prêt* ou société, société de secours ou société provinciale régie par la *Loi sur les sociétés d’assurances* et ayant été, à sa demande, agréée comme prêteur par le ministre pour l’application de la présente loi. (**lender**)
+
+**prêt garanti** Prêt consenti aux conditions énoncées à l’article 7. (**guaranteed student loan**)
+
+**Territoires**
+
+(2) Pour l’application de la présente loi au Yukon, dans les Territoires du Nord-Ouest et au Nunavut, **lieutenant-gouverneur en conseil** s’entend du commissaire du Yukon, de celui des Territoires du Nord-Ouest ou de celui du Nunavut, agissant après consultation de l’Assemblée législative du Yukon, de l’Assemblée législative des Territoires du Nord-Ouest ou de l’Assemblée législative du Nunavut, selon le cas.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-23, art. 2; 1991, ch. 47, art. 746; 1993, ch. 12, art. 2, ch. 28, art. 78; 1996, ch. 11, art. 95; 1999, ch. 28, art. 177; 2001, ch. 27, art. 220; 2002, ch. 7, art. 113; 2005, ch. 34, art. 80; 2013, ch. 40, art. 238; 2014, ch. 2, art. 28
+
+</details>
+
+## Champ d’application
+
+### 2.1 Certificat d’admissibilité
+
+(1) Les certificats d’admissibilité prévus par la présente loi ne peuvent plus être délivrés après l’entrée en vigueur de l’article 12 de la *Loi fédérale sur l’aide financière aux étudiants*.
+
+**Paiement**
+
+(2) Il est interdit de verser les montants compensatoires prévus à l’article 16 de la présente loi à partir de l’année de prêt au cours de laquelle l’article 14 de la *Loi fédérale sur l’aide financière aux étudiants* entre en vigueur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, ch. 28, art. 21
+
+</details>
+
+## Prêts garantis
+
+### 3 Plafond
+
+(1) Sous réserve des autres dispositions de la présente loi et de ses règlements, le prêteur peut, pour une période d’études donnée, consentir à un étudiant admissible un prêt garanti dont le maximum est :
+
+- a) pour un étudiant à temps plein, cent dollars par semaine;
+
+- b) pour un étudiant à temps partiel, l’excédent de deux mille cinq cents dollars sur le principal impayé de tous les autres prêts garantis qui lui ont été consentis en cette qualité.
+
+**Rajustement**
+
+(2) Le ministre peut, pour chaque année de prêt, rajuster soit les montants de cent dollars par semaine et de deux mille cinq cents dollars respectivement prévus aux alinéas (1)a) et b), soit l’un de ces deux montants, par l’emploi de multiplicateurs égaux ou inférieurs à ceux qui sont calculés selon les formules réglementaires pour tenir compte de la variation annuelle du coût moyen, au Canada, des études de niveau postsecondaire.
+
+**Publication**
+
+(3) Le ministre publie dans la *Gazette du Canada*, avant le début de l’année de prêt concernée, les montants rajustés conformément au paragraphe (2).
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 3; S.R., ch. 42(1^er^ suppl.), art. 2; 1972, ch. 15, ann. (Fin.), crédit 1; 1974-75-76, ch. 36, ann. (Fin.), crédit 1d; 1980-81-82-83, ch. 49, art. 2, ch. 155, art. 2
+
+</details>
+
+## Intérêts et périodes sans remboursement du capital
+
+### 4 Aucune accumulation d’intérêts
+
+(1) Les prêts garantis ne portent pas intérêt pour l’emprunteur à compter du 1^er^ avril 2023.
+
+**Précision**
+
+(2) Il est entendu que le présent article ne dégage pas l’emprunteur de sa responsabilité à l’égard des intérêts courus avant le 1^er^ avril 2023 pour tout prêt garanti.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-23, art. 4; 1993, ch. 12, art. 3
+- 2019, ch. 29, art. 323
+- 2022, ch. 19, art. 145
+
+</details>
+
+### 5 Report de paiement
+
+Sous réserve des règlements, le paiement, par l’emprunteur, du principal ou des intérêts du prêt garanti qui lui a été consenti à titre d’étudiant à temps plein peut être différé jusqu’au dernier jour du septième mois suivant celui où il perd son statut d’étudiant à temps plein.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 5; 1980-81-82-83, ch. 49, art. 2, ch. 155, art. 3
+
+</details>
+
+### 5.1 Accords
+
+(1) Le ministre peut conclure avec tout prêteur un accord régissant le paiement des intérêts — ou avec toute province un accord régissant le paiement des intérêts sur les prêts d’études provinciaux — par les emprunteurs visés par les règlements pris en vertu de l’alinéa 17s.2).
+
+**Paiement par le ministre**
+
+(2) À défaut d’accord, le ministre peut payer les intérêts au nom des emprunteurs.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2008, ch. 15, art. 4
+- 2022, ch. 19, art. 146
+
+</details>
+
+### 5.2 Accès du ministre aux renseignements
+
+Pour l’application de tout règlement pris en vertu des alinéas 17s.2) ou s.3), le ministre a droit, sur demande, d’avoir accès aux **renseignements personnels**, au sens de l’article 3 de la *Loi sur la protection des renseignements personnels*, relevant d’une **institution fédérale**, au sens de l’article 3 de cette loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2008, ch. 15, art. 4
+- 2022, ch. 19, art. 147
+
+</details>
+
+## Responsabilité du ministre
+
+### 6 Intérêt payable par le ministre
+
+(1) Le ministre verse au prêteur, pour chaque prêt garanti consenti à un étudiant à temps plein, les intérêts afférents au prêt, au taux prévu au règlement pour la ou les périodes d’exemption d’intérêt se situant avant le 1^er^ avril 2023 qui sont visées à l’article 4, dans toute version antérieure de cet article au 1^er^ avril 2023.
+
+**Idem**
+
+(2) Le ministre n’est pas tenu de verser les intérêts prévus au paragraphe (1) pour toute période qui précède la date où l’obligation a été contractée par l’emprunteur envers le prêteur quant au prêt garanti en cause, ou qui suit l’extinction de cette obligation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-23, art. 6; 1993, ch. 12, art. 4
+- 2022, ch. 19, art. 148
+
+</details>
+
+### 7 Garantie du ministre
+
+Sous réserve des autres dispositions de la présente loi et de ses règlements, le ministre indemnise le prêteur de toute perte occasionnée à celui-ci par un prêt consenti à un étudiant admissible, si les conditions suivantes sont réunies :
+
+- a) dans la demande de prêt qu’il a signée, l’emprunteur déclarait n’avoir reçu, aux termes du certificat d’admissibilité visé à l’alinéa b) — ou de quelque autre certificat d’admissibilité ayant trait à la période d’études précisée dans le certificat d’admissibilité visé à l’alinéa b) — aucun autre prêt supérieur à la différence entre le plafond prévu à l’article 3 et le montant du prêt demandé;
+
+- b) l’emprunteur avait remis au prêteur un document censé être, et accepté à ce titre de bonne foi par un responsable de l’organisme prêteur, un certificat d’admissibilité délivré par ou pour une autorité compétente pour la période d’études en cause;
+
+- c) le montant du prêt ne dépassait pas le montant indiqué dans le certificat d’admissibilité ou, s’il est inférieur, le plafond prévu à l’article 3;
+
+- d) les seuls frais afférents au prêt — exception faite des frais prévus par règlement en cas de défaut — étaient le montant de l’intérêt calculé de la façon prévue par règlement sur le montant prévu par règlement et égal ou inférieur au taux prévu par règlement ou déterminé de la façon prévue par règlement;
+
+- e) le contrat de prêt prévoyait le remboursement intégral :
+  - (i) s’agissant d’un prêt destiné à un étudiant à temps plein, sous réserve des règlements, en conformité avec les pratiques du prêteur en matière de remboursement, le remboursement, en tout ou en partie, du principal impayé, ainsi que de l’intérêt couru, restant toutefois possible avant l’échéance,
+  - (ii) s’agissant d’un prêt destiné à un étudiant à temps partiel, dans un délai maximal de deux ans à compter de la date où le prêt a été consenti, le remboursement, en tout ou en partie, du principal impayé, ainsi que de l’intérêt couru, restant toutefois possible avant l’échéance;
+
+- f) le contrat de prêt, établi en la forme déterminée par le ministre, contenait :
+  - (i) s’agissant d’un prêt destiné à un étudiant à temps plein, les dispositions prévues à l’article 4, dans sa version au moment où le contrat de prêt a été conclu, et à l’article 5 ainsi que les dispositions réglementaires,
+  - (ii) s’agissant d’un prêt destiné à un étudiant à temps partiel, les dispositions réglementaires.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-23, art. 7; 1993, ch. 12, art. 5; 1996, ch. 18, art. 62
+- 2022, ch. 19, art. 149
+
+</details>
+
+### 7.1 Indemnisation en cas d’erreur
+
+Sous réserve des règlements, le ministre peut indemniser le prêteur de la perte occasionnée à celui-ci par un prêt consenti à un étudiant admissible s’il juge, d’une part, que c’est par inadvertance qu’une erreur concernant le taux d’intérêt ou le montant à rembourser a été faite par le prêteur dans le contrat de prêt et, d’autre part, que celle-ci n’a eu aucun effet sur la perte.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, ch. 28, art. 22
+
+</details>
+
+### 8 Paiement des frais de recouvrement au prêteur
+
+Le ministre peut verser au prêteur le montant réglementaire en ce qui a trait au recouvrement effectué par celui-ci, pour le compte de Sa Majesté, après indemnisation au titre de l’article 7, à l’égard de sommes dues par l’emprunteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 9; 1980-81-82-83, ch. 49, art. 4
+
+</details>
+
+### 9
+
+[Abrogé, 1994, ch. 28, art. 23]
+
+### 10
+
+[Abrogé, 2022, ch. 19, art. 150]
+
+### 11
+
+[Abrogé, 2022, ch. 19, art. 150]
+
+## Dispense de remboursement — collectivité rurale ou éloignée mal desservie
+
+### 11.1 Dispense de remboursement
+
+(1) Le ministre peut dispenser du remboursement d’une somme à l’égard de son prêt garanti l’emprunteur qui satisfait aux conditions réglementaires et qui commence à occuper, dans une collectivité rurale ou éloignée mal desservie, l’un des postes suivants :
+
+- a) médecin de famille;
+
+- b) infirmier;
+
+- c) infirmier praticien;
+
+- d) éducateur de la petite enfance;
+
+- e) dentiste;
+
+- f) hygiéniste dentaire;
+
+- g) pharmacien;
+
+- h) sage-femme;
+
+- i) enseignant;
+
+- j) travailleur social;
+
+- k) psychologue;
+
+- l) préposé aux services de soutien à la personne;
+
+- m) physiothérapeute.
+
+**Prise d’effet**
+
+(2) La dispense prend effet le jour prévu par règlement.
+
+**Accord**
+
+(3) Le ministre peut, pour l’application du paragraphe (1), conclure avec tout prêteur un accord pour le rachat d’une créance correspondant à un prêt garanti.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, ch. 24, art. 157
+- 2024, ch. 17, art. 156
+
+</details>
+
+## Période allant du 30 mars 2020 au 30 septembre 2020
+
+### 11.2 Suspension des intérêts et des paiements
+
+Au cours de la période commençant le 30 mars 2020 et se terminant le 30 septembre 2020 :
+
+- a) les prêts garantis ne portent pas intérêt pour l’emprunteur;
+
+- b) le paiement, par l’emprunteur, du principal et des intérêts du prêt garanti qui lui a été consenti peut être différé.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, ch. 5, art. 52
+
+</details>
+
+## Période allant du 1^er^ avril 2021 au 31 mars 2023
+
+### 11.3 Suspension des intérêts
+
+Au cours de la période commençant le 1^er^ avril 2021 et se terminant le 31 mars 2023, les prêts garantis ne portent pas intérêt pour l’emprunteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2021, ch. 7, art. 6
+- 2021, ch. 23, art. 266
+
+</details>
+
+## Décès ou invalidité de l’emprunteur
+
+### 12 Décès
+
+(1) Lorsque l’emprunteur décède, ses obligations à l’égard d’un prêt garanti s’éteignent, auquel cas le ministre paie au prêteur la somme, déterminée conformément aux règlements, qui est exigible au titre du principal et de l’intérêt à la date du décès.
+
+**Décès non signalé**
+
+(2) Toutefois, si le prêteur n’est pas averti du décès dans les trente jours qui suivent la date de celui-ci, le ministre paie au prêteur la somme, déterminée conformément aux règlements, qui est exigible au titre du principal et de l’intérêt à la date qu’il fixe conformément aux règlements.
+
+**Disparition**
+
+(3) Si l’emprunteur disparaît dans des circonstances dont le ministre conclut qu’elles font présumer son décès, ses obligations à l’égard d’un prêt garanti s’éteignent à la date à laquelle le ministre tire sa conclusion et celui-ci paie au prêteur la somme, déterminée conformément aux règlements, qui est exigible au titre du principal et de l’intérêt à la date qu’il fixe conformément aux règlements.
+
+**Décès antérieur à l’entrée en vigueur du présent paragraphe**
+
+(4) Si le décès visé au paragraphe (1) ou la conclusion du ministre visée à l’alinéa (2)b), dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe, sont antérieurs à cette date, les obligations de l’emprunteur à l’égard du prêt garanti s’éteignent à la même date.
+
+**Date postérieure à l’entrée en vigueur du présent paragraphe**
+
+(5) Si le ministre fixe, au titre du paragraphe (2), dans sa version antérieure à l’entrée en vigueur du présent paragraphe, une date postérieure à cette entrée en vigueur, cette date devient celle à laquelle la somme visée aux paragraphes (2) ou (3) est exigible.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-23, art. 12; 2009, ch. 2, art. 365
+
+</details>
+
+### 13 Invalidité grave et permanente
+
+(1) Lorsque, sur communication par l’emprunteur — ou en son nom — des renseignements réglementaires, le ministre est convaincu que ce dernier, en raison d’une invalidité grave et permanente, ne peut et ne pourra jamais rembourser son prêt garanti, les droits du prêteur à l’encontre de l’emprunteur s’éteignent et le ministre paie au prêteur le montant, déterminé conformément aux règlements, exigible au titre du principal et de l’intérêt à la date de communication des renseignements.
+
+**Définition de **invalidité grave et permanente****
+
+(2) Le gouverneur en conseil peut, par règlement, définir **invalidité grave et permanente** pour l’application du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-23, art. 13; 2008, ch. 28, art. 112
+
+</details>
+
+## Certificats d’admissibilité
+
+### 14 Délivrance
+
+(1) Sous réserve de l’article 15, l’autorité compétente peut délivrer ou faire délivrer, pour une période d’études donnée, un certificat d’admissibilité à tout étudiant admissible si elle estime que celui-ci :
+
+- a) d’une part, a atteint un niveau et des résultats satisfaisants;
+
+- b) d’autre part, a besoin d’un prêt pour cette période d’études.
+
+**Mention du montant du prêt**
+
+(2) Le certificat d’admissibilité doit préciser le montant du prêt — jusqu’à concurrence du plafond prévu à l’article 3 pour la période d’études auquel il se rapporte — qui, selon l’autorité compétente, est nécessaire pour permettre à l’étudiant à temps plein ou partiel admissible de suivre pendant cette période tout ou partie de son programme d’études postsecondaires dans l’établissement d’enseignement agréé qui y est mentionné.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 10; S.R., ch. 42(1^er^ suppl.), art. 5; 1972, ch. 15, ann. (Fin.), crédit 1; 1980-81-82-83, ch. 49, art. 5, ch. 155, art. 8
+
+</details>
+
+### 15 Plafond global
+
+(1) L’autorité compétente dans une province ne peut plus délivrer ni faire délivrer de certificat d’admissibilité pour une année de prêt donnée, dès que le total des montants indiqués sur les certificats d’admissibilité qu’elle a délivrés ou fait délivrer au cours de cette année de prêt atteint la somme des éléments suivants :
+
+- a) la quote-part allouée à la province pour cette année de prêt;
+
+- b) l’éventuelle quote-part supplémentaire allouée à cette province par le ministre aux termes du paragraphe (4) pour cette année de prêt.
+
+**Calcul de la quote-part provinciale**
+
+(2) La quote-part provinciale pour une année de prêt est le montant, déterminé par le ministre après consultation avec le statisticien en chef du Canada, égal à la somme des éléments suivants :
+
+- a) d’une part, le produit de quatre-vingt-quinze pour cent du montant de base affecté aux prêts pour cette année de prêt et de la fraction dont :
+  - (i) le numérateur est égal au nombre estimatif de personnes dans la province qui, le premier jour de cette année de prêt, sont âgées d’au moins dix-huit ans et de moins de vingt-cinq ans,
+  - (ii) le dénominateur est égal au nombre estimatif de personnes du même groupe d’âge — à la même date — dans tout le Canada;
+
+- b) d’autre part, le produit de cinq pour cent du montant de base affecté aux prêts pour cette année de prêt et de la fraction dont :
+  - (i) le numérateur est égal au nombre estimatif de personnes inscrites comme étudiants à temps partiel pour une période d’études dans la province pendant l’année de prêt précédente,
+  - (ii) le dénominateur est égal au nombre estimatif de personnes inscrites comme étudiants à temps partiel pour une période d’études dans tout le Canada pendant l’année de prêt précédente.
+
+**Montant de base**
+
+(3) Le montant de base affecté aux prêts pour une année de prêt est le montant, déterminé par le ministre après consultation du statisticien en chef du Canada, égal au produit des éléments suivants :
+
+- a) cinq cent trente millions de dollars;
+
+- b) le quotient du nombre estimatif de personnes qui seront inscrites dans tout le Canada en qualité d’étudiant à temps plein, pour suivre un programme d’études postsecondaires au cours de cette année de prêt, par le nombre de personnes qui répondaient à ces critères pour l’année de prêt commençant en 1983;
+
+- c) l’éventuel multiplicateur servant, aux termes du paragraphe 3(2), à rajuster le montant prévu à l’alinéa 3(1)a) pour cette année de prêt.
+
+**Calcul de la quote-part supplémentaire**
+
+(4) À la demande du gouvernement d’une province, le ministre peut fixer le montant de la quote-part supplémentaire qu’il alloue à cette province pour une année de prêt, lequel ne peut dépasser la différence entre les éléments suivants :
+
+- a) d’une part, trente pour cent du montant de base affecté aux prêts pour cette année de prêt, déterminé conformément au paragraphe (3);
+
+- b) d’autre part, le total des quote-parts supplémentaires allouées, aux termes du présent paragraphe, par le ministre pour cette année de prêt.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 11; S.R., ch. 42(1^er^ suppl.), art. 6; 1970-71-72, ch. 15, art. 39; 1974-75-76, ch. 36, ann. (Fin.), crédit 1d; 1976-77, ch. 2, ann. A (Fin.), crédit 1b; 1980-81-82-83, ch. 49, art. 6, ch. 155, art. 9
+
+</details>
+
+## Montants compensatoires
+
+### 16 Paiement
+
+(1) Lorsqu’un gouvernement provincial l’informe par écrit, au moins douze mois avant le commencement d’une année de prêt, qu’un régime provincial de prêts aux étudiants sera en vigueur dans la province pendant l’année de prêt et qu’en conséquence aucune autorité compétente ne sera désignée pour l’application de la présente loi, le ministre verse à la province, dans les six mois qui suivent la fin de cette année de prêt, le montant compensatoire calculé conformément au présent article.
+
+**Calcul du paiement**
+
+(2) Le montant compensatoire versé à une province pour une année de prêt qui commence avant le 1^er^ août 1991 est déterminé par le ministre, après consultation avec le statisticien en chef du Canada, par application de la formule suivante :
+
+- a) d’abord multiplication de la différence visée au sous-alinéa (i) par la fraction visée au sous-alinéa (ii) :
+  - (i) sous réserve du paragraphe (3), la différence entre, d’une part, le total des montants que le ministre a, au cours de l’année de prêt, payés aux prêteurs conformément aux articles 6, 7 et 8, et à l’alinéa 10b), dans toute version antérieure de cet alinéa au 1^er^ avril 2023, et aux articles 12 et 13, ainsi qu’aux agences de recouvrement, pour les prêts garantis consentis sur la foi des certificats d’admissibilité délivrés par ou pour les autorités compétentes des provinces participantes au cours de l’année, et, d’autre part, le total des montants perçus par Sa Majesté ou pour son compte au cours de l’année pour ces prêts,
+  - (ii) la fraction dont :
+    - (A) le numérateur est égal au nombre estimatif de personnes dans la province qui, le premier jour de cette année de prêt, sont âgées d’au moins dix-huit ans et de moins de vingt-cinq ans,
+    - (B) le dénominateur est égal au nombre estimatif de personnes dans les provinces dont les autorités compétentes ont délivré ou fait délivrer des certificats d’admissibilité au cours de l’année de prêt, qui, le premier jour de l’année, sont âgées d’au moins dix-huit ans et de moins de vingt-cinq ans;
+
+- b) puis calcul de la différence entre le produit obtenu conformément à l’alinéa a) et le produit résultant de la multiplication de ce même produit par la fraction dont :
+  - (i) le numérateur est égal au montant total des prêts garantis autorisés par la province au cours des trois années précédentes,
+  - (ii) le dénominateur est égal au montant total des prêts garantis autorisés par toutes les provinces participantes pendant la même période.
+
+**Condition**
+
+(3) Les montants visés au sous-alinéa (2)a)(i) qui ont été payés ou perçus à l’égard des prêts consentis aux étudiants à temps partiel ou ont été payés en vertu de l’alinéa 10b), dans toute version antérieure de cet alinéa au 1^er^ avril 2023, ne sont pris en compte pour le calcul prévu à ce sous-alinéa que si le gouvernement de la province convainc le ministre que les effets de son régime de prêts aux étudiants sont essentiellement les mêmes que ceux des dispositions de la présente loi portant respectivement sur les prêts aux étudiants à temps partiel ou l’octroi de périodes spéciales d’exemption.
+
+**Calcul du paiement**
+
+(4) Le montant compensatoire versé à une province pour une année de prêt qui commence le 1^er^ août 1991 ou après cette date — appelée « année de prêt courante » au présent paragraphe — est déterminé par le ministre, après consultation avec le statisticien en chef du Canada, par application de la formule suivante :
+
+- a) d’abord multiplication des éléments suivants :
+  - (i) le coût net par tête pour les provinces participantes pour l’année de prêt qui commence le 1^er^ août 1990,
+  - (ii) le produit obtenu en multipliant le nombre estimatif de personnes dans cette province qui, le premier jour de l’année de prêt courante, sont âgées d’au moins dix-huit ans et de moins de vingt-cinq ans par le facteur de progression déterminé en conformité avec le paragraphe (5) pour chaque année de prêt comprise dans la période qui commence le 1^er^ août 1991 et se termine le 31 juillet de l’année de prêt courante;
+
+- b) puis calcul de la différence entre le produit obtenu conformément à l’alinéa a) et les coûts nets pour cette province durant l’année de prêt courante.
+
+**Facteur de progression**
+
+(5) Pour l’application du sous-alinéa (4)a)(ii) :
+
+- a) sous réserve de l’alinéa b), le facteur de progression retenu pour une année de prêt est une fraction dont :
+  - (i) le numérateur est le coût net par tête pour les provinces participantes pour cette année de prêt,
+  - (ii) le dénominateur est le coût net par tête pour les provinces participantes pour l’année de prêt précédente;
+
+- b) le facteur de progression retenu pour la première année de prêt au cours de laquelle un régime provincial de prêts aux étudiants est en vigueur dans la province et aucune autorité compétente ne sera désignée pour l’application de la présente loi est une fraction dont :
+  - (i) le numérateur est le coût net par tête pour cette première année de prêt pour les provinces participantes,
+  - (ii) le dénominateur est le coût net par tête pour l’année de prêt précédente pour les provinces qui sont des provinces participantes au cours de cette première année de prêt.
+
+**Définitions**
+
+(6) Les définitions qui suivent s’appliquent au présent article.
+
+**coûts nets** À l’égard d’une province pour une année de prêt et sous réserve du paragraphe (7), la différence entre :
+  - a) le total estimatif des montants que le ministre a, au cours de l’année de prêt, payés aux prêteurs conformément aux articles 6, 7 et 8, et à l’alinéa 10b), dans toute version antérieure de cet alinéa au 1^er^ avril 2023, et aux articles 12 et 13, ainsi qu’aux agences de recouvrement, pour les prêts garantis consentis sur la foi des certificats d’admissibilité délivrés au cours d’une année de prêt par ou pour l’autorité compétente de la province;
+  - b) le total estimatif des montants perçus par Sa Majesté ou pour son compte, notamment les montants perçus sous le régime de la *Loi sur la gestion des finances publiques*, à l’égard des prêts visés à l’alinéa a). (**net costs**)
+
+**coûts nets par tête** À l’égard des provinces participantes pour une année de prêt, la fraction dont :
+  - a) le numérateur est la différence entre les coûts nets totaux du programme pour cette année de prêt et le total des coûts nets pour cette année de prêt pour les provinces non participantes durant l’année de prêt;
+  - b) le dénominateur est le nombre estimatif de personnes dans les provinces participantes qui, le premier jour de l’année de prêt, sont âgées d’au moins dix-huit ans et de moins de vingt-cinq ans. (**net per capita costs**)
+
+**coûts nets totaux du programme** À l’égard d’une année de prêt la différence entre :
+  - a) le total des montants que le ministre a, au cours de cette année de prêt, payés aux prêteurs conformément aux articles 6, 7 et 8, et à l’alinéa 10b), dans toute version antérieure de cet alinéa au 1^er^ avril 2023, et aux articles 12 et 13, ainsi qu’aux agences de recouvrement, pour les prêts garantis consentis sur la foi des certificats d’admissibilité délivrés au cours d’une année de prêt par ou pour les autorités compétentes des provinces participantes;
+  - b) le total des montants perçus par Sa Majesté ou pour son compte, notamment les montants perçus sous le régime de la *Loi sur la gestion des finances publiques*, à l’égard des prêts visés à l’alinéa a). (**total program net costs**)
+
+**Exception**
+
+(7) Les montants visés aux alinéas a) et b) de la définition de **coûts nets** au paragraphe (6) qui ont été versés ou reçus à l’égard des prêts consentis aux étudiants à temps partiel ou ont été payés en vertu de l’alinéa 10b), dans toute version antérieure de cet alinéa au 1^er^ avril 2023, ne sont pris en compte pour le calcul prévu à cette définition que si le gouvernement de la province convainc le ministre que les effets de son régime de prêts aux étudiants sont essentiellement les mêmes que ceux des dispositions de la présente loi portant respectivement sur les prêts aux étudiants à temps partiel ou l’octroi de périodes spéciales d’exemption.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-23, art. 16; 1993, ch. 12, art. 8
+- 2022, ch. 19, art. 151
+
+</details>
+
+## Règlements
+
+### 17 Règlements
+
+Le gouverneur en conseil peut, par règlement :
+
+- a) [Abrogé, 1993, ch. 12, art. 9]
+
+- b) prévoir, dans le cadre de l’alinéa 7f), les dispositions que doivent contenir les contrats de prêts garantis;
+
+- c) prévoir la possibilité de modifier les contrats conclus entre les emprunteurs et les prêteurs, et en préciser les conditions et effets;
+
+- d) prévoir la possibilité pour les prêteurs de céder les contrats conclus avec les emprunteurs, et en préciser les conditions et effets;
+
+- e) prévoir le taux des intérêts ou le mode de détermination du taux des intérêts payables par le ministre aux termes de l’article 6 à l’égard d’un prêt garanti ou d’une catégorie de prêts garantis;
+
+- f) prévoir, pour l’application de l’alinéa 7d) :
+  - (i) le mode de calcul des intérêts et le montant sur lequel ils doivent être calculés,
+  - (ii) le taux des intérêts ou son mode de détermination;
+
+- g) prévoir les mesures à prendre par le prêteur en cas de défaut de remboursement d’un prêt garanti, ainsi que la marche à suivre pour le recouvrement du principal impayé et des intérêts courus;
+
+- h) prévoir, pour l’application des articles 7 et 7.1, le mode de calcul des pertes occasionnées aux prêteurs par des prêts garantis;
+
+- i) prévoir les formalités à remplir par les prêteurs pour se faire indemniser par le ministre;
+
+- j) prévoir les modalités de subrogation de Sa Majesté dans les droits d’un prêteur en matière de prêts garantis;
+
+- k) fixer, pour les prêts garantis consentis à un étudiant à temps plein, le nombre maximal de périodes d’études après lesquelles, par dérogation aux autres dispositions de la présente loi, l’emprunteur doit commencer à payer le principal et les intérêts du prêt;
+
+- k.1) régir les circonstances dans lesquelles le paiement de tout ou partie du principal ou des intérêts des prêts garantis peut être différé;
+
+- l) prévoir, pour l’application du sous-alinéa 7e)(i), des critères ou modalités de remboursement des prêts garantis consentis aux étudiants à temps plein ainsi que l’incorporation par renvoi de pratiques établies du prêteur;
+
+- m) [Abrogé, 2022, ch. 19, art. 152]
+
+- n) fixer le délai dans lequel les prêteurs doivent présenter leur demande d’indemnisation au ministre pour les pertes que leur ont occasionnées les prêts garantis, de même que la proportion dans laquelle le montant à payer par le ministre au titre de l’article 7 sera réduit en cas de présentation tardive;
+
+- o) établir les formules visées au paragraphe 3(2);
+
+- p) prévoir la transmission de rapports au ministre et préciser les renseignements devant y figurer;
+
+- q) prévoir le remboursement des prêts garantis par les emprunteurs ou par des catégories d’emprunteurs, en fonction du revenu;
+
+- q.1) prévoir, avec ou sans condition, le remboursement, ainsi que son mode de calcul, au prêteur par le ministre du montant d’une partie du prêt d’études et la décharge correspondante en ce qui concerne l’étudiant à temps plein ou à temps partiel;
+
+- q.2) prévoir la somme à l’égard du prêt garanti qui peut faire l’objet d’une dispense de remboursement à l’égard d’une année en vertu de l’article 11.1;
+
+- q.3) prévoir le nombre maximal d’années à l’égard desquelles une somme à l’égard du prêt garanti peut faire l’objet d’une dispense de remboursement en vertu de l’article 11.1;
+
+- r) définir les termes « collectivité rurale ou éloignée mal desservie », « dentiste », « éducateur de la petite enfance », « enseignant », « étudiant à temps partiel », « étudiant à temps plein », « hygiéniste dentaire », « infirmier », « infirmier praticien », « médecin de famille », « pharmacien », « physiothérapeute », « préposé aux services de soutien à la personne », « psychologue », « responsable de l’organisme prêteur », « sage-femme » et « travailleur social » pour l’application de la présente loi;
+
+- r.1) prévoir les circonstances lors desquelles un emprunteur cesse d’être un étudiant à temps plein;
+
+- s) prévoir, malgré l’article 15, la rectification du montant de la quote-part d’une province pour une année de prêt donnée dans les cas où le total des montants indiqués dans les certificats d’admissibilité qu’a délivrés ou fait délivrer l’autorité compétente pour une année antérieure a dépassé celui des montants visés aux alinéas 15(1)a) et b) et applicables à la province pour cette année antérieure;
+
+- s.1) [Abrogé, 2022, ch. 19, art. 152]
+
+- s.2) régir les circonstances dans lesquelles le paiement du principal ou des intérêts des prêts garantis consentis aux membres de la force de réserve peuvent être différés;
+
+- s.3) régir le paiement des intérêts prévu au paragraphe 5.1(2);
+
+- t) prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
+
+- u) de façon générale, prendre toute autre mesure d’application de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-23, art. 17; 1993, ch. 12, art. 9; 1994, ch. 28, art. 26; 1996, ch. 18, art. 63; 1998, ch. 21, art. 102; 2008, ch. 15, art. 5, ch. 28, art. 113; 2011, ch. 24, art. 158
+- 2022, ch. 19, art. 152
+- 2024, ch. 17, art. 157
+
+</details>
+
+## Formulaires
+
+### 17.1 Formulaires
+
+Le ministre peut déterminer :
+
+- a) les formulaires et autres documents dont la forme, au titre de la présente loi ou des règlements, doit être déterminée par lui;
+
+- b) les renseignements à inscrire dans un formulaire ou document visé à l’alinéa a) en plus de ceux que la présente loi ou les règlements prévoient d’y inscrire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, ch. 12, art. 10
+
+</details>
+
+## Infraction et peine
+
+### 18 Fausses déclarations
+
+(1) Quiconque, à propos d’un prêt garanti, fait sciemment une déclaration fausse ou erronée dans une demande ou un autre document, notamment par omission, ou fournit délibérément un renseignement faux ou trompeur, notamment par omission, commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de mille dollars.
+
+**Prescription**
+
+(2) Les poursuites visant une infraction à la présente loi se prescrivent par six ans à compter de sa perpétration.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-23, art. 18; 2009, ch. 2, art. 366
+
+</details>
+
+## Mesures administratives
+
+### 18.1 Mesures administratives
+
+(1) Si une personne, à propos d’un prêt garanti, fait sciemment une déclaration fausse ou erronée dans une demande ou un autre document, notamment par omission, ou fournit sciemment un renseignement faux ou trompeur, notamment par omission, le ministre peut :
+
+- a) [Abrogé, 2022, ch. 19, art. 153]
+
+- b) lui refuser, pour la période réglementaire, le report de paiement du principal ou des intérêts prévu à l’article 5, ou y mettre fin;
+
+- c) lui refuser, pour la période réglementaire, les paiements d’intérêts prévus au paragraphe 5.1(2), ou y mettre fin;
+
+- d) lui refuser, pour la période réglementaire, le remboursement du prêt garanti en fonction du revenu visé à l’alinéa 17q), ou y mettre fin;
+
+- e) lui refuser le remboursement visé à l’alinéa 17q.1);
+
+- f) exiger qu’elle rembourse sans délai la partie impayée des prêts garantis qu’elle a reçus en raison de cette déclaration ou de ce renseignement.
+
+**Prêts garantis impayés**
+
+(2) Le ministre peut également prendre les mesures énoncées aux alinéas (1)b) à f) si une personne, à propos d’un prêt garanti impayé à la date d’entrée en vigueur du présent article, a fait sciemment, avant cette date, une déclaration fausse ou erronée dans une demande ou un autre document, notamment par omission, ou a fourni sciemment un renseignement faux ou trompeur, notamment par omission.
+
+**Avis**
+
+(3) Il ne peut toutefois prendre une de ces mesures que s’il a donné à la personne visée un avis de soixante jours de son intention.
+
+**Observations**
+
+(4) La personne visée peut présenter au ministre des observations à l’égard de la mesure.
+
+**Modification ou annulation de la mesure**
+
+(5) Le ministre peut modifier la mesure ou l’annuler si des faits nouveaux lui sont présentés ou si, à son avis, la mesure a été prise avant que soit connu un fait essentiel ou a été prise sur le fondement d’une erreur relative à un tel fait.
+
+**Prescription**
+
+(6) Le ministre ne peut prendre aucune mesure plus de cinq ans après la date à laquelle il a pris connaissance de la déclaration fausse ou erronée ou du renseignement faux ou trompeur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 2, art. 366
+- 2022, ch. 19, art. 153
+
+</details>
+
+## Dispositions générales
+
+### 19 Droit de recouvrement par les prêteurs
+
+Les prêteurs peuvent recouvrer un prêt garanti consenti à un emprunteur mineur ainsi que les intérêts afférents à ce prêt, sauf ceux qui sont visés à l’article 6, comme si celui-ci avait été majeur au moment de l’octroi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 15
+
+</details>
+
+### 19.01 Renonciation
+
+À la demande d’un étudiant admissible ou d’un emprunteur, le ministre peut, pour éviter qu’un préjudice injustifié ne soit causé à celui-ci, l’exempter de l’obligation :
+
+- a) de respecter les délais prévus par règlement en ce qui a trait à la remise de sa confirmation d’inscription ou de son certificat d’admissibilité;
+
+- b) de respecter les modalités — de forme et autres — prévues par règlement, ou déterminées par lui, selon lesquelles les renseignements à son égard doivent être fournis.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2008, ch. 28, art. 114
+
+</details>
+
+### 19.02 Refus d’aide financière en raison d’une erreur
+
+S’il est convaincu qu’en raison d’une erreur commise dans le cadre de l’application de la présente loi ou des règlements une personne s’est vu refuser l’aide financière à laquelle elle aurait eu droit, le ministre peut prendre des mesures correctives pour la placer dans la situation où elle se retrouverait sous l’autorité de la présente loi s’il n’y avait pas eu erreur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2008, ch. 28, art. 114
+
+</details>
+
+### 19.1 Prescription
+
+(1) Sous réserve des autres dispositions du présent article et de l’article 19.2, toute poursuite visant le recouvrement d’une créance relative à un prêt garanti se prescrit par six ans à compter de la date à laquelle la créance devient exigible.
+
+**Compensation et déduction**
+
+(2) Le recouvrement, par voie de compensation ou de déduction, du montant d’une créance exigible relative à un prêt garanti peut être effectué en tout temps sur toute somme à payer par Sa Majesté du chef du Canada à l’emprunteur ou à sa succession.
+
+**Reconnaissance de responsabilité**
+
+(3) Si, conformément au paragraphe (4), il est reconnu que l’emprunteur est responsable d’une créance exigible relative à un prêt garanti, la période courue avant cette reconnaissance ne compte pas dans le calcul du délai de prescription.
+
+**Types de reconnaissance de responsabilité**
+
+(4) Constituent une reconnaissance de responsabilité :
+
+- a) la promesse écrite de payer la créance exigible, signée par l’emprunteur, son mandataire ou autre représentant;
+
+- b) la reconnaissance écrite de l’exigibilité de la créance, signée par l’emprunteur, son mandataire ou autre représentant, que celle-ci contienne ou non une promesse implicite de payer ou une déclaration de refus de paiement;
+
+- c) le paiement, même partiel, de la créance exigible par l’emprunteur, son mandataire ou autre représentant;
+
+- d) la reconnaissance par l’emprunteur, son mandataire, son représentant, le syndic ou l’administrateur de l’exigibilité de la créance, dans le cadre de mesures prises conformément à la *Loi sur la faillite et l’insolvabilité* ou dans le cadre de toute autre loi relative au paiement de dettes.
+
+**Reconnaissance de responsabilité après l’expiration du délai de prescription**
+
+(5) Si, après l’expiration du délai de prescription, il est reconnu, conformément au paragraphe (4), qu’un emprunteur est responsable d’une créance exigible relative à un prêt garanti, des poursuites en recouvrement visant cette créance peuvent être intentées, sous réserve des paragraphes (3) et (6), dans les six ans suivant la date de la reconnaissance de responsabilité.
+
+**Suspension du délai de prescription**
+
+(6) La prescription ne court pas pendant la période au cours de laquelle il est interdit d’intenter ou de continuer contre un emprunteur des poursuites en recouvrement d’une créance exigible relative à un prêt garanti.
+
+**Mise en œuvre de décisions judiciaires**
+
+(7) Le présent article ne s’applique pas à des poursuites relatives à l’exécution, la mise en œuvre ou le renouvellement d’une décision judiciaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 15, art. 13
+
+</details>
+
+### 19.2 Application
+
+(1) Le présent article s’applique à l’égard de poursuites en recouvrement d’une créance relative à un prêt garanti qui est exigible avant l’entrée en vigueur du présent article.
+
+**Prescription**
+
+(2) Sous réserve des dispositions du présent article, toute poursuite visant le recouvrement d’une créance exigible relative à un prêt garanti se prescrit par six ans à compter de la date à laquelle le délai de prescription applicable antérieurement à l’entrée en vigueur du présent article a commencé à courir.
+
+**Reconnaissance de responsabilité antérieure**
+
+(3) Pour l’application du paragraphe (2), le délai de prescription commence à courir à partir de la date de la dernière reconnaissance de responsabilité qui a été exprimée avant l’entrée en vigueur du présent article si, selon le droit en vigueur à ce moment, le temps couru avant une telle reconnaissance de responsabilité n’entrait pas dans le calcul de ce délai.
+
+**Compensation et déduction**
+
+(4) Le recouvrement, par voie de compensation ou de déduction, du montant d’une créance exigible relative à un prêt garanti peut être effectué en tout temps sur toute somme à payer par Sa Majesté du chef du Canada à l’emprunteur ou à sa succession.
+
+**Reconnaissance de responsabilité**
+
+(5) Si, à l’entrée en vigueur du présent article ou par la suite, il est reconnu conformément au paragraphe (6) que l’emprunteur est responsable d’une créance exigible relative à un prêt garanti, la période courue avant cette reconnaissance ne compte pas dans le calcul du délai de prescription.
+
+**Types de reconnaissance de responsabilité**
+
+(6) Constituent une reconnaissance de responsabilité pour l’application des paragraphes (5) et (7) :
+
+- a) la promesse écrite de payer la créance exigible, signée par l’emprunteur, son mandataire ou autre représentant;
+
+- b) la reconnaissance écrite de l’exigibilité de la créance, signée par l’emprunteur, son mandataire ou autre représentant, que celle-ci contienne ou non une promesse implicite de payer ou une déclaration de refus de paiement;
+
+- c) le paiement, même partiel, de la créance exigible par l’emprunteur, son mandataire ou autre représentant;
+
+- d) la reconnaissance par l’emprunteur, son mandataire, son représentant, le syndic ou l’administrateur de l’exigibilité de la créance, dans le cadre de mesures prises conformément à la *Loi sur la faillite et l’insolvabilité* ou dans le cadre de toute autre loi relative au paiement de dettes.
+
+**Reconnaissance de responsabilité après l’expiration du délai de prescription**
+
+(7) Si, à l’entrée en vigueur du présent article ou par la suite, il est reconnu, conformément au paragraphe (6), après l’expiration du délai de prescription visé au paragraphe (2) ou après l’expiration du délai de prescription applicable antérieurement à l’entrée en vigueur du présent article, qu’un emprunteur est responsable d’une créance exigible relative à un prêt garanti, des poursuites en recouvrement visant cette créance peuvent être intentées, sous réserve des paragraphes (5) et (8), dans les six ans suivant la date de la reconnaissance de responsabilité.
+
+**Suspension du délai de prescription**
+
+(8) La prescription ne court pas pendant la période qui commence à l’entrée en vigueur du présent article et au cours de laquelle il est interdit d’intenter ou de continuer contre un emprunteur des poursuites en recouvrement d’une créance exigible relative à un prêt garanti.
+
+**Prescription**
+
+(9) Sous réserve du paragraphe (7), si, au moment de l’entrée en vigueur du présent article, le délai de prescription d’une créance exigible relative à un prêt garanti est expiré, aucune poursuite visant le recouvrement de cette créance ne peut être intentée.
+
+**Mise en œuvre de décisions judiciaires**
+
+(10) Le présent article ne s’applique pas à des poursuites relatives à l’exécution, la mise en œuvre ou le renouvellement d’une décision judiciaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 15, art. 13
+
+</details>
+
+### 19.3 Fourniture de renseignements ou production de documents
+
+(1) Le ministre peut, dans le but de vérifier le respect de la présente loi ou d’en prévenir le non-respect, exiger de toute personne ayant reçu un prêt garanti, par avis signifié à personne ou transmis par un service de messagerie qui fournit une preuve de livraison, qu’elle lui fournisse, dans le délai et de la manière que précise l’avis, des renseignements ou des documents dont elle dispose ou auxquels elle peut normalement avoir accès.
+
+**Copies**
+
+(2) Il peut faire ou faire faire une ou plusieurs copies certifiées des documents fournis, lesquelles font foi de la nature et du contenu des documents originaux et ont la même force probante qu’auraient ceux-ci si leur authenticité était prouvée de la façon usuelle.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 2, art. 367
+
+</details>
+
+### 20 Pouvoir de conclure des arrangements
+
+Le ministre peut :
+
+- a) conclure avec des ministères ou organismes fédéraux, ou d’autres organismes des secteurs public ou privé, des arrangements destinés à faciliter l’application de la présente loi;
+
+- b) avec l’approbation du gouverneur en conseil, conclure des arrangements avec tout gouvernement provincial pour faciliter la mise en oeuvre ou l’observation de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 16
+
+</details>
+
+### 21 Paiements sur le Trésor
+
+Les paiements qui incombent au ministre aux termes de la présente loi peuvent être faits sur le Trésor.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 17
+
+</details>
+
+### 22 Rapport au Parlement
+
+Le ministre établit chaque année un rapport sur l’application de la présente loi au cours de l’année de prêt qui s’est terminée l’année précédente. Il le fait déposer devant le Parlement dans les quinze premiers jours de séance de l’une ou l’autre chambre suivant son achèvement.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. S-17, art. 18; 1980-81-82-83, ch. 49, art. 10
+
+</details>
+
+## Dispositions transitoires
+
+### 22.1 Exemption du paiement de l’intérêt : prêt consenti le 1^er^ août 1993 ou après
+
+(1) Si l’emprunteur a cessé d’être étudiant à temps plein dans les six mois précédant la date d’entrée en vigueur de l’article 323 de la *Loi n^o^ 1 d’exécution du budget de 2019*, le prêt garanti visé au paragraphe 4(2), dans sa version au 1^er^ novembre 2019, ne porte pas intérêt pour lui durant la période commençant à cette date et se terminant le dernier jour du sixième mois suivant celui où il a cessé d’être étudiant à temps plein.
+
+**Exemption du paiement de l’intérêt : prêt consolidé après le 1^er^ août 1993**
+
+(2) Si l’emprunteur visé au paragraphe 4(4), dans sa version au 1^er^ novembre 2019, a cessé d’être étudiant à temps plein dans les six mois précédant la date d’entrée en vigueur de l’article 323 de la *Loi n^o^ 1 d’exécution du budget de 2019*, le prêt garanti visé à ce paragraphe ne porte pas intérêt pour lui durant la période commençant à cette date et se terminant le dernier jour du sixième mois suivant celui où il a cessé d’être étudiant à temps plein.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, ch. 29, art. 324
+- 2022, ch. 19, art. 154
+
+</details>
+
+## Abrogation
+
+### 23 Abrogation
+
+La présente loi est abrogée à la date fixée par décret du gouverneur en conseil.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, ch. 28, art. 27
+
+</details>
+
+
+## DISPOSITIONS CONNEXES
+
+### — 1993, ch. 12, art. 16
+
+### 16 Effet rétroactif des règlements
+
+Afin de permettre la mise en oeuvre des modifications à la *Loi fédérale sur les prêts aux étudiants* édictées par la présente loi, un règlement pris en vertu de cette loi, dans sa version modifiée, est rétroactif, s’il comporte une disposition en ce sens, et est réputé être entré en vigueur à une date antérieure à sa prise, cette dernière date ne pouvant toutefois être elle-même antérieure à la date de la sanction royale de la présente loi.

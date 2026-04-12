@@ -1,0 +1,1870 @@
+---
+title: "Loi sur les Cours fédérales"
+long_title: "Loi concernant la Cour d’appel fédérale et la Cour fédérale"
+chapter: "F-7"
+language: "en"
+type: "act"
+---
+
+# Loi sur les Cours fédérales
+
+> Loi concernant la Cour d’appel fédérale et la Cour fédérale
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur les Cours fédérales*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 1; 2002, ch. 8, art. 14
+
+</details>
+
+## Définitions
+
+### 2 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente loi.
+
+**action pour collision** S’entend notamment d’une action pour dommages causés par un ou plusieurs navires à un ou plusieurs autres navires ou à des biens ou personnes à bord d’un ou plusieurs autres navires par suite de l’exécution ou de l’inexécution d’une manoeuvre, ou par suite de l’inobservation du droit, même s’il n’y a pas eu effectivement collision. (**action for collision**)
+
+**biens** Biens de toute nature, meubles ou immeubles, corporels ou incorporels, notamment les droits et les parts ou actions. (**property**)
+
+**Cour**[Abrogée, 2002, ch. 8, art. 15]
+
+**Cour d’appel** ou **Cour d’appel fédérale**[Abrogée, 2002, ch. 8, art. 15]
+
+**Couronne** Sa Majesté du chef du Canada. (**Crown**)
+
+**Cour suprême**[Abrogée, 1990, ch. 8, art. 1]
+
+**droit canadien** S’entend au sens de l’expression « lois du Canada » à l’article 101 de la *Loi constitutionnelle de 1867*. (**laws of Canada**)
+
+**droit maritime canadien** Droit — compte tenu des modifications y apportées par la présente loi ou par toute autre loi fédérale — dont l’application relevait de la Cour de l’Échiquier du Canada, en sa qualité de juridiction de l’Amirauté, aux termes de la *Loi sur l’Amirauté*, chapitre A-1 des Statuts revisés du Canada de 1970, ou de toute autre loi, ou qui en aurait relevé si ce tribunal avait eu, en cette qualité, compétence illimitée en matière maritime et d’amirauté. (**Canadian maritime law**)
+
+**greffe** Greffe établi, pour l’application de la présente loi, par l’administrateur en chef du Service administratif des tribunaux judiciaires aux termes de la *Loi sur le Service administratif des tribunaux judiciaires*. (**Registry**)
+
+**juge**[Abrogée, 2002, ch. 8, art. 15]
+
+**juge en chef**[Abrogée, 2002, ch. 8, art. 15]
+
+**juge en chef adjoint**[Abrogée, 2002, ch. 8, art. 15]
+
+**jugement définitif** Jugement ou autre décision qui statue au fond, en tout ou en partie, sur un droit d’une ou plusieurs des parties à une instance. (**final judgment**)
+
+**navire** Bâtiment ou embarcation conçus, utilisés ou utilisables, exclusivement ou non, pour la navigation, indépendamment de leur mode de propulsion ou de l’absence de propulsion. Y sont assimilés les navires en construction à partir du moment où ils peuvent flotter, les navires échoués ou coulés ainsi que les épaves et toute partie d’un navire qui s’est brisé. (**ship**)
+
+**office fédéral** Conseil, bureau, commission ou autre organisme, ou personne ou groupe de personnes, ayant, exerçant ou censé exercer une compétence ou des pouvoirs prévus par une loi fédérale ou par une ordonnance prise en vertu d’une prérogative royale, à l’exclusion de la Cour canadienne de l’impôt et ses juges et juges adjoints, d’un organisme constitué sous le régime d’une loi provinciale ou d’une personne ou d’un groupe de personnes nommées aux termes d’une loi provinciale ou de l’article 96 de la *Loi constitutionnelle de 1867*. (**federal board, commission or other tribunal**)
+
+**pratique et procédure** Pratique et procédure, y compris en matière de preuve. (**practice and procedure**)
+
+**règles** Dispositions de droit, règles et ordonnances établies en vertu de l’article 46. (**Rules**)
+
+**réparation** Toute forme de réparation en justice, notamment par voie de dommages-intérêts, de compensation pécuniaire, d’injonction, de déclaration, de restitution de droit incorporel, de bien meuble ou immeuble. (**relief**)
+
+**Section de première instance**[Abrogée, 2002, ch. 8, art. 15]
+
+**Sénat et Chambre des communes**
+
+(2) Il est entendu que sont également exclus de la définition de **office fédéral** le Sénat, la Chambre des communes, tout comité de l’une ou l’autre chambre, tout sénateur ou député, le conseiller sénatorial en éthique, le commissaire aux conflits d’intérêts et à l’éthique à l’égard de l’exercice de sa compétence et de ses attributions visées aux articles 41.1 à 41.5 et 86 de la *Loi sur le Parlement du Canada*, le Service de protection parlementaire et le directeur parlementaire du budget.
+
+**Présomption**
+
+(3) Malgré le paragraphe (2), le directeur parlementaire du budget est réputé avoir le statut d’office fédéral pour l’application du paragraphe 18.3(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 2; 1990, ch. 8, art. 1; 2001, ch. 6, art. 115; 2002, ch. 8, art. 15; 2004, ch. 7, art. 7 et 38; 2006, ch. 9, art. 5 et 38; 2015, ch. 36, art. 124; 2017, ch. 20, art. 159
+- 2022, ch. 10, art. 364
+- 2022, ch. 10, art. 371
+
+</details>
+
+## Les cours
+
+### 3 Maintien : section d’appel
+
+La Section d’appel, aussi appelée la Cour d’appel ou la Cour d’appel fédérale, est maintenue et dénommée « Cour d’appel fédérale » en français et « Federal Court of Appeal » en anglais. Elle est maintenue à titre de tribunal additionnel de droit, d’equity et d’amirauté du Canada, propre à améliorer l’application du droit canadien, et continue d’être une cour supérieure d’archives ayant compétence en matière civile et pénale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 3; 1993, ch. 34, art. 68(F); 2002, ch. 8, art. 16
+
+</details>
+
+### 4 Maintien : Section de première instance
+
+La section de la Cour fédérale du Canada, appelée la Section de première instance de la Cour fédérale, est maintenue et dénommée « Cour fédérale » en français et « Federal Court » en anglais. Elle est maintenue à titre de tribunal additionnel de droit, d’equity et d’amirauté du Canada, propre à améliorer l’application du droit canadien, et continue d’être une cour supérieure d’archives ayant compétence en matière civile et pénale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 4; 2002, ch. 8, art. 16
+
+</details>
+
+## Les juges
+
+### 5 Composition de la Cour d’appel fédérale
+
+(1) La Cour d’appel fédérale se compose du juge en chef, appelé juge en chef de la Cour d’appel fédérale, qui en est le président, et de quatorze autres juges.
+
+**Juges surnuméraires**
+
+(2) La charge de juge de la Cour d’appel fédérale comporte un poste de juge surnuméraire, qui peut être occupé, conformément à la *Loi sur les juges*, par un juge de ce tribunal.
+
+**Postes supplémentaires**
+
+(3) La charge de juge en chef de la Cour d’appel fédérale comporte également un poste de simple juge que son titulaire peut décider, conformément à la *Loi sur les juges*, d’occuper.
+
+**Juges d’office**
+
+(4) Les juges de la Cour fédérale sont d’office juges de la Cour d’appel fédérale et ont la même compétence et les mêmes pouvoirs que les juges de la Cour d’appel fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 5; L.R. (1985), ch. 41 (1^er^ suppl.), art. 11; 1992, ch. 49, art. 127; 1996, ch. 22, art. 1; 2001, ch. 41, art. 95 et 144; 2002, ch. 8, art. 16
+- 2021, ch. 23, art. 254
+- 2022, ch. 10, art. 365
+
+</details>
+
+### 5.1 Composition de la Cour fédérale
+
+(1) La Cour fédérale se compose du juge en chef, appelé juge en chef de la Cour fédérale, qui en est le président, du juge en chef adjoint, appelé juge en chef adjoint de la Cour fédérale et de trente-neuf autres juges.
+
+**Juges surnuméraires**
+
+(2) La charge de juge de la Cour fédérale comporte un poste de juge surnuméraire, qui peut être occupé, conformément à la *Loi sur les juges*, par un juge de ce tribunal.
+
+**Postes supplémentaires**
+
+(3) La charge de juge en chef ou de juge en chef adjoint de la Cour fédérale comporte également un poste de simple juge que son titulaire peut décider, conformément à la *Loi sur les juges*, d’occuper.
+
+**Juges d’office**
+
+(4) Les juges de la Cour d’appel fédérale sont d’office juges de la Cour fédérale et ont la même compétence et les mêmes pouvoirs que les juges de la Cour fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2001, ch. 41, art. 144; 2002, ch. 8, art. 16; 2010, ch. 8, art. 41; 2018, ch. 12, art. 304
+- 2019, ch. 29, art. 311
+
+</details>
+
+### 5.2 Nomination des juges
+
+La nomination des juges de la Cour d’appel fédérale et de la Cour fédérale se fait par lettres patentes du gouverneur en conseil revêtues du grand sceau.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2002, ch. 8, art. 16
+
+</details>
+
+### 5.3 Conditions de nomination
+
+Les juges de la Cour d’appel fédérale et de la Cour fédérale sont choisis parmi :
+
+- a) les juges, actuels ou anciens, d’une cour supérieure, de comté ou de district;
+
+- b) les avocats inscrits pendant ou depuis au moins dix ans au barreau d’une province;
+
+- c) les personnes ayant été membres du barreau d’une province et ayant exercé à temps plein des fonctions de nature judiciaire à l’égard d’un poste occupé en vertu d’une loi fédérale ou provinciale après avoir été inscrites au barreau, et ce pour une durée totale d’au moins dix ans.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2002, ch. 8, art. 16
+
+</details>
+
+### 5.4 Représentation du Québec
+
+Au moins cinq juges de la Cour d’appel fédérale et dix juges de la Cour fédérale doivent avoir été juges de la Cour d’appel ou de la Cour supérieure du Québec ou membres du barreau de cette province.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2002, ch. 8, art. 16; 2006, ch. 11, art. 20
+
+</details>
+
+### 6 Rang et préséance des juges
+
+(1) Le rang et la préséance des juges sont déterminés selon l’ordre suivant :
+
+- a) le juge en chef de la Cour d’appel fédérale;
+
+- b) le juge en chef de la Cour fédérale;
+
+- b.1) le juge en chef adjoint de la Cour fédérale;
+
+- c) les autres juges de la Cour d’appel fédérale, d’après la date de leur nomination à celle-ci ou à la Cour fédérale du Canada;
+
+- d) les autres juges de la Cour fédérale, d’après la date de leur nomination à celle-ci ou à la Cour fédérale du Canada.
+
+**Absence ou empêchement du juge en chef de la Cour d’appel fédérale**
+
+(2) En cas d’absence du Canada ou d’empêchement du juge en chef de la Cour d’appel fédérale ou de vacance de son poste, l’intérim est assuré par :
+
+- a) le juge de la Cour d’appel fédérale désigné à cette fin par le juge en chef;
+
+- b) faute de désignation ou si le juge désigné est absent du Canada ou n’est pas en mesure d’exercer ces fonctions ou n’y consent pas, et à la condition qu’il n’ait pas choisi de devenir juge surnuméraire en vertu de l’article 28 de la *Loi sur les juges*, le juge le plus ancien de cette cour qui, d’une part, se trouve au Canada et, d’autre part, est en mesure d’exercer ces fonctions et y consent.
+
+**Absence ou empêchement du juge en chef de la Cour fédérale**
+
+(2.1) En cas d’absence du Canada ou d’empêchement du juge en chef de la Cour fédérale ou de vacance de son poste, l’intérim est assuré, selon le cas :
+
+- a) par le juge en chef adjoint de la Cour fédérale;
+
+- b) en cas d’absence du Canada ou d’empêchement du juge en chef adjoint ou de vacance de son poste, par le juge de cette cour désigné à cette fin par le juge en chef;
+
+- c) faute de désignation ou si le juge désigné est absent du Canada ou n’est pas en mesure d’exercer ces fonctions ou n’y consent pas, et à la condition qu’il n’ait pas choisi de devenir juge surnuméraire en vertu de l’article 28 de la *Loi sur les juges*, par le juge le plus ancien de cette cour qui, d’une part, se trouve au Canada et, d’autre part, est en mesure d’exercer ces fonctions et y consent.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 6; 2002, ch. 8, art. 16; 2006, ch. 11, art. 21; 2018, ch. 12, art. 305
+
+</details>
+
+### 7 Lieu de résidence des juges
+
+(1) Les juges de la Cour d’appel fédérale et de la Cour fédérale doivent résider dans la région de la capitale nationale définie à l’annexe de la *Loi sur la capitale nationale* ou dans une zone périphérique de quarante kilomètres.
+
+**Liste de roulement des juges**
+
+(2) Malgré le paragraphe (1), les règles peuvent prévoir l’établissement d’une liste de roulement des juges visant à assurer, dans toute agglomération, la continuité et la disponibilité des services judiciaires en fonction de la charge de travail ou d’autres circonstances.
+
+**Sessions à l’extérieur**
+
+(3) Les règles adoptées aux termes du paragraphe (2) ne peuvent obliger un juge à demeurer plus d’un mois sans interruption dans une agglomération située en dehors de la région de la capitale nationale, sauf en cas de nécessité pour lui permettre de terminer l’audition d’une affaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 7; 2002, ch. 8, art. 17; 2006, ch. 11, art. 22(A)
+
+</details>
+
+### 8 Durée du mandat
+
+(1) Sous réserve du paragraphe (2), les juges de la Cour d’appel fédérale et de la Cour fédérale occupent leur poste à titre inamovible, sous réserve de révocation par le gouverneur général sur adresse du Sénat et de la Chambre des communes.
+
+**Limite d’âge**
+
+(2) La limite d’âge pour l’exercice de la charge de juge de la Cour d’appel fédérale et de la Cour fédérale est de soixante-quinze ans.
+
+**Disposition transitoire**
+
+(3) Les juges en fonctions le 1^er^ mars 1987 peuvent prendre leur retraite à l’âge de soixante-dix ans.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 8; L.R. (1985), ch. 16 (3^e^ suppl.), art. 7; 2002, ch. 8, art. 18
+
+</details>
+
+### 9 Serment professionnel
+
+(1) Préalablement à leur entrée en fonctions, les juges de la Cour d’appel fédérale et de la Cour fédérale jurent d’exercer les attributions qui leur sont dévolues, consciencieusement, fidèlement et le mieux possible.
+
+**Prestation de serment — Cour d’appel fédérale**
+
+(2) Le juge en chef de la Cour d’appel fédérale prête serment devant le gouverneur général; lui-même ou, s’il est absent ou empêché, l’un de ses collègues reçoit le serment des autres juges de ce tribunal.
+
+**Prestation de serment — Cour fédérale**
+
+(3) Le juge en chef de la Cour fédérale prête serment devant le gouverneur général; lui-même ou, s’il est absent ou empêché, l’un de ses collègues reçoit le serment des autres juges de ce tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 9; 2002, ch. 8, art. 19
+
+</details>
+
+### 10 Juges suppléants — Cour d’appel fédérale
+
+(1) Sous réserve du paragraphe (3), le gouverneur en conseil peut autoriser le juge en chef de la Cour d’appel fédérale à demander l’affectation à ce tribunal de juges choisis parmi les juges, actuels ou anciens, d’une cour supérieure, de comté ou de district. Les juges ainsi affectés ont qualité de juges suppléants et sont investis des pouvoirs des juges de la Cour d’appel fédérale.
+
+**Juges suppléants — Cour fédérale**
+
+(1.1) Sous réserve du paragraphe (3), le gouverneur en conseil peut autoriser le juge en chef de la Cour fédérale à demander l’affectation à ce tribunal de juges choisis parmi les juges, actuels ou anciens, d’une cour supérieure, de comté ou de district. Les juges ainsi affectés ont qualité de juges suppléants et sont investis des pouvoirs des juges de la Cour fédérale.
+
+**Consentement**
+
+(2) La demande visée aux paragraphes (1) et (1.1) nécessite le consentement du juge en chef du tribunal dont l’intéressé est membre ou du procureur général de sa province.
+
+**Portée de l’autorisation du gouverneur en conseil**
+
+(3) L’autorisation donnée par le gouverneur en conseil en application des paragraphes (1) et (1.1) peut être générale ou particulière et limiter le nombre de juges suppléants.
+
+**Traitement**
+
+(4) Les juges suppléants reçoivent le traitement fixé par la *Loi sur les juges* pour les juges du tribunal auquel ils sont affectés, autres que le juge en chef et le juge en chef adjoint, diminué des sommes auxquelles ils ont par ailleurs droit aux termes de cette loi pendant leur suppléance. Ils ont également droit aux indemnités de déplacement prévues par cette même loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 10; 2002, ch. 8, art. 19; 2018, ch. 12, art. 306
+
+</details>
+
+### 10.1 Rencontre annuelle
+
+Les juges de la Cour d’appel fédérale se réunissent au moins une fois par an à la date fixée par le juge en chef pour examiner la présente loi, les règles de pratique et l’administration de la justice. Les juges de la Cour fédérale font de même sur convocation du juge en chef de ce tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2002, ch. 8, art. 19
+
+</details>
+
+## Avocats et procureurs
+
+### 11 Avocats
+
+(1) Les avocats qui exercent dans une province peuvent agir à titre d’avocats à la Cour d’appel fédérale ou à la Cour fédérale.
+
+**Procureurs**
+
+(2) Les procureurs auprès d’une cour supérieure provinciale peuvent agir à ce titre à la Cour d’appel fédérale ou à la Cour fédérale.
+
+**Qualité de fonctionnaire judiciaire**
+
+(3) Quiconque peut exercer à titre d’avocat ou de procureur à la Cour d’appel fédérale ou à la Cour fédérale, selon le cas, en est fonctionnaire judiciaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 11; 2002, ch. 8, art. 19
+
+</details>
+
+## Juges adjoints
+
+### 12 Juges adjoints
+
+(1) Le gouverneur en conseil peut nommer juges adjoints de la Cour fédérale tous avocats remplissant, à son avis, les conditions voulues pour l’exécution des travaux de celle-ci qui, aux termes des règles, incombent à cette catégorie de personnel.
+
+**Nombre de juges adjoints**
+
+(2) Le gouverneur en conseil peut, par règlement, fixer le nombre de juges adjoints qui peuvent être nommés en vertu du paragraphe (1).
+
+**Juges adjoints surnuméraires**
+
+(2.1) La charge de juge adjoint de la Cour fédérale comporte également un poste de juge adjoint surnuméraire, qui peut être occupé, conformément à la *Loi sur les juges*, par un juge adjoint de ce tribunal.
+
+**Pouvoirs et fonctions**
+
+(3) Les pouvoirs et fonctions des juges adjoints sont fixés par les règles.
+
+**Traitement, indemnités et pensions**
+
+(4) Les juges adjoints reçoivent les traitements, indemnités et pensions prévus par la *Loi sur les juges*.
+
+**Charge de travail — juges adjoints surnuméraires**
+
+(5) Le gouverneur en conseil peut, par règlement, fixer la proportion — exprimée en pourcentage — de la charge de travail des juges adjoints surnuméraires par rapport à celle des juges adjoints.
+
+**Immunité**
+
+(6) Les juges adjoints bénéficient de la même immunité de poursuite que les juges de la Cour fédérale.
+
+**Mandat**
+
+(7) Les juges adjoints sont nommés à titre inamovible, sous réserve de révocation motivée de la part du gouverneur en conseil.
+
+**Limite d’âge**
+
+(8) La limite d’âge pour l’exercice de la charge de juge adjoint est de soixante-quinze ans, quelle que soit la date de nomination du titulaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 12; 2002, ch. 8, art. 20; 2003, ch. 22, art. 225(A) et 263; 2006, ch. 11, art. 23; 2014, ch. 39, art. 328
+- 2022, ch. 10, art. 366
+- 2022, ch. 10, art. 371
+
+</details>
+
+## Shérifs et prévôts
+
+### 13 Shérif
+
+(1) Le gouverneur en conseil peut nommer un shérif de la Cour d’appel fédérale et de la Cour fédérale pour un secteur géographique donné.
+
+**Shérifs de droit**
+
+(2) À défaut de nomination d’un shérif sous le régime du paragraphe (1) pour un secteur géographique donné, les titulaires, nommés sous le régime de lois provinciales, des charges de shérif et shérifs adjoints pour le comté ou tout ou partie d’une autre circonscription judiciaire de ce même secteur sont de droit respectivement shérif et shérifs adjoints de la Cour d’appel fédérale ou de la Cour fédérale, selon le cas.
+
+**Shérif adjoint**
+
+(3) Les règles peuvent prévoir la nomination de shérifs adjoints.
+
+**Prévôt**
+
+(4) Tout shérif ou shérif adjoint de la Cour d’appel fédérale ou de la Cour fédérale en est de droit respectivement prévôt ou prévôt adjoint.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 13; 2002, ch. 8, art. 21
+
+</details>
+
+## Administrateurs judiciaires
+
+### 14 Administrateurs judiciaires
+
+(1) Les juges en chef de la Cour d’appel fédérale et de la Cour fédérale peuvent nommer, pour leur tribunal respectif, un employé du Service administratif des tribunaux judiciaires à titre d’administrateur judiciaire.
+
+**Fonctions — Cour d’appel fédérale**
+
+(2) L’administrateur judiciaire de la Cour d’appel fédérale exerce les fonctions non judiciaires que lui délègue le juge en chef de ce tribunal, et ce conformément aux instructions données par celui-ci, notamment :
+
+- a) rendre une ordonnance fixant les date, heure et lieu de l’instruction ou de l’audience, ou ajournant l’une ou l’autre;
+
+- b) prendre les dispositions nécessaires pour la répartition du travail judiciaire du tribunal;
+
+- c) prendre les dispositions nécessaires pour que soient établies, selon les besoins, des formations de juges de ce tribunal.
+
+**Fonctions — Cour fédérale**
+
+(3) L’administrateur judiciaire de la Cour fédérale exerce les fonctions non judiciaires que lui délègue le juge en chef de ce tribunal, et ce conformément aux instructions données par celui-ci, notamment :
+
+- a) rendre une ordonnance fixant les date, heure et lieu de l’instruction ou de l’audience, ou ajournant l’une ou l’autre;
+
+- b) prendre les dispositions nécessaires pour la répartition du travail judiciaire du tribunal.
+
+**Nomination révocable**
+
+(4) La nomination faite en vertu du paragraphe (1) est révocable à tout moment; elle est automatiquement révoquée lorsque celui qui l’a faite cesse d’occuper la fonction de juge en chef.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 14; 2002, ch. 8, art. 22
+
+</details>
+
+## Organisation des travaux
+
+### 15 Séances de la Cour fédérale
+
+(1) Sous réserve des règles, tout juge de la Cour fédérale peut exercer ses fonctions en tout temps et partout au Canada pour les travaux de ce tribunal; il constitue alors la Cour fédérale.
+
+**Dispositions du ressort du juge en chef de la Cour fédérale**
+
+(2) Sous réserve des règles, les dispositions à prendre pour les audiences ou, à quelque autre titre, les travaux de la Cour fédérale, de même que pour l’affectation des juges en conséquence, sont du ressort du juge en chef de celle-ci.
+
+**Lieu des audiences**
+
+(3) Sur l’ordre de la Cour fédérale, l’instruction de toute affaire devant elle peut se dérouler en plus d’un lieu.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 15; 2002, ch. 8, art. 23
+
+</details>
+
+### 16 Séances de la Cour d’appel fédérale
+
+(1) Sauf disposition contraire de la présente loi ou de toute autre loi fédérale, les appels et demandes d’autorisation d’appel à la Cour d’appel fédérale ainsi que les demandes de contrôle judiciaire ou renvois faits à celle-ci sont entendus par au moins trois juges de cette cour, siégeant ensemble en nombre impair; les autres travaux de la Cour d’appel fédérale sont assignés à un ou plusieurs juges par le juge en chef de celle-ci.
+
+**Dispositions du ressort du juge en chef de la Cour d’appel fédérale**
+
+(2) Le juge en chef de la Cour d’appel fédérale répartit en tant que de besoin les appels et autres affaires entre les juges.
+
+**Lieu des séances**
+
+(3) Dans la mesure du possible, le juge en chef fixe le lieu des séances de la Cour d’appel fédérale à la convenance des parties.
+
+**Inhabilité à siéger en appel**
+
+(4) Un juge ne peut entendre en appel une affaire qu’il a déjà jugée.
+
+**Présidence**
+
+(5) Les séances de la Cour d’appel fédérale sont présidées par le juge en chef de celle-ci ou, en son absence, par celui de ses juges présents qui est le plus ancien en poste.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 16; 1990, ch. 8, art. 2; 2002, ch. 8, art. 23
+
+</details>
+
+## Compétence de la Cour fédérale
+
+### 17 Réparation contre la Couronne
+
+(1) Sauf disposition contraire de la présente loi ou de toute autre loi fédérale, la Cour fédérale a compétence concurrente, en première instance, dans les cas de demande de réparation contre la Couronne.
+
+**Motifs**
+
+(2) Elle a notamment compétence concurrente en première instance, sauf disposition contraire, dans les cas de demande motivés par :
+
+- a) la possession par la Couronne de terres, biens ou sommes d’argent appartenant à autrui;
+
+- b) un contrat conclu par ou pour la Couronne;
+
+- c) un trouble de jouissance dont la Couronne se rend coupable;
+
+- d) une demande en dommages-intérêts formée au titre de la *Loi sur la responsabilité civile de l’État et le contentieux administratif*.
+
+**Conventions écrites attributives de compétence**
+
+(3) Elle a compétence exclusive, en première instance, pour les questions suivantes :
+
+- a) le paiement d’une somme dont le montant est à déterminer, aux termes d’une convention écrite à laquelle la Couronne est partie, par la Cour fédérale — ou l’ancienne Cour de l’Échiquier du Canada — ou par la Section de première instance de la Cour fédérale;
+
+- b) toute question de droit, de fait ou mixte à trancher, aux termes d’une convention écrite à laquelle la Couronne est partie, par la Cour fédérale — ou l’ancienne Cour de l’Échiquier du Canada — ou par la Section de première instance de la Cour fédérale.
+
+**Demandes contradictoires contre la Couronne**
+
+(4) Elle a compétence concurrente, en première instance, dans les procédures visant à régler les différends mettant en cause la Couronne à propos d’une obligation réelle ou éventuelle pouvant faire l’objet de demandes contradictoires.
+
+**Actions en réparation**
+
+(5) Elle a compétence concurrente, en première instance, dans les actions en réparation intentées :
+
+- a) au civil par la Couronne ou le procureur général du Canada;
+
+- b) contre un fonctionnaire, préposé ou mandataire de la Couronne pour des faits — actes ou omissions — survenus dans le cadre de ses fonctions.
+
+**Incompétence de la Cour fédérale**
+
+(6) Elle n’a pas compétence dans les cas où une loi fédérale donne compétence à un tribunal constitué ou maintenu sous le régime d’une loi provinciale sans prévoir expressément la compétence de la Cour fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 17; 1990, ch. 8, art. 3; 2002, ch. 8, art. 25
+
+</details>
+
+### 18 Recours extraordinaires : offices fédéraux
+
+(1) Sous réserve de l’article 28, la Cour fédérale a compétence exclusive, en première instance, pour :
+
+- a) décerner une injonction, un bref de certiorari, de mandamus, de prohibition ou de quo warranto, ou pour rendre un jugement déclaratoire contre tout office fédéral;
+
+- b) connaître de toute demande de réparation de la nature visée par l’alinéa a), et notamment de toute procédure engagée contre le procureur général du Canada afin d’obtenir réparation de la part d’un office fédéral.
+
+**Recours extraordinaires : Forces canadiennes**
+
+(2) Elle a compétence exclusive, en première instance, dans le cas des demandes suivantes visant un membre des Forces canadiennes en poste à l’étranger : bref d’habeas corpus ad subjiciendum, de certiorari, de prohibition ou de mandamus.
+
+**Exercice des recours**
+
+(3) Les recours prévus aux paragraphes (1) ou (2) sont exercés par présentation d’une demande de contrôle judiciaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 18; 1990, ch. 8, art. 4; 2002, ch. 8, art. 26
+
+</details>
+
+### 18.1 Demande de contrôle judiciaire
+
+(1) Une demande de contrôle judiciaire peut être présentée par le procureur général du Canada ou par quiconque est directement touché par l’objet de la demande.
+
+**Délai de présentation**
+
+(2) Les demandes de contrôle judiciaire sont à présenter dans les trente jours qui suivent la première communication, par l’office fédéral, de sa décision ou de son ordonnance au bureau du sous-procureur général du Canada ou à la partie concernée, ou dans le délai supplémentaire qu’un juge de la Cour fédérale peut, avant ou après l’expiration de ces trente jours, fixer ou accorder.
+
+**Pouvoirs de la Cour fédérale**
+
+(3) Sur présentation d’une demande de contrôle judiciaire, la Cour fédérale peut :
+
+- a) ordonner à l’office fédéral en cause d’accomplir tout acte qu’il a illégalement omis ou refusé d’accomplir ou dont il a retardé l’exécution de manière déraisonnable;
+
+- b) déclarer nul ou illégal, ou annuler, ou infirmer et renvoyer pour jugement conformément aux instructions qu’elle estime appropriées, ou prohiber ou encore restreindre toute décision, ordonnance, procédure ou tout autre acte de l’office fédéral.
+
+**Motifs**
+
+(4) Les mesures prévues au paragraphe (3) sont prises si la Cour fédérale est convaincue que l’office fédéral, selon le cas :
+
+- a) a agi sans compétence, outrepassé celle-ci ou refusé de l’exercer;
+
+- b) n’a pas observé un principe de justice naturelle ou d’équité procédurale ou toute autre procédure qu’il était légalement tenu de respecter;
+
+- c) a rendu une décision ou une ordonnance entachée d’une erreur de droit, que celle-ci soit manifeste ou non au vu du dossier;
+
+- d) a rendu une décision ou une ordonnance fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments dont il dispose;
+
+- e) a agi ou omis d’agir en raison d’une fraude ou de faux témoignages;
+
+- f) a agi de toute autre façon contraire à la loi.
+
+**Vice de forme**
+
+(5) La Cour fédérale peut rejeter toute demande de contrôle judiciaire fondée uniquement sur un vice de forme si elle estime qu’en l’occurrence le vice n’entraîne aucun dommage important ni déni de justice et, le cas échéant, valider la décision ou l’ordonnance entachée du vice et donner effet à celle-ci selon les modalités de temps et autres qu’elle estime indiquées.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, ch. 8, art. 5; 2002, ch. 8, art. 27
+
+</details>
+
+### 18.2 Mesures provisoires
+
+La Cour fédérale peut, lorsqu’elle est saisie d’une demande de contrôle judiciaire, prendre les mesures provisoires qu’elle estime indiquées avant de rendre sa décision définitive.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, ch. 8, art. 5; 2002, ch. 8, art. 28
+
+</details>
+
+### 18.3 Renvoi d’un office fédéral
+
+(1) Les offices fédéraux peuvent, à tout stade de leurs procédures, renvoyer devant la Cour fédérale pour audition et jugement toute question de droit, de compétence ou de pratique et procédure.
+
+**Renvoi du procureur général**
+
+(2) Le procureur général du Canada peut, à tout stade des procédures d’un office fédéral, sauf s’il s’agit d’une **cour martiale** ou d’un **officier** tenant une **audience sommaire** au sens du paragraphe 2(1) de la *Loi sur la défense nationale*, renvoyer devant la Cour fédérale pour audition et jugement toute question portant sur la validité, l’applicabilité ou l’effet, sur le plan constitutionnel, d’une loi fédérale ou de ses textes d’application.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, ch. 8, art. 5; 2002, ch. 8, art. 28
+- 2019, ch. 15, art. 55
+
+</details>
+
+### 18.4 Procédure sommaire d’audition
+
+(1) Sous réserve du paragraphe (2), la Cour fédérale statue à bref délai et selon une procédure sommaire sur les demandes et les renvois qui lui sont présentés dans le cadre des articles 18.1 à 18.3.
+
+**Exception**
+
+(2) Elle peut, si elle l’estime indiqué, ordonner qu’une demande de contrôle judiciaire soit instruite comme s’il s’agissait d’une action.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, ch. 8, art. 5; 2002, ch. 8, art. 28
+
+</details>
+
+### 18.5 Dérogation aux art. 18 et 18.1
+
+Par dérogation aux articles 18 et 18.1, lorsqu’une loi fédérale prévoit expressément qu’il peut être interjeté appel, devant la Cour fédérale, la Cour d’appel fédérale, la Cour suprême du Canada, la Cour d’appel de la cour martiale, la Cour canadienne de l’impôt, le gouverneur en conseil ou le Conseil du Trésor, d’une décision ou d’une ordonnance d’un office fédéral, rendue à tout stade des procédures, cette décision ou cette ordonnance ne peut, dans la mesure où elle est susceptible d’un tel appel, faire l’objet de contrôle, de restriction, de prohibition, d’évocation, d’annulation ni d’aucune autre intervention, sauf en conformité avec cette loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, ch. 8, art. 5; 2002, ch. 8, art. 28
+
+</details>
+
+### 19 Différends entre gouvernements
+
+Lorsqu’une loi d’une province reconnaît sa compétence en l’espèce, — qu’elle y soit désignée sous le nom de Cour fédérale, Cour fédérale du Canada ou Cour de l’Échiquier du Canada — la Cour fédérale est compétente pour juger les cas de litige entre le Canada et cette province ou entre cette province et une ou plusieurs autres provinces ayant adopté une loi semblable.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 19; 2002, ch. 8, art. 28
+
+</details>
+
+### 20 Propriété industrielle : compétence exclusive
+
+(1) La Cour fédérale a compétence exclusive, en première instance, dans les cas suivants opposant notamment des administrés :
+
+- a) conflit des demandes de brevet d’invention ou de certificat de protection supplémentaire sous le régime de la *Loi sur les brevets*, ou d’enregistrement d’un droit d’auteur, d’une marque de commerce, d’un dessin industriel ou d’une topographie au sens de la *Loi sur les topographies de circuits intégrés*;
+
+- b) tentative d’invalidation ou d’annulation d’un brevet d’invention ou d’un certificat de protection supplémentaire délivré sous le régime de la *Loi sur les brevets*, ou tentative d’inscription, de radiation ou de modification dans un registre de droits d’auteur, de marques de commerce, de dessins industriels ou de topographies visées à l’alinéa a).
+
+**Propriété industrielle : compétence concurrente**
+
+(2) Elle a compétence concurrente dans tous les autres cas de recours sous le régime d’une loi fédérale ou de toute autre règle de droit non visés par le paragraphe (1) relativement à un brevet d’invention, à un certificat de protection supplémentaire délivré sous le régime de la *Loi sur les brevets*, à un droit d’auteur, à une marque de commerce, à un dessin industriel ou à une topographie au sens de la *Loi sur les topographies de circuits intégrés*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 20; 1990, ch. 37, art. 34; 2002, ch. 8, art. 29
+- 2014, ch. 20, art. 366(A)
+- 2017, ch. 6, art. 128
+
+</details>
+
+### 21
+
+[Abrogé, 2014, ch. 22, art. 41]
+
+### 22 Navigation et marine marchande
+
+(1) La Cour fédérale a compétence concurrente, en première instance, dans les cas — opposant notamment des administrés — où une demande de réparation ou un recours est présenté en vertu du droit maritime canadien ou d’une loi fédérale concernant la navigation ou la marine marchande, sauf attribution expresse contraire de cette compétence.
+
+**Compétence maritime**
+
+(2) Il demeure entendu que, sans préjudice de la portée générale du paragraphe (1), elle a compétence dans les cas suivants :
+
+- a) une demande portant sur les titres de propriété ou la possession, en tout ou en partie, d’un navire ou sur le produit, en tout ou en partie, de la vente d’un navire;
+
+- b) un litige entre les copropriétaires d’un navire quant à la possession ou à l’affectation d’un navire ou aux recettes en provenant;
+
+- c) une demande relative à un prêt à la grosse ou à une hypothèque, un privilège ou une sûreté maritimes grevant tout ou partie d’un navire ou sa cargaison;
+
+- d) une demande d’indemnisation pour décès, dommages corporels ou matériels causés par un navire, notamment par collision;
+
+- e) une demande d’indemnisation pour l’avarie ou la perte d’un navire, notamment de sa cargaison ou de son équipement ou de tout bien à son bord ou en cours de transbordement;
+
+- f) une demande d’indemnisation, fondée sur une convention relative au transport par navire de marchandises couvertes par un connaissement direct ou devant en faire l’objet, pour la perte ou l’avarie de marchandises en cours de route;
+
+- g) une demande d’indemnisation pour décès ou lésions corporelles survenus dans le cadre de l’exploitation d’un navire, notamment par suite d’un vice de construction dans celui-ci ou son équipement ou par la faute ou la négligence des propriétaires ou des affréteurs du navire ou des personnes qui en disposent, ou de son capitaine ou de son équipage, ou de quiconque engageant la responsabilité d’une de ces personnes par une faute ou négligence commise dans la manoeuvre du navire, le transport et le transbordement de personnes ou de marchandises;
+
+- h) une demande d’indemnisation pour la perte ou l’avarie de marchandises transportées à bord d’un navire, notamment dans le cas des bagages ou effets personnels des passagers;
+
+- i) une demande fondée sur une convention relative au transport de marchandises à bord d’un navire, à l’usage ou au louage d’un navire, notamment par charte-partie;
+
+- j) une demande d’indemnisation pour sauvetage, notamment pour le sauvetage des personnes, de la cargaison, de l’équipement ou des autres biens d’un aéronef, ou au moyen d’un aéronef, assimilé en l’occurrence à un navire;
+
+- k) une demande d’indemnisation pour remorquage d’un navire, ou d’un aéronef à flot;
+
+- l) une demande d’indemnisation pour pilotage d’un navire, ou d’un aéronef à flot;
+
+- m) une demande relative à des marchandises, matériels ou services fournis à un navire pour son fonctionnement ou son entretien, notamment en ce qui concerne l’acconage et le gabarage;
+
+- n) une demande fondée sur un contrat de construction, de réparation ou d’équipement d’un navire;
+
+- o) une demande formulée par un capitaine, un officier ou un autre membre de l’équipage d’un navire relativement au salaire, à l’argent, aux biens ou à toute autre forme de rémunération ou de prestations découlant de son engagement;
+
+- p) une demande d’un capitaine, affréteur, mandataire ou propriétaire de navire relative aux débours faits pour un navire, et d’un expéditeur concernant des avances faites pour un navire;
+
+- q) une demande relative à la contribution à l’avarie commune;
+
+- r) une demande fondée sur un contrat d’assurance maritime ou y afférente;
+
+- s) une demande de remboursement des droits de bassin, de port ou de canaux, notamment des droits perçus pour l’utilisation des installations fournies à cet égard.
+
+**Étendue de la compétence**
+
+(3) Il est entendu que la compétence conférée à la Cour fédérale par le présent article s’étend :
+
+- a) à tous les navires, canadiens ou non, quel que soit le lieu de résidence ou le domicile des propriétaires;
+
+- b) à tous les aéronefs, canadiens ou non, quel que soit le lieu de résidence ou le domicile des propriétaires, lorsque le droit d’action découle des alinéas (2)j) à l);
+
+- c) à toutes les demandes, que les faits y donnant lieu se soient produits en haute mer ou dans les eaux canadiennes ou ailleurs et que ces eaux soient naturellement ou artificiellement navigables, et notamment, dans le cas de sauvetage, aux demandes relatives aux cargaisons ou épaves trouvées sur les rives de ces eaux;
+
+- d) à toutes les hypothèques ou tous les privilèges donnés en garantie sur un navire — enregistrés ou non et reconnus en droit ou en equity — , qu’ils relèvent du droit canadien ou du droit étranger.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 22; 1993, ch. 34, art. 69(F); 1996, ch. 31, art. 82; 2002, ch. 8, art. 31
+
+</details>
+
+### 23 Lettres de change et billets à ordre — Aéronautique et ouvrages interprovinciaux
+
+Sauf attribution spéciale de cette compétence par ailleurs, la Cour fédérale a compétence concurrente, en première instance, dans tous les cas — opposant notamment des administrés — de demande de réparation ou d’autre recours exercé sous le régime d’une loi fédérale ou d’une autre règle de droit en matière :
+
+- a) de lettres de change et billets à ordre lorsque la Couronne est partie aux procédures;
+
+- b) d’aéronautique;
+
+- c) d’ouvrages reliant une province à une autre ou s’étendant au-delà des limites d’une province.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 23; 2002, ch. 8, art. 32
+
+</details>
+
+### 24
+
+[Abrogé, 2002, ch. 8, art. 33]
+
+### 25 Compétence extra-provinciale
+
+La Cour fédérale a compétence, en première instance, dans tous les cas — opposant notamment des administrés — de demande de réparation ou de recours exercé en vertu du droit canadien ne ressortissant pas à un tribunal constitué ou maintenu sous le régime d’une des *Lois constitutionnelles de 1867 à 1982*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 25; 2002, ch. 8, art. 33
+
+</details>
+
+### 26 Tribunal de droit commun
+
+La Cour fédérale a compétence, en première instance, pour toute question ressortissant aux termes d’une loi fédérale à la Cour d’appel fédérale, à la Cour fédérale, à la Cour fédérale du Canada ou à la Cour de l’Échiquier du Canada, à l’exception des questions expressément réservées à la Cour d’appel fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 26; 2002, ch. 8, art. 33
+
+</details>
+
+## Compétence de la Cour d’appel fédérale
+
+### 27 Appels des jugements de la Cour fédérale
+
+(1) Il peut être interjeté appel, devant la Cour d’appel fédérale, des décisions suivantes de la Cour fédérale :
+
+- a) jugement définitif;
+
+- b) jugement sur une question de droit rendu avant l’instruction;
+
+- c) jugement interlocutoire;
+
+- d) jugement sur un renvoi d’un office fédéral ou du procureur général du Canada.
+
+**Appels des jugements de la Cour canadienne de l’impôt**
+
+(1.1) Sauf s’il s’agit d’une décision portant sur un appel visé aux articles 18, 18.29, 18.3 ou 18.3001 de la *Loi sur la Cour canadienne de l’impôt*, il peut être interjeté appel, devant la Cour d’appel fédérale, des décisions suivantes de la Cour canadienne de l’impôt :
+
+- a) jugement définitif;
+
+- b) jugement sur une question de droit rendu avant l’instruction;
+
+- c) jugement ou ordonnance interlocutoire.
+
+**Appel des décisions de la Cour canadienne de l’impôt — procédures informelles**
+
+(1.2) Il peut être interjeté appel, devant la Cour d’appel fédérale, d’un jugement définitif de la Cour canadienne de l’impôt portant sur un appel visé aux articles 18, 18.29, 18.3 ou 18.3001 de la *Loi sur la Cour canadienne de l’impôt*.
+
+**Motifs d’appel**
+
+(1.3) L’appel ne peut être interjeté aux termes du paragraphe (1.2) que pour l’un des motifs suivants :
+
+- a) la Cour canadienne de l’impôt a agi sans compétence, outrepassé celle-ci ou refusé de l’exercer;
+
+- b) elle n’a pas observé un principe de justice naturelle ou d’équité procédurale ou toute autre procédure qu’elle était légalement tenue de respecter;
+
+- c) elle a rendu une décision ou une ordonnance entachée d’une erreur de droit, que celle-ci soit manifeste ou non au vu du dossier;
+
+- d) elle a rendu une décision ou une ordonnance fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments dont elle dispose;
+
+- e) elle a agi ou omis d’agir en raison d’une fraude ou de faux témoignages;
+
+- f) elle a agi de toute autre façon contraire à la loi.
+
+**Procédure sommaire**
+
+(1.4) L’appel interjeté en vertu du paragraphe (1.2) est entendu et tranché immédiatement et selon une procédure sommaire.
+
+**Avis d’appel**
+
+(2) L’appel interjeté dans le cadre du présent article est formé par le dépôt d’un avis au greffe de la Cour d’appel fédérale, dans le délai imparti à compter du prononcé du jugement en cause ou dans le délai supplémentaire qu’un juge de la Cour d’appel fédérale peut, soit avant soit après l’expiration de celui-ci, accorder. Le délai imparti est de :
+
+- a) dix jours, dans le cas d’un jugement interlocutoire;
+
+- b) trente jours, compte non tenu de juillet et août, dans le cas des autres jugements.
+
+**Signification**
+
+(3) L’appel est signifié sans délai à toutes les parties directement concernées par une copie certifiée conforme de l’avis. La preuve de la signification doit être déposée au greffe de la Cour d’appel fédérale.
+
+**Jugement définitif**
+
+(4) Pour l’application du présent article, est assimilé au jugement définitif le jugement qui statue au fond sur un droit, à l’exception des questions renvoyées à l’arbitrage par le jugement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 27; L.R. (1985), ch. 51 (4^e^ suppl.), art. 11; 1990, ch. 8, art. 7 et 78(A); 1993, ch. 27, art. 214; 2002, ch. 8, art. 34
+
+</details>
+
+### 28 Contrôle judiciaire
+
+(1) La Cour d’appel fédérale a compétence pour connaître des demandes de contrôle judiciaire visant les offices fédéraux suivants :
+
+- a) [Abrogé, 2012, ch. 24, art. 86]
+
+- b) la commission de révision prorogée par le paragraphe 27(1) de la *Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire*;
+
+- b.1) le commissaire aux conflits d’intérêts et à l’éthique nommé en vertu de l’article 81 de la *Loi sur le Parlement du Canada*;
+
+- c) le Conseil de la radiodiffusion et des télécommunications canadiennes constitué par la *Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes*;
+
+- d) [Abrogé, 2012, ch. 19, art. 272]
+
+- e) le Tribunal canadien du commerce extérieur constitué par la *Loi sur le Tribunal canadien du commerce extérieur*;
+
+- f) la Régie canadienne de l’énergie constituée par la *Loi sur la Régie canadienne de l’énergie*;
+
+- g) le gouverneur en conseil, quand il prend un décret en vertu du paragraphe 186(1) de la *Loi sur la Régie canadienne de l’énergie*;
+
+- g.1) la division d’appel du Tribunal de la sécurité sociale, constitué par l’article 44 de la *Loi sur le ministère de l’Emploi et du Développement social*, sauf dans le cas d’une décision qui est rendue au titre du paragraphe 57(2) ou de l’article 58.2 de cette loi ou qui vise un appel concernant une décision relative au délai supplémentaire visé, selon le cas :
+  - (i) au paragraphe 52(2) de cette loi,
+  - (ii) à l’article 81 du *Régime de pensions du Canada*,
+  - (iii) à l’article 27.1 de la *Loi sur la sécurité de la vieillesse*,
+  - (iv) à l’article 112 de la *Loi sur l’assurance-emploi*,
+  - (v) par tout règlement pris en vertu du paragraphe 11(1) de la *Loi sur la prestation canadienne pour les personnes handicapées* concernant un examen ou un réexamen;
+
+- h) le Conseil canadien des relations industrielles au sens du *Code canadien du travail*;
+
+- i) la Commission des relations de travail et de l’emploi dans le secteur public fédéral visée par le paragraphe 4(1) de la *Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral*;
+
+- i.1) les arbitres de grief, au sens du paragraphe 2(1) de la *Loi sur les relations de travail dans le secteur public fédéral*;
+
+- j) la Commission du droit d’auteur constituée par la *Loi sur le droit d’auteur*;
+
+- k) l’Office des transports du Canada constitué par la *Loi sur les transports au Canada*;
+
+- l) [Abrogé, 2002, ch. 8, art. 35]
+
+- m) [Abrogé, 2012, ch. 19, art. 272]
+
+- n) le Tribunal de la concurrence constitué par la *Loi sur le Tribunal de la concurrence*;
+
+- o) les évaluateurs nommés en application de la *Loi sur la Société d’assurance-dépôts du Canada*;
+
+- p) [Abrogé, 2012, ch. 19, art. 572]
+
+- q) le Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles constitué par la *Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles*;
+
+- r) le Tribunal des revendications particulières constitué par la *Loi sur le Tribunal des revendications particulières*.
+
+**Dispositions applicables**
+
+(2) Les articles 18 à 18.5 s’appliquent, exception faite du paragraphe 18.4(2) et compte tenu des adaptations de circonstance, à la Cour d’appel fédérale comme si elle y était mentionnée lorsqu’elle est saisie en vertu du paragraphe (1) d’une demande de contrôle judiciaire.
+
+**Incompétence de la Cour fédérale**
+
+(3) La Cour fédérale ne peut être saisie des questions qui relèvent de la Cour d’appel fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 28; L.R. (1985), ch. 30 (2^e^ suppl.), art. 61; 1990, ch. 8, art. 8; 1992, ch. 26, art. 17, ch. 33, art. 69, ch. 49, art. 128; 1993, ch. 34, art. 70; 1996, ch. 10, art. 229, ch. 23, art. 187; 1998, ch. 26, art. 73; 1999, ch. 31, art. 92(A); 2002, ch. 8, art. 35; 2003, ch. 22, art. 167(A) et 262; 2005, ch. 46, art. 56.1; 2006, ch. 9, art. 6 et 222; 2008, ch. 22, art. 46; 2012, ch. 19, art. 110, 272 et 572, ch. 24, art. 86; 2013, ch. 40, art. 236 et 439; 2014, ch. 20, art. 236; 2017, ch. 9, art. 43 et 55
+- 2019, ch. 28, art. 102
+- 2021, ch. 23, art. 237
+- 2024, ch. 17, art. 408
+
+</details>
+
+### 29 à 35
+
+[Abrogés, 1990, ch. 8, art. 8]
+
+## Dispositions de fond
+
+### 36 Intérêt avant jugement — Fait survenu dans une province
+
+(1) Sauf disposition contraire de toute autre loi fédérale, et sous réserve du paragraphe (2), les règles de droit en matière d’intérêt avant jugement qui, dans une province, régissent les rapports entre particuliers s’appliquent à toute instance devant la Cour d’appel fédérale ou la Cour fédérale et dont le fait générateur est survenu dans cette province.
+
+**Intérêt avant jugement — Fait non survenu dans une seule province**
+
+(2) Dans toute instance devant la Cour d’appel fédérale ou la Cour fédérale et dont le fait générateur n’est pas survenu dans une province ou dont les faits générateurs sont survenus dans plusieurs provinces, les intérêts avant jugement sont calculés au taux que la Cour d’appel fédérale ou la Cour fédérale, selon le cas, estime raisonnable dans les circonstances et :
+
+- a) s’il s’agit d’une créance d’une somme déterminée, depuis la ou les dates du ou des faits générateurs jusqu’à la date de l’ordonnance de paiement;
+
+- b) si la somme n’est pas déterminée, depuis la date à laquelle le créancier a avisé par écrit le débiteur de sa demande jusqu’à la date de l’ordonnance de paiement.
+
+**Dommages-intérêts spéciaux**
+
+(3) Si l’ordonnance de paiement accorde des dommages-intérêts spéciaux, les intérêts prévus au paragraphe (2) sont calculés sur le solde du montant des dommages-intérêts spéciaux accumulés à la fin de chaque période de six mois postérieure à l’avis écrit mentionné à l’alinéa (2)b) ainsi qu’à la date de cette ordonnance.
+
+**Exceptions**
+
+(4) Il n’est pas accordé d’intérêts aux termes du paragraphe (2) :
+
+- a) sur les dommages-intérêts exemplaires ou punitifs;
+
+- b) sur les intérêts accumulés aux termes du présent article;
+
+- c) sur les dépens de l’instance;
+
+- d) sur la partie du montant de l’ordonnance de paiement que la Cour d’appel fédérale ou la Cour fédérale, selon le cas, précise comme représentant une perte pécuniaire postérieure à la date de cette ordonnance;
+
+- e) si l’ordonnance de paiement est rendue de consentement, sauf si le débiteur accepte de les payer;
+
+- f) si le droit aux intérêts a sa source ailleurs que dans le présent article.
+
+**Discrétion judiciaire**
+
+(5) La Cour d’appel fédérale ou la Cour fédérale, selon le cas, peut, si elle l’estime juste compte tenu de la fluctuation des taux d’intérêt commerciaux, du déroulement des procédures et de tout autre motif valable, refuser l’intérêt ou l’accorder pour une période autre que celle prévue à l’égard du montant total ou partiel sur lequel l’intérêt est calculé en vertu du présent article.
+
+**Application**
+
+(6) Le présent article s’applique aux sommes accordées par jugement rendu à compter de la date de son entrée en vigueur. Aucun intérêt ne peut être accordé à l’égard d’une période antérieure à cette date.
+
+**Droit maritime canadien**
+
+(7) Le présent article ne s’applique pas aux procédures en matière de droit maritime canadien.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 36; 1990, ch. 8, art. 9; 2002, ch. 8, art. 36
+
+</details>
+
+### 37 Intérêt sur les jugements — Fait survenu dans une seule province
+
+(1) Sauf disposition contraire de toute autre loi fédérale et sous réserve du paragraphe (2), les règles de droit en matière d’intérêt pour les jugements qui, dans une province, régissent les rapports entre particuliers s’appliquent à toute instance devant la Cour d’appel fédérale ou la Cour fédérale et dont le fait générateur est survenu dans cette province.
+
+**Intérêt sur les jugements — Fait non survenu dans une seule province**
+
+(2) Dans le cas où le fait générateur n’est pas survenu dans une province ou dans celui où les faits générateurs sont survenus dans plusieurs provinces, le jugement porte intérêt, à compter de son prononcé, au taux que la Cour d’appel fédérale ou la Cour fédérale, selon le cas, estime raisonnable dans les circonstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 37; 1990, ch. 8, art. 9; 2002, ch. 8, art. 37
+
+</details>
+
+### 38
+
+[Abrogé, 1990, ch. 8, art. 9]
+
+### 39 Prescription — Fait survenu dans une province
+
+(1) Sauf disposition contraire d’une autre loi, les règles de droit en matière de prescription qui, dans une province, régissent les rapports entre particuliers s’appliquent à toute instance devant la Cour d’appel fédérale ou la Cour fédérale dont le fait générateur est survenu dans cette province.
+
+**Prescription — Fait non survenu dans la province**
+
+(2) Le délai de prescription est de six ans à compter du fait générateur lorsque celui-ci n’est pas survenu dans une province.
+
+(3) [Abrogé, 1990, ch. 8, art. 10]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 39; 1990, ch. 8, art. 10; 2002, ch. 8, art. 38
+
+</details>
+
+### 40 Poursuites vexatoires
+
+(1) La Cour d’appel fédérale ou la Cour fédérale, selon le cas, peut, si elle est convaincue par suite d’une requête qu’une personne a de façon persistante introduit des instances vexatoires devant elle ou y a agi de façon vexatoire au cours d’une instance, lui interdire d’engager d’autres instances devant elle ou de continuer devant elle une instance déjà engagée, sauf avec son autorisation.
+
+**Procureur général du Canada**
+
+(2) La présentation de la requête visée au paragraphe (1) nécessite le consentement du procureur général du Canada, lequel a le droit d’être entendu à cette occasion de même que lors de toute contestation portant sur l’objet de la requête.
+
+**Requête en levée de l’interdiction ou en autorisation**
+
+(3) Toute personne visée par une ordonnance rendue aux termes du paragraphe (1) peut, par requête au tribunal saisi de l’affaire, demander soit la levée de l’interdiction qui la frappe, soit l’autorisation d’engager ou de continuer une instance devant le tribunal.
+
+**Pouvoirs du tribunal**
+
+(4) Sur présentation de la requête prévue au paragraphe (3), le tribunal saisi de l’affaire peut, s’il est convaincu que l’instance que l’on cherche à engager ou à continuer ne constitue pas un abus de procédure et est fondée sur des motifs valables, autoriser son introduction ou sa continuation.
+
+**Décision définitive et sans appel**
+
+(5) La décision du tribunal rendue aux termes du paragraphe (4) est définitive et sans appel.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 40; 1990, ch. 8, art. 11; 2002, ch. 8, art. 39
+
+</details>
+
+### 41
+
+[Abrogé, 1990, ch. 8, art. 11]
+
+### 42 Maintien du droit maritime
+
+Le droit maritime canadien en vigueur au 31 mai 1971 continue à s’appliquer, sous réserve des modifications éventuelles par la présente loi ou toute autre loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 10(2^e^ suppl.), art. 42
+
+</details>
+
+### 43 Compétence en matière personnelle
+
+(1) Sous réserve du paragraphe (4), la Cour fédérale peut, aux termes de l’article 22, avoir compétence en matière personnelle dans tous les cas.
+
+**Compétence en matière réelle**
+
+(2) Sous réserve du paragraphe (3), elle peut, aux termes de l’article 22, avoir compétence en matière réelle dans toute action portant sur un navire, un aéronef ou d’autres biens, ou sur le produit de leur vente consigné au tribunal.
+
+**Exception**
+
+(3) Malgré le paragraphe (2), elle ne peut exercer la compétence en matière réelle prévue à l’article 22, dans le cas des demandes visées aux alinéas 22(2) e), f), g), h), i), k), m), n), p) ou r), que si, au moment où l’action est intentée, le véritable propriétaire du navire, de l’aéronef ou des autres biens en cause est le même qu’au moment du fait générateur.
+
+**Action personnelle**
+
+(4) Pour qu’une action personnelle puisse être intentée au Canada relativement à une collision entre navires, il faut :
+
+- a) soit que le défendeur ait une résidence ou un établissement commercial au Canada;
+
+- b) soit que le fait générateur soit survenu dans les eaux canadiennes;
+
+- c) soit que les parties aient convenu de la compétence de la Cour fédérale.
+
+**Exception**
+
+(5) Le paragraphe (4) ne s’applique ni à une demande reconventionnelle ni à une action pour une collision faisant déjà l’objet d’une autre action devant la Cour fédérale.
+
+**Affaire pendante à l’étranger**
+
+(6) Le demandeur dans une action pour collision intentée à l’étranger ne peut entamer au Canada, contre le même défendeur, une seconde action fondée sur les mêmes faits, sauf désistement dans la première.
+
+**Navire appartenant à un État souverain**
+
+(7) Il ne peut être intenté au Canada d’action réelle portant, selon le cas, sur :
+
+- a) un navire de guerre, un garde-côte ou un bateau de police;
+
+- b) un navire possédé ou exploité par le Canada ou une province, ou sa cargaison, lorsque ce navire est en service commandé pour le compte de l’État;
+
+- c) un navire possédé ou exploité par un État souverain étranger — ou sa cargaison — et accomplissant exclusivement une mission non commerciale au moment où a été formulée la demande ou intentée l’action les concernant.
+
+**Saisie de navire**
+
+(8) La compétence de la Cour fédérale peut, aux termes de l’article 22, être exercée en matière réelle à l’égard de tout navire qui, au moment où l’action est intentée, appartient au véritable propriétaire du navire en cause dans l’action.
+
+**Garantie réciproque**
+
+(9) Dans une action pour collision où un navire, aéronef ou autre bien du défendeur est saisi, ou un cautionnement est fourni, et où le défendeur présente une demande reconventionnelle en vertu de laquelle un navire, aéronef ou autre bien du demandeur est saisissable, la Cour fédérale peut, s’il ne peut être procédé à la saisie de ces derniers biens, suspendre l’action principale jusqu’au dépôt d’un cautionnement par le demandeur.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 43; 1990, ch. 8, art. 12; 1996, ch. 31, art. 83; 2002, ch. 8, art. 40; 2009, ch. 21, art. 18(A)
+
+</details>
+
+### 44 Mandamus, injonction, exécution intégrale ou nomination d’un séquestre
+
+Indépendamment de toute autre forme de réparation qu’elle peut accorder, la Cour d’appel fédérale ou la Cour fédérale peut, dans tous les cas où il lui paraît juste ou opportun de le faire, décerner un mandamus, une injonction ou une ordonnance d’exécution intégrale, ou nommer un séquestre, soit sans condition, soit selon les modalités qu’elle juge équitables.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 44; 2002, ch. 8, art. 41
+
+</details>
+
+## Procédure
+
+### 45 Jugement rendu après cessation de fonctions
+
+(1) Le juge de la Cour d’appel fédérale ou de la Cour fédérale qui a cessé d’occuper sa charge, notamment par suite de démission ou de nomination à un autre poste, peut, dans les huit semaines qui suivent et à la demande du juge en chef du tribunal concerné, rendre son jugement dans toute affaire qu’il a instruite.
+
+**Participation au jugement après cessation de fonctions**
+
+(2) À la demande du juge en chef de la Cour d’appel fédérale, le juge de celle-ci qui se trouve dans la situation visée au paragraphe (1) après y avoir instruit une affaire conjointement avec d’autres juges peut, dans le délai fixé à ce paragraphe, concourir au prononcé du jugement par le tribunal.
+
+**Empêchement ou décès**
+
+(3) En cas de décès ou d’empêchement d’un juge de la Cour d’appel fédérale — qu’il soit ou non dans la situation visée au paragraphe (2) — y ayant instruit une affaire, les autres juges peuvent rendre le jugement et, à cette fin, sont censés constituer le tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 45; 2002, ch. 8, art. 42
+
+</details>
+
+### 45.1 Comité des règles
+
+(1) Est constitué un comité des règles composé des membres suivants :
+
+- a) le juge en chef de la Cour d’appel fédérale;
+
+- a.1) le juge en chef ou le juge en chef adjoint de la Cour fédérale;
+
+- b) trois juges désignés par le juge en chef de la Cour d’appel fédérale et cinq juges et un juge adjoint désignés par le juge en chef de la Cour fédérale;
+
+- b.1) l’administrateur en chef du Service administratif des tribunaux judiciaires;
+
+- c) cinq avocats membres du barreau d’une province désignés par le procureur général du Canada, après consultation avec le juge en chef de la Cour d’appel fédérale et le juge en chef de la Cour fédérale;
+
+- d) le procureur général du Canada ou son représentant.
+
+**Représentativité**
+
+(2) Les avocats visés à l’alinéa (1) c) sont choisis, autant que faire se peut, de façon à assurer la représentation des diverses régions du pays et des divers champs de spécialisation du droit pour lesquels la Cour d’appel fédérale et la Cour fédérale ont compétence.
+
+**Présidence**
+
+(3) Le juge en chef de la Cour d’appel fédérale ou le membre choisi par lui préside le comité.
+
+**Mandat**
+
+(4) Le mandat des membres visés aux alinéas (1)b) et c) est d’une durée maximale de trois ans.
+
+**Indemnités**
+
+(5) Les membres visés aux alinéas (1)c) et d) ont droit aux frais de déplacement et autres entraînés par l’accomplissement, hors de leur lieu habituel de résidence, des fonctions qui leur sont confiées en application de la présente loi; le montant de ces frais ne peut être supérieur aux montants maximaux que les instructions du Conseil du Trésor fixent en semblable matière pour les fonctionnaires du gouvernement du Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, ch. 8, art. 13; 2002, ch. 8, art. 43; 2006, ch. 11, art. 24; 2018, ch. 12, art. 307
+- 2022, ch. 10, art. 371
+
+</details>
+
+### 46 Règles
+
+(1) Sous réserve de l’approbation du gouverneur en conseil et, en outre, du paragraphe (4), le comité peut, par règles ou ordonnances générales :
+
+- a) réglementer la pratique et la procédure à la Cour d’appel fédérale et à la Cour fédérale, et notamment :
+  - (i) prévoir, dans une instance à laquelle la Couronne est partie, l’interrogatoire préalable d’un fonctionnaire d’un ministère ou de tout autre fonctionnaire de la Couronne,
+  - (ii) prévoir la production de documents, la communication de leur teneur ainsi que la fourniture de copies de documents, par la Couronne, dans une instance à laquelle celle-ci est partie,
+  - (iii) prévoir la production de documents par la Couronne dans une instance à laquelle celle-ci n’est pas partie,
+  - (iv) prévoir l’examen médical d’une personne dont la blessure fait l’objet d’une demande d’indemnisation,
+  - (v) régir les dépositions faites devant un juge ou toute autre personne qualifiée — au Canada ou à l’étranger, avant ou pendant l’instruction et, sur commission ou autrement, avant ou après le début de l’instance devant la Cour d’appel fédérale ou la Cour fédérale —, à l’appui d’une demande effective ou éventuelle,
+  - (vi) prévoir le renvoi de toute question de fait pour enquête et rapport devant un juge ou une autre personne agissant en qualité d’arbitre,
+  - (vii) régir la signification de documents au Canada et autoriser et régir la signification de documents à l’étranger,
+  - (viii) régir l’enregistrement des débats lors de l’audience, ainsi que leur transcription,
+  - (ix) régir la nomination d’assesseurs et l’instruction de tout ou partie d’une affaire avec l’aide d’assesseurs,
+  - (x) déterminer la documentation à fournir par la Cour canadienne de l’impôt ou par un office fédéral pour les besoins des appels, demandes ou renvois;
+
+- b) prendre les mesures nécessaires à l’application de la présente loi;
+
+- c) prendre les mesures nécessaires à l’application de toute loi donnant compétence à la Cour d’appel fédérale ou à la Cour fédérale ou à un juge de celles-ci en ce qui touche les instances devant elles;
+
+- d) fixer les droits payables au greffe de la Cour d’appel fédérale et de la Cour fédérale par une partie, relativement aux procédures devant celle-ci, pour versement au Trésor;
+
+- e) réglementer les attributions des fonctionnaires judiciaires;
+
+- f) fixer la rétribution des shérifs, prévôts ou autres personnes par l’intermédiaire desquelles les moyens de contrainte peuvent être signifiés et réglementer leur obligation, le cas échéant, de rendre compte de cette rétribution à leurs employeurs ou leur droit de la conserver pour eux-mêmes;
+
+- g) réglementer les dépens et leur adjudication tant en ce qui concerne la Couronne que les administrés;
+
+- h) donner pouvoir aux juges adjoints d’exercer une autorité ou une compétence — même d’ordre judiciaire — sous la surveillance de la Cour fédérale;
+
+- i) permettre à un juge ou à un juge adjoint de modifier une règle ou d’exempter une partie ou une personne de son application dans des circonstances spéciales;
+
+- j) par dérogation au paragraphe 28(3), prévoir l’exécution devant la Cour fédérale des ordonnances de la Cour d’appel fédérale;
+
+- k) déterminer les gestes — actes ou omissions — qui constituent des cas d’outrage au tribunal, régir la procédure à suivre dans les instances pour outrage au tribunal et fixer les peines à infliger en cas de condamnation pour outrage au tribunal;
+
+- l) régir toute autre question ressortissant implicitement, selon la présente loi, aux règles.
+
+**Portée des règles**
+
+(2) Au titre du présent article, le comité peut étendre la portée des règles et ordonnances à des questions, notamment de pratique et de procédure, qui surviennent à l’occasion d’affaires engagées sous le régime d’une loi quelconque mais qui ne sont pas prévues par celle-ci ou toute autre loi et qu’il est jugé nécessaire de régir en vue de l’application de ces lois.
+
+**Uniformité**
+
+(3) Ces règles et ordonnances peuvent prévoir une procédure uniformément applicable, en tout ou partie, à une ou plusieurs catégories d’affaires, ainsi qu’une nomenclature qui leur soit uniformément applicable.
+
+**Publication préalable des règles et modifications**
+
+(4) Lorsqu’il propose la modification ou l’annulation de l’une des règles ou ordonnances visées par le présent article ou l’augmentation du corps de règles et ordonnances générales publié sous le régime de ce même article, le comité :
+
+- a) doit donner avis de la proposition en la faisant publier dans la *Gazette du Canada* et, dans cet avis, inviter les intéressés à lui faire parvenir leurs observations écrites à ce sujet dans les soixante jours de la date de la publication;
+
+- b) peut, à l’expiration du délai de soixante jours et sous réserve de l’approbation du gouverneur en conseil, mettre en oeuvre la proposition soit dans sa forme originale soit en la forme modifiée qu’il juge indiquée compte tenu des observations qui lui ont été faites.
+
+**Dépôt des règles devant le Parlement**
+
+(5) Le texte des règles ou ordonnances et des modifications ou annulations y afférentes faites aux termes du présent article est déposé devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci qui suit leur approbation par le gouverneur en conseil.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 46; 1990, ch. 8, art. 14; 1992, ch. 1, art. 68; 2002, ch. 8, art. 44
+- 2022, ch. 10, art. 371
+
+</details>
+
+### 47
+
+[Abrogé, 1990, ch. 8, art. 15]
+
+### 48 Acte introductif d’instance contre la Couronne
+
+(1) Pour entamer une procédure contre la Couronne, il faut déposer au greffe de la Cour fédérale l’original et deux copies de l’acte introductif d’instance, qui peut suivre le modèle établi à l’annexe, et acquitter la somme de deux dollars comme droit correspondant.
+
+**Procédure de dépôt**
+
+(2) Les deux formalités prévues au paragraphe (1) peuvent s’effectuer par courrier recommandé expédié à l’adresse suivante : Greffe de la Cour fédérale, Ottawa, Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 48; 2002, ch. 8, art. 45
+
+</details>
+
+### 49 Audition sans jury
+
+Dans toutes les affaires dont elle est saisie, la Cour fédérale ou la Cour d’appel fédérale exerce sa compétence sans jury.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 49; 2002, ch. 8, art. 45
+
+</details>
+
+### 50 Suspension d’instance
+
+(1) La Cour d’appel fédérale et la Cour fédérale ont le pouvoir discrétionnaire de suspendre les procédures dans toute affaire :
+
+- a) au motif que la demande est en instance devant un autre tribunal;
+
+- b) lorsque, pour quelque autre raison, l’intérêt de la justice l’exige.
+
+**Idem**
+
+(2) Sur demande du procureur général du Canada, la Cour d’appel fédérale ou la Cour fédérale, selon le cas, suspend les procédures dans toute affaire relative à une demande contre la Couronne s’il apparaît que le demandeur a intenté, devant un autre tribunal, une procédure relative à la même demande contre une personne qui, à la survenance du fait générateur allégué dans la procédure, agissait en l’occurrence de telle façon qu’elle engageait la responsabilité de la Couronne.
+
+**Levée de la suspension**
+
+(3) Le tribunal qui a ordonné la suspension peut, à son appréciation, ultérieurement la lever.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 50; 2002, ch. 8, art. 46
+
+</details>
+
+### 50.1 Suspension des procédures
+
+(1) Sur requête du procureur général du Canada, la Cour fédérale ordonne la suspension des procédures relatives à toute réclamation contre la Couronne à l’égard de laquelle cette dernière entend présenter une demande reconventionnelle ou procéder à une mise en cause pour lesquelles la Cour n’a pas compétence.
+
+**Reprise devant un tribunal provincial**
+
+(2) Le demandeur dans l’action principale peut, après le prononcé de la suspension des procédures, reprendre celles-ci devant le tribunal compétent institué par loi provinciale ou sous le régime de celle-ci.
+
+**Prescription**
+
+(3) Pour l’application des règles de droit en matière de prescription dans le cadre des procédures reprises conformément au paragraphe (2), est réputée être la date de l’introduction de l’action celle de son introduction devant la Cour fédérale si la reprise survient dans les cent jours qui suivent la suspension.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, ch. 8, art. 16; 2002, ch. 8, art. 47
+
+</details>
+
+### 51 Dépôt des motifs du jugement
+
+Le juge qui motive un jugement rendu par lui ou par le tribunal dont il est membre dépose une copie de l’énoncé des motifs au greffe du tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 51; 2002, ch. 8, art. 48
+
+</details>
+
+## Jugements de la cour d’appel fédérale
+
+### 52 Pouvoirs de la Cour d’appel fédérale
+
+La Cour d’appel fédérale peut :
+
+- a) arrêter les procédures dans les causes qui ne sont pas de son ressort ou entachées de mauvaise foi;
+
+- b) dans le cas d’un appel d’une décision de la Cour fédérale :
+  - (i) soit rejeter l’appel ou rendre le jugement que la Cour fédérale aurait dû rendre et prendre toutes mesures d’exécution ou autres que celle-ci aurait dû prendre,
+  - (ii) soit, à son appréciation, ordonner un nouveau procès, si l’intérêt de la justice paraît l’exiger,
+  - (iii) soit énoncer, dans une déclaration, les conclusions auxquelles la Cour fédérale aurait dû arriver sur les points qu’elle a tranchés et lui renvoyer l’affaire pour poursuite de l’instruction, à la lumière de cette déclaration, sur les points en suspens;
+
+- c) dans les autres cas d’appel :
+  - (i) soit rejeter l’appel ou rendre la décision qui aurait dû être rendue,
+  - (ii) soit, à son appréciation, renvoyer l’affaire pour jugement conformément aux instructions qu’elle estime appropriées.
+
+- d) [Abrogé, 1990, ch. 8, art. 17]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 52; 1990, ch. 8, art. 17; 2002, ch. 8, art. 50
+
+</details>
+
+## Preuve
+
+### 53 Déposition
+
+(1) La déposition d’un témoin peut, par ordonnance de la Cour d’appel fédérale ou de la Cour fédérale, selon le cas, et sous réserve de toute règle ou ordonnance applicable en la matière, être recueillie soit par commission rogatoire, soit lors d’un interrogatoire, soit par affidavit.
+
+**Admissibilité de la preuve**
+
+(2) Par dérogation à l’article 40 de la *Loi sur la preuve au Canada* mais sous réserve de toute règle applicable en la matière, la Cour d’appel fédérale et la Cour fédérale ont le pouvoir discrétionnaire d’admettre une preuve qui ne serait pas autrement admissible si, selon le droit en vigueur dans une province, elle l’était devant une cour supérieure de cette province.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 53; 2002, ch. 8, art. 51
+
+</details>
+
+### 54 Habilitation à faire prêter serment
+
+(1) Les personnes habilitées à recevoir des affidavits destinés à servir devant une cour supérieure provinciale peuvent faire prêter serment et recevoir les affidavits, déclarations et affirmations solennelles destinés à servir devant la Cour d’appel fédérale ou la Cour fédérale.
+
+**Habilitation par commission**
+
+(2) Quand il le juge nécessaire, le gouverneur en conseil peut, par commission, habiliter certaines personnes, au Canada ou à l’étranger, à faire prêter serment et à recevoir des affidavits et des déclarations ou affirmations solennelles lors ou à l’occasion de toute procédure actuelle ou éventuelle devant la Cour d’appel fédérale ou la Cour fédérale.
+
+**Validité des serments faits hors Cour**
+
+(3) Les serments, affidavits, déclarations ou affirmations solennelles faits en conformité avec le présent article ont la même valeur que s’ils étaient faits devant la Cour d’appel fédérale ou la Cour fédérale.
+
+**Titre du commissaire**
+
+(4) Tout commissaire habilité en application du paragraphe (2) porte le titre de commissaire aux serments auprès de la Cour d’appel fédérale et de la Cour fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 54; 2002, ch. 8, art. 51
+
+</details>
+
+## Moyens de contrainte
+
+### 55 Champ d’application
+
+(1) Les moyens de contrainte de la Cour d’appel fédérale et de la Cour fédérale sont exécutoires dans tout le Canada et en tout autre lieu où s’applique la législation fédérale.
+
+**Exécution des ordonnances de paiement**
+
+(2) L’ordonnance de paiement, notamment des dépens, peut être exécutée de la même manière qu’un jugement.
+
+**Impossibilité de contrainte par corps**
+
+(3) Le défaut de paiement ne peut justifier seul la contrainte par corps.
+
+**Fonctions du shérif**
+
+(4) Le shérif ou le prévôt exécute les moyens de contrainte de la Cour d’appel fédérale ou de la Cour fédérale qui lui sont adressés même s’il doit pour cela agir en dehors de son ressort : il exerce en outre les fonctions qui peuvent lui être attribuées expressément ou implicitement par les règles.
+
+**Absence ou empêchement du shérif**
+
+(5) En cas d’absence ou d’empêchement du shérif ou du prévôt, ou de vacance du poste ou de refus d’exécution par le titulaire, le moyen de contrainte est adressé au shérif adjoint ou prévôt adjoint, ou à toute autre personne prévue par les règles ou une ordonnance spécifique de la Cour fédérale. Cette personne a droit, pour son propre compte, aux émoluments prévus par les règles ou l’ordonnance en cause.
+
+**Absence ou empêchement du shérif**
+
+(6) En cas d’absence ou d’empêchement du shérif ou du prévôt, ou de vacance du poste ou de refus d’exécution par le titulaire, le moyen de contrainte est adressé au shérif adjoint ou prévôt adjoint, ou à toute autre personne prévue par les règles ou une ordonnance spécifique de la Cour d’appel fédérale. Cette personne a droit, pour son propre compte, aux émoluments prévus par les règles ou l’ordonnance en cause.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 55; 1996, ch. 31, art. 84; 2002, ch. 8, art. 52
+
+</details>
+
+### 56 Analogie avec les moyens de contrainte des tribunaux provinciaux
+
+(1) Outre les brefs de saisie-exécution ou autres moyens de contrainte prescrits par les règles pour l’exécution de ses jugements ou ordonnances, la Cour d’appel fédérale ou la Cour fédérale peut délivrer des moyens de contrainte visant la personne ou les biens d’une partie et ayant la même teneur et le même effet que ceux émanant d’une cour supérieure de la province dans laquelle le jugement ou l’ordonnance doivent être exécutés. Si, selon le droit de la province, le moyen de contrainte que doit délivrer la Cour d’appel fédérale ou la Cour fédérale nécessite l’ordonnance d’un juge, un de ses juges peut rendre une telle ordonnance.
+
+**Moyens de contrainte visant une personne**
+
+(2) La délivrance, par la Cour d’appel fédérale ou la Cour fédérale, d’un bref de saisie-exécution pour dette ne peut donner lieu à incarcération.
+
+**Moyens de contrainte visant des biens meubles ou immeubles**
+
+(3) Sauf disposition contraire des règles, les brefs de saisie-exécution ou autres moyens de contrainte visant des biens — qu’ils soient prescrits par les règles ou autorisés aux termes du paragraphe (1) — sont, quant aux catégories de biens saisissables et au mode de saisie et de vente, exécutés autant que possible de la manière fixée, pour des moyens de contrainte semblables émanant d’une cour supérieure provinciale, par le droit de la province où sont situés les biens à saisir. Ils ont les mêmes effets que ces derniers, quant aux biens en question et aux droits des adjudicataires.
+
+**Opposition à saisie**
+
+(4) Sauf disposition contraire des règles, l’instruction et le jugement de toute contestation en matière de saisie effectuée en vertu d’un moyen de contrainte de la Cour d’appel fédérale ou de la Cour fédérale, ou de toute prétention sur le produit des biens saisis, suivent autant que possible la procédure applicable aux revendications semblables concernant des biens saisis en vertu de moyens de contrainte similaires émanant des tribunaux provinciaux.
+
+(5) [Abrogé, 1990, ch. 8, art. 18]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 56; 1990, ch. 8, art. 18; 2002, ch. 8, art. 53
+
+</details>
+
+## Dispositions générales
+
+### 57 Questions constitutionnelles
+
+(1) Les lois fédérales ou provinciales ou leurs textes d’application, dont la validité, l’applicabilité ou l’effet, sur le plan constitutionnel, est en cause devant la Cour d’appel fédérale ou la Cour fédérale ou un office fédéral, sauf s’il s’agit d’une **cour martiale** ou d’un **officier** tenant une **audience sommaire** au sens du paragraphe 2(1) de la *Loi sur la défense nationale*, ne peuvent être déclarés invalides, inapplicables ou sans effet, à moins que le procureur général du Canada et ceux des provinces n’aient été avisés conformément au paragraphe (2).
+
+**Formule et délai de l’avis**
+
+(2) L’avis est, sauf ordonnance contraire de la Cour d’appel fédérale ou de la Cour fédérale ou de l’office fédéral en cause, signifié au moins dix jours avant la date à laquelle la question constitutionnelle qui en fait l’objet doit être débattue.
+
+**Appel et contrôle judiciaire**
+
+(3) Les avis d’appel et de demande de contrôle judiciaire portant sur une question constitutionnelle sont à signifier au procureur général du Canada et à ceux des provinces.
+
+**Droit des procureurs généraux d’être entendus**
+
+(4) Le procureur général à qui un avis visé aux paragraphes (1) ou (3) est signifié peut présenter une preuve et des observations à la Cour d’appel fédérale ou à la Cour fédérale et à l’office fédéral en cause, à l’égard de la question constitutionnelle en litige.
+
+**Droit d’appel**
+
+(5) Le procureur général qui présente des observations est réputé partie à l’instance aux fins d’un appel portant sur la question constitutionnelle.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 57; 1990, ch. 8, art. 19; 2002, ch. 8, art. 54
+- 2019, ch. 15, art. 56
+
+</details>
+
+### 57.1 Frais payables au receveur général
+
+Les frais occasionnés par les procédures devant la Cour d’appel fédérale ou la Cour fédérale sont payables au receveur général sauf si s’applique à leur égard un arrangement conclu par le ministre de la Justice, aux termes duquel ils doivent être perçus et traités de la même façon que les sommes payées à titre de frais judiciaires dans une affaire relevant d’un tribunal provincial.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, ch. 8, art. 19; 2002, ch. 8, art. 55
+
+</details>
+
+### 58 Arrêtiste
+
+(1) Le ministre de la Justice nomme ou désigne au poste d’arrêtiste une personne qualifiée chargée d’éditer le recueil des décisions de la Cour d’appel fédérale et de la Cour fédérale; il peut aussi nommer un comité de cinq personnes au plus pour conseiller l’arrêtiste.
+
+**Contenu des recueils**
+
+(2) Ne sont publiés dans le recueil que les décisions ou les extraits de décisions considérés par l’arrêtiste comme présentant suffisamment d’importance ou d’intérêt.
+
+**Impression et distribution**
+
+(3) Le recueil est imprimé et distribué, gracieusement ou non, selon les instructions du gouverneur en conseil.
+
+**Langues officielles**
+
+(4) Les décisions publiées dans le recueil le sont dans les deux langues officielles.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 58; 2002, ch. 8, art. 56
+
+</details>
+
+### 59 Police
+
+Les services ou l’assistance qui peuvent, compte tenu des circonstances, être jugés nécessaires, en ce qui concerne la conduite des débats de la Cour d’appel fédérale ou de la Cour fédérale, la sécurité de leurs membres, de leurs locaux et du personnel du Service administratif des tribunaux judiciaires, ou l’exécution de leurs ordonnances et jugements, sont fournis, à la demande du juge en chef de l’un ou l’autre de ces tribunaux, par la Gendarmerie royale du Canada ou tout autre corps policier que le gouverneur en conseil peut désigner.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, art. 59; 2002, ch. 8, art. 57
+
+</details>
+
+
+## ANNEXE
+
+(article 48)
+
+Cour fédéraleentreA.B.DemandeuretSa Majesté la ReineDéfenderesseDÉCLARATION*Exposé des faits*(*Exposer convenablement les faits invoqués par le demandeur à l’appui de sa demande.*)*Réparation visée*En conséquence, le demandeur requiert :a)b)Fait à  ... , le  ...(*Signature*)Avocat du demandeur(*ou le demandeur en personne s’il agit lui-même*)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. F-7, ann.; 2002, ch. 8, art. 58
+
+</details>
+
+
+## DISPOSITIONS CONNEXES
+
+### — L.R. (1985), ch. 30 (2^e^ suppl.), par. 61(2)
+
+### 61 Application de la modification
+
+(2) Le paragraphe (1) ne s’applique qu’aux affaires à l’égard desquelles l’audition devant la Commission d’appel des pensions n’a lieu qu’après l’entrée en vigueur du présent article.
+
+### — L.R. (1985), ch. 51 (4^e^ suppl.), art. 24
+
+### 24 Instances devant la Cour fédérale
+
+L’entrée en vigueur du présent article n’a pas pour effet de dessaisir la Cour fédérale des appels interjetés ou des autres procédures intentées en vertu de la *Loi de l’impôt sur le revenu* ou de la *Loi de l’impôt sur les revenus pétroliers* — y compris les modifications qui leur sont apportées aux termes de l’alinéa 165(7)b) de la *Loi de l’impôt sur le revenu* —, en instance devant elle et qui, en l’absence du présent article, relèveraient de la Cour canadienne de  l’impôt; ces procédures sont traitées comme si la présente loi et les articles 13 à 26 et 45 de la *Loi modifiant la Loi sur la Cour canadienne de l’impôt et d’autres lois en conséquence*, chapitre 61 des Lois du Canada de 1988, n’avaient pas été édictés.
+
+### — L.R. (1985), ch. 51 (4^e^ suppl.), art. 26
+
+### 26 Appels en instance
+
+(1) Les appels interjetés et les procédures intentées en vertu de la *Loi de l’impôt sur le revenu* ou de la *Loi de l’impôt sur les revenus pétroliers* — y compris les modifications qui leur sont apportées aux termes de l’alinéa 165(7)*b*) de la *Loi de l’impôt sur le revenu* — et en instance devant la Cour canadienne de l’impôt le jour de l’entrée en vigueur du présent article sont entendus comme si la présente loi et les articles 13 à 26 et 45 de la *Loi modifiant la Loi sur la Cour canadienne de l’impôt et d’autres lois en conséquence*, chapitre 61 des Lois du Canada de 1988, n’avaient pas été édictés.
+
+***Loi de l’impôt sur le revenu***
+
+(2) Il demeure entendu que les appels visés au paragraphe (1) sont entendus et font l’objet d’une décision, et que les droits et obligations qui en découlent, existent en conformité des dispositions qui suivent de la *Loi de l’impôt sur le revenu*, dans leur version antérieure à l’entrée en vigueur du présent article : l’article 164, les paragraphes 165(3), (4) et (7) et 167(4) et (5), les articles 170 et 171, les paragraphes 172(1) à (3) et 173(1) et (2), les articles 174 à 178 et 179.1 et les paragraphes 225.1(3) à (5), 230(6), 239(4) et 247(3).
+
+### — L.R. (1985), ch. 51 (4^e^ suppl.), art. 27
+
+### 27 Appels à la Cour fédérale
+
+L’appel d’une décision rendue dans un appel interjeté ou une procédure intentée devant la Cour canadienne de l’impôt au titre de la *Loi de l’impôt sur le revenu* ou de la *Loi de l’impôt sur les revenus pétroliers* avant l’entrée en vigueur du présent article doit être interjeté devant la Section de première instance de la Cour fédérale comme si la présente loi et les articles 13 à 26 et 45 de la *Loi modifiant la Loi sur la Cour canadienne de l’impôt et d’autres lois en conséquence*, chapitre 61 des Lois du Canada de 1988, n’avaient pas été édictés.
+
+### — L.R. (1985), ch. 51 (4^e^ suppl.), art. 28
+
+### 28 Règles
+
+Les règles de pratique de la Cour canadienne de l’impôt en application à la date d’entrée en vigueur du présent article sont, sauf incompatibilité avec la présente loi, maintenues pour les appels et procédures visés par les articles 18, 18.29 ou 18.3 de la *Loi sur la Cour canadienne de l’impôt*, édictés par l’article 5, ainsi que pour les procédures au sujet desquelles la Cour canadienne de l’impôt a fait droit à une requête aux termes du paragraphe 18.33(1) de cette loi, édicté par l’article 5, jusqu’à ce qu’elles soient abrogées ou modifiées en application de l’article 20 de cette loi.
+
+### — L.R. (1985), ch. 51 (4^e^ suppl.), art. 29
+
+### 29 Règles de pratique de la Section de première instance de la Cour fédérale
+
+Les dispositions législatives ainsi que les règles et ordonnances régissant la pratique devant la Section de première instance de la Cour fédérale qui sont compatibles avec la présente loi et la *Loi sur la Cour canadienne de l’impôt* et en vigueur à la date d’entrée en vigueur du présent article s’appliquent, compte tenu des adaptations de circonstance, aux appels interjetés et aux procédures intentées devant la Cour canadienne de l’impôt, sauf les appels qui sont visés aux articles 26, 28 et 30, jusqu’à ce qu’elles soient modifiées ou abrogées en application de l’article 20 de la *Loi sur la Cour canadienne de l’impôt*.
+
+### — L.R. (1985), ch. 51 (4^e^ suppl.), art. 30
+
+### 30 Règles
+
+Les dispositions législatives ainsi que les règles et ordonnances régissant la pratique devant le Tribunal d’appel des pensions à la date d’entrée en vigueur du présent article s’appliquent, compte tenu des adaptations de circonstance, aux appels et à toutes les procédures devant le Tribunal d’appel des pensions visés à la partie I du *Régime de pensions du Canada* jusqu’à ce qu’elles soient modifiées ou abrogées en application de l’article 20 de la *Loi sur la Cour canadienne de l’impôt*.
+
+### — 2002, ch. 8, par. 185(1) à (7)
+
+### 185 Juge en chef de la Cour fédérale
+
+(1) La personne qui occupe le poste de juge en chef de la Cour fédérale du Canada à l’entrée en vigueur de l’article 1 de la présente loi reste en fonctions à titre de juge en chef de la Cour d’appel fédérale.
+
+**Juge en chef adjoint de la Cour fédérale**
+
+(2) La personne qui occupe le poste de juge en chef adjoint de la Cour fédérale du Canada à l’entrée en vigueur de l’article 1 de la présente loi reste en fonctions à titre de juge en chef de la Cour fédérale.
+
+**Juges de la Section d’appel**
+
+(3) Les personnes qui occupent le poste de juge ou de juge surnuméraire de la Section d’appel de la Cour fédérale du Canada à l’entrée en vigueur de l’article 1 de la présente loi restent en fonctions à titre de juge ou de juge surnuméraire, selon le cas, de la Cour d’appel fédérale.
+
+**Juges de la Section de première instance**
+
+(4) Les personnes qui occupent le poste de juge ou de juge surnuméraire de la Section de première instance de la Cour fédérale du Canada à l’entrée en vigueur de l’article 1 de la présente loi restent en fonctions à titre de juge ou de juge surnuméraire, selon le cas, de la Cour fédérale.
+
+**Protonotaires**
+
+(5) Les personnes qui occupent les postes de protonotaire, protonotaire en chef et protonotaire en chef adjoint de la Cour fédérale du Canada à l’entrée en vigueur de l’article 1 de la présente loi, restent respectivement en fonctions à titre de protonotaire, protonotaire en chef et protonotaire adjoint de la Cour fédérale.
+
+**Shérifs**
+
+(6) Les personnes qui occupent les postes de shérifs ou de shérifs adjoints de la Cour fédérale du Canada à l’entrée en vigueur de l’article 1 de la présente loi, restent respectivement en fonctions à titre de shérifs ou de shérifs adjoints de la Cour d’appel fédérale et de la Cour fédérale.
+
+**Commissaires**
+
+(7) Les personnes qui, à l’entrée en vigueur de l’article 1 de la présente loi, avaient le pouvoir de faire prêter serment et de recevoir des affidavits et des déclarations ou affirmations solennelles en application du paragraphe 54(2) de la *Loi sur la Cour fédérale* ont le pouvoir, au Canada ou à l’étranger, de faire prêter serment et de recevoir des affidavits et des déclarations ou affirmations solennelles lors ou à l’occasion de toute procédure actuelle ou éventuelle devant la Cour fédérale ou la Cour d’appel fédérale en application du paragraphe 54(2) de la *Loi sur les Cours fédérales*.
+
+### — 2002, ch. 8, par. 185(13) et (14)
+
+### 185 Lettres patentes
+
+(13) Peuvent être délivrées sous l’autorité du gouverneur en conseil à chacune des personnes mentionnées aux paragraphes (1) à (4), (8) et (9) des lettres patentes portant le grand sceau et établissant qu’elles occupent leur poste en vertu du présent article.
+
+**Postes**
+
+(14) La présente loi ne change rien à la situation des fonctionnaires qui, à l’entrée en vigueur de l’article 1 de la présente loi, occupaient un poste à la Cour fédérale du Canada ou à la Cour canadienne de l’impôt ou faisait partie de leur personnel, à la différence près que, à compter de cette date, ils l’occupent au Service administratif des tribunaux judiciaires, sous l’autorité de l’administrateur en chef du Service.
+
+### — 2002, ch. 8, art. 187
+
+### 187 Règles concernant certains appels
+
+(1) Les appels interjetés aux termes du paragraphe 27(1.2) de la *Loi sur les Cours fédérales* sont, jusqu’à ce que soient prises des règles concernant ces appels, régis par les dispositions des *Règles de la Cour fédérale (1998)* s’appliquant aux demandes de révision judiciaire visées à l’article 28 de cette loi, avec les adaptations nécessaires.
+
+**Maintien des dispositions du droit et des règles**
+
+(2) Les dispositions du droit et des règles et ordonnances régissant la pratique et la procédure devant la Cour fédérale du Canada qui sont en vigueur à l’entrée en vigueur de l’article 1 de la présente loi demeurent en vigueur, dans la mesure où elles ne sont pas incompatibles avec les dispositions de celle-ci, jusqu’à ce qu’elles soient modifiées, abrogées ou qu’il en ait été autrement disposé.
+
+### — 2002, ch. 8, art. 188
+
+### 188 Continuation des procédures
+
+Toute procédure engagée devant la Cour fédérale du Canada à l’entrée en vigueur de l’article 1 de la présente loi est continuée conformément à la *Loi sur les Cours fédérales*.
+
+### — 2002, ch. 8, art. 191
+
+### 191 Règles antérieures
+
+Les règles établies en vertu de l’article 46 de la *Loi sur la Cour fédérale* avant l’entrée en vigueur de l’article 44 de la présente loi sont réputées avoir été établies validement et s’appliquent comme si elles avaient été établies en vertu de l’article 46 de la *Loi sur les Cours fédérales*, tel que modifié par l’article 44 de la présente loi.
+
+### — 2013, ch. 40, art. 440
+
+### 440 Demande de contrôle judiciaire
+
+Si la décision d’un arbitre de grief, au sens du paragraphe 2(1) de la *Loi sur les relations de travail dans la fonction publique*, fait l’objet d’une demande de contrôle judiciaire présentée avant la date d’entrée en vigueur du paragraphe 366(1) de la présente loi, cette demande se poursuit comme si ce paragraphe n’était pas entré en vigueur.
+
+### — 2014, ch. 39, art. 329
+
+### 329 Traitement
+
+Malgré l’article 10.1 de la *Loi sur les juges*, un protonotaire de la Cour fédérale n’a droit, pour la période commençant le 1^er^ avril 2012 et se terminant à l’entrée en vigueur du présent article, qu’à la différence entre le traitement visé à cet article 10.1 et tout traitement payé ou à payer à celui-ci pour la même période en application de la *Loi sur les Cours fédérales*.
+
+### — 2014, ch. 39, art. 330
+
+### 330 Choix
+
+(1) Un protonotaire de la Cour fédérale qui exerçait cette charge à l’entrée en vigueur du présent article continue d’être réputé appartenir à la fonction publique pour l’application de la *Loi sur la pension de la fonction publique* comme si le paragraphe 12(5) de la *Loi sur les Cours fédérales* n’était pas abrogé, s’il en fait le choix par notification écrite au président du Conseil du Trésor dans les six mois suivant l’entrée en vigueur du présent article. La notification est signée par le protonotaire.
+
+**Choix irrévocable**
+
+(2) Un choix effectué en vertu du paragraphe (1) est irrévocable.
+
+**Aucun choix — aucune période de service préalable ouvrant droit à pension**
+
+(3) Si le protonotaire n’effectue pas de choix en vertu du paragraphe (1) et si, avant d’exercer cette charge, il ne comptait pas à son crédit une période de service ouvrant droit à pension pour l’application de la *Loi sur la pension de la fonction publique* :
+
+- a) il cesse d’être réputé appartenir à la fonction publique, à la date d’entrée en vigueur du présent article, pour l’application de cette loi;
+
+- b) il n’a droit à aucun remboursement des contributions qu’il a versées au titre de cette loi pour toute période durant laquelle il exerçait cette charge;
+
+- c) il n’a droit à aucun remboursement de contributions au titre du paragraphe 12(3) de cette loi à l’égard de toute période durant laquelle il exerçait cette charge;
+
+- d) la période durant laquelle il exerçait cette charge ne compte pas comme service ouvrant droit à pension pour l’application de cette loi;
+
+- e) s’il a effectué un choix en vertu du paragraphe 51(1) de cette loi, il est réputé ne l’avoir jamais fait;
+
+- f) le paragraphe 51(2) de cette loi ne s’applique pas à lui.
+
+**Aucun choix — période de service préalable ouvrant droit à pension**
+
+(4) Si le protonotaire n’effectue pas de choix en vertu du paragraphe (1) et si, avant d’exercer cette charge, il comptait à son crédit une période de service ouvrant droit à pension pour l’application de la *Loi sur la pension de la fonction publique* :
+
+- a) il cesse d’être réputé appartenir à la fonction publique, à la date d’entrée en vigueur du présent article, pour l’application de cette loi;
+
+- b) il n’a droit à aucun remboursement de contributions qu’il a versées au titre de cette loi à l’égard de toute période durant laquelle il exerçait cette charge;
+
+- c) la période durant laquelle il exerçait cette charge avant la date d’entrée en vigueur du présent article ne compte pas comme service ouvrant droit à pension pour l’application de cette loi, à l’exception des articles 12 et 13 de cette loi;
+
+- d) malgré le paragraphe 69(3) de cette loi, pour l’application de l’article 69 de cette loi, l’année ou le mois de sa retraite est l’année ou le mois, selon le cas, de sa nomination à titre de protonotaire;
+
+- e) pour l’application de la partie II de cette loi, son traitement est son traitement dans la fonction publique le jour précédant sa nomination à titre de protonotaire, exprimé sous forme de taux annuel.
+
+### — 2021, ch. 23, art. 238
+
+### 238 Définitions
+
+Les définitions qui suivent s’appliquent au présent article et aux articles 239 à 243.
+
+**ancienne loi** La *Loi sur le ministère de l’Emploi et du Développement social*, dans sa version antérieure à la date d’entrée en vigueur de la présente section. (**former Act**)
+
+**division d’appel** La division d’appel du Tribunal. (**Appeal Division**)
+
+**division générale** La division générale du Tribunal. (**General Division**)
+
+**nouvelle loi** La *Loi sur le ministère de l’Emploi et du Développement social*, dans sa version à la date d’entrée en vigueur de la présente section. (**new Act**)
+
+**section de la sécurité du revenu** La section de la sécurité du revenu de la division générale du Tribunal. (**Income Security Section**)
+
+**Tribunal** Le tribunal de la sécurité sociale constitué par l’article 44 de la *Loi sur le ministère de l’Emploi et du Développement social*. (**Tribunal**)
+
+### — 2021, ch. 23, art. 239
+
+### 239 Précision  — application immédiate
+
+Sous réserve des articles 240 à 242, il est entendu que la nouvelle loi s’applique à l’égard des demandes ou appels qui sont en cours à la date d’entrée en vigueur de la présente section.
+
+### — 2021, ch. 23, art. 240
+
+### 240 Délai d’appel — rejet sommaire
+
+(1) Il peut être interjeté appel d’une décision rendue par la division générale en vertu de l’article 53 de l’ancienne loi devant la division d’appel dans les quatre-vingt-dix jours suivant la date d’entrée en vigueur de la présente section, et ce, malgré le paragraphe 56(1) de la nouvelle loi, sans qu’il soit nécessaire d’obtenir une permission.
+
+**Appel de la décision — rejet sommaire**
+
+(2) L’appel d’une décision rendue par la division générale en vertu de l’article 53 de l’ancienne loi qui était en cours à la date d’entrée en vigueur de la présente section et l’appel interjeté au titre du paragraphe (1) sont traités par la division d’appel conformément aux paragraphes 58(1) et 59(1) de l’ancienne loi. L’article 58.3 de la nouvelle loi ne s’applique pas à ces appels.
+
+**Cour fédérale**
+
+(3) Malgré l’alinéa 28(1)g.1) de la *Loi sur les Cours fédérales*, la Cour fédérale a compétence pour connaître des demandes de contrôle judiciaire des décisions de la division d’appel concernant les appels interjetés au titre du paragraphe 53(3) de l’ancienne loi ou au titre du paragraphe (1).
+
+**Contrôle judiciaire**
+
+(4) Si, à la suite d’un contrôle judiciaire visé au paragraphe (3), la Cour fédérale renvoie une affaire à la division d’appel, cette affaire est traitée conformément aux paragraphes 58(1) et 59(1) de l’ancienne loi. L’article 58.3 de la nouvelle loi ne s’applique pas à cette affaire.
+
+### — 2021, ch. 23, art. 241
+
+### 241 Demande présentée au titre de l’article 66 de l’ancienne loi
+
+(1) Toute demande présentée au titre de l’article 66 de l’ancienne loi qui est en cours devant la division générale ou la division d’appel à la date d’entrée en vigueur de la présente section est traitée conformément à cet article 66.
+
+**Renvoi à la division générale**
+
+(2) Si, à la suite de l’appel d’une décision rendue par la division générale au titre de l’article 66 de l’ancienne loi, la division d’appel renvoie l’affaire à la division générale, cette affaire est traitée conformément à cet article 66.
+
+**Permission d’en appeler — décision rendue au titre de l’article 66 de l’ancienne loi**
+
+(3) Toute demande de permission d’en appeler d’une décision de la division générale présentée au titre de l’article 66 de l’ancienne loi est traitée par la division d’appel conformément aux paragraphes 58(1) et (2) de l’ancienne loi.
+
+**Appel — décision rendue au titre de l’article 66 de l’ancienne loi**
+
+(4) Si la permission d’en appeler est accordée, l’appel est traité conformément aux paragraphes 58(1) et 59(1) de l’ancienne loi et, dans le cas où la division d’appel rend la décision que la division générale aurait dû rendre en vertu de ce paragraphe 59(1), l’appel est traité conformément à l’article 66 de l’ancienne loi. L’article 58.3 de la nouvelle loi ne s’applique pas à cet appel.
+
+**Contrôle judiciaire — permission d’en appeler**
+
+(5) Si, à la suite d’un contrôle judiciaire d’une décision de la division d’appel visée au paragraphe (3), la Cour fédérale renvoie l’affaire à la division d’appel, cette affaire est traitée par cette division conformément aux paragraphes 58(1) et (2) de l’ancienne loi.
+
+**Contrôle judiciaire — appels**
+
+(6) Si, à la suite d’un contrôle judiciaire d’une décision de la division d’appel visée au paragraphe (4), la Cour d’appel fédérale renvoie l’affaire à la division d’appel, cette affaire est traitée par cette division conformément aux paragraphes 58(1) et 59(1) de l’ancienne loi et, dans le cas où la division d’appel rend la décision que la division générale aurait dû rendre en vertu de ce paragraphe 59(1), cette affaire est traitée conformément à l’article 66 de l’ancienne loi. L’article 58.3 de la nouvelle loi ne s’applique pas à cette affaire.
+
+### — 2021, ch. 23, art. 242
+
+### 242 Permission d’en appeler — section de la sécurité du revenu
+
+(1) Toute demande de permission d’en appeler d’une décision rendue par la section de la sécurité du revenu qui est en cours à la date d’entrée en vigueur de la présente section est traitée par la division d’appel conformément aux paragraphes 58(1) et (2) de l’ancienne loi.
+
+**Appel en cours**
+
+(2) L’appel d’une décision rendue par la section de la sécurité du revenu qui était en cours à la date d’entrée en vigueur de la présente section et l’appel qui découle d’une demande de permission d’en appeler visée au paragraphe (1) à laquelle il est fait droit sont traités conformément aux paragraphes 58(1) et 59(1) de l’ancienne loi, et l’article 58.3 de la nouvelle loi ne s’applique pas à ces appels.
+
+**Cour fédérale — avant l’entrée en vigueur**
+
+(3) Si, à la suite d’un contrôle judiciaire, la Cour fédérale renvoie à la division d’appel une affaire concernant une décision de la section de la sécurité du revenu qui avait été traitée par cette division en vertu du paragraphe 58(3) de l’ancienne loi avant la date d’entrée en vigueur de la présente section, cette affaire est traitée par la division d’appel conformément aux paragraphes 58(1) et (2) de l’ancienne loi.
+
+**Cour fédérale — après la date d’entrée en vigueur**
+
+(4) Si, à la suite d’un contrôle judiciaire, la Cour fédérale renvoie à la division d’appel une affaire concernant une décision de la section de la sécurité du revenu traitée par cette division en vertu du paragraphe 58(3) de l’ancienne loi, autre qu’une affaire visée par le paragraphe 241(5), à compter de la date d’entrée en vigueur de la présente section, cette affaire est traitée conformément à la nouvelle loi.
+
+**Cour d’appel fédérale — avant la date d’entrée en vigueur**
+
+(5) Si, à la suite d’un contrôle judiciaire, la Cour d’appel fédérale renvoie à la division d’appel une affaire concernant une décision rendue par la section de la sécurité du revenu traitée par cette division en vertu du paragraphe 59(1) de l’ancienne loi avant la date d’entrée en vigueur de la présente section, cette affaire est traitée par la division d’appel conformément aux paragraphes 58(1) et 59(1) de l’ancienne loi. L’article 58.3 de la nouvelle loi ne s’applique pas à cette affaire.
+
+**Cour d’appel fédérale — après la date d’entrée en vigueur**
+
+(6) Si, à la suite d’un contrôle judiciaire, la Cour d’appel fédérale renvoie à la division d’appel, à compter de la date d’entrée en vigueur de la présente section, une décision de cette division rendue en vertu du paragraphe 59(1) de l’ancienne loi qui concerne une décision rendue par la section de la sécurité du revenu, autre qu’une affaire visée par le paragraphe 241(6), l’affaire est traitée par la division d’appel conformément à la nouvelle loi.
+
+### — 2021, ch. 23, art. 243
+
+### 243 Interprétation de la modification corrélative à la *Loi sur les Cours fédérales*
+
+Il est entendu que la Cour fédérale a compétence pour connaître des demandes de contrôle judiciaire de décisions rendues par la division d’appel au titre de l’article 58 de l’ancienne loi avant la date d’entrée en vigueur de la présente section.
+
+### — 2022, ch. 10, art. 372
+
+### 372 Protonotaires
+
+Il est entendu que les personnes qui, immédiatement avant la date d’entrée en vigueur du présent article, occupent un poste de protonotaire de la Cour fédérale, de protonotaire surnuméraire de la Cour fédérale, de protonotaire de la Cour canadienne de l’impôt ou de protonotaire surnuméraire de la Cour canadienne de l’impôt restent respectivement en fonction à titre de juge adjoint de la Cour fédérale, de juge adjoint surnuméraire de la Cour fédérale, de juge adjoint de la Cour canadienne de l’impôt ou de juge adjoint surnuméraire de la Cour canadienne de l’impôt.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2023, ch. 26, art. 656
+
+### 656
+
+L’alinéa 28(1)g.1) de la *Loi sur les Cours fédérales* est remplacé par ce qui suit :
+
+### — 2024, ch. 17, art. 412
+
+### 412 2023, ch. 26
+
+Dès le premier jour où l’article 656 de la *Loi n^o^ 1 d’exécution du budget de 2023* et l’article 408 de la présente loi sont tous deux en vigueur, l’alinéa 28(1)g.1) de la *Loi sur les Cours fédérales* est remplacé par ce qui suit :

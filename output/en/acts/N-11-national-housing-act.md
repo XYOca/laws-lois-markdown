@@ -1,0 +1,2171 @@
+---
+title: "National Housing Act"
+long_title: "An Act to promote the construction of new houses, the repair and modernization of existing houses, and the improvement of housing and living conditions"
+chapter: "N-11"
+language: "en"
+type: "act"
+---
+
+# National Housing Act
+
+> An Act to promote the construction of new houses, the repair and modernization of existing houses, and the improvement of housing and living conditions
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *National Housing Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**approved instalment credit agency**[Repealed, R.S., 1985, c. 25 (4th Supp.), s. 1]
+
+**approved lender** means a person designated as an approved lender by the Corporation under section 5; (**prêteur agréé**)
+
+**approved loan**[Repealed, 1999, c. 27, s. 1]
+
+**bank**[Repealed, R.S., 1985, c. 25 (4th Supp.), s. 1]
+
+**borrowers’ charges**[Repealed, R.S., 1985, c. 25 (4th Supp.), s. 1]
+
+**builder** means a person who builds houses for sale or for rent; (**constructeur**)
+
+**condominium unit**[Repealed, 1999, c. 27, s. 1]
+
+**cooperative housing project**[Repealed, 1999, c. 27, s. 1]
+
+**Corporation** means the Canada Mortgage and Housing Corporation established by the *Canada Mortgage and Housing Corporation Act*; (**Société**)
+
+**cost of construction** means the aggregate of
+  - (a) the cost or appraised value of the land, whichever is the lesser, or, in the case of land acquired by gift or devise, the appraised value of the land,
+  - (b) actual expenditure for building,
+  - (c) the architectural, legal and other expenses and carrying charges necessary to complete the house or housing project,
+  - (d) where work is done by the owner, such amount as the Corporation may fix as the value of the work, and
+  - (e) land development costs and carrying charges; (**coût de construction**)
+
+**cost of construction of a family housing unit**[Repealed, 1999, c. 27, s. 1]
+
+**cost of conversion**[Repealed, 1999, c. 27, s. 1]
+
+**designated area**[Repealed, 1999, c. 27, s. 1]
+
+**family housing unit** means a unit providing therein living, sleeping, eating, food preparation and sanitary facilities for one family, with or without other essential facilities shared with other family housing units; (**logement familial**)
+
+**family of low income** means a family that receives a total family income that, in the opinion of the Corporation, is insufficient to permit it to rent housing accommodation adequate for its needs at the current rental market in the area in which the family lives; (**famille à faible revenu**)
+
+**farm**[Repealed, 1999, c. 27, s. 1]
+
+**guaranteed home improvement loan**[Repealed, R.S., 1985, c. 25 (4th Supp.), s. 1]
+
+**home improvement loan**[Repealed, R.S., 1985, c. 25 (4th Supp.), s. 1]
+
+**house** means a building or movable structure, or any part thereof, that is intended for human habitation and contains not more than two family housing units, together with any interest in land appurtenant to the building, movable structure or part thereof; (**maison**)
+
+**housing project** means
+  - (a) any building or movable structure, or any part thereof, that is intended for human habitation,
+  - (b) any property that is intended to be improved, converted or developed to provide housing accommodation or services in support of housing accommodation, or
+  - (c) any property that is associated with housing accommodation, including, without limiting the generality of the foregoing, land, buildings and movable structures, and public, recreational, commercial, institutional and parking facilities; (**ensemble d’habitation**)
+
+**Indian**[Repealed, 1999, c. 27, s. 1]
+
+**Indian band**[Repealed, 1999, c. 27, s. 1]
+
+**insured loan** means a loan that is insured by the Corporation under Part I; (**prêt assuré**)
+
+**lender**[Repealed, 1999, c. 27, s. 1]
+
+**lending value**[Repealed, 1999, c. 27, s. 1]
+
+**limited-dividend housing company** means a company incorporated to construct, hold and manage a low-rental housing project, the dividends payable by which are limited by the terms of its charter or instrument of incorporation to five per cent per annum or less; (**société immobilière à dividendes limités**)
+
+**low-rental housing project** means a housing project undertaken to provide decent, safe and sanitary housing accommodation, complying with standards approved by the Corporation, to be leased to families of low income or to such other persons as the Corporation,
+  - (a) in its discretion, in the case of a housing project owned by it, or
+  - (b) under agreement with the owner, in the case of a housing project not owned by it,
+designates, having regard to the existence of a condition of shortage, overcrowding or congestion of housing; (**ensemble d’habitation HLM** ou **HLM**)
+
+**metropolitan area** means a city together with one or more adjacent municipalities in close economic relationship with the city; (**communauté urbaine**)
+
+**Minister** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; (**ministre**)
+
+**mortgage**[Repealed, 1999, c. 27, s. 1]
+
+**multiple-family dwelling**[Repealed, 1999, c. 27, s. 1]
+
+**municipality** means an incorporated city, metropolitan area, town, village, county, township, district, rural municipality or other municipality; (**municipalité**)
+
+**non-profit corporation** means a corporation, no part of the income of which is payable to or is otherwise available for the personal benefit of any proprietor, member or shareholder thereof; (**association personnalisée**)
+
+**official community plan** means a master plan of community development and land utilization prepared by a local planning authority and legally adopted by or on behalf of a municipality; (**plan d’urbanisme**)
+
+**one-family dwelling**[Repealed, R.S., 1985, c. 25 (4th Supp.), s. 1]
+
+**owner**[Repealed, 1999, c. 27, s. 1]
+
+**person** includes a group of persons, an organization, a municipality or a department or agency of the government of Canada or of a province; (**personne**)
+
+**regulation**[Repealed, 2012, c. 19, s. 350]
+
+**rent reduction fund**[Repealed, 1999, c. 27, s. 1]
+
+**rental housing project** means a housing project occupied or intended to be occupied primarily by a person other than the owner. (**ensemble d’habitation locatif**)
+
+**reserve**[Repealed, 1999, c. 27, s. 1]
+
+**semi-detached dwelling**[Repealed, R.S., 1985, c. 25 (4th Supp.), s. 1]
+
+**title**[Repealed, R.S., 1985, c. 25 (4th Supp.), s. 1]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 2; R.S., 1985, c. 20 (2nd Supp.), s. 7, c. 25 (4th Supp.), s. 1; 1992, c. 1, s. 142, c. 32, s. 5; 1994, c. 35, s. 38; 1999, c. 27, s. 1; 2012, c. 19, s. 350
+
+</details>
+
+### 2.1 Debts treated as loans
+
+(1) For the purposes of this Act, a transaction by which a person becomes indebted to a creditor is to be treated as the making of a loan from the creditor to the person.
+
+**Persons treated as owner**
+
+(2) If the Corporation is of the opinion that the circumstances so warrant, a lessee, a purchaser under an agreement or an occupant may be treated as an owner for the purposes of this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, c. 27, s. 2
+
+</details>
+
+## Purpose
+
+### 3 Purpose
+
+The purpose of this Act, in relation to financing for housing, is to promote housing affordability and choice, to facilitate access to, and competition and efficiency in the provision of, housing finance, to protect the availability of adequate funding for housing at low cost, and generally to contribute to the well-being of the housing sector in the national economy.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 3; 1992, c. 32, s. 6; 1999, c. 27, s. 2
+
+</details>
+
+## Rights and Obligations of the Corporation
+
+### 4 Her Majesty has rights and obligations of the Corporation
+
+Every right or obligation acquired or incurred by the Corporation under this Act, whether in its name or in the name of Her Majesty, is a right or obligation of Her Majesty.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 4
+
+</details>
+
+### 4.1
+
+[Repealed, 1999, c. 27, s. 3]
+
+## Approved Lenders
+
+### 5 Designation
+
+(1) The Corporation may designate any person as an approved lender for the purposes of this Act.
+
+**Term of designation**
+
+(2) The designation of an approved lender and any renewal of that designation are in force for any period that the Corporation may specify.
+
+**Conditions and restrictions**
+
+(3) The Corporation may, at any time, establish conditions and restrictions applicable to an approved lender.
+
+**Suspension**
+
+(4) The Corporation may, at any time, suspend or cancel the designation of an approved lender.
+
+**Fees**
+
+(5) The Corporation may establish schedules of fees payable by approved lenders in relation to their designation and supervision.
+
+**Regulations**
+
+(6) The Governor in Council may, on the recommendation of the Minister of Finance, make regulations respecting the designation of approved lenders, including regulations establishing criteria that a person must meet in order to be so designated.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 5; R.S., 1985, c. 25 (4th Supp.), s. 2; 1999, c. 27, s. 3; 2011, c. 15, s. 22
+
+</details>
+
+### 6 Powers of approved lenders
+
+(1) Subject to subsection (2), an approved lender who is subject to the jurisdiction of Parliament may, notwithstanding any restrictions on the power of the lender contained in any other statute or law,
+
+- (a) make loans on such terms and conditions as are provided for by or under this Act;
+
+- (b) acquire from the Corporation any secured obligation in favour of the Corporation that is to be insured or guaranteed by the Corporation after it is acquired;
+
+- (c) dispose of or acquire insured loans together with the security taken in respect of those loans;
+
+- (d) pledge an insured loan with the Corporation or an approved lender to secure the repayment of money borrowed, and borrow money from the Corporation or an approved lender on the security of an insured loan;
+
+- (e) administer an insured loan for and on behalf of the holder of the loan; and
+
+- (f) on such terms and conditions as are specified by the Corporation, act as agent for the Corporation in the exercise of any of the Corporation’s powers and functions under Part I and in the making or administering of loans that the Corporation is authorized to make.
+
+**Restriction of powers**
+
+(2) The Corporation may restrict the powers that an approved lender may exercise under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 6; 1999, c. 27, s. 3
+
+</details>
+
+## Housing Loan Insurance, Guarantee and Protection
+
+### 7 Definitions
+
+The following definitions apply in this Part.
+
+**Chairperson of the Canada Deposit Insurance Corporation**[Repealed, 2016, c. 7, s. 171]
+
+**Commissioner of the Financial Consumer Agency of Canada** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the *Financial Consumer Agency of Canada Act*. (**commissaire de l’Agence de la consommation en matière financière du Canada**)
+
+**Governor of the Bank of Canada** means the Governor of the Bank of Canada appointed under section 6 of the *Bank of Canada Act*. (**gouverneur de la Banque du Canada**)
+
+**housing loan** means a loan that
+  - (a) relates to a housing project;
+  - (b) is secured at least in part by security on or affecting a housing project or by an agreement relating to the use, occupancy or disposal of a housing project;
+  - (c) is made for the purpose of acquiring a financial interest in a person who, directly or indirectly, owns, leases or operates a housing project; or
+  - (d) is made for the purpose of refinancing a debt that the Corporation is of the opinion relates to a housing project or to a financial interest referred to in paragraph (c). (**prêt à l’habitation**)
+
+**Superintendent** means the Superintendent of Financial Institutions appointed under section 5 of the *Office of the Superintendent of Financial Institutions Act*. (**surintendant**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 7; R.S., 1985, c. 25 (4th Supp.), s. 3; 1992, c. 32, s. 8(F); 1999, c. 27, s. 3; 2012, c. 19, s. 351; 2016, c. 7, s. 171
+
+</details>
+
+### 7.1 Objects
+
+The Corporation has the following objects in carrying on any activities under this Part or Part I.1:
+
+- (a) to promote the efficient functioning and competitiveness of the housing finance market;
+
+- (b) to promote and contribute to the stability of the financial system, including the housing market; and
+
+- (c) to have due regard to the Corporation’s exposure to loss.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 351
+
+</details>
+
+### 8 Insurance of loans
+
+(1) The Corporation may provide insurance against risks relating to housing loans.
+
+**For whose benefit**
+
+(2) For lenders, the purpose of insuring housing loans is to indemnify lenders in the event of default by borrowers. The obligations of borrowers or other persons are not released or discharged by that insurance or indemnification.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 8; R.S., 1985, c. 25 (4th Supp.), s. 4; 1999, c. 27, s. 3
+
+</details>
+
+### 8.1 Regulations — Minister of Finance
+
+(1) The Minister of Finance may, after consulting the Governor of the Bank of Canada and the Superintendent, make regulations respecting classes of housing loans and the criteria to be met by loans in each of those classes in order for the Corporation to be able to provide insurance against risks relating to those loans.
+
+**Criterion  — guarantee**
+
+(1.1) Any criterion established by a regulation made under subsection (1) that relates to a guarantee of payment referred to in subsection 14(1) may apply to an existing insured loan.
+
+**Coming into force**
+
+(2) A regulation made under this section comes into force on the day on which it is published in the *Canada Gazette* or on any later day that is specified in the regulation unless the regulation provides otherwise and it gives effect to a budgetary or other public announcement, in which case the regulation must not come into force before the day on which the announcement was made.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 25 (4th Supp.), s. 5; 1999, c. 27, s. 3; 2011, c. 15, s. 23; 2012, c. 19, s. 357; 2014, c. 20, s. 316
+
+</details>
+
+### 8.2 Fees for risk exposure
+
+The Minister of Finance may fix a fee to be paid by the Corporation to the Receiver General to compensate Her Majesty for Her exposure to the risks covered by Her agent the Corporation arising from the insurance relating to housing loans. That Minister shall notify the Corporation in writing of the fee.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, c. 15, s. 23
+
+</details>
+
+### 9 Payments by Corporation for completion
+
+If the Corporation has insured a loan that has been provided to finance the completion of work relating to, or the supply of materials for, a housing project and the work has not been completed, the materials have not all been supplied or the work or materials have not been fully paid for, the Corporation may make loans or payments for the completion of the work or the supply of the materials or for the satisfaction of claims in respect of the project.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 9; R.S., 1985, c. 25 (4th Supp.), s. 6; 1999, c. 27, s. 3
+
+</details>
+
+### 10 Avoiding or curing defaults
+
+(1) The Corporation may make payments to approved lenders or to holders of insured loans, and may make loans or payments to borrowers or their assignees, for the purpose of avoiding or curing, in whole or in part, default under insured loans or facilitating variation of the terms of payment of insured loans, or for any other purposes that the Corporation considers appropriate to protect its interest as an insurer.
+
+**Subrogation**
+
+(2) If the Corporation makes a payment to an approved lender or holder of an insured loan under subsection (1), the Corporation is subrogated, to the extent of the amount of the payment, to all the rights and interests of the lender or holder in respect of that amount, and may maintain an action in respect of those rights and interests in the name of the lender or holder or in the name of the Corporation. Any money recovered by the lender or holder must first be applied against money owing to the lender or holder on account of the insured loan.
+
+**Waiver**
+
+(3) The Corporation may waive the right of subrogation referred to in subsection (2).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 10; R.S., 1985, c. 20 (2nd Supp.), s. 8, c. 25 (4th Supp.), s. 7; 1999, c. 27, s. 3
+
+</details>
+
+### 11 Maximum total
+
+Despite anything in this Act, the total of the outstanding insured amounts of all insured loans may not exceed the sum of
+
+- (a) eight hundred billion dollars, and
+
+- (b) any additional amounts authorized by Parliament under an appropriation Act or other Act of Parliament on or after the day on which the *Budget Implementation Act, 2024, No. 1* receives royal assent.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 11; 1992, c. 32, s. 9; 1999, c. 27, s. 3
+- 2020, c. 5, s. 47
+- 2024, c. 17, s. 150
+
+</details>
+
+### 11.1
+
+[Repealed, 2024, c. 17, s. 151]
+
+### 11.2 and 11.3
+
+[Repealed, 1999, c. 27, s. 3]
+
+### 12 Administration of housing loans
+
+The Corporation may administer a housing loan by agreement with the holder of the loan.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 12; R.S., 1985, c. 25 (4th Supp.), s. 9; 1992, c. 32, s. 11; 1999, c. 27, s. 3
+
+</details>
+
+### 13 Corporation may lend
+
+The Corporation may make a housing loan in any of the following circumstances:
+
+- (a) where the loan would otherwise not be available to the borrower;
+
+- (b) where the Corporation intends to
+  - (i) make a contribution to the borrower,
+  - (ii) make another loan, or advances on another loan, to the borrower, or
+  - (iii) forgive any indebtedness of the borrower to the Corporation; or
+
+- (c) where the Corporation is a party to an agreement respecting the operation of the housing project to which the loan relates.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 13; R.S., 1985, c. 25 (4th Supp.), s. 9; 1992, c. 32, s. 12; 1999, c. 27, s. 3
+
+</details>
+
+### 14 Guarantee
+
+(1) The Corporation may — with the Minister of Finance’s approval and on any terms or conditions that are specified by him or her — guarantee payment of any or all of the principal or interest, or both, in respect of securities issued on the basis of housing loans. The terms and conditions may, among others, relate to the amount and price of the guarantee, the characteristics of the securities to be guaranteed and the manner in which the securities are to be issued.
+
+**Regulations — Governor in Council**
+
+(2) The Governor in Council may, on the Minister of Finance’s recommendation, make regulations respecting the characteristics of those who may issue or sell the securities.
+
+**Regulations — Minister of Finance**
+
+(3) The Minister of Finance may make regulations respecting the characteristics of the housing loans.
+
+**Compensation**
+
+(4) The Minister of Finance may fix a fee to be paid by the Corporation to the Receiver General to compensate Her Majesty for Her exposure to the risks arising from a guarantee referred to in subsection (1). That Minister shall notify the Corporation in writing of the fee.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 14; R.S., 1985, c. 25 (4th Supp.), s. 9; 1992, c. 32, s. 13; 1999, c. 27, s. 3; 2012, c. 19, s. 352
+
+</details>
+
+### 14.1 Prohibition
+
+It is prohibited for the Corporation to guarantee payment of any or all of the principal or interest, or both, in respect of a covered bond as defined in section 21.5.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 25 (4th Supp.), s. 9; 1999, c. 27, s. 3; 2012, c. 19, s. 353
+
+</details>
+
+### 14.2 to 14.8
+
+[Repealed, 1999, c. 27, s. 3]
+
+### 15 Maximum total
+
+(1) Despite anything in this Act other than subsection (2), the total of the outstanding guaranteed amounts of principal for all issues of securities in respect of which guarantees that have been given under section 14 are in force may not exceed the total amount provided for in section 11.
+
+**Maximum total — other Acts**
+
+(2) The total of the outstanding guaranteed amounts of principal may not exceed the amount authorized by Parliament under an appropriation Act or other Act of Parliament.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 15; 1999, c. 27, s. 3; 2012, c. 19, s. 354
+
+</details>
+
+### 15.1
+
+[Repealed, 1999, c. 27, s. 3]
+
+### 16 Interest rate protection
+
+The Corporation may provide protection against the effects of changes in interest rates for housing loans.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 16; R.S., 1985, c. 25 (4th Supp.), s. 11; 1992, c. 32, s. 19; 1999, c. 27, s. 3
+
+</details>
+
+### 17 Dealing in obligations by Corporation
+
+The Corporation may
+
+- (a) acquire housing loans or interests in housing loans;
+
+- (b) make loans to the holders of housing loans;
+
+- (c) sell any obligation held by the Corporation and may, under an agreement made with the purchaser, continue to administer the obligation; and
+
+- (d) issue securities based on housing loans.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 17; R.S., 1985, c. 25 (4th Supp.), s. 12; 1992, c. 32, s. 20; 1999, c. 27, s. 3
+
+</details>
+
+### 17.1 Mortgage insurance
+
+The Corporation may provide the liquidator of a company, society or foreign company within the meaning of subsection 2(1) of the *Insurance Companies Act* with services in relation to the company’s, society’s or foreign company’s mortgage insurance business, and it may acquire some or all of the company’s, society’s or foreign company’s mortgage insurance policies or reinsure some or all of its mortgage insurance policies.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2007, c. 6, s. 440
+
+</details>
+
+### 18 Reinsurance
+
+(1) The Corporation may obtain reinsurance with respect to the risk covered by the Corporation in respect of any insurance, guarantee or other protection provided by the Corporation under this Part.
+
+**Payment to Receiver General**
+
+(2) The Corporation may pay to the Receiver General amounts determined in accordance with the Corporation’s corporate plan approved under section 122 of the *Financial Administration Act* to compensate Her Majesty for Her exposure to the risks covered under this Part by Her agent the Corporation. Those amounts are, for the Corporation, expenses of carrying on business under this Part.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 18; R.S., 1985, c. 25 (4th Supp.), s. 12; 1992, c. 32, s. 21; 1999, c. 27, s. 3.
+
+</details>
+
+### 19 Terms and conditions
+
+Subject to any regulations made under this Part, the Corporation may
+
+- (a) set the terms and conditions on which it exercises any powers or functions under this Part, including terms and conditions relating to the payment of claims in respect of any insurance, guarantee or other protection provided by the Corporation under this Part; and
+
+- (b) establish schedules of premiums, fees and charges for anything done in the exercise of any powers or functions of the Corporation under this Part.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 19; R.S., 1985, c. 25 (4th Supp.), s. 13; 1992, c. 32, s. 22; 1999, c. 27, s. 3; 2012, c. 19, s. 355
+
+</details>
+
+### 20 Agents
+
+The Corporation may authorize an approved lender to act as agent for the Corporation in the exercise of any of its powers or functions under this Part, including in a situation involving a loan made or administered by the lender.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 20; R.S., 1985, c. 25 (4th Supp.), s. 14; 1999, c. 27, s. 3
+
+</details>
+
+### 20.1 and 20.2
+
+[Repealed, 1999, c. 27, s. 3]
+
+### 21 Establishment of funds
+
+(1) The Corporation must establish and maintain funds to provide for claims, losses, expenditures and costs relating to the conduct of its business under this Part.
+
+**Corporate plan**
+
+(2) The Corporation’s corporate plan required under section 122 of the *Financial Administration Act* must contain a proposal that the Corporation’s profits from the conduct of its business under this Part that are not credited to a fund established under subsection (1) be used for one or more of the following purposes:
+
+- (a) the capitalization of the Corporation’s business under this Part;
+
+- (b) the payment of a dividend to the Consolidated Revenue Fund;
+
+- (c) the purposes of this Act or the *Canada Mortgage and Housing Corporation Act* or any other purpose authorized by Parliament relating to housing; and
+
+- (d) retention.
+
+**Implementation of proposal**
+
+(3) The Corporation is authorized to implement a proposal referred to in subsection (2) after the proposal is approved under section 122 of the *Financial Administration Act* as part of the Corporation’s corporate plan.
+
+**Non-application**
+
+(4) Section 29 of the *Canada Mortgage and Housing Corporation Act* does not apply to profits from the conduct of the Corporation’s business under this Part.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 21; R.S., 1985, c. 25 (4th Supp.), s. 16; 1992, c. 32, s. 25; 1995, c. 47, s. 1; 1999, c. 27, s. 3
+
+</details>
+
+### 21.1 Obligation to retain information, books and records
+
+(1) The Corporation shall keep and retain books and records, and retain information, in respect of its activities under this Part and Part I.1, including any books, records or information that are prescribed by regulation.
+
+**Obligation to provide information or copies**
+
+(2) At the request of the Minister of Finance, the Corporation shall, without delay, provide that Minister with any information or copies of any books or records that it is required to retain.
+
+**Power to disclose**
+
+(3) The Minister of Finance may disclose to the Superintendent, the Governor of the Bank of Canada, the Chief Executive Officer of the Canada Deposit Insurance Corporation and the Commissioner of the Financial Consumer Agency of Canada any information or copies of any books or records received under subsection (2).
+
+**Public information**
+
+(4) The Corporation shall make available to the public the books, records and information that are prescribed by regulation.
+
+**Regulations**
+
+(5) The Governor in Council may, on the Minister of Finance’s recommendation, make regulations respecting the manner in which books and records are to be kept and retained, the manner in which information is to be retained and the manner in which books, records and information are to be made available to the public.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 8 (1st Supp.), s. 1, c. 25 (4th Supp.), s. 17(E); 1999, c. 27, s. 3; 2011, c. 15, s. 24; 2012, c. 19, s. 358; 2016, c. 7, s. 172
+
+</details>
+
+### 21.2 Examination or inquiry
+
+(1) The Superintendent, from time to time but at least once in each calendar year, shall make or cause to be made any examination or inquiry that the Superintendent considers to be necessary or expedient to determine whether the Corporation is carrying on any or all of its activities under this Part and Part I.1 in a safe and sound manner, including whether it is carrying on those activities with due regard to its exposure to loss.
+
+**Access to records**
+
+(2) For the purposes of the examination or inquiry, the Superintendent or a person acting under his or her direction
+
+- (a) has a right of access to any books or records that are held by or on behalf of the Corporation in respect of its activities; and
+
+- (b) may require the Corporation’s directors, officers and auditors to provide information and explanations to the Superintendent, to the extent that they are reasonably able to do so, in respect of the Corporation’s activities.
+
+**Report to Corporation and Ministers**
+
+(3) The Superintendent shall report the results of the examination or inquiry, including any recommendations, to
+
+- (a) the Corporation’s board of directors; and
+
+- (b) the Minister and the Minister of Finance.
+
+**Proposal in corporate plan**
+
+(4) The Corporation’s corporate plan that is required under section 122 of the *Financial Administration Act* must contain a proposal indicating how the Corporation will address the recommendations.
+
+**Obligation to provide information or copies**
+
+(5) At the request of the Superintendent, the Corporation shall, without delay, provide him or her with any information or copies of any books or records that it is required to retain in respect of its activities under this Part and Part I.1.
+
+**Confidentiality**
+
+(6) Subject to any other provision of this Act, all information in respect of the Corporation’s activities under this Part and Part I.1, including regarding a person dealing with the Corporation, that is obtained by the Superintendent or a person acting under his or her direction is confidential and shall be treated accordingly.
+
+**Power to disclose**
+
+(7) The Superintendent may disclose any information or copies of any books or records that are received under this Part or Part I.1 to
+
+- (a) the Minister and the Minister of Finance;
+
+- (b) the Governor of the Bank of Canada;
+
+- (c) the Chief Executive Officer of the Canada Deposit Insurance Corporation; and
+
+- (d) the Commissioner of the Financial Consumer Agency of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 8 (1st Supp.), s. 1; 1999, c. 27, s. 3; 2011, c. 15, s. 24; 2012, c. 19, s. 358; 2016, c. 7, s. 173
+
+</details>
+
+### 21.3 Superintendent to ascertain expenses
+
+(1) The Superintendent shall, before December 31 in each year, ascertain the total amount of expenses incurred during the preceding fiscal year in connection with the administration of section 21.2.
+
+**Obligation to pay**
+
+(2) The Corporation shall pay the amount within 30 days after the day on which the Superintendent notifies it in writing of the amount.
+
+**Fiscal year**
+
+(3) For the purpose of subsection (1), the fiscal year is the period beginning on April 1 in one year and ending on March 31 in the next year.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 8 (1st Supp.), s. 1, c. 25 (4th Supp.), s. 18; 1992, c. 32. s. 26; 1999, c. 27, s. 3; 2011, c. 15, s. 24; 2012, c. 19, s. 358
+
+</details>
+
+### 21.4 Regulations
+
+The Governor in Council may, on the Minister of Finance’s recommendation, make regulations respecting the Corporation’s activities under this Part, including regulations
+
+- (a) respecting the conditions and limitations to which those activities are subject;
+
+- (b) respecting the terms and conditions on which and manner in which the Corporation may exercise its powers under this Part; and
+
+- (c) prescribing anything that is to be prescribed by this Part.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 8 (1st Supp.), s. 1, c. 25 (4th Supp.), s. 19; 1992, c. 32. s. 27; 1999, c. 27, s. 3; 2011, c. 15, s. 24; 2012, c. 19, s. 358
+
+</details>
+
+## Covered Bonds
+
+### Definitions
+
+### 21.5 Definitions
+
+The following definitions apply in this Part.
+
+**affiliate** means an affiliate as defined in section 2 of the *Bank Act*. (**groupe**)
+
+**covered bond** means, except in paragraph 21.53(b), a debt obligation in relation to which the principal and interest owing are guaranteed to be paid from the loans or other assets held by a guarantor entity. (**obligation sécurisée**)
+
+**covered bond collateral** means the loans or other assets that secure the payment of principal, interest and any other amounts owing in relation to the covered bonds that are issued under a registered program. (**garantie d’obligations sécurisées**)
+
+**derivatives agreement** means a financial agreement whose obligations are derived from, referenced to, or based on, one or more underlying reference items. (**contrat dérivé**)
+
+**guarantor entity** means an entity that is created and organized for the principal purpose of holding loans or other assets as the covered bond collateral for a registered program with the intention of legally isolating those loans or other assets from the registered issuer. (**societé garante**)
+
+**registered issuer** means an institution that is registered in the registry under section 21.53. (**émetteur inscrit**)
+
+**registered program** means a program that is registered in the registry under section 21.55. (**programme inscrit**)
+
+**registry** means the registry established under section 21.51. (**registre**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 8 (1st Supp.), s. 1; 1992, c. 32, s. 28; 1999, c. 27, s. 3; 2012, c. 19, s. 356
+
+</details>
+
+### Establishment of Legal Framework
+
+### 21.51 Registry
+
+(1) The Corporation must establish and maintain a registry containing
+
+- (a) the names and business addresses of registered issuers;
+
+- (b) a list of registered programs and information relating to those programs, including the name of each essential service provider to the guarantor entity;
+
+- (c) a list of registered issuers whose right to issue covered bonds is suspended under subsection 21.62(1) and the reasons for the suspension;
+
+- (d) any other information that, in the Corporation’s opinion, is necessary; and
+
+- (e) any prescribed information.
+
+**Accessible to public**
+
+(2) The Corporation must make the registry accessible to the public through the Internet and by any other means that it considers appropriate.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.52 Application for registration of issuers
+
+(1) Any of the following institutions may apply for registration as a registered issuer:
+
+- (a) a federal financial institution as defined in section 2 of the *Bank Act*; and
+
+- (b) a cooperative credit society that is incorporated and regulated by or under an Act of the legislature of a province.
+
+**Requirements**
+
+(2) The applicant must provide the Corporation, in the time, manner and form required by the Corporation, with the required fees and any information that, in the Corporation’s opinion, is required for the purposes of the registration.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.53 Registration of issuers
+
+The Corporation may register an institution in the registry if
+
+- (a) in the Corporation’s opinion, all of the requirements under this Part have been met; and
+
+- (b) the institution gives an undertaking to not issue any debt obligation that is commonly known as a covered bond except under a registered program.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.54 Application for registration of program
+
+(1) A registered issuer may apply for registration of a program under which covered bonds are to be issued.
+
+**Requirements**
+
+(2) The registered issuer must provide the Corporation, in the time, manner and form required by the Corporation, with the required fees and the information referred to in subsection (3).
+
+**Contents of program**
+
+(3) An application must contain a complete description of the program, including the following information:
+
+- (a) the name of the entity that will act as the guarantor entity and the type of entity;
+
+- (b) a description of the loans or other assets to be held as the covered bond collateral and their value;
+
+- (c) the minimum and maximum ratio required under the program of the value of the covered bonds to be issued to the value of the loans or other assets to be held as covered bond collateral;
+
+- (d) a description of the contractual relationships between the registered issuer and the entity that will act as the guarantor entity;
+
+- (e) the names of all essential service providers to the entity that will act as the guarantor entity, a description of the services to be provided and, if a registered issuer or one of its affiliates is acting as a service provider, the circumstances in which it must be replaced;
+
+- (f) the names of any parties to a derivatives agreement with the entity that will act as the guarantor entity; and
+
+- (g) any other information that, in the Corporation’s opinion, is required.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.55 Registration of programs
+
+The Corporation may register the program in the registry if, in the Corporation’s opinion, all of the requirements under this Part have been met.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.56 Application — issuer or program
+
+(1) The Corporation must notify the applicant in writing of its decision with respect to the application to register the applicant or the program.
+
+**Withdrawal of application**
+
+(2) An applicant may withdraw the application for registration by so notifying the Corporation in writing at any time before the day on which the applicant receives notice of the Corporation’s decision.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.57 Deregistration of program
+
+(1) The Corporation may deregister a registered program on the request of the registered issuer only if there are no covered bonds outstanding under the program.
+
+**Deregistration of issuer**
+
+(2) The Corporation may deregister a registered issuer on the request of the issuer only if the issuer has no registered programs.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.58 Conditions and restrictions
+
+The Corporation may, at any time, establish conditions or restrictions applicable to registered issuers and registered programs.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.59 Fees
+
+(1) The Corporation may establish fees for registration applications under subsection 21.52(1) and subsection 21.54(1) as well as other fees to be paid by registered issuers.
+
+**Limitation**
+
+(2) The fees must be established, in accordance with any regulations, to be commensurate with the costs incurred by the Corporation in exercising its powers and performing its duties and functions under this Part.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.6 Eligible assets
+
+(1) Only the following assets may be held as covered bond collateral:
+
+- (a) loans made on the security of residential property that is located in Canada and consists of not more than four residential units; or
+
+- (b) any prescribed assets.
+
+**Substitute assets**
+
+(2) Despite subsection (1), covered bond collateral may include securities that are issued by the Government of Canada and any prescribed assets.
+
+**Maximum ratio**
+
+(3) Unless regulations have been made under paragraph 21.66(g), the value of the assets described in subsection (2) must not exceed 10 per cent of the total value of the loans or other assets held as covered bond collateral.
+
+**Exceptions**
+
+(4) Despite subsections (1) and (2), the following loans must not be held as covered bond collateral:
+
+- (a) a loan made on the security of residential property if the loan is insured by the Corporation;
+
+- (b) a loan made on the security of residential property if the loan is insured and that insurance is protected under the *Protection of Residential Mortgage or Hypothecary Insurance Act*; and
+
+- (c) a loan made on the security of residential property if the amount of the loan, together with the amount then outstanding of any mortgage or hypothecary loan having an equal or prior claim against the property, exceeds 80 per cent of the value of the property at the time of the loan.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, ss. 356, 366
+
+</details>
+
+### 21.61 Confidentiality
+
+(1) Subject to any other provision of this Part or Part I, any information that is collected by the Corporation under this Part is confidential and must be treated accordingly.
+
+**Use of information**
+
+(2) Information that is collected by the Corporation under this Part must be used by the Corporation only for the purpose for which it is collected.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.62 Suspension
+
+(1) The Corporation may suspend the right of a registered issuer to issue further covered bonds under a registered program.
+
+**Notice**
+
+(2) In the case where the Corporation decides to suspend that right, it must provide the registered issuer with a written notice of and the reasons for the intended suspension, no later than 30 days before the day on which the suspension is to take effect.
+
+**Copies to regulator**
+
+(3) The Corporation must provide a copy of the notice and reasons to,
+
+- (a) in the case of a federal financial institution as defined in section 2 of the *Bank Act*, the Superintendent of Financial Institutions appointed under subsection 5(1) of the *Office of the Superintendent of Financial Institutions Act*; and
+
+- (b) in the case of a cooperative credit society incorporated and regulated by or under an Act of the legislature of a province, the body that regulates that society.
+
+**Revoking suspension**
+
+(4) The Corporation may revoke a suspension and, in that case, must provide the registered issuer with written notice of the revocation of the suspension.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### Bankruptcy and Insolvency Protection
+
+### 21.63 Covered bonds
+
+Nothing in any law of Canada or a province relating to bankruptcy or insolvency, or any order of a court made in relation to a reorganization, arrangement or receivership involving bankruptcy or insolvency, prevents or prohibits the following actions from being taken in accordance with the provisions of contracts relating to covered bonds that are issued under a registered program:
+
+- (a) the making of any payments, including a payment to a registered issuer;
+
+- (b) the netting or setting off or compensation of obligations;
+
+- (c) any dealing with covered bond collateral, including
+  - (i) the sale or foreclosure or, in Quebec, the surrender of covered bond collateral, and
+  - (ii) the setting off or compensation of covered bond collateral or the application of the proceeds or value of covered bond collateral; and
+
+- (d) the termination of those contracts.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.64 Transfer not voidable and not subject to remedies
+
+Despite anything in any law of Canada or a province relating to bankruptcy or insolvency, or any order of a court made in relation to a reorganization, arrangement or receivership involving bankruptcy or insolvency, the transfer of loans or other assets to a guarantor entity — to be held as covered bond collateral — by a registered issuer, any of its affiliates or any prescribed entity
+
+- (a) is effective against every person;
+
+- (b) is not voidable or, in Quebec, annullable;
+
+- (c) is not subject to any other remedies available to creditors of the registered issuer; and
+
+- (d) does not constitute a fraudulent conveyance, unjust preference or other reviewable transaction.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### 21.65 Non-application
+
+Sections 21.63 and 21.64 do not apply to contracts relating to covered bonds that are issued under a registered program, nor to the transfer of loans or other assets to a guarantor entity to be held as covered bond collateral for those covered bonds, if those covered bonds are issued by a registered issuer during the period in which its right to issue covered bonds has been suspended under section 21.62.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+### Regulations
+
+### 21.66 Regulations
+
+The Minister of Finance may make regulations for carrying out the purposes and provisions of this Part, including regulations
+
+- (a) excluding, from the definition **covered bond**, certain debt obligations;
+
+- (b) excluding, from the definition **covered bond collateral**, certain payments from the guarantor entity to the registered issuer;
+
+- (c) establishing requirements that an institution, or a program under which covered bonds are to be issued, must meet to be registered in the registry;
+
+- (d) respecting applications made under section 21.52 or 21.54;
+
+- (e) respecting cost recovery for the purposes of section 21.59;
+
+- (f) establishing additional requirements with respect to the loans referred to in paragraph 21.6(1)(a);
+
+- (g) respecting the circumstances in which guarantor entities may hold the assets described in subsection 21.6(2) and, according to each circumstance, the maximum ratio of the value of those assets relative to the total value of the loans or other assets being held as covered bond collateral; and
+
+- (h) prescribing anything that is to be prescribed under this Part.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 356
+
+</details>
+
+## Housing for Rental Purposes
+
+### 22 Contractual guarantee of return from rental housing project
+
+(1) The Corporation may enter into contracts with builders of rental housing projects to guarantee in each contract a financial return from a rental housing project after its completion in an amount to be determined by the Corporation for a total period of not more than thirty years.
+
+**Undertaking to enter into contract**
+
+(2) The Corporation may give to a builder an undertaking that the Corporation will enter into a contract with the builder under subsection (1) if the builder builds a rental housing project.
+
+**Terms and conditions**
+
+(3) The Corporation may determine the terms and conditions on which it enters into a contract in respect of a rental housing project under subsection (1), including, without limiting the generality of the foregoing,
+
+- (a) fees with respect to any guarantee referred to in subsection (1);
+
+- (b) conditions with respect to the operation or occupancy of the project;
+
+- (c) restrictions on the disposal, leasing or charging of the project or any part of it or interest in it;
+
+- (d) limits on the amount of the financial return that may be made from the project; and
+
+- (e) provisions giving the Corporation the right to direct the use of any amount received in excess of any limits referred to in paragraph (d).
+
+**Consent to assign**
+
+(4) A contract referred to in subsection (1) is personal to the builder of the rental housing project to which the contract relates and may be assigned to a subsequent owner of the rental housing project only with the written consent of the Corporation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 22; 1992, c. 32, s. 29; 1999, c. 27, s. 4
+
+</details>
+
+### 23 Loans for rental housing projects
+
+(1) Any approved lender who is subject to the jurisdiction of Parliament may, notwithstanding any restrictions on the power of the lender to lend or invest money contained in any other statute or law,
+
+- (a) make loans for rental housing projects in respect of which an undertaking has been given by the Corporation under subsection 22(2) or the financial return has been guaranteed by the Corporation under section 22; and
+
+- (b) dispose of or acquire loans made for rental housing projects in respect of which the financial return has been guaranteed by the Corporation under section 22, together with any security taken in respect of the guarantee.
+
+**Terms and conditions**
+
+(2) A loan may be made under paragraph (1)(a) only with the approval of the Corporation and on such terms and conditions as may be determined by the Corporation.
+
+**Restriction of powers**
+
+(3) The Corporation may restrict the powers that an approved lender may exercise under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 23; 1992, c. 32, s. 30; 1999, c. 27, s. 4
+
+</details>
+
+### 24 Corporation may lend
+
+If, in the opinion of the Corporation, a person is unable to obtain a loan described in paragraph 23(1)(a), the Corporation may make a loan to that person on such terms and conditions as may be determined by the Corporation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 24; 1999, c. 27, s. 4
+
+</details>
+
+### 24.1
+
+[Repealed, 1999, c. 27, s. 4]
+
+### 25 Loans, etc., with respect to rental housing projects
+
+(1) The Corporation may make loans and contributions with respect to rental housing projects, make loans to refinance debt that, in the opinion of the Corporation, relates to rental housing projects and forgive amounts owing on those loans.
+
+**Terms and conditions**
+
+(2) The Corporation may determine the terms and conditions on which it makes a loan or contribution or forgives an amount under subsection (1), including, without limiting the generality of the foregoing,
+
+- (a) conditions with respect to the operation or occupancy of a rental housing project;
+
+- (b) restrictions on the disposal, leasing or charging of the project or any part of it or interest in it;
+
+- (c) limits on the amount of the financial return that may be made from the project; and
+
+- (d) provisions giving the Corporation the right to direct the use of any amount received in excess of any limits referred to in paragraph (c).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 25; R.S., 1985, c. 25 (4th Supp.), s. 21; 1991, c. 47, s. 738; 1999, c. 27, s. 4
+
+</details>
+
+### 26 to 31
+
+[Repealed, 1999, c. 27, s. 4]
+
+### 32 Life insurance companies investment
+
+(1) Any life insurance company subject to the jurisdiction of Parliament may, notwithstanding any restriction on the power of the company to lend or invest money contained in any other statute or law,
+
+- (a) subject to the conditions set out in subsection (2), invest its funds, to an aggregate amount not exceeding five per cent of its total assets in Canada, as shown in its most recent annual return filed under section 665 of the *Insurance Companies Act*, in the purchase of land and the construction thereon of a low cost or moderate cost rental housing project, including such buildings or such accommodation for retail stores, shops, offices and other community services, but not including hotels, as the company may deem proper and suitable for the convenience of the tenants of that rental housing project; and
+
+- (b) after investing its funds pursuant to paragraph (a), hold, maintain, repair, alter, demolish, reconstruct, manage, collect or receive income from, sell or convey, in whole or in part, land acquired by means of the investment and the improvements on the land.
+
+**Conditions of investment under subsection (1)**
+
+(2) The conditions under which an investment referred to in subsection (1) may be made are as follows:
+
+- (a) the project shall, in the discretion of the Corporation, be constructed in accordance or in harmony with an official community plan satisfactory to it;
+
+- (b) the project shall be designed to provide housing accommodation for families of low income or moderate income and the Corporation may prescribe a maximum average cost per room or per family housing unit provided thereby, or per person to be accommodated;
+
+- (c) the company shall submit to the Corporation an application in a form to be prescribed by it and accompanied by the following:
+  - (i) a map showing the location of the land and any structures thereon, the purchase of which is deemed by the company to be necessary to the project,
+  - (ii) a plan and specifications prepared by an architect showing the buildings or improvements to be constructed thereon pursuant to the project,
+  - (iii) an estimate of the cost of the entire project prepared by an architect or engineer and approved by the company,
+  - (iv) an estimate of such rentals of the family housing units and the other facilities to be provided as are necessary to assure a minimum return of six per cent per annum on the cost of the entire project after payment of all taxes, insurance, costs of operation and maintenance and an annual amount sufficient to amortize the cost of construction of the project, less the cost of the land, within a period representing the estimated useful life of the project but not in any case exceeding fifty years after the date of completion of the project, and
+  - (v) such other information or material as the Corporation may require; and
+
+- (d) the investment is approved by the Corporation.
+
+**Guarantee to life insurance company**
+
+(3) Where a life insurance company agrees with the Corporation
+
+- (a) to maintain, in relation to a rental housing project in which the company invests under this section, separate books and records satisfactory to the Corporation and open to its inspection at any time,
+
+- (b) to establish, on account of the project, a reserve comprising all net earnings in any year after completion of the project that are in excess of seven per cent per annum on the cost of the project, and
+
+- (c) to repay out of the reserve any advances made by the Corporation under the guarantee given pursuant to this subsection,
+
+the Corporation shall guarantee to the company, for as long as it retains ownership of the whole or any part of the project, a net return in any year after the completion of the project of three per cent per annum of the cost of the project for a period not exceeding the estimated useful life of the project and in any case not exceeding fifty years.
+
+**Definition of **net return in any year****
+
+(4) In this section, **net return in any year** means an amount equal to annual net earnings derived from the project computed by deducting from the total annual revenues therefrom all expenses of the year in respect thereof, including provision for taxes, insurance, repairs and maintenance, interest and an amount sufficient to amortize the cost of construction of the project, including the cost of the land, over the estimated useful life of the project.
+
+**Two or more companies**
+
+(5) Two or more life insurance companies may join in the development, ownership and management of a rental housing project under this section.
+
+**Power of Governor in Council to designate approved lenders**
+
+(6) The Governor in Council may, for the purposes of this section, designate
+
+- (a) an approved lender subject to the jurisdiction of Parliament, to which lender, if designated under this paragraph, subsections (1) to (5) apply, with such modifications as the circumstances require, but the amount of its funds that may be invested shall not exceed five per cent of its assets in Canada or such amount as is approved by the Governor in Council for the purposes of this subsection; and
+
+- (b) an approved lender that is not subject to the jurisdiction of Parliament but is empowered to make investments referred to in this section, to which lender, if designated under this paragraph, subsections (2) to (5) apply, with such modifications as the circumstances require, but the amount of investments in respect of which guarantees may be given under this section shall not exceed five per cent of its assets in Canada or such amount as is approved by the Governor in Council for the purposes of this subsection.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 32; R.S., 1985, c. 18 (3rd Supp.), s. 37; 1991, c. 47, s. 739; 1999, c. 27, s. 5
+
+</details>
+
+### 33 Power of Corporation to determine administrative matters
+
+(1) The Corporation may
+
+- (a) prescribe the manner in which the cost of a rental housing project shall be calculated for the purposes of section 32;
+
+- (b) adjust the cost of a rental housing project in the event of the sale of a portion thereof or an addition thereto;
+
+- (c) prescribe the manner in which the net earnings shall be calculated for the purposes of section 32; and
+
+- (d) take such other measures as the Corporation may deem necessary or desirable to give effect to the purposes or provisions of this section and section 32 and to safeguard the interests of the Corporation.
+
+**Power of insurance company to acquire land**
+
+(2) Prior to the approval of an investment pursuant to paragraph 32(2)(d), a life insurance company subject to the jurisdiction of Parliament may, notwithstanding any restriction on its power to invest money contained in any other statute or law, with the approval of the Corporation, purchase land for the purpose of making an investment under subsections 32(1) and (2) and may hold and manage the land on such terms and conditions as the Corporation may specify.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 18
+
+</details>
+
+### 34 and 35
+
+[Repealed, 1999, c. 27, s. 6]
+
+### 36 and 37
+
+[Repealed, 1992, c. 32, s. 34]
+
+## Land Assembly
+
+### 38 Definition of **investment**
+
+In this Part, **investment** includes the purchase price of land, moneys expended on the installation of services, the laying out and construction of streets, sidewalks and lanes and the development of park areas, public space and facilities appropriate to a residential housing development, and such carrying charges and other expenses incurred by the company in respect of the land as may be approved by the Corporation, including taxes, insurance, repairs and maintenance.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 20
+
+</details>
+
+### 39 Company may invest funds in purchase of land for housing development
+
+(1) Any life insurance, trust or loan company subject to the jurisdiction of Parliament (in this Part called “company”) may, notwithstanding any restriction on the power of the company to lend or invest money contained in any other statute or law,
+
+- (a) subject to the conditions set out in subsection (2), invest its funds in the purchase and improvement of land to be used for a residential housing development to an aggregate amount that, when added to the aggregate amount invested by the company under section 32, does not exceed the limitation on the investment imposed by or pursuant to section 32 or 33; and
+
+- (b) subject to this Part, hold, maintain, repair, alter, demolish, improve, manage, collect or receive income from, sell or convey, in whole or in part, land acquired by means of investment pursuant to paragraph (a) and the improvements on the land.
+
+**Conditions of investment**
+
+(2) The conditions under which an investment referred to in subsection (1) may be made are as follows:
+
+- (a) the land shall, in the opinion of the Corporation, be suitable for a residential housing development;
+
+- (b) the purchase price of the land shall be satisfactory to the Corporation;
+
+- (c) the improvements to be effected and the cost thereof shall be satisfactory to the Corporation;
+
+- (d) the company shall submit to the Corporation an application in a form satisfactory to the Corporation containing such information and accompanied by such material as the Corporation may prescribe;
+
+- (e) the investment shall first be approved in writing by the Corporation; and
+
+- (f) the company shall enter into an agreement with the Corporation in accordance with subsection (3).
+
+**In case of agreement Corporation to guarantee return and interest**
+
+(3) Where a company agrees with the Corporation
+
+- (a) to acquire land and effect improvements thereon in accordance with this Part,
+
+- (b) to maintain, in relation to the land, the expenses incurred in respect thereof, the improvements made thereon and sales made thereof, separate books and records satisfactory to the Corporation and open to its inspection at any time, and
+
+- (c) to sell the land at such price as the Corporation may determine and on such terms and conditions as are satisfactory to the Corporation or as may be set out in the agreement,
+
+the Corporation shall guarantee to the company for as long as it retains ownership of the whole or any part of the land in which an investment is made pursuant to this Part but not longer than the time specified in the agreement, which shall not exceed five years after the date of acquisition of the land by the company, the return of an amount equal to the company’s investment in the land, together with interest thereon at a rate specified in the agreement but not in excess of three per cent per annum compounded annually.
+
+**Further provisions of agreement**
+
+(4) The agreement referred to in subsection (3) may also provide
+
+- (a) that the company shall plan the development of the land in a manner satisfactory to the Corporation and, as a condition of the sale of the land, shall receive an undertaking from the purchaser that any structures erected on the land shall conform to the plan of the area and shall comply with standards of construction prescribed by the Corporation under this Act; and
+
+- (b) for such other measures to be taken by the Corporation and the company as the Corporation may deem necessary or desirable to give effect to the purposes or provisions of this Part and to safeguard the interests of the Corporation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 20
+
+</details>
+
+### 40 Corporation to determine amount of investment and interest and amount recovered
+
+(1) At the end of the time specified in the agreement referred to in subsection 39(3), or when all the land has been sold by the company, whichever is the earlier, the Corporation shall
+
+- (a) determine the aggregate amount of the investment by the company in the land and the interest thereon at the rate specified in the agreement compounded annually; and
+
+- (b) determine the amount recovered by the company out of the land from sales thereof or otherwise.
+
+**When Corporation to pay excess**
+
+(2) If the aggregate amount determined pursuant to paragraph (1)(a) is in excess of the amount determined pursuant to paragraph (1)(b), the Corporation shall pay to the company the amount of the excess and the company shall transfer and convey to the Corporation all the unsold portion of the land.
+
+**When company to pay excess**
+
+(3) If the amount determined pursuant to paragraph (1)(b) is in excess of the amount determined pursuant to paragraph (1)(a), the company shall pay the amount of the excess to the Corporation.
+
+**Companies may join in purchase**
+
+(4) Two or more companies may join in the purchase and improvement of land for a residential housing development under this Part.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 20
+
+</details>
+
+### 41 Governor in Council may designate lenders as companies
+
+(1) The Governor in Council may designate as a company, for the purposes of this Part,
+
+- (a) an approved lender subject to the jurisdiction of Parliament, to which lender, if designated pursuant to this paragraph, sections 38 to 40 apply, with such modifications as the circumstances require, but the amount of its funds that may be invested shall not exceed five per cent of its assets in Canada or such amount as is approved by the Governor in Council for the purposes of this Part; and
+
+- (b) an approved lender that is not subject to the jurisdiction of Parliament, but is empowered to make investments referred to in this Part, to which lender, if designated pursuant to this paragraph, sections 38 to 40 apply, with such modifications as the circumstances require, but the amount of investments in respect of which guarantees may be given under this Part shall not exceed five per cent of its assets in Canada or such amount as is approved by the Governor in Council for the purposes of this Part.
+
+**Regulations**
+
+(2) The Governor in Council may make regulations to provide for any matters concerning which the Governor in Council deems regulations are necessary or desirable to carry out the purposes or provisions of this Part.
+
+**Corporation may take necessary measures**
+
+(3) The Corporation may take such measures as it deems necessary or desirable to give effect to the purposes or provisions of this Part and to safeguard the interests of the Corporation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 20
+
+</details>
+
+## Land Acquisition and Leasing
+
+### 42 Land acquisitions of Corporation
+
+(1) The Corporation may, for the purpose of leasing land at low rentals to non-profit corporations,
+
+- (a) acquire land by way of purchase, lease or otherwise; and
+
+- (b) install services in, and effect improvements to or in respect of, land acquired by it and develop and lay out the land for housing purposes.
+
+**Lease of land by Corporation**
+
+(2) The Corporation may lease land acquired under subsection (1) to non-profit corporations but the rentals charged thereon by the Corporation shall not be less than such amounts as are determined in such manner as may be prescribed by regulation.
+
+(3) and (4) [Repealed, 1992, c. 32, s. 35]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 42; 1992, c. 32, s. 35
+
+</details>
+
+## [Repealed, R.S., 1985, c. 25 (4th Supp.), s. 23]
+
+## Repair, Rehabilitation, Improvement and Conversion of Buildings
+
+### 51 Assistance for repair, etc.
+
+(1) The Corporation may make loans and contributions for the purposes of the repair, rehabilitation, modification, improvement and conversion of housing projects, and may forgive amounts owing on those loans.
+
+**Terms and conditions**
+
+(2) The Corporation may determine the terms and conditions on which it makes a loan or contribution or forgives an amount under subsection (1), including, without limiting the generality of the foregoing,
+
+- (a) conditions with respect to the operation or occupancy of a housing project;
+
+- (b) restrictions on the disposal, leasing or charging of the project or any part of it or interest in it;
+
+- (c) limits on the amount of the financial return that may be made from the project; and
+
+- (d) provisions giving the Corporation the right to direct the use of any amount received in excess of any limits referred to in paragraph (c).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 51; R.S., 1985, c. 20 (2nd Supp.), s. 9; 1992, c. 32, s. 36; 1999, c. 27, s. 7
+
+</details>
+
+### 52 to 55
+
+[Repealed, 1999, c. 27, s. 7]
+
+### 56
+
+[Repealed, 1992, c. 32, s. 39]
+
+## Facilitation of Home Ownership and Occupancy
+
+### 57 Owner-occupier loans, etc.
+
+(1) The Corporation may make loans and contributions in respect of housing projects occupied or intended to be occupied by the owner of the project, acquire an interest or right in such a housing project, make an investment in order to acquire such an interest or right, make loans to refinance debt that, in the opinion of the Corporation, relates to such a housing project, and forgive amounts owing on those loans.
+
+**Terms and conditions**
+
+(2) The Corporation may, with the approval of the Minister of Finance, determine the terms and conditions on which it makes a loan, contribution or investment, acquires an interest or right or forgives an amount under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 57; 1999, c. 27, s. 8
+- 2019, c. 29, s. 312
+
+</details>
+
+### 58 Loans, etc., for housing expenses
+
+(1) The Corporation may make loans and contributions for the purpose of assisting in the payment of, or providing allowances for, expenses that, in the opinion of the Corporation, are related to housing accommodation, and may forgive amounts owing on those loans.
+
+**Terms and conditions**
+
+(2) The Corporation may determine the terms and conditions on which it makes a loan or contribution or forgives an amount under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 58; 1991, c. 47, s. 740; 1999, c. 27, s. 8
+
+</details>
+
+### 59 and 60
+
+[Repealed, 1999, c. 27, s. 8]
+
+### 61 Loans, etc., to cooperative associations
+
+(1) The Corporation may make loans and contributions to cooperative associations and to their members in respect of housing projects, make loans to cooperative associations and their members to refinance debt that, in the opinion of the Corporation, relates to a housing project, and forgive amounts owing on those loans.
+
+**Terms and conditions**
+
+(2) The Corporation may determine the terms and conditions on which it makes a loan or contribution or forgives an amount under subsection (1), including, without limiting the generality of the foregoing,
+
+- (a) conditions with respect to the operation or occupancy of the housing project; and
+
+- (b) restrictions on the disposal, leasing or charging of the project or any part of it or interest in it.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 61; 1999, c. 27, s. 9
+
+</details>
+
+### 62 to 72
+
+[Repealed, 1999, c. 27, s. 9]
+
+## Housing Research, Community Planning and International Support
+
+### 73 Housing investigations and distribution of information
+
+It is the responsibility of the Corporation to cause investigations to be made into housing conditions and the adequacy of existing housing accommodation in Canada or in any part of Canada and to cause steps to be taken for the distribution of information leading to the construction or provision of more adequate and improved housing accommodation and the understanding and adoption of community plans in Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 35
+
+</details>
+
+### 74 General and special powers of Corporation
+
+For the purpose of carrying out its responsibility under this Part, the Corporation may cause
+
+- (a) investigations to be made into housing conditions and the adequacy of existing housing accommodation in Canada or in any part of Canada and into measures that may be taken for the improvement thereof;
+
+- (b) studies to be made of investigations into housing conditions and housing accommodation made elsewhere than in Canada and into measures and plans or proposals taken or adopted or proposed elsewhere than in Canada for the improvement thereof;
+
+- (c) investigations to be made into the factors affecting the cost of construction of housing accommodation and measures that may be taken to secure economies and increased efficiency in such construction;
+
+- (d) plans and designs to be prepared for houses that have a low cost of construction and, in the opinion of the Corporation, will provide suitable accommodation, and arrangements to be made for the sale or distribution of the plans and designs in such manner as the Corporation sees fit;
+
+- (e) information to be prepared and distributed and public lectures to be delivered to promote an understanding of the advisability of, and the principles underlying, land, community and regional planning;
+
+- (f) studies to be made of land utilization and community planning and arrangements to be made for the furnishing of information and advice with regard to the establishment of community planning agencies, and the planning of regional areas, communities and subdivisions, in cooperation with any local or other authority having jurisdiction over community planning and land subdivisions or otherwise with a view to promoting coordination between local community planning and the development of public services; and
+
+- (g) generally such steps to be taken as it may deem necessary or advisable to encourage the development of better housing and sound community planning and to promote construction of housing accommodation that, in its opinion, is sound and economical.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 36
+
+</details>
+
+### 75 Technical research and investigation, etc.
+
+(1) Subject to subsection (2), the Corporation may
+
+- (a) cause to be prepared and undertaken, directly or in cooperation with other departments or agencies of the Government of Canada or the government of any province or with any municipality, university, educational institution or person, programs of technical research and investigation into the improvement and development of methods of construction, standards, materials, equipment, fabrication, planning, designing and other factors involved in the construction or provision of improved housing accommodation in Canada and coordinate those programs or measures referred to in section 74 with other similar programs or measures undertaken in Canada;
+
+- (b) enter into contracts for the production or development of materials, equipment or component parts for houses through the pilot-plant stage of production or development and for the testing of such materials, equipment or component parts;
+
+- (c) undertake publication, and the distribution of publications, coordinating the results of the technical research, investigations and programs referred to in paragraph (a), and the testing referred to in paragraph (b), in such forms as may be most useful to the public or to the building industry;
+
+- (d) conduct competitions to secure plans, designs and specifications suitable, in its opinion, for housing to be constructed at low cost and purchase the plans or otherwise compensate persons taking part in the competitions;
+
+- (e) make available or cause to be made available, in such manner as it deems advisable or in cooperation with any other department or agency of the Government of Canada, with the government of any province or with any university, educational institution or person, any training program or educational facility that, in its opinion, will assist in the construction or designing of family housing units, in land planning or community planning, in the management or operation of housing projects or in the formulation and implementation of housing policy;
+
+- (f) enter into a contract with a manufacturer of plumbing or heating equipment or other component parts of houses for the experimental production of the equipment or component parts in accordance with standardized designs that, in the opinion of the Corporation, may be manufactured or produced at low cost;
+
+- (g) construct housing units for experimental purposes on land owned or to be acquired by the Corporation for the purpose;
+
+- (h) make arrangements with a province or a municipality, with the approval of the government of the province in which that municipality is situated, to conduct special studies relating to the condition of urban areas, to means of improving housing or to the need for additional housing or urban redevelopment;
+
+- (i) undertake or cause to be undertaken projects of an experimental or developmental nature that may assist the Corporation in the formulation and implementation of a housing policy designed to meet the needs of the various communities in Canada; and
+
+- (j) carry out research and planning and provide services and information that relate to the financing of housing, housing affordability and choice, living environments or community planning, or that are intended to contribute to the well-being of the housing sector in the national economy.
+
+**Approval required**
+
+(2) The powers of the Corporation under paragraphs (1)(g) and (i) may be exercised only with the approval of the Governor in Council.
+
+**Underwriting sales**
+
+(3) The Corporation may, with the approval of the Governor in Council, enter into a contract with a manufacturer referred to in paragraph (1)(f) to underwrite the sale, at such price as may be agreed on and specified in the contract, of the equipment or component parts referred to in that paragraph, manufactured or produced for installation or use in homes, if the manufacturer manufactures or produces the equipment or component parts in such volume as may be agreed on and specified in the contract.
+
+**Contracts for sale and distribution**
+
+(4) The Corporation may, with the approval of the Governor in Council, enter into contracts with the manufacturer referred to in subsection (3) or any other person for the sale or distribution, in such manner as it may deem advisable, of the equipment or component parts referred to in that subsection.
+
+**Limitation**
+
+(5) The maximum contingent liability of the Corporation under contracts entered into under subsection (3) shall not at any time exceed ten million dollars, and any amounts required to be paid by the terms of those contracts may be paid under section 29 of the *Financial Administration Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 75; 1999, c. 27, s. 11
+
+</details>
+
+### 76 Agreements and assistance to develop proposals
+
+(1) The Corporation may enter into agreements and make loans and contributions for the development, implementation or financing of proposals that relate to housing projects, housing affordability and choice, living environments or community planning, or that are intended to contribute to the well-being of the housing sector in the national economy, and may forgive amounts owing on those loans.
+
+**Terms and conditions**
+
+(2) The Corporation may determine the terms and conditions on which it enters into an agreement, makes a loan or contribution or forgives an amount under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 76; 1999, c. 27, s. 12
+
+</details>
+
+### 77 Export and international support
+
+(1) The Corporation may
+
+- (a) promote and develop the export of Canadian expertise, research, services and products relating to housing, living environments and community planning; and
+
+- (b) support and participate in the development of, and investigate, housing, housing finance, living environments and community planning outside Canada, either directly or through other persons, including foreign governments or agencies of foreign governments and non-governmental organizations.
+
+**Terms and conditions**
+
+(2) The Corporation may determine the terms and conditions on which it exercises any power or function under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 77; R.S., 1985, c. 25 (4th Supp.), s. 25; 1992, c. 32, s. 41; 1999, c. 27, s. 12
+
+</details>
+
+## Public Housing
+
+### 78 Definition of **public housing agency**
+
+In this Part, **public housing agency** means a corporation that has power to acquire and develop land for a housing project or to construct or acquire and operate a housing project and that is wholly owned by
+
+- (a) the government of a province or an agency thereof;
+
+- (b) one or more municipalities in a province; or
+
+- (c) the government of a province or an agency thereof and one or more municipalities in that province.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 78; 1999, c. 27, s. 13
+
+</details>
+
+### 79 Corporation may undertake projects jointly with provinces
+
+The Corporation may undertake jointly with the government of any province or agency thereof or with any public housing agency projects for
+
+- (a) the acquisition and development of land for housing purposes or for any purpose incidental thereto;
+
+- (b) the construction of housing projects for sale or for rent; and
+
+- (c) the acquisition, improvement and conversion of existing buildings for a housing project.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 79; R.S., 1985, c. 25 (4th Supp.), s. 26; 1992, c. 32, s. 42; 1999, c. 27, s. 13
+
+</details>
+
+### 80 Loans, etc., to provinces, municipalities or public housing agencies
+
+(1) The Corporation may make loans and contributions to a province, municipality or public housing agency for the purpose of assisting that province, municipality or agency to acquire or service land for housing purposes or for any incidental purpose and make loans to refinance debt that the Corporation is of the opinion relates to the acquisition or servicing of land for those purposes, and may forgive amounts owing on those loans.
+
+**Terms and conditions**
+
+(2) The Corporation may determine the terms and conditions on which it makes a loan or contribution or forgives an amount under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 80; 1999, c. 27, s. 13
+
+</details>
+
+### 81 to 83
+
+[Repealed, 1999, c. 27, s. 13]
+
+## New Communities
+
+### Federal-Provincial Agreements
+
+### 84 Joint undertaking agreed by Corporation and province
+
+(1) The Corporation may, pursuant to an agreement made between the Government of Canada and the government of any province, undertake jointly with the government of the province, or an agency or corporation designated in the agreement, a project for
+
+- (a) the acquisition of lands for a new community, including land to be used for transportation corridors linking the community to other communities or for public open space in or around the new community or separating it from any other community;
+
+- (b) the planning of the new community; and
+
+- (c) the designing and installation of utilities and other services that are required for the development of the community and normally publicly owned.
+
+**Conditions under which agreements may be entered into**
+
+(2) No agreement shall be entered into pursuant to this section unless the province indicates its plans for urban growth, including the location, size and order of development of other new communities, and the plans are satisfactory to the Corporation.
+
+**Agreements with provinces**
+
+(3) Notwithstanding section 17 of the *Canada Mortgage and Housing Corporation Act*, an agreement referred to in subsection (1) shall be executed on behalf of the Government of Canada by the Minister with the approval of the Governor in Council and shall
+
+- (a) identify the new community in respect of which a project may be undertaken and designate the agency or corporation that will be responsible for the planning and development of the new community;
+
+- (b) stipulate the measures to be taken to ensure that the public will receive any economic benefits that may be obtained from the lands and services in respect of which an agreement is made under this section; and
+
+- (c) contain such other provisions as are considered necessary or advisable to give effect to the purposes and provisions of this section.
+
+(4) and (5) [Repealed, 1999, c. 27, s. 14]
+
+(6) and (7) [Repealed, 1992, c. 32, s. 43]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 84; 1992, c. 32, s. 43; 1999, c. 27, s. 14
+
+</details>
+
+### Loans
+
+### 85 Loans for new communities
+
+(1) The Corporation may, on the application of a province, and with the approval of the Governor in Council, make a loan to the province, or an agency or a corporation designated by the province, to be used for the purpose of
+
+- (a) acquiring lands for a new community, including land to be used for transportation corridors linking the community to other communities or for public open space in or around the new community or separating it from any other community;
+
+- (b) planning the new community; and
+
+- (c) designing and installing utilities and other services that are required for the development of the community and normally publicly owned.
+
+**Prerequisites for making loan**
+
+(2) No loan shall be made under this section unless
+
+- (a) the province applying for the loan
+  - (i) designates the agency or corporation that will be responsible for the planning and development of the new community, if the loan is to be made to the province and not to that agency or corporation,
+  - (ii) indicates the measures to be taken to ensure that the public will receive any economic benefits that may be obtained from the lands and services in respect of which loans are made under this section, and
+  - (iii) indicates its plans for urban growth, including the location, size and order of development of other new communities; and
+
+- (b) those measures and plans are satisfactory to the Corporation.
+
+(3) [Repealed, 1999, c. 27, s. 15]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 85; 1999, c. 27, s. 15
+
+</details>
+
+### 86 Reduction of indebtedness by forgiving payment
+
+Where the Corporation is satisfied that part of a loan made under section 85 has been used for the purpose of
+
+- (a) planning a new community, or
+
+- (b) acquiring land used for recreational or other community social facilities,
+
+the Corporation may forgive payment by the borrower of an amount not exceeding fifty per cent of the part of the loan that was used for that purpose.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1973-74, c. 18, s. 19
+
+</details>
+
+## Loans for Student Housing Projects
+
+### 87 Definition of **charitable corporation**
+
+In this Part, **charitable corporation** means a corporation constituted exclusively for charitable purposes no part of the income of which is payable to, or is otherwise available for the personal benefit of, any proprietor, member or shareholder of the corporation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 87; 1999, c. 27, s. 16
+
+</details>
+
+### 88 Loans, etc., for student housing projects
+
+(1) Subject to subsection (2), the Corporation may make loans and contributions to provinces or agencies thereof, municipalities or agencies thereof, hospitals, school boards, universities, colleges, cooperative associations or charitable corporations in respect of housing projects for students and their families, and may forgive amounts owing on those loans.
+
+**Provincial approval**
+
+(2) Loans or contributions may be made and amounts owing on those loans may be forgiven under this section only with the approval of the government of the province where the corresponding rental housing project is, or will be, located.
+
+**Exception**
+
+(3) Subsection (2) does not apply to loans and contributions to a province or the forgiving of amounts owing on those loans.
+
+**Terms and conditions**
+
+(4) The Corporation may determine the terms and conditions on which it makes a loan or contribution or forgives an amount under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 88; 1999, c. 27, s. 16
+
+</details>
+
+### 89 and 90
+
+[Repealed, 1999, c. 27, s. 16]
+
+## Community Services
+
+### 91 Contributions for community services
+
+(1) The Corporation may, under such terms and conditions as are determined in accordance with an agreement entered into with a province, pay to the province or any local government authority or body established by or under the law of the province contributions, in respect of each program period defined in the agreement, for the purpose of reimbursing expenditures incurred, or paying for the results obtained, in the provision, development, extension and improvement of such community services as are determined pursuant to the agreement.
+
+**Allocation of contributions**
+
+(2) Contributions pursuant to subsection (1) shall be allocated among local government authorities or bodies declared eligible for those contributions pursuant to and in the manner determined pursuant to the agreement referred to in that subsection.
+
+**Approval by Governor in Council**
+
+(3) An agreement referred to in subsection (1) shall have no force or effect unless it is approved by order of the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1978-79, c. 16, s. 10
+
+</details>
+
+## Housing Development
+
+### 92 Powers of Corporation
+
+(1) The Corporation may
+
+- (a) acquire land or housing projects by way of purchase, lease or otherwise;
+
+- (b) install services in and effect improvements to or in respect of land acquired by it and develop and lay out the land for housing purposes;
+
+- (c) construct, convert or improve housing projects; and
+
+- (d) acquire building materials and equipment and other personal property for use in connection with housing projects.
+
+**Idem**
+
+(2) The Corporation may
+
+- (a) hold, operate, manage, heat, maintain, supervise, alter, renovate, add to, improve, repair, demolish and salvage properties acquired by the Corporation;
+
+- (b) acquire from Her Majesty the leasehold or other interest of Her Majesty in houses or housing projects;
+
+- (c) manage housing projects and provide services related to housing projects;
+
+- (d) obtain the participation of municipalities in housing projects; and
+
+- (e) enter into contracts to carry out and do other acts or things incidental to the purposes of this section.
+
+(3) and (4) [Repealed, R.S., 1985, c. 25 (4th Supp.), s. 27]
+
+**Property subject to *Canada Mortgage and Housing Corporation Act***
+
+(5) Property acquired by the Corporation pursuant to this section and the proceeds of sale thereof and the revenue therefrom are subject to the *Canada Mortgage and Housing Corporation Act*.
+
+(6) [Repealed, R.S., 1985, c. 25 (4th Supp.), s. 27]
+
+(7) [Repealed, 1999, c. 27, s. 18]
+
+(8) and (9) [Repealed, 1992, c. 32, s. 45]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 92; R.S., 1985, c. 25 (4th Supp.), s. 27; 1992, c. 32, s. 45; 1999, c. 27, s. 18
+
+</details>
+
+### 93 Contracts with builders to encourage construction
+
+(1) The Corporation may enter into contracts with builders to encourage the construction of houses to be sold to prospective home owners.
+
+**Conditions under which contracts made to encourage construction**
+
+(2) A contract may be entered into under subsection (1) only with respect to houses the construction of which is assisted by loans made pursuant to this Act, and the contract shall provide that
+
+- (a) the builder shall finance the construction of the houses under the provisions of this Act;
+
+- (b) the builder shall offer each of the houses for sale at a price not in excess of the price fixed in the contract; and
+
+- (c) the Corporation shall, in consideration of the payment by the builder of such amount as the Governor in Council may prescribe, agree that any house built pursuant to the contract and remaining unsold will, within one year after the date of completion thereof, be purchased from the builder by the Corporation at a price fixed in the contract.
+
+**Further conditions**
+
+(3) A contract with a builder entered into under this section may provide
+
+- (a) that, during such period as the Corporation requires, the builder shall offer the houses for sale only to veterans or persons engaged in the production of defence supplies as defined in the *Defence Production Act*; and
+
+- (b) that such other things shall be done as the Corporation deems necessary in order to carry out the intent of this section and to safeguard the interests of the Corporation.
+
+**Definition of **veteran****
+
+(4) For the purpose of this section, “veteran” means a person who had been paid or is entitled to be paid a war service gratuity under the *War Service Grants Act*, chapter W-4 of the Revised Statutes of Canada, 1970, and includes a person who served on active service
+
+- (a) in any of the naval or army forces of Newfoundland or, having been recruited in Newfoundland, in any of the naval, army or air forces raised in Newfoundland by or on behalf of the United Kingdom; or
+
+- (b) in any naval, army or air forces of His Majesty, other than those referred to in paragraph (a), in which the person enlisted when domiciled in Newfoundland.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 93; 1999, c. 27, s. 19(E)
+
+</details>
+
+### 94
+
+[Repealed, 1999, c. 27, s. 20]
+
+### 95 Loans, etc., for capital and operating costs
+
+(1) The Corporation may make loans and contributions to assist with the payment of the capital and operating costs of housing projects, and may forgive amounts owing on those loans.
+
+**Terms and conditions**
+
+(2) The Corporation may determine the terms and conditions on which it makes a loan or contribution or forgives an amount under subsection (1), including, without limiting the generality of the foregoing,
+
+- (a) conditions with respect to the operation or occupancy of a housing project;
+
+- (b) restrictions on the disposal, leasing or charging of the project or any part of it or interest in it;
+
+- (c) limits on the amount of the financial return that may be made from the project; and
+
+- (d) provisions giving the Corporation the right to direct the use of any amount received in excess of any limits referred to in paragraph (c).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 95; R.S., 1985, c. 20 (2nd Supp.), s. 11; 1992, c. 32, s. 46; 1999, c. 27, s. 20
+
+</details>
+
+## General
+
+### 96
+
+(1) and (2) [Repealed, R.S., 1985, c. 25 (4th Supp.), s. 28]
+
+(3) [Repealed, 1992, c. 32, s. 47]
+
+### 97 Condition re sale, etc.
+
+(1) It is a condition of every agreement respecting the operation of a housing project to which the Corporation is a party that the housing project or any part thereof must not, during the term of the agreement and any extension thereof, be
+
+- (a) sold or otherwise disposed of,
+
+- (b) leased for a term of more than three years, or
+
+- (c) charged, in any manner whatever, for the purpose of securing payment of a debt or performance of any obligation,
+
+without the consent of the Corporation, except in such circumstances as are prescribed by regulation.
+
+**Other conditions allowed**
+
+(2) For greater certainty, the condition set out in subsection (1) is in addition to and not in derogation of any other condition required or permitted by this Act.
+
+**Registration of agreement**
+
+(3) Subject to the payment of any applicable fees, the Corporation may, in accordance with the ordinary procedure for registering documents that may affect land or interests in land, cause any agreement respecting the operation of a housing project to which the Corporation is a party to be registered on the title of the housing project.
+
+**Notice**
+
+(4) Registration of any agreement referred to in subsection (3) constitutes notice of the agreement to the same extent as does the registration of any other instrument that affects land or interests in land.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 97; R.S., 1985, c. 25 (4th Supp.), s. 29; 1992, c. 32, s. 48
+
+</details>
+
+### 97.1 Undertaking re contributions, etc.
+
+(1) The Corporation may require that any person who is to benefit from
+
+- (a) a loan from the Corporation with interest at a rate that is lower than the rate
+  - (i) otherwise available on the open market, or
+  - (ii) specified by the Corporation to be the market rate,
+
+- (b) a contribution from the Corporation, or
+
+- (c) forgiveness of any amount by the Corporation
+
+provide the Corporation with an undertaking described in subsection (2).
+
+**Undertaking**
+
+(2) The undertaking referred to in subsection (1) is an undertaking that the person will comply with such operating, residency or other requirements as may be specified by the Corporation and that the person will, as the case may be,
+
+- (a) pay to the Corporation an amount equal to the amount by which the interest the person would have paid in respect of the loan had the interest thereon been the higher rate referred to in subsection (1) exceeds the interest the person actually paid,
+
+- (b) reimburse the Corporation all amounts contributed by the Corporation, or
+
+- (c) pay to the Corporation all amounts forgiven by the Corporation,
+
+if the person fails to comply with any of those requirements.
+
+**Application**
+
+(3) This section applies notwithstanding that the interest rate, contribution or forgiveness is subject to any other condition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, c. 32, s. 48
+
+</details>
+
+### 98
+
+[Repealed, 1999, c. 27, s. 21]
+
+### 99 Provision of services and facilities
+
+The Corporation may provide any service or facility
+
+- (a) for property and land management or development involving housing and for inspecting and appraising property involving housing, to any department, branch or agency of the Government of Canada or any other body established by or pursuant to an Act of Parliament that is ultimately accountable through a minister of the Crown in right of Canada to Parliament for the conduct of its affairs, or to any other body designated by the Governor in Council,
+
+- (b) for inspecting property, to any warrantor whose warranty has been provided, or to a prospective warrantor whose warranty would be provided, under a warranty program recognized by the Corporation, or
+
+- (c) to assist in the cost effective implementation of any federal-provincial housing arrangement,
+
+and the Corporation may charge fees for doing so.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 99; 1992, c. 32, s. 49; 1999, c. 27, s. 22
+
+</details>
+
+### 99.1 Delegation
+
+The Corporation may enter into an agreement with a province or an agency thereof, or with a public housing agency as defined in section 78, providing for the exercise by the province or agency of any power or function of the Corporation specified in the agreement.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 25 (4th Supp.), s. 30
+
+</details>
+
+### 99.2 Fees
+
+The Corporation may determine the amount of, and collect, fees and charges for any services, facilities or products provided by the Corporation under this Act and for any activities carried on by the Corporation under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, c. 27, s. 23
+
+</details>
+
+### 100 Advisory committees
+
+The Corporation may, with the approval of the Minister, for the purpose of assisting it in carrying out its responsibilities under this Act, appoint such advisory committees as it may deem advisable and the Corporation may pay the reasonable travel and living expenses incurred by the members of the advisory committees while attending the meetings thereof.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-10, s. 38
+
+</details>
+
+### 100.1 Financing of Corporation
+
+The Minister shall, out of money from time to time appropriated by Parliament for the purpose, pay to the Corporation the costs and expenses of the Corporation incurred in the administration of Parts IV, VI, VII, IX, X, XI, XII and XIII and sections 25, 92, 95 and 100 and reimburse the Corporation for
+
+- (a) payments made by it as contributions under sections 25, 51, 57, 58, 61, 76, 80, 88, 91 and 95;
+
+- (b) amounts lent and forgiven by it under sections 25, 51, 57, 58, 61, 76, 80, 86, 88 and 95;
+
+- (c) losses sustained by it in respect of loans or guarantees made under Parts II, VI, VII, X, XI and XII and sections 76 and 95, in respect of land leased by it under subsection 42(2), and in respect of the sale or operation of housing projects under section 92;
+
+- (d) losses resulting from purchases made as required by paragraph 93(2)(c);
+
+- (e) any expenditure incurred under or in carrying out the provisions of Part IX and section 100;
+
+- (f) losses sustained by it in respect of projects undertaken by the Corporation under sections 79 and 84;
+
+- (g) its costs and expenses incurred in carrying out an agreement made under section 99.1 or made under section 28.1 of the *Canada Mortgage and Housing Corporation Act*;
+
+- (h) amounts paid by it to reimburse a party to an agreement, made under section 99.1 or made under section 28.1 of the *Canada Mortgage and Housing Corporation Act*, for doing anything for which the Corporation could have been reimbursed under any of paragraphs (a) to (f) if that thing had been done by the Corporation; and
+
+- (i) amounts paid by it to a party to an agreement, made under section 99.1 or made under section 28.1 of the *Canada Mortgage and Housing Corporation Act*, if the party intends to expend those amounts under the agreement in doing something for which the Corporation could have been reimbursed under this section if that thing had been done by the Corporation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, c. 27, s. 24
+
+</details>
+
+### 101 Regulations
+
+The Governor in Council may make regulations generally for carrying out the purposes and provisions of this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 101; 1999, c. 27, s. 24
+
+</details>
+
+### Annual Report
+
+### 102 Report
+
+(1) The Corporation shall, not later than March 31 in each year, make a report to the Minister with respect to the administration of this Act, the loans made under this Act during the preceding calendar year, and the administration of loans made under the *National Housing Act*, chapter 188 of the Revised Statutes of Canada, 1952.
+
+**Tabling**
+
+(2) The Minister shall cause a copy of the report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Minister receives it.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-11, s. 102; R.S., 1985, c. 25 (4th Supp.), s. 31; 1992, c. 32, s. 50(E)
+
+</details>
+
+
+## RELATED PROVISIONS
+
+### — 1992, c. 32, s. 7(2)
+
+### 7 Transitional
+
+(2) Every lender who immediately before the coming into force of subsection (1) was an approved lender is deemed to have been designated as such pursuant to section 4.1 of the said Act, as enacted by subsection (1).
+
+### — 1992, c. 32, s. 20(3)
+
+### 20 Transitional
+
+(3) Any loan referred to in paragraph 97(2)(a) of the said Act, as that paragraph read immediately before July 21, 1988, shall, for the purposes of section 17 of the said Act, be deemed to have been made under subsection 15.1(1) of the said Act.
+
+### — 1992, c. 32, s. 51
+
+### 51 Transitional
+
+(1) Subsections 82(2) and 82.1(1) of the *National Housing Loan Regulations*, as those subsections read immediately before the coming into force of this section, shall continue in force until an amount is specified, or a manner of determining an amount is specified, under paragraph 51(2)(b) of the said Act, as enacted by section 36 of this Act.
+
+**Idem**
+
+(2) Subsections 82(3) and 82.1(2) of the *National Housing Loan Regulations*, as those subsections read immediately before the coming into force of this section, shall continue in force until an amount is specified, or a manner of determining an amount is specified, under section 52 of the said Act, as enacted by section 37 of this Act.
+
+**Idem**
+
+(3) Section 82.2 of the *National Housing Loan Regulations*, as that section read immediately before the coming into force of this section, shall continue in force until an amount is specified, or a manner of determining an amount is specified, under subsection 54(2) of the said Act, as amended by section 38(2) of this Act.
+
+**Idem**
+
+(4) Subsection 82(1) of and Schedule III to the *National Housing Loan Regulations*, as that subsection and Schedule read immediately before the coming into force of this section, shall continue in force only so long as any of subsections 82(2) and (3) and 82.1(1) and (2) and section 82.2 of the said Regulations are in force.
+
+### — 1995, c. 47, s. 2
+
+### 2 Application
+
+This Act applies in respect of the 1994 calendar year and each subsequent calendar year.
+
+### — 1999, c. 27, s. 38
+
+### 38 Provisions continue — agreements
+
+The provisions of the *National Housing Act* and of the *National Housing Loan Regulations* that are in effect immediately before those provisions are amended or repealed by this Act continue to apply in respect of agreements entered into before those provisions are so amended or repealed by this Act, except to the extent that the requirements of those provisions are waived by the Canada Mortgage and Housing Corporation.
+
+### — 1999, c. 27, s. 39
+
+### 39 Provisions continue — obligations to pay or reimburse
+
+The provisions of the *National Housing Act* that are amended or repealed by this Act, and that relate to payments or reimbursements to the Canada Mortgage and Housing Corporation by the Minister designated for the purposes of the *National Housing Act* out of money appropriated from time to time by Parliament or out of the Consolidated Revenue Fund, continue to apply, as they read immediately before being amended or repealed by this Act, in respect of any obligation to make a payment or reimbursement arising under the *National Housing Act* as it reads immediately before those provisions are amended or repealed by this Act.
+
+### — 1999, c. 27, s. 40
+
+### 40 Deemed designation
+
+Every lender who was an approved lender immediately before the day on which this Act is assented to is deemed to have been designated as an approved lender under section 5 of the *National Housing Act*, as enacted by section 3 of this Act.
+
+### — 1999, c. 27, s. 41
+
+### 41 Continuation of funds
+
+(1) Notwithstanding section 3 of this Act, the Canada Mortgage and Housing Corporation may continue, in the manner described in subsection (2), to operate the Mortgage Insurance Fund and the Mortgage-backed Securities Guarantee Fund referred to in sections 16 and 21.3, respectively, of the *National Housing Act* as they read immediately before the day on which this Act is assented to.
+
+**Authority to pay**
+
+(2) The Corporation may make any payments and transfer any assets into and out of the Funds referred to in subsection (1) for the purposes of the *National Housing Act* or the conduct of the business of the Corporation.
+
+### — 2012, c. 19, s. 365
+
+### 365 Guarantees made before section 352 comes into force
+
+A guarantee made by the Canada Mortgage and Housing Corporation under section 14 of the *National Housing Act* before the day on which section 352 of this Act comes into force does not require the Minister’s approval.

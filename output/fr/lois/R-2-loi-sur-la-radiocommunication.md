@@ -1,0 +1,1207 @@
+---
+title: "Loi sur la radiocommunication"
+long_title: "Loi concernant la radiocommunication au Canada"
+chapter: "R-2"
+language: "en"
+type: "act"
+---
+
+# Loi sur la radiocommunication
+
+> Loi concernant la radiocommunication au Canada
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur la radiocommunication*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-2, art. 1; 1989, ch. 17, art. 2
+
+</details>
+
+## Définitions
+
+### 2 Définitions
+
+Les définitions qui suivent s’appliquent à la présente loi.
+
+**alimentation réseau** Radiocommunication soit transmise par l’exploitant d’un réseau à ses affiliés, soit reçue par lui pour retransmission à ceux-ci, soit transmise par un distributeur légitime à une entreprise de programmation. (**network feed**)
+
+**appareil radio** Dispositif ou assemblage de dispositifs destiné ou pouvant servir à la radiocommunication. (**radio apparatus**)
+
+**autorisation de radiocommunication** Toute licence ou autorisation et tout certificat visés à l’alinéa 5(1)a). (**radio authorization**)
+
+**brouillage préjudiciable** Effet non désiré d’une énergie électromagnétique due aux émissions, rayonnements ou inductions qui compromet le fonctionnement d’un système de radiocommunication relié à la sécurité ou qui dégrade ou entrave sérieusement ou interrompt de façon répétée le fonctionnement d’appareils radio ou de matériel radiosensible. (**harmful interference**)
+
+**brouilleur** Tout dispositif ou assemblage de dispositifs qui transmet, émet ou rayonne de l’énergie électromagnétique s’il est conçu pour brouiller ou entraver la radiocommunication ou s’il est susceptible de brouiller ou d’entraver celle-ci, exception faite d’un dispositif ou d’un assemblage de dispositifs pour lequel une norme technique a été fixée en application des alinéas 5(1)d) ou 6(1)a) ou pour lequel une autorisation de radiocommunication a été délivrée. (**jammer**)
+
+**certificat d’approbation technique** Certificat visé au sous-alinéa 5(1)a)(iv). (**technical acceptance certificate**)
+
+**certificat de radiodiffusion** Certificat visé au sous-alinéa 5(1)a)(ii). (**broadcasting certificate**)
+
+**certificat d’opérateur radio** Certificat visé au sous-alinéa 5(1)a)(iii). (**radio operator certificate**)
+
+**communication radiotéléphonique** S’entend de la radiocommunication faite au moyen d’un appareil servant principalement à brancher la communication à un réseau téléphonique public commuté. (**radio-based telephone communication**)
+
+**distributeur légitime** La personne légitimement autorisée, au Canada, à transmettre un signal d’abonnement ou une alimentation réseau, en situation d’encodage, et à en permettre le décodage. (**lawful distributor**)
+
+**encodage** Traitement électronique ou autre visant à empêcher la réception en clair. (**encrypted**)
+
+**entreprise de distribution** S’entend au sens de la *Loi sur la radiodiffusion*. (**distribution undertaking**)
+
+**entreprise de programmation** S’entend au sens de la *Loi sur la radiodiffusion*. (**programming undertaking**)
+
+**entreprise de radiodiffusion** Sont incluses les entreprises de distribution ou de programmation et l’exploitation de réseau auxquelles s’applique la *Loi sur la radiodiffusion*. (**broadcasting undertaking**)
+
+**licence de spectre** Licence visée au sous-alinéa 5(1)a)(i.1). (**spectrum licence**)
+
+**licence radio** Licence visée au sous-alinéa 5(1)a)(i). (**radio licence**)
+
+**matériel brouilleur** Dispositif, appareillage ou matériel — autre qu’un appareil radio — susceptible de brouiller la radiocommunication. (**interference-causing equipment**)
+
+**matériel radiosensible** Dispositif, appareillage ou matériel — autre qu’un appareil radio — dont l’utilisation ou le fonctionnement est contrarié par des émissions de radiocommunication ou peut l’être. (**radio-sensitive equipment**)
+
+**ministre** Le ministre de l’Industrie. (**Minister**)
+
+**opérateur**[Abrogée, 1989, ch. 17, art. 3]
+
+**public** Y sont comprises les personnes qui occupent des appartements ou des chambres d’hôtel, ainsi que des locaux d’habitation situés dans un même immeuble. (**public**)
+
+**radiocommunication** ou **radio** Toute transmission, émission ou réception de signes, de signaux, d’écrits, d’images, de sons ou de renseignements de toute nature, au moyen d’ondes électromagnétiques de fréquences inférieures à 3 000 GHz transmises dans l’espace sans guide artificiel. (**radiocommunication** or **radio**)
+
+**radiodiffusion** Toute radiocommunication dont les émissions sont destinées à être reçues directement par le public en général. (**broadcasting**)
+
+**réseau** S’entend au sens de la *Loi sur la radiodiffusion*. (**network**)
+
+**réseau téléphonique public commuté** Installation de télécommunication qui vise principalement à fournir au public un service téléphonique par lignes terrestres moyennant contrepartie. (**public switched telephone network**)
+
+**signal d’abonnement** Radiocommunication destinée à être reçue, directement ou non, par le public au Canada ou ailleurs moyennant paiement d’un prix d’abonnement ou de toute autre forme de redevance. (**subscription programming signal**)
+
+**station de radiocommunication** ou **station** Lieu où est situé un appareil radio. (**radio station** or **station**)
+
+**télécommunication**[Abrogée, 1993, ch. 38, art. 91]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-2, art. 2; 1989, ch. 17, art. 3; 1991, ch. 11, art. 81; 1993, ch. 38, art. 91, ch. 40, art. 23; 1995, ch. 1, art. 62; 1996, ch. 18, art. 60; 2014, ch. 39, art. 174
+
+</details>
+
+## Application
+
+### 3 Application à Sa Majesté et au Parlement
+
+(1) La présente loi lie Sa Majesté du chef du Canada et de chaque province, le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique, le Service de protection parlementaire et le bureau du directeur parlementaire du budget.
+
+**Exception**
+
+(2) Le gouverneur en conseil peut toutefois, par décret, exempter Sa Majesté du chef du Canada ou tout représentant — désigné dans celui-ci — du Sénat, de la Chambre des communes, de la bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique, du bureau du commissaire aux conflits d’intérêts et à l’éthique, du Service de protection parlementaire ou du bureau du directeur parlementaire du budget de l’application de toute disposition de la présente loi ou de ses règlements. L’exemption peut ou bien être générale ou relative à un ministère ou autre organisme désigné dans le décret, si elle s’applique à Sa Majesté du chef du Canada, ou bien absolue ou conditionnelle ou encore d’application générale ou spécifique.
+
+**Application géographique**
+
+(3) La présente loi s’applique au Canada et à bord :
+
+- a) d’un navire, bâtiment ou aéronef soit immatriculé ou faisant l’objet d’un permis aux termes d’une loi fédérale, soit appartenant à Sa Majesté du chef du Canada ou d’une province, ou placé sous sa responsabilité;
+
+- b) d’un véhicule spatial placé sous la responsabilité de Sa Majesté du chef du Canada ou d’une province, ou de celle d’un citoyen canadien, d’un résident du Canada ou d’une personne morale constituée ou résidant au Canada;
+
+- c) d’une plate-forme, installation, construction ou formation fixée au plateau continental canadien.
+
+**Pouvoirs et fonctions du ministre**
+
+(4) Les pouvoirs ou fonctions conférés au ministre par la présente loi ou ses règlements d’application peuvent être exercés par toute personne qu’il autorise à agir ainsi. Les pouvoirs ou fonctions ainsi exercés sont réputés l’avoir été par lui.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-2, art. 3; L.R. (1985), ch. 4 (3^e^ suppl.), art. 1; 1989, ch. 17, art. 4; 1996, ch. 31, art. 94; 2004, ch. 7, art. 37; 2006, ch. 9, art. 34; 2015, ch. 36, art. 138; 2017, ch. 20, art. 173
+
+</details>
+
+## Interdictions
+
+### 4 Interdictions
+
+(1) Il est interdit, sans une autorisation de radiocommunication et sans en respecter les conditions, d’installer, de faire fonctionner ou de posséder un appareil radio autre :
+
+- a) qu’un appareil exempté au titre d’un règlement pris en application de l’alinéa 6(1)m);
+
+- b) qu’un appareil qui ne peut que recevoir de la radiodiffusion et n’est pas une entreprise de distribution.
+
+**Idem**
+
+(2) Il est interdit de fabriquer, d’importer, de distribuer, de louer, de mettre en vente ou de vendre tout appareil radio, matériel brouilleur ou matériel radiosensible pour lequel un certificat d’approbation technique est exigé au titre de la présente loi, si ce n’est en conformité avec celui-ci.
+
+**Idem**
+
+(3) Il est interdit d’effectuer les activités prévues au paragraphe (2) à l’égard de tout appareil ou matériel qui y est mentionné et qui n’est pas conforme aux normes techniques fixées en application de l’alinéa 6(1)a) auxquelles il est assujetti.
+
+**Autres interdictions**
+
+(4) Il est interdit d’installer, d’utiliser, de posséder, de fabriquer, d’importer, de distribuer, de louer, de mettre en vente ou de vendre un brouilleur.
+
+**Autres interdictions — paragraphe 5.01(1)**
+
+(5) Sous réserve du paragraphe 5.01(2), il est interdit de fabriquer, d’importer, de distribuer, de louer, de mettre en vente, de vendre ou de posséder tout appareil radio, matériel ou dispositif, ou toute composante de matériel ou dispositif — ou toute catégorie d’appareils radio, de matériels ou dispositifs, ou de composantes de matériels ou dispositifs — que le ministre précise en vertu du paragraphe 5.01(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-2, art. 4; 1989, ch. 17, art. 4; 1991, ch. 11, art. 82; 2014, ch. 39, art. 175
+- 2024, ch. 17, art. 380
+
+</details>
+
+## Pouvoirs ministériels
+
+### 5 Pouvoirs ministériels
+
+(1) Sous réserve de tout règlement pris en application de l’article 6, le ministre peut, compte tenu des questions qu’il juge pertinentes afin d’assurer la constitution ou les modifications ordonnées de stations de radiocommunication ainsi que le développement ordonné et l’exploitation efficace de la radiocommunication au Canada :
+
+- a) délivrer et assortir de conditions :
+  - (i) les licences radio à l’égard d’appareils radio, et notamment prévoir les conditions spécifiques relatives aux services pouvant être fournis par leur titulaire,
+  - (i.1) les licences de spectre à l’égard de l’utilisation de fréquences de radiocommunication définies dans une zone géographique déterminée, et notamment prévoir les conditions spécifiques relatives aux services pouvant être fournis par leur titulaire,
+  - (ii) les certificats de radiodiffusion à l’égard de tels appareils, dans la mesure où ceux-ci font partie d’une entreprise de radiodiffusion,
+  - (iii) les certificats d’opérateur radio,
+  - (iv) les certificats d’approbation technique à l’égard d’appareils radio, de matériel brouilleur ou de matériel radiosensible,
+  - (v) toute autre autorisation relative à la radiocommunication qu’il estime indiquée;
+
+- b) modifier les conditions de toute licence ou autorisation ou de tout certificat ainsi délivrés;
+
+- c) mettre à la disposition du public tout renseignement indiqué dans les licences radio ou les certificats de radiodiffusion;
+
+- d) fixer les exigences et les normes techniques à l’égard d’appareils radio, de matériel brouilleur et de matériel radiosensible, ou de toute catégorie de ceux-ci;
+
+- e) planifier l’attribution et l’utilisation du spectre;
+
+- f) approuver l’emplacement d’appareils radio, y compris de systèmes d’antennes, ainsi que la construction de pylônes, tours et autres structures porteuses d’antennes;
+
+- g) procéder à l’essai d’appareils radio pour s’assurer de leur conformité aux normes techniques fixées sous le régime de la présente loi;
+
+- h) exiger que les demandeurs et les titulaires d’autorisations de radiocommunication lui communiquent tout renseignement qu’il estime indiqué concernant l’utilisation — présente et future — de l’appareil radio, ainsi que son coût d’installation et d’entretien;
+
+- i) exiger que ces titulaires l’informent de toute modification importante des renseignements ainsi communiqués;
+
+- j) nommer les inspecteurs pour l’application de la présente loi;
+
+- k) prendre les mesures nécessaires pour assurer, notamment par voie de réglementation internationale, les droits de Sa Majesté du chef du Canada en matière de télécommunications et consulter le Conseil de la radiodiffusion et des télécommunications canadiennes sur les questions qui lui semblent indiquées;
+
+- l) décider de l’existence de tout brouillage préjudiciable et donner l’ordre aux personnes qui possèdent ou contrôlent tout appareil radio, matériel brouilleur ou matériel radiosensible qu’il juge responsable du brouillage de cesser ou de modifier l’exploitation de cet appareil ou de ce matériel jusqu’à ce qu’il puisse fonctionner sans causer de brouillage préjudiciable ou sans en être contrarié;
+
+- m) entreprendre, parrainer, promouvoir ou aider la recherche en matière de radiocommunication, notamment en ce qui touche les aspects techniques de la radiodiffusion;
+
+- n) prendre toute autre mesure propre à favoriser l’application efficace de la présente loi.
+
+**Politique canadienne de télécommunication**
+
+(1.1) Dans l’exercice des pouvoirs prévus au paragraphe (1), le ministre peut aussi tenir compte de la politique canadienne de télécommunication indiquée à l’article 7 de la *Loi sur les télécommunications*.
+
+**Adjudication d’autorisations de radiocommunication**
+
+(1.2) Dans l’exercice du pouvoir qui lui est conféré par l’alinéa (1)a), le ministre peut recourir à un processus d’adjudication pour délivrer des autorisations de radiocommunication.
+
+**Paiements découlant d’une enchère**
+
+(1.3) Lorsque le ministre accepte une enchère dans le cadre d’un processus d’adjudication d’une autorisation de radiocommunication, les sommes payables à Sa Majesté par suite de l’acceptation remplacent les droits fixés par la présente loi ou par toute autre loi relativement à l’autorisation.
+
+**Processus d’adjudication**
+
+(1.4) Le ministre peut établir les formalités, les normes et les modalités applicables au processus d’adjudication visé au paragraphe (1.2) et notamment fixer les mécanismes d’enchère, la mise à prix, les qualités des enchérisseurs, les modalités d’acceptation des enchères, les frais de demande exigibles des enchérisseurs, les exigences de dépôt, les pénalités pour retrait et les calendriers de paiement.
+
+**Obligation**
+
+(1.5) Toute personne qui est assujettie aux formalités, aux normes et aux modalités applicables au processus d’adjudication visé au paragraphe (1.2) est tenue de les respecter.
+
+**Suspension ou annulation de toute autorisation de radiocommunication**
+
+(2) Le ministre peut suspendre ou annuler toute autorisation de radiocommunication dans l’un ou l’autre des cas suivants :
+
+- a) avec le consentement du titulaire;
+
+- b) lorsqu’il est convaincu, après avoir donné un avis écrit au titulaire et accordé la possibilité à celui-ci de lui présenter ses observations à cet égard :
+  - (i) soit que le titulaire a enfreint la présente loi, ses règlements d’application ou les conditions de l’autorisation,
+  - (ii) soit que celle-ci a été obtenue sous de fausses représentations;
+
+- c) après avoir donné un avis écrit de suspension ou d’annulation au titulaire, mais sans nécessairement lui accorder la possibilité de lui présenter ses observations, lorsque le titulaire n’a pas accédé à la demande de verser les droits ou intérêts dus en vertu de l’alinéa 6(1)l).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-2, art. 5; 1989, ch. 17, art. 4; 1993, ch. 38, art. 92; 1996, ch. 18, art. 61; 2014, ch. 39, art. 176
+
+</details>
+
+### 5.01 Paragraphe 4(5) — dispositifs
+
+(1) Pour l’application du paragraphe 4(5), le ministre peut, par arrêté, préciser les appareils radio, les matériels ou dispositifs, ou les composantes de matériels ou dispositifs — ou les catégories d’appareils radio, de matériels ou dispositifs, ou de composantes de matériels ou dispositifs — qui sont, à son avis, compte tenu des circonstances, vraisemblablement utilisés ou destinés à être utilisés en vue d’intercepter et soit d’utiliser, soit de communiquer toute radiocommunication aux fins qu’il précise dans l’arrêté.
+
+**Paragraphe 4(5) — exemption**
+
+(2) Pour l’application du paragraphe 4(5), il peut également, par arrêté et aux conditions qu’il fixe, exempter toute personne, individuellement ou au titre de son appartenance à telle catégorie, de l’application de tout ou partie de ce paragraphe.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2024, ch. 17, art. 381
+
+</details>
+
+### 5.02 Incorporation par renvoi
+
+(1) L’arrêté pris en vertu des paragraphes 5.01(1) ou (2) peut incorporer par renvoi tout document, indépendamment de sa source, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Accessibilité des documents**
+
+(2) Le ministre veille à ce que tout document incorporé par renvoi dans l’arrêté soit accessible.
+
+**Ni déclaration de culpabilité ni sanction administrative**
+
+(3) Aucune déclaration de culpabilité ni aucune sanction administrative pécuniaire ne peut découler d’une contravention faisant intervenir un document qui est incorporé par renvoi dans l’arrêté et qui se rapporte au fait reproché, sauf si, au moment de ce fait, le document était accessible en application du paragraphe (2) ou était autrement accessible à la personne en cause.
+
+**Enregistrement ou publication non requis**
+
+(4) Il est entendu que les documents qui sont incorporés par renvoi dans l’arrêté n’ont pas à être transmis pour enregistrement ni à être publiés dans la *Gazette du Canada* du seul fait de leur incorporation.
+
+**Pouvoir existant non restreint**
+
+(5) Il est entendu que l’octroi dans le présent article du pouvoir exprès d’incorporation par renvoi ne restreint pas le pouvoir qui existe par ailleurs d’incorporer par renvoi tout document dans les règlements pris en vertu de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2024, ch. 17, art. 381
+
+</details>
+
+### 5.1 Communication de renseignements — Canada
+
+(1) Le ministre peut, dans la mesure nécessaire à l’application de la présente loi, communiquer les renseignements qu’il a recueillis ou obtenus dans le cadre de l’application de celle-ci à une administration fédérale, provinciale ou municipale au Canada, ou à l’un de leurs organismes.
+
+**Communication de renseignements — États étrangers et organisations internationales**
+
+(2) Il peut également communiquer les renseignements aux termes d’accords, d’ententes ou d’arrangements conclus par écrit entre, d’une part, le gouvernement du Canada et, d’autre part, le gouvernement d’un État étranger, une organisation internationale d’États ou une organisation internationale établie par des gouvernements, ou l’un de leurs organismes, s’il croit que les renseignements pourraient être utiles à une enquête, instance ou poursuite relative à une contravention à la présente loi ou à une loi de cet État étranger visant des comportements essentiellement semblables à ceux qui, selon lui, constitueraient des contraventions au titre de la présente loi.
+
+**Contenu**
+
+(3) Les accords, ententes ou arrangements :
+
+- a) précisent que les renseignements ne peuvent être utilisés qu’à des fins se rapportant à une enquête, instance ou poursuite relative à une contravention à une loi d’un État étranger portant sur des comportements visés au paragraphe (2);
+
+- b) prévoient que les renseignements seront traités de manière confidentielle et ne seront pas autrement communiqués sans le consentement exprès de la personne responsable de la communication;
+
+- c) ne peuvent viser que les contraventions aux lois d’un État étranger dont la sanction ne serait pas considérée comme pénale sous le régime du droit canadien.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 177
+
+</details>
+
+## Pouvoirs du gouverneur en conseil et autres
+
+### 6 Règlements
+
+(1) Le gouverneur en conseil peut, par règlement :
+
+- a) fixer les exigences et les normes techniques à l’égard d’appareils radio, de matériel brouilleur et de matériel radiosensible, ou de toute catégorie de ceux-ci;
+
+- b) définir l’admissibilité à l’attribution d’autorisations de radiocommunication, ou de toute catégorie de celles-ci, notamment les critères d’admissibilité fondés sur :
+  - (i) dans le cas d’une personne physique, la citoyenneté ou la résidence permanente,
+  - (ii) dans le cas d’une personne morale, la résidence, le lien de propriété ou le pouvoir de contrôle, ainsi que le statut de citoyen ou de résident permanent de ses administrateurs et dirigeants;
+
+- c) définir les qualités requises pour l’attribution d’autorisations de radiocommunication, ou de toute catégorie de celles-ci, notamment l’examen à subir;
+
+- d) préciser la procédure applicable à la présentation des demandes d’autorisations de radiocommunication, ou de toute catégorie de celles-ci, notamment quant aux modalités de forme, au mode de traitement et au sort de ces demandes, ainsi qu’à la délivrance des autorisations par le ministre;
+
+- e) préciser les conditions des autorisations de radiocommunication et, dans le cas des licences radio, celles qui concernent les services pouvant être fournis par leur titulaire;
+
+- f) préciser les conditions et les restrictions applicables aux services radio réglementaires;
+
+- g) déterminer lesquels des appareils radio, des matériels brouilleurs et des matériels radiosensibles nécessitent un certificat d’approbation technique;
+
+- h) régir l’inspection, l’essai et l’approbation d’appareils radio, de matériel brouilleur et de matériel radiosensible en ce qui concerne les certificats d’approbation technique;
+
+- i) interdire ou régir la fabrication, l’importation, l’installation, la distribution, la location, la mise en vente, la vente ou l’utilisation d’appareils radio, de matériel brouilleur et de matériel radiosensible, relativement au brouillage de la radiocommunication ou à l’effet d’une énergie électromagnétique non désirée et due à une émission, à un rayonnement ou à une induction;
+
+- j) préciser les fonctions des inspecteurs et régir l’admissibilité et les qualités requises des personnes en vue de leur nomination à ce poste;
+
+- k) donner effet aux accords, conventions ou traités internationaux concernant la radiocommunication et auxquels le Canada est partie;
+
+- l) fixer les droits à payer — et les intérêts afférents à ceux-ci — pour :
+  - (i) les demandes d’autorisation de radiocommunication, les examens ou les tests nécessaires à leur obtention et la délivrance des autorisations,
+  - (ii) la fourniture de services de gestion du spectre par le ministère des Communications;
+
+- m) soustraire — éventuellement aux conditions qu’il fixe — certains appareils radio ou catégories de ceux-ci à l’application du paragraphe 4(1);
+
+- n) interdire ou régir la retransmission par télécommunication — sauf par les exploitants d’entreprises de radiodiffusion — d’émissions de radiocommunication;
+
+- o) exiger soit la réception ou la transmission de radiocommunication par tout appareil radio, soit l’échange de radiocommunication entre cet appareil et un autre, et en prévoir les modalités;
+
+- p) déterminer la manière dont s’effectue la radiocommunication à l’égard de toute catégorie d’appareils radio ou de services radio;
+
+- q) fixer les modalités de la décision visée à l’alinéa 5(1)l) et préciser les éléments, notamment les exigences en matière de qualité de signal, dont le ministre tient alors compte;
+
+- r) fixer les peines, n’excédant pas celles établies au paragraphe 10(1), pour contravention à un règlement;
+
+- s) prendre toute mesure d’ordre réglementaire prévue par la présente loi;
+
+- t) prendre toute autre mesure d’application de la présente loi.
+
+**Incorporation par renvoi**
+
+(2) Il peut être précisé, dans le règlement d’application du paragraphe (1) qui incorpore par renvoi des spécifications — classifications, normes ou modalités —, qu’elles sont incorporées avec leurs modifications successives.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-2, art. 6; 1989, ch. 17, art. 4
+
+</details>
+
+### 7 Prise de possession par Sa Majesté
+
+(1) Sa Majesté peut temporairement prendre possession d’une station et de tout ce qui est nécessaire à son fonctionnement. Elle peut en outre, pendant cette période, requérir les services exclusifs des opérateurs et des autres membres du personnel de la station.
+
+**Station placée sous tutelle**
+
+(2) La personne qui possède ou contrôle la station visée au paragraphe (1) doit en abandonner la possession; les opérateurs et les autres membres du personnel sont tenus, pendant la durée de la possession par Sa Majesté, d’obéir consciencieusement et fidèlement aux ordres de tout fonctionnaire fédéral dûment autorisé à leur en donner, notamment en ce qui concerne les signaux, appels et radiogrammes qu’il leur demande de recevoir et de transmettre.
+
+**Indemnisation**
+
+(3) En cas de désaccord, entre lui et la personne qui possède ou contrôle une station dont Sa Majesté prend la possession sous le régime du présent article, sur le montant de l’indemnité à payer par celle-ci pour la prise de possession, le ministre soumet l’affaire au jugement de la Cour fédérale. La *Loi sur l’expropriation* s’applique, compte tenu des adaptations de circonstance, pour la détermination de l’indemnité éventuelle et le montant fixé par tout jugement sur des poursuites intentées aux termes du présent paragraphe est payable sur le Trésor.
+
+**Exception**
+
+(4) Par dérogation au paragraphe (3), l’Office des droits de surface du Yukon est seul à connaître, en conformité avec la *Loi sur l’Office des droits de surface du Yukon*, de tout désaccord sur le montant de l’indemnité payable par suite de la prise de possession, par Sa Majesté, d’une station située sur une terre désignée au sens de l’article 2 de cette loi ou de terres gwich’in tetlit du Yukon.
+
+**Terre désignée**
+
+(5) Sauf avec le consentement de la première nation touchée, nulle compagnie ne peut, au titre du présent article, s’approprier un droit sur une terre désignée au sens de l’article 2 de la *Loi sur l’Office des droits de surface du Yukon* sans l’agrément du gouverneur en conseil.
+
+**Terre gwich’in tetlit**
+
+(6) Sauf avec le consentement du Conseil tribal des Gwich’in, nulle compagnie ne peut, au titre du présent article, s’approprier un droit sur une terre gwich’in tetlit du Yukon sans l’agrément du gouverneur en conseil.
+
+**Avis d’intention**
+
+(7) L’appropriation d’un droit sur les terres visées aux paragraphes (5) ou (6) sans le consentement de la première nation ou du Conseil tribal des Gwich’in, selon le cas, ne peut avoir lieu qu’après l’observation des formalités suivantes :
+
+- a) une audience publique est tenue, en conformité avec les règles énoncées ci-après, au sujet de l’emplacement et de la superficie de la terre visée :
+  - (i) avis des date, heure et lieu de l’audience est donné au public et, selon le cas, à la première nation ou au Conseil tribal des Gwich’in,
+  - (ii) le public et, selon le cas, la première nation ou le Conseil tribal des Gwich’in se voient offrir l’occasion de se faire entendre à l’audience,
+  - (iii) les frais et dépens des parties afférents à l’audience sont laissés à l’appréciation de la personne ou de l’organisme présidant l’audience, qui peut les adjuger en tout état de cause,
+  - (iv) un procès-verbal de l’audience est dressé et remis au ministre;
+
+- b) après l’audience publique et la remise du procès-verbal de celle-ci au ministre, avis de l’intention de demander l’agrément du gouverneur en conseil est donné, selon le cas, à la première nation ou au Conseil tribal des Gwich’in.
+
+**Définition de « terre gwich’in tetlit du Yukon »**
+
+(8) Au présent article, **terre gwich’in tetlit du Yukon** s’entend de toute terre visée à la sous-annexe B — avec ses modifications — de l’annexe C de l’Entente sur la revendication territoriale globale des Gwich’in, conclue entre Sa Majesté la Reine du chef du Canada et les Gwich’in, représentés par le Conseil tribal des Gwich’in, approuvée, mise en vigueur et déclarée valide par la *Loi sur le règlement de la revendication territoriale des Gwich’in*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-2, art. 10; 1989, ch. 17, art. 5; 1994, ch. 43, art. 92
+
+</details>
+
+### 8 Pouvoirs des inspecteurs
+
+(1) L’inspecteur nommé au titre de l’alinéa 5(1)j) peut :
+
+- a) à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi, entrer à toute heure convenable dans tout lieu s’il a des motifs raisonnables de croire que s’y trouvent des objets, des documents ou des renseignements, examiner ceux-ci et les emporter pour examen ou reproduction;
+
+- b) faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour examiner les données qu’il contient ou auxquelles il donne accès;
+
+- c) à partir de ces données, reproduire ou faire reproduire tout document sous forme d’imprimé ou toute autre forme intelligible qu’il peut emporter pour examen ou reproduction;
+
+- d) utiliser le matériel de reproduction et les moyens de communication du lieu.
+
+**Certificat**
+
+(1.1) Il reçoit un certificat attestant sa qualité qu’il présente, sur demande, à toute personne apparemment responsable du lieu visité.
+
+**Maison d’habitation**
+
+(2) Il ne peut toutefois entrer dans une maison d’habitation sans le consentement de l’occupant que s’il est muni d’un mandat ou si l’urgence de la situation — notamment dans les cas où le temps nécessaire à l’obtention de ce dernier risquerait soit de mettre en danger des personnes, soit d’entraîner la perte ou la destruction d’éléments de preuve — rend l’obtention de celui-ci difficilement réalisable.
+
+**Délivrance du mandat**
+
+(3) Sur demande ex parte, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions fixées, l’inspecteur qui y est nommé à entrer dans une maison d’habitation si lui-même est convaincu, sur la foi d’une dénonciation sous serment, que sont réunies les conditions suivantes :
+
+- a) il s’agit d’un lieu visé à l’alinéa (1)a);
+
+- b) l’entrée est nécessaire à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi;
+
+- c) soit un refus d’y entrer a été opposé, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il sera impossible d’obtenir le consentement de l’occupant.
+
+**Usage de la force**
+
+(4) L’inspecteur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que lui-même est accompagné d’un agent de la paix.
+
+**Assistance à l’inspecteur**
+
+(5) Le propriétaire ou le responsable du lieu visé est tenu de prêter à l’inspecteur toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut raisonnablement exiger.
+
+**Obligation de fournir des renseignements**
+
+(5.1) S’il croit qu’une personne détient des renseignements qu’il juge nécessaires pour la vérification du respect ou à la prévention du non-respect de la présente loi, l’inspecteur peut, par avis, l’obliger à les lui communiquer, selon les modalités, notamment de temps et de forme, que précise l’avis.
+
+**Entrave et fausses déclarations**
+
+(6) Il est interdit :
+
+- a) d’entraver volontairement l’action de l’inspecteur dans l’exercice de ses fonctions;
+
+- b) de sciemment lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, ch. 17, art. 6; 2014, ch. 39, art. 178
+
+</details>
+
+### 8.1 Saisie
+
+(1) S’il a des motifs raisonnables de croire qu’un appareil radio, brouilleur, matériel brouilleur ou matériel radiosensible sert, a servi ou est lié à la contravention d’une disposition de la présente loi ou de ses règlements, l’inspecteur peut le saisir et le retenir.
+
+**Rétention**
+
+(2) Les objets saisis ne peuvent être retenus après :
+
+- a) soit constatation par un inspecteur du respect des dispositions applicables de la présente loi ou des règlements;
+
+- b) soit l’expiration d’un délai de soixante jours suivant la date de saisie sauf si, dans ce délai, ont été prises l’une ou l’autre des mesures suivantes :
+  - (i) il y a eu confiscation, en vertu des articles 8.3 ou 13, des objets saisis,
+  - (ii) des procédures ont été engagées pour la contravention reprochée, auquel cas les objets saisis peuvent être retenus jusqu’à la conclusion de celles-ci,
+  - (iii) la signification d’un avis de demande d’ordonnance en vue de la prorogation du délai de rétention a été faite au titre du paragraphe 8.2(1).
+
+**Lieu de rétention**
+
+(3) Les objets saisis peuvent, au choix d’un inspecteur, être gardés ou entreposés sur les lieux mêmes de leur saisie ou être transportés en tout autre lieu approprié par un inspecteur ou sur son ordre.
+
+**Interdiction**
+
+(4) Il est interdit, sans l’autorisation d’un inspecteur, de déplacer un objet saisi et retenu par un inspecteur en vertu du présent article ou d’en modifier l’état de quelque manière que ce soit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 179
+
+</details>
+
+### 8.2 Demande de prorogation
+
+(1) Si des procédures n’ont pas été engagées, le ministre peut, avant expiration des soixante jours suivant la date de saisie et après signification de l’avis au propriétaire ou à la dernière personne qui possède les objets saisis, demander à toute cour supérieure compétente qu’elle rende une ordonnance prorogeant le délai.
+
+**Acceptation de prorogation**
+
+(2) Si elle est convaincue, après audition de la demande, que la rétention des objets saisis devrait se poursuivre, la cour supérieure rend une ordonnance en ce sens précisant le nouveau délai qu’elle estime justifié et l’obligation, à l’expiration de celui-ci, de restituer les objets au saisi ou de les remettre à la personne ayant droit à leur possession, sauf si les mesures visées aux sous-alinéas 8.1(2)b)(i) ou (ii) sont prises entre-temps.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 179
+
+</details>
+
+### 8.3 Confiscation sur consentement
+
+Le propriétaire de tout appareil radio, brouilleur, matériel brouilleur ou matériel radiosensible ou la dernière personne à les posséder légitimement peut consentir à tout moment, par écrit, à la confiscation de celui-ci au profit de Sa Majesté.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 179
+
+</details>
+
+## Infractions et peines
+
+### 9 Interdictions
+
+(1) Il est interdit :
+
+- a) d’envoyer, d’émettre ou de faire envoyer ou émettre, sciemment, un signal de détresse ou un message, appel ou radiogramme de quelque nature, faux ou frauduleux;
+
+- b) sans excuse légitime, de gêner ou d’entraver la radiocommunication;
+
+- c) de décoder, sans l’autorisation de leur distributeur légitime ou en contravention avec celle-ci, un signal d’abonnement ou une alimentation réseau;
+
+- d) d’utiliser un appareil radio de façon à recevoir un signal d’abonnement ou une alimentation réseau ainsi décodé;
+
+- e) de transmettre au public un signal d’abonnement ou une alimentation réseau ainsi décodé.
+
+**Interdictions**
+
+(1.1) Sauf exception réglementaire, il est interdit d’utiliser ou de communiquer une communication radiotéléphonique sans l’autorisation de l’émetteur ou du destinataire, si l’un d’eux se trouvait au Canada lorsque la communication a été faite.
+
+**Idem**
+
+(2) Sauf exception réglementaire, il est interdit d’intercepter et soit d’utiliser, soit de communiquer toute radiocommunication sans l’autorisation de l’émetteur ou du destinataire.
+
+**Exceptions**
+
+(3) Les communications par radiodiffusion, alimentation réseau ou signal d’abonnement sont soustraites à l’application du paragraphe (2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, ch. 17, art. 6; 1991, ch. 11, art. 83; 1993, ch. 40, art. 24
+
+</details>
+
+### 9.1 Peines
+
+Quiconque contrevient aux paragraphes 9(1.1) ou (2) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire :
+
+- a) dans le cas d’une personne physique, une amende maximale de vingt-cinq mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines;
+
+- b) dans le cas d’une personne morale, une amende maximale de soixante-quinze mille dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, ch. 40, art. 25
+
+</details>
+
+### 10 Infractions
+
+(1) Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, dans le cas d’une personne physique, une amende maximale de cinq mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines, ou, dans le cas d’une personne morale, une amende maximale de vingt-cinq mille dollars quiconque, selon le cas :
+
+- a) contrevient à l’article 4 ou aux alinéas 9(1)a) ou b);
+
+- b) sans excuse légitime, fabrique, importe, distribue, loue, met en vente, vend, installe, modifie, exploite ou possède tout matériel ou dispositif, ou composante de celui-ci, dans des circonstances donnant à penser que l’un ou l’autre est utilisé en vue d’enfreindre l’article 9, l’a été ou est destiné à l’être;
+
+- c) contrevient à l’ordre donné par le ministre en vertu de l’alinéa 5(1)l);
+
+- c.1) contrevient au paragraphe 5(1.5);
+
+- d) à défaut de peine prévue par règlement d’application de l’alinéa 6(1)r), contrevient à un règlement.
+
+**Infractions**
+
+(2) Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars, quiconque contrevient, selon le cas :
+
+- a) aux paragraphes 8(5) ou (6) ou 8.1(4);
+
+- b) à l’obligation que lui a imposée l’inspecteur en vertu du paragraphe 8(5.1).
+
+**Idem**
+
+(2.1) Quiconque contrevient aux alinéas 9(1)c) ou d) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, dans le cas d’une personne physique, une amende maximale de dix mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines, dans le cas d’une personne morale, une amende maximale de vingt-cinq mille dollars.
+
+**Idem**
+
+(2.2) Quiconque contrevient à l’alinéa 9(1)e) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, dans le cas d’une personne physique, une amende maximale de vingt mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines, dans le cas d’une personne morale, une amende maximale de deux cent mille dollars.
+
+**Défense**
+
+(2.3) Le fait de décoder un signal d’abonnement autrement qu’en conformité avec l’autorisation du distributeur légitime ne constitue pas une infraction à l’alinéa 9(1)c) si ce distributeur, étant légitimement autorisé à mettre, à l’endroit du décodage, le signal à la disposition des personnes ayant payé un prix d’abonnement ou une autre forme de redevance, ne l’avait pas mis à la disposition de celles-ci.
+
+**Exception**
+
+(2.4) Le paragraphe (2.3) n’a pas pour effet d’accorder une défense à quiconque fabrique, importe, distribue, loue, met en vente ou vend tout matériel ou dispositif, ou composante de celui-ci, en contravention avec l’alinéa (1)b).
+
+**Disculpation**
+
+(2.5) Nul ne peut être déclaré coupable de l’infraction visée aux alinéas 9(1)c), d) ou e) s’il a pris les mesures nécessaires pour l’empêcher.
+
+**Infraction continue**
+
+(3) Il est compté une infraction distincte au présent article pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+
+**Injonctions**
+
+(4) S’il est convaincu qu’une infraction à l’alinéa (1)a) se commet ou est sur le point d’être commise, le tribunal compétent peut, sur demande du ministre, accorder une injonction, sous réserve des conditions qu’il juge indiquées, ordonnant à quiconque de cesser toute activité liée à l’infraction ou de s’en abstenir.
+
+**Cour fédérale**
+
+(5) La Cour fédérale est, pour l’application du paragraphe (4), un tribunal compétent.
+
+**Prescription**
+
+(6) Les poursuites visées par la présente loi se prescrivent par trois ans à compter de la perpétration de l’infraction.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, ch. 17, art. 6; 1991, ch. 11, art. 84; 2014, ch. 39, art. 180
+
+</details>
+
+### 11 Responsabilité pénale : administrateurs
+
+En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue pour une personne physique, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, ch. 17, art. 6
+
+</details>
+
+### 12 Contravention
+
+(1) Le gouverneur en conseil peut, par règlement, déterminer, parmi les infractions à la présente loi, celles pour lesquelles :
+
+- a) d’une part, l’inspecteur peut, pour valoir citation, remplir et signer le formulaire réglementaire de contravention et le remettre au prévenu lors de leur prétendue perpétration ou le lui signifier par la poste, à sa dernière adresse connue;
+
+- b) d’autre part, la dénonciation peut être déposée après la remise ou la signification du formulaire.
+
+Le règlement d’application du présent article fixe pour chaque infraction, d’une part, les modalités permettant au prévenu de plaider coupable et d’acquitter l’amende prévue et, d’autre part, le montant de celle-ci.
+
+**Amendes en cas de récidive**
+
+(2) Le montant des amendes prévues par règlement d’application du présent article peut être plus élevé en cas de récidive, sans jamais toutefois dépasser mille dollars par infraction.
+
+**Défaut**
+
+(3) Si la personne qui reçoit le formulaire de contravention n’y donne pas suite dans le délai réglementaire, le juge, après examen de la dénonciation :
+
+- a) si celle-ci est complète et régulière, la déclare coupable en son absence et lui impose l’amende réglementaire;
+
+- b) sinon, met fin aux procédures.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, ch. 17, art. 6
+
+</details>
+
+### 13 Confiscation
+
+(1) En cas de condamnation pour l’infraction visée à l’alinéa 10(1)a), l’appareil radio en cause peut être confisqué au profit de Sa Majesté du chef du Canada par arrêté du ministre pour qu’il en soit disposé, sous réserve des paragraphes (2) à (6), suivant les instructions de celui-ci.
+
+**Avis**
+
+(2) Le ministre fait publier un avis de la confiscation dans la *Gazette du Canada*.
+
+**Requête**
+
+(3) Quiconque n’est pas partie aux procédures dont résulte la confiscation et revendique un droit sur cet appareil à titre de propriétaire, de créancier hypothécaire, de détenteur de privilège ou de créancier d’un droit semblable peut, dans les trente jours suivant la prise de l’arrêté, requérir de toute cour supérieure compétente l’ordonnance visée au paragraphe (6), après quoi la cour fixe la date d’audition de la requête.
+
+**Avis**
+
+(4) Le requérant donne avis de la requête et de la date fixée pour l’audition, au moins trente jours avant celle-ci, au ministre et à toute personne qui, au su du requérant, revendique sur l’appareil radio en cause un droit à titre de propriétaire, de créancier hypothécaire, de détenteur de privilège ou de créancier d’un droit semblable.
+
+**Avis d’intervention**
+
+(5) À l’exception du ministre, toute personne qui reçoit signification d’un tel avis et se propose de comparaître lors de l’audition de la requête qui y est visée dépose au greffe du tribunal, au moins dix jours avant la date fixée pour l’audition, un avis d’intervention dont elle fait transmettre copie au ministre et au requérant.
+
+**Ordonnance**
+
+(6) Le requérant et les intervenants sont fondés à obtenir une ordonnance préservant leurs droits des effets de la confiscation et déclarant la nature, l’étendue et le rang de ceux-ci, lorsque le tribunal est convaincu, à l’issue de l’audition, de ce qui suit :
+
+- a) le requérant et les intervenants ne sont coupables ni de complicité ni de collusion à l’égard des actes qui ont rendu l’appareil radio susceptible de confiscation;
+
+- b) celles de ces personnes qui en sont propriétaires ont fait toute diligence pour s’assurer que les personnes ayant droit à la possession et à l’exploitation de l’appareil ne risquaient pas en cette qualité de perpétrer l’infraction visée à l’alinéa 10(1)a).
+
+Le tribunal peut, dans ce cas, ordonner soit la remise de l’appareil en cause à l’une ou plusieurs des personnes dont il constate les droits, soit le versement à celles-ci d’une somme égale à la valeur de leurs droits respectifs.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, ch. 17, art. 6
+
+</details>
+
+### 14 Exemptions
+
+(1) Le ministre peut, par arrêté et aux conditions qu’il estime indiquées, exempter toute personne, individuellement ou au titre de son appartenance à telle catégorie, ou entité de l’application du paragraphe 4(4) ou de l’alinéa 9(1)b) aux fins suivantes :
+
+- a) la sécurité nationale;
+
+- b) la sécurité publique, notamment les pénitenciers et les prisons;
+
+- c) les douanes et l’immigration;
+
+- d) la défense nationale;
+
+- e) les relations internationales;
+
+- f) les enquêtes ou les poursuites relatives aux infractions au Canada, notamment la préservation des éléments de preuve;
+
+- g) la protection de biens ou la prévention de dommage grave à l’endroit d’une personne;
+
+- h) toute autre fin prévue par règlement.
+
+**Règlement**
+
+(2) Le gouverneur en conseil peut prendre un règlement pour l’application de l’alinéa (1)h).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-2, art. 14; 1989, ch. 17, art. 6; 2014, ch. 39, art. 181
+
+</details>
+
+### 15 Versement des amendes au receveur général
+
+Les amendes imposées par la présente loi ou ses règlements appartiennent à Sa Majesté du chef du Canada et sont versées au receveur général.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-1, art. 13
+
+</details>
+
+## Sanctions administratives pécuniaires
+
+### 15.1 Violation
+
+Toute contravention à l’un des paragraphes 4(1) et (3) à (5) et 5(1.5) constitue une violation exposant son auteur à une pénalité dont le montant maximal est :
+
+- a) dans le cas d’une personne physique, de vingt-cinq mille dollars et de cinquante mille dollars en cas de récidive;
+
+- b) dans les autres cas, de dix millions de dollars et de quinze millions de dollars en cas de récidive.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+- 2024, ch. 17, art. 382
+
+</details>
+
+### 15.11 Détermination du montant de la pénalité
+
+(1) Pour la détermination du montant de la pénalité, il est tenu compte des critères suivants :
+
+- a) la nature et la portée de la violation;
+
+- b) les antécédents de l’auteur de la violation en ce qui a trait au respect de la présente loi;
+
+- c) tout avantage qu’il a retiré de la commission de la violation;
+
+- d) sa capacité de payer le montant de la pénalité;
+
+- e) tout autre critère prévu par règlement;
+
+- f) tout autre critère pertinent.
+
+**But de la pénalité**
+
+(2) L’imposition de la pénalité vise non pas à punir, mais à favoriser le respect de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.12 Pouvoir du ministre : violation
+
+Le ministre peut :
+
+- a) désigner, individuellement ou au titre de leur appartenance à telle catégorie, les agents autorisés à dresser des procès-verbaux pour une violation ou les personnes autorisées à accepter un engagement;
+
+- b) établir pour chaque violation un sommaire la caractérisant dans les procès-verbaux.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.13 Engagement
+
+(1) Toute personne peut contracter un engagement après qu’un procès-verbal lui a été signifié.
+
+**Contenu**
+
+(2) L’engagement :
+
+- a) doit être accepté par la personne autorisée à accepter un engagement;
+
+- b) énonce les actes ou omissions qui constituent une violation et sur lesquels il porte;
+
+- c) mentionne les dispositions en cause;
+
+- d) peut comporter les conditions que la personne autorisée à accepter un engagement estime indiquées;
+
+- e) peut prévoir l’obligation de payer une somme précise.
+
+**Effet de l’engagement**
+
+(3) Si une personne contracte un engagement, la procédure en violation prend fin à son égard en ce qui concerne les actes ou omissions mentionnés dans l’engagement.
+
+**Non-respect**
+
+(4) Le non-respect d’un engagement constitue une violation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.14 Procès-verbal
+
+(1) L’agent verbalisateur peut, s’il a des motifs raisonnables de croire qu’une violation a été commise, dresser un procès-verbal qu’il fait signifier à l’auteur présumé de la violation.
+
+**Contenu du procès-verbal**
+
+(2) Le procès-verbal mentionne, outre le nom de l’auteur présumé et les faits reprochés :
+
+- a) le montant de la pénalité à payer;
+
+- b) la faculté qu’a l’auteur présumé soit de payer la pénalité, soit de présenter des observations relativement à la violation ou à la pénalité, et ce, dans les trente jours suivant la signification du procès-verbal — ou dans le délai plus long que peut préciser le ministre —, ainsi que les autres modalités d’exercice de cette faculté;
+
+- c) le fait que le non-exercice de cette faculté vaut déclaration de responsabilité et entraîne l’imposition de la pénalité.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.15 Paiement
+
+(1) Le paiement de la pénalité prévue au procès-verbal vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+**Présentation d’observations**
+
+(2) Si des observations sont présentées, dans le délai et selon les autres modalités précisés dans le procès-verbal, le ministre décide, selon la prépondérance des probabilités, de la responsabilité de l’intéressé, et ce, après avoir examiné toutes les autres observations qu’il estime appropriées. Le cas échéant, il peut imposer la pénalité prévue au procès-verbal ou une pénalité réduite, ou encore n’en imposer aucune.
+
+**Omission de payer ou de présenter des observations**
+
+(3) Le non-exercice de la faculté mentionnée au procès-verbal, dans le délai et selon les autres modalités qui y sont précisées, vaut déclaration de responsabilité à l’égard de la violation et entraîne l’imposition de la pénalité.
+
+**Copie de la décision et droits de l’intéressé**
+
+(4) Le ministre fait signifier à l’intéressé copie de la décision prise au titre du paragraphe (2) et l’avise par la même occasion de son droit d’appel au titre de l’article 15.2.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.16 Admissibilité en preuve
+
+Dans les procédures en violation, le procès-verbal ou la copie de la décision paraissant signifié en application des paragraphes 15.14(1) ou 15.15(4), selon le cas, est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.17 Moyens de défense
+
+(1) L’auteur présumé de la violation peut invoquer en défense dans le cadre de toute procédure en violation qu’il a pris les précautions voulues.
+
+**Principes de la common law**
+
+(2) Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi s’appliquent à l’égard de toute violation, sauf dans la mesure où ils sont incompatibles avec la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.18 Responsabilité indirecte : employeurs et mandants
+
+L’employeur ou le mandant est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou de son mandat, selon le cas, que l’auteur de la violation fasse ou non l’objet de procédures en violation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.19 Administrateurs, dirigeants et mandataires de personnes morales
+
+En cas de commission par une personne morale d’une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont responsables de la violation, que la personne morale fasse ou non l’objet de procédures en violation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.2 Appel à la Cour fédérale
+
+(1) Sous réserve du paragraphe (2), il peut être interjeté appel à la Cour fédérale d’une décision rendue au titre du paragraphe 15.15(2) dans les trente jours suivant la date de la décision.
+
+**Questions de fait**
+
+(2) Un tel appel, s’il porte sur une question de fait, est subordonné à l’autorisation de la Cour fédérale. La demande d’autorisation doit être présentée dans les trente jours suivant la date de la décision, et l’appel doit être interjeté dans les trente jours suivant la date de l’autorisation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.21 Créance de Sa Majesté
+
+(1) Constituent une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale :
+
+- a) la somme à payer aux termes de l’engagement contracté en vertu du paragraphe 15.13(1), à compter de la date à laquelle l’engagement a été contracté ou, s’il y a lieu, de la date qui y est précisée;
+
+- b) le montant de la pénalité mentionné dans le procès-verbal, à compter de la date de paiement qui y est précisée, sauf en cas de présentation d’observations selon les modalités qui y sont prévues;
+
+- c) s’il y a présentation d’observations, le montant de la pénalité imposée par le ministre ou lors d’un appel, selon le cas, à compter de la date précisée par le ministre dans sa décision ou le tribunal ou, dans le cas où aucune date n’est précisée, à compter de la date de la décision du ministre;
+
+- d) les frais raisonnables faits en vue du recouvrement d’une somme ou d’un montant visé à l’un ou l’autre des alinéas a) à c).
+
+**Prescription**
+
+(2) Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+
+**Receveur général**
+
+(3) Toute pénalité perçue au titre d’une violation est versée au receveur général.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.22 Certificat de non-paiement
+
+(1) Le ministre peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 15.21(1).
+
+**Effet de l’enregistrement**
+
+(2) L’enregistrement à la Cour fédérale confère au certificat la valeur de jugement de cette juridiction pour la somme visée et les frais afférents.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.23 Prescription
+
+(1) Les procédures en violation se prescrivent par trois ans à compter de la date où le ministre a eu connaissance des éléments constitutifs de la violation.
+
+**Certificat du ministre**
+
+(2) Tout document apparemment délivré par le ministre et attestant la date où les éléments constitutifs sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.24 Publication
+
+Le ministre peut rendre publics :
+
+- a) le nom de l’auteur de la violation, la nature de la violation, notamment les actes ou omissions et les dispositions en cause, et le montant de la pénalité;
+
+- b) le nom de la personne qui a contracté un engagement, la nature de celui-ci, notamment les actes ou omissions et les dispositions en cause, les conditions qu’il comporte et, le cas échéant, le montant de la pénalité.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.25 Cumul interdit
+
+S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.26 Précision
+
+Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du *Code criminel*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+### 15.27 Règlements
+
+Le gouverneur en conseil peut, par règlement :
+
+- a) désigner les dispositions de la présente loi dont la contravention constitue une violation distincte pour chacun des jours au cours desquels la contravention se continue;
+
+- b) pour l’application de l’alinéa 15.11(1)e), établir d’autres critères applicables à la détermination du montant de la pénalité;
+
+- c) régir les engagements visés à l’article 15.13.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 39, art. 182
+
+</details>
+
+## Dispositions générales
+
+### 16 Certificats ou rapports des inspecteurs
+
+(1) Dans les poursuites sous le régime de la présente loi et dans toute autre procédure relevant de l’autorité législative du Parlement, les certificats ou les rapports censés délivrés et signés par l’inspecteur qui a fait l’inspection ou l’essai en question sont admissibles en preuve et, sauf preuve contraire, font foi de leur contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+**Préavis**
+
+(2) Les certificats et rapports ne sont reçus en preuve que si la partie qui a l’intention de les produire contre une autre donne à celle-ci un préavis suffisant accompagné d’une copie de ces documents.
+
+**Comparution de l’inspecteur**
+
+(3) Le destinataire du préavis peut, avec l’autorisation du tribunal, exiger la présence de l’inspecteur pour contre-interrogatoire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-2, art. 16; 1989, ch. 17, art. 7
+
+</details>
+
+### 17 Exclusion de la responsabilité personnelle
+
+(1) Aucune action ni autre procédure pour dommages-intérêts ne peut être intentée contre un ministre, un préposé ou un mandataire de l’État pour un fait — acte ou omission — accompli, ou censé l’avoir été, de bonne foi en application de la présente loi ou des décrets, arrêtés ou règlements pris sous son régime.
+
+**Responsabilité de l’État**
+
+(2) Le paragraphe (1) ne dégage pas l’État de sa responsabilité pour les faits qui y sont visés et celui-ci demeure responsable, en application de la *Loi sur la responsabilité de l’État* et de toute autre loi, indépendamment de ce paragraphe.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, ch. 17, art. 7
+
+</details>
+
+## Recours civil
+
+### 18 Recours civil
+
+(1) Peut former, devant tout tribunal compétent, un recours civil à l’encontre du contrevenant quiconque a subi une perte ou des dommages par suite d’une contravention aux alinéas 9(1)c), d) ou e) ou 10(1)b) et :
+
+- a) soit détient, à titre de titulaire du droit d’auteur ou d’une licence accordée par ce dernier, un droit dans le contenu d’un signal d’abonnement ou d’une alimentation réseau;
+
+- b) soit est autorisé, par le distributeur légitime de celui-ci, à le communiquer au public;
+
+- c) soit est titulaire d’une licence attribuée, au titre de la *Loi sur la radiodiffusion*, par le Conseil de la radiodiffusion et des télécommunications canadiennes et l’autorisant à exploiter une entreprise de radiodiffusion;
+
+- d) soit encore élabore un système ou une technique ou fabrique un équipement destinés à l’encodage de signaux d’abonnement ou d’alimentations réseau, les fournit à un distributeur légitime, ou fabrique, vend ou fournit des décodeurs permettant à des personnes autorisées à cet effet de décoder de tels signaux ou alimentations.
+
+Cette personne est admise à exercer tous recours, notamment par voie de dommages-intérêts, d’injonction ou de reddition de compte, selon ce que le tribunal estime indiqué.
+
+**Règles applicables**
+
+(2) Le plafond des dommages-intérêts accordés, au terme d’un tel recours, à l’encontre d’une personne physique n’ayant pas contrevenu aux alinéas 9(1)e) ou 10(1)b) et n’ayant pas posé les actes en cause dans un but lucratif est de mille dollars; les frais des parties sont laissés à la discrétion du tribunal.
+
+**Preuve de procédures antérieures**
+
+(3) Dans tout recours visé au paragraphe (1) et intenté contre une personne, les procès-verbaux relatifs aux procédures engagées devant tout tribunal qui a déclaré celle-ci coupable d’une infraction aux alinéas 9(1)c), d) ou e) ou 10(1)b) constituent, sauf preuve contraire, la preuve que cette personne a eu un comportement allant à l’encontre de ces dispositions; toute preuve fournie lors de ces procédures quant à l’effet de l’infraction sur la personne qui intente le recours constitue une preuve à cet égard.
+
+**Cour fédérale**
+
+(4) La Cour fédérale est, pour l’application du paragraphe (1), un tribunal compétent.
+
+**Prescription**
+
+(5) Les recours visés au paragraphe (1) se prescrivent dans les trois ans suivant la date de l’infraction en cause.
+
+***Loi sur le droit d’auteur***
+
+(6) Le présent article ne porte pas atteinte aux droits ou aux recours prévus par la *Loi sur le droit d’auteur*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1991, ch. 11, art. 85
+
+</details>
+
+### 19 Recours civil
+
+(1) Quiconque a fait ou reçu une communication radiotéléphonique et a des motifs raisonnables de croire que cette communication a été ou sera communiquée ou utilisée en contravention au paragraphe 9(1.1) peut former, devant tout tribunal compétent, un recours civil pour empêcher une telle utilisation ou une telle communication, ou pour recouvrer des dommages du contrevenant. Cette personne est admise à exercer tous recours, notamment par voie de dommages-intérêts, d’injonction ou de reddition de compte, selon ce que le tribunal estime indiqué.
+
+**Preuve de procédures antérieures**
+
+(2) Dans tout recours visé au paragraphe (1) et intenté contre une personne, les procès-verbaux relatifs aux procédures engagées devant tout tribunal qui a déclaré celle-ci coupable d’une infraction au paragraphe 9(1.1) constituent, sauf preuve contraire, la preuve que cette personne a communiqué ou utilisé la communication radiotéléphonique; toute preuve fournie lors de ces procédures quant à l’effet de l’infraction sur la personne qui intente le recours constitue une preuve à cet égard.
+
+**Cour fédérale**
+
+(3) La Cour fédérale est, pour l’application du paragraphe (1), un tribunal compétent.
+
+**Prescription**
+
+(4) Les recours visés au paragraphe (1) se prescrivent dans les trois ans suivant la date de l’infraction en cause.
+
+**Autres recours**
+
+(5) Le présent article ne porte pas atteinte à tout autre droit ou recours que pourrait avoir la personne lésée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, ch. 40, art. 26
+
+</details>
+
+
+## DISPOSITIONS CONNEXES
+
+### — 1989, ch. 17, art. 16
+
+### 16 Licences radio et certificats
+
+Les licences radio, les certificats techniques de construction et de fonctionnement et les certificats d’opérateur radio en vigueur avant l’entrée en vigueur de la présente loi le demeurent comme si leur prise avait été autorisée par la *Loi sur la radio* dans sa version modifiée par la présente loi.
+
+### — 1995, ch. 1, par. 62(4)
+
+### 62 Idem
+
+(4) Dans les textes d’application de la *Loi sur la radiocommunication* ou de la *Loi sur les télécommunications*, la mention du ministre des Communications vaut mention, sauf indication contraire du contexte, du ministre de l’Industrie.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 1992, ch. 47, art. 84 (ann., art. 14)
+
+### 14 1989, ch. 17, art. 6
+
+L’article 12 est abrogé.
+
+### — 2002, ch. 7, art. 233
+
+### 233 1994, ch. 43, art. 92
+
+Les paragraphes 7(4) et (5) de la *Loi sur la radiocommunication* sont remplacés par ce qui suit :

@@ -1,0 +1,2244 @@
+---
+title: "Companies’ Creditors Arrangement Act"
+long_title: "An Act to facilitate compromises and arrangements between companies and their creditors"
+chapter: "C-36"
+language: "en"
+type: "act"
+---
+
+# Companies’ Creditors Arrangement Act
+
+> An Act to facilitate compromises and arrangements between companies and their creditors
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Companies’ Creditors Arrangement Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-25, s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+(1) In this Act,
+
+**aircraft objects**[Repealed, 2012, c. 31, s. 419]
+
+**bargaining agent** means any trade union that has entered into a collective agreement on behalf of the employees of a company; (**agent négociateur**)
+
+**bond** includes a debenture, debenture stock or other evidences of indebtedness; (**obligation**)
+
+**cash-flow statement**, in respect of a company, means the statement referred to in paragraph 10(2)(a) indicating the company’s projected cash flow; (**état de l’évolution de l’encaisse**)
+
+**claim** means any indebtedness, liability or obligation of any kind that would be a claim provable within the meaning of section 2 of the *Bankruptcy and Insolvency Act*; (**réclamation**)
+
+**collective agreement**, in relation to a debtor company, means a collective agreement within the meaning of the jurisdiction governing collective bargaining between the debtor company and a bargaining agent; (**convention collective**)
+
+**company** means any company, corporation or legal person incorporated by or under an Act of Parliament or of the legislature of a province, any incorporated company having assets or doing business in Canada, wherever incorporated, and any income trust, but does not include banks, authorized foreign banks within the meaning of section 2 of the *Bank Act*, telegraph companies, insurance companies and companies to which the *Trust and Loan Companies Act* applies; (**compagnie**)
+
+**court** means
+  - (a) in Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court,
+  - (a.1) in Ontario, the Superior Court of Justice,
+  - (b) in Quebec, the Superior Court,
+  - (c) in New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench,
+  - (c.1) in Newfoundland and Labrador, the Trial Division of the Supreme Court, and
+  - (d) in Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice; (**tribunal**)
+
+**debtor company** means any company that
+  - (a) is bankrupt or insolvent,
+  - (b) has committed an act of bankruptcy within the meaning of the *Bankruptcy and Insolvency Act* or is deemed insolvent within the meaning of the *Winding-up and Restructuring Act*, whether or not proceedings in respect of the company have been taken under either of those Acts,
+  - (c) has made an authorized assignment or against which a bankruptcy order has been made under the *Bankruptcy and Insolvency Act*, or
+  - (d) is in the course of being wound up under the *Winding-up and Restructuring Act* because the company is insolvent; (**compagnie débitrice**)
+
+**director** means, in the case of a company other than an income trust, a person occupying the position of director by whatever name called and, in the case of an income trust, a person occupying the position of trustee by whatever named called; (**administrateur**)
+
+**eligible financial contract** means an agreement of a prescribed kind; (**contrat financier admissible**)
+
+**equity claim** means a claim that is in respect of an equity interest, including a claim for, among others,
+  - (a) a dividend or similar payment,
+  - (b) a return of capital,
+  - (c) a redemption or retraction obligation,
+  - (d) a monetary loss resulting from the ownership, purchase or sale of an equity interest or from the rescission, or, in Quebec, the annulment, of a purchase or sale of an equity interest, or
+  - (e) contribution or indemnity in respect of a claim referred to in any of paragraphs (a) to (d); (**réclamation relative à des capitaux propres**)
+
+**equity interest** means
+  - (a) in the case of a company other than an income trust, a share in the company — or a warrant or option or another right to acquire a share in the company — other than one that is derived from a convertible debt, and
+  - (b) in the case of an income trust, a unit in the income trust — or a warrant or option or another right to acquire a unit in the income trust — other than one that is derived from a convertible debt; (**intérêt relatif à des capitaux propres**)
+
+**financial collateral** means any of the following that is subject to an interest, or in the Province of Quebec a right, that secures payment or performance of an obligation in respect of an eligible financial contract or that is subject to a title transfer credit support agreement:
+  - (a) cash or cash equivalents, including negotiable instruments and demand deposits,
+  - (b) securities, a securities account, a securities entitlement or a right to acquire securities, or
+  - (c) a futures agreement or a futures account; (**garantie financière**)
+
+**income trust** means a trust that has assets in Canada if
+  - (a) its units are listed on a prescribed stock exchange on the day on which proceedings commence under this Act, or
+  - (b) the majority of its units are held by a trust whose units are listed on a prescribed stock exchange on the day on which proceedings commence under this Act; (**fiducie de revenu**)
+
+**initial application** means the first application made under this Act in respect of a company; (**demande initiale**)
+
+**monitor**, in respect of a company, means the person appointed under section 11.7 to monitor the business and financial affairs of the company; (**contrôleur**)
+
+**net termination value** means the net amount obtained after netting or setting off or compensating the mutual obligations between the parties to an eligible financial contract in accordance with its provisions; (**valeurs nettes dues à la date de résiliation**)
+
+**prescribed** means prescribed by regulation; (Version anglaise seulement)
+
+**secured creditor** means a holder of a mortgage, hypothec, pledge, charge, lien or privilege on or against, or any assignment, cession or transfer of, all or any property of a debtor company as security for indebtedness of the debtor company, or a holder of any bond of a debtor company secured by a mortgage, hypothec, pledge, charge, lien or privilege on or against, or any assignment, cession or transfer of, or a trust in respect of, all or any property of the debtor company, whether the holder or beneficiary is resident or domiciled within or outside Canada, and a trustee under any trust deed or other instrument securing any of those bonds shall be deemed to be a secured creditor for all purposes of this Act except for the purpose of voting at a creditors’ meeting in respect of any of those bonds; (**créancier garanti**)
+
+**shareholder** includes a member of a company — and, in the case of an income trust, a holder of a unit in an income trust — to which this Act applies; (**actionnaire**)
+
+**Superintendent of Bankruptcy** means the Superintendent of Bankruptcy appointed under subsection 5(1) of the *Bankruptcy and Insolvency Act*; (**surintendant des faillites**)
+
+**Superintendent of Financial Institutions** means the Superintendent of Financial Institutions appointed under subsection 5(1) of the *Office of the Superintendent of Financial Institutions Act*; (**surintendant des institutions financières**)
+
+**title transfer credit support agreement** means an agreement under which a debtor company has provided title to property for the purpose of securing the payment or performance of an obligation of the debtor company in respect of an eligible financial contract; (**accord de transfert de titres pour obtention de crédit**)
+
+**unsecured creditor** means any creditor of a company who is not a secured creditor, whether resident or domiciled within or outside Canada, and a trustee for the holders of any unsecured bonds issued under a trust deed or other instrument running in favour of the trustee shall be deemed to be an unsecured creditor for all purposes of this Act except for the purpose of voting at a creditors’ meeting in respect of any of those bonds. (**créancier chirographaire**)
+
+**Meaning of **related** and **dealing at arm’s length****
+
+(2) For the purpose of this Act, section 4 of the *Bankruptcy and Insolvency Act* applies for the purpose of determining whether a person is related to or dealing at arm’s length with a debtor company.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 2; R.S., 1985, c. 27 (2nd Supp.), s. 10; 1990, c. 17, s. 4; 1992, c. 27, s. 90; 1993, c. 34, s. 52; 1996, c. 6, s. 167; 1997, c. 12, s. 120(E); 1998, c. 30, s. 14; 1999, c. 3, s. 22, c. 28, s. 154; 2001, c. 9, s. 575; 2002, c. 7, s. 133; 2004, c. 25, s. 193; 2005, c. 3, s. 15, c. 47, s. 124; 2007, c. 29, s. 104, c. 36, ss. 61, 105; 2012, c. 31, s. 419; 2015, c. 3, s. 37; 2018, c. 10, s. 89
+
+</details>
+
+### 3 Application
+
+(1) This Act applies in respect of a debtor company or affiliated debtor companies if the total of claims against the debtor company or affiliated debtor companies, determined in accordance with section 20, is more than $5,000,000 or any other amount that is prescribed.
+
+**Affiliated companies**
+
+(2) For the purposes of this Act,
+
+- (a) companies are affiliated companies if one of them is the subsidiary of the other or both are subsidiaries of the same company or each of them is controlled by the same person; and
+
+- (b) two companies affiliated with the same company at the same time are deemed to be affiliated with each other.
+
+**Company controlled**
+
+(3) For the purposes of this Act, a company is controlled by a person or by two or more companies if
+
+- (a) securities of the company to which are attached more than fifty per cent of the votes that may be cast to elect directors of the company are held, other than by way of security only, by or for the benefit of that person or by or for the benefit of those companies; and
+
+- (b) the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the company.
+
+**Subsidiary**
+
+(4) For the purposes of this Act, a company is a subsidiary of another company if
+
+- (a) it is controlled by
+  - (i) that other company,
+  - (ii) that other company and one or more companies each of which is controlled by that other company, or
+  - (iii) two or more companies each of which is controlled by that other company; or
+
+- (b) it is a subsidiary of a company that is a subsidiary of that other company.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 3; 1997, c. 12, s. 121; 2005, c. 47, s. 125
+
+</details>
+
+## Compromises and Arrangements
+
+### 4 Compromise with unsecured creditors
+
+Where a compromise or an arrangement is proposed between a debtor company and its unsecured creditors or any class of them, the court may, on the application in a summary way of the company, of any such creditor or of the trustee in bankruptcy or liquidator of the company, order a meeting of the creditors or class of creditors, and, if the court so determines, of the shareholders of the company, to be summoned in such manner as the court directs.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-25, s. 4
+
+</details>
+
+### 5 Compromise with secured creditors
+
+Where a compromise or an arrangement is proposed between a debtor company and its secured creditors or any class of them, the court may, on the application in a summary way of the company or of any such creditor or of the trustee in bankruptcy or liquidator of the company, order a meeting of the creditors or class of creditors, and, if the court so determines, of the shareholders of the company, to be summoned in such manner as the court directs.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-25, s. 5
+
+</details>
+
+### 5.1 Claims against directors — compromise
+
+(1) A compromise or arrangement made in respect of a debtor company may include in its terms provision for the compromise of claims against directors of the company that arose before the commencement of proceedings under this Act and that relate to the obligations of the company where the directors are by law liable in their capacity as directors for the payment of such obligations.
+
+**Exception**
+
+(2) A provision for the compromise of claims against directors may not include claims that
+
+- (a) relate to contractual rights of one or more creditors; or
+
+- (b) are based on allegations of misrepresentations made by directors to creditors or of wrongful or oppressive conduct by directors.
+
+**Powers of court**
+
+(3) The court may declare that a claim against directors shall not be compromised if it is satisfied that the compromise would not be fair and reasonable in the circumstances.
+
+**Resignation or removal of directors**
+
+(4) Where all of the directors have resigned or have been removed by the shareholders without replacement, any person who manages or supervises the management of the business and affairs of the debtor company shall be deemed to be a director for the purposes of this section.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 122
+
+</details>
+
+### 6 Compromises to be sanctioned by court
+
+(1) If a majority in number representing two thirds in value of the creditors, or the class of creditors, as the case may be — other than, unless the court orders otherwise, a class of creditors having equity claims, — present and voting either in person or by proxy at the meeting or meetings of creditors respectively held under sections 4 and 5, or either of those sections, agree to any compromise or arrangement either as proposed or as altered or modified at the meeting or meetings, the compromise or arrangement may be sanctioned by the court and, if so sanctioned, is binding
+
+- (a) on all the creditors or the class of creditors, as the case may be, and on any trustee for that class of creditors, whether secured or unsecured, as the case may be, and on the company; and
+
+- (b) in the case of a company that has made an authorized assignment or against which a bankruptcy order has been made under the *Bankruptcy and Insolvency Act* or is in the course of being wound up under the *Winding-up and Restructuring Act*, on the trustee in bankruptcy or liquidator and contributories of the company.
+
+**Court may order amendment**
+
+(2) If a court sanctions a compromise or arrangement, it may order that the debtor’s constating instrument be amended in accordance with the compromise or arrangement to reflect any change that may lawfully be made under federal or provincial law.
+
+**Restriction — certain Crown claims**
+
+(3) Unless Her Majesty agrees otherwise, the court may sanction a compromise or arrangement only if the compromise or arrangement provides for the payment in full to Her Majesty in right of Canada or a province, within six months after court sanction of the compromise or arrangement, of all amounts that were outstanding at the time of the application for an order under section 11 or 11.02 and that are of a kind that could be subject to a demand under
+
+- (a) subsection 224(1.2) of the *Income Tax Act*;
+
+- (b) any provision of the *Canada Pension Plan* or of the *Employment Insurance Act* that refers to subsection 224(1.2) of the *Income Tax Act* and provides for the collection of a contribution, as defined in the *Canada Pension Plan*, an employee’s premium, or employer’s premium, as defined in the *Employment Insurance Act*, or a premium under Part VII.1 of that Act, and of any related interest, penalties or other amounts; or
+
+- (c) any provision of provincial legislation that has a purpose similar to subsection 224(1.2) of the *Income Tax Act*, or that refers to that subsection, to the extent that it provides for the collection of a sum, and of any related interest, penalties or other amounts, and the sum
+  - (i) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar in nature to the income tax imposed on individuals under the *Income Tax Act*, or
+  - (ii) is of the same nature as a contribution under the *Canada Pension Plan* if the province is a **province providing a comprehensive pension plan** as defined in subsection 3(1) of the *Canada Pension Plan* and the provincial legislation establishes a **provincial pension plan** as defined in that subsection.
+
+**Restriction — default of remittance to Crown**
+
+(4) If an order contains a provision authorized by section 11.09, no compromise or arrangement is to be sanctioned by the court if, at the time the court hears the application for sanction, Her Majesty in right of Canada or a province satisfies the court that the company is in default on any remittance of an amount referred to in subsection (3) that became due after the time of the application for an order under section 11.02.
+
+**Restriction — employees, etc.**
+
+(5) The court may sanction a compromise or an arrangement only if
+
+- (a) the compromise or arrangement provides for payment to the employees and former employees of the company, immediately after the court’s sanction, of
+  - (i) amounts at least equal to the amounts that they would have been qualified to receive under paragraph 136(1)(d) of the *Bankruptcy and Insolvency Act* if the company had become bankrupt on the day on which proceedings commenced under this Act, and
+  - (ii) wages, salaries, commissions or compensation for services rendered after proceedings commence under this Act and before the court sanctions the compromise or arrangement, together with, in the case of travelling salespersons, disbursements properly incurred by them in and about the company’s business during the same period; and
+
+- (b) the court is satisfied that the company can and will make the payments as required under paragraph (a).
+
+**Restriction — pension plan**
+
+(6) If the company participates in a prescribed pension plan for the benefit of its employees, the court may sanction a compromise or an arrangement in respect of the company only if
+
+- (a) the compromise or arrangement provides for payment of the following amounts that are unpaid to the fund established for the purpose of the pension plan:
+  - (i) an amount equal to the sum of all amounts that were deducted from the employees’ remuneration for payment to the fund,
+  - (ii) if the prescribed pension plan is regulated by an Act of Parliament,
+    - (A) an amount equal to the normal cost, within the meaning of subsection 2(1) of the *Pension Benefits Standards Regulations, 1985*, that was required to be paid by the employer to the fund, and
+    - (A.1) an amount equal to the sum of all special payments, determined in accordance with section 9 of the *Pension Benefits Standards Regulations, 1985*, that were required to be paid by the employer to the fund referred to in sections 81.5 and 81.6 of the *Bankruptcy and Insolvency Act* to liquidate an unfunded liability or a solvency deficiency,
+    - (A.2) any amount required to liquidate any other unfunded liability or solvency deficiency of the fund as determined on the day on which proceedings commence under this Act,
+    - (B) an amount equal to the sum of all amounts that were required to be paid by the employer to the fund under a defined contribution provision, within the meaning of subsection 2(1) of the *Pension Benefits Standards Act, 1985*,
+    - (C) an amount equal to the sum of all amounts that were required to be paid by the employer to the administrator of a pooled registered pension plan, as defined in subsection 2(1) of the **Pooled Registered Pension Plans Act**, and
+  - (iii) in the case of any other prescribed pension plan,
+    - (A) an amount equal to the amount that would be the normal cost, within the meaning of subsection 2(1) of the *Pension Benefits Standards Regulations, 1985*, that the employer would be required to pay to the fund if the prescribed plan were regulated by an Act of Parliament, and
+    - (A.1) an amount equal to the sum of all special payments, determined in accordance with section 9 of the *Pension Benefits Standards Regulations, 1985*, that would have been required to be paid by the employer to the fund referred to in sections 81.5 and 81.6 of the *Bankruptcy and Insolvency Act* to liquidate an unfunded liability or a solvency deficiency if the prescribed plan were regulated by an Act of Parliament,
+    - (A.2) any amount required to liquidate any other unfunded liability or solvency deficiency of the fund as determined on the day on which proceedings commence under this Act,
+    - (B) an amount equal to the sum of all amounts that would have been required to be paid by the employer to the fund under a defined contribution provision, within the meaning of subsection 2(1) of the *Pension Benefits Standards Act, 1985*, if the prescribed plan were regulated by an Act of Parliament,
+    - (C) an amount equal to the sum of all amounts that would have been required to be paid by the employer in respect of a prescribed plan, if it were regulated by the *Pooled Registered Pension Plans Act*; and
+
+- (b) the court is satisfied that the company can and will make the payments as required under paragraph (a).
+
+**Non-application of subsection (6)**
+
+(7) Despite subsection (6), the court may sanction a compromise or arrangement that does not allow for the payment of the amounts referred to in that subsection if it is satisfied that the relevant parties have entered into an agreement, approved by the relevant pension regulator, respecting the payment of those amounts.
+
+**Payment — equity claims**
+
+(8) No compromise or arrangement that provides for the payment of an equity claim is to be sanctioned by the court unless it provides that all claims that are not equity claims are to be paid in full before the equity claim is to be paid.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 6; 1992, c. 27, s. 90; 1996, c. 6, s. 167; 1997, c. 12, s. 123; 2004, c. 25, s. 194; 2005, c. 47, s. 126, 2007, c. 36, s. 106; 2009, c. 33, s. 27; 2012, c. 16, s. 82
+- 2023, c. 6, s. 5
+
+</details>
+
+### 7 Court may give directions
+
+Where an alteration or a modification of any compromise or arrangement is proposed at any time after the court has directed a meeting or meetings to be summoned, the meeting or meetings may be adjourned on such term as to notice and otherwise as the court may direct, and those directions may be given after as well as before adjournment of any meeting or meetings, and the court may in its discretion direct that it is not necessary to adjourn any meeting or to convene any further meeting of any class of creditors or shareholders that in the opinion of the court is not adversely affected by the alteration or modification proposed, and any compromise or arrangement so altered or modified may be sanctioned by the court and have effect under section 6.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-25, s. 7
+
+</details>
+
+### 8 Scope of Act
+
+This Act extends and does not limit the provisions of any instrument now or hereafter existing that governs the rights of creditors or any class of them and has full force and effect notwithstanding anything to the contrary contained in that instrument.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-25, s. 8
+
+</details>
+
+### 8.1 Right of unpaid supplier of perishable fruits or vegetables
+
+(1) Subject to this section, if a person (in this section referred to as the “supplier”) has sold to a debtor company (in this section referred to as the “purchaser”) perishable fruits or vegetables for use in relation to the purchaser’s business and the purchaser has not fully paid the supplier, the perishable fruits or vegetables, as well as any of the proceeds of sale, are deemed to be held in trust by the purchaser for the supplier, if
+
+- (a) the supplier has included in their invoice a notice, or has otherwise given notice within 30 days of the receipt by the purchaser of the perishable fruits or vegetables, in the prescribed form and manner, informing the purchaser of their intention to avail themselves of their right as beneficial owner of the perishable fruits or vegetables and the proceeds of sale in case the purchaser applies to the court to sanction a compromise or an arrangement;
+
+- (b) the purchaser has 30 days or less to pay the entire balance owing to the supplier; and
+
+- (c) the purchaser does not pay to the supplier the entire balance owing when it becomes due as provided in the invoice.
+
+**Clarification**
+
+(2) For greater certainty, once the perishable fruits or vegetables, as well as any of the proceeds of sale, are deemed to be held in trust by the purchaser for the supplier in accordance with subsection (1), they are not included in the property of the purchaser.
+
+**Provincial law**
+
+(3) The laws of general application in relation to trusts and trustees in force in the province in which the purchaser resided or carried on business when the purchaser applied to the court to sanction a compromise or an arrangement apply to the trust, and in the event of any inconsistency or conflict between this section and the provisions of any of those laws, the provisions of those laws prevail to the extent of the inconsistency or conflict.
+
+**Definitions**
+
+(4) The following definitions apply in this section.
+
+**perishable fruits or vegetables** includes perishable fruits and vegetables that have been repackaged or transformed by the purchaser to the extent that the nature of the fruits or vegetables remains unchanged. (**fruits ou légumes périssables**)
+
+**proceeds of sale** means the proceeds from the sale by the purchaser of the perishable fruits or vegetables that are subject to the trust, whether or not those proceeds have been kept by the purchaser in a separate account or have been combined with other funds. (**produit de vente**)
+
+<details>
+<summary>Historical Note</summary>
+
+- 2024, c. 31, s. 3
+
+</details>
+
+## Jurisdiction of Courts
+
+### 9 Jurisdiction of court to receive applications
+
+(1) Any application under this Act may be made to the court that has jurisdiction in the province within which the head office or chief place of business of the company in Canada is situated, or, if the company has no place of business in Canada, in any province within which any assets of the company are situated.
+
+**Single judge may exercise powers, subject to appeal**
+
+(2) The powers conferred by this Act on a court may, subject to appeal as provided for in this Act, be exercised by a single judge thereof, and those powers may be exercised in chambers during term or in vacation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-25, s. 9
+
+</details>
+
+### 10 Form of applications
+
+(1) Applications under this Act shall be made by petition or by way of originating summons or notice of motion in accordance with the practice of the court in which the application is made.
+
+**Documents that must accompany initial application**
+
+(2) An initial application must be accompanied by
+
+- (a) a statement indicating, on a weekly basis, the projected cash flow of the debtor company;
+
+- (b) a report containing the prescribed representations of the debtor company regarding the preparation of the cash-flow statement; and
+
+- (c) copies of all financial statements, audited or unaudited, prepared during the year before the application or, if no such statements were prepared in that year, a copy of the most recent such statement.
+
+**Publication ban**
+
+(3) The court may make an order prohibiting the release to the public of any cash-flow statement, or any part of a cash-flow statement, if it is satisfied that the release would unduly prejudice the debtor company and the making of the order would not unduly prejudice the company’s creditors, but the court may, in the order, direct that the cash-flow statement or any part of it be made available to any person specified in the order on any terms or conditions that the court considers appropriate.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 10; 2005, c. 47, s. 127
+
+</details>
+
+### 11 General power of court
+
+Despite anything in the *Bankruptcy and Insolvency Act* or the *Winding-up and Restructuring Act*, if an application is made under this Act in respect of a debtor company, the court, on the application of any person interested in the matter, may, subject to the restrictions set out in this Act, on notice to any other person or without notice as it may see fit, make any order that it considers appropriate in the circumstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 11; 1992, c. 27, s. 90; 1996, c. 6, s. 167; 1997, c. 12, s. 124; 2005, c. 47, s. 128
+
+</details>
+
+### 11.001 Relief reasonably necessary
+
+An order made under section 11 at the same time as an order made under subsection 11.02(1) or during the period referred to in an order made under that subsection with respect to an initial application shall be limited to relief that is reasonably necessary for the continued operations of the debtor company in the ordinary course of business during that period.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, c. 29, s. 136
+
+</details>
+
+### 11.01 Rights of suppliers
+
+No order made under section 11 or 11.02 has the effect of
+
+- (a) prohibiting a person from requiring immediate payment for goods, services, use of leased or licensed property or other valuable consideration provided after the order is made; or
+
+- (b) requiring the further advance of money or credit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 128
+
+</details>
+
+### 11.02 Stays, etc. — initial application
+
+(1) A court may, on an initial application in respect of a debtor company, make an order on any terms that it may impose, effective for the period that the court considers necessary, which period may not be more than 10 days,
+
+- (a) staying, until otherwise ordered by the court, all proceedings taken or that might be taken in respect of the company under the *Bankruptcy and Insolvency Act* or the *Winding-up and Restructuring Act*;
+
+- (b) restraining, until otherwise ordered by the court, further proceedings in any action, suit or proceeding against the company; and
+
+- (c) prohibiting, until otherwise ordered by the court, the commencement of any action, suit or proceeding against the company.
+
+**Stays, etc. — other than initial application**
+
+(2) A court may, on an application in respect of a debtor company other than an initial application, make an order, on any terms that it may impose,
+
+- (a) staying, until otherwise ordered by the court, for any period that the court considers necessary, all proceedings taken or that might be taken in respect of the company under an Act referred to in paragraph (1)(a);
+
+- (b) restraining, until otherwise ordered by the court, further proceedings in any action, suit or proceeding against the company; and
+
+- (c) prohibiting, until otherwise ordered by the court, the commencement of any action, suit or proceeding against the company.
+
+**Burden of proof on application**
+
+(3) The court shall not make the order unless
+
+- (a) the applicant satisfies the court that circumstances exist that make the order appropriate; and
+
+- (b) in the case of an order under subsection (2), the applicant also satisfies the court that the applicant has acted, and is acting, in good faith and with due diligence.
+
+**Restriction**
+
+(4) Orders doing anything referred to in subsection (1) or (2) may only be made under this section.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 128, 2007, c. 36, s. 62(F)
+- 2019, c. 29, s. 137
+
+</details>
+
+### 11.03 Stays — directors
+
+(1) An order made under section 11.02 may provide that no person may commence or continue any action against a director of the company on any claim against directors that arose before the commencement of proceedings under this Act and that relates to obligations of the company if directors are under any law liable in their capacity as directors for the payment of those obligations, until a compromise or an arrangement in respect of the company, if one is filed, is sanctioned by the court or is refused by the creditors or the court.
+
+**Exception**
+
+(2) Subsection (1) does not apply in respect of an action against a director on a guarantee given by the director relating to the company’s obligations or an action seeking injunctive relief against a director in relation to the company.
+
+**Persons deemed to be directors**
+
+(3) If all of the directors have resigned or have been removed by the shareholders without replacement, any person who manages or supervises the management of the business and affairs of the company is deemed to be a director for the purposes of this section.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 128
+
+</details>
+
+### 11.04 Persons obligated under letter of credit or guarantee
+
+No order made under section 11.02 has affect on any action, suit or proceeding against a person, other than the company in respect of whom the order is made, who is obligated under a letter of credit or guarantee in relation to the company.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 128
+
+</details>
+
+### 11.05
+
+[Repealed, 2007, c. 29, s. 105]
+
+### 11.06 Member of the Canadian Payments Association
+
+No order may be made under this Act that has the effect of preventing a member of the Canadian Payments Association from ceasing to act as a clearing agent or group clearer for a company in accordance with the *Canadian Payments Act* or the by-laws or rules of that Association.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 128, 2007, c. 36, s. 64
+
+</details>
+
+### 11.07
+
+[Repealed, 2012, c. 31, s. 420]
+
+### 11.08 Restriction — certain powers, duties and functions
+
+No order may be made under section 11.02 that affects
+
+- (a) the exercise or performance by the Minister of Finance or the Superintendent of Financial Institutions of any power, duty or function assigned to them by the *Bank Act*, the *Cooperative Credit Associations Act*, the *Insurance Companies Act* or the *Trust and Loan Companies Act*;
+
+- (b) the exercise or performance by the Governor in Council, the Minister of Finance or the Canada Deposit Insurance Corporation of any power, duty or function assigned to them by the *Canada Deposit Insurance Corporation Act*; or
+
+- (c) the exercise by the Attorney General of Canada of any power, assigned to him or her by the *Winding-up and Restructuring Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 128
+
+</details>
+
+### 11.09 Stay — Her Majesty
+
+(1) An order made under section 11.02 may provide that
+
+- (a) Her Majesty in right of Canada may not exercise rights under subsection 224(1.2) of the *Income Tax Act* or any provision of the *Canada Pension Plan* or of the *Employment Insurance Act* that refers to subsection 224(1.2) of the *Income Tax Act* and provides for the collection of a contribution, as defined in the *Canada Pension Plan*, an employee’s premium, or employer’s premium, as defined in the *Employment Insurance Act*, or a premium under Part VII.1 of that Act, and of any related interest, penalties or other amounts, in respect of the company if the company is a tax debtor under that subsection or provision, for the period that the court considers appropriate but ending not later than
+  - (i) the expiry of the order,
+  - (ii) the refusal of a proposed compromise by the creditors or the court,
+  - (iii) six months following the court sanction of a compromise or an arrangement,
+  - (iv) the default by the company on any term of a compromise or an arrangement, or
+  - (v) the performance of a compromise or an arrangement in respect of the company; and
+
+- (b) Her Majesty in right of a province may not exercise rights under any provision of provincial legislation in respect of the company if the company is a debtor under that legislation and the provision has a purpose similar to subsection 224(1.2) of the *Income Tax Act*, or refers to that subsection, to the extent that it provides for the collection of a sum, and of any related interest, penalties or other amounts, and the sum
+  - (i) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar in nature to the income tax imposed on individuals under the *Income Tax Act*, or
+  - (ii) is of the same nature as a contribution under the *Canada Pension Plan* if the province is a **province providing a comprehensive pension plan** as defined in subsection 3(1) of the *Canada Pension Plan* and the provincial legislation establishes a **provincial pension plan** as defined in that subsection,
+  for the period that the court considers appropriate but ending not later than the occurrence or time referred to in whichever of subparagraphs (a)(i) to (v) that may apply.
+
+**When order ceases to be in effect**
+
+(2) The portions of an order made under section 11.02 that affect the exercise of rights of Her Majesty referred to in paragraph (1)(a) or (b) cease to be in effect if
+
+- (a) the company defaults on the payment of any amount that becomes due to Her Majesty after the order is made and could be subject to a demand under
+  - (i) subsection 224(1.2) of the *Income Tax Act*,
+  - (ii) any provision of the *Canada Pension Plan* or of the *Employment Insurance Act* that refers to subsection 224(1.2) of the *Income Tax Act* and provides for the collection of a contribution, as defined in the *Canada Pension Plan*, an employee’s premium, or employer’s premium, as defined in the *Employment Insurance Act*, or a premium under Part VII.1 of that Act, and of any related interest, penalties or other amounts, or
+  - (iii) any provision of provincial legislation that has a purpose similar to subsection 224(1.2) of the *Income Tax Act*, or that refers to that subsection, to the extent that it provides for the collection of a sum, and of any related interest, penalties or other amounts, and the sum
+    - (A) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar in nature to the income tax imposed on individuals under the *Income Tax Act*, or
+    - (B) is of the same nature as a contribution under the *Canada Pension Plan* if the province is a **province providing a comprehensive pension plan** as defined in subsection 3(1) of the *Canada Pension Plan* and the provincial legislation establishes a **provincial pension plan** as defined in that subsection; or
+
+- (b) any other creditor is or becomes entitled to realize a security on any property that could be claimed by Her Majesty in exercising rights under
+  - (i) subsection 224(1.2) of the *Income Tax Act*,
+  - (ii) any provision of the *Canada Pension Plan* or of the *Employment Insurance Act* that refers to subsection 224(1.2) of the *Income Tax Act* and provides for the collection of a contribution, as defined in the *Canada Pension Plan*, an employee’s premium, or employer’s premium, as defined in the *Employment Insurance Act*, or a premium under Part VII.1 of that Act, and of any related interest, penalties or other amounts, or
+  - (iii) any provision of provincial legislation that has a purpose similar to subsection 224(1.2) of the *Income Tax Act*, or that refers to that subsection, to the extent that it provides for the collection of a sum, and of any related interest, penalties or other amounts, and the sum
+    - (A) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar in nature to the income tax imposed on individuals under the *Income Tax Act*, or
+    - (B) is of the same nature as a contribution under the *Canada Pension Plan* if the province is a **province providing a comprehensive pension plan** as defined in subsection 3(1) of the *Canada Pension Plan* and the provincial legislation establishes a **provincial pension plan** as defined in that subsection.
+
+**Operation of similar legislation**
+
+(3) An order made under section 11.02, other than the portions of that order that affect the exercise of rights of Her Majesty referred to in paragraph (1)(a) or (b), does not affect the operation of
+
+- (a) subsections 224(1.2) and (1.3) of the *Income Tax Act*,
+
+- (b) any provision of the *Canada Pension Plan* or of the *Employment Insurance Act* that refers to subsection 224(1.2) of the *Income Tax Act* and provides for the collection of a contribution, as defined in the *Canada Pension Plan*, an employee’s premium, or employer’s premium, as defined in the *Employment Insurance Act*, or a premium under Part VII.1 of that Act, and of any related interest, penalties or other amounts, or
+
+- (c) any provision of provincial legislation that has a purpose similar to subsection 224(1.2) of the *Income Tax Act*, or that refers to that subsection, to the extent that it provides for the collection of a sum, and of any related interest, penalties or other amounts, and the sum
+  - (i) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar in nature to the income tax imposed on individuals under the *Income Tax Act*, or
+  - (ii) is of the same nature as a contribution under the *Canada Pension Plan* if the province is a **province providing a comprehensive pension plan** as defined in subsection 3(1) of the *Canada Pension Plan* and the provincial legislation establishes a **provincial pension plan** as defined in that subsection,
+
+and for the purpose of paragraph (c), the provision of provincial legislation is, despite any Act of Canada or of a province or any other law, deemed to have the same effect and scope against any creditor, however secured, as subsection 224(1.2) of the *Income Tax Act* in respect of a sum referred to in subparagraph (c)(i), or as subsection 23(2) of the *Canada Pension Plan* in respect of a sum referred to in subparagraph (c)(ii), and in respect of any related interest, penalties or other amounts.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 128; 2009, c. 33, s. 28
+
+</details>
+
+### 11.1 Meaning of **regulatory body**
+
+(1) In this section, **regulatory body** means a person or body that has powers, duties or functions relating to the enforcement or administration of an Act of Parliament or of the legislature of a province and includes a person or body that is prescribed to be a regulatory body for the purpose of this Act.
+
+**Regulatory bodies — order under section 11.02**
+
+(2) Subject to subsection (3), no order made under section 11.02 affects a regulatory body’s investigation in respect of the debtor company or an action, suit or proceeding that is taken in respect of the company by or before the regulatory body, other than the enforcement of a payment ordered by the regulatory body or the court.
+
+**Exception**
+
+(3) On application by the company and on notice to the regulatory body and to the persons who are likely to be affected by the order, the court may order that subsection (2) not apply in respect of one or more of the actions, suits or proceedings taken by or before the regulatory body if in the court’s opinion
+
+- (a) a viable compromise or arrangement could not be made in respect of the company if that subsection were to apply; and
+
+- (b) it is not contrary to the public interest that the regulatory body be affected by the order made under section 11.02.
+
+**Declaration — enforcement of a payment**
+
+(4) If there is a dispute as to whether a regulatory body is seeking to enforce its rights as a creditor, the court may, on application by the company and on notice to the regulatory body, make an order declaring both that the regulatory body is seeking to enforce its rights as a creditor and that the enforcement of those rights is stayed.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 124; 2001, c. 9, s. 576; 2005, c. 47, s. 128; 2007, c. 29, s. 106, c. 36, s. 65
+
+</details>
+
+### 11.11
+
+[Repealed, 2005, c. 47, s. 128]
+
+### 11.2 Interim financing
+
+(1) On application by a debtor company and on notice to the secured creditors who are likely to be affected by the security or charge, a court may make an order declaring that all or part of the company’s property is subject to a security or charge — in an amount that the court considers appropriate — in favour of a person specified in the order who agrees to lend to the company an amount approved by the court as being required by the company, having regard to its cash-flow statement. The security or charge may not secure an obligation that exists before the order is made.
+
+**Priority — secured creditors**
+
+(2) The court may order that the security or charge rank in priority over the claim of any secured creditor of the company.
+
+**Priority — other orders**
+
+(3) The court may order that the security or charge rank in priority over any security or charge arising from a previous order made under subsection (1) only with the consent of the person in whose favour the previous order was made.
+
+**Factors to be considered**
+
+(4) In deciding whether to make an order, the court is to consider, among other things,
+
+- (a) the period during which the company is expected to be subject to proceedings under this Act;
+
+- (b) how the company’s business and financial affairs are to be managed during the proceedings;
+
+- (c) whether the company’s management has the confidence of its major creditors;
+
+- (d) whether the loan would enhance the prospects of a viable compromise or arrangement being made in respect of the company;
+
+- (e) the nature and value of the company’s property;
+
+- (f) whether any creditor would be materially prejudiced as a result of the security or charge; and
+
+- (g) the monitor’s report referred to in paragraph 23(1)(b), if any.
+
+**Additional factor — initial application**
+
+(5) When an application is made under subsection (1) at the same time as an initial application referred to in subsection 11.02(1) or during the period referred to in an order made under that subsection, no order shall be made under subsection (1) unless the court is also satisfied that the terms of the loan are limited to what is reasonably necessary for the continued operations of the debtor company in the ordinary course of business during that period.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 124; 2005, c. 47, s. 128; 2007, c. 36, s. 65
+- 2019, c. 29, s. 138
+
+</details>
+
+### 11.3 Assignment of agreements
+
+(1) On application by a debtor company and on notice to every party to an agreement and the monitor, the court may make an order assigning the rights and obligations of the company under the agreement to any person who is specified by the court and agrees to the assignment.
+
+**Exceptions**
+
+(2) Subsection (1) does not apply in respect of rights and obligations that are not assignable by reason of their nature or that arise under
+
+- (a) an agreement entered into on or after the day on which proceedings commence under this Act;
+
+- (b) an eligible financial contract; or
+
+- (c) a collective agreement.
+
+**Factors to be considered**
+
+(3) In deciding whether to make the order, the court is to consider, among other things,
+
+- (a) whether the monitor approved the proposed assignment;
+
+- (b) whether the person to whom the rights and obligations are to be assigned would be able to perform the obligations; and
+
+- (c) whether it would be appropriate to assign the rights and obligations to that person.
+
+**Restriction**
+
+(4) The court may not make the order unless it is satisfied that all monetary defaults in relation to the agreement — other than those arising by reason only of the company’s insolvency, the commencement of proceedings under this Act or the company’s failure to perform a non-monetary obligation — will be remedied on or before the day fixed by the court.
+
+**Copy of order**
+
+(5) The applicant is to send a copy of the order to every party to the agreement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 124; 2005, c. 47, s. 128; 2007, c. 29, s. 107, c. 36, ss. 65, 112
+
+</details>
+
+### 11.31
+
+[Repealed, 2005, c. 47, s. 128]
+
+### 11.4 Critical supplier
+
+(1) On application by a debtor company and on notice to the secured creditors who are likely to be affected by the security or charge, the court may make an order declaring a person to be a critical supplier to the company if the court is satisfied that the person is a supplier of goods or services to the company and that the goods or services that are supplied are critical to the company’s continued operation.
+
+**Obligation to supply**
+
+(2) If the court declares a person to be a critical supplier, the court may make an order requiring the person to supply any goods or services specified by the court to the company on any terms and conditions that are consistent with the supply relationship or that the court considers appropriate.
+
+**Security or charge in favour of critical supplier**
+
+(3) If the court makes an order under subsection (2), the court shall, in the order, declare that all or part of the property of the company is subject to a security or charge in favour of the person declared to be a critical supplier, in an amount equal to the value of the goods or services supplied under the terms of the order.
+
+**Priority**
+
+(4) The court may order that the security or charge rank in priority over the claim of any secured creditor of the company.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 124; 2000, c. 30, s. 156; 2001, c. 34, s. 33(E); 2005, c. 47, s. 128; 2007, c. 36, s. 65
+
+</details>
+
+### 11.5 Removal of directors
+
+(1) The court may, on the application of any person interested in the matter, make an order removing from office any director of a debtor company in respect of which an order has been made under this Act if the court is satisfied that the director is unreasonably impairing or is likely to unreasonably impair the possibility of a viable compromise or arrangement being made in respect of the company or is acting or is likely to act inappropriately as a director in the circumstances.
+
+**Filling vacancy**
+
+(2) The court may, by order, fill any vacancy created under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 124; 2005, c. 47, s. 128
+
+</details>
+
+### 11.51 Security or charge relating to director’s indemnification
+
+(1) On application by a debtor company and on notice to the secured creditors who are likely to be affected by the security or charge, the court may make an order declaring that all or part of the property of the company is subject to a security or charge — in an amount that the court considers appropriate — in favour of any director or officer of the company to indemnify the director or officer against obligations and liabilities that they may incur as a director or officer of the company after the commencement of proceedings under this Act.
+
+**Priority**
+
+(2) The court may order that the security or charge rank in priority over the claim of any secured creditor of the company.
+
+**Restriction — indemnification insurance**
+
+(3) The court may not make the order if in its opinion the company could obtain adequate indemnification insurance for the director or officer at a reasonable cost.
+
+**Negligence, misconduct or fault**
+
+(4) The court shall make an order declaring that the security or charge does not apply in respect of a specific obligation or liability incurred by a director or officer if in its opinion the obligation or liability was incurred as a result of the director’s or officer’s gross negligence or wilful misconduct or, in Quebec, the director’s or officer’s gross or intentional fault.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 128; 2007, c. 36, s. 66
+
+</details>
+
+### 11.52 Court may order security or charge to cover certain costs
+
+(1) On notice to the secured creditors who are likely to be affected by the security or charge, the court may make an order declaring that all or part of the property of a debtor company is subject to a security or charge — in an amount that the court considers appropriate — in respect of the fees and expenses of
+
+- (a) the monitor, including the fees and expenses of any financial, legal or other experts engaged by the monitor in the performance of the monitor’s duties;
+
+- (b) any financial, legal or other experts engaged by the company for the purpose of proceedings under this Act; and
+
+- (c) any financial, legal or other experts engaged by any other interested person if the court is satisfied that the security or charge is necessary for their effective participation in proceedings under this Act.
+
+**Priority**
+
+(2) The court may order that the security or charge rank in priority over the claim of any secured creditor of the company.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 128; 2007, c. 36, s. 66
+
+</details>
+
+### 11.6 *Bankruptcy and Insolvency Act* matters
+
+Notwithstanding the *Bankruptcy and Insolvency Act*,
+
+- (a) proceedings commenced under Part III of the *Bankruptcy and Insolvency Act* may be taken up and continued under this Act only if a proposal within the meaning of the *Bankruptcy and Insolvency Act* has not been filed under that Part; and
+
+- (b) an application under this Act by a bankrupt may only be made with the consent of inspectors referred to in section 116 of the *Bankruptcy and Insolvency Act* but no application may be made under this Act by a bankrupt whose bankruptcy has resulted from
+  - (i) the operation of subsection 50.4(8) of the *Bankruptcy and Insolvency Act*, or
+  - (ii) the refusal or deemed refusal by the creditors or the court, or the annulment, of a proposal under the *Bankruptcy and Insolvency Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 124
+
+</details>
+
+### 11.7 Court to appoint monitor
+
+(1) When an order is made on the initial application in respect of a debtor company, the court shall at the same time appoint a person to monitor the business and financial affairs of the company. The person so appointed must be a trustee, within the meaning of subsection 2(1) of the *Bankruptcy and Insolvency Act*.
+
+**Restrictions on who may be monitor**
+
+(2) Except with the permission of the court and on any conditions that the court may impose, no trustee may be appointed as monitor in relation to a company
+
+- (a) if the trustee is or, at any time during the two preceding years, was
+  - (i) a director, an officer or an employee of the company,
+  - (ii) related to the company or to any director or officer of the company, or
+  - (iii) the auditor, accountant or legal counsel, or a partner or an employee of the auditor, accountant or legal counsel, of the company; or
+
+- (b) if the trustee is
+  - (i) the trustee under a trust indenture issued by the company or any person related to the company, or the holder of a power of attorney under an act constituting a hypothec within the meaning of the *Civil Code of Quebec* that is granted by the company or any person related to the company, or
+  - (ii) related to the trustee, or the holder of a power of attorney, referred to in subparagraph (i).
+
+**Court may replace monitor**
+
+(3) On application by a creditor of the company, the court may, if it considers it appropriate in the circumstances, replace the monitor by appointing another trustee, within the meaning of subsection 2(1) of the *Bankruptcy and Insolvency Act*, to monitor the business and financial affairs of the company.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 124; 2005, c. 47, s. 129
+
+</details>
+
+### 11.8 No personal liability in respect of matters before appointment
+
+(1) Despite anything in federal or provincial law, if a monitor, in that position, carries on the business of a debtor company or continues the employment of a debtor company’s employees, the monitor is not by reason of that fact personally liable in respect of a liability, including one as a successor employer,
+
+- (a) that is in respect of the employees or former employees of the company or a predecessor of the company or in respect of a pension plan for the benefit of those employees; and
+
+- (b) that exists before the monitor is appointed or that is calculated by reference to a period before the appointment.
+
+**Status of liability**
+
+(2) A liability referred to in subsection (1) shall not rank as costs of administration.
+
+**Liability of other successor employers**
+
+(2.1) Subsection (1) does not affect the liability of a successor employer other than the monitor.
+
+**Liability in respect of environmental matters**
+
+(3) Notwithstanding anything in any federal or provincial law, a monitor is not personally liable in that position for any environmental condition that arose or environmental damage that occurred
+
+- (a) before the monitor’s appointment; or
+
+- (b) after the monitor’s appointment unless it is established that the condition arose or the damage occurred as a result of the monitor’s gross negligence or wilful misconduct.
+
+**Reports, etc., still required**
+
+(4) Nothing in subsection (3) exempts a monitor from any duty to report or make disclosure imposed by a law referred to in that subsection.
+
+**Non-liability re certain orders**
+
+(5) Notwithstanding anything in any federal or provincial law but subject to subsection (3), where an order is made which has the effect of requiring a monitor to remedy any environmental condition or environmental damage affecting property involved in a proceeding under this Act, the monitor is not personally liable for failure to comply with the order, and is not personally liable for any costs that are or would be incurred by any person in carrying out the terms of the order,
+
+- (a) if, within such time as is specified in the order, within ten days after the order is made if no time is so specified, within ten days after the appointment of the monitor, if the order is in effect when the monitor is appointed or during the period of the stay referred to in paragraph (b), the monitor
+  - (i) complies with the order, or
+  - (ii) on notice to the person who issued the order, abandons, disposes of or otherwise releases any interest in any real property affected by the condition or damage;
+
+- (b) during the period of a stay of the order granted, on application made within the time specified in the order referred to in paragraph (a) or within ten days after the order is made or within ten days after the appointment of the monitor, if the order is in effect when the monitor is appointed, by
+  - (i) the court or body having jurisdiction under the law pursuant to which the order was made to enable the monitor to contest the order, or
+  - (ii) the court having jurisdiction under this Act for the purposes of assessing the economic viability of complying with the order; or
+
+- (c) if the monitor had, before the order was made, abandoned or renounced any interest in any real property affected by the condition or damage.
+
+**Stay may be granted**
+
+(6) The court may grant a stay of the order referred to in subsection (5) on such notice and for such period as the court deems necessary for the purpose of enabling the monitor to assess the economic viability of complying with the order.
+
+**Costs for remedying not costs of administration**
+
+(7) Where the monitor has abandoned or renounced any interest in real property affected by the environmental condition or environmental damage, claims for costs of remedying the condition or damage shall not rank as costs of administration.
+
+**Priority of claims**
+
+(8) Any claim by Her Majesty in right of Canada or a province against a debtor company in respect of which proceedings have been commenced under this Act for costs of remedying any environmental condition or environmental damage affecting real property of the company is secured by a charge on the real property and on any other real property of the company that is contiguous thereto and that is related to the activity that caused the environmental condition or environmental damage, and the charge
+
+- (a) is enforceable in accordance with the law of the jurisdiction in which the real property is located, in the same way as a mortgage, hypothec or other security on real property; and
+
+- (b) ranks above any other claim, right or charge against the property, notwithstanding any other provision of this Act or anything in any other federal or provincial law.
+
+**Claim for clean-up costs**
+
+(9) A claim against a debtor company for costs of remedying any environmental condition or environmental damage affecting real property of the company shall be a claim under this Act, whether the condition arose or the damage occurred before or after the date on which proceedings under this Act were commenced.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 124; 2007, c. 36, s. 67
+
+</details>
+
+### 11.9 Disclosure of financial information
+
+(1) A court may, on any application under this Act in respect of a debtor company, by any person interested in the matter and on notice to any interested person who is likely to be affected by an order made under this section, make an order requiring that person to disclose any aspect of their economic interest in respect of a debtor company, on any terms that the court considers appropriate.
+
+**Factors to be considered**
+
+(2) In deciding whether to make an order, the court is to consider, among other things,
+
+- (a) whether the monitor approved the proposed disclosure;
+
+- (b) whether the disclosed information would enhance the prospects of a viable compromise or arrangement being made in respect of the debtor company; and
+
+- (c) whether any interested person would be materially prejudiced as a result of the disclosure.
+
+**Meaning of **economic interest****
+
+(3) In this section, **economic interest** includes
+
+- (a) a claim, an eligible financial contract, an option or a mortgage, hypothec, pledge, charge, lien or any other security interest;
+
+- (b) the consideration paid for any right or interest, including those referred to in paragraph (a); or
+
+- (c) any other prescribed right or interest.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, c. 29, s. 139
+
+</details>
+
+### 12 Fixing deadlines
+
+The court may fix deadlines for the purposes of voting and for the purposes of distributions under a compromise or arrangement.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 12; 1992, c. 27, s. 90; 1996, c. 6, s. 167; 2004, c. 25, s. 195; 2005, c. 47, s. 130; 2007, c. 36, s. 68
+
+</details>
+
+### 13 Leave to appeal
+
+Except in Yukon, any person dissatisfied with an order or a decision made under this Act may appeal from the order or decision on obtaining leave of the judge appealed from or of the court or a judge of the court to which the appeal lies and on such terms as to security and in other respects as the judge or court directs.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 13; 2002, c. 7, s. 134
+
+</details>
+
+### 14 Court of appeal
+
+(1) An appeal under section 13 lies to the highest court of final resort in or for the province in which the proceeding originated.
+
+**Practice**
+
+(2) All appeals under section 13 shall be regulated as far as possible according to the practice in other cases of the court appealed to, but no appeal shall be entertained unless, within twenty-one days after the rendering of the order or decision being appealed, or within such further time as the court appealed from, or, in Yukon, a judge of the Supreme Court of Canada, allows, the appellant has taken proceedings therein to perfect his or her appeal, and within that time he or she has made a deposit or given sufficient security according to the practice of the court appealed to that he or she will duly prosecute the appeal and pay such costs as may be awarded to the respondent and comply with any terms as to security or otherwise imposed by the judge giving leave to appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 14; 2002, c. 7, s. 135
+
+</details>
+
+### 15 Appeals
+
+(1) An appeal lies to the Supreme Court of Canada on leave therefor being granted by that Court from the highest court of final resort in or for the province or territory in which the proceeding originated.
+
+**Jurisdiction of Supreme Court of Canada**
+
+(2) The Supreme Court of Canada shall have jurisdiction to hear and to decide according to its ordinary procedure any appeal under subsection (1) and to award costs.
+
+**Stay of proceedings**
+
+(3) No appeal to the Supreme Court of Canada shall operate as a stay of proceedings unless and to the extent ordered by that Court.
+
+**Security for costs**
+
+(4) The appellant in an appeal under subsection (1) shall not be required to provide any security for costs, but, unless he provides security for costs in an amount to be fixed by the Supreme Court of Canada, he shall not be awarded costs in the event of his success on the appeal.
+
+**Decision final**
+
+(5) The decision of the Supreme Court of Canada on any appeal under subsection (1) is final and conclusive.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-25, s. 15; R.S., c. 44(1st Supp.), s. 10
+
+</details>
+
+### 16 Order of court of one province
+
+Every order made by the court in any province in the exercise of jurisdiction conferred by this Act in respect of any compromise or arrangement shall have full force and effect in all the other provinces and shall be enforced in the court of each of the other provinces in the same manner in all respects as if the order had been made by the court enforcing it.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-25, s. 16
+
+</details>
+
+### 17 Courts shall aid each other on request
+
+All courts that have jurisdiction under this Act and the officers of those courts shall act in aid of and be auxiliary to each other in all matters provided for in this Act, and an order of a court seeking aid with a request to another court shall be deemed sufficient to enable the latter court to exercise in regard to the matters directed by the order such jurisdiction as either the court that made the request or the court to which the request is made could exercise in regard to similar matters within their respective jurisdictions.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-25, s. 17
+
+</details>
+
+### 18
+
+[Repealed, 2005, c. 47, s. 131]
+
+### 18.1
+
+[Repealed, 2005, c. 47, s. 131]
+
+### 18.2
+
+[Repealed, 2005, c. 47, s. 131]
+
+### 18.3
+
+[Repealed, 2005, c. 47, s. 131]
+
+### 18.4
+
+[Repealed, 2005, c. 47, s. 131]
+
+### 18.5
+
+[Repealed, 2005, c. 47, s. 131]
+
+## General
+
+### Duty of Good Faith
+
+### 18.6 Good faith
+
+(1) Any interested person in any proceedings under this Act shall act in good faith with respect to those proceedings.
+
+**Good faith — powers of court**
+
+(2) If the court is satisfied that an interested person fails to act in good faith, on application by an interested person, the court may make any order that it considers appropriate in the circumstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 125; 2005, c. 47, s. 131
+- 2019, c. 29, s. 140
+
+</details>
+
+### Claims
+
+### 19 Claims that may be dealt with by a compromise or arrangement
+
+(1) Subject to subsection (2), the only claims that may be dealt with by a compromise or arrangement in respect of a debtor company are
+
+- (a) claims that relate to debts or liabilities, present or future, to which the company is subject on the earlier of
+  - (i) the day on which proceedings commenced under this Act, and
+  - (ii) if the company filed a notice of intention under section 50.4 of the *Bankruptcy and Insolvency Act* or commenced proceedings under this Act with the consent of inspectors referred to in section 116 of the *Bankruptcy and Insolvency Act*, the date of the initial bankruptcy event within the meaning of section 2 of that Act; and
+
+- (b) claims that relate to debts or liabilities, present or future, to which the company may become subject before the compromise or arrangement is sanctioned by reason of any obligation incurred by the company before the earlier of the days referred to in subparagraphs (a)(i) and (ii).
+
+**Exception**
+
+(2) A compromise or arrangement in respect of a debtor company may not deal with any claim that relates to any of the following debts or liabilities unless the compromise or arrangement explicitly provides for the claim’s compromise and the creditor in relation to that debt has voted for the acceptance of the compromise or arrangement:
+
+- (a) any fine, penalty, restitution order or other order similar in nature to a fine, penalty or restitution order, imposed by a court in respect of an offence;
+
+- (b) any award of damages by a court in civil proceedings in respect of
+  - (i) bodily harm intentionally inflicted, or sexual assault, or
+  - (ii) wrongful death resulting from an act referred to in subparagraph (i);
+
+- (c) any debt or liability arising out of fraud, embezzlement, misappropriation or defalcation while acting in a fiduciary capacity or, in Quebec, as a trustee or an administrator of the property of others;
+
+- (d) any debt or liability resulting from obtaining property or services by false pretences or fraudulent misrepresentation, other than a debt or liability of the company that arises from an equity claim; or
+
+- (e) any debt for interest owed in relation to an amount referred to in any of paragraphs (a) to (d).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 19; 1996, c. 6, s. 167; 2005, c. 47, s. 131; 2007, c. 36, s. 69
+
+</details>
+
+### 20 Determination of amount of claims
+
+(1) For the purposes of this Act, the amount represented by a claim of any secured or unsecured creditor is to be determined as follows:
+
+- (a) the amount of an unsecured claim is the amount
+  - (i) in the case of a company in the course of being wound up under the *Winding-up and Restructuring Act*, proof of which has been made in accordance with that Act,
+  - (ii) in the case of a company that has made an authorized assignment or against which a bankruptcy order has been made under the *Bankruptcy and Insolvency Act*, proof of which has been made in accordance with that Act, or
+  - (iii) in the case of any other company, proof of which might be made under the *Bankruptcy and Insolvency Act*, but if the amount so provable is not admitted by the company, the amount is to be determined by the court on summary application by the company or by the creditor; and
+
+- (b) the amount of a secured claim is the amount, proof of which might be made under the *Bankruptcy and Insolvency Act* if the claim were unsecured, but the amount if not admitted by the company is, in the case of a company subject to pending proceedings under the *Winding-up and Restructuring Act* or the *Bankruptcy and Insolvency Act*, to be established by proof in the same manner as an unsecured claim under the *Winding-up and Restructuring Act* or the *Bankruptcy and Insolvency Act*, as the case may be, and, in the case of any other company, the amount is to be determined by the court on summary application by the company or the creditor.
+
+**Admission of claims**
+
+(2) Despite subsection (1), the company may admit the amount of a claim for voting purposes under reserve of the right to contest liability on the claim for other purposes, and nothing in this Act, the *Winding-up and Restructuring Act* or the *Bankruptcy and Insolvency Act* prevents a secured creditor from voting at a meeting of secured creditors or any class of them in respect of the total amount of a claim as admitted.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-36, s. 20; 2005, c. 47, s. 131; 2007, c. 36, s. 70
+
+</details>
+
+### 21 Law of set-off or compensation to apply
+
+The law of set-off or compensation applies to all claims made against a debtor company and to all actions instituted by it for the recovery of debts due to the company in the same manner and to the same extent as if the company were plaintiff or defendant, as the case may be.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 126; 2005, c. 47, s. 131
+
+</details>
+
+### Classes of Creditors
+
+### 22 Company may establish classes
+
+(1) A debtor company may divide its creditors into classes for the purpose of a meeting to be held under section 4 or 5 in respect of a compromise or arrangement relating to the company and, if it does so, it is to apply to the court for approval of the division before the meeting is held.
+
+**Factors**
+
+(2) For the purpose of subsection (1), creditors may be included in the same class if their interests or rights are sufficiently similar to give them a commonality of interest, taking into account
+
+- (a) the nature of the debts, liabilities or obligations giving rise to their claims;
+
+- (b) the nature and rank of any security in respect of their claims;
+
+- (c) the remedies available to the creditors in the absence of the compromise or arrangement being sanctioned, and the extent to which the creditors would recover their claims by exercising those remedies; and
+
+- (d) any further criteria, consistent with those set out in paragraphs (a) to (c), that are prescribed.
+
+**Related creditors**
+
+(3) A creditor who is related to the company may vote against, but not for, a compromise or arrangement relating to the company.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1997, c. 12, s. 126; 2005, c. 47, s. 131; 2007, c. 36, s. 71
+
+</details>
+
+### 22.1 Class — creditors having equity claims
+
+Despite subsection 22(1), creditors having equity claims are to be in the same class of creditors in relation to those claims unless the court orders otherwise and may not, as members of that class, vote at any meeting unless the court orders otherwise.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 71
+
+</details>
+
+### Monitors
+
+### 23 Duties and functions
+
+(1) The monitor shall
+
+- (a) except as otherwise ordered by the court, when an order is made on the initial application in respect of a debtor company,
+  - (i) publish, without delay after the order is made, once a week for two consecutive weeks, or as otherwise directed by the court, in one or more newspapers in Canada specified by the court, a notice containing the prescribed information, and
+  - (ii) within five days after the day on which the order is made,
+    - (A) make the order publicly available in the prescribed manner,
+    - (B) send, in the prescribed manner, a notice to every known creditor who has a claim against the company of more than $1,000 advising them that the order is publicly available, and
+    - (C) prepare a list, showing the names and addresses of those creditors and the estimated amounts of those claims, and make it publicly available in the prescribed manner;
+
+- (b) review the company’s cash-flow statement as to its reasonableness and file a report with the court on the monitor’s findings;
+
+- (c) make, or cause to be made, any appraisal or investigation the monitor considers necessary to determine with reasonable accuracy the state of the company’s business and financial affairs and the cause of its financial difficulties or insolvency and file a report with the court on the monitor’s findings;
+
+- (d) file a report with the court on the state of the company’s business and financial affairs — containing the prescribed information, if any —
+  - (i) without delay after ascertaining a material adverse change in the company’s projected cash-flow or financial circumstances,
+  - (ii) not later than 45 days, or any longer period that the court may specify, after the day on which each of the company’s fiscal quarters ends, and
+  - (iii) at any other time that the court may order;
+
+- (d.1) file a report with the court on the state of the company’s business and financial affairs — containing the monitor’s opinion as to the reasonableness of a decision, if any, to include in a compromise or arrangement a provision that sections 38 and 95 to 101 of the *Bankruptcy and Insolvency Act* do not apply in respect of the compromise or arrangement and containing the prescribed information, if any — at least seven days before the day on which the meeting of creditors referred to in section 4 or 5 is to be held;
+
+- (e) advise the company’s creditors of the filing of the report referred to in any of paragraphs (b) to (d.1);
+
+- (f) file with the Superintendent of Bankruptcy, in the prescribed manner and at the prescribed time, a copy of the documents specified in the regulations;
+
+- (f.1) for the purpose of defraying the expenses of the Superintendent of Bankruptcy incurred in performing his or her functions under this Act, pay the prescribed levy at the prescribed time to the Superintendent for deposit with the Receiver General;
+
+- (g) attend court proceedings held under this Act that relate to the company, and meetings of the company’s creditors, if the monitor considers that his or her attendance is necessary for the fulfilment of his or her duties or functions;
+
+- (h) if the monitor is of the opinion that it would be more beneficial to the company’s creditors if proceedings in respect of the company were taken under the *Bankruptcy and Insolvency Act*, so advise the court without delay after coming to that opinion;
+
+- (i) advise the court on the reasonableness and fairness of any compromise or arrangement that is proposed between the company and its creditors;
+
+- (j) make the prescribed documents publicly available in the prescribed manner and at the prescribed time and provide the company’s creditors with information as to how they may access those documents; and
+
+- (k) carry out any other functions in relation to the company that the court may direct.
+
+**Monitor not liable**
+
+(2) If the monitor acts in good faith and takes reasonable care in preparing the report referred to in any of paragraphs (1)(b) to (d.1), the monitor is not liable for loss or damage to any person resulting from that person’s reliance on the report.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 72
+
+</details>
+
+### 24 Right of access
+
+For the purposes of monitoring the company’s business and financial affairs, the monitor shall have access to the company’s property, including the premises, books, records, data, including data in electronic form, and other financial documents of the company, to the extent that is necessary to adequately assess the company’s business and financial affairs.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 25 Obligation to act honestly and in good faith
+
+In exercising any of his or her powers or in performing any of his or her duties and functions, the monitor must act honestly and in good faith and comply with the Code of Ethics referred to in section 13.5 of the *Bankruptcy and Insolvency Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### Powers, Duties and Functions of Superintendent of Bankruptcy
+
+### 26 Public records
+
+(1) The Superintendent of Bankruptcy must keep, or cause to be kept, in the form that he or she considers appropriate and for the prescribed period, a public record of prescribed information relating to proceedings under this Act. On request, and on payment of the prescribed fee, the Superintendent of Bankruptcy must provide, or cause to be provided, any information contained in that public record.
+
+**Other records**
+
+(2) The Superintendent of Bankruptcy must keep, or cause to be kept, in the form that he or she considers appropriate and for the prescribed period, any other records relating to the administration of this Act that he or she considers appropriate.
+
+**Agreement to provide compilation**
+
+(3) The Superintendent of Bankruptcy may enter into an agreement to provide a compilation of all or part of the information that is contained in the public record.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 73
+
+</details>
+
+### 27 Applications to court and right to intervene
+
+The Superintendent of Bankruptcy may apply to the court to review the appointment or conduct of a monitor and may intervene, as though he or she were a party, in any matter or proceeding in court relating to the appointment or conduct of a monitor.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 28 Complaints
+
+The Superintendent of Bankruptcy must receive and keep a record of all complaints regarding the conduct of monitors.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 29 Investigations
+
+(1) The Superintendent of Bankruptcy may make, or cause to be made, any inquiry or investigation regarding the conduct of monitors that he or she considers appropriate.
+
+**Rights**
+
+(2) For the purpose of the inquiry or investigation, the Superintendent of Bankruptcy or any person whom he or she appoints for the purpose
+
+- (a) shall have access to and the right to examine and make copies of the books, records, data, documents or papers — including those in electronic form — in the possession or under the control of a monitor under this Act; and
+
+- (b) may, with the leave of the court granted on an ex parte application, examine the books, records, data, documents or papers — including those in electronic form — relating to any compromise or arrangement in respect of which this Act applies that are in the possession or under the control of any other person designated in the order granting the leave, and for that purpose may under a warrant from the court enter and search any premises.
+
+**Staff**
+
+(3) The Superintendent of Bankruptcy may engage the services of persons having technical or specialized knowledge, and persons to provide administrative services, to assist the Superintendent of Bankruptcy in conducting an inquiry or investigation, and may establish the terms and conditions of their engagement. The remuneration and expenses of those persons, when certified by the Superintendent of Bankruptcy, are payable out of the appropriation for the office of the Superintendent.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 74
+
+</details>
+
+### 30 Powers in relation to licence
+
+(1) If, after making or causing to be made an inquiry or investigation into the conduct of a monitor, it appears to the Superintendent of Bankruptcy that the monitor has not fully complied with this Act and its regulations or that it is in the public interest to do so, the Superintendent of Bankruptcy may
+
+- (a) cancel or suspend the monitor’s licence as a trustee under the *Bankruptcy and Insolvency Act*; or
+
+- (b) place any condition or limitation on the licence that he or she considers appropriate.
+
+**Notice to trustee**
+
+(2) Before deciding whether to exercise any of the powers referred to in subsection (1), the Superintendent of Bankruptcy shall send the monitor written notice of the powers that the Superintendent may exercise and the reasons why they may be exercised and afford the monitor a reasonable opportunity for a hearing.
+
+**Summons**
+
+(3) The Superintendent of Bankruptcy may, for the purpose of the hearing, issue a summons requiring the person named in it
+
+- (a) to appear at the time and place mentioned in it;
+
+- (b) to testify to all matters within their knowledge relative to the subject matter of the inquiry or investigation into the conduct of the monitor; and
+
+- (c) to bring and produce any books, records, data, documents or papers — including those in electronic form — in their possession or under their control relative to the subject matter of the inquiry or investigation.
+
+**Effect throughout Canada**
+
+(4) A person may be summoned from any part of Canada by virtue of a summons issued under subsection (3).
+
+**Fees and allowances**
+
+(5) Any person summoned under subsection (3) is entitled to receive the like fees and allowances for so doing as if summoned to attend before the Federal Court.
+
+**Procedure at hearing**
+
+(6) At the hearing, the Superintendent of Bankruptcy
+
+- (a) has the power to administer oaths;
+
+- (b) is not bound by any legal or technical rules of evidence in conducting the hearing;
+
+- (c) shall deal with the matters set out in the notice of the hearing as informally and expeditiously as the circumstances and a consideration of fairness permit; and
+
+- (d) shall cause a summary of any oral evidence to be made in writing.
+
+**Record**
+
+(7) The notice referred to in subsection (2) and, if applicable, the summary of oral evidence referred to in paragraph (6)(d), together with any documentary evidence that the Superintend­ent of Bankruptcy receives in evidence, form the record of the hearing, and that record and the hearing are public unless the Superintendent of Bankruptcy is satisfied that personal or other matters that may be disclosed are of such a nature that the desirability of avoiding public disclosure of those matters, in the interest of a third party or in the public interest, outweighs the desirability of the access by the public to information about those matters.
+
+**Decision**
+
+(8) The decision of the Superintendent of Bankruptcy after the hearing, together with the reasons for the decision, must be given in writing to the monitor not later than three months after the conclusion of the hearing, and is public.
+
+**Review by Federal Court**
+
+(9) A decision of the Superintendent of Bankruptcy given under subsection (8) is deemed to be a decision of a federal board, commission or other tribunal that may be reviewed and set aside under the *Federal Courts Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 75
+
+</details>
+
+### 31 Delegation
+
+(1) The Superintendent of Bankruptcy may, in writing, authorize any person to exercise or perform, subject to any terms and conditions that he or she may specify in the authorization, any of the powers, duties or functions of the Superintendent of Bankruptcy under sections 29 and 30.
+
+**Notification to monitor**
+
+(2) If the Superintendent of Bankruptcy delegates in accordance with subsection (1), the Superintendent or the delegate must give notice of the delegation in the prescribed manner to any monitor who may be affected by the delegation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### Agreements
+
+### 32 Disclaimer or resiliation of agreements
+
+(1) Subject to subsections (2) and (3), a debtor company may — on notice given in the prescribed form and manner to the other parties to the agreement and the monitor — disclaim or resiliate any agreement to which the company is a party on the day on which proceedings commence under this Act. The company may not give notice unless the monitor approves the proposed disclaimer or resiliation.
+
+**Court may prohibit disclaimer or resiliation**
+
+(2) Within 15 days after the day on which the company gives notice under subsection (1), a party to the agreement may, on notice to the other parties to the agreement and the monitor, apply to a court for an order that the agreement is not to be disclaimed or resiliated.
+
+**Court-ordered disclaimer or resiliation**
+
+(3) If the monitor does not approve the proposed disclaimer or resiliation, the company may, on notice to the other parties to the agreement and the monitor, apply to a court for an order that the agreement be disclaimed or resiliated.
+
+**Factors to be considered**
+
+(4) In deciding whether to make the order, the court is to consider, among other things,
+
+- (a) whether the monitor approved the proposed disclaimer or resiliation;
+
+- (b) whether the disclaimer or resiliation would enhance the prospects of a viable compromise or arrangement being made in respect of the company; and
+
+- (c) whether the disclaimer or resiliation would likely cause significant financial hardship to a party to the agreement.
+
+**Date of disclaimer or resiliation**
+
+(5) An agreement is disclaimed or resiliated
+
+- (a) if no application is made under subsection (2), on the day that is 30 days after the day on which the company gives notice under subsection (1);
+
+- (b) if the court dismisses the application made under subsection (2), on the day that is 30 days after the day on which the company gives notice under subsection (1) or on any later day fixed by the court; or
+
+- (c) if the court orders that the agreement is disclaimed or resiliated under subsection (3), on the day that is 30 days after the day on which the company gives notice or on any later day fixed by the court.
+
+**Intellectual property**
+
+(6) If the company has granted a right to use intellectual property to a party to an agreement, the disclaimer or resiliation does not affect the party’s right to use the intellectual property — including the party’s right to enforce an exclusive use — during the term of the agreement, including any period for which the party extends the agreement as of right, as long as the party continues to perform its obligations under the agreement in relation to the use of the intellectual property.
+
+**Loss related to disclaimer or resiliation**
+
+(7) If an agreement is disclaimed or resiliated, a party to the agreement who suffers a loss in relation to the disclaimer or resiliation is considered to have a provable claim.
+
+**Reasons for disclaimer or resiliation**
+
+(8) A company shall, on request by a party to the agreement, provide in writing the reasons for the proposed disclaimer or resiliation within five days after the day on which the party requests them.
+
+**Exceptions**
+
+(9) This section does not apply in respect of
+
+- (a) an eligible financial contract;
+
+- (b) a collective agreement;
+
+- (c) a financing agreement if the company is the borrower; or
+
+- (d) a lease of real property or of an immovable if the company is the lessor.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 29, s. 108, c. 36, ss. 76, 112
+
+</details>
+
+### 33 Collective agreements
+
+(1) If proceedings under this Act have been commenced in respect of a debtor company, any collective agreement that the company has entered into as the employer remains in force, and may not be altered except as provided in this section or under the laws of the jurisdiction governing collective bargaining between the company and the bargaining agent.
+
+**Application for authorization to serve notice to bargain**
+
+(2) A debtor company that is a party to a collective agreement and that is unable to reach a voluntary agreement with the bargaining agent to revise any of the provisions of the collective agreement may, on giving five days notice to the bargaining agent, apply to the court for an order authorizing the company to serve a notice to bargain under the laws of the jurisdiction governing collective bargaining between the company and the bargaining agent.
+
+**Conditions for issuance of order**
+
+(3) The court may issue the order only if it is satisfied that
+
+- (a) a viable compromise or arrangement could not be made in respect of the company, taking into account the terms of the collective agreement;
+
+- (b) the company has made good faith efforts to renegotiate the provisions of the collective agreement; and
+
+- (c) a failure to issue the order is likely to result in irreparable damage to the company.
+
+**No delay on vote**
+
+(4) The vote of the creditors in respect of a compromise or an arrangement may not be delayed solely because the period provided in the laws of the jurisdiction governing collective bargaining between the company and the bargaining agent has not expired.
+
+**Claims arising from termination or amendment**
+
+(5) If the parties to the collective agreement agree to revise the collective agreement after proceedings have been commenced under this Act in respect of the company, the bargaining agent that is a party to the agreement is deemed to have a claim, as an unsecured creditor, for an amount equal to the value of concessions granted by the bargaining agent with respect to the remaining term of the collective agreement.
+
+**Order to disclose information**
+
+(6) On the application of the bargaining agent and on notice to the person to whom the application relates, the court may, subject to any terms and conditions it specifies, make an order requiring the person to make available to the bargaining agent any information specified by the court in the person’s possession or control that relates to the company’s business or financial affairs and that is relevant to the collective bargaining between the company and the bargaining agent. The court may make the order only after the company has been authorized to serve a notice to bargain under subsection (2).
+
+**Parties**
+
+(7) For the purpose of this section, the parties to a collective agreement are the debtor company and the bargaining agent that are bound by the collective agreement.
+
+**Unrevised collective agreements remain in force**
+
+(8) For greater certainty, any collective agreement that the company and the bargaining agent have not agreed to revise remains in force, and the court shall not alter its terms.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 34 Certain rights limited
+
+(1) No person may terminate or amend, or claim an accelerated payment or forfeiture of the term under, any agreement, including a security agreement, with a debtor company by reason only that proceedings commenced under this Act or that the company is insolvent.
+
+**Lease**
+
+(2) If the agreement referred to in subsection (1) is a lease, the lessor may not terminate or amend the lease by reason only that proceedings commenced under this Act, that the company is insolvent or that the company has not paid rent in respect of any period before the commencement of those proceedings.
+
+**Public utilities**
+
+(3) No public utility may discontinue service to a company by reason only that proceedings commenced under this Act, that the company is insolvent or that the company has not paid for services rendered or goods provided before the commencement of those proceedings.
+
+**Certain acts not prevented**
+
+(4) Nothing in this section is to be construed as
+
+- (a) prohibiting a person from requiring payments to be made in cash for goods, services, use of leased property or other valuable consideration provided after the commencement of proceedings under this Act;
+
+- (b) requiring the further advance of money or credit; or
+
+- (c) [Repealed, 2012, c. 31, s. 421]
+
+**Provisions of section override agreement**
+
+(5) Any provision in an agreement that has the effect of providing for, or permitting, anything that, in substance, is contrary to this section is of no force or effect.
+
+**Powers of court**
+
+(6) On application by a party to an agreement or by a public utility, the court may declare that this section does not apply — or applies only to the extent declared by the court — if the applicant satisfies the court that the operation of this section would likely cause the applicant significant financial hardship.
+
+**Eligible financial contracts**
+
+(7) Subsection (1) does not apply
+
+- (a) in respect of an eligible financial contract; or
+
+- (b) to prevent a member of the Canadian Payments Association from ceasing to act as a clearing agent or group clearer for a company in accordance with the *Canadian Payments Act* and the by-laws and rules of that Association.
+
+**Permitted actions**
+
+(8) The following actions are permitted in respect of an eligible financial contract that is entered into before proceedings under this Act are commenced in respect of the company and is terminated on or after that day, but only in accordance with the provisions of that contract:
+
+- (a) the netting or setting off or compensation of obligations between the company and the other parties to the eligible financial contract; and
+
+- (b) any dealing with financial collateral including
+  - (i) the sale or foreclosure or, in the Province of Quebec, the surrender of financial collateral, and
+  - (ii) the setting off or compensation of financial collateral or the application of the proceeds or value of financial collateral.
+
+**Restriction**
+
+(9) No order may be made under this Act if the order would have the effect of staying or restraining the actions permitted under subsection (8).
+
+**Net termination values**
+
+(10) If net termination values determined in accordance with an eligible financial contract referred to in subsection (8) are owed by the company to another party to the eligible financial contract, that other party is deemed to be a creditor of the company with a claim against the company in respect of those net termination values.
+
+**Priority**
+
+(11) No order may be made under this Act if the order would have the effect of subordinating financial collateral.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 29, s. 109, c. 36, ss. 77, 112; 2012, c. 31, s. 421
+
+</details>
+
+### Obligations and Prohibitions
+
+### 35 Obligation to provide assistance
+
+(1) A debtor company shall provide to the monitor the assistance that is necessary to enable the monitor to adequately carry out the monitor’s functions.
+
+**Obligation to duties set out in section 158 of the *Bankruptcy and Insolvency Act***
+
+(2) A debtor company shall perform the duties set out in section 158 of the *Bankruptcy and Insolvency Act* that are appropriate and applicable in the circumstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 36 Restriction on disposition of business assets
+
+(1) A debtor company in respect of which an order has been made under this Act may not sell or otherwise dispose of assets outside the ordinary course of business unless authorized to do so by a court. Despite any requirement for shareholder approval, including one under federal or provincial law, the court may authorize the sale or disposition even if shareholder approval was not obtained.
+
+**Notice to creditors**
+
+(2) A company that applies to the court for an authorization is to give notice of the application to the secured creditors who are likely to be affected by the proposed sale or disposition.
+
+**Factors to be considered**
+
+(3) In deciding whether to grant the authorization, the court is to consider, among other things,
+
+- (a) whether the process leading to the proposed sale or disposition was reasonable in the circumstances;
+
+- (b) whether the monitor approved the process leading to the proposed sale or disposition;
+
+- (c) whether the monitor filed with the court a report stating that in their opinion the sale or disposition would be more beneficial to the creditors than a sale or disposition under a bankruptcy;
+
+- (d) the extent to which the creditors were consulted;
+
+- (e) the effects of the proposed sale or disposition on the creditors and other interested parties; and
+
+- (f) whether the consideration to be received for the assets is reasonable and fair, taking into account their market value.
+
+**Additional factors — related persons**
+
+(4) If the proposed sale or disposition is to a person who is related to the company, the court may, after considering the factors referred to in subsection (3), grant the authorization only if it is satisfied that
+
+- (a) good faith efforts were made to sell or otherwise dispose of the assets to persons who are not related to the company; and
+
+- (b) the consideration to be received is superior to the consideration that would be received under any other offer made in accordance with the process leading to the proposed sale or disposition.
+
+**Related persons**
+
+(5) For the purpose of subsection (4), a person who is related to the company includes
+
+- (a) a director or officer of the company;
+
+- (b) a person who has or has had, directly or indirectly, control in fact of the company; and
+
+- (c) a person who is related to a person described in paragraph (a) or (b).
+
+**Assets may be disposed of free and clear**
+
+(6) The court may authorize a sale or disposition free and clear of any security, charge or other restriction and, if it does, it shall also order that other assets of the company or the proceeds of the sale or disposition be subject to a security, charge or other restriction in favour of the creditor whose security, charge or other restriction is to be affected by the order.
+
+**Restriction — employers**
+
+(7) The court may grant the authorization only if the court is satisfied that the company can and will make the payments that would have been required under paragraphs 6(5)(a) and (6)(a) if the court had sanctioned the compromise or arrangement.
+
+**Restriction — intellectual property**
+
+(8) If, on the day on which an order is made under this Act in respect of the company, the company is a party to an agreement that grants to another party a right to use intellectual property that is included in a sale or disposition authorized under subsection (6), that sale or disposition does not affect that other party’s right to use the intellectual property — including the other party’s right to enforce an exclusive use — during the term of the agreement, including any period for which the other party extends the agreement as of right, as long as the other party continues to perform its obligations under the agreement in relation to the use of the intellectual property.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 78; 2017, c. 26, s. 14
+- 2018, c. 27, s. 269
+
+</details>
+
+### Preferences and Transfers at Undervalue
+
+### 36.1 Application of sections 38 and 95 to 101 of the *Bankruptcy and Insolvency Act*
+
+(1) Sections 38 and 95 to 101 of the *Bankruptcy and Insolvency Act* apply, with any modifications that the circumstances require, in respect of a compromise or arrangement unless the compromise or arrangement provides otherwise.
+
+**Interpretation**
+
+(2) For the purposes of subsection (1), a reference in sections 38 and 95 to 101 of the *Bankruptcy and Insolvency Act*
+
+- (a) to “date of the bankruptcy” is to be read as a reference to “day on which proceedings commence under this Act”;
+
+- (b) to “trustee” is to be read as a reference to “monitor”; and
+
+- (c) to “bankrupt”, “insolvent person” or “debtor” is to be read as a reference to “debtor company”.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 78
+
+</details>
+
+### Her Majesty
+
+### 37 Deemed trusts
+
+(1) Subject to subsection (2), despite any provision in federal or provincial legislation that has the effect of deeming property to be held in trust for Her Majesty, property of a debtor company shall not be regarded as being held in trust for Her Majesty unless it would be so regarded in the absence of that statutory provision.
+
+**Exceptions**
+
+(2) Subsection (1) does not apply in respect of amounts deemed to be held in trust under subsection 227(4) or (4.1) of the *Income Tax Act*, subsection 23(3) or (4) of the *Canada Pension Plan* or subsection 86(2) or (2.1) of the *Employment Insurance Act* (each of which is in this subsection referred to as a “federal provision”), nor does it apply in respect of amounts deemed to be held in trust under any law of a province that creates a deemed trust the sole purpose of which is to ensure remittance to Her Majesty in right of the province of amounts deducted or withheld under a law of the province if
+
+- (a) that law of the province imposes a tax similar in nature to the tax imposed under the *Income Tax Act* and the amounts deducted or withheld under that law of the province are of the same nature as the amounts referred to in subsection 227(4) or (4.1) of the *Income Tax Act*, or
+
+- (b) the province is a **province providing a comprehensive pension plan** as defined in subsection 3(1) of the *Canada Pension Plan*, that law of the province establishes a **provincial pension plan** as defined in that subsection and the amounts deducted or withheld under that law of the province are of the same nature as amounts referred to in subsection 23(3) or (4) of the *Canada Pension Plan*,
+
+and for the purpose of this subsection, any provision of a law of a province that creates a deemed trust is, despite any Act of Canada or of a province or any other law, deemed to have the same effect and scope against any creditor, however secured, as the corresponding federal provision.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 38 Status of Crown claims
+
+(1) In relation to a proceeding under this Act, all claims, including secured claims, of Her Majesty in right of Canada or a province or any body under an enactment respecting workers’ compensation, in this section and in section 39 called a “workers’ compensation body”, rank as unsecured claims.
+
+**Exceptions**
+
+(2) Subsection (1) does not apply
+
+- (a) in respect of claims that are secured by a security or charge of a kind that can be obtained by persons other than Her Majesty or a workers’ compensation body
+  - (i) pursuant to any law, or
+  - (ii) pursuant to provisions of federal or provincial legislation if those provisions do not have as their sole or principal purpose the establishment of a means of securing claims of Her Majesty or a workers’ compensation body; and
+
+- (b) to the extent provided in subsection 39(2), to claims that are secured by a security referred to in subsection 39(1), if the security is registered in accordance with subsection 39(1).
+
+**Operation of similar legislation**
+
+(3) Subsection (1) does not affect the operation of
+
+- (a) subsections 224(1.2) and (1.3) of the *Income Tax Act*,
+
+- (b) any provision of the *Canada Pension Plan* or of the *Employment Insurance Act* that refers to subsection 224(1.2) of the *Income Tax Act* and provides for the collection of a contribution, as defined in the *Canada Pension Plan*, an employee’s premium, or employer’s premium, as defined in the *Employment Insurance Act*, or a premium under Part VII.1 of that Act, and of any related interest, penalties or other amounts, or
+
+- (c) any provision of provincial legislation that has a purpose similar to subsection 224(1.2) of the *Income Tax Act*, or that refers to that subsection, to the extent that it provides for the collection of a sum, and of any related interest, penalties or other amounts if the sum
+  - (i) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar in nature to the income tax imposed on individuals under the *Income Tax Act*, or
+  - (ii) is of the same nature as a contribution under the *Canada Pension Plan* if the province is a **province providing a comprehensive pension plan** as defined in subsection 3(1) of the *Canada Pension Plan* and the provincial legislation establishes a **provincial pension plan** as defined in that subsection,
+
+and, for the purpose of paragraph (c), the provision of provincial legislation is, despite any Act of Canada or of a province or any other law, deemed to have the same effect and scope against any creditor, however secured, as subsection 224(1.2) of the *Income Tax Act* in respect of a sum referred to in subparagraph (c)(i), or as subsection 23(2) of the *Canada Pension Plan* in respect of a sum referred to in subparagraph (c)(ii), and in respect of any related interest, penalties or other amounts.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2009, c. 33, s. 29
+
+</details>
+
+### 39 Statutory Crown securities
+
+(1) In relation to proceedings under this Act in respect of a debtor company, a security provided for in federal or provincial legislation for the sole or principal purpose of securing a claim of Her Majesty in right of Canada or a province or a workers’ compensation body is valid in relation to claims against the company only if, before the day on which proceedings commence, the security is registered under a system of registration of securities that is available not only to Her Majesty in right of Canada or a province or a workers’ compensation body, but also to any other creditor who holds a security, and that is open to the public for information or the making of searches.
+
+**Effect of security**
+
+(2) A security referred to in subsection (1) that is registered in accordance with that subsection
+
+- (a) is subordinate to securities in respect of which all steps necessary to setting them up against other creditors were taken before that registration; and
+
+- (b) is valid only in respect of amounts owing to Her Majesty or a workers’ compensation body at the time of that registration, plus any interest subsequently accruing on those amounts.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 79
+
+</details>
+
+### 40 Act binding on Her Majesty
+
+This Act is binding on Her Majesty in right of Canada or a province.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### Miscellaneous
+
+### 41 Certain sections of *Winding-up and Restructuring Act* do not apply
+
+Sections 65 and 66 of the *Winding-up and Restructuring Act* do not apply to any compromise or arrangement to which this Act applies.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 42 Act to be applied conjointly with other Acts
+
+The provisions of this Act may be applied together with the provisions of any Act of Parliament, or of the legislature of any province, that authorizes or makes provision for the sanction of compromises or arrangements between a company and its shareholders or any class of them.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 43 Claims in foreign currency
+
+If a compromise or an arrangement is proposed in respect of a debtor company, a claim for a debt that is payable in a currency other than Canadian currency is to be converted to Canadian currency as of the date of the initial application in respect of the company unless otherwise provided in the proposed compromise or arrangement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+## Cross-border Insolvencies
+
+### Purpose
+
+### 44 Purpose
+
+The purpose of this Part is to provide mechanisms for dealing with cases of cross-border insolvencies and to promote
+
+- (a) cooperation between the courts and other competent authorities in Canada with those of foreign jurisdictions in cases of cross-border insolvencies;
+
+- (b) greater legal certainty for trade and investment;
+
+- (c) the fair and efficient administration of cross-border insolvencies that protects the interests of creditors and other interested persons, and those of debtor companies;
+
+- (d) the protection and the maximization of the value of debtor company’s property; and
+
+- (e) the rescue of financially troubled businesses to protect investment and preserve employment.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### Interpretation
+
+### 45 Definitions
+
+(1) The following definitions apply in this Part.
+
+**foreign court** means a judicial or other authority competent to control or supervise a foreign proceeding. (**tribunal étranger**)
+
+**foreign main proceeding** means a foreign proceeding in a jurisdiction where the debtor company has the centre of its main interests. (**principale**)
+
+**foreign non-main proceeding** means a foreign proceeding, other than a foreign main proceeding. (**secondaire**)
+
+**foreign proceeding** means a judicial or an administrative proceeding, including an interim proceeding, in a jurisdiction outside Canada dealing with creditors’ collective interests generally under any law relating to bankruptcy or insolvency in which a debtor company’s business and financial affairs are subject to control or supervision by a foreign court for the purpose of reorganization. (**instance étrangère**)
+
+**foreign representative** means a person or body, including one appointed on an interim basis, who is authorized, in a foreign proceeding respect of a debtor company, to
+  - (a) monitor the debtor company’s business and financial affairs for the purpose of reorganization; or
+  - (b) act as a representative in respect of the foreign proceeding. (**représentant étranger**)
+
+**Centre of debtor company’s main interests**
+
+(2) For the purposes of this Part, in the absence of proof to the contrary, a debtor company’s registered office is deemed to be the centre of its main interests.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### Recognition of Foreign Proceeding
+
+### 46 Application for recognition of a foreign proceeding
+
+(1) A foreign representative may apply to the court for recognition of the foreign proceeding in respect of which he or she is a foreign representative.
+
+**Documents that must accompany application**
+
+(2) Subject to subsection (3), the application must be accompanied by
+
+- (a) a certified copy of the instrument, however designated, that commenced the foreign proceeding or a certificate from the foreign court affirming the existence of the foreign proceeding;
+
+- (b) a certified copy of the instrument, however designated, authorizing the foreign representative to act in that capacity or a certificate from the foreign court affirming the foreign representative’s authority to act in that capacity; and
+
+- (c) a statement identifying all foreign proceedings in respect of the debtor company that are known to the foreign representative.
+
+**Documents may be considered as proof**
+
+(3) The court may, without further proof, accept the documents referred to in paragraphs (2)(a) and (b) as evidence that the proceeding to which they relate is a foreign proceeding and that the applicant is a foreign representative in respect of the foreign proceeding.
+
+**Other evidence**
+
+(4) In the absence of the documents referred to in paragraphs (2)(a) and (b), the court may accept any other evidence of the existence of the foreign proceeding and of the foreign represent­ative’s authority that it considers appropriate.
+
+**Translation**
+
+(5) The court may require a translation of any document accompanying the application.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 47 Order recognizing foreign proceeding
+
+(1) If the court is satisfied that the application for the recognition of a foreign proceeding relates to a foreign proceeding and that the applicant is a foreign representative in respect of that foreign proceeding, the court shall make an order recognizing the foreign proceeding.
+
+**Nature of foreign proceeding to be specified**
+
+(2) The court shall specify in the order whether the foreign proceeding is a foreign main proceeding or a foreign non-main proceeding.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 48 Order relating to recognition of a foreign main proceeding
+
+(1) Subject to subsections (2) to (4), on the making of an order recognizing a foreign proceeding that is specified to be a foreign main proceeding, the court shall make an order, subject to any terms and conditions it considers appropriate,
+
+- (a) staying, until otherwise ordered by the court, for any period that the court considers necessary, all proceedings taken or that might be taken against the debtor company under the *Bankruptcy and Insolvency Act* or the *Winding-up and Restructuring Act*;
+
+- (b) restraining, until otherwise ordered by the court, further proceedings in any action, suit or proceeding against the debtor company;
+
+- (c) prohibiting, until otherwise ordered by the court, the commencement of any action, suit or proceeding against the debtor company; and
+
+- (d) prohibiting the debtor company from selling or otherwise disposing of, outside the ordinary course of its business, any of the debtor company’s property in Canada that relates to the business and prohibiting the debtor company from selling or otherwise disposing of any of its other property in Canada.
+
+**Scope of order**
+
+(2) The order made under subsection (1) must be consistent with any order that may be made under this Act.
+
+**When subsection (1) does not apply**
+
+(3) Subsection (1) does not apply if any proceedings under this Act have been commenced in respect of the debtor company at the time the order recognizing the foreign proceeding is made.
+
+**Application of this and other Acts**
+
+(4) Nothing in subsection (1) precludes the debtor company from commencing or continuing proceedings under this Act, the *Bankruptcy and Insolvency Act* or the *Winding-up and Restructuring Act* in respect of the debtor company.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 49 Other orders
+
+(1) If an order recognizing a foreign proceeding is made, the court may, on application by the foreign representative who applied for the order, if the court is satisfied that it is necessary for the protection of the debtor company’s property or the interests of a creditor or creditors, make any order that it considers appropriate, including an order
+
+- (a) if the foreign proceeding is a foreign non-main proceeding, referred to in subsection 48(1);
+
+- (b) respecting the examination of witnesses, the taking of evidence or the delivery of information concerning the debtor company’s property, business and financial affairs, debts, liabilities and obligations; and
+
+- (c) authorizing the foreign representative to monitor the debtor company’s business and financial affairs in Canada for the purpose of reorganization.
+
+**Restriction**
+
+(2) If any proceedings under this Act have been commenced in respect of the debtor company at the time an order recognizing the foreign proceeding is made, an order made under subsection (1) must be consistent with any order that may be made in any proceedings under this Act.
+
+**Application of this and other Acts**
+
+(3) The making of an order under paragraph (1)(a) does not preclude the commencement or the continuation of proceedings under this Act, the *Bankruptcy and Insolvency Act* or the *Winding-up and Restructuring Act* in respect of the debtor company.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 50 Terms and conditions of orders
+
+An order under this Part may be made on any terms and conditions that the court considers appropriate in the circumstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 51 Commencement or continuation of proceedings
+
+If an order is made recognizing a foreign proceeding, the foreign representative may commence and continue proceedings under this Act in respect of a debtor company as if the foreign representative were a creditor of the debtor company, or the debtor company, as the case may be.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### Obligations
+
+### 52 Cooperation — court
+
+(1) If an order recognizing a foreign proceeding is made, the court shall cooperate, to the maximum extent possible, with the foreign representative and the foreign court involved in the foreign proceeding.
+
+**Cooperation — other authorities in Canada**
+
+(2) If any proceedings under this Act have been commenced in respect of a debtor company and an order recognizing a foreign proceeding is made in respect of the debtor company, every person who exercises powers or performs duties and functions under the proceedings under this Act shall cooperate, to the maximum extent possible, with the foreign representative and the foreign court involved in the foreign proceeding.
+
+**Forms of cooperation**
+
+(3) For the purpose of this section, cooperation may be provided by any appropriate means, including
+
+- (a) the appointment of a person to act at the direction of the court;
+
+- (b) the communication of information by any means considered appropriate by the court;
+
+- (c) the coordination of the administration and supervision of the debtor company’s assets and affairs;
+
+- (d) the approval or implementation by courts of agreements concerning the coordination of proceedings; and
+
+- (e) the coordination of concurrent proceedings regarding the same debtor company.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 80
+
+</details>
+
+### 53 Obligations of foreign representative
+
+If an order recognizing a foreign proceeding is made, the foreign representative who applied for the order shall
+
+- (a) without delay, inform the court of
+  - (i) any substantial change in the status of the recognized foreign proceeding,
+  - (ii) any substantial change in the status of the foreign representative’s authority to act in that capacity, and
+  - (iii) any other foreign proceeding in respect of the same debtor company that becomes known to the foreign representa­tive; and
+
+- (b) publish, without delay after the order is made, once a week for two consecutive weeks, or as otherwise directed by the court, in one or more newspapers in Canada specified by the court, a notice containing the prescribed information.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### Multiple Proceedings
+
+### 54 Concurrent proceedings
+
+If any proceedings under this Act in respect of a debtor company are commenced at any time after an order recognizing the foreign proceeding is made, the court shall review any order made under section 49 and, if it determines that the order is inconsistent with any orders made in the proceedings under this Act, the court shall amend or revoke the order.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 55 Multiple foreign proceedings
+
+(1) If, at any time after an order is made in respect of a foreign non-main proceeding in respect of a debtor company, an order recognizing a foreign main proceeding is made in respect of the debtor company, the court shall review any order made under section 49 in respect of the foreign non-main proceeding and, if it determines that the order is inconsistent with any orders made under that section in respect of the foreign main proceedings, the court shall amend or revoke the order.
+
+**Multiple foreign proceedings**
+
+(2) If, at any time after an order is made in respect of a foreign non-main proceeding in respect of the debtor company, an order recognizing another foreign non-main proceeding is made in respect of the debtor company, the court shall, for the purpose of facilitating the coordination of the foreign non-main proceedings, review any order made under section 49 in respect of the first recognized proceeding and amend or revoke the order if it considers it appropriate.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### Miscellaneous Provisions
+
+### 56 Authorization to act as representative of proceeding under this Act
+
+The court may authorize any person or body to act as a representative in respect of any proceeding under this Act for the purpose of having them recognized in a jurisdiction outside Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 57 Foreign representative status
+
+An application by a foreign representa­tive for any order under this Part does not submit the foreign representative to the jurisdiction of the court for any other purpose except with regard to the costs of the proceedings, but the court may make any order under this Part conditional on the compliance by the foreign representative with any other order of the court.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 58 Foreign proceeding appeal
+
+A foreign representative is not prevented from making an application to the court under this Part by reason only that proceedings by way of appeal or review have been taken in a foreign proceeding, and the court may, on an application if such proceedings have been taken, grant relief as if the proceedings had not been taken.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 59 Presumption of insolvency
+
+For the purposes of this Part, if an insolvency or a reorganization or a similar order has been made in respect of a debtor company in a foreign proceeding, a certified copy of the order is, in the absence of evidence to the contrary, proof that the debtor company is insolvent and proof of the appointment of the foreign representative made by the order.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 60 Credit for recovery in other jurisdictions
+
+(1) In making a compromise or an arrangement of a debtor company, the following shall be taken into account in the distribution of dividends to the company’s creditors in Canada as if they were a part of that distribution:
+
+- (a) the amount that a creditor receives or is entitled to receive outside Canada by way of a dividend in a foreign proceeding in respect of the company; and
+
+- (b) the value of any property of the company that the creditor acquires outside Canada on account of a provable claim of the creditor or that the creditor acquires outside Canada by way of a transfer that, if it were subject to this Act, would be a preference over other creditors or a transfer at undervalue.
+
+**Restriction**
+
+(2) Despite subsection (1), the creditor is not entitled to receive a dividend from the distribution in Canada until every other creditor who has a claim of equal rank in the order of priority established under this Act has received a dividend whose amount is the same percentage of that other creditor’s claim as the aggregate of the amount referred to in paragraph (1)(a) and the value referred to in paragraph (1)(b) is of that creditor’s claim.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+### 61 Court not prevented from applying certain rules
+
+(1) Nothing in this Part prevents the court, on the application of a foreign represent­ative or any other interested person, from applying any legal or equitable rules governing the recognition of foreign insolvency orders and assistance to foreign representatives that are not inconsistent with the provisions of this Act.
+
+**Public policy exception**
+
+(2) Nothing in this Part prevents the court from refusing to do something that would be contrary to public policy.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 81
+
+</details>
+
+## Administration
+
+### 62 Regulations
+
+The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including regulations
+
+- (a) specifying documents for the purpose of paragraph 23(1)(f); and
+
+- (b) prescribing anything that by this Act is to be prescribed.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131; 2007, c. 36, s. 82
+
+</details>
+
+### 63 Review of Act
+
+(1) Within five years after the coming into force of this section, the Minister shall cause to be laid before both Houses of Parliament a report on the provisions and operation of this Act, including any recommendations for amendments to those provisions.
+
+**Reference to parliamentary committee**
+
+(2) The report stands referred to the committee of the Senate, the House of Commons or both Houses of Parliament that is designated or established for that purpose, which shall
+
+- (a) as soon as possible after the laying of the report, review the report; and
+
+- (b) report to the Senate, the House of Commons or both Houses of Parliament, as the case may be, within one year after the laying of the report of the Minister, or any further time authorized by the Senate, the House of Commons or both Houses of Parliament.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, c. 47, s. 131
+
+</details>
+
+
+## RELATED PROVISIONS
+
+### — R.S., 1985, c. 27 (2nd Supp.), s. 11
+
+### 11 Transitional: proceedings
+
+Proceedings to which any of the provisions amended by the schedule apply that were commenced before the coming into force of section 10 shall be continued in accordance with those amended provisions without any further formality.
+
+### — 1990, c. 17, s. 45(1)
+
+### 45 Transitional: proceedings
+
+(1) Every proceeding commenced before the coming into force of this subsection and in respect of which any provision amended by this Act applies shall be taken up and continued under and in conformity with that amended provision without any further formality.
+
+### — 1997, c. 12, s. 127
+
+### 127 Application
+
+Section 120, 121, 122, 123, 124, 125 or 126 applies to proceedings commenced under the *Companies’ Creditors Arrangement Act* after that section comes into force.
+
+### — 1998, c. 30, s. 10
+
+### 10 Transitional — proceedings
+
+Every proceeding commenced before the coming into force of this section and in respect of which any provision amended by sections 12 to 16 applies shall be taken up and continued under and in conformity with that amended provision without any further formality.
+
+### — 2000, c. 30, s. 156(2)
+
+
+(2) Subsection (1) applies to proceedings commenced under the Act after September 29, 1997.
+
+### — 2000, c. 30, s. 157(2)
+
+
+(2) Subsection (1) applies to proceedings commenced under the Act after September 29, 1997.
+
+### — 2000, c. 30, s. 158(2)
+
+
+(2) Subsection (1) applies to proceedings commenced under the Act after September 29, 1997.
+
+### — 2001, c. 34, s. 33(2)
+
+
+(2) Subsection (1) applies to proceedings commenced under the Act after September 29, 1997.
+
+### — 2005, c. 47, s. 134, as amended by 2007, c. 36, s. 107
+
+### 134 *Companies’ Creditors Arrangement Act*
+
+An amendment to the *Companies’ Creditors Arrangement Act* that is enacted by any of sections 124 to 131 of this Act applies only to a debtor company in respect of whom proceedings commence under that Act on or after the day on which the amendment comes into force.
+
+### — 2007, c. 29, s. 119
+
+### 119 *Companies’ Creditors Arrangement Act*
+
+An amendment to the *Companies’ Creditors Arrangement Act* made by section 104 or 106 of this Act applies only to a debtor company in respect of which proceedings under that Act are commenced on or after the day on which the amendment comes into force.
+
+### — 2007, c. 36, s. 111
+
+### 111 *Companies’ Creditors Arrangement Act*
+
+The amendment to the *Companies’ Creditors Arrangement Act* that is enacted by section 67 of this Act applies only to a debtor company in respect of whom proceedings commence under that Act on or after the day on which the amendment comes into force.
+
+### — 2018, c. 27, s. 271
+
+### 271 *Companies’ Creditors Arrangement Act*
+
+Subsection 36(8) of the *Companies’ Creditors Arrangement Act*, as enacted by section 269, applies only in respect of proceedings that are commenced under that Act on or after the day on which this section comes into force.
+
+### — 2019, c. 29, s. 150
+
+### 150
+
+Section 11.001, subsections 11.02(1) and 11.2(5) and sections 11.9 and 18.6 of the *Companies’ Creditors Arrangement Act*, as enacted by sections 136 to 140, apply only in respect of proceedings that are commenced under that Act on or after the day on which that section or subsection, as the case may be, comes into force.
+
+### — 2023, c. 6, s. 7(2)
+
+### 7 Exception — companies
+
+(2) Subsections 5(1) and (2) do not apply in respect of a company that, on the day before the day on which those subsections come into force, participated in a prescribed pension plan for the benefit of its employees until the fourth anniversary of the day on which this Act comes into force.
+
+### — 2024, c. 15, s. 276
+
+### 276 *Companies’ Creditors Arrangement Act*
+
+The definition **company** in subsection 2(1) of the *Companies’ Creditors Arrangement Act*, as enacted by section 274, applies only in respect of proceedings that are commenced under that Act on or after the day on which that section 274 comes into force.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2024, c. 15, s. 274
+
+### 274
+
+The definition **company** in subsection 2(1) of the *Companies’ Creditors Arrangement Act* is replaced by the following:

@@ -1,0 +1,426 @@
+---
+title: "International Development Research Centre Act"
+long_title: "An Act to establish the International Development Research Centre"
+chapter: "I-19"
+language: "en"
+type: "act"
+---
+
+# International Development Research Centre Act
+
+> An Act to establish the International Development Research Centre
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *International Development Research Centre Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**Board** means the Board of Governors of the Centre; (**Conseil**)
+
+**Centre** means the International Development Research Centre established by section 3; (**Centre**)
+
+**Chairman**[Repealed, 2010, c. 12, s. 1746]
+
+**Chairperson** means the Chairperson of the Board; (Version anglaise seulement)
+
+**governor** means a member of the Board; (**gouverneur**)
+
+**Minister** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; (**ministre**)
+
+**President** means the President of the Centre; (**président**)
+
+**research** includes any scientific or technical inquiry or experimentation that is instituted or carried out to discover new knowledge or new means of applying existing knowledge to the solution of economic and social problems; (**recherches**)
+
+**science** includes the natural and social sciences. (**sciences**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 2; 2010, c. 12, s. 1746(E)
+
+</details>
+
+## Centre Established
+
+### 3 Centre established
+
+A corporation is established, to be called the International Development Research Centre, consisting of a Board of Governors that is composed of a Chairperson, the President and not more than 12 other governors.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 3; 2010, c. 12, s. 1747; 2012, c. 19, s. 427
+
+</details>
+
+## Objects and Powers of Centre
+
+### 4 Corporate objects
+
+(1) The objects of the Centre are to initiate, encourage, support and conduct research into the problems of the developing regions of the world and into the means for applying and adapting scientific, technical and other knowledge to the economic and social advancement of those regions and, in carrying out those objects,
+
+- (a) to enlist the talents of natural and social scientists and technologists in Canada and other countries;
+
+- (b) to assist the developing regions to build up the research capabilities, the innovative skills and the institutions required to solve their problems;
+
+- (c) to encourage generally the coordination of international development research; and
+
+- (d) to foster cooperation in research on development problems between the developed and developing regions for their mutual benefit.
+
+**Powers**
+
+(2) The Centre, in furtherance of its objects, may exercise any or all of the following powers in Canada or elsewhere, namely, the power to
+
+- (a) establish, maintain and operate information and data centres and facilities for research and other activities;
+
+- (b) initiate and carry out research and technical development, including the establishment and operation of any pilot plant or project, to the point where the appropriate results of the research and development can be applied;
+
+- (c) support or assist research by governments, by international, public or private organizations and agencies, or by individuals;
+
+- (d) enter into contracts or agreements with governments, with international, public or private organizations and agencies, or with individuals;
+
+- (e) give recognition, by such means as the Centre deems appropriate, for outstanding contributions to international development by international, public or private organizations and agencies, or by individuals, and publish and otherwise disseminate scientific, technical or other information;
+
+- (f) sponsor or support conferences, seminars and other meetings;
+
+- (g) acquire, hold and alienate real property or any interest therein at pleasure;
+
+- (h) acquire by gift, bequest or otherwise, and hold, expend, invest, administer or dispose of, any money, securities or other property subject to the terms, if any, on which the money, securities or other property is given, bequeathed or otherwise made available to the Centre;
+
+- (i) expend, for the purposes of this Act, any money appropriated by Parliament for the work of the Centre or received by the Centre through the conduct of its operations; and
+
+- (j) do such other things as are conducive to the carrying out of its objects and the exercise of its powers.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 4
+
+</details>
+
+## Organization
+
+### 5 Appointment of Chairperson
+
+(1) The Chairperson of the Board shall be appointed by the Governor in Council to hold office during pleasure for a term not exceeding five years.
+
+**Appointment of President**
+
+(2) The first President of the Centre shall be appointed by the Governor in Council to hold office during pleasure for a term not exceeding five years and any subsequent President shall be appointed by the Governor in Council on the recommendation of the Board to hold office during pleasure for a term not exceeding five years.
+
+**Other governors**
+
+(3) Each of the governors, other than the Chairperson and the President, shall be appointed by the Governor in Council to hold office during pleasure for such term not exceeding four years as will ensure as far as possible the expiration in any one year of the terms of appointment of fewer than half of the governors.
+
+**Eligibility for re-appointment**
+
+(4) Any retiring governor is eligible for re-appointment to the Board in the same or another capacity.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 5; 2010, c. 12, ss. 1748(E), 1753(E)
+
+</details>
+
+### 6 Vice-Chairperson
+
+(1) The Board shall elect one of the governors to be Vice-Chairperson of the Board.
+
+**Absence, etc., of Chairperson**
+
+(2) In the event of the absence or incapacity of the Chairperson, or if the office of Chairperson is vacant, the Vice-Chairperson of the Board has all the duties and may perform all the functions of the Chairperson.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 6; 2010, c. 12, s. 1749(E)
+
+</details>
+
+### 7 President
+
+(1) The President is the chief executive officer of the Centre and has supervision over and direction of the work and staff of the Centre.
+
+**Acting President**
+
+(2) In the event of the absence or incapacity of the President, or if the office of President is vacant, the Board may authorize an officer of the Centre to act as President, but no person so authorized shall act as President for a period exceeding sixty days without the approval of the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 7
+
+</details>
+
+### 8 Temporary substitute governor
+
+(1) The Governor in Council may, on any terms and conditions that the Governor in Council prescribes, appoint a temporary substitute governor if a governor, other than the Chairperson or President, is unable to perform the duties of his or her office.
+
+**Vacancy**
+
+(2) Where the office of a governor becomes vacant during the term of the governor appointed thereto, the Governor in Council may appoint a person to that office for the remainder of that term.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 8; 2010, c. 12, s. 1753(E); 2012, c. 19, s. 428(E)
+
+</details>
+
+### 9 Salary and expenses
+
+The governors shall be paid such remuneration and expenses as are fixed by the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 9
+
+</details>
+
+### 10 Majority of governors
+
+(1) The Chairperson, the Vice-chairperson and at least six other governors must be Canadian citizens.
+
+**Qualification**
+
+(2) At least eight of the governors must have experience in the field of international development or experience or training in the natural or social sciences or technology.
+
+**Parliamentary governors**
+
+(3) Two of the governors who are Canadian citizens, other than the Chairperson and the Vice-chairperson, may be appointed from among the members of the Senate or the House of Commons.
+
+**Salary and expenses**
+
+(4) A member appointed under subsection (3) shall not be paid remuneration but is eligible for expenses and, if he or she is a member of the House of Commons, is not, by reason of being the holder of the office or place in respect of which those expenses are payable, rendered incapable of being elected, or of sitting or voting, as a member of that House.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 10; 2010, c. 12, s. 1750; 2012, c. 19, s. 429
+
+</details>
+
+### 11 Executive committee
+
+(1) There shall be an executive committee of the Board consisting of the Chairperson, the President and at least three other governors annually elected from the Board by the governors in such a manner that a majority of the members of the committee are Canadian citizens.
+
+**Duties of executive committee**
+
+(2) The executive committee shall exercise such of the powers, and perform such of the functions, of the Centre as the Board may by by-law assign to it and shall submit at each meeting of the Board minutes of its proceedings since the last preceding meeting of the Board.
+
+**Chairperson**
+
+(3) The Board shall appoint one of the members of the executive committee to be the chairperson of the executive committee.
+
+**Meetings**
+
+(4) The executive committee shall meet at least four times in each year.
+
+**Quorum**
+
+(5) Three members of the executive committee, at least two of whom are Canadian citizens, constitute a quorum.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 11; 2010, c. 12, ss. 1751(E), 1753(E); 2012, c. 19, s. 430
+
+</details>
+
+### 12 Fellows of the Centre
+
+(1) The Board may appoint any person who, in the opinion of the governors, has made an outstanding contribution in the field of international development as a Fellow of the International Development Research Centre.
+
+**Stipend for Fellows**
+
+(2) The Centre may prescribe the period of time during which any person shall be named a Fellow pursuant to subsection (1) and the stipend, if any, to be paid to any such person.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 12
+
+</details>
+
+### 13 Advisory and other committees
+
+The Board may appoint advisory or other committees under such terms and conditions as the Board may by by-law prescribe.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 13
+
+</details>
+
+### 14 Officers and employees
+
+Subject to the by-laws, the Board may appoint such officers, agents and employees as are necessary for the proper conduct of the work of the Centre.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 14
+
+</details>
+
+### 15 Head office
+
+(1) The head office of the Centre shall be at such place in Canada as may be designated by the Governor in Council.
+
+**Change of head office**
+
+(2) The Board may, by by-law approved by the Governor in Council, change the head office of the Centre to another place in Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 15
+
+</details>
+
+### 16 Meetings of Board
+
+(1) The Board shall meet at least twice in each year, with at least one such meeting at the head office of the Centre, and at such other times and places as the Chairperson deems necessary.
+
+**Chairperson to preside**
+
+(2) The Chairperson shall preside at meetings of the Board.
+
+**Quorum**
+
+(3) Seven governors, at least four of whom are Canadian citizens, constitute a quorum of the Board. However, the proceedings of any meeting of the Board that is attended by more than seven governors are not valid unless a majority of those governors are Canadian citizens.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 16; 2010, c. 12, ss. 1752(E), 1753(E); 2012, c. 19, s. 431
+
+</details>
+
+## By-laws
+
+### 17 By-laws
+
+The Board may, with the approval of the Governor in Council, make by-laws respecting
+
+- (a) the constitution of advisory or other committees appointed pursuant to section 13, and the salaries and expenses, if any, to be paid to the members of those committees;
+
+- (b) the duties and conduct of officers, agents and employees of the Centre;
+
+- (c) the conditions of employment and the remuneration of officers, agents and employees of the Centre;
+
+- (d) the procedure in all business at meetings;
+
+- (e) the assignment of any powers and functions of the Centre to the executive committee of the Board and the manner in which the powers and functions so assigned shall be exercised or performed; and
+
+- (f) generally the conduct and management of the affairs of the Centre.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 17
+
+</details>
+
+### 18 Not agent of Her Majesty
+
+(1) The Centre is not an agent of Her Majesty, and, except as provided in subsection (2), the governors and the officers, agents and employees of the Centre are not part of the public service.
+
+**Employees deemed employed in public service**
+
+(2) The officers and employees of the Centre shall be deemed to be employed in the public service for the purposes of the *Public Service Superannuation Act* and the Centre shall be deemed to be a public service corporation for the purposes of section 37 of that Act.
+
+**Application of *Public Service Superannuation Act***
+
+(3) The *Public Service Superannuation Act* does not apply to the governors unless in the case of any such governor the Governor in Council otherwise directs.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 18; 2003, c. 22, s. 225(E)
+
+</details>
+
+### 19 Application of *Income Tax Act*
+
+The Centre shall, for the purposes of the *Income Tax Act*, be deemed to be a registered charity as defined in that Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 19; 1999, c. 31, s. 246(F)
+
+</details>
+
+## Financial
+
+### 20 International Development Research Centre Account
+
+(1) The Centre shall establish, under its management in a bank or in an authorized foreign bank within the meaning of section 2 of the *Bank Act* that is not subject to the restrictions and requirements referred to in subsection 524(2) of that Act in respect of its business in Canada, an account to be known as the International Development Research Centre Account, in this section called the “Account”.
+
+**Credits to Account**
+
+(2) There shall be credited to the Account all amounts realized by the Centre under this Act in carrying out research or technical development or from providing any other services in Canada or elsewhere under any contract or agreement.
+
+**Charges to Account**
+
+(3) There shall be charged to the Account all expenditures incurred by or for the Centre under this Act in carrying out the research and development activities or providing the services referred to in subsection (2).
+
+**Grant**
+
+(4) The Minister of Finance shall, out of the special account for international development assistance in the accounts of Canada, pay to the Centre a grant of one million dollars to establish the Account.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 20; 1999, c. 28, s. 167
+
+</details>
+
+## Audit
+
+### 21 Audit
+
+The accounts and financial transactions of the Centre shall be audited annually by the Auditor General of Canada and a report of the audit shall be made to the Centre and to the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. 21(1st Supp.), s. 21; 1976-77, c. 34, s. 30(F)
+
+</details>
+
+## Report to Parliament
+
+### 22 Annual report
+
+(1) The Chairperson shall, within four months after the termination of each fiscal year, submit to the Minister a report relating to the activities of the Centre for that fiscal year, including the financial statements of the Centre and the report thereon of the Auditor General of Canada.
+
+**Tabling report**
+
+(2) The Minister shall cause the report submitted under subsection (1) to be laid before Parliament within fifteen days after the receipt thereof by the Minister or, if Parliament is not then sitting, on any of the first fifteen days next thereafter that either House of Parliament is sitting.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. I-19, s. 22; 2010, c. 12, s. 1753(E)
+
+</details>

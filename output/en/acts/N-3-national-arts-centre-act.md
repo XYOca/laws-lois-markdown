@@ -1,0 +1,303 @@
+---
+title: "National Arts Centre Act"
+long_title: "An Act to establish a corporation for the administration of the National Arts Centre"
+chapter: "N-3"
+language: "en"
+type: "act"
+---
+
+# National Arts Centre Act
+
+> An Act to establish a corporation for the administration of the National Arts Centre
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *National Arts Centre Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-2, s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**Board** means the Board of Trustees of the Corporation; (**conseil**)
+
+**Centre** means the National Arts Centre located in the city of Ottawa; (**Centre**)
+
+**Corporation** means the National Arts Centre Corporation continued by section 3; (**Société**)
+
+**Director**[Repealed, 2001, c. 34, s. 54]
+
+**Minister** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; (**ministre**)
+
+**President** means the President of the Centre appointed under subsection 6(1); (**président**)
+
+**performing arts** means the arts of the theatre and the concert hall, including the creating, staging and performing of drama, music and the dance. (**arts d’interprétation**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 2; 2001, c. 34, s. 54; 2006, c. 9, s. 280
+
+</details>
+
+## Corporation Established
+
+### 3 Corporation continued
+
+The National Arts Centre Corporation is continued as a corporation consisting of a Board of Trustees composed of a Chairperson, a Vice-Chairperson, the mayors of the cities of Ottawa and Gatineau and six other members to be appointed as provided in subsection 4(2).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 3; 1995, c. 29, s. 51; 2006, c. 9, s. 281
+
+</details>
+
+## Members of the Board
+
+### 4 Appointment of Chairperson and Vice-Chairperson
+
+(1) The Chairperson and Vice-Chairperson of the Board shall be appointed by the Governor in Council for such terms, not exceeding four years each, as are fixed by the Governor in Council.
+
+**Appointment of other members**
+
+(2) Each of the members of the Board, other than the Chairperson and Vice-Chairperson and the mayors referred to in section 3, shall be appointed by the Governor in Council for a term not exceeding four years.
+
+**Eligibility for re-appointment**
+
+(3) A person who has served two consecutive terms as Chairperson of the Board, as Vice-Chairperson thereof or as a member appointed under subsection (2) is not, during the twelve months following the completion of the second term, eligible to be re-appointed to the Board in the capacity in which that person served.
+
+**Vacancy in membership**
+
+(4) A vacancy in the membership of the Board does not impair the right of the remaining members to act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 4; 1995, c. 29, ss. 52, 53(E); 2006, c. 9, s. 282
+
+</details>
+
+### 5 Remuneration
+
+(1) Each member of the Board, other than a member who is in receipt of a salary fixed by the Governor in Council, shall be paid by the Corporation, for each day the member attends any meeting of the Board or of any committee of the Board, such remuneration as is fixed by by-law of the Board.
+
+**Expenses**
+
+(2) Each member of the Board is entitled to be paid by the Corporation such travel and living expenses incurred by the member in connection with the performance of his duties as are fixed by by-law of the Board.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-2, s. 5
+
+</details>
+
+## President
+
+### 6 President of the Centre
+
+(1) There shall be a President of the Centre to be appointed by the Board to hold office for a term not exceeding five years.
+
+**Re-appointment**
+
+(2) A person appointed as President is eligible for re-appointment.
+
+**Salary**
+
+(3) The President shall be paid by the Corporation such salary as is fixed by the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 6; 2001, c. 34, s. 55
+
+</details>
+
+### 7 President chief executive officer
+
+(1) The President is the chief executive officer of the Corporation and has supervision over and direction of the work and staff of the Corporation.
+
+**Acting President**
+
+(2) If the President is absent or unable to perform the duties of the office of President or that office is vacant, the Board may authorize an officer of the Corporation to act as President.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 7; 2001, c. 34, ss. 55, 56(F)
+
+</details>
+
+## Officers and Employees
+
+### 8 Staff
+
+The Corporation may employ such officers and employees and such technical and professional advisers as the Corporation considers necessary for the proper conduct of its activities, at such remuneration and on such other terms and conditions as it deems fit.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-2, s. 8
+
+</details>
+
+## Objects and Powers of the Corporation
+
+### 9 Objects of Corporation
+
+(1) The objects of the Corporation are to operate and maintain the Centre, to develop the performing arts in the National Capital Region described in the schedule to the *National Capital Act* and to assist the Canada Council for the Arts in the development of the performing arts elsewhere in Canada.
+
+**Idem**
+
+(2) In furtherance of its objects, but without limiting the generality of subsection (1), the Corporation may
+
+- (a) arrange for and sponsor performing arts activities at the Centre;
+
+- (b) encourage and assist in the development of performing arts companies resident at the Centre;
+
+- (c) arrange for or sponsor radio and television broadcasts from the Centre and the showing of films in the Centre;
+
+- (d) provide accommodation at the Centre, on such terms and conditions as the Corporation may fix, for national and local organizations the objects of which include the development and encouragement of the performing arts in Canada; and
+
+- (e) at the request of the Government of Canada or the Canada Council for the Arts, arrange for performances elsewhere in Canada by performing arts companies, whether resident or non-resident in Canada, and arrange for performances outside Canada by performing arts companies resident in Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 9; 2001, c. 34, s. 16
+
+</details>
+
+### 10 Powers of Corporation
+
+In carrying out its objects under this Act, the Corporation may
+
+- (a) acquire real, personal, movable and immovable property, including securities, and hold, manage or dispose of them as the Corporation may determine;
+
+- (a.1) lease as lessee real, personal, movable and immovable property;
+
+- (b) acquire by gift, bequest or devise real, personal, movable and immovable property and, despite anything in this Act, expend, administer or dispose of any such property, subject to the terms, if any, on which it was given, bequeathed or devised to the Corporation;
+
+- (c) operate restaurants, lounges, parking facilities, shops and other facilities in the Centre, for the use of the public, and lease or otherwise make available, on such terms and conditions as the Corporation sees fit, any such facilities or space therefor;
+
+- (d) expend any moneys appropriated by Parliament for the purposes of the Corporation or received by the Corporation from its operation of the Centre, including any moneys received by it from leasing or otherwise making available any facilities or space referred to in paragraph (c); and
+
+- (e) generally, do and authorize such things as the Corporation may deem necessary for the attainment of the objects and the exercise of the powers of the Corporation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 10; 2001, c. 4, s. 101; 2004, c. 25, s. 146(F)
+
+</details>
+
+### 11 By-laws
+
+The Board may make by-laws
+
+- (a) for the regulation of its proceedings, including the establishment of special and standing committees of the Board, the delegation to those committees of any of its duties and the fixing of quorums for meetings of the Board or of those committees;
+
+- (b) for the establishment of advisory committees consisting of members of the Board and persons other than members thereof;
+
+- (c) subject to the approval of the Minister, fixing the remuneration and travel and living expenses to be paid to members of the Board as provided in this Act; and
+
+- (d) generally, for the conduct and management of its activities.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-2, s. 11
+
+</details>
+
+## General
+
+### 12 Head office
+
+The head office of the Corporation shall be at the city of Ottawa.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. N-2, s. 12
+
+</details>
+
+### 13 Superannuation
+
+(1) The President and the officers and employees of the Corporation shall be deemed to be employed in the public service for the purposes of the *Public Service Superannuation Act* and the Corporation shall be deemed to be a Public Service corporation for the purposes of section 37 of that Act.
+
+**Compensation**
+
+(2) For the purposes of the *Government Employees Compensation Act* and any regulation made pursuant to section 9 of the *Aeronautics Act*, the President and the officers and employees of the Corporation shall be deemed to be employees in the federal public administration.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 13; 2001, c. 34, s. 55; 2003, c. 22, ss. 224(E), 225(E)
+
+</details>
+
+### 14 Not agent of Her Majesty or part of federal public administration
+
+The Corporation is not an agent of Her Majesty and, except as provided in section 13, the President and the officers and employees of the Corporation are not part of the federal public administration.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 14; 2001, c. 34, s. 55; 2003, c. 22, s. 224(E)
+
+</details>
+
+### 15 Corporation deemed registered charity
+
+The Corporation shall, for the purposes of the *Income Tax Act*, be deemed to be a registered charity within the meaning of that expression for the purposes of that Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 15; 1999, c. 31, s. 246(F)
+
+</details>
+
+## Audit
+
+### 16 Audit
+
+The accounts and financial transactions of the Corporation shall be audited annually by the Auditor General of Canada and a report of the audit shall be made to the Chairperson of the Board.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 16; 1995, c. 29, s. 53(E)
+
+</details>
+
+## Report to Parliament
+
+### 17 Annual report
+
+(1) The Chairperson of the Board shall, within three months after the termination of each fiscal year, submit to the Minister a report of all proceedings under this Act for that fiscal year, including the financial statement of the Corporation and the report thereon of the Auditor General of Canada.
+
+**Tabling report**
+
+(2) The Minister shall cause the report submitted under subsection (1) to be laid before Parliament within fifteen days after the receipt thereof by the Minister or, if Parliament is not then sitting, on any of the first fifteen days next thereafter that either House of Parliament is sitting.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. N-3, s. 17; 1995, c. 29, s. 53(E)
+
+</details>

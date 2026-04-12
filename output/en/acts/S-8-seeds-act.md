@@ -1,0 +1,590 @@
+---
+title: "Seeds Act"
+long_title: "An Act respecting seeds"
+chapter: "S-8"
+language: "en"
+type: "act"
+---
+
+# Seeds Act
+
+> An Act respecting seeds
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Seeds Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. S-7, s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**analyst** means a person designated as an analyst pursuant to section 5; (**analyste**)
+
+**document** means anything on which information that is capable of being understood by a person, or read by a computer or other device, is recorded or marked; (**document**)
+
+**environment** means the components of the Earth and includes
+  - (a) air, land and water,
+  - (b) all layers of the atmosphere,
+  - (c) all organic and inorganic matter and living organisms, and
+  - (d) the interacting natural systems that include components referred to in paragraphs (a) to (c); (**environnement**)
+
+**grade**, in respect of seed, includes any class of seed; (**catégorie**)
+
+**grade name** includes any mark, description or designation of a grade; (**dénomination de catégorie**)
+
+**inspector** means a person designated as an inspector pursuant to section 5; (**inspecteur**)
+
+**item to which this Act applies** means
+  - (a) seed,
+  - (b) anything used in an activity regulated under this Act, and
+  - (c) a document that is related to seed or to any activity regulated under this Act; (**chose visée par la présente loi**)
+
+**label** includes any legend, word, mark, symbol or design applied or attached to, included in, belonging to or accompanying any seed or package; (**étiquette**)
+
+**Minister** means the Minister of Agriculture and Agri-Food; (**ministre**)
+
+**package** includes a sack, bag, barrel, case or any other container in which seed is placed or packed; (**emballage**)
+
+**penalty** means an administrative monetary penalty imposed under the *Agriculture and Agri-Food Administrative Monetary Penalties Act* for a violation; (**sanction**)
+
+**place** includes any vehicle, vessel, railway car or aircraft; (**lieu**)
+
+**prescribed** means prescribed by regulation;
+
+**seed** means any plant part of any species belonging to the plant kingdom, represented, sold or used to grow a plant; (**semences**)
+
+**sell** includes agree to sell, or offer, keep, expose, transmit, send, convey or deliver for sale, or agree to exchange or to dispose of to any person in any manner for a consideration. (**vente**)
+
+**Tribunal** means the Review Tribunal continued by subsection 27(1) of the *Agriculture and Agri-Food Administrative Monetary Penalties Act*; (**Commission**)
+
+**violation** means any contravention of this Act or the regulations that may be proceeded with in accordance with the *Agriculture and Agri-Food Administrative Monetary Penalties Act*. (**violation**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 2; R.S., 1985, c. 49 (1st Supp.), s. 2; 1994, c. 38, s. 25; 1995, c. 40, s. 86; 1997, c. 6, s. 87; 2012, c. 24, s. 89; 2015, c. 2, s. 74
+
+</details>
+
+## Accredited Laboratories
+
+### 2.1 Power of Minister
+
+For the purpose of this Act and the regulations, the Minister may designate all or part of any building or place used for grading, testing or analysing seeds as an accredited laboratory.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 24, s. 90
+
+</details>
+
+## Prohibitions
+
+### 3 Seed not conforming to standard, etc.
+
+(1) Except as provided by the regulations, no person shall
+
+- (a) sell, import into Canada or export from Canada any seed unless the seed conforms to the prescribed standard and is marked and packed and the package labelled as prescribed; or
+
+- (b) sell or advertise for sale in Canada or import into Canada seed of a variety that is not registered in the prescribed manner.
+
+**Grade name resembling other grade name**
+
+(2) No person shall
+
+- (a) sell, import into Canada or export from Canada seed under a grade name or designation so closely resembling a grade name established under subsection 4(1) as to be likely to be mistaken therefor; or
+
+- (b) apply to seed or to a package containing seed a grade name or other designation so closely resembling a grade name established under subsection 4(1) as to be likely to be mistaken therefor.
+
+**Exception**
+
+(3) Subsection (2) does not apply if the seed meets the requirements prescribed for the grade, has been graded and inspected as required by the regulations and is marked and packed and the package labelled in the prescribed manner.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 3; R.S., 1985, c. 49 (1st Supp.), s. 3
+
+</details>
+
+### 3.1 Seed presenting risk of harm
+
+No person shall sell, import or export in contravention of the regulations any seed that presents a risk of harm to human, animal or plant health or the environment.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2015, c. 2, s. 75
+
+</details>
+
+### 3.2 Recall order — *Canadian Food Inspection Agency Act*
+
+No person shall sell seed that is the subject of a recall order referred to in subsection 19(1) of the *Canadian Food Inspection Agency Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2015, c. 2, s. 75
+
+</details>
+
+## Regulations
+
+### 4 Regulations
+
+(1) The Governor in Council may make regulations
+
+- (a) establishing grades with appropriate grade names for seeds;
+
+- (a.1) providing, with respect to grades requiring varietal purity, for the determination of varietal purity of seed crops and, in particular, for any such determination to be made by the Canadian Seed Growers’ Association and any standards established by that Association to be used;
+
+- (a.2) respecting the sale, importation or exportation of any seed that presents a risk of harm to human, animal or plant health or the environment;
+
+- (a.3) respecting the sending or conveying from one province to another or the importation or exportation of any seed;
+
+- (a.4) respecting the sale of any seed that has been imported or is to be exported or to be sent or conveyed from one province to another;
+
+- (b) prescribing the terms and conditions under which and the manner in which seed crops may be inspected or seeds may be graded or tested;
+
+- (b.1) respecting licences referred to in section 4.2, including their issuance, the conditions to which they may be subject and their amendment, suspension or revocation;
+
+- (c) prescribing the minimum standards of purity, germination, quality and disease for seeds;
+
+- (d) respecting the packing and marking of seeds and the marking and labelling of packages of seeds;
+
+- (e) prescribing the terms and conditions under which variety names of seeds may be used;
+
+- (f) exempting, with or without conditions, any item to which this Act applies, or a person or activity in respect of seed, from the application of this Act or the regulations or a provision of this Act or the regulations;
+
+- (g) respecting the taking of samples and the testing of seeds for the purposes of this Act;
+
+- (g.1) requiring persons to take or keep samples of any seed, or its package or label, and to provide the Minister or an inspector with, or with access to, those samples, and respecting the manner in which those samples are to be taken or kept and the manner in which they are to be provided or access to them is to be provided;
+
+- (h) respecting the fees that may be charged for any services provided under this Act;
+
+- (h.1) prescribing information that shall be given, and prohibiting or restricting the use of variety names, in labelling or advertising seeds for sale or making, in prescribed circumstances, offers of seeds for sale;
+
+- (h.2) respecting the registration of varieties of seeds and the amendment of the register of such varieties;
+
+- (h.3) specifying terms and conditions to which registration referred to in paragraph (h.2) shall be subject, including any limitation respecting the duration of any such registration or restricting any effect thereof to a region specified in the regulations;
+
+- (h.4) prescribing the procedure for review of cases involving the refusal, suspension or cancellation of any registration referred to in paragraph (h.2);
+
+- (h.5) determining the cases in which and the conditions, including provision of a bond or suretyship, under which seeds shall, for the purposes of this Act, be transported and stored on importation;
+
+- (h.6) respecting the registration of establishments that prepare seeds and the licensing of operators of those establishments, including the renewal, cancellation and suspension of those registrations and licences and the conditions to which they are subject;
+
+- (i) respecting the detention, preservation and safeguarding of anything seized under section 8;
+
+- (i.1) providing for any reasonable costs incidental to any seizure under this section, and to the detention of the thing seized, to be payable by and recoverable from the person entitled to possession thereof at the time of the seizure;
+
+- (j) respecting the disposition of anything forfeited under section 8;
+
+- (j.1) requiring persons to prepare, keep or maintain documents and to provide the Minister or an inspector with, or with access to, those documents, and respecting
+  - (i) the information in those documents,
+  - (ii) the manner in which they are to be prepared, kept or maintained,
+  - (iii) the place where they are to be kept or maintained, and
+  - (iv) the manner in which they are to be provided or access to them is to be provided;
+
+- (j.2) respecting the issuance of certificates or other documents for the purpose of section 4.11;
+
+- (j.3) respecting quality management programs, quality control programs, safety programs, preventive control plans or any other similar programs or plans to be implemented by persons who conduct any activity regulated under this Act;
+
+- (k) prescribing anything else that by this Act is required to be prescribed; and
+
+- (l) generally, for carrying out the purposes and provisions of this Act.
+
+**Weed seeds**
+
+(2) The Minister may, by order, specify the kinds of plants whose seeds are, for the purposes of this Act, weed seeds.
+
+**Paragraphs (1)(a.2) and (a.3)**
+
+(3) Regulations made under paragraph (1)(a.2) or (a.3) may, among other things, establish preclearance or in-transit requirements for any imported seed or anything imported with it.
+
+**Paragraph (1)(j.1)**
+
+(4) Regulations made under paragraph (1)(j.1) may, among other things, require persons who conduct any activity regulated under this Act and who become aware that seed presents a risk of harm to human, animal or plant health or the environment or does not meet the requirements of the regulations to provide written notice to that effect to the Minister or an inspector.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 4; R.S., 1985, c. 49 (1st Supp.), s. 4; 1994, c. 26, s. 65(F); 2001, c. 4, s. 117; 2012, c. 19, s. 473, c. 24, s. 91; 2015, c. 2, s. 76
+
+</details>
+
+## Incorporation by Reference
+
+### 4.1 Incorporation by reference
+
+(1) A regulation made under subsection 4(1) may incorporate by reference any document, regardless of its source, either as it exists on a particular date or as it is amended from time to time.
+
+**Accessibility**
+
+(2) The Minister must ensure that any document that is incorporated by reference in a regulation made under subsection 4(1), including any amendments to the document, is accessible.
+
+**Defence**
+
+(3) A person is not liable to be found guilty of an offence or subjected to an administrative sanction for any contravention in respect of which a document that is incorporated by reference in a regulation made under subsection 4(1) is relevant unless, at the time of the alleged contravention, the document was accessible as required by subsection (2) or it was otherwise accessible to the person.
+
+**No registration or publication**
+
+(4) For greater certainty, a document that is incorporated by reference in a regulation made under subsection 4(1) is not required to be transmitted for registration or published in the *Canada Gazette* by reason only that it is incorporated by reference.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1988, c. 65, s. 144; 2011, c. 25, s. 38; 2015, c. 2, s. 77
+
+</details>
+
+## General
+
+### 4.11 Export certificates
+
+The Minister may issue any certificate or other document setting out any information that he or she considers necessary to facilitate the export of any seed.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2015, c. 2, s. 77
+
+</details>
+
+### 4.12 Disposition of samples
+
+A sample taken by an inspector, or provided to the Minister or an inspector, under this Act may be disposed of in any manner that the Minister considers appropriate.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2015, c. 2, s. 77
+
+</details>
+
+### 4.13 Consideration of information
+
+In considering an application made under the regulations in relation to seed, the Minister may consider information that is available from a review or evaluation of seed conducted by the government of a foreign state or of a subdivision of a foreign state or by an international organization, or association, of states.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2015, c. 2, s. 77
+
+</details>
+
+## Licence
+
+### 4.2 Issuance of licence
+
+(1) The President of the Canadian Food Inspection Agency may, subject to the regulations, issue a licence authorizing any person to perform any activity specified in the licence that is related to controlling or assuring the quality of seeds or seed crops, including the sampling, testing, grading or labelling of seeds.
+
+**Conditions**
+
+(2) The President may, subject to the regulations, make the licence subject to any condition that he or she considers appropriate.
+
+**Not transferable**
+
+(3) The licence is not transferable.
+
+**Amendment**
+
+(4) The President may, subject to the regulations, amend, suspend or revoke the licence.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, c. 19, s. 474
+
+</details>
+
+## Enforcement
+
+### 5 Designation of inspectors
+
+(1) The President of the Canadian Food Inspection Agency may designate inspectors and analysts under section 13 of the *Canadian Food Inspection Agency Act* for the purposes of this Act.
+
+**Designation**
+
+(1.1) The President of the Canada Border Services Agency may designate inspectors under paragraph 9(2)(b) of the *Canada Border Services Agency Act* for the purposes of enforcing this Act.
+
+**Certificate to be produced**
+
+(2) Inspectors shall be given certificates in a form established by the President of the Canadian Food Inspection Agency or the President of the Canada Border Services Agency, as the case may be, attesting to their designation and, on entering any place under subsection 6(1), an inspector shall show the certificate to the person in charge of the place if the person requests proof of the inspector’s designation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 5; 1997, c. 6, s. 88; 2005, c. 38, s. 131; 2015, c. 2, s. 78(F)
+
+</details>
+
+### 6 Powers of inspectors
+
+(1) Subject to subsection (1.1), an inspector may, for a purpose related to verifying compliance or preventing non-compliance with this Act,
+
+- (a) enter any place in which the inspector believes on reasonable grounds there is any seed to which this Act applies;
+
+- (b) open any package found in that place that the inspector believes on reasonable grounds contains any such seed;
+
+- (c) examine the seed and take samples thereof;
+
+- (d) require any person to produce for inspection or for the purpose of obtaining copies or extracts any books, shipping bills, bills of lading or other documents or papers with respect to the administration of this Act or the regulations; and
+
+- (e) remove anything from that place for the purpose of examination, conducting tests or taking samples.
+
+**Warrant required to enter dwelling-house**
+
+(1.1) Where any place referred to in paragraph (1)(a) is a dwelling-house, an inspector may not enter that dwelling-house without the consent of the occupant except under the authority of a warrant issued under subsection (1.2).
+
+**Authority to issue warrant**
+
+(1.2) Where on ex parte application a justice of the peace is satisfied by information on oath
+
+- (a) that the conditions for entry described in paragraph (1)(a) exist in relation to a dwelling-house,
+
+- (b) that entry to the dwelling-house is necessary for any purpose relating to the administration or enforcement of this Act, and
+
+- (c) that entry to the dwelling-house has been refused or that there are reasonable grounds for believing that entry thereto will be refused,
+
+the justice of the peace may issue a warrant under his hand authorizing the inspector named therein to enter that dwelling-house subject to such conditions as may be specified in the warrant.
+
+**Use of force**
+
+(1.3) In executing a warrant issued under subsection (1.2), the inspector named therein shall not use force unless the inspector is accompanied by a peace officer and the use of force has been specifically authorized in the warrant.
+
+**Assistance to inspectors**
+
+(2) The owner or person in charge of any place described in subsection (1) and every person found in that place shall give an inspector all reasonable assistance to enable the inspector to carry out his duties and functions under this Act and shall furnish the inspector with any information he may reasonably require with respect to the administration of this Act and the regulations.
+
+**Provision of documents, information or samples**
+
+(3) An inspector may, for a purpose related to verifying compliance or preventing non-compliance with this Act, order a person to provide, on the date, at the time and place and in the manner specified by the inspector, any document, information or sample specified by the inspector.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 6; R.S., 1985, c. 31 (1st Supp.), s. 21; 2015, c. 2, s. 79
+
+</details>
+
+### 7 Obstruction of inspectors
+
+(1) No person shall obstruct or hinder an inspector in the carrying out of his duties or functions under this Act.
+
+**False statements**
+
+(2) No person shall make a false or misleading statement either orally or in writing to an inspector or other officer engaged in carrying out his duties or functions under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. S-7, s. 8
+
+</details>
+
+### 8 Seizure
+
+(1) Where an inspector believes on reasonable grounds that this Act or the regulations have been contravened, the inspector may seize the seed or package by means of or in relation to which the inspector believes on reasonable grounds the contravention was committed.
+
+**Release of seized seed or package**
+
+(2) If an inspector is satisfied that the provisions of this Act and the regulations that apply with respect to any seed or package seized under this Act have been complied with, the seed or package must be released.
+
+**Forfeiture**
+
+(3) Where the Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any seed or package by means of or in relation to which the violation or offence was committed be forfeited to Her Majesty in right of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 8; 1995, c. 40, s. 87; 2015, c. 2, s. 80
+
+</details>
+
+### 8.1 Removal or destruction of unlawful imports
+
+(1) An inspector who has reasonable grounds to believe that imported seed does not meet the requirements of the regulations or was imported in contravention of a provision of this Act or the regulations may, by notice, whether the seed is seized or not, order its owner or importer or the person having possession, care or control of it to remove it from Canada or, if removal is not possible, to destroy it.
+
+**Notice**
+
+(2) The notice must either be delivered personally to the owner or importer of the seed or to the person having possession, care or control of it or be sent by registered mail to the owner’s, importer’s or person’s address in Canada.
+
+**Forfeiture**
+
+(3) If the seed is not removed from Canada or destroyed within the period specified in the notice — or, if no period was specified, within 90 days after the day on which the notice was delivered or sent — it is, despite subsection 8(2), forfeited to Her Majesty in right of Canada and may be disposed of as the Minister may direct.
+
+**Suspension of application of subsection (3)**
+
+(4) An inspector may, for a period that he or she specifies, suspend the application of subsection (3) if he or she is satisfied that
+
+- (a) harm to human, animal or plant health or the environment is unlikely to result;
+
+- (b) the seed will not be sold within that period;
+
+- (c) the measures that should have been taken for the seed not to have been imported in contravention of a provision of this Act or the regulations will be taken within that period; and
+
+- (d) if the seed does not meet the requirements of the regulations, it will be brought into compliance with the regulations within that period.
+
+**Cancellation**
+
+(5) An inspector may cancel the notice if he or she is satisfied that
+
+- (a) harm to human, animal or plant health or the environment is unlikely to result;
+
+- (b) the seed has not been sold within the period referred to in subsection (6);
+
+- (c) the measures referred to in paragraph (4)(c) were taken within that period; and
+
+- (d) if the seed did not meet the requirements of the regulations when it was imported, it was brought into compliance with the regulations within that period.
+
+**Period**
+
+(6) The period for the purposes of subsection (5) is
+
+- (a) if the application of subsection (3) was suspended under subsection (4), the period of the suspension; and
+
+- (b) if the application of subsection (3) was not suspended, the period specified in the notice or, if no period was specified, the period that ends 90 days after the day on which the notice was delivered or sent.
+
+**Non-application of *Statutory Instruments Act***
+
+(7) The *Statutory Instruments Act* does not apply in respect of the notice.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2015, c. 2, s. 81
+
+</details>
+
+## Analysis
+
+### 8.2 Analysis and examination
+
+An inspector may submit to an analyst, for analysis or examination,
+
+- (a) any sample taken by an inspector, or provided to the Minister or an inspector, under this Act; or
+
+- (b) anything removed under paragraph 6(1)(e), any seed or package seized under subsection 8(1) or any sample of that thing, seed or package.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2015, c. 2, s. 81
+
+</details>
+
+## Limitation on Liability
+
+### 8.3 Her Majesty not liable
+
+If a person must, under this Act, do anything or permit an inspector to do anything, Her Majesty in right of Canada is not liable
+
+- (a) for any costs, loss or damage resulting from the compliance; or
+
+- (b) to pay any fee, including any rent or charge, for what is done or permitted to be done.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2015, c. 2, s. 81
+
+</details>
+
+### 8.4 No liability
+
+No person who exercises powers or performs duties or functions under this Act is liable in respect of anything done or omitted to be done in good faith in the exercise of those powers or the performance of those duties or functions.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2015, c. 2, s. 81
+
+</details>
+
+## Offences and Punishment
+
+### 9 Offences
+
+(1) Every person who contravenes any provision of this Act or the regulations or fails to do anything that the person is ordered to do by an inspector under this Act is guilty of
+
+- (a) an offence punishable on summary conviction and liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both; or
+
+- (b) an indictable offence and liable to a fine not exceeding $250,000 or to imprisonment for a term not exceeding two years, or to both.
+
+**Parties to offence**
+
+(2) If a person other than an individual commits an offence under subsection (1), any of the person’s directors, officers or agents or mandataries who directs, authorizes, assents to or acquiesces or participates in the commission of the offence is a party to the offence and is liable on conviction to the punishment provided for by this Act, even if the person is not prosecuted for the offence.
+
+**Proof of offence**
+
+(3) In a prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee or an agent or mandatary of the accused, even if the employee or the agent or mandatary is not identified or prosecuted for the offence, unless the accused establishes that the offence was committed without the knowledge or consent of the accused and that the accused exercised all due diligence to prevent its commission.
+
+(4) and (5) [Repealed, 2015, c. 2, s. 82]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 9; R.S., 1985, c. 49 (1st Supp.), s. 5; 1995, c. 40, s. 88; 2015, c. 2, s. 82
+
+</details>
+
+### 10 Limitation period
+
+Summary conviction proceedings for an offence under this Act may be instituted no later than three years after the day on which the subject matter of the proceedings arises.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 10; R.S., 1985, c. 49 (1st Supp.), s. 6; 1997, c. 6, s. 89; 2015, c. 2, s. 83
+
+</details>
+
+### 11 Certificate of analyst
+
+(1) A certificate of an analyst stating that the analyst has examined a substance or a sample submitted to the analyst by an inspector and stating the result of the examination is, in any proceedings for a violation, or for an offence under this Act, evidence of the statement contained in the certificate.
+
+**Admissibility**
+
+(2) In any proceedings for a violation, or for an offence under this Act, a document purporting to be the certificate of an analyst shall be received in evidence without proof of the signature or official character of the person by whom it purports to be signed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 11; R.S., 1985, c. 49 (1st Supp.), s. 7; 1995, c. 40, s. 89
+
+</details>
+
+### 12 Venue
+
+A complaint or information in respect of an offence under this Act may be heard, tried or determined by a provincial court judge or a justice if the accused is resident or carrying on business within the territorial jurisdiction of the provincial court judge or justice, although the matter of the complaint or information did not arise in that territorial jurisdiction.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. S-8, s. 12; R.S., 1985, c. 27 (1st Supp.), s. 203
+
+</details>
+
+
+## RELATED PROVISIONS
+
+### — 1997, c. 6, s. 89(2)
+
+### 89 Transitional
+
+(2) For greater certainty, the limitation periods provided for in subsection 10(1) of the Act, as amended by subsection (1), only apply in respect of offences committed after the coming into force of that subsection.

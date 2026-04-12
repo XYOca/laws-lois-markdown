@@ -1,0 +1,49 @@
+---
+title: "Quebec Sheep and Wool Order"
+long_title: "Order Granting Authority to the Office des producteurs d’agneaux et de moutons du Québec to Regulate the Marketing of Sheep snd Wool Produced in the Province of Quebec in Interprovincial and Export Trade"
+instrument_number: "SOR/92-91"
+language: "en"
+type: "regulation"
+---
+
+# Quebec Sheep and Wool Order
+
+> Order Granting Authority to the Office des producteurs d’agneaux et de moutons du Québec to Regulate the Marketing of Sheep snd Wool Produced in the Province of Quebec in Interprovincial and Export Trade
+
+
+## Short Title
+
+### 1
+
+This Order may be cited as the *Quebec Sheep and Wool Order*.
+
+## Interpretation
+
+### 2
+
+In this Order,
+
+**Board** means the *Office des producteurs d’agneaux et de moutons du Québec*; (**Office**)
+
+**sheep** means sheep produced in the Province of Quebec; (**ovin**)
+
+**wool** means unwashed wool shorn from a sheep. (**laine**)
+
+## Interprovincial and Export Trade
+
+### 3
+
+The Board is authorized to regulate the marketing of sheep and wool in interprovincial and export trade and for those purposes may, with respect to persons and property situated within the Province of Quebec, exercise all or any powers like the powers exercisable by it under *An Act respecting the marketing of agriculture, food and fish products and amending various legislation*, S.Q. 1990, c. 13, in relation to the marketing of sheep and wool locally within that Province.
+
+## Levies or Charges
+
+### 4
+
+The Board may, in relation to the powers granted to it under section 3,
+
+- (a) fix and impose, by order, levies or charges and collect the levies or charges from persons referred to in section 3 who are engaged in the production or marketing of sheep and wool and, for those purposes, may classify those persons into groups and fix, by order, the levies or charges payable by the members of the different groups in different amounts; and
+
+- (b) use the levies or charges for the purposes of the Board, including the creation of reserves, the payment of expenses and losses resulting from the sale or disposal of sheep and wool and the equalization or adjustment among producers of sheep and wool of moneys realized from the sale thereof during such period as the Board may determine.
+
+> His Excellency the Governor General in Council, on the recommendation of the Minister of Agriculture, pursuant to section 2 of the *Agricultural Products Marketing Act*, is pleased hereby to make the annexed *Order granting authority to the Office des producteurs d’agneaux et de moutons du Québec to regulate the marketing of sheep and wool produced in the Province of Quebec in interprovincial and export trade*.
+

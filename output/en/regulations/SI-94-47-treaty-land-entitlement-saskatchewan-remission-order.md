@@ -1,0 +1,108 @@
+---
+title: "Treaty Land Entitlement (Saskatchewan) Remission Order"
+long_title: "Order Respecting the Remission of the Goods and Services Tax Paid or Payable by Certain Indian Bands in Respect of Land Purchased Pursuant to Certain Treaty Land Entitlement Agreements"
+instrument_number: "SI/94-47"
+language: "en"
+type: "regulation"
+---
+
+# Treaty Land Entitlement (Saskatchewan) Remission Order
+
+> Order Respecting the Remission of the Goods and Services Tax Paid or Payable by Certain Indian Bands in Respect of Land Purchased Pursuant to Certain Treaty Land Entitlement Agreements
+
+
+## Short Title
+
+### 1
+
+This Order may be cited as the *Treaty Land Entitlement (Saskatchewan) Remission Order*.
+
+## Interpretation
+
+### 2
+
+In this Order,
+
+**Act** means the *Excise Tax Act*; (**Loi**)
+
+**band** means a band that is set out in the schedule; (**bande**)
+
+**framework agreement** means the Saskatchewan Treaty Land Entitlement Framework Agreement entered into on September 22, 1992, pursuant to which Canada’s outstanding treaty land entitlement obligations are to be fulfilled in respect of those bands that are parties to that Agreement; (**accord-cadre**)
+
+**land** has the same meaning as **real property**, as that term is defined in subsection 123(1) of the Act; (**terre**)
+
+**specific agreement** means
+  - (a) in respect of the Nekaneet Band, the Nekaneet Treaty Land Entitlement Settlement Agreement entered into by the Nekaneet Band of Saskatchewan, the Government of Canada and the Government of Saskatchewan on September 23, 1992,
+  - (b) in respect of any band that has signed the framework agreement, an agreement entered into by that band, the Government of Canada and the Government of Saskatchewan to give effect to the framework agreement, or
+  - (c) in respect of any other band, an agreement entered into by that band, the Government of Canada and the Government of Saskatchewan in settlement of a treaty land entitlement claim on the same or substantially the same basis as the framework agreement. (**accord particulier**)
+
+## Remission of the Goods and Services Tax
+
+### 3
+
+Subject to section 4, remission of the tax paid or payable under Division II of Part IX of the Act on or after September 23, 1992 is hereby granted to a band set out in column I of an item of the schedule in respect of the value of consideration paid or payable for the purchase, by that band or an agent thereof, of land, up to the number of acres set out in column II of that item and any tangible personal property that is situated on the land at the time of purchase as well as all associated costs, where the purchase is made pursuant to a specific agreement.
+
+## Conditions
+
+### 4
+
+Remission is granted on condition that
+
+- (a) the tax paid or payable under Division II of Part IX of the Act has not been otherwise rebated, refunded or remitted to the band under the Act or the *Financial Administration Act*;
+
+- (b) the band is not entitled to claim an input tax credit under Part IX of the Act in respect of the tax; and
+
+- (c) an application in writing for the remission be submitted to the Minister of National Revenue within four years after the day on which the tax was paid or became payable.
+
+> His Excellency the Governor General in Council, considering that it is in the public interest to do so, is pleased hereby, on the recommendation of the Minister of National Revenue, pursuant to subsection 23(2)[^] of the *Financial Administration Act*, to make the annexed *Order respecting the remission of the goods and services tax paid or payable by certain Indian bands in respect of land purchased pursuant to certain treaty land entitlement agreements*.
+
+
+
+## SCHEDULE
+
+(Sections 2 and 3)
+
+|  | Column I | Column II |
+| Item | Band | Number of Acres |
+| --- | --- | --- |
+| 1 | Beardy’s & Okemasis | 71,137.51 |
+| 2 | Canoe Lake | 49,973.33 |
+| 3 | English River | 37,646.66 |
+| 4 | Flying Dust | 33,910.08 |
+| 5 | Joseph Bighead | 28,704.00 |
+| 6 | Keeseekoose | 83,200.00 |
+| 7 | Little Pine | 92,870.31 |
+| 8 | Moosomin | 75,355.43 |
+| 9 | Mosquito Grizzly Bear’s Head | 33,153.33 |
+| 10 | Muskeg Lake | 48,604.67 |
+| 11 | Muskowekwan | 51,555.52 |
+| 12 | Nekaneet | 27,327.00 |
+| 13 | Ochapowace | 54,160.59 |
+| 14 | Okanese | 14,337.58 |
+| 15 | One Arrow | 58,615.79 |
+| 16 | Onion Lake | 108,550.57 |
+| 17 | Pelican Lake | 35,714.68 |
+| 18 | Peter Ballantyne | 234,248.85 |
+| 19 | Piapot | 81,081.41 |
+| 20 | Poundmaker | 47,687.44 |
+| 21 | Red Pheasant | 72,331.77 |
+| 22 | Saulteaux | 56,144.17 |
+| 23 | Star Blanket | 11,235.58 |
+| 24 | Sweetgrass | 23,914.02 |
+| 25 | Thunderchild | 120,816.41 |
+| 26 | Witchekan Lake | 32,442.60 |
+| 27 | Yellow Quill | 117,274.00 |
+| 28 | Cowessess | 189,367.00 |
+| 29 | Carry the Kettle | 86,491.00 |
+| 30 | Kawacatoose | 102,976.00 |
+| 31 | Sturgeon Lake First Nation | 38,971.10 |
+| 32 | Muskoday First Nation | 38,104.31 |
+| 33 | George Gordon First Nation | 115,712.00 |
+| 34 | Pasqua First Nation | 32,504.59 |
+
+<details>
+<summary>Historical Note</summary>
+
+- SI/97-139, s. 1; SI/2002-67, s. 1; SI/2008-82, s. 1; SI/2010-26, s. 1
+
+</details>

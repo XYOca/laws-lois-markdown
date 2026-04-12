@@ -1,0 +1,329 @@
+---
+title: "Canada Council for the Arts Act"
+long_title: "An Act for the establishment of a Canadian council for the encouragement of the arts"
+chapter: "C-2"
+language: "en"
+type: "act"
+---
+
+# Canada Council for the Arts Act
+
+> An Act for the establishment of a Canadian council for the encouragement of the arts
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Canada Council for the Arts Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 1; 2001, c. 34, s. 14(E)
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**arts** includes architecture, the arts of the theatre, literature, music, painting, sculpture, the graphic arts and other similar creative and interpretative activities; (**arts**)
+
+**Council** means the corporation established by section 3. (**Conseil**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-2, s. 2
+
+</details>
+
+## Canada Council for the Arts
+
+### 3 Establishment of Council
+
+There is hereby established a corporation, to be known as the Canada Council for the Arts, consisting of a Chairperson and Vice-Chairperson and not more than nine other members, to be appointed by the Governor in Council as provided in section 4.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 3; 1995, c. 29, s. 6; 2001, c. 34, s. 15(E)
+
+</details>
+
+## Members of the Council
+
+### 4 Chairperson and Vice-Chairperson
+
+(1) The Chairperson and Vice-Chairperson of the Council shall be appointed for such terms, not exceeding five years each, as are fixed by the Governor in Council.
+
+**Other members**
+
+(2) Each of the other members of the Council shall be appointed for a term of four years.
+
+**Eligibility for re-appointment**
+
+(3) A person who has served two consecutive terms as Chairperson of the Council, as Vice-Chairperson thereof or as a member appointed under subsection (2) is not, during the twelve months following the completion of the second term, eligible to be re-appointed to the Council in the same capacity.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 4; 1995, c. 29, s. 10(E); 2006, c. 9, s. 230
+
+</details>
+
+## Director
+
+### 5 Director
+
+(1) There shall be a Director of the Council to be appointed by the Governor in Council to hold office during pleasure.
+
+**Chief executive officer**
+
+(2) The Director is the chief executive officer of the Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 5; 1995, c. 29, s. 7; 2009, c. 2, s. 376
+
+</details>
+
+## Remuneration and Allowances
+
+### 6 Remuneration
+
+(1) The Chairperson, Vice-Chairperson and Director of the Council shall be paid such salary or other amount by way of remuneration, and the members of the Council appointed under subsection 4(2) shall be paid such allowance for each day while in attendance at meetings of the Council, as may be fixed by the Governor in Council.
+
+**Travel and living expenses**
+
+(2) The members and Director of the Council are entitled to be paid reasonable travel and living expenses incurred by them while absent from their ordinary places of residence in the course of their duties.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 6; 1995, c. 29, s. 7
+
+</details>
+
+## Employees and Advisers
+
+### 7 Staff
+
+The Council may appoint and pay the remuneration and expenses of the employees and the technical and professional advisers necessary for the proper conduct of the activities of the Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-2, s. 7
+
+</details>
+
+## Objects, Powers and Duties of the Council
+
+### 8 Objects and powers
+
+(1) The objects of the Council are to foster and promote the study and enjoyment of, and the production of works in, the arts and, in particular, but without limiting the generality of the foregoing, the Council may, in furtherance of its objects,
+
+- (a) assist, cooperate with and enlist the aid of organizations the objects of which are similar to any of the objects of the Council;
+
+- (b) provide, through appropriate organizations or otherwise, for grants, scholarships or loans to persons in Canada for study or research in the arts in Canada or elsewhere or to persons in other countries for study or research in the arts in Canada;
+
+- (c) make awards to persons in Canada for outstanding accomplishment in the arts;
+
+- (d) arrange for and sponsor exhibitions, performances and publications of works in the arts;
+
+- (e) make grants to universities and similar institutions of higher learning by way of capital assistance in respect of building construction projects;
+
+- (f) exchange with other countries or organizations or persons therein knowledge and information respecting the arts; and
+
+- (g) arrange for representation and interpretation of Canadian arts in other countries.
+
+**Duties in relation to UNESCO**
+
+(2) The Governor in Council may assign to the Council such functions and duties in relation to the United Nations Educational, Scientific and Cultural Organization as the Governor in Council considers desirable.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-2, ss. 8, 9; 1976-77, c. 24, s. 23
+
+</details>
+
+### 9 By-laws
+
+The Council may make by-laws regulating its proceedings and generally for the conduct and management of its activities, including the appointment of honorary officers and advisory committees.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-2, s. 10
+
+</details>
+
+### 10 Meetings of Council
+
+The Council shall meet at least three times a year in the city of Ottawa on such days as are fixed by the Council and at such other times and places as the Council deems necessary.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-2, s. 11
+
+</details>
+
+### 11 Superannuation
+
+The Director and employees of the Council shall be deemed to be employed in the public service for the purposes of the *Public Service Superannuation Act*, and the Council shall be deemed to be a Public Service corporation for the purposes of section 37 of that Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 11; 1995, c. 29, s. 8; 2003, c. 22, s. 225(E)
+
+</details>
+
+### 12 Not agent of Her Majesty or part of federal public administration
+
+The Council is not an agent of Her Majesty and, except as provided in section 11, the members, Director and employees of the Council are not part of the federal public administration.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 12; 1995, c. 29, s. 8; 2003, c. 22, s. 224(E)
+
+</details>
+
+## Financial Provisions
+
+### 13 Endowment Fund
+
+The Minister of Finance may, out of the Consolidated Revenue Fund, pay to the Council the sum of fifty million dollars, which shall constitute an Endowment Fund for the purposes of this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-2, s. 14
+
+</details>
+
+### 14 Expenditures
+
+Any expenditure made for any of the purposes of this Act, except paragraph 8(1)(e), may be paid out of
+
+- (a) the return on investments made out of the Endowment Fund; or
+
+- (b) money, securities or other property received by the Council by gift, bequest or otherwise, if available for that purpose.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-2, s. 16
+
+</details>
+
+### 15 University Capital Grants Fund
+
+(1) The Council shall establish a fund to be called the University Capital Grants Fund, to which shall be credited the sum of fifty million dollars, which shall be paid to the Council by the Minister of Finance out of the Consolidated Revenue Fund.
+
+**Capital assistance to universities**
+
+(2) Grants made by the Council pursuant to paragraph 8(1)(e) may be paid out of the University Capital Grants Fund but shall not exceed
+
+- (a) in the case of any particular project, one-half of the total expenditures made in respect of the project; and
+
+- (b) in any province, an amount that is in the same proportion to the aggregate of the amounts credited to the University Capital Grants Fund as the population of the province, according to the latest census, is to the aggregate population, according to that census, of those provinces in which there is a university or other similar institution of higher learning.
+
+**Restriction on investments**
+
+(3) Investments out of money standing to the credit of the University Capital Grants Fund may be made only in bonds or other securities of or guaranteed by the Government of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-2, s. 17
+
+</details>
+
+### 16
+
+[Repealed, 1995, c. 29, s. 9]
+
+### 17 Property and investments
+
+(1) The Council may, for the purposes of this Act, acquire, hold, manage and dispose of real, personal, movable and immovable property and, subject to this Act and on the advice of the Investment Committee, may invest in any manner it sees fit any money standing to the credit of the Endowment Fund or the University Capital Grants Fund or received by the Council by gift, bequest or otherwise, and may hold, manage and dispose of the investment.
+
+**Proceeds of disposal of investments**
+
+(2) The proceeds of the sale or other disposition of any investment made out of the Endowment Fund or the University Capital Grants Fund shall be credited to the fund out of which the investment was made.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 17; 2001, c. 4, s. 65; 2004, c. 25, s. 104(F)
+
+</details>
+
+### 18 Donations
+
+The Council may acquire money, securities or other property by gift or bequest or otherwise and may, notwithstanding anything in this Act, expend, administer or dispose of any such money, securities or other property not forming part of the Endowment Fund or the University Capital Grants Fund, subject to the terms, if any, on which the money, securities or other property was given, bequeathed or otherwise made available to the Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 18; 2001, c. 4, s. 66(F); 2004, c. 25, s. 105(F)
+
+</details>
+
+### 19 Council deemed registered charity
+
+The Council shall, for the purposes of the *Income Tax Act*, be deemed to be a registered charity within the meaning of that expression for the purposes of that Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 19; 1999, c. 31, s. 246(F)
+
+</details>
+
+## Audit
+
+### 20 Audit
+
+The accounts and financial transactions of the Council shall be audited annually by the Auditor General of Canada and a report of the audit shall be made to the Council and to the member of the Queen’s Privy Council for Canada designated under subsection 21(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. C-2, s. 22
+
+</details>
+
+## Report to Parliament
+
+### 21 Annual report
+
+(1) The Chairperson of the Council shall, within three months after the termination of each fiscal year, submit to the member of the Queen’s Privy Council for Canada designated by the Governor in Council for the purpose a report of all proceedings under this Act for that fiscal year, including the financial statements of the Council and the report thereon of the Auditor General of Canada.
+
+**Tabling report**
+
+(2) The member designated under subsection (1) shall cause the report submitted under that subsection to be laid before Parliament within fifteen days after the receipt thereof by the member or, if Parliament is not then sitting, on any of the first fifteen days next thereafter that either House of Parliament is sitting and provision shall be made for a review thereof by Parliament.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. C-2, s. 21; 1995, c. 29, s. 10(E)
+
+</details>
+
+
+## RELATED PROVISIONS
+
+### — 1995, c. 29, s. 11
+
+### 11 Members cease to hold office
+
+Every person who was a member of the Investment Committee referred to in section 16 of the Act immediately before the coming into force of section 9 of this Act shall cease to hold office on the coming into force of section 9 of this Act.

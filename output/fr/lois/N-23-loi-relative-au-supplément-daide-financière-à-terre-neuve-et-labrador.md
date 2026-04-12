@@ -1,0 +1,34 @@
+---
+title: "Loi relative au supplément d’aide financière à Terre-Neuve-et-Labrador"
+long_title: "Loi donnant effet à l’article 29 des Conditions de l’union de Terre-Neuve au Canada"
+chapter: "N-23"
+language: "en"
+type: "act"
+---
+
+# Loi relative au supplément d’aide financière à Terre-Neuve-et-Labrador
+
+> Loi donnant effet à l’article 29 des Conditions de l’union de Terre-Neuve au Canada
+
+
+### 1 Titre abrégé
+
+*Loi relative au supplément d’aide financière à Terre-Neuve-et-Labrador*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-23, art. 1; 2015, ch. 3, art. 135
+
+</details>
+
+### 2 Versement annuel à Terre-Neuve-et-Labrador, à titre de supplément d’aide financière
+
+En plus de tous les autres paiements, octrois, subventions et allocations payables à la province de Terre-Neuve-et-Labrador, le ministre des Finances, au nom du gouvernement du Canada, doit, sur le Trésor, faire verser à la province de Terre-Neuve-et-Labrador, au cours de chaque exercice — sauf stipulation différente de quelque accord conclu à ce propos par le gouvernement du Canada et le gouvernement de Terre-Neuve-et-Labrador, et jusqu’à la conclusion d’un tel accord — un montant annuel de huit millions de dollars, à titre de supplément d’aide financière prévu par l’article 29 des Conditions de l’union de Terre-Neuve au Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. N-23, art. 2; 2015, ch. 3, art. 135
+
+</details>

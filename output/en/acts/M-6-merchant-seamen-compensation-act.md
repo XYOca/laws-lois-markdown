@@ -1,0 +1,940 @@
+---
+title: "Merchant Seamen Compensation Act"
+long_title: "An Act respecting compensation for merchant seamen"
+chapter: "M-6"
+language: "en"
+type: "act"
+---
+
+# Merchant Seamen Compensation Act
+
+> An Act respecting compensation for merchant seamen
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Merchant Seamen Compensation Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+(1) In this Act,
+
+**accident** includes a wilful and an intentional act, not being the act of a seaman, and a fortuitous event occasioned by a physical or natural cause; (**accident**)
+
+**Board**[Repealed, 2012, c. 31, s. 233]
+
+**compensation** includes medical and hospital expenses and any other benefits, expenses or allowances authorized by this Act; (**indemnité**)
+
+**dependants** means members of the family of a seaman who were wholly or partly dependent on his earnings at the time of his death, or who but for the incapacity of a seaman due to an accident would have been so dependent; (**personnes à charge**)
+
+**employer** includes every person having any seaman in his service under a contract of hiring or apprenticeship, written or oral, express or implied; (**employeur**)
+
+**foreign voyage** means a voyage extending beyond the area of a home-trade voyage and not being an inland or minor waters voyage; (**voyage de long cours**)
+
+**home-trade voyage** means a voyage, not being an inland or minor waters voyage, between places within the following areas, namely, Canada, the United States other than Hawaii, St. Pierre and Miquelon, the West Indies, Mexico, Central America and the northeast coast of South America, in the course of which a ship does not go south of the sixth parallel of north latitude; (**voyage de cabotage**)
+
+**inland voyage** means a voyage, not being a minor waters voyage, on the inland waters of Canada together with such part of any lake or river forming part of the inland waters of Canada as lies within the United States or on Lake Michigan; (**voyage en eaux internes**)
+
+**invalid** means physically or mentally incapable of earning; (**invalide**)
+
+**medical aid** means the medical, surgical and dental aid, the hospital and skilled nursing services and the artificial member or members and apparatus and repair mentioned in subsection 46(1); (**assistance médicale**)
+
+**Minister** means the Minister of Labour; (**ministre**)
+
+**minor waters of Canada**  means all inland waters of Canada other than Lakes Ontario, Erie, Huron, including Georgian Bay, and Superior and the St. Lawrence River east of a line drawn from Father Point to Point Orient, and includes all bays, inlets and harbours of or on those lakes and Georgian Bay and the sheltered waters on the seacoasts of Canada that the Minister of Transport may specify; (**eaux secondaires du Canada**)
+
+**minor waters voyage** means a voyage within the following limits, namely, the minor waters of Canada together with the part of any lake or river forming part of the minor waters of Canada that lies within the United States; (**voyage en eaux secondaires**)
+
+**seaman** means every person, except pilots, apprenticed pilots and fishers, employed or engaged on
+  - (a) a ship registered in Canada under the *Canada Shipping Act, 2001* , or
+  - (b) a ship chartered by demise to a person resident in Canada or having their principal place of business in Canada,
+when the ship is engaged in trading on a foreign voyage or on a home-trade voyage, and, if so ordered by the Governor in Council, includes a seaman engaged in Canada and employed on a ship that is registered outside Canada and operated by a person resident in Canada or having their principal place of business in Canada when that ship is so engaged; (**marin**)
+
+**ship** means a vessel as defined in section 2 of the *Canada Shipping Act, 2001*. (**navire** )
+
+**survivor** means a person who, at the time of the death of a seaman, was
+  - (a) the seaman’s spouse, if there is no person described in paragraph (b), or
+  - (b) a person who was cohabiting with the seaman in a conjugal relationship for a period of at least one year immediately before the seaman’s death. (**survivant**)
+
+**Deemed accident**
+
+(2) A seaman who suffers a disability arising out of and in the course of his employment as a seaman, otherwise than as a result of an accident, shall be deemed for the purposes of this Act to have suffered the disability as a result of an accident and, except for the purpose of computing compensation, the accident shall be deemed to have taken place on the day the disability first became known to his employer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 2; 2000, c. 12, s. 187; 2001, c. 26, s. 307; 2012, c. 31, s. 233
+
+</details>
+
+### 3
+
+[Repealed, 2012, c. 31, s. 234]
+
+### 4
+
+[Repealed, 2012, c. 31, s. 234]
+
+## Scope
+
+### 5 When compensation not payable
+
+No compensation is payable under this Act,
+
+- (a) where a seaman or his dependants are entitled to claim compensation under the *Government Employees Compensation Act* or under any provincial workers’ compensation law; or
+
+- (b) where a seaman is or his dependants are entitled to claim compensation under the Order in Council of April 30, 1942 (P.C. 104/3546), or any statute or law that provides similar benefits.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 4
+
+</details>
+
+### 6 Compensation under law of foreign country
+
+(1) Where an accident happens in respect of which a seaman or his dependants are entitled to claim compensation under the law of any foreign country, they are bound to elect whether they will claim compensation under that law or under this Act, and to give notice of that election, and if an election is not made and notice not given it shall be presumed that they have elected not to claim compensation under this Act.
+
+**Notice of election**
+
+(2) Notice of an election under subsection (1) shall be given to the Minister within three months after the happening of an accident or, if an accident results in death, within three months after the death or within any longer period that, either before or after the expiry of the three months, the Minister may allow.
+
+**Waiver of all claims**
+
+(3) No compensation is payable in respect of any accident mentioned in subsection (1) unless the seaman or their dependants submit to the Minister, in a form approved by the Minister, a waiver of all claims for compensation under the foreign law referred to in that subsection.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 6; 2012, c. 31, s. 235
+
+</details>
+
+### 7 Application of Act
+
+This Act applies to accidents happening within or outside Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 6
+
+</details>
+
+## Compensation
+
+### 8 Compensation, how paid
+
+(1) The employer of a seaman injured by reason of an accident arising out of and in the course of his employment shall pay compensation in the manner and to the extent provided by this Act, except where the injury
+
+- (a) does not disable the seaman for a period of at least three days from earning full wages at the work at which he was employed; or
+
+- (b) is attributable solely to the serious and wilful misconduct of the seaman unless the injury results in death or serious disability.
+
+**Payable from date of disability**
+
+(2) Where compensation for disability is payable, it shall be computed and be payable from the date of the disability.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 7
+
+</details>
+
+### 9 Deductions
+
+Except with the Minister’s approval, the amount of compensation payable under this Act is not subject to any deduction or abatement by reason of, on account of or in respect of any matter or thing whatever except in respect of any sums of money that have been paid by the employer to a seaman on account of an injury received by the seaman, which sum or sums shall be deducted from the amount of the compensation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 9; 2012, c. 31, s. 236
+
+</details>
+
+### 10 Amount not to be assigned, etc.
+
+Except with the Minister’s approval, the amount of compensation payable under this Act is not capable of being assigned, charged or attached and shall not pass to any other person by operation of law nor shall any claim be set off against it, including, in Quebec, by way of compensation.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 10; 2012, c. 31, s. 236
+
+</details>
+
+### 11 Seaman may not forego benefits
+
+It is not competent for a seaman to agree with his employer to waive or to forego any of the benefits to which he or his dependants are or may become entitled under this Act and every agreement to that end is absolutely void.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 11; 2012, c. 31, s. 237(F)
+
+</details>
+
+### 12 Claims to be heard by Minister
+
+No action lies for the recovery of compensation payable under this Act, but all claims for compensation shall be heard and determined by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 12; 2012, c. 31, s. 238
+
+</details>
+
+### 13 Right to compensation in lieu of all other rights
+
+The right to compensation provided by this Act is in lieu of all rights and rights of action, statutory or otherwise, to which a seaman or his dependants are or may be entitled against the employer of the seaman for or by reason of any accident happening to him while in the employment of the employer, and no action lies in respect thereof.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 12
+
+</details>
+
+### 14 Minister decides right to compensation
+
+Any party to an action may apply to the Minister for adjudication and determination of the question of the plaintiff’s right to compensation under this Act, or whether the right to bring the action is taken away by this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 14; 2012, c. 31, s. 239
+
+</details>
+
+### 15 Exclusive jurisdiction of Minister
+
+The Minister has exclusive jurisdiction to examine, hear and determine all matters and questions arising under this Act and with respect to any matter or thing in respect of which any power, authority or discretion is conferred on him or her.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 15; 2012, c. 31, s. 239
+
+</details>
+
+### 16 Reconsideration and amendment
+
+The Minister may reconsider any matter that has been dealt with by him or her or rescind or amend any decision or order previously made.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 16; 2012, c. 31, s. 239
+
+</details>
+
+### 17 Production of information
+
+In any matter arising under this Act, the Minister has the power to require the production of any information that he or she considers necessary.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 17; 2012, c. 31, s. 239
+
+</details>
+
+### 18
+
+[Repealed, 2012, c. 31, s. 239]
+
+### 19 Decisions final
+
+The Minister’s decisions and findings are final and conclusive.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 19; 2012, c. 31, s. 239
+
+</details>
+
+### 20 Award
+
+The Minister may award any sum that he or she considers reasonable to the successful party to a contested claim for compensation or to any other contested matter as compensation for the expenses that the party incurred by reason of or incidental to the contest. An order of the Minister for the payment by any employer of any sum so awarded when filed in the manner provided by section 21 becomes a judgment of the court in which it is filed and may be enforced accordingly.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 20; 2012, c. 31, s. 239
+
+</details>
+
+### 21 Order enforced as judgment of court
+
+An order of the Minister for the payment of compensation by an employer or any other order of the Minister for the payment of money under this Act, or a copy of the order that is certified to be a true copy by a person who is duly authorized by the Minister, may be filed with
+
+- (a) if the employer resides or carries on business in the Province of Quebec, the clerk of the Superior Court of Quebec,
+
+- (a.1) if the employer resides or carries on business in the Province of Ontario, the clerk of the Superior Court of Justice for the region in which the employer resides or carries on business,
+
+- (a.2) if the employer resides or carries on business in the Province of Nova Scotia, the prothonotary of the Supreme Court of Nova Scotia for the judicial district in which the employer resides or carries on business,
+
+- (b) if the employer resides or carries on business in the Province of New Brunswick, Manitoba or Alberta, the clerk of the Court of Queen’s Bench of that province for the judicial district in which the employer resides or carries on business,
+
+- (c) if the employer resides or carries on business in the Province of Newfoundland and Labrador, the clerk of the Trial Division of the Supreme Court of Newfoundland and Labrador,
+
+- (c.1) if the employer resides or carries on business in the Province of British Columbia or Prince Edward Island, the registrar of the Supreme Court of the Province, or
+
+- (d) if the employer resides or carries on business in the Province of Saskatchewan, the Local Registrar of the Court of Queen’s Bench for the judicial centre in which the employer resides or carries on business,
+
+and may be enforced as a judgment of that Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 21; R.S., 1985, c. 27 (2nd Supp.), s. 10; 1990, c. 16, s. 17, c. 17, s. 35; 1992, c. 51, s. 57; 1998, c. 30, ss. 13(F), 15(E); 2012, c. 31, s. 240; 2015, c. 3, s. 132
+
+</details>
+
+### 22 Where seaman not a resident of Canada
+
+(1) Where a seaman is not a resident of Canada and by the law of the place or country in which he resides compensation in respect of accidents is payable and an accident happens in respect of which he is entitled under this Act to receive compensation for permanent total disability or permanent partial disability, then, notwithstanding anything in this Act, the amount of compensation payable under this Act shall not exceed the amount of compensation that would be payable had the accident happened in the place or country in which he resides.
+
+**Where dependant not a resident of Canada**
+
+(2) Where a dependant of any seaman is not a resident of Canada, the dependant is not entitled to compensation under this Act unless, by the law of the place or country in which he resides, the dependants of a seaman to whom an accident happens in that place or country if resident in Canada would be entitled to compensation, and where such dependants would be entitled to compensation under that law, the compensation to which the non-resident dependant is entitled under this Act shall not be greater than the compensation payable in the like case under that law.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 21
+
+</details>
+
+### 23 Minister’s discretion
+
+Despite section 22, compensation or a sum in lieu of compensation may be awarded to any seaman who is not a resident of Canada or to any non-resident dependant, as the Minister considers appropriate, but the compensation or sum shall not in any case exceed the amount of compensation provided for under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 23; 2012, c. 31, s. 241
+
+</details>
+
+### 24 Where entitled to action against other person
+
+(1) Where an accident happens to a seaman arising out of and in the course of his employment under such circumstances as entitled him or his dependants to an action against a person other than his co-employees, his employer, the servants or mandataries of his employer, the seaman or his dependants if entitled to compensation under this Act may claim compensation or may bring an action.
+
+**Where smaller amount collected**
+
+(2) Where an action is brought and less is recovered and collected than the amount of the compensation to which a seaman or his dependants are entitled under this Act, the difference between the amount recovered and collected and the amount of the compensation shall be payable as compensation to the seaman or his dependants.
+
+**Employer subrogated**
+
+(3) Where a seaman or his dependants elect to claim compensation under this Act, the employer is subrogated to the rights of the seaman or his dependants and may maintain an action in his or their names or in the name of the employer against the person against whom the action lies.
+
+**Notice of election**
+
+(4) Notice of the election referred to in subsection (3) shall be given to the employer within three months after the happening of an accident or, if an accident results in death, within three months after the death or within any longer period that, either before or after the expiry of the three months, the Minister may allow.
+
+**No right of action**
+
+(5) No seaman entitled to compensation under this Act or the dependants of the seaman have a right of action against an employer who is subject to this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 24; 2012, c. 31, s. 242
+
+</details>
+
+### 25 When compensation not payable
+
+(1) Subject to subsection (4), compensation shall not be payable unless
+
+- (a) notice of the accident is given as soon as practicable after it happens and before the seaman has voluntarily left the employment in which he was injured; and
+
+- (b) the claim for compensation is made within six months after the accident happens or, in case of death, within six months from the time of death.
+
+**Contents of notice**
+
+(2) The notice referred to in paragraph (1)(a) shall give the name and address of the seaman and is sufficient if it states in ordinary language the cause of the injury and where the accident happened.
+
+**Service of notice**
+
+(3) The notice referred to in paragraph (1)(a) may be served by delivering it at, or sending it by registered mail addressed to, the place of business or the residence of the employer, or where the employer is a body of persons, corporate or unincorporate, by delivering it, or sending it by registered mail, addressed to the employer, at the office of, or if there are more offices than one, at any of the offices of, that body of persons.
+
+**Failure to give notice**
+
+(4) Failure to give the prescribed notice or to make the claim referred to in subsection (1), or any defect or inaccuracy in a notice, does not bar the right to compensation if the Minister considers that the employer was not prejudiced by it or it appears that the claim for compensation is a just one and ought to be allowed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 25; 2012, c. 31, s. 243
+
+</details>
+
+## Notice of Accident
+
+### 26 Employer to give notice
+
+(1) Subject to subsection (2), every employer shall, within 30 days after the happening of an accident to a seaman in its employment by which the seaman is disabled from performing their duties or that necessitates medical aid, notify the Minister in writing of
+
+- (a) the happening of the accident and its nature,
+
+- (b) the time of the accident,
+
+- (c) the name and address of the seaman,
+
+- (d) the place of the accident, and
+
+- (e) the medical aid received by the seaman following the accident,
+
+The employer shall also produce any further information respecting any other accident or claim to compensation that the Minister may require.
+
+**Minister may relieve employer**
+
+(2) The Minister may, by order, relieve any employer from the obligation to comply with subsection (1) to the extent provided for in the order.
+
+**Failure to comply**
+
+(3) Every person who fails to comply with subsection (1) is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+**Due diligence**
+
+(4) A person is not to be found guilty of an offence under subsection (3) if they establish that they exercised due diligence to prevent the commission of the offence.
+
+**Minister’s consent**
+
+(5) No proceedings shall be taken under this section against any person without the Minister’s consent.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 26; 2012, c. 31, s. 244
+
+</details>
+
+## Medical Examination
+
+### 27 Medical examination
+
+(1) A seaman who claims compensation, or to whom compensation is payable under this Act, shall, if required to do so by their employer, submit themselves for examination by a duly qualified medical practitioner who is selected and paid for by the employer and shall, if required to do so by the Minister, submit themselves for examination by a medical referee.
+
+**In accordance with Act**
+
+(2) A seaman is not required at the request of his employer to submit himself for examination otherwise than in accordance with this Act.
+
+**Costs paid by employer**
+
+(3) The cost of any examination made pursuant to subsection (1) and the cost of any reference under section 28 shall be paid by the employer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 27; 2012, c. 31, s. 245
+
+</details>
+
+### 28 Minister may refer matter to medical referee
+
+(1) If a seaman has, on their employer’s request, submitted themselves for examination, or has been examined by a duly qualified medical practitioner selected by themselves, and a copy of the medical practitioner’s report on the seaman’s condition has been furnished in the former case by the employer to the seaman and in the latter case by the seaman to the employer, the Minister may, on the application of either of them or of his or her own motion, refer the matter to a medical referee.
+
+**Certificate of medical referee**
+
+(2) The medical referee to whom a reference is made under subsection (1) or who has examined the seaman by the Minister’s direction under subsection 27(1) shall certify to the Minister as to the condition of the seaman and their fitness for employment, specifying, if necessary, the kind of employment and, if unfit, the cause and degree of the unfitness, and the referee’s certificate, unless the Minister otherwise directs, is conclusive as to the matters certified.
+
+**Right suspended in case refusal of examination**
+
+(3) When a seaman does not submit himself for examination when required to do so under subsection 27(1) or on being required to do so does not submit himself for examination to a medical referee under that subsection or under subsection (1) of this section, or in any way obstructs any examination, his right to compensation, or if he is in receipt of a weekly or other periodical payment, his right to it, is suspended until the examination has taken place.
+
+**Diminution or suspension of compensation**
+
+(4) The Minister may diminish the compensation to which a seaman is entitled, or suspend payment of it, whenever the seaman persists in dangerous or unsanitary practices imperilling or retarding their cure and whenever they refuse to submit to any medical treatment that the Minister, on the medical referee’s advice, considers necessary for their cure.
+
+**Reasonable refusal**
+
+(5) Subsection (4) does not apply in the event of the seaman reasonably refusing to submit to surgical aid.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 28; 2012, c. 31, s. 246
+
+</details>
+
+## Review of Compensation
+
+### 29 Payments may be reviewed
+
+Any weekly or other periodic payment to a seaman may be reviewed at the employer’s or seaman’s request, and on such review the Minister may put an end to or diminish the payment or increase the payment to a sum not beyond the maximum prescribed in this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 29; 2012, c. 31, s. 247
+
+</details>
+
+## Insurance
+
+### 30 Employer to be insured
+
+(1) Every employer shall cover by insurance or other means satisfactory to the Minister the risks of compensation arising under this Act.
+
+**Failure to comply**
+
+(2) Every person who fails to comply with subsection (1) is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+**Due diligence**
+
+(3) A person is not to be found guilty of an offence under subsection (2) if they establish that they exercised due diligence to prevent the commission of the offence.
+
+**Minister’s consent**
+
+(4) No proceedings shall be taken under this section against any person without the Minister’s consent.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 30; R.S., 1985, c. 1 (2nd Supp.), s. 213; 2012, c. 31, s. 247
+
+</details>
+
+## Scale of Compensation
+
+### 31 Amounts of compensation
+
+(1) Where the death of a seaman results from an injury, the following amounts of compensation shall be paid:
+
+- (a) the necessary expenses of burial of the seaman not exceeding seven hundred and forty-two dollars;
+
+- (b) in addition to the sum mentioned in paragraph (a), a sum not exceeding one hundred and twenty-five dollars for necessary expenses for transportation and things supplied and services rendered in connection therewith necessitated by the transfer of the body of a seaman from the place of death to the place of interment;
+
+- (c) if the expenses of burial of a seaman are paid by an employer under section 93 of the *Canada Shipping Act, 2001* following any accident in respect of which compensation is payable under this Act, the amount of the expenses shall be deducted from the amount payable under paragraphs (a) and (b);
+
+- (d) where the survivor is the sole dependant, a monthly payment of $1,451.92;
+
+- (e) where the dependants are a survivor and one or more children, a monthly payment of $1,451.92 with an additional monthly payment of $161.18 to be increased on the death of the survivor to $164.93
+  - (i) for each child under the age of eighteen years, and
+  - (ii) with the Minister’s approval, for each child under the age of 21 years who is attending school;
+
+- (f) where the dependants are children only, a monthly payment of one hundred and fifteen dollars
+  - (i) to each child under the age of eighteen years, and
+  - (ii) with the Minister’s approval, to each child under the age of 21 years who is attending school; and
+
+- (g) if the dependants are persons other than those mentioned in paragraphs (d) to (f), a reasonable sum that is proportionate to the pecuniary loss to those dependants occasioned by the death, to be determined by the Minister.
+
+**If no survivor**
+
+(2) If a seaman leaves no survivor or the survivor subsequently dies, and a competent authority has appointed a person to care for the children who are entitled to compensation, the Minister may pay that person the same monthly payments of compensation as if that person were the survivor of the deceased, and in that case the children’s part of the payments shall be in lieu of the monthly payments that they would otherwise have been entitled to receive.
+
+**Additional sum**
+
+(3) In addition to any other compensation provided for under this section, the survivor or, where the seaman leaves no survivor, the foster-parent, as described in subsection (2), is entitled to a lump sum of $16,868.50.
+
+**Duration of payments**
+
+(4) In the case provided for by paragraph (1)(g), the payments shall continue only so long as, in the Minister’s opinion, it might reasonably have been expected that the seaman, had they lived, would have continued to contribute to the support of the dependants, and, in any case under that paragraph, compensation may be made wholly or partly in a lump sum or by any form of payment that the Minister considers most suitable in the circumstances.
+
+**Dependant to whom seaman stood in place of parent**
+
+(5) A dependant to whom the seaman stood in the place of a parent or a dependant who stood in the place of a parent to the seaman is entitled, as the Minister may determine, to share in or receive compensation under paragraph (1)(e), (f) or (g).
+
+**Disabled child**
+
+(6) Compensation is payable to a disabled child without regard to their age, and payments to the child shall continue until, in the Minister’s opinion, the child ceases to be disabled.
+
+**Total and partial dependants**
+
+(7) Where there are both total and partial dependants, the compensation may be allotted partly to the total and partly to the partial dependants.
+
+**Payments to other persons**
+
+(8) If the Minister is of the opinion that it is desirable that a payment in respect of a child should not be made directly to their parent, the Minister may direct that the payment be made to any person or be applied in any manner that he or she considers most advantageous for the child.
+
+**Maximum compensation**
+
+(9) Exclusive of the expenses of burial of the seaman and the lump sum of eight hundred and thirty-three dollars referred to in subsection (3), the compensation payable as provided by subsection (1) shall not in any case exceed seventy-five per cent of the average earnings of the seaman mentioned in section 36, and if the compensation payable under subsection (1) would in any case exceed that percentage, it shall be reduced accordingly, and where several persons are entitled to monthly payments the payments shall be reduced proportionately, but the minimum compensation shall be
+
+- (a) where the survivor is the sole dependant, a monthly payment of $1,451.92, or if the seaman’s average earnings are less than $1,451.92 per month, the amount of those earnings; and
+
+- (b) where the dependants are a survivor and one or more children, a monthly payment of $1,613.10 for the survivor and one child irrespective of the amount of the seaman’s earnings, with a further monthly payment of $161.18 for each additional child unless the total monthly compensation exceeds the seaman’s average earnings, in which case the compensation shall be a sum equal to those earnings or $1,613.10, whichever is the greater, the share for each child entitled to compensation being reduced proportionately.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 31; R.S., 1985, c. 31 (1st Supp.), s. 81; 2000, c. 12, s. 188; 2001, c. 26, s. 308; 2012, c. 31, s. 248
+
+</details>
+
+### 32 Payment of additional compensation
+
+(1) In addition to the amounts of compensation payable under section 31 to dependants of a seaman as a result of his death from an accident, there shall be paid,
+
+- (a) where the survivor of the seaman is the sole dependant, a monthly payment equal to the amount remaining, if any, after subtracting from $100 the amount of any monthly payment payable to that person pursuant to section 31;
+
+- (b) where the dependants are a survivor and one or more children,
+  - (i) a monthly payment equal to the amount remaining, if any, after subtracting from $100 the amount of any monthly payment payable to that survivor pursuant to section 31, and
+  - (ii) an additional monthly payment for each child equal to the amount remaining, if any, after subtracting from $35 the amount of any monthly payment payable pursuant to section 31 for that child, that payment to be increased on the death of the survivor to an amount equal to the amount remaining, if any, after subtracting from $45 the amount of any monthly payment payable pursuant to section 31 to that child; and
+
+- (c) where the dependants are children only, a monthly payment to each child equal to the amount remaining, if any, after subtracting from forty-five dollars the amount of any monthly payment payable pursuant to section 31 to that child.
+
+**Dependent minors attending school**
+
+(2) In addition to the amounts of compensation payable under section 31 to or for a seaman’s dependent children as a result of the seaman’s death from an accident incurred before May 1, 1965, there shall be paid, with the Minister’s approval, to or for each dependent child under the age of 21 years who is attending school, the compensation that would have been payable had the accident from which the death of the seaman resulted occurred on or after May 1, 1965.
+
+**Payment made out of C.R.F.**
+
+(3) The amounts payable pursuant to this section shall be paid out of the Consolidated Revenue Fund and shall be paid subject to the same terms and conditions as apply to the compensation payable pursuant to the other provisions of this Act.
+
+**“Section 31”**
+
+(4) In this section, the expression “section 31” means that section as it read at the date of the accident to the seaman in respect of whose resulting death compensation is payable.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 32; R.S., 1985, c. 31 (1st Supp.), s. 82; 2000, c. 12, s. 189; 2012, c. 31, s. 249
+
+</details>
+
+### 33
+
+[Repealed, 2000, c. 12, s. 190]
+
+### 34
+
+[Repealed, R.S., 1985, c. 31 (1st Supp.), s. 83]
+
+### 35 Orders of Governor in Council
+
+The Governor in Council may, by order, increase all or any of
+
+- (a) the amounts specified in paragraphs 31(1)(a), (b), (d), (e) and (f), in subsections 31(3) and (9) and in section 40,
+
+- (b) the percentages specified in subsection 31(9), in section 36 and in subsections 37(2) and (4), and
+
+- (c) the maximum rate of earnings specified in subsection 41(1),
+
+but no order shall increase an amount, percentage or maximum rate of earnings to an amount, percentage or maximum rate of earnings that exceeds the highest equivalent amount, percentage or maximum rate of earnings specified, at the time the order is made, in the enactments of the Legislature of the Province of Nova Scotia, New Brunswick, Prince Edward Island or Newfoundland and Labrador relating to compensation of workers and their dependants for accidents occurring to workers during the course of their employment.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 35; 2015, c. 3, s. 133
+
+</details>
+
+### 36 Permanent total disability
+
+Where permanent total disability of a seaman results from an injury, the amount of the compensation shall be a weekly payment during the life of the seaman equal to seventy-five per cent of his average weekly earnings during the previous twelve months if he has been so long employed, but if not, then for the period during which he has been in the employment of his employer.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 33
+
+</details>
+
+### 37 Permanent partial disability
+
+(1) Where permanent partial disability of a seaman results from an injury, the impairment of earning capacity of the seaman shall be estimated from the nature and degree of the injury, and the compensation shall be a weekly payment during the lifetime of the seaman in the same proportion to the weekly payment payable under section 36 as the impairment of earning capacity is to total earning capacity.
+
+**Difference in earnings before and after accident**
+
+(2) If the Minister considers it more equitable to do so, he or she may award compensation for permanent partial disability, having regard to the difference between the seaman’s average weekly earnings before the accident and the average amount that they are earning or are able to earn in a suitable employment or business after the accident, and the compensation may be a weekly payment of 75% of the difference, and regard shall be had to the seaman’s fitness to continue the employment in the course of which they were injured or to adapt themselves to some other suitable occupation.
+
+**Rating schedule**
+
+(3) The Minister may compile a rating schedule of percentages of impairment of earning capacity for specified injuries or mutilations that may be used as a guide in determining the compensation payable in permanent partial disability cases.
+
+**Fixed amount**
+
+(4) Despite subsections (1) and (2), if the impairment of the seaman’s earning capacity does not exceed 10% of their earning capacity, instead of a weekly payment payable under those subsections, the Minister may, unless he or she is of the opinion that it would not be to the seaman’s advantage to do so, fix an amount to be paid to the seaman as full compensation and pay the seaman the amount either in one sum or in periodic payments as the Minister may direct.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 37; 2012, c. 31, s. 250
+
+</details>
+
+### 38 Temporary total disability
+
+Where temporary total disability of a seaman results from an injury, the compensation shall be the same as that prescribed by section 36, but is payable only so long as the disability lasts.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 35
+
+</details>
+
+### 39 Temporary partial disability
+
+Where temporary partial disability of a seaman results from an injury, the compensation shall be the same as that prescribed by section 37, but is payable only so long as the disability lasts and subsection 37(4) applies.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 36
+
+</details>
+
+### 40 Minimum compensation
+
+The amount of compensation to which an injured seaman is entitled for temporary total or permanent total disability under this Act shall not be less than one hundred and twenty-four dollars per week or, where his average earnings are less than one hundred and twenty-four dollars per week, the amount of those earnings, and for temporary partial or permanent partial disability a corresponding amount in proportion to the impairment of earning capacity.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. M-11, s. 37; R.S., c. 19(2nd Supp.), s. 5; SOR/74-384; SOR/76-462; SOR/79-892; SOR/81-315; SOR/82-382; SOR/84-911
+
+</details>
+
+### 41 Computation of average earnings
+
+(1) Average earnings shall be computed in such a manner as is best calculated to give the rate per week or month at which a seaman was remunerated but not so as in any case to exceed the rate of twenty-seven thousand two hundred and fifty dollars per annum.
+
+**In case of shortness of employment**
+
+(2) Where, owing to the shortness of the time during which a seaman was in the employment of his employer or the casual nature of his employment or the terms thereof, it is impracticable to compute the rate of remuneration as of the date of an accident, regard may be had to the average weekly or monthly amount that, during the twelve months previous to the accident, was being earned by a person in the same grade employed at the same work by the same employer, or if there is no person so employed, then by a person in the same grade employed in the same class of employment on a ship of the same class.
+
+**Definition of **employment by the same employer****
+
+(3) For the purpose of this section, the expression **employment by the same employer** means employment by the same employer in the grade in which the seaman was employed at the time of the accident, uninterrupted by absence from work due to illness or any other unavoidable cause.
+
+**Special expenses not counted**
+
+(4) Where an employer was accustomed to pay a seaman a sum to cover any special expense entailed on him by the nature of his employment, that sum shall not be reckoned as part of his earnings.
+
+**Earnings at time of accident considered**
+
+(5) If in any case it seems more equitable to do so, the Minister may award compensation, having regard to a seaman’s earnings at the time of an accident.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 41; 2012, c. 31, s. 251
+
+</details>
+
+### 42 Payments, etc., during disability considered
+
+(1) In fixing the amount of a weekly or monthly payment, regard shall be had to any payment, allowance or benefit that a seaman may receive from his employer during the period of his disability, including any pension, gratuity or other allowance provided wholly at the expense of the employer.
+
+**No compensation if wages paid**
+
+(2) No compensation is payable in respect of the period during which an employer is, under the *Canada Shipping Act, 2001*, or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman.
+
+**Compensation paid in full**
+
+(3) Any sum payable by way of compensation by the owner of a ship under this Act shall be paid in full notwithstanding anything in Part 3 of the *Marine Liability Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 42; 2001, c. 6, s. 116, c. 26, s. 309
+
+</details>
+
+### 43 Semi-monthly or monthly payments
+
+(1) Whenever the Minister considers it advisable, the payment of compensation may be made semi-monthly or monthly instead of weekly.
+
+**Residence outside Canada**
+
+(2) Subject to section 23, if a seaman or a dependant is not a resident of Canada or ceases to reside in Canada, the periods of payments may be otherwise fixed or the compensation commuted as the Minister considers appropriate.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 43; 2012, c. 31, s. 252
+
+</details>
+
+### 44 Cases where compensation may be diverted
+
+(1) If a seaman is entitled to compensation and it is made to appear to the Minister that the seaman’s spouse, former spouse, common-law partner, former common-law partner or children under 18 years of age are without adequate means of support, the Minister may divert the compensation in whole or in part from the seaman for their benefit.
+
+**Diversion of compensation from survivor**
+
+(2) If a seaman’s survivor is entitled to compensation under section 31 and it is made to appear to the Minister that the seaman’s spouse, former spouse, former common-law partner or children under 18 years of age are without adequate means of support, the Minister may divert the compensation in whole or in part from the survivor for their benefit.
+
+**Meaning of “common-law partner”**
+
+(3) In this section, **common-law partner** means a person who is cohabiting with a seaman in a conjugal relationship, having so cohabited for a period of at least one year, or who had been so cohabiting for a period of at least one year at the time of the seaman’s death.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 44; R.S., 1985, c. 31 (1st Supp.), s. 84, c. 3 (2nd Supp.), s. 30(F); 2000, c. 12, s. 191; 2012, c. 31, s. 253
+
+</details>
+
+### 45 If seaman or dependant is a minor
+
+If a seaman or a dependant is a minor or under any other legal incapacity, the compensation to which they are entitled may be paid to any person or be applied in any manner that the Minister considers is to the seaman’s or the dependant’s best advantage.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 45; 2012, c. 31, s. 254
+
+</details>
+
+## Medical Aid
+
+### 46 Seaman entitled to medical aid, etc.
+
+(1) Every seaman entitled to compensation under this Act is entitled to such medical, surgical and dental aid, and hospital and skilled nursing services as may be necessary as a result of the injury, and is entitled to such artificial member or members and apparatus and dental appliances and apparatus as may be necessary as a result of the injury and to have the same kept in repair or replaced when deemed necessary.
+
+**Responsibility of employer**
+
+(2) The medical aid to which a seaman is entitled under subsection (1) shall be furnished and paid for by the employer of that seaman.
+
+**Question of necessity**
+
+(3) Any question as to the necessity, character and sufficiency of any medical aid furnished or to be furnished may be referred to the Minister for a decision.
+
+**Fees or charges**
+
+(4) The fees or charges for the medical aid under subsection (1) shall not be more than would be properly and reasonably charged to a seaman if that seaman were paying the bill, but shall not, in any case where the seaman is furnished with medical aid in Canada, exceed the fees or charges that would be paid in similar circumstances by the workers’ compensation board of the province in which the medical aid was furnished.
+
+**Transportation to hospital**
+
+(5) Every employer shall at his own expense furnish any seaman injured in his employment, who is in need of it, with immediate conveyance and transportation to a hospital, a physician or the seaman’s home within a reasonable limit.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 46; 2012, c. 31, s. 255
+
+</details>
+
+### 47 Medical aid under one Act only
+
+Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the *Canada Shipping Act, 2001*, or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 47; 2001, c. 26, s. 310
+
+</details>
+
+### 48 Reports by physician, etc.
+
+Every physician, surgeon or hospital official attending, consulted respecting or having the care of any seaman shall furnish the employer from time to time with any reports that are required by the employer in respect of that seaman, and may charge for the preparation of those reports any reasonable fees that are agreed on with the employer or, in the absence of an agreement, that the Minister approves.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 48; 2012, c. 31, s. 256
+
+</details>
+
+## Rules and Orders
+
+### 49 Minister may make rules and orders
+
+The Minister may make any rules and orders that he or she considers expedient or necessary for regulating his or her procedure and for carrying any of the purposes or provisions of this Act into effect.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 49; 2012, c. 31, s. 256
+
+</details>
+
+## Delegation and Costs of Administration
+
+### 50 Delegation
+
+The Minister may delegate to any person the exercise of any power or the performance of any duty that may be exercised or performed by the Minister under this Act, except for the powers referred to in section 49.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 50; 2012, c. 31, s. 256
+
+</details>
+
+### 51 Costs chargeable against employers
+
+All costs incurred relative to the administration of this Act, including salaries, expenses, fees and commissions, are chargeable against the various employers, apportioned on a basis to be determined by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. M-6, s. 51; 2012, c. 31, s. 256
+
+</details>
+
+
+## RELATED PROVISIONS
+
+### — R.S., 1985, c. 27 (2nd Supp.), s. 11
+
+### 11 Transitional: proceedings
+
+Proceedings to which any of the provisions amended by the schedule apply that were commenced before the coming into force of section 10 shall be continued in accordance with those amended provisions without any further formality.
+
+### — 1990, c. 16, s. 24(1)
+
+### 24 Transitional: proceedings
+
+(1) Every proceeding commenced before the coming into force of this subsection and in respect of which any provision amended by this Act applies shall be taken up and continued under and in conformity with that amended provision without any further formality.
+
+### — 1990, c. 17, s. 45(1)
+
+### 45 Transitional: proceedings
+
+(1) Every proceeding commenced before the coming into force of this subsection and in respect of which any provision amended by this Act applies shall be taken up and continued under and in conformity with that amended provision without any further formality.
+
+### — 1998, c. 30, s. 10
+
+### 10 Transitional — proceedings
+
+Every proceeding commenced before the coming into force of this section and in respect of which any provision amended by sections 12 to 16 applies shall be taken up and continued under and in conformity with that amended provision without any further formality.
+
+### — 2012, c. 31, s. 257
+
+### 257 Definition of **Board**
+
+In sections 258 to 260, **Board** means the Merchant Seamen Compensation Board established by section 3 of the *Merchant Seamen Compensation Act* as that Act read immediately before the coming into force of this section.
+
+### — 2012, c. 31, s. 258
+
+### 258 Appointments terminated
+
+(1) Members of the Board cease to hold office on the coming into force of this subsection.
+
+**No compensation**
+
+(2) Despite the provisions of any contract, agreement or order, no person appointed to hold office as a member of the Board has any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent of Her Majesty for ceasing to hold that office or for the abolition of that office by operation of this Division.
+
+### — 2012, c. 31, s. 259
+
+### 259 Continuation of proceedings
+
+Every proceeding commenced under the *Merchant Seamen Compensation Act* before the coming into force of this section is to be taken up and continued under and in conformity with that Act, as it is amended by this Act.
+
+### — 2012, c. 31, s. 260
+
+### 260 Reconsideration of Board’s decisions
+
+The Minister of Labour may reconsider any matter that has been dealt with by the Board or rescind or amend any decision or order previously made by it.

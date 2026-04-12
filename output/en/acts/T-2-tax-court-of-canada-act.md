@@ -1,0 +1,1654 @@
+---
+title: "Tax Court of Canada Act"
+long_title: "An Act respecting the Tax Court of Canada"
+chapter: "T-2"
+language: "en"
+type: "act"
+---
+
+# Tax Court of Canada Act
+
+> An Act respecting the Tax Court of Canada
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Tax Court of Canada Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 158, s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**Associate Chief Judge**[Repealed, 2002, c. 8, s. 59]
+
+**Associate Chief Justice** means the Associate Chief Justice of the Court; (**juge en chef adjoint**)
+
+**Chief Judge**[Repealed, 2002, c. 8, s. 59]
+
+**Chief Justice** means the Chief Justice of the Court; (**juge en chef**)
+
+**Court** means the Tax Court of Canada; (**Cour**)
+
+**judge** means a judge of the Court and, unless the context otherwise requires, includes the Chief Justice and Associate Chief Justice; (**juge**)
+
+**Registry** means a registry established by the Chief Administrator of the Courts Administration Service pursuant to the *Courts Administration Service Act* for the purposes of this Act. (**greffe**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 2; 2002, c. 8, s. 59
+
+</details>
+
+### 2.1 Interpretation
+
+For the purposes of this Act, **the aggregate of all amounts** means the total of all amounts assessed or determined by the Minister of National Revenue under the *Income Tax Act*, but does not include any amount of interest or any amount of loss determined by that Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 1
+
+</details>
+
+### 2.2 Idem
+
+(1) For the purposes of this Act, the **aggregate of supplies for the prior fiscal year** of a person means the total value of all supplies, within the meaning of Part IX of the *Excise Tax Act*, made by the person in the last complete fiscal year, within the meaning of that Part, that ended at least six months before the day the notice of appeal for a particular appeal of that person was filed.
+
+**Definition of **amount in dispute****
+
+(2) For the purposes of this Act, the **amount in dispute** in an appeal means
+
+- (a ) in the case of an appeal under Part V.1 of the *Customs Act* , the total of all amounts assessed by the Minister of National Revenue under section 97.44 of that Act;
+
+- (b) in the case of an appeal under the *Excise Act, 2001*,
+  - (i) the amount of duty, refund or relief that is in issue in the appeal,
+  - (ii) any interest under that Act that is in issue in the appeal, and
+  - (iii) any amount of duty, refund or relief under that Act, that is likely to be affected by the appeal in any other appeal, assessment or proposed assessment of the person who has brought the appeal; and
+
+- (c) in the case of an appeal under Part IX of the *Excise Tax Act*,
+  - (i) the amount of tax, net tax and rebate, within the meaning of that Part, that is in issue in the appeal,
+  - (ii) any penalty under that Part that is in issue in the appeal, and
+  - (iii) any amount of tax, net tax or rebate, within the meaning of that Part, that is likely to be affected by the appeal in any other appeal, assessment or proposed assessment of the person who has brought the appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 55; 2001, c. 25, s. 100; 2002, c. 22, ss. 397, 408; 2013, c. 33, s. 22
+
+</details>
+
+## The Court
+
+### 3 Tax Court of Canada continued
+
+The Tax Court of Canada is continued under the name of the Tax Court of Canada as a superior court of record.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 3; 2002, c. 8, s. 60
+
+</details>
+
+## The Judges
+
+### 4 Constitution of Court
+
+(1) The Tax Court of Canada shall consist of the following judges:
+
+- (a) a chief justice called the Chief Justice of the Tax Court of Canada;
+
+- (b) an associate chief justice called the Associate Chief Justice of the Tax Court of Canada; and
+
+- (c) not more than 23 other judges.
+
+**Appointment of judges**
+
+(2) The judges of the Court shall be appointed by the Governor in Council by commission under the Great Seal.
+
+**Who may be appointed judge**
+
+(3) Subject to subsection (4), any person may be appointed a judge of the Court who
+
+- (a) is or has been a judge of a superior court in Canada;
+
+- (b) is or has been a barrister or advocate of at least ten years standing at the bar of any province, or
+
+- (c) has, for an aggregate of at least ten years,
+  - (i) been a barrister or advocate at the bar of any province, and
+  - (ii) after becoming a barrister or advocate at the bar of any province, exercised powers and performed duties and functions of a judicial nature on a full-time basis in respect of a position held pursuant to a law of Canada or a province.
+
+**Chief Justice or Associate Chief Justice to be from Quebec**
+
+(4) Either the Chief Justice or the Associate Chief Justice shall be a person who is or was a member of the bar of the Province of Quebec.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 4; R.S., 1985, c. 51 (4th Supp.), s. 2; 1990, c. 45, s. 56; 1996, c. 22, s. 3; 2002, c. 8, s. 61
+- 2021, c. 23, s. 259
+- 2022, c. 10, s. 367
+
+</details>
+
+### 5 Chief Justice and Associate Chief Justice to have rank and precedence over all judges
+
+(1) The Chief Justice, and after the Chief Justice the Associate Chief Justice, has rank and precedence over all the other judges.
+
+**Rank and precedence among other judges**
+
+(2) The other judges have rank and precedence after the Chief Justice and the Associate Chief Justice and among themselves according to seniority determined by reference to the respective times when they became judges of the Court or members of the Tax Review Board.
+
+**Incapacity of Chief Justice, etc.**
+
+(3) If the office of Chief Justice is vacant, or the Chief Justice is for any reason unable to act, the powers of the Chief Justice shall be exercised and the duties of the Chief Justice shall be performed
+
+- (a) by the Associate Chief Justice;
+
+- (b) in the event of the incapacity of the Associate Chief Justice or if the office of Associate Chief Justice is vacant, by a judge designated by the Chief Justice for that purpose; or
+
+- (c) in the event of the incapacity of the judge referred to in paragraph (b), or if the Chief Justice has not designated a judge under that paragraph, by the senior judge who is in Canada and is able and willing to act and who has not elected to hold office as a supernumerary judge under section 28 of the *Judges Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 5; R.S., 1985, c. 51 (4th Supp.), s. 3; 2002, c. 8, s. 62
+
+</details>
+
+### 6 Residence of judges
+
+(1) A judge shall reside in the National Capital Region described in the schedule to the *National Capital Act* or within forty kilometres thereof.
+
+(2) [Repealed, 2002, c. 8, s. 63]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 6; 2002, c. 8, s. 63
+
+</details>
+
+### 7 Tenure of office
+
+(1) Subject to subsection (2), a judge holds office during good behaviour, but is removable by the Governor General on address of the Senate and House of Commons.
+
+**Cessation of office**
+
+(2) A judge shall cease to hold office on attaining the age of seventy-five years.
+
+**Transitional**
+
+(3) A judge of the Court who holds office on March 1, 1987 may retire at the age of seventy years.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 7; R.S., 1985, c. 16 (3rd Supp.), s. 8
+
+</details>
+
+### 8 Oath of office
+
+(1) Every judge shall, before entering on the duties of their office, take an oath that they will duly and faithfully, and to the best of their skill and knowledge, execute the powers and trusts reposed in them as a judge of the Court.
+
+**How administered**
+
+(2) The oath referred to in subsection (1) shall be administered to the Chief Justice before the Governor General, and to the other judges by the Chief Justice or, in the absence or incapacity of the Chief Justice, by any other judge.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 8; 2002, c. 8, s. 64
+
+</details>
+
+### 9 Deputy judges of the Court
+
+(1) Subject to subsection (3), any judge or former judge of a superior court in Canada or any judge or former judge of any other court who was appointed under an Act of the legislature of a province may, at the request of the Chief Justice made with the approval of the Governor in Council, act as a judge of the Court and while so acting has all the powers of a judge of the Court and shall be referred to as a deputy judge of the Court.
+
+**Consent required**
+
+(2) No request may be made under subsection (1) to a judge of a court in a province without the consent of the chief justice or chief judge of the court of which he or she is a member, or of the attorney general of the province.
+
+**Approval of Governor in Council**
+
+(3) The Governor in Council may approve the making of requests pursuant to subsection (1) in general terms or for particular periods or purposes, and may limit the number of persons who may act under this section.
+
+**Salary**
+
+(4) A person who acts as a judge for a period under subsection (1) shall be paid a salary for the period at the rate fixed by the *Judges Act* for a judge of the Court, other than the Chief Justice or the Associate Chief Justice, less any amount otherwise payable to the person under that Act in respect of the period, and shall also be paid the travel allowances that a judge is entitled to be paid under that Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 9; 1998, c. 19, s. 289; 2002, c. 8, ss. 65, 81(E)
+
+</details>
+
+### 10 Supernumerary judges
+
+For each office of judge there shall be the additional office of supernumerary judge that a judge of the Court may elect under the *Judges Act* to hold.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 158, s. 10
+
+</details>
+
+### 11 Additional office of judge
+
+For each of the offices of Chief Justice and Associate Chief Justice, there shall be an additional office of judge that the Chief Justice or Associate Chief Justice, respectively, may elect under the *Judges Act* to hold.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 11; 2002, c. 8, s. 66(E)
+
+</details>
+
+## Associate Judges
+
+### 11.1 Associate judges
+
+(1) The Governor in Council may appoint as associate judges of the Court any fit and proper persons who are barristers or advocates in a province and who are, in the opinion of the Governor in Council, necessary for the efficient performance of the work of that court that, under the rules of the Court, is to be performed by them.
+
+**Number of associate judges**
+
+(2) The Governor in Council may, by regulation, fix the number of associate judges that may be appointed under subsection (1).
+
+**Supernumerary associate judges**
+
+(3) For each office of associate judge there shall be the additional office of supernumerary associate judge that an associate judge of the Court may elect under the *Judges Act* to hold.
+
+**Powers and duties**
+
+(4) The powers, duties and functions of the associate judges shall be determined by the rules of the Court.
+
+**Salary, allowances and annuities**
+
+(5) Each associate judge shall be paid a salary, and the allowances and annuities, provided for under the *Judges Act*.
+
+**Workload — supernumerary associate judges**
+
+(6) The Governor in Council may, by regulation, fix the workload of a supernumerary associate judge as a percentage of the workload of an associate judge.
+
+**Immunity from liability**
+
+(7) An associate judge shall have the same immunity from liability as a judge of the Court.
+
+**Term of office**
+
+(8) An associate judge shall hold office during good behaviour but may be removed by the Governor in Council for cause.
+
+**Cessation of office**
+
+(9) An associate judge shall cease to hold office on becoming 75 years old.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2022, c. 10, s. 368
+- 2022, c. 10, s. 371
+
+</details>
+
+## Jurisdiction and Powers of the Court
+
+### 12 Jurisdiction
+
+(1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the *Canada Pension Plan*, the *Cultural Property Export and Import Act*, Part IX of the *Excise Tax Act*, the *Old Age Security Act*, the *Petroleum and Gas Revenue Tax Act*, Part V.1 of the *Customs Act*, the *Income Tax Act*, the *Employment Insurance Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Softwood Lumber Products Export Charge Act, 2006*, the *Disability Tax Credit Promoters Restrictions Act*, Part 1 of the *Greenhouse Gas Pollution Pricing Act*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* and the *Global Minimum Tax Act* when references or appeals to the Court are provided for in those Acts.
+
+**Jurisdiction — *Canada Disability Benefit Act***
+
+(1.1) The Court has exclusive original jurisdiction to hear and determine references on matters arising under the *Canada Disability Benefit Act* and referred to in subsection 66(2) of the *Department of Employment and Social Development Act*.
+
+**Jurisdiction**
+
+(2) The Court has exclusive original jurisdiction to hear and determine appeals on matters arising under the *War Veterans Allowance Act* and the *Civilian War-related Benefits Act* and referred to in section 33 of the *Veterans Review and Appeal Board Act*.
+
+**Further jurisdiction**
+
+(3) The Court has exclusive original jurisdiction to hear and determine questions referred to it under section 310 or 311 of the *Excise Tax Act*, section 97.58 of the *Customs Act*, section 173 or 174 of the *Income Tax Act*, section 51 or 52 of the *Air Travellers Security Charge Act*, section 204 or 205 of the *Excise Act, 2001*, section 62 or 63 of the *Softwood Lumber Products Export Charge Act, 2006*, section 121 or 122 of the *Greenhouse Gas Pollution Pricing Act*, section 45 or 46 of the *Underused Housing Tax Act*, section 105 or 106 of the *Select Luxury Items Tax Act*, section 80 or 81 of the *Digital Services Tax Act* or section 94 or 95 of the *Global Minimum Tax Act*.
+
+**Extensions of time**
+
+(4) The Court has exclusive original jurisdiction to hear and determine applications for extensions of time under subsection 28(1) of the *Canada Pension Plan*, section 33.2 of the *Cultural Property Export and Import Act*, section 304 or 305 of the *Excise Tax Act*, section 97.51 or 97.52 of the *Customs Act*, section 166.2 or 167 of the *Income Tax Act*, subsection 103(1) of the *Employment Insurance Act*, section 45 or 47 of the *Air Travellers Security Charge Act*, section 197 or 199 of the *Excise Act, 2001*, section 115 or 117 of the *Greenhouse Gas Pollution Pricing Act*, section 39 or 41 of the *Underused Housing Tax Act*, section 99 or 101 of the *Select Luxury Items Tax Act*, section 74 or 76 of the *Digital Services Tax Act* or section 88 or 90 of the *Global Minimum Tax Act*.
+
+**Postponements of suspensions to issue tax receipts**
+
+(5) The Court has exclusive original jurisdiction to hear and determine applications referred to in subsection 188.2(4) of the *Income Tax Act* by a registered charity for a postponement of a period of suspension of the authority of the charity to issue official receipts referred to in Part XXXV of the *Income Tax Regulations*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 12; R.S., 1985, c. 51 (4th Supp.), s. 4; 1990, c. 45, s. 57; 1991, c. 49, s. 221; 1992, c. 24, s. 18; 1995, c. 18, s. 98, c. 38, s. 6; 1996, c. 23, ss. 187, 188; 1998, c. 19, s. 290; 1999, c. 10, s. 46; 2001, c. 25, s. 101; 2002, c. 9, ss. 6, 10, c. 22, ss. 398, 408; 2005, c. 19, s. 61; 2006, c. 11, s. 27, c. 13, s. 121; 2014, c. 7, s. 11; 2018, c. 12, s. 189
+- 2018, c. 12, s. 198
+- 2022, c. 5, s. 21
+- 2022, c. 10, s. 148
+- 2022, c. 10, s. 173
+- 2024, c. 15, s. 109
+- 2024, c. 17, s. 93
+- 2024, c. 17, s. 111
+- 2024, c. 17, s. 409
+
+</details>
+
+### 13 Contempt against Court
+
+The Court has the power, jurisdiction and authority to deal with and impose punishment for contempt against the Court, whether or not committed in the face of the Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 13; 2002, c. 8, s. 67
+
+</details>
+
+## Proceedings Before the Court
+
+### 14 Sittings
+
+(1) Subject to the rules of Court, any judge may sit and act at any time and at any place in Canada for the transaction of the business of the Court, and, where the judge so sits or acts, that judge constitutes the Court.
+
+**Arrangements to be made by Chief Justice**
+
+(2) Subject to the rules of Court, all arrangements that may be necessary or proper for the transaction of the business of the Court and the assignment from time to time of judges to transact that business shall be made by the Chief Justice.
+
+**Hearing in different places**
+
+(3) A proceeding before the Court may, by order of the Court, be heard partly at one place and partly at another.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 14; R.S., 1985, c. 51 (4th Supp.), s. 5; 2002, c. 8, s. 68(E)
+
+</details>
+
+### 14.1 Police force
+
+Any services or assistance in connection with the conduct of the Court’s hearings, the security of the Court and its premises and of staff of the Courts Administration Service that may, having regard to the circumstances, be found necessary shall be provided, at the request of the Chief Justice, by the Royal Canadian Mounted Police or any other police force that the Governor in Council may designate.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 2002, c. 8, s. 69
+
+</details>
+
+### 15 Time limits and holidays
+
+Where the time limited for the doing of a thing under this Act expires or falls on a holiday or a Saturday, the thing may be done on the day next following that is not a holiday or Saturday.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 15; R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 16 Giving of judgment after judge ceases to hold office
+
+If a judge resigns or is appointed to another court or otherwise ceases to hold office, the judge may, at the request of the Chief Justice, at any time within eight weeks after that event, give judgment in any matter previously tried by or heard before the judge as if he or she had continued in office.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 16; R.S., 1985, c. 48 (1st Supp.), s. 1, c. 51 (4th Supp.), s. 5; 2002, c. 8, s. 70(E)
+
+</details>
+
+### 16.1 Hearings in camera
+
+A hearing before the Court may, on the application of any party to a proceeding, other than Her Majesty in right of Canada or a Minister of the Crown, be held in camera if it is established to the satisfaction of the Court that the circumstances of the case justify in camera proceedings.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 16.2 Discontinuance
+
+(1) A party who instituted a proceeding in the Court may, at any time, discontinue that proceeding by written notice.
+
+**Effect of discontinuance**
+
+(2) Where a proceeding is discontinued under subsection (1), it is deemed to be dismissed as of the day on which the Court receives the written notice.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 16.3 Costs against the Crown to be paid out of Consolidated Revenue Fund
+
+There shall be paid out of the Consolidated Revenue Fund any costs awarded to any person against the Crown in any proceedings in the Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### General Procedure
+
+### 17 Application
+
+Subject to sections 18 and 18.29 to 18.33, the provisions of sections 17.1 to 17.8 apply in respect of any proceedings over which the Court has jurisdiction.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 17; R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 17.1 Right to appear — individual
+
+(1) An individual who is a party to a proceeding in respect of which this section applies may appear in person or be represented by counsel, but if the individual wishes to be represented by counsel, only a person who is referred to in subsection (2) shall represent the individual.
+
+**Right to appear — other**
+
+(1.1) If a party to a proceeding in respect of which this section applies is not an individual, that party shall be represented by a person who is referred to in subsection (2) unless the Court under special circumstances grants leave to the party to be represented by a director, officer, employee, member or partner of the party.
+
+**Officers of the Court**
+
+(2) Every person who may practise as a barrister, advocate, attorney or solicitor in any of the provinces may so practise in the Court and is an officer of the Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+- 2024, c. 17, s. 321
+
+</details>
+
+### 17.2 How proceeding instituted
+
+(1) Unless the Act under which the proceeding arises provides otherwise, a proceeding in respect of which this section applies shall be instituted by filing an originating document in the form and manner set out in the rules of Court and by paying, in accordance with the rules, any required filing fee.
+
+**Filing date**
+
+(2) An originating document is deemed to be filed on the day on which it is received by the Registry of the Court.
+
+**Service of originating document**
+
+(3) After the proceeding has been instituted, an officer of the Registry of the Court shall, on behalf of the party who instituted the proceeding and in accordance with the rules of the Court, serve the originating document without delay on Her Majesty in right of Canada by transmitting a copy to the office of the Deputy Attorney General of Canada.
+
+**Certificate**
+
+(4) An officer of the Registry of the Court shall, in accordance with the rules of the Court, deliver or forward to the party who instituted the proceeding a certificate indicating the date of filing of the originating document and the date of service on Her Majesty in right of Canada.
+
+**Certificate to be evidence**
+
+(5) A certificate is evidence of the dates of filing and service.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1998, c. 19, s. 291; 2006, c. 11, s. 28
+
+</details>
+
+### 17.3 Examinations for discovery — *Income Tax Act*
+
+(1) If the aggregate of all amounts in issue in an appeal under the *Income Tax Act* is $50,000 or less, or if the amount of the loss that is determined under subsection 152(1.1) of that Act and that is in issue is $100,000 or less, an oral examination for discovery is not to be held unless the parties consent to it or unless one of the parties applies for it and the Court is of the opinion that the case could not properly be conducted without that examination for discovery.
+
+**Examinations for discovery — *Excise Tax Act***
+
+(2) If the amount in dispute in an appeal under Part IX of the *Excise Tax Act* is $50,000 or less, an oral examination for discovery is not to be held unless the parties consent to it or unless one of the parties applies for it and the Court is of the opinion that the case could not properly be conducted without that examination for discovery.
+
+**Consideration on application**
+
+(3) In considering an application under subsection (1) or (2), the Court may consider the extent to which the appeal is likely to affect any other appeal of the party who instituted the appeal or relates to an issue that is common to a group or class of persons.
+
+**Mandatory examination**
+
+(4) The Court shall order an oral examination for discovery in an appeal referred to in subsection (1) or (2), on the request of one of the parties, if the party making the request agrees to submit to an oral examination for discovery by the other party and to pay the costs in respect of that examination for discovery of that other party in accordance with the tariff of costs set out in the rules of Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1993, c. 27, s. 216; 2013, c. 33, s. 23
+
+</details>
+
+### 17.4 Judgment shall be mailed
+
+When the Court has rendered its judgment in a proceeding in respect of which this section applies, a copy of the judgment and any written reasons for it shall be sent to each party to the proceeding.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 2002, c. 8, s. 71
+
+</details>
+
+### 17.5 Costs adjudged to Her Majesty in right of Canada
+
+(1) In a proceeding in respect of which this section applies, costs adjudged to Her Majesty in right of Canada shall not be disallowed or reduced on taxation by reason only that counsel who earned the costs, or in respect of whose services the costs are charged, was a salaried officer of Her Majesty in right of Canada performing those services in the discharge of that counsel’s duty and remunerated therefor by salary, or for that or any other reason was not entitled to recover any costs from Her Majesty in right of Canada in respect of the services so rendered.
+
+**Amounts to Receiver General**
+
+(2) Any money or costs awarded to Her Majesty in right of Canada in a proceeding in respect of which this section applies shall be paid to the Receiver General.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 17.6 Appeals to Federal Court of Appeal
+
+An appeal from a judgment of the Court in a proceeding in respect of which this section applies lies to the Federal Court of Appeal in accordance with section 27 of the *Federal Courts Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 2002, c. 8, s. 72
+
+</details>
+
+### 17.7 Procedure
+
+A party wishing to appeal to the Federal Court of Appeal from a judgment of the Court in a proceeding in respect of which this section applies shall give notice of appeal to the Registry of the Federal Court of Appeal and all provisions of the *Federal Courts Act* and the rules made under that Act governing appeals to the Federal Court of Appeal apply, with any modifications that the circumstances require, in respect of the appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 2002, c. 8, s. 72
+
+</details>
+
+### 17.8 Fees to be paid to Receiver General
+
+All fees payable to the Registry under this Act in respect of any proceeding in respect of which this section applies shall be paid into the Consolidated Revenue Fund, except that where the Minister of Justice has entered into an arrangement whereby such fees are collected by an official of a provincial court, the fees so collected may be dealt with in accordance with the arrangement.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### Informal Procedure
+
+### 18 Application — *Income Tax Act*
+
+(1) The provisions of sections 18.1 to 18.28 apply in respect of appeals under the *Income Tax Act* where a taxpayer has so elected in the taxpayer’s notice of appeal or at such later time as may be provided in the rules of Court, and
+
+- (a) the aggregate of all amounts in issue is equal to or less than $25,000; or
+
+- (b) the amount of the loss that is determined under subsection 152(1.1) of that Act and that is in issue is equal to or less than $50,000.
+
+**Other appeals — *Income Tax Act***
+
+(2) The provisions of sections 18.1 to 18.28 also apply in respect of an appeal, on a taxpayer’s election in the taxpayer’s notice of appeal or at any later time as may be provided in the rules of the Court, if the only subject-matter of the appeal is
+
+- (a) an amount of interest assessed under the *Income Tax Act*; or
+
+- (b) the validity of a suspension referred to in subsection 188.2(2) of that Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 18; R.S., 1985, c. 51 (4th Supp.), s. 5; SOR/93-295, ss. 3, 4; 2005, c. 19, s. 62; 2013, c. 33, s. 24
+
+</details>
+
+### 18.1 Limit
+
+Every judgment that allows an appeal referred to in subsection 18(1) is deemed to include a statement that the aggregate of all amounts in issue not be reduced by more than $25,000 or that the amount of the loss in issue not be increased by more than $50,000, as the case may be.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; SOR/93-295, ss. 3, 4; 2013, c. 33, s. 25
+
+</details>
+
+### 18.11 General procedure to apply
+
+(1) The Court may order, on application of the Attorney General of Canada, that sections 17.1 to 17.8 apply in respect of an appeal referred to in section 18.
+
+**When Court must order that general procedure apply**
+
+(2) The Court shall grant an application under subsection (1) where
+
+- (a) the outcome of the appeal is likely to affect
+  - (i) any other appeal of the appellant, or
+  - (ii) any other assessment or proposed assessment of the appellant, whether or not that assessment or proposed assessment relates to the same taxation year; and
+
+- (b) the aggregate of all amounts
+  - (i) in issue in the appeal,
+  - (ii) likely to be affected in the other appeal referred to in subparagraph (a)(i), and
+  - (iii) likely to be affected in the other assessment or proposed assessment referred to in subparagraph (a)(ii),
+  exceeds $25,000.
+
+**General procedure applies — interest exceeding $25,000**
+
+(3) The Court shall grant an application under subsection (1) if the amount of interest that is in issue in an appeal exceeds $25,000.
+
+**Interest accruing**
+
+(4) For the purpose of calculating the amount of interest in issue for the purpose of subsection (3), no account shall be taken of any interest that accrues after the date of the notice of assessment that is the subject-matter of the appeal.
+
+**Test case**
+
+(5) The Court shall grant an application under subsection (1) where it is of the opinion that the issue that is the subject-matter of the appeal is common to a group or class of persons.
+
+**Costs**
+
+(6) The Court may, on making an order under subsection (1), other than an order granting an application pursuant to subsection (2) or (3), order that all reasonable and proper costs of the appellant be borne by Her Majesty in right of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1993, c. 27, s. 217; SOR/93-295, s. 3; 2013, c. 33, s. 26
+
+</details>
+
+### 18.12 Order for general procedure
+
+(1) The Court shall order that sections 17.1 to 17.8 apply in respect of an appeal referred to in subsection 18(1) if, before the start of the hearing of the appeal, it appears to the Court that
+
+- (a) the aggregate of all amounts in issue exceeds $25,000; or
+
+- (b) the amount of the loss in issue exceeds $50,000.
+
+**Limitation**
+
+(2) Subsection (1) does not apply if the appellant elects to limit the aggregate of all amounts in issue to $25,000 or the amount of the loss in issue to $50,000, as the case may be.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; SOR/93-295, ss. 3, 4; 2013, c. 33, s. 27
+
+</details>
+
+### 18.13 Order at hearing
+
+(1) The Court shall, on motion of either party or of its own motion, order that sections 17.1 to 17.8 apply with respect to an appeal referred to in subsection 18(1) if, after the hearing of the appeal has started but before a judgment is rendered on the appeal, it appears to the Court that
+
+- (a) the aggregate of all amounts in issue exceeds $25,000; or
+
+- (b) the amount of loss in issue exceeds $50,000.
+
+**Limitation**
+
+(2) Subsection (1) does not apply if
+
+- (a) the appellant elects to limit the aggregate of all amounts in issue to $25,000 or the amount of the loss in issue to $50,000, as the case may be; or
+
+- (b) the amount of the excess is too small to justify a re-hearing in accordance with the general procedure, taking into account the inconvenience and expense that would result to the parties and the interests of justice and fairness.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; SOR/93-295, ss. 3, 4; 2013, c. 33, s. 27
+
+</details>
+
+### 18.14 Right to appear
+
+All parties to an appeal referred to in section 18 may appear in person or may be represented by counsel or an agent.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 18.15 How proceeding instituted
+
+(1) An appeal referred to in section 18 shall be instituted by filing an originating document with the Registry of the Court in the manner set out in the rules of Court and by paying, in accordance with the rules, any required filing fee. The document shall set out, in general terms, the reasons for the appeal and the relevant facts, but no special form is required unless the Act under which the appeal arises provides otherwise.
+
+**Filing date**
+
+(2) An originating document is deemed to be filed on the day on which it is received by the Registry of the Court.
+
+**Hearing**
+
+(3) Notwithstanding the provisions of the Act under which the appeal arises, the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1998, c. 19, s. 292; 2006, c. 11, s. 29
+
+</details>
+
+### 18.16 Time limit for reply to notice of appeal
+
+(1) The Minister of National Revenue shall file a reply to a notice of appeal within sixty days after the day on which the Registry of the Court transmits to that Minister the notice of appeal unless the appellant consents, before or after the expiration of the sixty day period, to the filing of that reply after the sixty day period or the Court allows the Minister, on application made before or after the expiration of the sixty day period, to file the reply after that period.
+
+**Exception**
+
+(2) Notwithstanding subsection (1), where an application is made pursuant to subsection 18.11(1) to have an appeal heard in accordance with the general procedure, the Minister of National Revenue need not file a reply to the notice of appeal until the Court decides which procedure applies in respect of the appeal.
+
+**Time after refusal**
+
+(3) Where the Court dismisses an application referred to in subsection (2), the Minister of National Revenue shall file a reply to a notice of appeal on or before the later of
+
+- (a) a day that is sixty days after the day on which the Registry of the Court transmits to that Minister the notice of appeal, and
+
+- (b) a day that is thirty days after the day the written judgment dismissing the application is received by the Minister from the Registry of the Court,
+
+unless the appellant consents, before or after the time referred to in paragraph (a) or (b), to the filing of the reply at a later date or the Court allows the Minister, on application made before or after the time referred to in paragraph (a) or (b), to file the reply after that time.
+
+**Where reply not filed in time**
+
+(4) The Minister of National Revenue may file a reply to a notice of appeal after the period limited under subsection (1) or (3), as the case may be, and where that Minister files the reply after that period or after the extension of time consented to by the appellant or granted by the Court, the allegations of fact contained in the notice of appeal are presumed to be true for the purposes of the appeal.
+
+**Interpretation**
+
+(5) The Minister of National Revenue may file a reply to a notice of appeal by mail and any such reply filed by mail shall be deemed to have been filed on the day on which it is mailed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1993, c. 27, s. 218
+
+</details>
+
+### 18.17 Time for hearing
+
+(1) Subject to subsection (1.1), the Court shall fix a date for the hearing of an appeal referred to in section 18 that is not later than one hundred and eighty days or, where the Court is of the opinion that it would be impracticable in the circumstances to fix a date for the hearing of the appeal within that period, three hundred and sixty-five days after the last day on which the Minister of National Revenue must file a reply to the notice of appeal pursuant to subsection 18.16(1) or (3).
+
+**Exceptional circumstances**
+
+(1.1) The Court may, in exceptional circumstances, fix a date for the hearing of an appeal referred to in section 18 at any time after the periods referred to in subsection (1).
+
+**Request for time extension**
+
+(2) The Court may grant a request by a party to have an appeal heard after the date referred to in subsection (1) where the other parties consent thereto or where it would be appropriate to delay the hearing of the appeal until judgment has been rendered in another case before the Court or any other court in Canada in which the issue is the same or substantially the same as that raised in the appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1993, c. 27, s. 219
+
+</details>
+
+### 18.18 Periods excluded
+
+(1) For the purpose of calculating a time limit for the purpose of section 18.16, 18.17 or 18.22,
+
+- (a) the period beginning on December 21 in any year and ending on January 7 of the next year shall be excluded; and
+
+- (b) the period during which proceedings are stayed in accordance with subsection 239(4) of the *Income Tax Act* shall be excluded.
+
+**Calculation of time limits**
+
+(2) For the purpose of calculating a time limit for the purposes of section 18.3003 or 18.3005, the following periods shall be excluded:
+
+- (a) the period beginning on December 21 in any year and ending on January 7 of the next year; and
+
+- (b) the period during which proceedings are stayed in accordance with subsection 106(3) of the *Customs Act*, subsection 219(3) of the *Excise Act, 2001* or subsection 327(4) of the *Excise Tax Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1990, c. 45, s. 58; 2001, c. 25, s. 102; 2002, c. 22, ss. 399, 408
+
+</details>
+
+### 18.19 Notice of hearing
+
+(1) When the date of a hearing has been fixed, a copy of the notice of hearing shall, not later than thirty days before that date, be sent by registered mail to all parties, or served on all parties.
+
+**Waiver of notice**
+
+(2) A party to an appeal may waive that party’s right to be notified of a hearing in accordance with subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 2002, c. 8, s. 73
+
+</details>
+
+### 18.2 Adjournment
+
+(1) The Court shall adjourn the hearing of an appeal where, in the opinion of the Court, it would be impractical in all the circumstances to proceed on the day fixed for the hearing.
+
+**Request for adjournment**
+
+(2) The Court may grant a request by a party to have the hearing of an appeal adjourned where the other parties consent thereto or where it would be appropriate to delay that hearing until judgment has been rendered in another case before the Court or before any other court in Canada in which the issue is the same or substantially the same as that raised in the appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 18.21 Failure to appear
+
+(1) Where an appellant does not appear on the day fixed for the hearing, or obtain an adjournment of the hearing, of an appeal, the Court shall, on application by the respondent and whether or not the appellant has received notice of the application, order that the appeal be dismissed, unless the Court is of the opinion that circumstances justify that the appeal be set down for hearing at a later date.
+
+**Application**
+
+(2) An appellant whose appeal has been dismissed pursuant to subsection (1) may apply to have the order of dismissal set aside and the appeal set down for hearing.
+
+**Where order set aside**
+
+(3) The Court may set aside an order of dismissal made under subsection (1) where
+
+- (a) it would have been unreasonable in all the circumstances for the appellant to have attended the hearing; and
+
+- (b) the appellant applied to have the order of dismissal set aside as soon as circumstances permitted the application to be brought but, in any event, not later than one hundred and eighty days after the day on which the order was mailed to the appellant.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 18.22 Time for judgment
+
+(1) The Court shall, other than in exceptional circumstances, render judgment on an appeal referred to in section 18 not later than ninety days after the day on which the hearing is concluded.
+
+**Definition of **exceptional circumstances****
+
+(2) For the purposes of subsection (1), **exceptional circumstances** includes circumstances in which written material that the Court requires in order to render a judgment was not received in time to permit the Court to consider it and to render judgment within the time limit imposed by that subsection.
+
+**Copy of decision**
+
+(3) On the disposition of an appeal referred to in section 18, a copy of the decision and written reasons for the decision, if any, shall be forwarded by registered mail to the Minister of National Revenue and to each party to the appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1993, c. 27, s. 220; 2002, c. 8, s. 74
+
+</details>
+
+### 18.23 Reasons for judgment
+
+The Court shall give reasons for its judgment but, except where the Court deems it advisable in a particular case to give reasons in writing, the reasons given by it need not be in writing.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 18.24 Final judgment
+
+An appeal from a judgment of the Court in a proceeding in respect of which this section applies lies to the Federal Court of Appeal in accordance with section 27 of the *Federal Courts Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 2002, c. 8, s. 75
+
+</details>
+
+### 18.25 Costs
+
+If the Minister of National Revenue appeals a judgment referred to in section 18.24, the reasonable and proper costs of the taxpayer in respect of the appeal shall be paid by Her Majesty in right of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 2002, c. 8, s. 75
+
+</details>
+
+### 18.26 Costs
+
+(1) The Court may, subject to the rules, award costs. In particular, the Court may award costs to the appellant if the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one half.
+
+**Consideration of offers**
+
+(2) The Court may, in deciding whether to award costs, consider any written offer of settlement made at any time after the notice of appeal is filed.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1998, c. 19, s. 293; 2006, c. 11, s. 30
+
+</details>
+
+### 18.27 Regulations
+
+The Governor in Council may make regulations
+
+- (a) increasing the amount of $25,000 referred to in paragraph 18(1)(a), section 18.1, paragraph 18.11(2)(b), subsection 18.11(3), and sections 18.12 and 18.13 to any amount that does not exceed $50,000;
+
+- (b) increasing the amount of $50,000 referred to in paragraph 18(1)(b), and sections 18.1, 18.12 and 18.13 to any amount that does not exceed $100,000; and
+
+- (c) increasing the amount in dispute referred to in paragraphs 18.3002(3)(c) and 18.3008(c) and subparagraph 18.3009(1)(c)(i) to any amount that does not exceed $12,000.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1990, c. 45, s. 59; 1998, c. 19, s. 294; 2006, c. 11, s. 31; 2013, c. 33, s. 28
+
+</details>
+
+### 18.28 No precedential value
+
+A judgment on an appeal referred to in section 18 shall not be treated as a precedent for any other case.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 18.29 Other applications
+
+(1) The provisions of sections 18.14 and 18.15, other than the reference to filing fees, subsection 18.18(1), section 18.19, subsection 18.22(3) and sections 18.23 and 18.24 apply, with any modifications that the circumstances require, in respect of appeals arising under
+
+- (a) Part I of the *Canada Pension Plan*;
+
+- (b) Parts IV, VII and VII.1 of the *Employment Insurance Act*;
+
+- (c) the *Old Age Security Act*, to the extent that a ground of the appeal involves a decision or determination as to income;
+
+- (d) the *War Veterans Allowance Act*, or Part XI of the *Civilian War-related Benefits Act* from an adjudication of the Veterans Review and Appeal Board as to what constitutes income or as to the source of income; and
+
+- (e) the *Canada Disability Benefit Act*, to the extent that a ground of the appeal involves a decision or determination as to income.
+
+**Inconsistent provisions**
+
+(2) Where an appeal arises out of one of the Acts referred to in subsection (1) and that Act contains a provision that is inconsistent with one of the provisions of this Act referred to in that subsection, the provision of the Act out of which the appeal arises prevails to the extent of the inconsistency.
+
+**Extension of time and postponements of suspensions**
+
+(3) The provisions referred to in subsection (1) also apply, with any modifications that the circumstances require, in respect of applications for
+
+- (a) an extension of time under
+  - (i) subsection 28(1) of the *Canada Pension Plan*,
+  - (ii) section 33.2 of the *Cultural Property Export and Import Act*,
+  - (iii) section 97.51 or 97.52 of the *Customs Act*,
+  - (iv) subsection 103(1) of the *Employment Insurance Act*,
+  - (v) section 197 or 199 of the *Excise Act, 2001*,
+  - (vi) section 304 or 305 of the *Excise Tax Act*,
+  - (vi.01) section 88 or 90 of the *Global Minimum Tax Act*,
+  - (vi.1) section 115 or 117 of the *Greenhouse Gas Pollution Pricing Act*,
+  - (vii) section 166.2 or 167 of the *Income Tax Act*,
+  - (viii) section 56 or 58 of the *Softwood Lumber Products Export Charge Act, 2006*,
+  - (ix) section 39 or 41 of the *Underused Housing Tax Act*, *[2022, c. 10, s. 173]*
+  - (x) section 99 or 101 of the *Select Luxury Items Tax Act*, or *[2022, c. 10, s. 173]*
+  - (xi) section 74 or 76 of the *Digital Services Tax Act*; and
+
+- (b) a postponement of a portion of a period of suspension of authority to issue tax receipts under subsection 188.2(4) of the *Income Tax Act*.
+
+**Reasons for judgment — extensions of time and postponements**
+
+(4) In respect of an application for an extension of time under the provisions referred to in paragraph (3)(a) or for a postponement referred in paragraph (3)(b), if either party to the application makes a request to the Court for reasons for its judgment, the Court shall give such reasons but those reasons need not be in writing.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1990, c. 45, s. 60; 1991, c. 49, s. 222; 1992, c. 24, s. 19; 1993, c. 27, s. 221; 1994, c. 26, s. 67(E); 1995, c. 18, s. 99, c. 38, s. 7; 1996, c. 23, s. 184; 1998, c. 19, s. 295; 1999, c. 10, s. 47; 2000, c. 30, s. 178; 2001, c. 25, s. 103; 2002, c. 9, ss. 7, 10, c. 22, ss. 400, 408; 2005, c. 19, s. 63; 2006, c. 11, s. 32, c. 13, s. 122; 2009, c. 33, s. 33; 2018, c. 12, s. 190
+- 2022, c. 5, s. 22
+- 2022, c. 10, s. 149
+- 2022, c. 10, s. 173
+- 2024, c. 15, s. 110
+- 2024, c. 17, s. 94
+- 2024, c. 17, s. 410
+
+</details>
+
+### 18.3 Further application
+
+(1) The provisions of subsection 18(2) and sections 18.1 to 18.28 apply, with such modifications as the circumstances require, in respect of appeals arising under the *Petroleum and Gas Revenue Tax Act* where the appellant has so elected in the appellant’s notice of appeal or at such later time as may be provided in the rules of Court and the amount of the tax and penalties in issue is equal to or less than $7,000.
+
+**Inconsistent provisions**
+
+(2) Where a provision of the *Petroleum and Gas Revenue Tax Act* is inconsistent with one of the provisions of this Act referred to in subsection (1), the provision of the *Petroleum and Gas Revenue Tax Act* prevails to the extent of the inconsistency.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5
+
+</details>
+
+### 18.3001 Application — *Excise Act, 2001*, *Customs Act*, and *Excise Tax Act*
+
+Subject to section 18.3002, this section and sections 18.3003, 18.3005 and 18.3008 to 18.302 apply, with any modifications that the circumstances require, to an appeal under
+
+- (a) the *Excise Act, 2001* if
+  - (i) a person has so elected in the notice of appeal for an appeal under that Act or at such later time as may be provided in the rules of Court, and
+  - (ii) the amount in dispute does not exceed $25,000;
+
+- (b) Part V.1 of the *Customs Act* if a person has so elected in the notice of appeal for an appeal under that Act or at such later time as may be provided in the rules of Court; and
+
+- (c) Part IX of the *Excise Tax Act* if
+  - (i) a person has so elected in the notice of appeal for an appeal under that Act or at such later time as may be provided in the rules of Court, and
+  - (ii) the amount in dispute does not exceed $50,000.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 61; 1998, c. 19, s. 296; 2001, c. 25, s. 104; 2002, c. 22, ss. 401, 408; 2013, c. 33, s. 29
+
+</details>
+
+### 18.30011 Limit — *Excise Act, 2001*
+
+Every judgment that allows an appeal referred to in paragraph 18.3001(a) is deemed to include a statement that the amount in dispute not be reduced by more than $25,000.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, c. 33, s. 29
+
+</details>
+
+### 18.30012 Limit — *Excise Tax Act*
+
+Every judgment that allows an appeal referred to in paragraph 18.3001(c) is deemed to include a statement that the amount in dispute not be reduced by more than $50,000.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, c. 33, s. 29
+
+</details>
+
+### 18.3002 General procedure to apply
+
+(1) If the Attorney General of Canada so requests, the Court shall order that
+
+- (a) in the case of an appeal referred to in paragraph 18.3001(a) or (b), sections 17.1, 17.2 and 17.4 to 17.8 apply to an appeal in respect of which sections 18.3003, 18.3005 and 18.3008 to 18.302 would otherwise apply; and
+
+- (b) in the case of an appeal referred to in paragraph 18.3001(c), sections 17.1 to 17.8 apply to an appeal in respect of which sections 18.3003, 18.3005 and 18.3008 to 18.302 would otherwise apply.
+
+**Time for request**
+
+(2) A request under subsection (1) shall not be made after sixty days after the day the Registry of the Court transmits to the Minister of National Revenue the notice of appeal unless
+
+- (a) the Court is satisfied that the Attorney General of Canada became aware of information that justifies the making of the request after the sixty days had elapsed or that the request is otherwise reasonable in the circumstances; or
+
+- (b) the person who has brought the appeal consents to the making of the request after the sixty days have elapsed.
+
+**Costs**
+
+(3) The Court shall, on making an order under subsection (1), order that all reasonable and proper costs of the person who has brought the appeal be borne by Her Majesty in right of Canada where
+
+- (a) in the case of an appeal under Part V.1 of the *Customs Act*, the amount in dispute does not exceed $10,000;
+
+- (b) in the case of an appeal under the *Excise Act, 2001*, the total of sales by the person for the prior calendar year did not exceed $1,000,000; and
+
+- (c) in the case of an appeal under Part IX of the *Excise Tax Act*, the amount in dispute does not exceed $7,000 and the aggregate of supplies for the prior fiscal year of the person did not exceed $1,000,000.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 61; 1998, c. 19, s. 297; 2001, c. 25, s. 105; 2002, c. 22, ss. 402, 408; 2013, c. 33, s. 30
+
+</details>
+
+### 18.30021 Order for general procedure — *Excise Act, 2001*
+
+If, before the start of the hearing of an appeal referred to in paragraph 18.3001(a), it appears to the Court that the amount in dispute exceeds $25,000, the Court shall order that sections 17.1, 17.2 and 17.4 to 17.8 apply in respect of the appeal unless the appellant elects to limit the appeal to $25,000.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, c. 33, s. 31
+
+</details>
+
+### 18.30022 Order for general procedure — *Excise Tax Act*
+
+If, before the start of the hearing of an appeal referred to in paragraph 18.3001(c), it appears to the Court that the amount in dispute exceeds $50,000, the Court shall order that sections 17.1 to 17.8 apply in respect of the appeal unless the appellant elects to limit the appeal to $50,000.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, c. 33, s. 31
+
+</details>
+
+### 18.30023 Order at hearing — *Excise Act, 2001*
+
+If, after the hearing of an appeal referred to in paragraph 18.3001(a) has started but before a judgment is rendered on the appeal, it appears to the Court that the amount in dispute exceeds $25,000, the Court shall, on motion of either party or of its own motion, order that sections 17.1, 17.2 and 17.4 to 17.8 apply with respect to the appeal unless
+
+- (a) the appellant elects to limit the appeal to $25,000; or
+
+- (b) the amount of the excess is too small to justify a re-hearing in accordance with the general procedure, taking into account the inconvenience and expense that would result to the parties and the interests of justice and fairness.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, c. 33, s. 31
+
+</details>
+
+### 18.30024 Order at hearing — *Excise Tax Act*
+
+If, after the hearing of an appeal referred to in paragraph 18.3001(c) has started but before a judgment is rendered on the appeal, it appears to the Court that the amount in dispute exceeds $50,000, the Court shall, on motion of either party or of its own motion, order that sections 17.1 to 17.8 apply with respect to the appeal unless
+
+- (a) the appellant elects to limit the appeal to $50,000; or
+
+- (b) the amount of the excess is too small to justify a re-hearing in accordance with the general procedure, taking into account the inconvenience and expense that would result to the parties and the interests of justice and fairness.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, c. 33, s. 31
+
+</details>
+
+### 18.3003 Time limit for reply to notice of appeal
+
+(1) Subject to subsection (2), the Minister of National Revenue shall file a reply to a notice of appeal referred to in section 18.3001 within sixty days after the day the Registry of the Court transmits to that Minister the notice of appeal, unless the person who has brought the appeal consents, before or after the sixty day period has elapsed, to the filing of that reply after the expiration of those sixty days or the Court allows the Minister, on application made before or after the expiration of those sixty days, to file the reply after that period.
+
+**Where reply not filed in time**
+
+(2) The Minister of National Revenue may file a reply to a notice of appeal after the period referred to in subsection (1) and, where the Minister does not file the reply within the sixty day period or within the extension of time consented to by the person who has brought the appeal or granted by the Court, the allegations of fact contained in the notice of appeal are presumed to be true for the purposes of the appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 61; 1993, c. 27, s. 222; 2001, c. 25, s. 106(E)
+
+</details>
+
+### 18.3004 Time limit — general procedure
+
+Where the Court makes an order pursuant to subsection 18.3002(1) in respect of an appeal, or where the person who has brought the appeal has not made an election referred to in section 18.3001 in respect of the appeal, that person may consent to the filing of a reply by the Minister of National Revenue after the day the reply would otherwise be required to be filed.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 61
+
+</details>
+
+### 18.3005 Time for hearing
+
+(1) Subject to subsection (2), the Court shall fix a date for the hearing of an appeal referred to in section 18.3001 that is not later than one hundred and eighty days or, where the Court is of the opinion that it would be impracticable in the circumstances to fix a date for the hearing of the appeal within that period, three hundred and sixty-five days after the last day on which the Minister of National Revenue must file a reply to the notice of appeal pursuant to subsection 18.3003(1).
+
+**Exceptional circumstances**
+
+(2) The Court may, in exceptional circumstances, fix a date for the hearing of an appeal referred to in section 18.3001 at any time after the periods referred to in subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 61; 1993, c. 27, s. 223
+
+</details>
+
+### 18.3006
+
+[Repealed, 1993, c. 27, s. 223]
+
+### 18.3007 Costs
+
+(1) The Court may, if the circumstances so warrant, make no order as to costs or order that the person who brought the appeal be awarded costs, notwithstanding that under the rules of Court costs would be adjudged to Her Majesty in right of Canada, or make an order that person be awarded costs, notwithstanding that under the rules of Court no order as to costs would be made, if
+
+- (a) an order has been made under subsection 18.3002(1) in respect of the appeal;
+
+- (b) the appeal is not an appeal referred to in subsection 18.3002(3); and
+
+- (c) in the case of an appeal
+  - (i) under Part V.1 of the *Customs Act*, the amount in dispute does not exceed $50,000,
+  - (ii) under the *Excise Act, 2001*, the amount in dispute in the appeal does not exceed $50,000 and the aggregate of sales by the person for the prior calendar year did not exceed $6,000,000, or
+  - (iii) under Part IX of the *Excise Tax Act*, the amount in dispute in the appeal does not exceed $50,000 and the aggregate of supplies for the prior fiscal year of the person did not exceed $6,000,000.
+
+**Time for order**
+
+(2) Where costs are awarded under subsection (1), the award shall be made at the time of the order disposing of the appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 61; 2001, c. 25, s. 107; 2002, c. 22, ss. 403, 408
+
+</details>
+
+### 18.3008 Costs on further appeal
+
+If a judgment on an appeal referred to in section 18.3001 is appealed by the Minister of National Revenue under section 27 of the *Federal Courts Act*, the reasonable and proper costs of the appeal under that section of the person who brought the appeal referred to in section 18.3001 shall be borne by Her Majesty in right of Canada if that appeal was an appeal for which
+
+- (a) in the case of an appeal under Part V.1 of the *Customs Act*, the amount in dispute does not exceed $10,000;
+
+- (b) in the case of an appeal under the *Excise Act, 2001*, the amount in dispute does not exceed $25,000 and the aggregate of sales by the person for the prior calendar year did not exceed $1,000,000; and
+
+- (c) in the case of an appeal under Part IX of the *Excise Tax Act*, the amount in dispute does not exceed $7,000 and the aggregate of supplies for the prior fiscal year of the person did not exceed $1,000,000.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 61; 2001, c. 25, s. 108; 2002, c. 8, s. 76, c. 22, ss. 404, 408
+
+</details>
+
+### 18.3009 Costs
+
+(1) In an appeal referred to in section 18.3001, the Court may, subject to the rules of Court, award costs. In particular, the Court may award costs to the person who brought the appeal if the judgment reduces the amount in dispute by more than one half and
+
+- (a) in the case of an appeal under Part V.1 of the *Customs Act*, the amount in dispute does not exceed $10,000;
+
+- (b) in the case of an appeal under the *Excise Act, 2001*
+  - (i) the amount in dispute does not exceed $25,000, and
+  - (ii) the total of sales by the person for the prior calendar year did not exceed $1,000,000; or
+
+- (c) in the case of an appeal under Part IX of the *Excise Tax Act*,
+  - (i) the amount in dispute does not exceed $7,000, and
+  - (ii) the aggregate of supplies for the prior fiscal year of the person did not exceed $1,000,000.
+
+**Consideration of offers**
+
+(2) The Court may, in deciding under subsection (1) whether to award costs, consider any written offer of settlement made at any time after the notice of appeal is filed.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 61; 1998, c. 19, s. 298; 2001, c. 25, s. 109; 2002, c. 22, ss. 405, 408; 2006, c. 11, s. 33
+
+</details>
+
+### 18.301 Interest accruing
+
+For the purpose of calculating the amount in dispute in an appeal, no account shall be taken of any interest that accrues after the date of the notice of assessment that is the subject-matter of the appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1990, c. 45, s. 61; 1993, c. 27, s. 224
+
+</details>
+
+### 18.302 Provisions to apply
+
+The provisions of sections 18.14 and 18.15, subsections 18.16(5) and 18.17(2) and sections 18.19 to 18.24 and 18.28 apply, with such modifications as the circumstances require, in respect of appeals referred to in section 18.3001.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 27, s. 224
+
+</details>
+
+### References
+
+### 18.31 General procedure
+
+(1) Where an application has been made under section 173 of the *Income Tax Act* for the determination of a question of law, fact or mixed law and fact, sections 17.1 to 17.8 apply, with such modifications as the circumstances require, in respect of the determination of the question.
+
+**Determination of a question**
+
+(2) If it is agreed under section 310 of the *Excise Tax Act*, section 97.58 of the *Customs Act*, section 51 of the *Air Travellers Security Act*, section 204 of the *Excise Act, 2001*, section 62 of the *Softwood Lumber Products Export Act, 2006*, section 121 of the *Greenhouse Gas Pollution Pricing Act*, section 45 of the *Underused Housing Tax Act*, section 105 of the *Select Luxury Items Tax Act*, section 80 of the *Digital Services Tax Act* or section 94 of the *Global Minimum Tax Act* that a question should be determined by the Court, sections 17.1, 17.2 and 17.4 to 17.8 apply, with any modifications that the circumstances require, in respect of the determination of the question.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1990, c. 45, s. 62; 2001, c. 25, s. 110; 2002, c. 9, ss. 8, 10, c. 22, ss. 406, 408; 2006, c. 13, s. 123; 2018, c. 12, s. 191
+- 2022, c. 5, s. 23
+- 2022, c. 10, s. 150
+- 2022, c. 10, s. 173
+- 2024, c. 15, s. 111
+- 2024, c. 17, s. 95
+- 2024, c. 17, s. 111
+
+</details>
+
+### 18.32 Idem
+
+(1) Where an application has been made under section 174 of the *Income Tax Act* for the determination of a question of law, fact or mixed law and fact in respect of two or more taxpayers, the application or determination of the question shall, subject to section 18.33, be determined in accordance with sections 17.1 to 17.8, with such modifications as the circumstances require.
+
+**Provisions applicable to determination of a question**
+
+(2) If an application has been made under section 311 of the *Excise Tax Act*, section 52 of the *Air Travellers Security Charge Act*, section 205 of the *Excise Act, 2001*, section 63 of the *Softwood Lumber Products Export Charge Act, 2006*, section 122 of the *Greenhouse Gas Pollution Pricing Act*, section 46 of the *Underused Housing Tax Act*, section 106 of the *Select Luxury Items Tax Act*, section 81 of the *Digital Services Tax Act* or section 95 of the *Global Minimum Tax Act* for the determination of a question, the application or determination of the question must, subject to section 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1990, c. 45, s. 63; 2002, c. 9, ss. 9, 10, c. 22, s. 407; 2006, c. 13, s. 124; 2018, c. 12, s. 192
+- 2022, c. 5, s. 24
+- 2022, c. 10, s. 151
+- 2022, c. 10, s. 173
+- 2024, c. 15, s. 112
+- 2024, c. 17, s. 96
+- 2024, c. 17, s. 111
+
+</details>
+
+### 18.33 Request for informal procedure
+
+(1) The Attorney General of Canada or any taxpayer in respect of whom an application referred to in section 18.32 is made may request that sections 18.14 and 18.15, subsection 18.22(3) and sections 18.23 to 18.27 apply in respect of the application or determination of the question.
+
+**Consent — income tax cases**
+
+(2) Where all parties to an application referred to in subsection 18.32(1) so agree and there is a taxpayer in respect of whom the application is made whose amount of tax and penalties in issue or amount of loss in issue does not exceed the amount referred to in paragraph 18(1)(a) or (b), as the case may be, the Court shall grant the request referred to in subsection (1).
+
+**Consent — excise tax cases**
+
+(2.1) Where all parties to an application referred to in subsection 18.32(2) so agree, the Court shall grant the request referred to in subsection (1).
+
+**Granting of request — income tax cases**
+
+(3) The Court may grant a request referred to in subsection (1) where it is of the opinion that the interests of justice would best be served by having the provisions referred to in that subsection apply in respect of the application referred to in subsection 18.32(1) and there is a taxpayer in respect of whom the application is made whose amount of tax and penalties in issue or amount of loss in issue does not exceed the amount referred to in paragraph 18(1)(a) or (b), as the case may be.
+
+**Effect of order**
+
+(4) Where the Court grants a request referred to in subsection (1), sections 18.14 and 18.15, subsection 18.22(3) and sections 18.23 to 18.27 apply, with such modifications as the circumstances require, to the application or determination of the question.
+
+**Costs**
+
+(5) Where the Court dismisses a request referred to in subsection (1), there is a taxpayer in respect of whom the application is made whose amount of tax and penalties in issue or loss in issue does not exceed the amount referred to in paragraph 18(1)(a) or (b), as the case may be, and that taxpayer made or consented to the request, the Court may order the Minister of National Revenue to pay the costs of that taxpayer in respect of the application in accordance with the tariff of costs set out in the rules of Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 51 (4th Supp.), s. 5; 1990, c. 45, s. 64
+
+</details>
+
+## Oaths and Affidavits
+
+### 19 Who may administer oath, etc.
+
+(1) All persons authorized to administer affidavits to be used in any of the superior courts of any province may administer oaths and take and receive affidavits, declarations and solemn affirmations in that province to be used in the Court.
+
+**Idem**
+
+(2) The Governor in Council may, by commission, empower such person as he or she thinks necessary, within or outside Canada, to administer oaths and to take and receive affidavits, declarations and solemn affirmations in or concerning any proceeding had or to be had in the Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 19; 2002, c. 8, s. 81(E)
+
+</details>
+
+## General
+
+### 19.1 Vexatious proceedings
+
+(1) If the Court is satisfied, on application, that a person has persistently instituted vexatious proceedings or has conducted a proceeding in a vexatious manner, it may order that no further proceedings be instituted by the person in the Court or that a proceeding previously instituted by the person in the Court not be continued, except by leave of the Court, and may award costs against the person in accordance with the rules of the Court.
+
+**Attorney General of Canada**
+
+(2) An application under subsection (1) may be made only with the consent of the Attorney General of Canada, who is entitled to be heard on the application and on any application made under subsection (3).
+
+**Application for rescission or leave to proceed**
+
+(3) A person against whom the Court has made an order under subsection (1) may apply to the Court for rescission of the order or for leave to institute or continue a proceeding.
+
+**Court may grant leave**
+
+(4) If an application is made to the Court under subsection (3) for leave to institute or continue a proceeding, the Court may grant leave if it is satisfied that the proceeding is not an abuse of process and that there are reasonable grounds for the proceeding.
+
+**No appeal**
+
+(5) A decision of the Court under subsection (4) is final and is not subject to appeal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2002, c. 8, s. 77
+
+</details>
+
+### 19.2 Constitutional questions
+
+(1) If the constitutional validity, applicability or operability of an Act of Parliament or its regulations is in question before the Court, the Act or regulations shall not be judged to be invalid, inapplicable or inoperable unless notice has been served on the Attorney General of Canada and the attorney general of each province in accordance with subsection (2).
+
+**Time of notice**
+
+(2) The notice must be served at least 10 days before the day on which the constitutional question is to be argued, unless the Court orders otherwise.
+
+**Notice of appeal**
+
+(3) The Attorney General of Canada and the attorney general of each province are entitled to notice of any appeal made in respect of the constitutional question.
+
+**Right to be heard**
+
+(4) The Attorney General of Canada and the attorney general of each province are entitled to adduce evidence and make submissions to the Court in respect of the constitutional question.
+
+**Appeal**
+
+(5) If the Attorney General of Canada or the attorney general of a province makes submissions, that attorney general is deemed to be a party to the proceedings for the purpose of any appeal in respect of the constitutional question.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2002, c. 8, s. 77; 2006, c. 11, s. 34(E)
+
+</details>
+
+## Rules
+
+### 20 Rules
+
+(1) Subject to the approval of the Governor in Council, rules for regulating the pleadings, practice and procedure in the Court shall be made by the rules committee.
+
+**Idem**
+
+(1.1) Without limiting the generality of the foregoing, the rules committee may make rules
+
+- (a) for oral examinations for discovery of officers of Her Majesty in right of Canada;
+
+- (b) for discovery and production, and supplying of copies, of documents by Her Majesty in right of Canada;
+
+- (c) respecting the taking of evidence before a judge or any other qualified person, inside or outside Canada, before or during a proceeding before the Court, and on commission or otherwise, of any person;
+
+- (d) providing for the reference of any question of fact for inquiry and report by a judge or other person as referee;
+
+- (e) for the fixing of fees to be paid by a party to the Registry of the Court for payment into the Consolidated Revenue Fund in respect of a proceeding before the Court;
+
+- (f) providing for the procedure that applies in respect of an appeal that was commenced according to one procedure and becomes an appeal in respect of which the other procedure applies;
+
+- (g) providing for pre-trial conferences;
+
+- (h) respecting the use of any means of communication, including telecommunications, for the conduct of proceedings;
+
+- (h.1) prescribing, for the purposes of subsection 28(1) of the *Canada Pension Plan* or subsection 103(1) of the *Employment Insurance Act*, when a determination or a decision on an appeal to the Minister of National Revenue under section 27 of the *Canada Pension Plan* or section 93 of the *Employment Insurance Act*, as the case may be, is communicated to a person;
+
+- (i) for regulating the duties of officers of the Court;
+
+- (j) for awarding and regulating costs in the Court in favour of or against the Crown as well as other parties and for authorizing the refusal of costs to an appellant who, in circumstances in which the appellant could make an election under section 18, does not make such an election;
+
+- (k) designating an act or omission of a person to be in contempt of court, respecting the procedure to be followed in proceedings for contempt and establishing penalties for a finding of contempt;
+
+- (l) for awarding and regulating costs in the Court against a person who is subject to an order under subsection 19.1(1); and
+
+- (m) empowering an associate judge to exercise any jurisdiction or powers, even though the jurisdiction or powers may be of a judicial nature.
+
+**When effective**
+
+(2) No rule made under this section has effect until it has been published in the *Canada Gazette*.
+
+**Tabling of rules**
+
+(3) A copy of every rule made under this section shall be laid before Parliament on any of the first fifteen days after the making thereof that either House of Parliament is sitting.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 20; R.S., 1985, c. 51 (4th Supp.), s. 6; 1993, c. 27, s. 225; 1996, c. 23, s. 185; 2002, c. 8, s. 78
+- 2022, c. 10, s. 369
+- 2022, c. 10, s. 371
+
+</details>
+
+### 21 Rules remain in force
+
+All rules regulating the practice and procedure before the Tax Review Board on July 18, 1983 shall, to the extent that they are not inconsistent with this Act, remain in force until revoked or altered by the Court under section 22 or until otherwise determined.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 158, s. 29
+
+</details>
+
+### 22 Rules committee
+
+(1) The rules committee shall be composed of
+
+- (a) the Chief Justice;
+
+- (b) the Associate Chief Justice;
+
+- (c) three judges and one associate judge of the Court that are designated from time to time by the Chief Justice;
+
+- (c.1) the Chief Administrator of the Courts Administration Service;
+
+- (d) one representative designated from time to time by the Attorney General of Canada; and
+
+- (e) two barristers, advocates, attorneys or solicitors designated from time to time by the Attorney General of Canada.
+
+**President**
+
+(2) The Chief Justice or, in the Chief Justice’s absence, the Associate Chief Justice shall preside over the rules committee.
+
+**Rules procedure**
+
+(3) Where the rules committee proposes to amend, vary or revoke any rule made under section 20 or continued under section 21, or continued under section 28, 29 or 30 of *An Act to amend the Tax Court of Canada Act and other Acts in consequence thereof*, chapter 51 of the 4th Supplement to the Revised Statutes of Canada, the rules committee
+
+- (a) shall give notice of the proposed rule by publishing it in the *Canada Gazette* and shall, in the notice, invite any interested person to make representations in writing with respect thereto within sixty days after the date of the publication; and
+
+- (b) may, after the expiration of the sixty days referred to in paragraph (a) and subject to the approval of the Governor in Council, implement the proposed rule either as originally published or as revised in such manner as the rules committee deems advisable having regard to any representations made to the rules committee.
+
+**Expenses**
+
+(4) Each person referred to in paragraph (1)(e) is entitled to be paid, from the budget of the Court, travel and living expenses incurred in carrying out duties as a member of the rules committee while absent from the person’s ordinary place of residence, but those expenses shall not exceed the maximum limits authorized by Treasury Board directive for employees of the Government of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 22; R.S., 1985, c. 1 (4th Supp.), s. 44(E), c. 51 (4th Supp.), s. 7; 2002, c. 8, s. 79
+- 2022, c. 10, s. 370
+- 2022, c. 10, s. 371
+
+</details>
+
+## Administration of Court
+
+### 23 Designation of Judicial Administrator
+
+(1) The Chief Justice may designate an employee of the Courts Administration Service as the Judicial Administrator of the Court.
+
+**Duties**
+
+(2) The Judicial Administrator of the Court shall perform any non-judicial work that may be delegated to him or her by the Chief Justice of the Court, in accordance with the instructions given by the Chief Justice, including
+
+- (a) the making of an order fixing the time and place of a hearing, or adjourning a hearing; and
+
+- (b) arranging for the distribution of judicial business in the Court.
+
+**Revocation of designation**
+
+(3) A designation made under subsection (1) may be revoked at any time and is automatically revoked when the Chief Justice by whom it was made ceases to hold office as Chief Justice.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 23; 2002, c. 8, s. 80
+
+</details>
+
+### 24 Sittings throughout Canada
+
+The Court may sit at such times and at such places throughout Canada as it considers necessary or desirable for the proper conduct of its business.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 158, s. 23
+
+</details>
+
+## Transitional
+
+### 25 Eligibility for supernumerary status and annuities
+
+(1) For the purposes of sections 28 and 42 of the *Judges Act*, a judge shall be deemed to have held judicial office during any period of time during which the judge held office as a member of the Tax Review Board.
+
+**Idem for Associate Chief Judge**
+
+(2) For the purposes of an election under section 31 and of section 42 of the *Judges Act*, the Associate Chief Judge shall be deemed to have held office as such during any period of time during which the Associate Chief Judge held office as Assistant Chairman of the Tax Review Board or as Chief Judge of the Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. T-2, s. 25; R.S., 1985, c. 51 (4th Supp.), s. 8
+
+</details>
+
+
+## RELATED PROVISIONS
+
+### — 2002, c. 8, ss. 185(8) to (10)
+
+
+**Chief Justice of the Tax Court of Canada**
+
+(8) The person holding the office of Chief Judge of the Tax Court of Canada on the coming into force of section 1 of this Act continues in office with their title in English being changed to Chief Justice of the Tax Court of Canada.
+
+### — 2002, c. 8, ss. 185(8) to (10)
+
+
+**Associate Chief Justice of the Tax Court of Canada**
+
+(9) The person holding the office of Associate Chief Judge of the Tax Court of Canada on the coming into force of section 1 of this Act continues in office with their title in English being changed to Associate Chief Justice of the Tax Court of Canada.
+
+### — 2002, c. 8, ss. 185(8) to (10)
+
+
+**Deputy judges of Tax Court of Canada**
+
+(10) A person who, on the coming into force of section 1 of this Act, was authorized to act as a deputy judge of the Tax Court of Canada may act as a deputy judge of that Court if requested to do so by the Chief Justice of the Court.
+
+### — 2002, c. 8, ss. 185(13), (14)
+
+
+**Letters patent**
+
+(13) Letters patent under the Great Seal may be issued under the authority of the Governor in Council to each of the persons referred to in subsections (1) to (4), (8) and (9) evidencing the person’s office by virtue of this section.
+
+### — 2002, c. 8, ss. 185(13), (14)
+
+
+**Transfer of court employees**
+
+(14) Nothing in this Act shall be construed as affecting the status of an employee, as defined in subsection 2(1) of the *Public Service Employment Act*, who, immediately before the coming into force of section 1 of this Act, occupied a position in or was a member of the staff of the Federal Court of Canada or the Tax Court of Canada, except that the employee, on that coming into force, occupies that position in the Courts Administration Service under the authority of the Chief Administrator of that Service.
+
+### — 2022, c. 10, s. 372
+
+### 372 Prothonotaries
+
+For greater certainty, every person who, immediately before the day on which this section comes into force, holds office as prothonotary of the Federal Court, supernumerary prothonotary of the Federal Court, prothonotary of the Tax Court of Canada or supernumerary prothonotary of the Tax Court of Canada continues in office as associate judge of the Federal Court, supernumerary associate judge of the Federal Court, associate judge of the Tax Court of Canada or supernumerary associate judge of the Tax Court of Canada, as the case may be.
+
+### — 2022, c. 10, s. 374
+
+### 374 *Tax Court of Canada Act*
+
+Despite paragraph 22(1)(c) of the *Tax Court of Canada Act*, the rules committee referred to in that Act may exercise its powers and perform its duties without the designation, as a member of the rules committee, of a person appointed under section 11.1 of that Act until a person is first appointed under that section.

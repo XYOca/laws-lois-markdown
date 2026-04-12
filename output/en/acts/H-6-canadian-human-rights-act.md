@@ -1,0 +1,2113 @@
+---
+title: "Canadian Human Rights Act"
+long_title: "An Act to extend the laws in Canada that proscribe discrimination"
+chapter: "H-6"
+language: "en"
+type: "act"
+---
+
+# Canadian Human Rights Act
+
+> An Act to extend the laws in Canada that proscribe discrimination
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Canadian Human Rights Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 1
+
+</details>
+
+## Purpose of Act
+
+### 2 Purpose
+
+The purpose of this Act is to extend the laws in Canada to give effect, within the purview of matters coming within the legislative authority of Parliament, to the principle that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have and to have their needs accommodated, consistent with their duties and obligations as members of society, without being hindered in or prevented from doing so by discriminatory practices based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, gender identity or expression, marital status, family status, genetic characteristics, disability or conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 2; 1996, c. 14, s. 1; 1998, c. 9, s. 9; 2012, c. 1, s. 137(E); 2017, c. 3, ss. 9, 11, c. 13, s. 1
+
+</details>
+
+## Proscribed Discrimination
+
+### General
+
+### 3 Prohibited grounds of discrimination
+
+(1) For all purposes of this Act, the prohibited grounds of discrimination are race, national or ethnic origin, colour, religion, age, sex, sexual orientation, gender identity or expression, marital status, family status, genetic characteristics, disability and conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered.
+
+**Idem**
+
+(2) Where the ground of discrimination is pregnancy or child-birth, the discrimination shall be deemed to be on the ground of sex.
+
+**Idem**
+
+(3) Where the ground of discrimination is refusal of a request to undergo a genetic test or to disclose, or authorize the disclosure of, the results of a genetic test, the discrimination shall be deemed to be on the ground of genetic characteristics.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 3; 1996, c. 14, s. 2; 2012, c. 1, s. 138(E); 2017, c. 3, ss. 10, 11, c. 13, s. 2
+
+</details>
+
+### 3.1 Multiple grounds of discrimination
+
+For greater certainty, a discriminatory practice includes a practice based on one or more prohibited grounds of discrimination or on the effect of a combination of prohibited grounds.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1998, c. 9, s. 11
+
+</details>
+
+### 4 Orders regarding discriminatory practices
+
+A discriminatory practice, as described in sections 5 to 14.1, may be the subject of a complaint under Part III and anyone found to be engaging or to have engaged in a discriminatory practice may be made subject to an order as provided in section 53.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 4; 1998, c. 9, s. 11; 2013, c. 37, s. 1
+
+</details>
+
+### Discriminatory Practices
+
+### 5 Denial of good, service, facility or accommodation
+
+It is a discriminatory practice in the provision of goods, services, facilities or accommodation customarily available to the general public
+
+- (a) to deny, or to deny access to, any such good, service, facility or accommodation to any individual, or
+
+- (b) to differentiate adversely in relation to any individual,
+
+on a prohibited ground of discrimination.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 5
+
+</details>
+
+### 6 Denial of commercial premises or residential accommodation
+
+It is a discriminatory practice in the provision of commercial premises or residential accommodation
+
+- (a) to deny occupancy of such premises or accommodation to any individual, or
+
+- (b) to differentiate adversely in relation to any individual,
+
+on a prohibited ground of discrimination.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 6
+
+</details>
+
+### 7 Employment
+
+It is a discriminatory practice, directly or indirectly,
+
+- (a) to refuse to employ or continue to employ any individual, or
+
+- (b) in the course of employment, to differentiate adversely in relation to an employee,
+
+on a prohibited ground of discrimination.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 7; 1980-81-82-83, c. 143, s. 3(F)
+
+</details>
+
+### 8 Employment applications, advertisements
+
+It is a discriminatory practice
+
+- (a) to use or circulate any form of application for employment, or
+
+- (b) in connection with employment or prospective employment, to publish any advertisement or to make any written or oral inquiry
+
+that expresses or implies any limitation, specification or preference based on a prohibited ground of discrimination.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 8
+
+</details>
+
+### 9 Employee organizations
+
+(1) It is a discriminatory practice for an employee organization on a prohibited ground of discrimination
+
+- (a) to exclude an individual from full membership in the organization;
+
+- (b) to expel or suspend a member of the organization; or
+
+- (c) to limit, segregate, classify or otherwise act in relation to an individual in a way that would deprive the individual of employment opportunities, or limit employment opportunities or otherwise adversely affect the status of the individual, where the individual is a member of the organization or where any of the obligations of the organization pursuant to a collective agreement relate to the individual.
+
+(2) [Repealed, 2011, c. 24, s. 165]
+
+(3) [Repealed, 1998, c. 9, s. 12]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 9; 1998, c. 9, s. 12; 2011, c. 24, s. 165
+
+</details>
+
+### 10 Discriminatory policy or practice
+
+It is a discriminatory practice for an employer, employee organization or employer organization
+
+- (a) to establish or pursue a policy or practice, or
+
+- (b) to enter into an agreement affecting recruitment, referral, hiring, promotion, training, apprenticeship, transfer or any other matter relating to employment or prospective employment,
+
+that deprives or tends to deprive an individual or class of individuals of any employment opportunities on a prohibited ground of discrimination.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 10; 1998, c. 9, s. 13(E)
+
+</details>
+
+### 11 Equal wages
+
+(1) It is a discriminatory practice for an employer to establish or maintain differences in wages between male and female employees employed in the same establishment who are performing work of equal value.
+
+**Assessment of value of work**
+
+(2) In assessing the value of work performed by employees employed in the same establishment, the criterion to be applied is the composite of the skill, effort and responsibility required in the performance of the work and the conditions under which the work is performed.
+
+**Separate establishments**
+
+(3) Separate establishments established or maintained by an employer solely or principally for the purpose of establishing or maintaining differences in wages between male and female employees shall be deemed for the purposes of this section to be the same establishment.
+
+**Different wages based on prescribed reasonable factors**
+
+(4) Notwithstanding subsection (1), it is not a discriminatory practice to pay to male and female employees different wages if the difference is based on a factor prescribed by guidelines, issued by the Canadian Human Rights Commission pursuant to subsection 27(2), to be a reasonable factor that justifies the difference.
+
+**Idem**
+
+(5) For greater certainty, sex does not constitute a reasonable factor justifying a difference in wages.
+
+**No reduction of wages**
+
+(6) An employer shall not reduce wages in order to eliminate a discriminatory practice described in this section.
+
+**Definition of **wages****
+
+(7) For the purposes of this section, **wages** means any form of remuneration payable for work performed by an individual and includes
+
+- (a) salaries, commissions, vacation pay, dismissal wages and bonuses;
+
+- (b) reasonable value for board, rent, housing and lodging;
+
+- (c) payments in kind;
+
+- (d) employer contributions to pension funds or plans, long-term disability plans and all forms of health insurance plans; and
+
+- (e) any other advantage received directly or indirectly from the individual’s employer.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 11
+
+</details>
+
+### 12 Publication of discriminatory notices, etc.
+
+It is a discriminatory practice to publish or display before the public or to cause to be published or displayed before the public any notice, sign, symbol, emblem or other representation that
+
+- (a) expresses or implies discrimination or an intention to discriminate, or
+
+- (b) incites or is calculated to incite others to discriminate
+
+if the discrimination expressed or implied, intended to be expressed or implied or incited or calculated to be incited would otherwise, if engaged in, be a discriminatory practice described in any of sections 5 to 11 or in section 14.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 12; 1980-81-82-83, c. 143, s. 6
+
+</details>
+
+### 13
+
+[Repealed, 2013, c. 37, s. 2]
+
+### 14 Harassment
+
+(1) It is a discriminatory practice,
+
+- (a) in the provision of goods, services, facilities or accommodation customarily available to the general public,
+
+- (b) in the provision of commercial premises or residential accommodation, or
+
+- (c) in matters related to employment,
+
+to harass an individual on a prohibited ground of discrimination.
+
+**Sexual harassment**
+
+(2) Without limiting the generality of subsection (1), sexual harassment shall, for the purposes of that subsection, be deemed to be harassment on a prohibited ground of discrimination.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 143, s. 7
+
+</details>
+
+### 14.1 Retaliation
+
+It is a discriminatory practice for a person against whom a complaint has been filed under Part III, or any person acting on their behalf, to retaliate or threaten retaliation against the individual who filed the complaint or the alleged victim.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1998, c. 9, s. 14
+
+</details>
+
+### 15 Exceptions
+
+(1) It is not a discriminatory practice if
+
+- (a) any refusal, exclusion, expulsion, suspension, limitation, specification or preference in relation to any employment is established by an employer to be based on a bona fide occupational requirement;
+
+- (b) employment of an individual is refused or terminated because that individual has not reached the minimum age, or has reached the maximum age, that applies to that employment by law or under regulations, which may be made by the Governor in Council for the purposes of this paragraph;
+
+- (c) [Repealed, 2011, c. 24, s. 166]
+
+- (d) the terms and conditions of any pension fund or plan established by an employer, employee organization or employer organization provide for the compulsory vesting or locking-in of pension contributions at a fixed or determinable age in accordance with sections 17 and 18 of the *Pension Benefits Standards Act, 1985*;
+
+- (d.1) the terms of any pooled registered pension plan provide for variable payments or the transfer of funds only at a fixed age under sections 48 or 55, respectively, of the *Pooled Registered Pension Plans Act*;
+
+- (e) an individual is discriminated against on a prohibited ground of discrimination in a manner that is prescribed by guidelines, issued by the Canadian Human Rights Commission pursuant to subsection 27(2), to be reasonable;
+
+- (f) an employer, employee organization or employer organization grants a female employee special leave or benefits in connection with pregnancy or child-birth or grants employees special leave or benefits to assist them in the care of their children; or
+
+- (g) in the circumstances described in section 5 or 6, an individual is denied any goods, services, facilities or accommodation or access thereto or occupancy of any commercial premises or residential accommodation or is a victim of any adverse differentiation and there is bona fide justification for that denial or differentiation.
+
+**Accommodation of needs**
+
+(2) For any practice mentioned in paragraph (1)(a) to be considered to be based on a bona fide occupational requirement and for any practice mentioned in paragraph (1)(g) to be considered to have a bona fide justification, it must be established that accommodation of the needs of an individual or a class of individuals affected would impose undue hardship on the person who would have to accommodate those needs, considering health, safety and cost.
+
+**Regulations**
+
+(3) The Governor in Council may make regulations prescribing standards for assessing undue hardship.
+
+**Publication of proposed regulations**
+
+(4) Each regulation that the Governor in Council proposes to make under subsection (3) shall be published in the *Canada Gazette* and a reasonable opportunity shall be given to interested persons to make representations in respect of it.
+
+**Consultations**
+
+(5) The Canadian Human Rights Commission shall conduct public consultations concerning any regulation proposed to be made by the Governor in Council under subsection (3) and shall file a report of the results of the consultations with the Minister within a reasonable time after the publication of the proposed regulation in the *Canada Gazette*.
+
+**Exception**
+
+(6) A proposed regulation need not be published more than once, whether or not it has been amended as a result of any representations.
+
+**Making of regulations**
+
+(7) The Governor in Council may proceed to make regulations under subsection (3) after six months have elapsed since the publication of the proposed regulations in the *Canada Gazette*, whether or not a report described in subsection (5) is filed.
+
+**Application**
+
+(8) This section applies in respect of a practice regardless of whether it results in direct discrimination or adverse effect discrimination.
+
+**Universality of service for Canadian Forces**
+
+(9) Subsection (2) is subject to the principle of universality of service under which members of the Canadian Forces must at all times and under any circumstances perform any functions that they may be required to perform.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 15; R.S., 1985, c. 32 (2nd Supp.), s. 41; 1998, c. 9, ss. 10, 15; 2011, c. 24, s. 166; 2012, c. 16, s. 83
+
+</details>
+
+### 16 Special programs
+
+(1) It is not a discriminatory practice for a person to adopt or carry out a special program, plan or arrangement designed to prevent disadvantages that are likely to be suffered by, or to eliminate or reduce disadvantages that are suffered by, any group of individuals when those disadvantages would be based on or related to the prohibited grounds of discrimination, by improving opportunities respecting goods, services, facilities, accommodation or employment in relation to that group.
+
+**Advice and assistance**
+
+(2) The Canadian Human Rights Commission, may
+
+- (a) make general recommendations concerning desirable objectives for special programs, plans or arrangements referred to in subsection (1); and
+
+- (b) on application, give such advice and assistance with respect to the adoption or carrying out of a special program, plan or arrangement referred to in subsection (1) as will serve to aid in the achievement of the objectives the program, plan or arrangement was designed to achieve.
+
+**Collection of information relating to prohibited grounds**
+
+(3) It is not a discriminatory practice to collect information relating to a prohibited ground of discrimination if the information is intended to be used in adopting or carrying out a special program, plan or arrangement under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 16; 1998, c. 9, s. 16
+
+</details>
+
+### 17 Plans to meet the needs of disabled persons
+
+(1) A person who proposes to implement a plan for adapting any services, facilities, premises, equipment or operations to meet the needs of persons arising from a disability may apply to the Canadian Human Rights Commission for approval of the plan.
+
+**Approval of plan**
+
+(2) The Commission may, by written notice to a person making an application pursuant to subsection (1), approve the plan if the Commission is satisfied that the plan is appropriate for meeting the needs of persons arising from a disability.
+
+**Effect of approval of accommodation plan**
+
+(3) Where any services, facilities, premises, equipment or operations are adapted in accordance with a plan approved under subsection (2), matters for which the plan provides do not constitute any basis for a complaint under Part III regarding discrimination based on any disability in respect of which the plan was approved.
+
+**Notice when application not granted**
+
+(4) When the Commission decides not to grant an application made pursuant to subsection (1), it shall send a written notice of its decision to the applicant setting out the reasons for its decision.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 143, s. 9
+
+</details>
+
+### 18 Rescinding approval of plan
+
+(1) If the Canadian Human Rights Commission is satisfied that, by reason of any change in circumstances, a plan approved under subsection 17(2) has ceased to be appropriate for meeting the needs of persons arising from a disability, the Commission may, by written notice to the person who proposes to carry out or maintains the adaptation contemplated by the plan or any part thereof, rescind its approval of the plan to the extent required by the change in circumstances.
+
+**Effect where approval rescinded**
+
+(2) To the extent to which approval of a plan is rescinded under subsection (1), subsection 17(3) does not apply to the plan if the discriminatory practice to which the complaint relates is subsequent to the rescission of the approval.
+
+**Statement of reasons for rescinding approval**
+
+(3) Where the Commission rescinds approval of a plan pursuant to subsection (1), it shall include in the notice referred to therein a statement of its reasons therefor.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 143, s. 9
+
+</details>
+
+### 19 Opportunity to make representations
+
+(1) Before making its decision on an application or rescinding approval of a plan pursuant to section 17 or 18, the Canadian Human Rights Commission shall afford each person directly concerned with the matter an opportunity to make representations with respect thereto.
+
+**Restriction on deeming plan inappropriate**
+
+(2) For the purposes of sections 17 and 18, a plan shall not, by reason only that it does not conform to any standards prescribed pursuant to section 24, be deemed to be inappropriate for meeting the needs of persons arising from disability.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 143, s. 9
+
+</details>
+
+### 20 Certain provisions not discriminatory
+
+A provision of a pension or insurance fund or plan that preserves rights acquired before March 1, 1978 or that preserves pension or other benefits accrued before that day does not constitute the basis for a complaint under Part III that an employer, employee organization or employer organization is engaging or has engaged in a discriminatory practice.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 20; 1998, c. 9, s. 17
+
+</details>
+
+### 21 Funds and plans
+
+The establishment of separate pension funds or plans for different groups of employees does not constitute the basis for a complaint under Part III that an employer, employee organization or employer organization is engaging or has engaged in a discriminatory practice if the employees are not grouped in those funds or plans according to a prohibited ground of discrimination.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 21; 1998, c. 9, s. 17
+
+</details>
+
+### 22 Regulations
+
+The Governor in Council may, by regulation, prescribe the provisions of any pension or insurance fund or plan, in addition to the provisions described in sections 20 and 21, that do not constitute the basis for a complaint under Part III that an employer, employee organization or employer organization is engaging or has engaged in a discriminatory practice.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 22; 1998, c. 9, s. 17
+
+</details>
+
+### 23 Regulations
+
+The Governor in Council may make regulations respecting the terms and conditions to be included in or applicable to any contract, licence or grant made or granted by Her Majesty in right of Canada providing for
+
+- (a) the prohibition of discriminatory practices described in sections 5 to 14.1; and
+
+- (b) the resolution, by the procedure set out in Part III, of complaints of discriminatory practices contrary to such terms and conditions.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 23; 1998, c. 9, s. 18
+
+</details>
+
+### 24 Accessibility standards
+
+(1) The Governor in Council may, for the benefit of persons having any disability, make regulations prescribing standards of accessibility to services, facilities or premises.
+
+**Effect of meeting accessibility standards**
+
+(2) Where standards prescribed pursuant to subsection (1) are met in providing access to any services, facilities or premises, a matter of access thereto does not constitute any basis for a complaint under Part III regarding discrimination based on any disability in respect of which the standards are prescribed.
+
+**Publication of proposed regulations**
+
+(3) Subject to subsection (4), a copy of each regulation that the Governor in Council proposes to make pursuant to this section shall be published in the *Canada Gazette* and a reasonable opportunity shall be afforded to interested persons to make representations with respect thereto.
+
+**Exception**
+
+(4) Subsection (3) does not apply in respect of a proposed regulation that has been published pursuant to that subsection, whether or not it has been amended as a result of representations made pursuant to that subsection.
+
+**Discriminatory practice not constituted by variance from standards**
+
+(5) Nothing shall, by virtue only of its being at variance with any standards prescribed pursuant to subsection (1), be deemed to constitute a discriminatory practice.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 143, s. 11
+
+</details>
+
+### 25 Definitions
+
+In this Act,
+
+**conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered** means a conviction of an individual for an offence in respect of which a pardon has been granted under Her Majesty’s royal prerogative of mercy or under section 748 of the *Criminal Code* or a record suspension has been ordered under the *Criminal Records Act*, that has not been revoked or ceased to have effect; (**état de personne graciée**)
+
+**conviction for which a pardon has been granted**[Repealed, 2012, c. 1, s. 139]
+
+**disability** means any previous or existing mental or physical disability and includes disfigurement and previous or existing dependence on alcohol or a drug; (**déficience**)
+
+**employee organization** includes a trade union or other organization of employees or a local, the purposes of which include the negotiation of terms and conditions of employment on behalf of employees; (**organisation syndicale**)
+
+**employer organization** means an organization of employers the purposes of which include the regulation of relations between employers and employees; (**organisation patronale**)
+
+**employment** includes a contractual relationship with an individual for the provision of services personally by the individual; (**emploi**)
+
+**Tribunal** means the Canadian Human Rights Tribunal established by section 48.1. (**Tribunal**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 25; 1992, c. 22, s. 13; 1998, c. 9, s. 19; 2012, c. 1, s. 139
+
+</details>
+
+## Canadian Human Rights Commission
+
+### 26 Commission established
+
+(1) A commission is established to be known as the Canadian Human Rights Commission, in this Act referred to as the “Commission”, consisting of a Chief Commissioner, a Deputy Chief Commissioner, members referred to as the “Accessibility Commissioner” and the “Pay Equity Commissioner” and not less than three or more than six other members, to be appointed by the Governor in Council.
+
+**Members**
+
+(2) The Chief Commissioner, the Deputy Chief Commissioner, the Accessibility Commissioner and the Pay Equity Commissioner are full-time members of the Commission and the other members may be appointed as full-time or part-time members of the Commission.
+
+**Required qualifications — Pay Equity Commissioner**
+
+(2.1) The Governor in Council must take into consideration, in appointing the Pay Equity Commissioner, knowledge and experience in relation to pay equity matters.
+
+**Term of appointment**
+
+(3) Each full-time member of the Commission may be appointed for a term not exceeding seven years and each part-time member may be appointed for a term not exceeding three years.
+
+**Tenure**
+
+(4) Each member of the Commission holds office during good behaviour but may be removed by the Governor in Council on address of the Senate and House of Commons.
+
+**Re-appointment**
+
+(5) A member of the Commission is eligible to be re-appointed in the same or another capacity.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 26
+- 2018, c. 27, s. 419
+- 2018, c. 27, s. 439
+- 2019, c. 10, s. 148
+
+</details>
+
+### Powers, Duties and Functions
+
+### 27 Powers, duties and functions
+
+(1) In addition to its duties under Part III with respect to complaints regarding discriminatory practices, the Commission is generally responsible for the administration of this Part and Parts I and III and
+
+- (a) shall develop and conduct information programs to foster public understanding of this Act and of the role and activities of the Commission thereunder and to foster public recognition of the principle described in section 2;
+
+- (b) shall undertake or sponsor research programs relating to its duties and functions under this Act and respecting the principle described in section 2;
+
+- (c) shall maintain close liaison with similar bodies or authorities in the provinces in order to foster common policies and practices and to avoid conflicts respecting the handling of complaints in cases of overlapping jurisdiction;
+
+- (d) shall perform duties and functions to be performed by it pursuant to any agreement entered into under subsection 28(2);
+
+- (e) may consider such recommendations, suggestions and requests concerning human rights and freedoms as it receives from any source and, where deemed by the Commission to be appropriate, include in a report referred to in section 61 reference to and comment on any such recommendation, suggestion or request;
+
+- (f) shall carry out or cause to be carried out such studies concerning human rights and freedoms as may be referred to it by the Minister of Justice and include in a report referred to in section 61 a report setting out the results of each such study together with such recommendations in relation thereto as it considers appropriate;
+
+- (g) may review any regulations, rules, orders, by-laws and other instruments made pursuant to an Act of Parliament and, where deemed by the Commission to be appropriate, include in a report referred to in section 61 reference to and comment on any provision thereof that in its opinion is inconsistent with the principle described in section 2; and
+
+- (h) shall, so far as is practical and consistent with the application of Part III, try by persuasion, publicity or any other means that it considers appropriate to discourage and reduce discriminatory practices referred to in sections 5 to 14.1.
+
+**Guidelines**
+
+(2) The Commission may, on application or on its own initiative, by order, issue a guideline setting out the extent to which and the manner in which, in the opinion of the Commission, any provision of this Act applies in a class of cases described in the guideline.
+
+**Guideline binding**
+
+(3) A guideline issued under subsection (2) is, until it is revoked or modified, binding on the Commission and any member or panel assigned under subsection 49(2) with respect to the resolution of a complaint under Part III regarding a case falling within the description contained in the guideline.
+
+**Publication**
+
+(4) Each guideline issued under subsection (2) shall be published in Part II of the *Canada Gazette*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 27; 1998, c. 9, s. 20
+
+</details>
+
+### 28 Assignment of duties
+
+(1) On the recommendation of the Commission, the Governor in Council may, by order, assign to persons or classes of persons specified in the order who are engaged in the performance of the duties and functions of the Department of Employment and Social Development such of the duties and functions of the Commission in relation to discriminatory practices in employment outside the federal public administration as are specified in the order.
+
+**Interdelegation**
+
+(2) Subject to the approval of the Governor in Council, the Commission may enter into agreements with similar bodies or authorities in the provinces providing for the performance by the Commission on behalf of those bodies or authorities of duties or functions specified in the agreements or for the performance by those bodies or authorities on behalf of the Commission of duties or functions so specified.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 28; 1996, c. 11, s. 61; 2003, c. 22, s. 224(E); 2005, c. 34, s. 79; 2013, c. 40, s. 237
+
+</details>
+
+### 28.1 Convention on the Rights of Persons with Disabilities
+
+The Commission is, for the purposes of paragraph 2 of article 33 of the Convention on the Rights of Persons with Disabilities, adopted by the General Assembly of the United Nations on December 13, 2006, designated as a body responsible for monitoring the Government of Canada’s implementation of that Convention.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, c. 10, s. 149
+
+</details>
+
+### 29 Regulations
+
+The Governor in Council, on the recommendation of the Commission, may make regulations authorizing the Commission to exercise such powers and perform such duties and functions, in addition to those prescribed by this Act, as are necessary to carry out the provisions of this Part and Parts I and III.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 23
+
+</details>
+
+### Remuneration
+
+### 30 Salaries and remuneration
+
+(1) Each full-time member of the Commission shall be paid a salary to be fixed by the Governor in Council and each part-time member of the Commission may be paid such remuneration, as is prescribed by by-law of the Commission, for attendance at meetings of the Commission, or of any division or committee of the Commission, that the member is requested by the Chief Commissioner to attend.
+
+**Additional remuneration**
+
+(2) A part-time member of the Commission may, for any period during which that member, with the approval of the Chief Commissioner, performs any duties and functions additional to the normal duties and functions of that member on behalf of the Commission, be paid such additional remuneration as is prescribed by by-law of the Commission.
+
+**Travel expenses**
+
+(3) Each member of the Commission is entitled to be paid such travel and living expenses incurred by the member in the performance of duties and functions under this Act as are prescribed by by-law of the Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 24
+
+</details>
+
+### Officers and Staff
+
+### 31 Chief Commissioner
+
+(1) The Chief Commissioner is the chief executive officer of the Commission and has supervision over and direction of the Commission and its staff and shall preside at meetings of the Commission.
+
+**Absence or incapacity**
+
+(2) In the event of the absence or incapacity of the Chief Commissioner, or if that office is vacant, the Deputy Chief Commissioner has all the powers and may perform all the duties and functions of the Chief Commissioner.
+
+**Absence or incapacity of Chief and Deputy Chief**
+
+(3) In the event of the absence or incapacity of the Chief Commissioner and the Deputy Chief Commissioner, or if those offices are vacant, the full-time member, other than the Accessibility Commissioner, with the most seniority has all the powers and may perform all the duties and functions of the Chief Commissioner.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 31
+- 2019, c. 10, s. 150
+
+</details>
+
+### 32 Staff
+
+(1) Such officers and employees as are necessary for the proper conduct of the work of the Commission shall be appointed in accordance with the *Public Service Employment Act*.
+
+**Contractual assistance**
+
+(2) The Commission may, for specific projects, enter into contracts for the services of persons having technical or specialized knowledge of any matter relating to the work of the Commission to advise and assist the Commission in the exercise of its powers or the performance of its duties and functions under this Act, and those persons may be paid such remuneration and expenses as may be prescribed by by-law of the Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 26
+
+</details>
+
+### 32.1 Accessibility unit
+
+The officers and employees of the Commission that support the Accessibility Commissioner in the exercise of his or her powers and the performance of his or her duties and functions under the *Accessible Canada Act* may be referred to as the “Accessibility Unit”.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, c. 10, s. 151
+
+</details>
+
+### 32.2 Pay Equity Unit
+
+The officers and employees of the Commission that support the Pay Equity Commissioner in the exercise of his or her powers and the performance of his or her duties and functions under the *Pay Equity Act* may be referred to as the “Pay Equity Unit”.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2018, c. 27, s. 420
+- 2018, c. 27, s. 439
+
+</details>
+
+### 33 Compliance with security requirements
+
+(1) Every member of the Commission and every person employed by the Commission who is required to receive or obtain information relating to any investigation under this Act shall, with respect to access to and the use of such information, comply with any security requirements applicable to, and take any oath of secrecy required to be taken by, individuals who normally have access to and use of such information.
+
+**Disclosure**
+
+(2) Every member of the Commission and every person employed by the Commission shall take every reasonable precaution to avoid disclosing any matter the disclosure of which
+
+- (a) might be injurious to international relations, national defence or security or federal-provincial relations;
+
+- (b) would disclose a confidence of the Queen’s Privy Council for Canada;
+
+- (c) would be likely to disclose information obtained or prepared by any investigative body of the Government of Canada
+  - (i) in relation to national security,
+  - (ii) in the course of investigations pertaining to the detection or suppression of crime generally, or
+  - (iii) in the course of investigations pertaining to particular offences against any Act of Parliament;
+
+- (d) might, in respect of any individual under sentence for an offence against any Act of Parliament,
+  - (i) lead to a serious disruption of that individual’s institutional, parole or mandatory supervision program,
+  - (ii) reveal information originally obtained on a promise of confidentiality, express or implied, or
+  - (iii) result in physical or other harm to that individual or any other person;
+
+- (e) might impede the functioning of a court of law, or a quasi-judicial board, commission or other tribunal or any inquiry established under the *Inquiries Act*; or
+
+- (f) might disclose legal opinions or advice provided to a government department or body or privileged communications between lawyer and client in a matter of government business.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 27
+
+</details>
+
+### 34 Head office
+
+(1) The head office of the Commission shall be in the National Capital Region described in the schedule to the *National Capital Act*.
+
+**Other offices**
+
+(2) The Commission may establish such regional or branch offices, not exceeding twelve, as it considers necessary to carry out its powers, duties and functions under this Act.
+
+**Meetings**
+
+(3) The Commission may meet for the conduct of its affairs at such times and in such places as the Chief Commissioner considers necessary or desirable.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 28
+
+</details>
+
+### 35 Majority is a decision of the Commission
+
+A decision of the majority of the members present at a meeting of the Commission, if the members present constitute a quorum, is a decision of the Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 28
+
+</details>
+
+### 36 Establishment of divisions
+
+(1) Subject to section 36.1, for the purposes of the affairs of the Commission, the Chief Commissioner may establish divisions of the Commission and all or any of the powers, duties and functions of the Commission, except the making of by-laws, may, as directed by the Commission, be exercised or performed by all or any of those divisions.
+
+**Designation of presiding officer**
+
+(2) Where a division of the Commission has been established pursuant to subsection (1), the Chief Commissioner may designate one of the members of the division to act as the presiding officer of the division.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 36
+- 2018, c. 27, s. 421
+
+</details>
+
+### 36.1 Pay Equity Division
+
+(1) On receipt of a complaint under section 40 alleging a discriminatory practice under section 11, the Chief Commissioner must establish, for the purposes of Part III, a Pay Equity Division of the Commission of which the Pay Equity Commissioner is the presiding officer.
+
+**Complaints — section 11**
+
+(2) A Pay Equity Division established under subsection (1) must exercise the powers and perform the duties and functions of the Commission under Part III with respect to the complaint in question.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2018, c. 27, s. 422
+
+</details>
+
+### 37 By-laws
+
+(1) The Commission may make by-laws for the conduct of its affairs and, without limiting the generality of the foregoing, may make by-laws
+
+- (a) respecting the calling of meetings of the Commission or any division thereof and the fixing of quorums for the purposes of those meetings;
+
+- (b) respecting the conduct of business at meetings of the Commission or any division thereof;
+
+- (c) respecting the establishment of committees of the Commission, the delegation of powers, duties and functions to those committees and the fixing of quorums for meetings thereof;
+
+- (d) respecting the procedure to be followed in dealing with complaints under Part III that have arisen in Yukon, the Northwest Territories or Nunavut;
+
+- (e) prescribing the rates of remuneration to be paid to part-time members of the Commission and any person engaged under subsection 32(2); and
+
+- (f) prescribing reasonable rates of travel and living expenses to be paid to members of the Commission and any person engaged under subsection 32(2).
+
+**Treasury Board approval**
+
+(2) No by-law made under paragraph (1)(e) or (f) has effect unless it is approved by the Treasury Board.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 37; 1993, c. 28, s. 78; 1998, c. 9, s. 21; 2002, c. 7, s. 126
+
+</details>
+
+### 38 Superannuation, etc.
+
+The full-time members of the Commission are deemed to be persons employed in the public service for the purposes of the *Public Service Superannuation Act* and to be employed in the federal public administration for the purposes of the *Government Employees Compensation Act* and any regulations made under section 9 of the *Aeronautics Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 38; 2003, c. 22, s. 137(E)
+
+</details>
+
+### Accessibility Commissioner
+
+### 38.1 Powers, duties and functions
+
+In addition to being a member of the Commission, the Accessibility Commissioner has the powers, duties and functions assigned to him or her by the *Accessible Canada Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, c. 10, s. 152
+
+</details>
+
+### 38.2 Absence or incapacity of Accessibility Commissioner
+
+In the event of the absence or incapacity of the Accessibility Commissioner, or if the office of Accessibility Commissioner is vacant, the Chief Commissioner may authorize any member of the Commission, other than himself or herself, to exercise the powers and perform the duties and functions of the Accessibility Commissioner, but no member may be so authorized for a term of more than 90 days without the Governor in Council’s approval.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, c. 10, s. 152
+
+</details>
+
+### Pay Equity Commissioner
+
+### 38.3 Powers, duties and functions
+
+In addition to being a member of the Commission, the Pay Equity Commissioner must exercise the powers and perform the duties and functions assigned to him or her by the *Pay Equity Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2018, c. 27, s. 423
+- 2018, c. 27, s. 439
+
+</details>
+
+### 38.4 Absence or incapacity of Pay Equity Commissioner
+
+(1) In the event of the absence or incapacity of the Pay Equity Commissioner, or if the office of Pay Equity Commissioner is vacant, the Chief Commissioner may authorize any member of the Commission, other than himself or herself, to exercise the powers and perform the duties and functions of the Pay Equity Commissioner, but no member may be so authorized for a term of more than 90 days without the Governor in Council’s approval.
+
+**Required qualifications — acting Pay Equity Commissioner**
+
+(2) The Chief Commissioner must take into consideration, in appointing the acting Pay Equity Commissioner, knowledge and experience in relation to pay equity matters.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2018, c. 27, s. 423
+- 2018, c. 27, s. 439
+
+</details>
+
+## Discriminatory Practices and General Provisions
+
+### 39 Definition of **discriminatory practice**
+
+For the purposes of this Part, a **discriminatory practice** means any practice that is a discriminatory practice within the meaning of sections 5 to 14.1.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 39; 1998, c. 9, s. 22
+
+</details>
+
+### 40 Complaints
+
+(1) Subject to subsections (5) and (7), any individual or group of individuals having reasonable grounds for believing that a person is engaging or has engaged in a discriminatory practice may file with the Commission a complaint in a form acceptable to the Commission.
+
+**Consent of victim**
+
+(2) If a complaint is made by someone other than the individual who is alleged to be the victim of the discriminatory practice to which the complaint relates, the Commission may refuse to deal with the complaint unless the alleged victim consents thereto.
+
+**Investigation commenced by Commission**
+
+(3) Where the Commission has reasonable grounds for believing that a person is engaging or has engaged in a discriminatory practice, the Commission may initiate a complaint.
+
+**Limitation**
+
+(3.1) No complaint may be initiated under subsection (3) as a result of information obtained by the Commission in the course of the administration of the *Employment Equity Act*.
+
+**Complaints may be dealt with together**
+
+(4) If complaints are filed jointly or separately by more than one individual or group alleging that a particular person is engaging or has engaged in a discriminatory practice or a series of similar discriminatory practices and the Commission is satisfied that the complaints involve substantially the same issues of fact and law, it may deal with the complaints together under this Part and may request the Chairperson of the Tribunal to institute a single inquiry into the complaints under section 49.
+
+**Multiple allegations**
+
+(4.1) If a complaint alleging a discriminatory practice under section 11 also includes allegations to which section 11 does not apply, the Pay Equity Division may
+
+- (a) exercise the powers and perform the duties and functions of the Commission under this Part with respect to the complaint as filed; or
+
+- (b) at any stage after the filing of the complaint, sever the complaint and refer to the Commission some or all of the allegations that do not allege a discriminatory practice under section 11.
+
+**New complaint**
+
+(4.2) If the Pay Equity Division refers allegations severed from a complaint to the Commission under paragraph (4.1)(b), the Commission is deemed to have received a new complaint for the purposes of section 40.
+
+**No complaints to be considered in certain cases**
+
+(5) No complaint in relation to a discriminatory practice may be dealt with by the Commission under this Part unless the act or omission that constitutes the practice
+
+- (a) occurred in Canada and the victim of the practice was at the time of the act or omission either lawfully present in Canada or, if temporarily absent from Canada, entitled to return to Canada;
+
+- (b) occurred in Canada and was a discriminatory practice within the meaning of section 5, 8, 10 or 12 in respect of which no particular individual is identifiable as the victim;
+
+- (c) occurred outside Canada and the victim of the practice was at the time of the act or omission a Canadian citizen or an individual lawfully admitted to Canada for permanent residence.
+
+**Determination of status**
+
+(6) Where a question arises under subsection (5) as to the status of an individual in relation to a complaint, the Commission shall refer the question of status to the appropriate Minister and shall not proceed with the complaint unless the question of status is resolved thereby in favour of the complainant.
+
+**No complaints to be dealt with in certain cases**
+
+(7) No complaint may be dealt with by the Commission pursuant to subsection (1) that relates to the terms and conditions of a superannuation or pension fund or plan, if the relief sought would require action to be taken that would deprive any contributor to, participant in or member of, the fund or plan of any rights acquired under the fund or plan before March 1, 1978 or of any pension or other benefits accrued under the fund or plan to that date, including
+
+- (a) any rights and benefits based on a particular age of retirement; and
+
+- (b) any accrued survivor’s benefits.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 40; R.S., 1985, c. 31 (1st Supp.), s. 62; 1995, c. 44, s. 47; 1998, c. 9, s. 23; 2013, c. 37, s. 3
+- 2018, c. 27, s. 424
+
+</details>
+
+### 40.01 Disclosure of personal information
+
+For the purpose of the administration of the *Accessible Canada Act*, an officer or employee of the Commission may disclose to the Accessibility Commissioner any personal information that is contained in a complaint filed with the Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2019, c. 10, s. 153
+
+</details>
+
+### 40.1 Definitions
+
+(1) In this section,
+
+**designated groups** has the meaning assigned in section 3 of the *Employment Equity Act*; (**groupes désignés**)
+
+**employer** means a person who or organization that discharges the obligations of an employer under the *Employment Equity Act*. (**employeur**)
+
+**Employment equity complaints**
+
+(2) No complaint may be dealt with by the Commission pursuant to section 40 where
+
+- (a) the complaint is made against an employer alleging that the employer has engaged in a discriminatory practice set out in section 7 or paragraph 10(a); and
+
+- (b) the complaint is based solely on statistical information that purports to show that members of one or more designated groups are underrepresented in the employer’s workforce.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, c. 44, s. 48
+
+</details>
+
+### 40.2 Non-application of sections 7, 10 and 11
+
+(1) The Commission does not have jurisdiction to deal with complaints made by an **employee**, as defined in subsection 3(1) of the *Pay Equity Act*, against an employer that is subject to that Act, alleging that
+
+- (a) the employer has engaged in a discriminatory practice referred to in section 7 or 10, if the complaint is in respect of the employer establishing or maintaining differences in wages between male and female employees who are performing work of equal value; or
+
+- (b) the employer has engaged in a discriminatory practice referred to in section 11.
+
+**Parliamentary employees**
+
+(2) The Commission does not have jurisdiction to deal with complaints made by an **employee**, within the meaning of section 86.1 of the *Parliamentary Employment and Staff Relations Act*, against an **employer**, within the meaning of that same section, alleging that the employer has engaged in a discriminatory practice referred to in subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2018, c. 27, s. 425
+
+</details>
+
+### 41 Commission to deal with complaint
+
+(1) Subject to section 40, the Commission shall deal with any complaint filed with it unless in respect of that complaint it appears to the Commission that
+
+- (a) the alleged victim of the discriminatory practice to which the complaint relates ought to exhaust grievance or review procedures otherwise reasonably available;
+
+- (b) the complaint is one that could more appropriately be dealt with, initially or completely, according to a procedure provided for under an Act of Parliament other than this Act;
+
+- (c) the complaint is beyond the jurisdiction of the Commission;
+
+- (d) the complaint is trivial, frivolous, vexatious or made in bad faith; or
+
+- (e) the complaint is based on acts or omissions the last of which occurred more than one year, or such longer period of time as the Commission considers appropriate in the circumstances, before receipt of the complaint.
+
+**Commission may decline to deal with complaint**
+
+(2) The Commission may decline to deal with a complaint referred to in paragraph 10(a) in respect of an employer where it is of the opinion that the matter has been adequately dealt with in the employer’s employment equity plan prepared pursuant to section 10 of the *Employment Equity Act*.
+
+**Meaning of **employer****
+
+(3) In this section, **employer** means a person who or organization that discharges the obligations of an employer under the *Employment Equity Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 41; 1994, c. 26, s. 34(F); 1995, c. 44, s. 49
+
+</details>
+
+### 42 Notice
+
+(1) Subject to subsection (2), when the Commission decides not to deal with a complaint, it shall send a written notice of its decision to the complainant setting out the reason for its decision.
+
+**Attributing fault for delay**
+
+(2) Before deciding that a complaint will not be dealt with because a procedure referred to in paragraph 41(a) has not been exhausted, the Commission shall satisfy itself that the failure to exhaust the procedure was attributable to the complainant and not to another.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 34
+
+</details>
+
+### Investigation
+
+### 43 Designation of investigator
+
+(1) The Commission may designate a person, in this Part referred to as an “investigator”, to investigate a complaint.
+
+**Manner of investigation**
+
+(2) An investigator shall investigate a complaint in a manner authorized by regulations made pursuant to subsection (4).
+
+**Power to enter**
+
+(2.1) Subject to such limitations as the Governor in Council may prescribe in the interests of national defence or security, an investigator with a warrant issued under subsection (2.2) may, at any reasonable time, enter and search any premises in order to carry out such inquiries as are reasonably necessary for the investigation of a complaint.
+
+**Authority to issue warrant**
+
+(2.2) Where on ex parte application a judge of the Federal Court is satisfied by information on oath that there are reasonable grounds to believe that there is in any premises any evidence relevant to the investigation of a complaint, the judge may issue a warrant under the judge’s hand authorizing the investigator named therein to enter and search those premises for any such evidence subject to such conditions as may be specified in the warrant.
+
+**Use of force**
+
+(2.3) In executing a warrant issued under subsection (2.2), the investigator named therein shall not use force unless the investigator is accompanied by a peace officer and the use of force has been specifically authorized in the warrant.
+
+**Production of books**
+
+(2.4) An investigator may require any individual found in any premises entered pursuant to this section to produce for inspection or for the purpose of obtaining copies thereof or extracts therefrom any books or other documents containing any matter relevant to the investigation being conducted by the investigator.
+
+**Obstruction**
+
+(3) No person shall obstruct an investigator in the investigation of a complaint.
+
+**Regulations**
+
+(4) The Governor in Council may make regulations
+
+- (a) prescribing procedures to be followed by investigators;
+
+- (b) authorizing the manner in which complaints are to be investigated pursuant to this Part; and
+
+- (c) prescribing limitations for the purpose of subsection (2.1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 43; R.S., 1985, c. 31 (1st Supp.), s. 63
+
+</details>
+
+### 44 Report
+
+(1) An investigator shall, as soon as possible after the conclusion of an investigation, submit to the Commission a report of the findings of the investigation.
+
+**Action on receipt of report**
+
+(2) If, on receipt of a report referred to in subsection (1), the Commission is satisfied
+
+- (a) that the complainant ought to exhaust grievance or review procedures otherwise reasonably available, or
+
+- (b) that the complaint could more appropriately be dealt with, initially or completely, by means of a procedure provided for under an Act of Parliament other than this Act,
+
+it shall refer the complainant to the appropriate authority.
+
+**Idem**
+
+(3) On receipt of a report referred to in subsection (1), the Commission
+
+- (a) may request the Chairperson of the Tribunal to institute an inquiry under section 49 into the complaint to which the report relates if the Commission is satisfied
+  - (i) that, having regard to all the circumstances of the complaint, an inquiry into the complaint is warranted, and
+  - (ii) that the complaint to which the report relates should not be referred pursuant to subsection (2) or dismissed on any ground mentioned in paragraphs 41(c) to (e); or
+
+- (b) shall dismiss the complaint to which the report relates if it is satisfied
+  - (i) that, having regard to all the circumstances of the complaint, an inquiry into the complaint is not warranted, or
+  - (ii) that the complaint should be dismissed on any ground mentioned in paragraphs 41(c) to (e).
+
+**Notice**
+
+(4) After receipt of a report referred to in subsection (1), the Commission
+
+- (a) shall notify in writing the complainant and the person against whom the complaint was made of its action under subsection (2) or (3); and
+
+- (b) may, in such manner as it sees fit, notify any other person whom it considers necessary to notify of its action under subsection (2) or (3).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 44; R.S., 1985, c. 31 (1st Supp.), s. 64; 1998, c. 9, s. 24
+
+</details>
+
+### 45 Definition of **Review Agency**
+
+(1) In this section and section 46, **Review Agency** means the National Security and Intelligence Review Agency.
+
+**Complaint involving security considerations**
+
+(2) When, at any stage after the filing of a complaint and before the commencement of a hearing before a member or panel in respect of the complaint, the Commission receives written notice from a minister of the Crown that the practice to which the complaint relates was based on considerations relating to the security of Canada, the Commission may
+
+- (a) dismiss the complaint; or
+
+- (b) refer the matter to the Review Agency.
+
+**Notice**
+
+(3) After receipt of a notice mentioned in subsection (2), the Commission
+
+- (a) shall notify in writing the complainant and the person against whom the complaint was made of its action under paragraph (2)(a) or (b); and
+
+- (b) may, in such manner as it sees fit, notify any other person whom it considers necessary to notify of its action under paragraph 2(a) or (b).
+
+**Stay of procedures**
+
+(4) Where the Commission has referred the matter to the Review Agency pursuant to paragraph (2)(b), it shall not deal with the complaint until the Review Agency has, pursuant to subsection 46(1), provided it with a report in relation to the matter.
+
+***National Security and Intelligence Review Agency Act***
+
+(5) If a matter is referred to the Review Agency under paragraph (2)(b), sections 10 to 12, 20, 24 to 28 and 30 of the *National Security and Intelligence Review Agency Act* apply, with any necessary modifications, to the matter as if the referral were a complaint made under subsection 18(3) of that Act, except that a reference in any of those provisions to “deputy head” is to be read as a reference to the minister referred to in subsection (2).
+
+**Statement to be sent to person affected**
+
+(6) The Review Agency shall, as soon as practicable after a matter in relation to a complaint is referred to it pursuant to paragraph (2)(b), send to the complainant a statement summarizing such information available to it as will enable the complainant to be as fully informed as possible of the circumstances giving rise to the referral.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 45; 1998, c. 9, s. 25
+- 2019, c. 13, s. 33
+
+</details>
+
+### 46 Report
+
+(1) On completion of its investigation under section 45, the Review Agency shall, not later than 90 days after the matter is referred to it under paragraph 45(2)(b), provide the Commission, the minister referred to in subsection 45(2), the Director of the Canadian Security Intelligence Service and the complainant with a report containing the Agency’s findings. On request of the Agency, the Commission may extend the time for providing a report.
+
+**Action on receipt of report**
+
+(2) After considering a report provided pursuant to subsection (1), the Commission
+
+- (a) may dismiss the complaint or, where it does not do so, shall proceed to deal with the complaint pursuant to this Part; and
+
+- (b) shall notify, in writing, the complainant and the person against whom the complaint was made of its action under paragraph (a) and may, in such manner as it sees fit, notify any other person whom it considers necessary to notify of that action.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1984, c. 21, s. 73
+- 2019, c. 13, s. 34
+
+</details>
+
+### Conciliator
+
+### 47 Appointment of conciliator
+
+(1) Subject to subsection (2), the Commission may, on the filing of a complaint, or if the complaint has not been
+
+- (a) settled in the course of investigation by an investigator,
+
+- (b) referred or dismissed under subsection 44(2) or (3) or paragraph 45(2)(a) or 46(2)(a), or
+
+- (c) settled after receipt by the parties of the notice referred to in subsection 44(4),
+
+appoint a person, in this Part referred to as a “conciliator”, for the purpose of attempting to bring about a settlement of the complaint.
+
+**Eligibility**
+
+(2) A person is not eligible to act as a conciliator in respect of a complaint if that person has already acted as an investigator in respect of that complaint.
+
+**Confidentiality**
+
+(3) Any information received by a conciliator in the course of attempting to reach a settlement of a complaint is confidential and may not be disclosed except with the consent of the person who gave the information.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 37; 1980-81-82-83, c. 143, s. 17(F); 1984, c. 21, s. 74
+
+</details>
+
+### Settlement
+
+### 48 Referral of a settlement to Commission
+
+(1) When, at any stage after the filing of a complaint and before the commencement of a hearing before a Human Rights Tribunal in respect thereof, a settlement is agreed on by the parties, the terms of the settlement shall be referred to the Commission for approval or rejection.
+
+**Certificate**
+
+(2) If the Commission approves or rejects the terms of a settlement referred to in subsection (1), it shall so certify and notify the parties.
+
+**Enforcement of settlement**
+
+(3) A settlement approved under this section may, for the purpose of enforcement, be made an order of the Federal Court on application to that Court by the Commission or a party to the settlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 48; 1998, c. 9, s. 26
+
+</details>
+
+### Canadian Human Rights Tribunal
+
+### 48.1 Establishment of Tribunal
+
+(1) There is hereby established a tribunal to be known as the Canadian Human Rights Tribunal consisting, subject to subsection (6), of a maximum of 18 members, including a Chairperson and a Vice-chairperson, as may be appointed by the Governor in Council.
+
+**Qualifications for appointment of members**
+
+(2) Persons appointed as members of the Tribunal must have experience, expertise and interest in, and sensitivity to, human rights.
+
+**Legal qualifications**
+
+(3) The Chairperson and Vice-chairperson must be members in good standing of the bar of a province or the Chambre des notaires du Québec for at least ten years and at least two of the other members of the Tribunal must be members in good standing of the bar of a province or the Chambre des notaires du Québec.
+
+**Regional representation**
+
+(4) Appointments are to be made having regard to the need for regional representation in the membership of the Tribunal.
+
+**Knowledge and experience — pay equity**
+
+(4.1) Appointments must be made having regard to the need for adequate knowledge and experience in pay equity matters among the members of the Tribunal.
+
+**Appointment of temporary members — incapacity**
+
+(5) If a member is absent or incapacitated, the Governor in Council may, despite subsection (1), appoint a temporary substitute member to act during the absence or incapacity.
+
+**Appointment of temporary members — workload**
+
+(6) The Governor in Council may appoint temporary members to the Tribunal for a term of not more than three years whenever, in the opinion of the Governor in Council, the workload of the Tribunal so requires.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 31 (1st Supp.), s. 65; 1998, c. 9, s. 27
+- 2018, c. 27, s. 426
+
+</details>
+
+### 48.2 Terms of office
+
+(1) The Chairperson and Vice-chairperson are to be appointed to hold office during good behaviour for terms of not more than seven years, and the other members are to be appointed to hold office during good behaviour for terms of not more than five years, but the Chairperson may be removed from office by the Governor in Council for cause and the Vice-chairperson and the other members may be subject to remedial or disciplinary measures in accordance with section 48.3.
+
+**Acting after expiration of appointment**
+
+(2) A member whose appointment expires may, with the approval of the Chairperson, conclude any inquiry that the member has begun, and a person performing duties under this subsection is deemed to be a part-time member for the purposes of sections 48.3, 48.6, 50 and 52 to 58.
+
+**Reappointment**
+
+(3) The Chairperson, Vice-chairperson or any other member whose term has expired is eligible for reappointment in the same or any other capacity.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 31 (1st Supp.), s. 65; 1998, c. 9, s. 27
+
+</details>
+
+### 48.3 Remedial and disciplinary measures
+
+(1) The Chairperson of the Tribunal may request the Minister of Justice to decide whether a member should be subject to remedial or disciplinary measures for any reason set out in paragraphs (13)(a) to (d).
+
+**Measures**
+
+(2) On receipt of the request, the Minister may take one or more of the following measures:
+
+- (a) obtain, in an informal and expeditious manner, any information that the Minister considers necessary;
+
+- (b) refer the matter for mediation, if the Minister is satisfied that the issues in relation to the request may be appropriately resolved by mediation;
+
+- (c) request of the Governor in Council that an inquiry be held under subsection (3); or
+
+- (d) advise the Chairperson that the Minister considers that it is not necessary to take further measures under this Act.
+
+**Appointment of inquirer**
+
+(3) On receipt of a request referred to in paragraph (2)(c), the Governor in Council may, on the recommendation of the Minister, appoint a judge of a superior court to conduct the inquiry.
+
+**Powers**
+
+(4) The judge has all the powers, rights and privileges that are vested in a superior court, including the power to
+
+- (a) issue a summons requiring any person to appear at the time and place specified in the summons in order to testify about all matters within the person’s knowledge relative to the inquiry and to produce any document or thing relative to the inquiry that the person has or controls; and
+
+- (b) administer oaths and examine any person on oath.
+
+**Staff**
+
+(5) The judge may engage the services of counsel and other persons having technical or specialized knowledge to assist the judge in conducting the inquiry, and may establish the terms and conditions of their engagement and, with the approval of the Treasury Board, fix and pay their remuneration and expenses.
+
+**Inquiry in public**
+
+(6) Subject to subsections (7) and (8), an inquiry shall be conducted in public.
+
+**Confidentiality of inquiry**
+
+(7) The judge may, on application, take any appropriate measures and make any order that the judge considers necessary to ensure the confidentiality of the inquiry if, after having considered all available alternative measures, the judge is satisfied that
+
+- (a) there is a real and substantial risk that matters involving public security will be disclosed;
+
+- (b) there is a real and substantial risk to the fairness of the inquiry such that the need to prevent disclosure outweighs the societal interest that the inquiry be conducted in public; or
+
+- (c) there is a serious possibility that the life, liberty or security of a person will be endangered.
+
+**Confidentiality of application**
+
+(8) If the judge considers it appropriate, the judge may take any measures and make any order that the judge considers necessary to ensure the confidentiality of a hearing held in respect of an application under subsection (7).
+
+**Rules of evidence**
+
+(9) In conducting an inquiry, the judge is not bound by any legal or technical rules of evidence and may receive, and base a decision on, evidence presented in the proceedings that the judge considers credible or trustworthy in the circumstances of the case.
+
+**Intervenors**
+
+(10) An interested party may, with leave of the judge, intervene in an inquiry on any terms and conditions that the judge considers appropriate.
+
+**Right to be heard**
+
+(11) The member who is the subject of the inquiry shall be given reasonable notice of the subject-matter of the inquiry and of the time and place of any hearing and shall be given an opportunity, in person or by counsel, to be heard at the hearing, to cross-examine witnesses and to present evidence.
+
+**Report to Minister**
+
+(12) After an inquiry has been completed, the judge shall submit a report containing the judge’s findings and recommendations, if any, to the Minister.
+
+**Recommendations**
+
+(13) The judge may, in the report, recommend that the member be suspended without pay or removed from office or that any other disciplinary measure or any remedial measure be taken if, in the judge’s opinion, the member
+
+- (a) has become incapacitated from the proper execution of that office by reason of infirmity;
+
+- (b) has been guilty of misconduct;
+
+- (c) has failed in the proper execution of that office; or
+
+- (d) has been placed, by conduct or otherwise, in a position that is incompatible with the due execution of that office.
+
+**Transmission of report to Governor in Council**
+
+(14) When the Minister receives the report, the Minister shall send it to the Governor in Council who may, if the Governor in Council considers it appropriate, suspend the member without pay, remove the member from office or impose any other disciplinary measure or any remedial measure.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 31 (1st Supp.), s. 65; 1998, c. 9, s. 27
+
+</details>
+
+### 48.4 Status of members
+
+(1) The Chairperson and Vice-chairperson are to be appointed as full-time members of the Tribunal, and the other members are to be appointed as either full-time or part-time members.
+
+**Functions of Chairperson**
+
+(2) The Chairperson has supervision over and direction of the work of the Tribunal, including the allocation of work among the members and the management of the Tribunal’s internal affairs.
+
+**Functions of Vice-chairperson**
+
+(3) The Vice-chairperson shall assist the Chairperson and shall perform the functions of the Chairperson if the Chairperson is absent or unable to act or the office of Chairperson is vacant.
+
+**Acting Chairperson**
+
+(4) The Governor in Council may authorize a member of the Tribunal to perform the functions of the Chairperson on a temporary basis if the Chairperson and Vice-chairperson are absent or unable to act or if both of those offices are vacant.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 31 (1st Supp.), s. 65; 1998, c. 9, s. 27; 2014, c. 20, s. 414
+
+</details>
+
+### 48.5 Residence
+
+The full-time members of the Tribunal shall reside in the National Capital Region, as described in the schedule to the *National Capital Act*, or within forty kilometres of that Region.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. 31 (1st Supp.), s. 65; 1998, c. 9, s. 27
+
+</details>
+
+### 48.6 Remuneration
+
+(1) The members of the Tribunal shall be paid such remuneration as may be fixed by the Governor in Council.
+
+**Travel expenses**
+
+(2) Members are entitled to be paid travel and living expenses incurred in carrying out duties as members of the Tribunal while absent from their place of residence, but the expenses must not exceed the maximum limits authorized by the Treasury Board directives for employees of the Government of Canada.
+
+**Deemed employment in federal public administration**
+
+(3) Members are deemed to be employed in the federal public administration for the purposes of the *Government Employees Compensation Act* and any regulations made under section 9 of the *Aeronautics Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1998, c. 9, s. 27; 2003, c. 22, s. 224(E)
+
+</details>
+
+### 48.7 Head office
+
+The head office of the Tribunal shall be in the National Capital Region, as described in the schedule to the *National Capital Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1998, c. 9, s. 27
+
+</details>
+
+### 48.8
+
+[Repealed, 2014, c. 20, s. 415]
+
+### 48.9 Conduct of proceedings
+
+(1) Proceedings before the Tribunal shall be conducted as informally and expeditiously as the requirements of natural justice and the rules of procedure allow.
+
+**Tribunal rules of procedure**
+
+(2) The Chairperson may make rules of procedure governing the practice and procedure before the Tribunal, including, but not limited to, rules governing
+
+- (a) the giving of notices to parties;
+
+- (b) the addition of parties and interested persons to the proceedings;
+
+- (c) the summoning of witnesses;
+
+- (d) the production and service of documents;
+
+- (e) discovery proceedings;
+
+- (f) pre-hearing conferences;
+
+- (g) the introduction of evidence;
+
+- (h) time limits within which hearings must be held and decisions must be made; and
+
+- (i) awards of interest.
+
+**Publication of proposed rules**
+
+(3) Subject to subsection (4), a copy of each rule that the Tribunal proposes to make shall be published in the *Canada Gazette* and a reasonable opportunity shall be given to interested persons to make representations with respect to it.
+
+**Exception**
+
+(4) A proposed rule need not be published more than once, whether or not it has been amended as a result of any representations.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1998, c. 9, s. 27
+
+</details>
+
+### Inquiries into Complaints
+
+### 49 Request for inquiry
+
+(1) At any stage after the filing of a complaint, the Commission may request the Chairperson of the Tribunal to institute an inquiry into the complaint if the Commission is satisfied that, having regard to all the circumstances of the complaint, an inquiry is warranted.
+
+**Chairperson to institute inquiry**
+
+(2) On receipt of a request, the Chairperson shall institute an inquiry by assigning a member of the Tribunal to inquire into the complaint, but the Chairperson may assign a panel of three members if he or she considers that the complexity of the complaint requires the inquiry to be conducted by three members.
+
+**Chair of panel**
+
+(3) If a panel of three members has been assigned to inquire into the complaint, the Chairperson shall designate one of them to chair the inquiry, but the Chairperson shall chair the inquiry if he or she is a member of the panel.
+
+**Copy of rules to parties**
+
+(4) The Chairperson shall make a copy of the rules of procedure available to each party to the complaint.
+
+**Qualification of member**
+
+(5) If the complaint involves a question about whether another Act or a regulation made under another Act is inconsistent with this Act or a regulation made under it, the member assigned to inquire into the complaint or, if three members have been assigned, the member chairing the inquiry, must be a member of the bar of a province or the Chambre des notaires du Québec.
+
+**Question raised subsequently**
+
+(6) If a question as described in subsection (5) arises after a member or panel has been assigned and the requirements of that subsection are not met, the inquiry shall nevertheless proceed with the member or panel as designated.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 49; R.S., 1985, c. 31 (1st Supp.), s. 66; 1998, c. 9, s. 27
+
+</details>
+
+### 50 Conduct of inquiry
+
+(1) After due notice to the Commission, the complainant, the person against whom the complaint was made and, at the discretion of the member or panel conducting the inquiry, any other interested party, the member or panel shall inquire into the complaint and shall give all parties to whom notice has been given a full and ample opportunity, in person or through counsel, to appear at the inquiry, present evidence and make representations.
+
+**Power to determine questions of law or fact**
+
+(2) In the course of hearing and determining any matter under inquiry, the member or panel may decide all questions of law or fact necessary to determining the matter.
+
+**Additional powers**
+
+(3) In relation to a hearing of the inquiry, the member or panel may
+
+- (a) in the same manner and to the same extent as a superior court of record, summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath and to produce any documents and things that the member or panel considers necessary for the full hearing and consideration of the complaint;
+
+- (b) administer oaths;
+
+- (c) subject to subsections (4) and (5), receive and accept any evidence and other information, whether on oath or by affidavit or otherwise, that the member or panel sees fit, whether or not that evidence or information is or would be admissible in a court of law;
+
+- (d) lengthen or shorten any time limit established by the rules of procedure; and
+
+- (e) decide any procedural or evidentiary question arising during the hearing.
+
+**Limitation in relation to evidence**
+
+(4) The member or panel may not admit or accept as evidence anything that would be inadmissible in a court by reason of any privilege under the law of evidence.
+
+**Conciliators as witnesses**
+
+(5) A conciliator appointed to settle the complaint is not a competent or compellable witness at the hearing.
+
+**Witness fees**
+
+(6) Any person summoned to attend the hearing is entitled in the discretion of the member or panel to receive the same fees and allowances as those paid to persons summoned to attend before the Federal Court.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 50; 1998, c. 9, s. 27
+
+</details>
+
+### 51 Duty of Commission on appearing
+
+In appearing at a hearing, presenting evidence and making representations, the Commission shall adopt such position as, in its opinion, is in the public interest having regard to the nature of the complaint.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 51; 1998, c. 9, s. 27
+
+</details>
+
+### 52 Hearing in public subject to confidentiality order
+
+(1) An inquiry shall be conducted in public, but the member or panel conducting the inquiry may, on application, take any measures and make any order that the member or panel considers necessary to ensure the confidentiality of the inquiry if the member or panel is satisfied, during the inquiry or as a result of the inquiry being conducted in public, that
+
+- (a) there is a real and substantial risk that matters involving public security will be disclosed;
+
+- (b) there is a real and substantial risk to the fairness of the inquiry such that the need to prevent disclosure outweighs the societal interest that the inquiry be conducted in public;
+
+- (c) there is a real and substantial risk that the disclosure of personal or other matters will cause undue hardship to the persons involved such that the need to prevent disclosure outweighs the societal interest that the inquiry be conducted in public; or
+
+- (d) there is a serious possibility that the life, liberty or security of a person will be endangered.
+
+**Confidentiality of application**
+
+(2) If the member or panel considers it appropriate, the member or panel may take any measures and make any order that the member or panel considers necessary to ensure the confidentiality of a hearing held in respect of an application under subsection (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 52; 1998, c. 9, s. 27
+
+</details>
+
+### 53 Complaint dismissed
+
+(1) At the conclusion of an inquiry, the member or panel conducting the inquiry shall dismiss the complaint if the member or panel finds that the complaint is not substantiated.
+
+**Complaint substantiated**
+
+(2) If at the conclusion of the inquiry the member or panel finds that the complaint is substantiated, the member or panel may, subject to section 54, make an order against the person found to be engaging or to have engaged in the discriminatory practice and include in the order any of the following terms that the member or panel considers appropriate:
+
+- (a) that the person cease the discriminatory practice and take measures, in consultation with the Commission on the general purposes of the measures, to redress the practice or to prevent the same or a similar practice from occurring in future, including
+  - (i) the adoption of a special program, plan or arrangement referred to in subsection 16(1), or
+  - (ii) making an application for approval and implementing a plan under section 17;
+
+- (b) that the person make available to the victim of the discriminatory practice, on the first reasonable occasion, the rights, opportunities or privileges that are being or were denied the victim as a result of the practice;
+
+- (c) that the person compensate the victim for any or all of the wages that the victim was deprived of and for any expenses incurred by the victim as a result of the discriminatory practice;
+
+- (d) that the person compensate the victim for any or all additional costs of obtaining alternative goods, services, facilities or accommodation and for any expenses incurred by the victim as a result of the discriminatory practice; and
+
+- (e) that the person compensate the victim, by an amount not exceeding twenty thousand dollars, for any pain and suffering that the victim experienced as a result of the discriminatory practice.
+
+**Special compensation**
+
+(3) In addition to any order under subsection (2), the member or panel may order the person to pay such compensation not exceeding twenty thousand dollars to the victim as the member or panel may determine if the member or panel finds that the person is engaging or has engaged in the discriminatory practice wilfully or recklessly.
+
+**Interest**
+
+(4) Subject to the rules made under section 48.9, an order to pay compensation under this section may include an award of interest at a rate and for a period that the member or panel considers appropriate.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 53; 1998, c. 9, s. 27
+
+</details>
+
+### 54 Limitation
+
+No order that is made under subsection 53(2) may contain a term
+
+- (a) requiring the removal of an individual from a position if that individual accepted employment in that position in good faith; or
+
+- (b) requiring the expulsion of an occupant from any premises or accommodation, if that occupant obtained those premises or accommodation in good faith.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 54; 1998, c. 9, s. 28; 2013, c. 37, s. 4
+
+</details>
+
+### 54.1 Definitions
+
+(1) In this section,
+
+**designated groups** has the meaning assigned in section 3 of the *Employment Equity Act*; and (**groupes désignés**)
+
+**employer** means a person who or organization that discharges the obligations of an employer under the *Employment Equity Act*. (**employeur**)
+
+**Limitation of order re employment equity**
+
+(2) Where a Tribunal finds that a complaint against an employer is substantiated, it may not make an order pursuant to subparagraph 53(2)(a)(i) requiring the employer to adopt a special program, plan or arrangement containing
+
+- (a) positive policies and practices designed to ensure that members of designated groups achieve increased representation in the employer’s workforce; or
+
+- (b) goals and timetables for achieving that increased representation.
+
+**Interpretation**
+
+(3) For greater certainty, subsection (2) shall not be construed as limiting the power of a Tribunal, under paragraph 53(2)(a), to make an order requiring an employer to cease or otherwise correct a discriminatory practice.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, c. 44, s. 50
+
+</details>
+
+### 55 and 56
+
+[Repealed, 1998, c. 9, s. 29]
+
+### 57 Enforcement of order
+
+An order under section 53 may, for the purpose of enforcement, be made an order of the Federal Court by following the usual practice and procedure or by the Commission filing in the Registry of the Court a copy of the order certified to be a true copy.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 57; 1998, c. 9, s. 29; 2013, c. 37, s. 5
+
+</details>
+
+### 58 Application respecting disclosure of information
+
+(1) Subject to subsection (2), if an investigator or a member or panel of the Tribunal requires the disclosure of any information and a minister of the Crown or any other interested person objects to its disclosure, the Commission may apply to the Federal Court for a determination of the matter and the Court may take any action that it considers appropriate.
+
+***Canada Evidence Act***
+
+(2) An objection to disclosure shall be determined in accordance with the *Canada Evidence Act* if
+
+- (a) under subsection (1), a minister of the Crown or other official objects to the disclosure in accordance with sections 37 to 37.3 or section 39 of that Act;
+
+- (b) within 90 days after the day on which the Commission applies to the Federal Court, a minister of the Crown or other official objects to the disclosure in accordance with sections 37 to 37.3 or section 39 of that Act; or
+
+- (c) at any time, an objection to the disclosure is made, or a certificate is issued, in accordance with sections 38 to 38.13 or 38.2 to 38.41 of that Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 58; 1998, c. 9, s. 30; 2001, c. 41, s. 45
+- 2024, c. 16, s. 91
+
+</details>
+
+### 59 Intimidation or discrimination
+
+No person shall threaten, intimidate or discriminate against an individual because that individual has made a complaint or given evidence or assisted in any way in respect of the initiation or prosecution of a complaint or other proceeding under this Part, or because that individual proposes to do so.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 45
+
+</details>
+
+### Offences and Punishment
+
+### 60 Offence
+
+(1) Every person is guilty of an offence who
+
+- (a) [Repealed, 1998, c. 9, s. 31]
+
+- (b) obstructs a member or panel in carrying out its functions under this Part; or
+
+- (c) contravenes subsection 11(6) or 43(3) or section 59.
+
+**Punishment**
+
+(2) A person who is guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding $50,000.
+
+**Prosecution of employer or employee organization**
+
+(3) A prosecution for an offence under this section may be brought against an employer organization or employee organization and in the name of the organization and, for the purpose of the prosecution, the organization is deemed to be a person and any act or thing done or omitted by an officer or agent of the organization within the scope of their authority to act on behalf of the organization is deemed to be an act or thing done or omitted by the organization.
+
+**Consent of Attorney General**
+
+(4) A prosecution for an offence under this section may not be instituted except by or with the consent of the Attorney General of Canada.
+
+**Limitation period**
+
+(5) A prosecution for an offence under this section may not be instituted more than one year after the subject-matter of the proceedings arose.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 60; 1998, c. 9, s. 31
+
+</details>
+
+### Reports
+
+### 61 Annual report of Commission
+
+(1) The Commission shall, within three months after December 31 in each year, prepare and submit to Parliament a report on the activities of the Commission under this Part and Part II for that year, including references to and comments on any matter referred to in paragraph 27(1)(e) or (g) that it considers appropriate.
+
+**Special reports**
+
+(2) The Commission may, at any time, prepare and submit to Parliament a special report referring to and commenting on any matter within the scope of its powers, duties and functions if, in its opinion, the matter is of such urgency or importance that a report on it should not be deferred until the time provided for submission of its next annual report under subsection (1).
+
+**Annual report of Tribunal**
+
+(3) The Tribunal shall, within three months after December 31 in each year, prepare and submit to Parliament a report on its activities under this Act for that year.
+
+**Transmission of report**
+
+(4) Every report under this section shall be submitted by being transmitted to the Speaker of the Senate and to the Speaker of the House of Commons for tabling in those Houses.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 61; 1998, c. 9, s. 32
+
+</details>
+
+### Minister Responsible
+
+### 61.1 Minister of Justice
+
+The Minister of Justice is responsible for this Act, and the powers of the Governor in Council to make regulations under this Act, with the exception of section 29, are exercisable on the recommendation of that Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1998, c. 9, s. 32
+
+</details>
+
+### Application
+
+### 62 Limitation
+
+(1) This Part and Parts I and II do not apply to or in respect of any superannuation or pension fund or plan established by an Act of Parliament enacted before March 1, 1978.
+
+**Review of Acts referred to in subsection (1)**
+
+(2) The Commission shall keep under review those Acts of Parliament enacted before March 1, 1978 by which any superannuation or pension fund or plan is established and, where the Commission deems it to be appropriate, it may include in a report mentioned in section 61 reference to and comment on any provision of any of those Acts that in its opinion is inconsistent with the principle described in section 2.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 48
+
+</details>
+
+### 63 Application in the territories
+
+Where a complaint under this Part relates to an act or omission that occurred in Yukon, the Northwest Territories or Nunavut, it may not be dealt with under this Part unless the act or omission could be the subject of a complaint under this Part had it occurred in a province.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 63; 1993, c. 28, s. 78; 2002, c. 7, s. 127
+
+</details>
+
+### 64 Canadian Forces and Royal Canadian Mounted Police
+
+For the purposes of this Part and Parts I and II, members of the Canadian Forces and the Royal Canadian Mounted Police are deemed to be employed by the Crown.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1976-77, c. 33, s. 48
+
+</details>
+
+### 65 Acts of employees, etc.
+
+(1) Subject to subsection (2), any act or omission committed by an officer, a director, an employee or an agent of any person, association or organization in the course of the employment of the officer, director, employee or agent shall, for the purposes of this Act, be deemed to be an act or omission committed by that person, association or organization.
+
+**Exculpation**
+
+(2) An act or omission shall not, by virtue of subsection (1), be deemed to be an act or omission committed by a person, association or organization if it is established that the person, association or organization did not consent to the commission of the act or omission and exercised all due diligence to prevent the act or omission from being committed and, subsequently, to mitigate or avoid the effect thereof.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, c. 143, s. 23
+
+</details>
+
+## Application
+
+### 66 Binding on Her Majesty
+
+(1) This Act is binding on Her Majesty in right of Canada, except in matters respecting the Yukon Government or the Government of the Northwest Territories or Nunavut.
+
+(2) [Repealed, 2002, c. 7, s. 128]
+
+(3) [Repealed, 2014, c. 2, s. 11]
+
+**Idem**
+
+(4) The exception referred to in subsection (1) shall come into operation in respect of the Government of Nunavut on a day to be fixed by order of the Governor in Council.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. H-6, s. 66; 1993, c. 28, s. 78; 2002, c. 7, s. 128; 2014, c. 2, s. 11
+
+</details>
+
+### 67
+
+[Repealed, 2008, c. 30, s. 1]
+
+
+## RELATED PROVISIONS
+
+### — R.S., 1985, c. 31 (1st Supp.), s. 68
+
+### 68 Transitional
+
+Every Tribunal appointed prior to the coming into force of this Act shall continue to act as though this Part had not come into force.
+
+### — 1998, c. 9, s. 33
+
+### 33 Definition of **commencement day**
+
+(1) In this section, **commencement day** means the day on which this section comes into force.
+
+**Members cease to hold office**
+
+(2) Subject to subsections (3), (4) and (5), the members of the Human Rights Tribunal Panel cease to hold office on the commencement day.
+
+**Continuing jurisdiction of Human Rights Tribunal**
+
+(3) The members of any Human Rights Tribunal appointed under the *Canadian Human Rights Act* before the commencement day have jurisdiction with respect to any inquiry into the complaint in respect of which the Human Rights Tribunal was appointed.
+
+**Continuing jurisdiction of Review Tribunal**
+
+(4) The members of any Review Tribunal constituted under the *Canadian Human Rights Act* before the commencement day have jurisdiction with respect to any appeal against a decision or order of a Human Rights Tribunal.
+
+**Continuing jurisdiction of Employment Equity Review Tribunal**
+
+(5) The members of any Employment Equity Review Tribunal established under section 28 or 39 of the *Employment Equity Act* before the commencement day have jurisdiction over any matter in respect of which the Tribunal was established.
+
+**Supervision by Chairperson of Canadian Human Rights Tribunal**
+
+(6) The Chairperson of the Canadian Human Rights Tribunal has supervision over and direction of the work of any Human Rights Tribunal, Review Tribunal or Employment Equity Review Tribunal referred to in subsection (3), (4) or (5).
+
+**Remuneration**
+
+(7) Each member of a Human Rights Tribunal, Review Tribunal or Employment Equity Review Tribunal referred to in subsection (3), (4) or (5), other than such a member who is appointed as a full-time member of the Canadian Human Rights Tribunal, shall be paid such remuneration as may be fixed by the Governor in Council.
+
+**Travel expenses**
+
+(8) Each member of a Human Rights Tribunal, Review Tribunal or Employment Equity Review Tribunal referred to in subsection (3), (4) or (5) is entitled to be paid travel and living expenses incurred in carrying out duties as a member of that Tribunal while absent from their place of residence, but the expenses must not exceed the maximum limits authorized by Treasury Board directive for employees of the Government of Canada.
+
+### — 1998, c. 9, s. 34
+
+### 34 Commission employees serving the Human Rights Tribunal Panel
+
+(1) This Act does not affect the status of an employee who, immediately before the coming into force of this subsection, occupied a position in the Canadian Human Rights Commission and performed services on a full-time basis for the Human Rights Tribunal Panel, except that the employee shall, on the coming into force of this subsection, occupy that position in the Canadian Human Rights Tribunal.
+
+**Definition of **employee****
+
+(2) In this section, **employee** has the same meaning as in subsection 2(1) of the *Public Service Employment Act*.
+
+### — 2008, c. 30, s. 1.2
+
+### 1.2 Regard to legal traditions and customary laws
+
+In relation to a complaint made under the *Canadian Human Rights Act* against a First Nation government, including a band council, tribal council or governing authority operating or administering programs and services under the *Indian Act*, this Act shall be interpreted and applied in a manner that gives due regard to First Nations legal traditions and customary laws, particularly the balancing of individual rights and interests against collective rights and interests, to the extent that they are consistent with the principle of gender equality.
+
+### — 2008, c. 30, s. 2
+
+### 2 Comprehensive review
+
+(1) Within five years after the day on which this Act receives royal assent, a comprehensive review of the effects of the repeal of section 67 of the *Canadian Human Rights Act* shall be jointly undertaken by the Government of Canada and any organizations identified by the Minister of Indian Affairs and Northern Development as being, in the aggregate, representative of the interests of First Nations peoples throughout Canada.
+
+**Report**
+
+(2) A report on the review referred to in subsection (1) shall be submitted to both Houses of Parliament within one year after the day on which the review is undertaken under that subsection.
+
+### — 2008, c. 30, s. 3
+
+### 3 Grace period
+
+Despite section 1, an act or omission by any First Nation government, including a band council, tribal council or governing authority operating or administering programs or services under the *Indian Act*, that was made in the exercise of powers or the performance of duties and functions conferred or imposed by or under that Act shall not constitute the basis for a complaint under Part III of the *Canadian Human Rights Act* if it occurs within 36 months after the day on which this Act receives royal assent.
+
+### — 2008, c. 30, s. 4
+
+### 4 Study to be undertaken
+
+The Government of Canada, together with the appropriate organizations representing the First Nations peoples of Canada, shall, within the period referred to in section 3, undertake a study to identify the extent of the preparation, capacity and fiscal and human resources that will be required in order for First Nations communities and organizations to comply with the *Canadian Human Rights Act*. The Government of Canada shall report to both Houses of Parliament on the findings of that study before the expiration of the period referred to in section 3.
+
+### — 2009, c. 2, s. 395
+
+### 395 Interpretation
+
+Unless the context otherwise requires, words and expressions used in sections 396 and 397 have the same meaning as in the *Public Sector Equitable Compensation Act*.
+
+### — 2009, c. 2, s. 396, as amended by 2018, c. 27, ss. 431(1) to (3)
+
+### 396 Complaints before Canadian Human Rights Commission
+
+(1) The following complaints with respect to employees that are before the Canadian Human Rights Commission on the day on which this Act receives royal assent, or that are filed with that Commission during the period beginning on that day and ending on the day on which subsection 425 (1) of the *Budget Implementation Act, 2018, No. 2* comes into force, shall, despite section 44 of the *Canadian Human Rights Act*, without delay, be referred by the Commission to the Board:
+
+- (a) complaints based on section 7 or 10 of the *Canadian Human Rights Act*, if the complaint is in respect of the employer establishing or maintaining differences in wages between male and female employees; and
+
+- (b) complaints based on section 11 of the *Canadian Human Rights Act*.
+
+**Application of this section**
+
+(2) The complaints referred to in subsection (1) shall be dealt with by the Board as required by this section.
+
+**Powers of Board**
+
+(3) The Board has, in relation to a complaint referred to it, in addition to the powers conferred on it under the *Federal Public Sector Labour Relations Act*, the power to interpret and apply sections 7, 10 and 11 of the *Canadian Human Rights Act*, and the *Equal Wages Guidelines, 1986*, in respect of employees, even after the coming into force of subsection 425 (1) of the *Budget Implementation Act 2018, No. 2*.
+
+**Summary examination**
+
+(4) The Board shall review the complaint in a summary way and shall refer it to the employer that is the subject of the complaint, or to the employer that is the subject of the complaint and the bargaining agent of the employees who filed the complaint, as the Board considers appropriate, unless it appears to the Board that the complaint is trivial, frivolous or vexatious or was made in bad faith.
+
+**Power to assist**
+
+(5) If the Board refers a complaint under subsection (4) to an employer, or to an employer and a bargaining agent, it may assist them in resolving any matters relating to the complaint by any means that it considers appropriate.
+
+**Hearing**
+
+(6) If the employer, or the employer and the bargaining agent, as the case may be, do not resolve the matters relating to the complaint within 180 days after the complaint is referred to them, or any longer period or periods that may be authorized by the Board, the Board shall schedule a hearing.
+
+**Procedure**
+
+(7) The Board shall determine its own procedure but shall give full opportunity to the employer, or the employer and the bargaining agent, as the case may be, to present evidence and make submissions to it.
+
+**Decision**
+
+(8) The Board shall make a decision in writing in respect of the complaint and send a copy of its decision with the reasons for it to the employer, or the employer and the bargaining agent, as the case may be.
+
+**Restriction**
+
+(9) The Board has, in relation to complaints referred to in this section, the power to make any order that a member or panel may make under section 53 of the *Canadian Human Rights Act*, except that no monetary remedy may be granted by the Board in respect of the complaint other than a lump sum payment, and the payment may be only in respect of a period that ends on or before the day on which subsection 425 (1) of the *Budget Implementation Act, 2018, No. 2* comes into force.
+
+### — 2009, c. 2, s. 397
+
+### 397 Complaints before Canadian Human Rights Tribunal
+
+(1) Subject to subsections (2) and (3), the Canadian Human Rights Tribunal shall inquire into the following complaints with respect to employees that are before it on the day on which this Act receives royal assent:
+
+- (a) complaints based on section 7 or 10 of the *Canadian Human Rights Act*, if the complaint is in respect of the employer establishing or maintaining differences in wages between male and female employees; and
+
+- (b) complaints based on section 11 of the *Canadian Human Rights Act*.
+
+**Powers of Tribunal**
+
+(2) If section 399 is in force when the Canadian Human Rights Tribunal inquires into a complaint referred to in subsection (1),
+
+- (a) complaints referred to in paragraph (1)(a) shall be dealt with as if sections 7 and 10 of the *Canadian Human Rights Act* still applied to those employees; and
+
+- (b) complaints referred to in paragraph (1)(b) shall be dealt with as if section 11 of the *Canadian Human Rights Act* and the *Equal Wage Guidelines, 1986* still applied to those employees.
+
+**Limitation**
+
+(3) No monetary remedy may be granted by the Canadian Human Rights Tribunal in respect of a complaint referred to in subsection (1) other than a lump sum payment, and the payment may only be in respect of a period that ends on or before the day on which section 394 comes into force.
+
+### — 2012, c. 1, par. 165(a)
+
+### 165 Pardons in effect — references in other legislation
+
+A reference to a record suspension in the following provisions, as enacted by this Part, is deemed also to be a reference to a pardon that is granted or issued under the *Criminal Records Act*:
+
+- (a) the definition **conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered** in section 25 of the *Canadian Human Rights Act*;
+
+### — 2018, c. 27, s. 428
+
+### 428 Complaints — *Canadian Human Rights Act*
+
+The *Canadian Human Rights Act*, as it read immediately before the day on which this section comes into force, applies with respect to any complaint filed before that day under section 40 of that Act, other than a complaint referred to in subsection 396(1) of the *Budget Implementation Act, 2009*, as amended by subsection 431(1) of this Act.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2018, c. 27, s. 430
+
+### 430
+
+Section 395 of the Act is repealed.
+
+### — 2018, c. 27, s. 431(4)
+
+### 431
+
+(4) Section 396 of the Act is repealed.
+
+### — 2018, c. 27, s. 432
+
+### 432
+
+Sections 397 to 399 of the Act are repealed.
+
+### — 2023, c. 26, s. 178
+
+### 178
+
+Paragraph 15(1)(d.1) of the *Canadian Human Rights Act* is replaced by the following:

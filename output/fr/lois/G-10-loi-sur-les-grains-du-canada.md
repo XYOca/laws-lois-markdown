@@ -1,0 +1,2940 @@
+---
+title: "Loi sur les grains du Canada"
+long_title: "Loi concernant les grains"
+chapter: "G-10"
+language: "en"
+type: "act"
+---
+
+# Loi sur les grains du Canada
+
+> Loi concernant les grains
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur les grains du Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 1
+
+</details>
+
+## Définitions et interprétation
+
+### 2 Définitions
+
+Les définitions qui suivent s’appliquent à la présente loi.
+
+**accusé de réception** Le document réglementaire accusant réception du grain livré à une installation de transformation ou à un négociant en grains et donnant à son détenteur droit au paiement par l’exploitant ou le négociant. (**grain receipt**)
+
+**agréée** Qualifie une installation dont l’exploitation est autorisée par licence. (**licensed**)
+
+**appellation de grade** Nom ou nom et numéro, attribués à un grade de grain établi sous le régime de la présente loi, y compris toute abréviation réglementaire correspondante. (**grade name**)
+
+**arrêté** Instruction ou ordre donné en matière de commerce de grains par la Commission. (**order**)
+
+**bon de paiement** Document réglementaire qui constate l’achat, par l’exploitant d’une installation primaire ou de transformation ou par un négociant en grains, du grain livré à l’installation ou au négociant, et qui donne à son titulaire droit au paiement par l’acheteur du prix d’achat fixé. (**cash purchase ticket**)
+
+**campagne agricole** Sous réserve de tout décret contraire pris par le gouverneur en conseil en application de l’article 115, la période commençant le 1^er^ août d’une année et se terminant le 31 juillet de l’année suivante. (**crop year**)
+
+**classe** La ou les variétés de grain désignées comme telle par arrêté de la Commission. (**class**)
+
+**commissaire** Membre de la Commission nommé conformément à l’article 3. (**commissioner**)
+
+**Commission** La Commission canadienne des grains constituée par l’article 3. (**Commission**)
+
+**compagnie de chemin de fer** Compagnie exploitant une ligne de chemin de fer dans une ou plusieurs provinces. (**railway company**)
+
+**contaminé**[Abrogée, 2020, ch. 1, art. 60]
+
+**criblures** Impuretés extraites d’un lot de grain. (**screenings**)
+
+**déficit**[Abrogée, 2012, ch. 31, art. 351]
+
+**détenteur** Personne qui a droit, aux termes d’un document qui lui a été délivré, au paiement d’une somme d’argent ou à la livraison de grains :
+  - a) soit que le document ait été établi ou endossé en son nom;
+  - b) soit que le document lui ait été remis après endossement en blanc. (**holder**)
+
+**directeur** Personne chargée par l’exploitant ou le titulaire de la licence d’exploitation d’une installation de diriger celle-ci. (**manager**)
+
+**échantillon officiel** Échantillon prélevé dans un lot de grain par une personne habilitée à cet effet par la Commission ou au moyen d’un appareil approuvé par celle-ci à cette fin. (**official sample**)
+
+**échantillon-type d’exportation** Échantillon de grain désigné pour un grade donné par la Commission conformément à l’alinéa 26b). (**export standard sample**)
+
+**échantillon-type normal** Échantillon de grain désigné pour un grade donné par la Commission conformément à l’alinéa 26a). (**primary standard sample**)
+
+**excédent**[Abrogée, 2012, ch. 31, art. 351]
+
+**exploitant** Occupant des locaux de l’installation, soit en qualité de propriétaire, soit à titre de locataire, soit encore aux termes d’un contrat d’exploitation, à son profit, conclu avec le propriétaire ou le locataire. (**operator**)
+
+**frais de stockage** Redevance perçue par le titulaire d’une licence d’exploitation pour le stockage, dans son installation, d’une quantité de grain livrable au détenteur d’un récépissé sur présentation de ce document et selon les modalités y figurant. (**storage charge**)
+
+**grain** Les semences désignées comme tel par règlement. (**grain**)
+
+**grain de l’Est** Les grains, autres que ceux importés, livrés dans la région de l’Est. (**eastern grain**)
+
+**grain de l’Ouest** Les grains, autres que ceux importés, livrés dans la région de l’Ouest. (**western grain**)
+
+**grain étranger**[Abrogée, 2020, ch. 1, art. 60]
+
+**grain importé** Les grains cultivés à l’extérieur du Canada ou des États-Unis, y compris les criblures de ces grains et tout produit qu’ils ont servi à préparer. (**imported grain**)
+
+**impuretés** Matières qui, dans un lot de grains, ne correspondent pas à une norme de qualité fixée sous le régime de la présente loi pour un grade donné de ces grains, qui peuvent être extraites du lot, et qui doivent l’être, pour que celui-ci soit placé dans le grade en question. (**dockage**)
+
+**infesté** État de grains parasités par des insectes ou autres animaux nuisibles. (**infested**)
+
+**inspecteur** Personne désignée à ce titre par la Commission en application de l’article 12. (**inspector**)
+
+**inspection officielle** Échantillonnage et classement par grades d’un lot de grain par un inspecteur. (**official inspection**)
+
+**installation** ou **silo** Les installations suivantes, notamment celles qui appartiennent à Sa Majesté du chef du Canada ou d’une province ou à leur mandataire ou qui sont exploitées par l’un d’eux :
+  - a) les installations situées dans la région de l’Ouest et, selon le cas :
+    - (i) équipées pour la réception des grains ou pour leur chargement sur les navires et les wagons ou leur déchargement,
+    - (ii) construites en vue de la manutention et du stockage des grains directement reçus des producteurs, à l’exclusion de celles destinées à l’exploitation agricole d’un producteur particulier, et équipées pour la réception, la pesée, le levage, le stockage et le déchargement des grains,
+    - (iii) construites en vue de la manutention et du stockage de grain dans le cadre de l’exploitation d’une minoterie, d’une fabrique d’aliments pour les animaux, d’une station de nettoiement des semences, d’une malterie, d’une distillerie, d’une usine d’extraction d’huile ou de toute autre usine de transformation, et équipées pour la réception, la pesée, le levage et le stockage des grains ainsi que pour leur déchargement en vue de la transformation notamment;
+  - b) les installations situées dans la région de l’Est, sur les bords des lacs Supérieur, Huron, Sainte-Claire, Érié, Ontario ou des canaux et autres voies navigables reliant ces lacs, ou du fleuve St-Laurent ou des eaux de marées, et équipées pour recevoir des grains directement déchargés de wagons ou navires et pour leur chargement sur ces derniers;
+  - c) la partie — servant à stocker du grain — des établissements de la région de l’Est désignés par règlement d’application du paragraphe 116(3). (**elevator**)
+  - d) et e) [Abrogés avant d’entrer en vigueur, 2008, ch. 20, art. 3]
+
+**installation de transbordement**[Abrogée, 1994, ch. 45, art. 1]
+
+**installation de transbordement** ou **silo de transbordement**[Abrogée, 2012, ch. 31, art. 351]
+
+**installation de transformation**[Abrogée, 1994, ch. 45, art. 1]
+
+**installation de transformation** ou **silo de transformation** Silo destiné principalement à la réception et au stockage du grain en vue de sa préparation industrielle ou de sa transformation. (**process elevator**)
+
+**installation primaire**[Abrogée, 1994, ch. 45, art. 1]
+
+**installation primaire** ou **silo primaire** Silo destiné principalement à recevoir du grain, directement des producteurs, pour stockage ou expédition ou pour les deux. (**primary elevator**)
+
+**installation terminale**[Abrogée, 1994, ch. 45, art. 1]
+
+**installation terminale** ou **silo terminal** Silo destiné principalement à la réception de grain provenant d’un autre silo ainsi qu’au nettoyage, au stockage et au traitement de celui-ci avant expédition. (**terminal elevator**)
+
+**légalement** S’applique dans toute situation :
+  - a) de conformité à la présente loi;
+  - b) où le grain est susceptible d’être livré par son propriétaire, d’être reçu par le transporteur public pour livraison à l’installation ou au consignataire ou d’être reçu par l’exploitant de l’installation ou par le consignataire, conformément à la présente loi, lorsque ce mot qualifie :
+    - (i) l’offre de grain pour livraison ou stockage à une installation primaire,
+    - (ii) la livraison de grain à une installation terminale ou de transformation, ou à un consignataire dans un lieu autre qu’une installation,
+    - (iii) la livraison de grain à un transporteur public pour livraison à une installation ou à un consignataire mentionné au sous-alinéa (ii). (**lawfully**)
+
+**licence** Autorisation délivrée par la Commission pour l’exploitation d’une installation ou pour faire profession de négociant en grains. (**licence**)
+
+**matières étrangères** Matières qui, dans un lot de grains, ne correspondent pas à une norme de qualité fixée sous le régime de la présente loi pour un grade donné de ces grains, mais dont la présence n’empêche pas, vu leur nature et leur faible quantité, l’attribution d’un grade à ce lot. (**foreign material**)
+
+**ministre** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (**Minister**)
+
+**navire** Toute construction flottante conçue ou utilisée pour la navigation, qu’elle soit pourvue ou non d’un moyen propre de propulsion. (**ship**)
+
+**négociant en grains** Toute personne qui, dans un but lucratif, pour son propre compte ou celui d’autrui, se livre au commerce ou à la manutention de grains de l’Ouest. (**grain dealer**)
+
+**perte de poids** Perte de poids des grains occasionnée par leur manutention ou traitement. (**shrinkage**)
+
+**pesée de contrôle**[Abrogée, 2012, ch. 31, art. 351]
+
+**pesée officielle** Pesée de grain effectuée sous la surveillance d’une personne habilitée à cet effet par la Commission ou de la façon autorisée par celle-ci. (**official weighing**)
+
+**poste d’inspection** Lieu destiné par la Commission à l’inspection des grains. (**inspection point**)
+
+**producteur** Outre le producteur-exploitant, toute personne ayant droit, à titre de locateur, de vendeur ou de créancier hypothécaire, à tout ou partie des grains produits par celui-ci. (**producer**)
+
+**producteur-exploitant** Personne se livrant en fait à la production de grains. (**actual producer**)
+
+**produit céréalier** Produit obtenu par la transformation ou la préparation industrielle de grain, seul ou mélangé à d’autres grains ou substances, et qui peut être livré à une installation pour stockage ou manutention. (**grain product**)
+
+**récépissé** Document réglementaire accusant réception des grains livrés à une installation et donnant à son détenteur, sous réserve des conditions qui y sont énoncées ou qui sont prévues par la présente loi, droit :
+  - a) soit à la livraison des mêmes type, grade et quantité de grain que ceux qui y sont mentionnés;
+  - b) soit, dans le cas d’un document délivré pour des grains stockés en cellule, à la livraison de ceux-ci. (**elevator receipt**)
+
+**région** La région de l’Est ou la région de l’Ouest. (**Division**)
+
+**région de l’Est** Les parties du Canada non visées par la définition de **région de l’Ouest**. (**Eastern Division**)
+
+**région de l’Ouest** La partie du Canada située à l’ouest du méridien qui coupe la limite est de la ville de Thunder Bay, y compris toute la province du Manitoba. (**Western Division**)
+
+**règlement**[Abrogée, 1994, ch. 45, art. 1]
+
+**stockage en cellule** Stockage d’un ou plusieurs lots de grain, dans un espace spécial d’une installation, effectué aux termes d’un contrat afin d’isoler le grain. (**special binning**)
+
+**titulaire de licence** Détenteur d’une licence d’exploitant d’une installation ou de négociant en grains. (**licensee**)
+
+**transporteur public** Toute compagnie de chemin de fer, tout exploitant d’une entreprise de camionnage extra-provinciale au sens de la *Loi sur les transports routiers* et tout propriétaire ou exploitant d’un navire. (**public carrier**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 2; L.R. (1985), ch. 29 (3^e^ suppl.), art. 25, ch. 37 (4^e^ suppl.), art. 1; 1994, ch. 45, art. 1; 1998, ch. 22, art. 1; 2001, ch. 13, art. 12; 2008, ch. 20, art. 3; 2011, ch. 25, art. 24; 2012, ch. 31, art. 351
+- 2020, ch. 1, art. 60
+
+</details>
+
+### 2.1 Grains contaminés
+
+Pour l’application de la présente loi, les grains sont contaminés s’ils contiennent une substance en quantité telle qu’ils sont :
+
+- a) soit falsifiés pour l’application de la *Loi sur les aliments et drogues*;
+
+- b) soit contaminés au sens des règlements pris en vertu de l’article 51 de la *Loi sur la salubrité des aliments au Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, ch. 1, art. 61
+
+</details>
+
+## Commission canadienne des grains
+
+### Constitution et composition de la Commission
+
+### 3 Constitution de la Commission
+
+Est constituée la Commission canadienne des grains, composée de trois commissaires nommés à titre inamovible par le gouverneur en conseil pour un mandat renouvelable maximal de sept ans.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 3; L.R. (1985), ch. 37 (4^e^ suppl.), art. 2
+
+</details>
+
+### 4 Président et vice-président
+
+(1) Le gouverneur en conseil désigne le président et le vice-président parmi les commissaires.
+
+**Premier dirigeant**
+
+(2) Le président est le premier dirigeant de la Commission; à ce titre, sous réserve de l’article 12, il en assure la direction et contrôle la gestion de son personnel.
+
+**Attributions du vice-président**
+
+(3) Le vice-président exerce les pouvoirs et fonctions du président en cas d’absence ou d’empêchement de celui-ci ou de vacance de son poste.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 4; 1994, ch. 45, art. 2
+
+</details>
+
+### 5 Traitement et indemnités
+
+(1) Les commissaires reçoivent le traitement fixé par le gouverneur en conseil et ont droit aux frais de déplacement et autres entraînés par l’accomplissement, hors de leur lieu ordinaire de résidence, des fonctions qui leur sont confiées en application de la présente loi.
+
+**Pension de retraite et indemnisation**
+
+(2) Les commissaires sont réputés faire partie de la fonction publique pour l’application de la *Loi sur la pension de la fonction publique*, et de l’administration publique fédérale pour l’application de la *Loi sur l’indemnisation des agents de l’État* et des règlements pris en application de l’article 9 de la *Loi sur l’aéronautique*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 5; 2003, ch. 22, art. 106(A)
+
+</details>
+
+### 6 Serment professionnel
+
+(1) Préalablement à leur entrée en fonctions, les commissaires prêtent et souscrivent, devant un juge de cour supérieure, le serment professionnel réglementaire.
+
+**Incompatibilité avec d’autres fonctions**
+
+(2) Les commissaires se consacrent exclusivement à l’exercice des fonctions que leur confère la présente loi.
+
+(3) et (4) [Abrogés, 1994, ch. 45, art. 3]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 6; 1994, ch. 45, art. 3
+
+</details>
+
+### 7 Intérêts incompatibles
+
+Les personnes qui, directement ou indirectement, en tant que propriétaires, actionnaires, dirigeants, administrateurs ou associés notamment — sans en être producteurs —, se livrent au commerce ou au transport de grains ou ont des intérêts, pécuniaires ou autres, liés aux grains ou au transport de grains, ne peuvent être nommées au poste de commissaires, ni, sous réserve de l’article 8, y être maintenues.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 7; 2004, ch. 25, art. 106
+
+</details>
+
+### 8 Disposition des biens
+
+Les commissaires sont tenus de disposer, dans les six mois qui suivent leur transmission, des biens auxquels sont rattachés les intérêts visés à l’article 7 et qui leur sont dévolus, en toute propriété, par testament ou succession.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 8; 2004, ch. 25, art. 106
+
+</details>
+
+### Personnel
+
+### 9
+
+[Abrogé, 2010, ch. 12, art. 1662]
+
+### 10 Personnel
+
+Les cadres et employés nécessaires à l’exécution des travaux de la Commission, notamment le personnel — y compris les directeurs — des installations construites ou acquises par Sa Majesté du chef du Canada et gérées par la Commission conformément à la présente loi, sont nommés selon les modalités prévues par la loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 10; 2010, ch. 12, art. 1662
+
+</details>
+
+### Siège, réunions et audiences
+
+### 11 Siège
+
+La Commission a son siège à Winnipeg (Manitoba); elle peut toutefois tenir des réunions ou des audiences en tout autre lieu du pays lorsqu’elle l’estime nécessaire pour la conduite de ses travaux.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 9
+
+</details>
+
+### Règlements administratifs
+
+### 12 Règlements administratifs
+
+La Commission peut, par règlement administratif :
+
+- a) régir la convocation de ses réunions, ses délibérations et, en général, l’exercice de ses activités;
+
+- b) répartir les fonctions des commissaires;
+
+- c) préciser les fonctions des cadres et employés — y compris des directeurs — nommés en application de l’article 10;
+
+- d) désigner toute personne qu’elle estime qualifiée pour remplir les fonctions d’inspecteur dans le cadre de la présente loi;
+
+- e) prévoir la création de comités composés soit de commissaires, soit de commissaires et d’autres personnes, ainsi que la délégation de fonctions aux comités et la fixation de leur quorum;
+
+- f) déterminer le sceau qu’elle doit apposer sur les documents qu’elle délivre;
+
+- g) fixer le traitement à verser aux membres des comités de normalisation des grains.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 12; 1994, ch. 45, art. 4; 2010, ch. 12, art. 1663; 2012, ch. 31, art. 352
+
+</details>
+
+### Mission
+
+### 13 Mission
+
+Sous réserve des autres dispositions de la présente loi et des instructions que peuvent lui donner le gouverneur en conseil ou le ministre, la Commission a pour mission de fixer et de faire respecter, au profit des producteurs de grain, des normes de qualité pour le grain canadien et de régir la manutention des grains au pays afin d’en assurer la fiabilité sur les marchés intérieur et extérieur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 11
+
+</details>
+
+### Pouvoirs
+
+### 14 Pouvoirs
+
+(1) Pour réaliser sa mission, la Commission, sous réserve des autres dispositions de la présente loi :
+
+- a) propose et établit des grades de grain et des normes les concernant et met en oeuvre un système de classement par grades et d’inspection du grain permettant d’en identifier fidèlement la qualité et d’en assurer la commercialisation au pays et à l’étranger;
+
+- b) établit et met en oeuvre des normes et des procédures pour régir la manutention, le transport et le stockage de grain ainsi que les équipements correspondants;
+
+- c) mène des enquêtes ou tient des audiences sur les questions qui relèvent de sa compétence;
+
+- d) gère, exploite et entretient les installations construites ou acquises par Sa Majesté du chef du Canada et dont le gouverneur en conseil lui a confié l’administration;
+
+- e) entreprend, subventionne et encourage la recherche en matière de grains et de produits céréaliers et, à cette fin :
+  - (i) peut demander à un négociant en grains ou à un exploitant d’une installation de lui fournir tout échantillon de grains, de produits céréaliers ou de criblures en sa possession qu’elle précise,
+  - (ii) met à profit, s’il y a lieu, l’information et les conseils techniques, économiques et statistiques des ministères ou organismes fédéraux,
+  - (iii) entretient un laboratoire efficace et convenablement équipé;
+
+- e.1) assure l’observation des termes des certificats d’utilisation finale délivrés au titre de l’article 87.1;
+
+- f) conseille le ministre sur toutes les questions relatives aux grains, aux produits céréaliers et aux criblures qu’il soumet à son examen.
+
+**Restriction**
+
+(2) Lorsque l’installation qu’elle exploite en application de l’alinéa (1)d) est une installation primaire, la Commission ne peut acheter de grains.
+
+**Délégation**
+
+(3) La Commission peut déléguer, par règlement administratif, sans restriction ou dans les limites qui y sont prévues, les pouvoirs et fonctions qui lui sont conférés au titre de la présente loi, sauf le pouvoir de prendre des règlements — administratifs ou autres — ou des ordonnances.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 14; L.R. (1985), ch. 37 (4^e^ suppl.), art. 4; 1988, ch. 65, art. 124; 2012, ch. 31, art. 353
+- 2020, ch. 1, art. 62
+
+</details>
+
+### Rapport
+
+### 15 Rapport
+
+Chaque année, au mois de février, la Commission présente au ministre, en la forme prescrite par celui-ci, un rapport d’activité pour la campagne agricole précédente. Le ministre le fait déposer devant le Parlement dans les quinze jours suivant sa réception ou, si le Parlement ne siège pas, dans les quinze premiers jours de séance ultérieurs de l’une ou l’autre chambre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 14
+
+</details>
+
+### Certificats d’exportation
+
+### 15.1 Certificats d’exportation
+
+La Commission peut délivrer tout certificat ou autre document énonçant les renseignements qu’elle estime nécessaires pour faciliter l’exportation de tout grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, ch. 1, art. 63
+
+</details>
+
+## Classement et inspection des grains
+
+### Grades de grain
+
+### 16 Pouvoir de la Commission : grades de grain de l’Ouest et de l’Est
+
+(1) La Commission peut, par règlement, établir pour chaque genre de grain de l’Ouest et de l’Est des grades, ainsi que les appellations et les caractéristiques correspondantes; elle peut de la même façon prévoir les méthodes de détermination, visuelles ou autres, des caractéristiques du grain pour satisfaire aux normes de qualité des acheteurs de grain.
+
+**Entrée en vigueur du règlement**
+
+(2) Sauf dérogation exprimée dans le règlement, celui-ci ne peut entrer en vigueur avant le 1^er^ août suivant sa prise, dans le cas du grain de l’Ouest, ou avant le 1^er^ juillet suivant sa prise, dans le cas du grain de l’Est.
+
+**Maintien de la valeur des grains**
+
+(3) Les modifications visant un grade de grain doivent, dans la mesure du possible, tout en étant favorables aux intérêts canadiens sur les marchés intérieur et extérieur, prévenir ou minimiser toute dévalorisation du grain de ce grade.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 16; L.R. (1985), ch. 37 (4^e^ suppl.), art. 5; 1994, ch. 45, art. 5
+
+</details>
+
+### 17 et 18
+
+[Abrogés, L.R. (1985), ch. 37 (4^e^ suppl.), art. 5]
+
+### 19 Pouvoir de la Commission : classification des grains avariés, en cellule, etc.
+
+La Commission peut, par arrêté, établir :
+
+- a) des grades, ainsi que les appellations correspondantes, pour du grain soit avarié, soit stocké en cellule, soit qui peut être commercialisé selon ses caractéristiques plutôt que selon un grade établi par règlement, soit non susceptible, du fait de son mélange avec d’autres matières, de classement dans les grades établis par règlement;
+
+- b) des grades, ainsi que les appellations et les caractéristiques correspondantes, pour les criblures.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 19; L.R. (1985), ch. 37 (4^e^ suppl.), art. 6; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### Comités de normalisation des grains
+
+### 20 Comités de normalisation des grains
+
+(1) La Commission constitue, par règlement administratif, deux comités de normalisation, l’un pour les grains de l’Ouest et l’autre pour les grains de l’Est, respectivement appelés, dans la présente partie, comité de normalisation de l’Ouest et comité de normalisation de l’Est, et chargés de :
+
+- a) proposer les caractéristiques des grades de grain et choisir et proposer les échantillons-types normaux et les échantillons-types d’exportation;
+
+- b) remplir toutes autres fonctions qu’elle leur assigne en vue de l’établissement de normes pour les grains.
+
+**Membres du comité de normalisation de l’Ouest**
+
+(2) Avec l’approbation du ministre, la Commission nomme au comité de normalisation de l’Ouest :
+
+- a) un commissaire, un inspecteur des grains et un scientifique;
+
+- b) [Abrogé, 2012, ch. 31, art. 354]
+
+- c) deux personnes désignées par le sous-ministre de l’Agriculture et de l’Agroalimentaire;
+
+- d) [Abrogé, 2011, ch. 25, art. 25]
+
+- e) deux personnes choisies parmi les transformateurs de grain;
+
+- f) deux personnes choisies parmi les exportateurs de grain;
+
+- g) douze producteurs-exploitants de grain de l’Ouest;
+
+- h) au plus quatre autres personnes, selon qu’elle l’estime opportun.
+
+**Membres du comité de normalisation de l’Est**
+
+(3) Avec l’approbation du ministre, la Commission nomme au comité de normalisation de l’Est :
+
+- a) un commissaire, un inspecteur des grains et un scientifique;
+
+- b) une personne désignée par le sous-ministre de l’Agriculture et de l’Agroalimentaire;
+
+- c) quatre personnes choisies parmi les transformateurs et les exportateurs de grain;
+
+- d) au plus quatre représentants des producteurs de grain de l’Est;
+
+- e) au plus trois autres personnes, selon qu’elle l’estime opportun.
+
+**Présidence**
+
+(4) Un commissaire assume la présidence des réunions d’un comité de normalisation des grains.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 20; L.R. (1985), ch. 37 (4^e^ suppl.), art. 7; 1994, ch. 38, art. 20; 2011, ch. 25, art. 25; 2012, ch. 31, art. 354
+
+</details>
+
+### 21 Serment professionnel
+
+(1) Les membres des comités de normalisation des grains, à l’exception des commissaires et des agents de l’administration publique fédérale, prêtent, préalablement à leur entrée en fonctions, le serment professionnel réglementaire.
+
+**Durée du mandat**
+
+(2) La Commission fixe, par règlement administratif, la durée du mandat des membres des comités de normalisation des grains qui ne sont pas des agents de l’administration publique fédérale.
+
+**Idem**
+
+(3) Nonobstant le paragraphe (2) et les paragraphes 20(2) et (3), la durée du mandat ne peut excéder sept années consécutives sauf dans le cas des agents de l’administration publique fédérale.
+
+**Quorum**
+
+(4) La moitié des membres d’un comité de normalisation des grains constitue le quorum.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 21; 2003, ch. 22, art. 224(A)
+
+</details>
+
+### 22 Traitement et indemnités
+
+Les membres des comités de normalisation des grains ont droit de percevoir :
+
+- a) s’ils ne sont pas agents de l’administration publique fédérale, le traitement que fixe la Commission par règlement administratif;
+
+- b) les indemnités pour les frais de déplacement et de séjour entraînés par l’accomplissement, hors de leur lieu ordinaire de résidence, des fonctions qui leur sont conférées en application de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 22; 1994, ch. 45, art. 6; 2003, ch. 22, art. 224(A)
+
+</details>
+
+### Échantillons-types normaux et échantillons-types d’exportation
+
+### 23 Prélèvement d’échantillons
+
+Le plus tôt possible au cours de chaque campagne agricole, la Commission fait prélever des échantillons caractéristiques de la récolte de grains de l’Ouest et de l’Est et, à l’aide de ces échantillons et d’autres échantillons des stocks de grain subsistant des campagnes agricoles précédentes qu’elle juge représentatifs du stock actuel, fait préparer des échantillons caractéristiques :
+
+- a) de chaque grade de grain établi par règlement et pour lequel le comité de normalisation des grains de l’Ouest ou le comité de normalisation des grains de l’Est juge opportun de le faire;
+
+- b) d’autres grades de grain de l’Ouest ou de l’Est lorsqu’elle estime opportun de désigner des échantillons-types normaux ou des échantillons-types d’exportation ou les deux, à leur égard;
+
+- c) des grains pour lesquels elle désire obtenir une proposition en application des alinéas 24(2)b) et c).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 23; L.R. (1985), ch. 37 (4^e^ suppl.), art. 8
+
+</details>
+
+### 24 Convocation de réunions
+
+(1) La Commission convoque une réunion de chaque comité de normalisation des grains, après la préparation des échantillons prévue à l’article 23 et réception des rapports jugés par elle nécessaires sur les qualités meunières, boulangères et autres des échantillons.
+
+**Fonctions des comités de normalisation des grains**
+
+(2) Les comités de normalisation des grains ont pour tâche d’examiner les échantillons de grain qui leur sont fournis par la Commission et de :
+
+- a) choisir et proposer à la Commission les échantillons de chaque grade de grain pour lequel un échantillon caractéristique a été préparé en application de l’alinéa 23a) et qui, à leur avis, représentent le plus fidèlement possible la qualité minimale de ce grade;
+
+- b) proposer à la Commission, pour les autres grades de grain, les appellations et caractéristiques qu’ils estiment nécessaires d’établir pour la campagne agricole courante;
+
+- c) choisir et proposer à la Commission les échantillons de chaque grade de grain proposé en application de l’alinéa b) qui, à leur avis, représentent le plus fidèlement possible la qualité minimale de ce grade.
+
+**Définition de **comité de normalisation des grains****
+
+(3) Pour l’application du paragraphe (2), **comité de normalisation des grains** s’entend :
+
+- a) du comité de normalisation de l’Ouest, lorsqu’il s’agit de grains de l’Ouest;
+
+- b) du comité de normalisation de l’Est, lorsqu’il s’agit de grains de l’Est.
+
+**Proposition d’échantillons-types d’exportation**
+
+(4) Le comité de normalisation de l’Ouest examine les échantillons de grain de chaque grade que lui fournit la Commission, choisit et propose à celle-ci les échantillons qui représentent le plus fidèlement possible la qualité moyenne des grains de ce grade reçus par les installations et les postes d’inspection, dans le cas :
+
+- a) de chaque grade de blé roux de printemps de l’Ouest ou de blé durum ambré de l’Ouest en principe destiné, selon la Commission, à l’exportation;
+
+- b) des autres grades de grain de l’Ouest que la Commission lui demande d’examiner.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 24; L.R. (1985), ch. 37 (4^e^ suppl.), art. 9
+
+</details>
+
+### 25 Délégation de fonctions
+
+Chaque comité de normalisation des grains peut :
+
+- a) déléguer à un sous-comité comprenant, outre certains de ses membres, un inspecteur, les fonctions que lui confient les alinéas 24(2)b) ou c);
+
+- b) faute de pouvoir obtenir, au cours d’une campagne agricole, un échantillon d’un grade donné ou si, à son avis, il n’y a pas de différence importante dans la qualité du grade par rapport à la récolte de l’année précédente, proposer à la Commission un échantillon du même grade approuvé par celle-ci lors d’une campagne agricole antérieure.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 25; L.R. (1985), ch. 37 (4^e^ suppl.), art. 10
+
+</details>
+
+### 26 Désignation d’échantillons-types normaux et d’échantillons-types d’exportation
+
+Pour chaque campagne agricole, la Commission, après examen des propositions que lui font l’un ou l’autre des comités de normalisation en application des paragraphes 24(2) et (4) et, dans le cas de l’alinéa b), le seul comité de normalisation de l’Ouest, en application du paragraphe (4), désigne respectivement :
+
+- a) des échantillons-types normaux pour chacun des grades de grain pour lesquels un échantillon caractéristique a été préparé en application de l’alinéa 23a) et pour les autres grades pour lesquels elle juge opportun de le faire;
+
+- b) des échantillons-types d’exportation pour chacun des grades de grain de l’Ouest pour lesquels un échantillon caractéristique a été préparé en application de l’alinéa 23a) et pour les autres grades pour lesquels elle juge opportun de le faire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 26; L.R. (1985), ch. 37 (4^e^ suppl.), art. 11
+
+</details>
+
+### 27 Échantillons-types d’exportation
+
+(1) L’échantillon-type d’exportation désigné pour un grade de grain constitue, à la fois :
+
+- a) la norme visuelle à utiliser pour le classement des grains de l’Ouest de ce grade déchargés d’une installation terminale ou de transformation;
+
+- b) le critère visuel de qualité minimale de ce grade.
+
+**Échantillons-types normaux**
+
+(2) L’échantillon-type normal désigné pour un grade de grain constitue, à la fois :
+
+- a) la norme visuelle à utiliser pour le classement du grain de ce grade autre que le grain de l’Ouest déchargé d’une installation terminale ou de transformation;
+
+- b) le critère visuel de qualité minimale de ce grade.
+
+**Critères de qualité non visuels**
+
+(3) Dans la classification des grains, il faut tenir compte, selon le cas, de :
+
+- a) la teneur en protéines, lorsqu’elle est un critère de qualité applicable à un grade de grain;
+
+- b) tout autre critère de qualité applicable à un grade de grains qui ne peut s’apprécier visuellement par comparaison avec un échantillon-type normal ou un échantillon-type d’exportation.
+
+**Restriction**
+
+(4) Un échantillon-type normal ne peut servir à :
+
+- a) attribuer un grade à des grains qui ne satisfont pas aux caractéristiques fixées pour celui-ci sous le régime de la présente loi;
+
+- b) refuser d’attribuer un grade à des grains qui satisfont aux caractéristiques ainsi établies pour celui-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 27; 2012, ch. 31, art. 355
+
+</details>
+
+### 28 Variété non enregistrée sous le régime de la *Loi sur les semences*
+
+Nonobstant l’alinéa 27(4)b), il est interdit, sauf autorisation de la Commission, d’attribuer à un grain provenant d’une variété de semence non enregistrée sous le régime de la *Loi sur les semences* pour vente ou importation au Canada un grade supérieur au niveau le plus bas établi par règlement pour ce type de grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 28; L.R. (1985), ch. 49 (1^er^ suppl.), art. 8, ch. 37 (4^e^ suppl.), art. 12
+
+</details>
+
+### Inspection du grain
+
+### 29 Dispositions en vue de l’inspection
+
+La Commission prend les dispositions nécessaires pour assurer l’inspection du grain dans les lieux qu’elle fixe par règlement administratif.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 23
+
+</details>
+
+### 30 Ordre d’inspection
+
+(1) Sous réserve des règlements, l’inspecteur procède :
+
+- a) sur demande, à l’inspection officielle du grain en tout lieu prévu à cet effet, dans l’ordre de réception des demandes;
+
+- b) lors de cette inspection, au prélèvement, dans les formes réglementaires, d’un échantillon officiel du grain, qu’il conserve pendant quinze jours ou, le cas échéant, la période plus longue prévue par règlement.
+
+**Attribution d’un grade aux échantillons non officiels**
+
+(2) L’inspecteur peut, de la façon réglementaire, procéder à l’attribution d’un grade à un échantillon non officiel de grain qui lui est présenté à cette fin.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 30; 1994, ch. 45, art. 7
+
+</details>
+
+### 31 Propriété de la Commission
+
+Dès leur prélèvement en application de l’article 30 ou leur envoi à la Commission, les échantillons deviennent la propriété de celle-ci, laquelle doit les vendre ou en disposer conformément aux règlements.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 31; L.R. (1985), ch. 37 (4^e^ suppl.), art. 13
+
+</details>
+
+### 32 Certificats d’inspection
+
+(1) Sous réserve des autres dispositions de la présente loi, l’inspecteur établit, au terme de l’inspection officielle, un certificat d’inspection réglementaire qui :
+
+- a) dans le cas de grains cultivés au Canada ou aux États-Unis :
+  - (i) leur attribue un des grades fixés sous le régime de la présente loi ou, s’ils peuvent être répartis dans plusieurs grades, celui qui représente le plus haut niveau applicable,
+  - (ii) précise les impuretés à éliminer pour qu’ils soient admissibles au grade visé au sous-alinéa (i);
+
+- b) dans le cas de grains cultivés à l’extérieur du Canada ou des États-Unis, fait état de leur qualité de grain importé ou de leur pays d’origine et, dans les circonstances prévues par règlement :
+  - (i) leur attribue un des grades fixés sous le régime de la présente loi ou, s’ils peuvent être répartis dans plusieurs grades, celui qui représente le plus haut niveau applicable,
+  - (ii) précise les impuretés à éliminer pour qu’ils soient admissibles au grade visé au sous-alinéa (i).
+
+**Certificat sans mention de grade**
+
+(1.1) Avec l’autorisation de la Commission, l’inspecteur peut délivrer, pour du grain soit stocké en cellule, soit commercialisé — ou pouvant l’être — selon ses caractéristiques plutôt que selon un grade établi par règlement, le certificat d’inspection réglementaire sans lui attribuer un grade particulier. Le certificat, selon le cas, fait état du stockage du grain en cellule ou précise ces caractéristiques.
+
+**Renseignements supplémentaires**
+
+(2) Le certificat d’inspection contient, outre les renseignements visés aux paragraphes (1) ou (1.1), selon le cas, toute autre information approuvée par la Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 32; L.R. (1985), ch. 37 (4^e^ suppl.), art. 14
+- 2020, ch. 1, art. 64
+
+</details>
+
+### 33 Transmission du certificat d’inspection
+
+Le certificat d’inspection établi lors du déchargement de grain d’une installation terminale est transmis avec les documents d’expédition afférents.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 33; 2012, ch. 31, art. 356
+
+</details>
+
+### 34 Annulation du certificat d’inspection
+
+Le certificat d’inspection établi pour du grain dont on constate ultérieurement l’état avarié est annulé et remplacé, après inspection, par un nouveau certificat.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 28
+
+</details>
+
+### 35
+
+[Abrogé, 2012, ch. 31, art. 357]
+
+### 36
+
+[Abrogé, 2012, ch. 31, art. 357]
+
+### 37
+
+[Abrogé, 2012, ch. 31, art. 357]
+
+### 38
+
+[Abrogé, 2012, ch. 31, art. 357]
+
+### Appels en matière de classement de grain
+
+### 39 Droit d’appel
+
+(1) Quiconque est insatisfait de l’attribution d’un grade résultant d’une inspection officielle peut interjeter appel de la décision de l’inspecteur relativement à l’une ou l’autre des caractéristiques du grain ainsi classé, sous forme de demande de réinspection, auprès de l’inspecteur en chef des grains pour le Canada.
+
+**Délai d’appel**
+
+(2) Sauf autorisation de la Commission, pour que l’appel soit recevable, avis doit en être donné à l’inspecteur en chef des grains pour le Canada dans les quinze jours suivant la décision portée en appel.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 39; 2012, ch. 31, art. 358
+
+</details>
+
+### 40 Restriction
+
+Par dérogation à l’article 39, l’attribution d’un grade par un inspecteur n’est pas, sous réserve des règlements, susceptible d’appel dans le cas où elle est faite :
+
+- a) d’après un échantillon de grains prélevé au moment de la livraison du grain à une installation primaire;
+
+- b) à du grain au moment de son déchargement d’une installation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 30
+
+</details>
+
+### 41 Obligations de l’inspecteur en chef lors d’un appel
+
+(1) L’inspecteur en chef des grains pour le Canada saisi d’un appel :
+
+- a) inspecte le grain faisant l’objet de l’appel ou un échantillon de celui-ci;
+
+- b) réexamine la décision portée en appel;
+
+- c) attribue au grain le grade qu’il juge approprié;
+
+- d) exige que les certificats d’inspection et autres documents précisés par la Commission qui sont relatifs à ce grain soient corrigés en cas de changement de grade.
+
+**Caractère définitif de la décision**
+
+(2) La décision de l’inspecteur en chef des grains pour le Canada est définitive et n’est pas susceptible d’appel ou de révision.
+
+**Délégation**
+
+(3) L’inspecteur en chef des grains pour le Canada peut déléguer tout ou partie des attributions qui lui sont conférées par le paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 41; L.R. (1985), ch. 37 (4^e^ suppl.), art. 15; 2012, ch. 31, art. 359
+
+</details>
+
+## Licences et titulaires
+
+### Licences
+
+### 42 Diverses catégories
+
+Pour l’application de la présente loi, sont établies les catégories suivantes de licences :
+
+- a) licence d’exploitation d’une installation primaire;
+
+- b) licence d’exploitation d’une installation terminale;
+
+- c) [Abrogé, 2012, ch. 31, art. 360]
+
+- d) licence d’exploitation d’une installation de transformation;
+
+- e) licence de négociant en grains.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 42; 2012, ch. 31, art. 360
+
+</details>
+
+### 43 Sous-catégories de licences
+
+La Commission peut, par règlement pris avec l’approbation du gouverneur en conseil :
+
+- a) instituer des sous-catégories des licences établies par l’article 42;
+
+- b) fixer la durée de validité et les conditions d’exercice des différentes catégories ou sous-catégories de licences.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 43; 1994, ch. 45, art. 9
+
+</details>
+
+### 44 Interdiction
+
+Il est interdit :
+
+- a) d’exploiter une installation mentionnée à l’article 42 à moins, selon le cas :
+  - (i) d’être titulaire d’une licence délivrée à cette fin,
+  - (ii) que l’installation bénéficie d’une exemption de licence en application de l’article 117;
+
+- b) de faire profession de négociant en grains à moins, selon le cas :
+  - (i) d’être titulaire d’une licence à cette fin,
+  - (ii) que le commerce bénéficie d’une exemption de licence en application de l’article 117,
+  - (iii) de n’exercer la profession que dans le cadre de l’exploitation d’une installation agréée ou à titre de courtier auprès d’une bourse de grains reconnue.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 34
+
+</details>
+
+### 45 Délivrance de licences — silo primaire, silo de transformation et commerce de grains
+
+(1) Lorsqu’elle est convaincue que l’intéressé et, le cas échéant, le silo satisfont aux exigences de la présente loi, la Commission peut, sur demande écrite d’une personne qui se propose d’exploiter un silo primaire ou un silo de transformation ou un commerce de grains :
+
+- a) lui délivrer la licence appropriée en l’occurrence;
+
+- b) fixer, sous réserve des règlements, la garantie à fournir sous forme de cautionnement, d’assurance ou autre par le demandeur en tenant compte des obligations éventuelles de paiement ou de livraison de grain contractées par celui-ci envers les producteurs qui seront détenteurs d’accusés de réception, de bons de paiement ou de récépissés délivrés en application de la présente loi à l’égard du grain produit par eux.
+
+**Délivrance de licences — silo terminal ou de transbordement**
+
+(2) Lorsqu’elle est convaincue que l’intéressé et, le cas échéant, le silo satisfont aux exigences de la présente loi, la Commission peut, sur demande écrite d’une personne qui se propose d’exploiter un silo terminal ou de transbordement :
+
+- a) lui délivrer la licence appropriée en l’occurrence;
+
+- b) fixer, sous réserve des règlements, la garantie à fournir sous forme de cautionnement, d’assurance ou autre par le demandeur en tenant compte des obligations de paiement ou de livraison de grain contractées par celui-ci envers les détenteurs de récépissés délivrés en application de la présente loi.
+
+**Modalités des licences**
+
+(3) Toute licence délivrée en vertu du présent article :
+
+- a) a une durée de validité maximale de cinq ans;
+
+- b) est assortie des conditions réglementaires et des autres conditions que la Commission juge, dans l’intérêt public, de nature à faciliter le commerce des grains.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 45; 1994, ch. 45, art. 10; 2001, ch. 4, art. 88(A)
+
+</details>
+
+### 46 Refus de délivrance de licence — silo
+
+(1) La Commission peut refuser de délivrer une licence d’exploitation de silo si l’intéressé n’a pas versé la garantie qu’elle a fixée en vertu de l’article 45 ou n’établit pas, à sa satisfaction :
+
+- a) soit que les locaux qu’il se propose d’utiliser conviennent au stockage et à la manutention du grain;
+
+- b) soit que le type et l’état de l’installation et de son équipement ainsi que la dimension de celui-ci lui permettront de fournir, au lieu d’exploitation proposé, les services imposés sous le régime de la présente loi au titulaire d’une licence de la catégorie de celle qui est demandée.
+
+**Refus de délivrance de licence de négociant en grains**
+
+(2) La Commission peut refuser de délivrer une licence de négociant en grains si l’intéressé n’a pas versé la garantie qu’elle a fixée en vertu de l’article 45.
+
+**Refus de délivrance — condamnations**
+
+(3) La Commission peut refuser de délivrer une licence à toute personne condamnée pour infraction à la présente loi dans les douze mois qui précèdent la demande lorsqu’elle est convaincue que cela serait contraire à l’intérêt public.
+
+**Interprétation**
+
+(4) Les pouvoirs de refus de délivrance prévus au présent article ne limitent pas les pouvoirs de délivrance ou de refus de délivrance de licences que les autres dispositions de la présente loi confèrent à la Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 46; L.R. (1985), ch. 37 (4^e^ suppl.), art. 16; 1994, ch. 45, art. 10
+
+</details>
+
+### 47
+
+[Abrogé, 1994, ch. 45, art. 10]
+
+### 48 Consultation
+
+(1) À la demande de l’intéressé, la Commission est tenue de discuter avec lui des conditions qu’elle entend fixer en application de l’alinéa 45(3)b).
+
+**Modification d’une licence**
+
+(2) La Commission peut, sous réserve des règlements et sur demande du titulaire, modifier les conditions de sa licence.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 48; 1994, ch. 45, art. 11
+
+</details>
+
+### 49 Garantie supplémentaire
+
+(1) Lorsqu’elle a des raisons de croire que la garantie donnée en application de la présente loi par un titulaire de licence est insuffisante, la Commission peut, par arrêté, obliger celui-ci à fournir, dans le délai qu’elle juge raisonnable, la garantie supplémentaire qu’elle estime suffisante.
+
+**Recouvrement ou réalisation**
+
+(2) La garantie donnée par un titulaire de licence ne peut être réalisée ou recouvrée que, selon le cas :
+
+- a) par la Commission;
+
+- b) par tout détenteur visé à l’article 45 et qui a subi une perte ou des dommages en raison du manquement du titulaire, délibéré ou non :
+  - (i) aux exigences de la présente loi, ainsi que des règlements ou ordonnances pris sous son régime,
+  - (ii) à l’obligation de lui faire un paiement ou de lui livrer du grain sur remise du bon de paiement, de l’accusé de réception ou du récépissé délivré par le titulaire en application de la présente loi.
+
+(2.1) [Abrogé, 1994, ch. 45, art. 12]
+
+**Limite**
+
+(3) Par dérogation au paragraphe (2), la garantie donnée par le titulaire d’une licence d’exploitation d’un silo primaire ou d’un silo de transformation ou d’un commerce de grains ne peut être réalisée ou recouvrée relativement à un accusé de réception, un bon de paiement ou un récépissé que si, à la fois :
+
+- a) avant l’expiration de la période réglementaire suivant la livraison au titulaire du grain qui y est visé, celui-ci a manqué à son obligation de paiement ou de livraison envers le producteur ou a refusé de l’exécuter;
+
+- b) le producteur en a avisé par écrit la Commission dans les trente jours suivant le manquement ou le refus.
+
+**Idem**
+
+(4) Par dérogation au paragraphe (2), la garantie donnée par le titulaire d’une licence d’exploitation d’un silo terminal ou d’un silo de transbordement ne peut être réalisée ou recouvrée relativement à un récépissé que si le détenteur a avisé par écrit la Commission dans les trente jours suivant le manquement ou le refus du titulaire d’exécuter son obligation de livraison envers lui.
+
+**Idem**
+
+(5) Par dérogation aux autres dispositions de la présente loi, la Commission peut fixer par règlement le pourcentage de la valeur de l’accusé de réception, du bon de paiement ou du récépissé à l’égard duquel la garantie donnée par le titulaire de licence peut être réalisée ou recouvrée, celle-ci ne pouvant alors l’être que dans la mesure nécessaire au recouvrement du pourcentage réglementaire.
+
+**Disposition interprétative**
+
+(6) Le manquement à ses obligations de la part du titulaire de licence lorsque celui-ci remet au producteur un bon de paiement ou toute autre lettre de change que la banque ou autre institution financière sur laquelle ils sont tirés refuse par la suite d’honorer est réputé avoir lieu à la date de la remise.
+
+(7) [Abrogé, 1998, ch. 22, art. 6]
+
+**Assurances**
+
+(8) La Commission peut exiger du demandeur ou du titulaire de licence de silo primaire, de silo de transbordement ou de silo terminal qu’il souscrive, en conformité avec les règlements, des polices d’assurance pour couvrir la perte du grain stocké dans son silo ou les dommages qui peuvent lui être causés.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 49; L.R. (1985), ch. 37 (4^e^ suppl.), art. 17; 1994, ch. 45, art. 12; 1998, ch. 22, art. 6 et 25(F)
+
+</details>
+
+### 49.1 Restrictions
+
+(1) La responsabilité de la Commission n’est pas engagée à l’égard du producteur qui a livré du grain à une personne non titulaire d’une licence ou qui n’a pas obtenu du titulaire auquel il a livré du grain un accusé de réception, un bon de paiement ou un récépissé.
+
+**Restriction**
+
+(2) La responsabilité de la Commission n’est pas engagée dans le cas où le titulaire de licence ne respecte pas son obligation de paiement ou de livraison envers les détenteurs d’accusés de réception, de récépissés ou de bons de paiement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, ch. 45, art. 13; 1998, ch. 22, art. 8
+
+</details>
+
+### Tarif des services
+
+### 50 Dépôt du tarif
+
+(1) Le titulaire de licence qui exploite un silo dépose auprès de la Commission, avant le début de chaque campagne agricole, le tarif qui sera en vigueur durant la campagne pour les services qu’il fournira au titre de sa licence.
+
+**Modification du tarif**
+
+(2) Au cours d’une campagne agricole, le titulaire d’une licence d’exploitation peut déposer auprès de la Commission une modification du tarif pour les services qu’il fournira sous licence pendant cette période.
+
+**Condition**
+
+(3) Une modification du tarif ne peut entrer en vigueur avant son dépôt auprès de la Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 50; L.R. (1985), ch. 37 (4^e^ suppl.), art. 18; 1994, ch. 45, art. 14
+
+</details>
+
+### 51 Perception des droits
+
+(1) Le titulaire d’une licence d’exploitation ne peut percevoir, pour les services fournis sous licence dans son silo, une somme supérieure au moindre des montants suivants :
+
+- a) le plafond qui peut être fixé par règlement pour le service fourni;
+
+- b) le prix indiqué pour le service fourni dans le tarif qu’il a déposé auprès de la Commission.
+
+**Définition de **plafond****
+
+(2) À l’alinéa (1)a), **plafond** s’entend aussi bien du montant maximal fixé par les règlements que de celui qui est déterminé en application de ceux-ci.
+
+**Plafond temporaire**
+
+(3) Par dérogation au paragraphe (1), dès qu’une personne lui soumet une plainte écrite portant sur les droits qu’un exploitant d’un silo agréé exige pour un service donné, la Commission peut, par ordonnance, après avoir accordé à tous les intéressés la possibilité d’être entendus, fixer le plafond — ou le mode de détermination du plafond — pour le service en question.
+
+**Période de validité de l’ordonnance**
+
+(4) L’ordonnance entre en vigueur à la date qu’elle mentionne expressément, laquelle ne peut être antérieure à celle que la Commission détermine comme étant la date de la survenance des faits à l’origine de la plainte et le demeure jusqu’à la fin de la campagne agricole au cours de laquelle elle est rendue ou la date d’expiration antérieure qu’elle prévoit.
+
+**Cessation d’effet**
+
+(5) Les paragraphes (3) et (4) cessent d’être en vigueur le 31 juillet 1996.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 51; 1994, ch. 45, art. 14
+
+</details>
+
+### 52 Limitation de la période d’application des frais
+
+(1) Le titulaire d’une licence d’exploitation ne peut réclamer, pour des grains visés par un récépissé, de droits de stockage pour toute période postérieure à :
+
+- a) leur chargement sur un wagon ou autre véhicule de transport;
+
+- b) la période de vingt-quatre heures qui suit :
+  - (i) le moment où le wagon ou autre véhicule de transport est prêt à les recevoir légalement,
+  - (ii) le paiement ou l’offre de paiement des droits exigibles à leur égard,
+  - (iii) la remise ou la présentation du récépissé.
+
+**Exception concernant les navires**
+
+(2) Lorsque le véhicule de transport visé par le paragraphe (1) est un navire, le détenteur de récépissés est réputé ne pas remettre ou présenter par jour de récépissés exigeant plus que la livraison de la quantité de grains pouvant être normalement déchargée de l’installation pendant les vingt-quatre heures qui suivent.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 40
+
+</details>
+
+### 53 Frais en cas d’incapacité de livraison
+
+(1) Nonobstant l’article 51, le titulaire d’une licence d’exploitation qui se trouve, pendant un certain temps, dans l’incapacité, du fait de l’état de l’installation agréée, d’un arrêt de travail des employés ou d’un lock-out, de livrer, aux termes d’un récépissé qu’il a établi, que le détenteur le lui demande ou non, du grain, des produits céréaliers ou des criblures stockés dans son installation, ne peut réclamer de ce détenteur, pour toute fraction de cette période postérieure aux sept premiers jours, des droits de stockage supérieurs au plafond spécial visé au paragraphe (2).
+
+**Idem**
+
+(2) La Commission fixe par règlement pris avec l’approbation du gouverneur en conseil, pour les frais de stockage — durant la période visée au paragraphe (1) — de grains, de produits céréaliers ou de criblures dans une installationde quelque type que ce soit, un plafond spécial inférieur à celui qui est autorisé par l’article 51; elle peut faire varier ce plafond pour toute fraction de cette période.
+
+**Application**
+
+(3) Le plafond spécial ainsi fixé ne s’applique qu’à la période d’incapacité, prévue au paragraphe (1), postérieure à l’entrée en vigueur du règlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 53; L.R. (1985), ch. 37 (4^e^ suppl.), art. 19; 1994, ch. 45, art. 15
+
+</details>
+
+### 54 Paiement avant livraison
+
+La présente loi n’oblige pas le titulaire de licence à livrer, sur demande du détenteur d’un récépissé, le grain qui y est visé, tant que ce document ne lui a pas été remis et que les droits exigibles aux termes de la présente loi n’ont pas été acquittés.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 54; L.R. (1985), ch. 37 (4^e^ suppl.), art. 20
+
+</details>
+
+### 54.1 Recouvrement des droits
+
+(1) Lorsque les droits exigibles aux termes d’un récépissé qui est en circulation depuis plus d’un an et qui a été délivré par le titulaire d’une licence d’exploitation relative à une installation terminale n’ont pas été acquittés, le titulaire peut, avec l’autorisation écrite de la Commission et aux conditions fixées par écrit par celle-ci — relatives, notamment, à l’avis de vente préalable au dernier détenteur connu du récépissé —, vendre le grain visé par ce document ou la même quantité de grain des mêmes type ou grade pour recouvrer le montant des droits dus.
+
+**Obligation du titulaire de licence après la vente**
+
+(2) Le titulaire d’une licence d’exploitation qui procède à la vente visée au paragraphe (1) n’a, envers le détenteur du récépissé, que l’obligation de lui verser, sur remise de ce document, le produit de la vente, déduction faite des droits exigibles en application de la présente loi et des frais exposés pour la vente.
+
+**Avertissement**
+
+(3) Chaque récépissé délivré par le titulaire d’une licence d’exploitation relative à une installation terminale doit porter la mention suivante :
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. 37 (4^e^ suppl.), art. 20; 2012, ch. 31, art. 365
+
+</details>
+
+## Installations — négociants en grains — manutention du grain par des titulaires de licence et autres personnes
+
+### Déclaration
+
+### 55 Ouvrages à l’avantage général du Canada
+
+(1) Toutes les installations du Canada, actuelles et futures, à l’exception de celles visées aux paragraphes (2) ou (3), constituent, collectivement et séparément, des ouvrages à l’avantage général du Canada.
+
+**Autres ouvrages**
+
+(1.1) Les minoteries, fabriques et entrepôts d’aliments pour les animaux ainsi que les stations de nettoiement des semences constituent des ouvrages à l’avantage général du Canada.
+
+(2) et (3) [Abrogés avant d’entrer en vigueur, 2008, ch. 20, art. 3]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. G-10, art. 55; 2008, ch. 20, art. 3; 2011, ch. 25, art. 59
+
+</details>
+
+### Installations — Dispositions générales
+
+### 56 Équipement et entretien
+
+(1) Le titulaire de licence qui exploite une installation doit, conformément aux règlements et aux arrêtés de la Commission, la doter de l’équipement nécessaire — et en maintenir le bon état de fonctionnement — de façon à assurer l’efficacité et la précision des opérations qui y sont effectuées : pesée, échantillonnage, inspection, classement par grades, séchage et nettoyage, ainsi que du stockage de grains, produits céréaliers et criblures.
+
+**Restriction**
+
+(2) Le paragraphe (1) n’a pas pour effet d’obliger l’exploitant d’une installation primaire à installer un équipement de nettoyage ou de séchage.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 56; 1998, ch. 22, art. 11
+
+</details>
+
+### 57 Restriction concernant la réception dans les installations
+
+Sauf disposition contraire des règlements ou d’un arrêté de la Commission, le titulaire de licence qui exploite une installation ne peut y recevoir :
+
+- a) du grain, des produits céréaliers ou des criblures sans les peser immédiatement avant ou pendant leur réception;
+
+- b) pour stockage, d’autres matières que celles visées à l’alinéa a);
+
+- c) [Abrogé, 2005, ch. 24, art. 1]
+
+- d) du grain qu’il a des raisons de croire infesté ou contaminé.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 57; 1998, ch. 22, art. 12; 2005, ch. 24, art. 1
+
+</details>
+
+### 58 Grain avarié
+
+Sous réserve d’une ordonnance de la Commission, l’exploitant d’une installation agréée n’est pas tenu d’y recevoir du grain avarié ou fort susceptible de le devenir.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 46
+
+</details>
+
+### 58.1 *Loi sur les semences* et *Loi sur les produits antiparasitaires*
+
+L’exploitant d’une installation agréée n’est pas tenu d’y recevoir du grain :
+
+- a) soit qui provient d’une variété de semence non enregistrée sous le régime de la *Loi sur les semences* pour vente ou importation au Canada;
+
+- b) soit qui contient un produit antiparasitaire non homologué en vertu de la *Loi sur les produits antiparasitaires*, ou l’un de ses composants ou dérivés, ou en est recouvert ou sur lequel un tel produit ou l’un de ses composants ou dérivés a été appliqué.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, ch. 1, art. 65
+
+</details>
+
+### 59 Précautions utiles
+
+L’exploitant d’une installation agréée doit prendre toutes les précautions et mesures utiles pour empêcher que le grain qui y est stocké ne se dégrade ou s’avarie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 47
+
+</details>
+
+### Installations primaires
+
+### 60 Ordre de réception du grain
+
+Sous réserve de l’article 58 et d’un arrêté pris en application de l’article 118, l’exploitant d’une installation primaire agréée doit, aux heures normales d’ouverture des jours ouvrables, sans discrimination et selon l’ordre d’arrivée et d’offre légale du grain, recevoir tout le grain pour lequel il est en mesure d’offrir le type et l’espace de stockage demandés.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 60; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### 61 Marche à suivre après réception du grain
+
+(1) Sous réserve du paragraphe (2), lorsqu’un producteur lui offre légalement du grain pour vente ou stockage, ailleurs qu’en cellule, l’exploitant d’une installation primaire agréée établit, selon les modalités de temps et autres modalités réglementaires, un bon de paiement ou un récépissé faisant état du grade du grain, de son appellation de grade et des impuretés qu’il contient et le délivre sans délai au producteur.
+
+**Mésentente**
+
+(2) S’il y a mésentente entre le producteur et l’exploitant sur ce grade, ces impuretés ou une caractéristique de qualité du grain prévue par règlement, l’exploitant :
+
+- a) prélève un échantillon du grain en la forme réglementaire,
+
+- b) suit la procédure réglementaire fixée à l’égard de cet échantillon,
+
+- c) délivre, en la forme réglementaire, un récépissé provisoire.
+
+**Rapport de la Commission**
+
+(3) Sur réception du rapport de la Commission attribuant un grade à l’échantillon, en déterminant les impuretés et déterminant toute caractéristique de qualité faisant l’objet de la mésentente, l’exploitant établit, selon les modalités de temps et autres modalités réglementaires, un bon de paiement ou un récépissé faisant état du grade du grain, de son appellation de grade, des impuretés qu’il contient et des caractéristiques de qualité ainsi déterminées et le délivre sans délai au producteur.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 61; 1994, ch. 45, art. 16
+- 2020, ch. 1, art. 66
+
+</details>
+
+### 62 Récépissés pour stockage en cellule
+
+(1) L’exploitant d’une installation primaire agréée qui accepte l’offre légale de stockage de grains en cellule constate l’emploi de ce procédé sur le récépissé qu’il délivre.
+
+**Échantillons**
+
+(2) Sur réception du grain à stocker en cellule, l’exploitant de l’installation primaire agréée prélève un échantillon et applique la procédure réglementaire établie à cet égard.
+
+**Désaccord**
+
+(3) En cas de désaccord entre le détenteur d’un récépissé constatant le stockage en cellule et l’exploitant d’une installation primaire agréée, au sujet du stockage en cellule du grain, la Commission peut, après avoir donné aux intéressés l’occasion de se faire entendre, examiner l’échantillon prélevé en application du paragraphe (2) et, si elle décide que le grain n’a pas été bien séparé dans l’installation, ordonner, selon ce qu’elle estime juste, le paiement ou la livraison du grain ou l’un et l’autre.
+
+**Restriction**
+
+(4) La prise de l’arrêté visé au paragraphe (3) est subordonnée à la condition que la Commission ait reçu avis écrit du désaccord dans les trente jours suivant la livraison du grain en cause à une installation terminale ou de transformation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 62; 1998, ch. 22, art. 25(F); 2012, ch. 31, art. 366
+
+</details>
+
+### 63 Traitement particulier
+
+L’exploitant d’une installation primaire agréée effectue le pesage, la manutention et le traitement du grain, qui lui est légalement offert pour stockage, conformément à la demande qui lui est faite et aux modalités réglementaires et délivre ensuite un récépissé dans le cas suivant :
+
+- a) la personne qui lui offre le grain lui demande de procéder à un traitement particulier pour lequel l’installation est équipée préalablement à la détermination du type de stockage ou au classement par grades du grain ou à l’une et l’autre;
+
+- b) il accepte de recevoir le grain ou y est contraint par la présente loi ou un arrêté de la Commission.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 63; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### 64 Vérification du poids
+
+L’exploitant d’une installation primaire offre toutes possibilités à la personne qui y livre du grain d’en vérifier le poids exact pendant la pesée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 52
+
+</details>
+
+### 65 Enlèvement obligatoire du grain
+
+(1) Sous réserve du paragraphe (2), l’exploitant d’une installation primaire agréée peut, par avis écrit d’au moins dix jours donné, en la forme réglementaire, au dernier détenteur connu d’un récépissé délivré par lui, obliger celui-ci à prendre livraison du grain visé par le récépissé.
+
+**Restriction en cas de stockage en cellule**
+
+(2) Sauf autorisation contraire par écrit de la Commission, le paragraphe (1) ne permet pas à l’exploitant d’une installation primaire agréée d’obliger le détenteur d’un récépissé pour du grain stocké en cellule à en prendre livraison.
+
+**Défaut de prendre livraison**
+
+(3) Faute par le détenteur de se conformer à l’avis visé au paragraphe (1), dans le délai imparti, qu’il en ait ou non pris connaissance, l’exploitant de l’installation peut, sur remise du récépissé par le détenteur en question ou par un détenteur subséquent, et sur paiement des droits exigibles aux termes de la présente loi :
+
+- a) soit livrer le grain conformément au récépissé;
+
+- b) soit payer au détenteur du récépissé le prix du marché, au jour de la remise du récépissé, pour du grain en même quantité et des mêmes type et grade que ceux visés au récépissé;
+
+- c) soit remettre au détenteur du récépissé un récépissé délivré par l’exploitant d’une installation terminale agréée pour du grain en même quantité et des mêmes type et grade que ceux visés au récépissé qui a été remis par le détenteur.
+
+**Avertissement**
+
+(4) Chaque récépissé délivré par l’exploitant d’une installation primaire agréée doit porter la mention suivante :
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 65; 1994, ch. 45, art. 17; 2012, ch. 31, art. 367
+
+</details>
+
+### 66 Renonciation au droit de livraison
+
+(1) Le détenteur d’un récépissé délivré par l’exploitant d’une installation primaire agréée peut, en s’y engageant par écrit sur le récépissé, en la forme réglementaire, renoncer à son droit d’exiger la livraison du grain en faisant l’objet.
+
+**Détenteurs subséquents**
+
+(2) La renonciation prévue au paragraphe (1) est opposable aux détenteurs subséquents.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 54
+
+</details>
+
+### 67 Déchargement d’une installation primaire
+
+(1) Sous réserve de l’article 86, l’exploitant d’une installation primaire agréée remplit sans délai le véhicule de transport visé à l’alinéa b) avec le grain mentionné sur le récépissé qu’il a délivré ou du grain en même quantité et des mêmes type et grade que ceux qui y sont précisés, si le détenteur du récépissé qui a droit à la livraison du grain visé par celui-ci :
+
+- a) peut légalement livrer le grain à une installation terminale ou de transformation, ou à un consignataire en un lieu autre qu’une installation;
+
+- b) a pris les arrangements voulus pour que se trouve sur place, à l’installation, un wagon ou autre véhicule de transport pouvant légalement recevoir un chargement de grain.
+
+**Acheminement du grain**
+
+(2) Dès que le chargement visé au paragraphe (1) est terminé, et si le détenteur du récépissé lui en fait la demande, l’exploitant :
+
+- a) fait acheminer le véhicule de transport à l’installation ou au consignataire légalement désigné par le détenteur;
+
+- b) délivre à la personne qui lui remet le récépissé et acquitte les droits exigibles aux termes de la présente loi, le récépissé du consignataire ou tout autre récépissé prévu par règlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 67; 2012, ch. 31, art. 368
+
+</details>
+
+### 68 Achat d’un récépissé par l’exploitant
+
+L’exploitant d’une installation primaire agréée qui achète un récépissé qu’il a lui-même établi délivre au détenteur qui le lui remet un bon de paiement équivalent au prix d’achat.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 56
+
+</details>
+
+### 68.1
+
+[Abrogé, 2012, ch. 31, art. 369]
+
+### Installations terminales
+
+### 69 Réception du grain
+
+(1) Sous réserve de l’article 58 et de tout arrêté pris en vertu du paragraphe (2) ou de l’article 118, l’exploitant d’une installation terminale agréée reçoit, les jours d’ouverture aux heures normales d’ouverture, sans discrimination et selon l’ordre d’arrivée du grain légalement offert, tout le grain pour lequel il est en mesure d’offrir le type et l’espace de stockage demandés.
+
+**Arrêtés en matière de réception du grain**
+
+(2) La Commission peut, par arrêté et aux conditions qu’elle fixe, autoriser ou obliger l’exploitant d’une installation terminale agréée à recevoir du grain légalement offert pour stockage ou transfert sans tenir compte des restrictions fixées par le paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 69; 1998, ch. 22, art. 25(F); 2012, ch. 31, art. 369
+
+</details>
+
+### 69.1 Pesée du grain reçu
+
+(1) Sous réserve du paragraphe (2) et à moins qu’un règlement ou un arrêté de la Commission ne l’en dispense, l’exploitant d’une installation terminale agréée pèse le grain reçu à l’installation, et ce, de la façon autorisée par la Commission.
+
+**Pesée du grain par un tiers**
+
+(2) À moins qu’un règlement ou un arrêté de la Commission ne l’en dispense, l’exploitant fait peser le grain par un tiers qui est autorisé par la Commission et qu’il choisit, dans le cas où la personne qui a fait livrer le grain en fait la demande.
+
+**Pesée de la façon autorisée**
+
+(3) Le tiers pèse le grain de la façon autorisée par la Commission.
+
+**Accès**
+
+(4) L’exploitant permet au tiers d’avoir accès à ses locaux pour qu’il procède à la pesée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 31, art. 369
+
+</details>
+
+### 69.2 Omission de peser
+
+Si l’exploitant d’une installation terminale agréée omet de se conformer aux paragraphes 69.1(1) ou (2), la personne qui a fait livrer le grain peut, en vue de conclure toute transaction entre elle et cet exploitant relativement à ce grain, se fonder sur tout registre ou autre document constatant le poids du grain avant la livraison.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 31, art. 369
+
+</details>
+
+### 70 Inspection par l’exploitant
+
+(1) Sous réserve du paragraphe (2) et à moins qu’un règlement ou un arrêté de la Commission ne l’en dispense, l’exploitant d’une installation terminale agréée inspecte le grain reçu à l’installation de la façon autorisée par la Commission.
+
+**Inspection par un tiers**
+
+(2) À moins qu’un règlement ou un arrêté de la Commission ne l’en dispense, l’exploitant fait inspecter le grain par un tiers qui est autorisé par la Commission et qu’il choisit, dans le cas où la personne qui a fait livrer le grain en fait la demande.
+
+**Tiers autorisé**
+
+(3) Le tiers inspecte le grain de la façon autorisée par la Commission.
+
+**Accès**
+
+(4) L’exploitant permet au tiers d’avoir accès à ses locaux pour qu’il procède à l’inspection.
+
+**Désaccord — demande de réinspection**
+
+(5) En cas de désaccord entre l’exploitant et la personne qui a fait livrer le grain sur le grade du grain inspecté en application du présent article ou sur les impuretés qu’il contient, l’un et l’autre peuvent, selon les modalités de temps et autres modalités réglementaires, demander à l’inspecteur en chef des grains pour le Canada la réinspection du grain. Le cas échéant, l’exploitant transmet à ce dernier dans le délai réglementaire les échantillons prélevés dans le cadre de l’inspection ou la partie de ceux-ci visée par règlement.
+
+**Réinspection**
+
+(6) L’inspecteur en chef des grains pour le Canada examine les échantillons ou la partie de ceux-ci, attribue un grade au grain et en détermine les impuretés. Il fournit à la personne qui a fait livrer le grain et à l’exploitant une copie de sa décision sur le grade et les impuretés.
+
+**Documents corrigés en cas de changement de grade**
+
+(7) En cas de changement de grade du grain par suite de la décision, l’inspecteur en chef des grains pour le Canada exige que les certificats d’inspection et les autres documents précisés par la Commission relatifs au grain soient corrigés.
+
+**Application**
+
+(8) La décision de l’inspecteur en chef des grains pour le Canada s’applique à l’ensemble du lot de grains dont proviennent les échantillons.
+
+**Caractère définitif de la décision**
+
+(9) La décision de l’inspecteur en chef des grains pour le Canada est définitive et n’est pas susceptible d’appel ou de révision.
+
+**Délégation**
+
+(10) L’inspecteur en chef des grains pour le Canada peut déléguer tout ou partie des attributions qui lui sont conférées par le présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 70; 2012, ch. 31, art. 369
+
+</details>
+
+### 70.1 Omission d’inspecter
+
+(1) Si l’exploitant d’une installation terminale agréée omet de se conformer aux paragraphes 70(1) ou (2), la personne qui a fait livrer le grain peut demander par écrit à la Commission qu’elle prenne l’arrêté visé au paragraphe (4).
+
+**Échantillons**
+
+(2) Le demandeur procède, de la façon règlementaire, à l’échantillonnage du grain et joint à la demande les échantillons prélevés prévus par règlement.
+
+**Délai de présentation de la demande**
+
+(3) La demande est adressée à la Commission dans les quinze jours suivant la date à laquelle le grain est reçu à l’installation.
+
+**Arrêté**
+
+(4) La Commission peut, par arrêté :
+
+- a) en vue de la conclusion de toute transaction entre le demandeur et l’exploitant relativement au grain, déclarer que le grain livré appartient au grade le plus élevé pour ce type et cette classe de grain;
+
+- b) exiger que l’exploitant livre à ses frais au demandeur du grain qui a des caractéristiques équivalentes à celles du grain livré et appartient au grade le plus élevé pour ce type et cette classe de grain, et ce, dans la même quantité que le grain livré.
+
+**Détermination par la Commission**
+
+(5) L’arrêté comprend la détermination faite par la Commission, à partir des échantillons joints à la demande, du type et de la classe de grain livré ainsi que des caractéristiques de celui-ci demandées par le demandeur et qu’elle juge nécessaires.
+
+**Copie de l’arrêté**
+
+(6) Une copie de l’arrêté est adressée, en conformité avec les règles établies en application du paragraphe 99(2), à chaque personne visée par celui-ci ou mentionnée dans les règles.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 31, art. 369
+
+</details>
+
+### 70.2 Inspection exigée par règlement ou arrêté
+
+(1) Si un règlement ou un arrêté de la Commission l’exige, l’exploitant d’une installation terminale agréée fait peser ou inspecter le grain reçu à l’installation par un tiers de la façon prévue par ce règlement ou cet arrêté, ou fait procéder à sa pesée ou à son inspection officielles, ou à toute combinaison de ces pesées et inspections.
+
+**Tiers**
+
+(2) Le tiers est autorisé par la Commission et choisi par l’exploitant.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 31, art. 369
+
+</details>
+
+### 70.3 Pesée et inspection officielles avant déchargement
+
+(1) À moins qu’un règlement ou un arrêté de la Commission ne l’en dispense, l’exploitant d’une installation terminale agréée fait procéder à la pesée et à l’inspection officielles du grain se trouvant dans l’installation — autre que celui destiné à une autre installation agréée — immédiatement avant son déchargement de l’installation ou au moment de celui-ci.
+
+**Pesée et inspection avant déchargement**
+
+(2) À moins qu’un règlement ou un arrêté de la Commission ne l’en dispense, l’exploitant d’une installation terminale agréée pèse et inspecte, de la façon autorisée par la Commission, le grain se trouvant dans l’installation qui est destiné à une autre installation agréée immédiatement avant son déchargement de l’installation ou au moment de celui-ci.
+
+**Pesée ou inspection par un tiers**
+
+(3) À moins qu’un règlement ou un arrêté de la Commission ne l’en dispense, l’exploitant de l’installation terminale agréée déchargeant le grain le fait peser ou inspecter, ou à la fois peser et inspecter, par un tiers qui est autorisé par la Commission et qu’il choisit, dans le cas où l’exploitant de l’installation agréée destinée à recevoir le grain en fait la demande.
+
+**Tiers autorisé**
+
+(4) Le tiers pèse ou inspecte le grain de la façon autorisée par la Commission.
+
+**Accès**
+
+(5) L’exploitant de l’installation terminale agréée déchargeant le grain permet au tiers d’avoir accès à ses locaux pour qu’il procède à la pesée ou à l’inspection.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 31, art. 369
+
+</details>
+
+### 70.4 Réception du grain — acceptation ou refus
+
+(1) Si l’exploitant d’une installation terminale agréée déchargeant le grain omet de se conformer aux paragraphes 70.3(2) ou (3), l’exploitant de l’installation agréée destinée à recevoir le grain peut refuser de le recevoir.
+
+**Grain reçu**
+
+(2) Si l’exploitant de l’installation agréée destinée à recevoir le grain accepte de le recevoir, il le pèse, procède à son échantillonnage de la façon réglementaire et transmet à la Commission tous les échantillons prélevés.
+
+**Décision**
+
+(3) La Commission examine les échantillons, attribue un grade au grain et en détermine les impuretés. Elle fournit une copie de sa décision sur le grade et les impuretés à l’exploitant de l’installation terminale agréée déchargeant le grain et à l’exploitant de l’installation agréée qui a accepté de le recevoir.
+
+**Application**
+
+(4) La décision de la Commission sur le grade et les impuretés s’applique à l’ensemble du lot de grains dont proviennent les échantillons.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 31, art. 369
+
+</details>
+
+### 70.5 Période réglementaire
+
+L’exploitant de l’installation terminale agréée doit retenir les échantillons de grains prélevés dans le cadre d’une inspection en application des paragraphes 70(1) ou (2) ou des articles 70.2 ou 70.3 pour la période réglementaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 31, art. 369
+
+</details>
+
+### 70.6 Extraction des impuretés
+
+Sauf disposition contraire d’un règlement ou d’un arrêté de la Commission, l’exploitant d’une installation terminale agréée extrait les impuretés du grain reçu à l’installation en se conformant aux exigences du certificat d’inspection.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 31, art. 369
+
+</details>
+
+### 71 Récépissé
+
+(1) Sur réception du grain dans son installation terminale agréée, l’exploitant est tenu, si le grain a été pesé en application des paragraphes 69.1(1) ou (2), ou, s’il a été inspecté en application des paragraphes 70(1) ou (2) ou pesé ou inspecté — officiellement ou non — en application de l’article 70.2 :
+
+- a) d’établir immédiatement un récépissé pour le grain ainsi que pour les criblures dont il doit signaler la présence;
+
+- b) sur remise du connaissement et de la preuve du paiement des droits dus à ce jour, de délivrer le récépissé au détenteur du connaissement ou à son ordre.
+
+**Humidité excessive ou présence d’une matière extractible par traitement**
+
+(2) Malgré les autres dispositions de la présente loi relatives à la livraison de grain en même quantité et des mêmes type et grade que ceux mentionnés dans le récépissé, l’exploitant d’une installation terminale agréée qui établit un récépissé pour du grain qui ne peut faire l’objet d’un classement par grades en raison seulement de son humidité excessive, ou de la présence d’une matière extractible par traitement, se fait remettre ce récépissé et en établit un nouveau qui constate le grade et la quantité obtenus après séchage ou traitement, selon le cas.
+
+**Avertissement**
+
+(3) Le récépissé établi en application du paragraphe (2) au moment de la réception du grain dans l’installation terminale agréée stipule qu’il est sujet à retrait et à rectification.
+
+**Grain appartenant au titulaire de licence**
+
+(4) L’exploitant d’une installation terminale agréée qui acquiert la propriété de grain ayant été extrait, dans son installation, des criblures peut, avec l’autorisation de la Commission, établir à son propre nom un récépissé pour ce grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 71; 2012, ch. 31, art. 369
+
+</details>
+
+### 72 Interdiction de stockage en cellule
+
+L’exploitant d’une installation terminale agréée ne peut stocker du grain en cellule qu’avec une autorisation réglementaire et de la façon prévue par règlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 72; 1998, ch. 22, art. 25(F); 2005, ch. 24, art. 2; 2012, ch. 31, art. 370
+
+</details>
+
+### 73 Priorité
+
+Sous réserve du paragraphe 77(3), le détenteur d’un récépissé visant du grain stocké dans une installation terminale agréée a la priorité pour obtenir ce grain, ou du grain se trouvant dans l’installation, en même quantité et des mêmes type et grade que ceux mentionnés sur son récépissé.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 73; 1994, ch. 45, art. 19; 2012, ch. 31, art. 371
+
+</details>
+
+### 74 Déchargement de l’installation
+
+(1) Sous réserve de l’article 86, l’exploitant d’une installation terminale agréée remplit sans délai le véhicule de transport visé à l’alinéa b) avec le grain mentionné sur le récépissé qu’il a délivré ou du grain en même quantité et des mêmes type et grade que ceux qui y sont précisés, si le détenteur du récépissé peut légalement livrer ce grain à une autre installation, ou à un consignataire en un lieu autre qu’une installation, et, à la fois :
+
+- a) demande que le grain soit expédié;
+
+- b) a pris les arrangements voulus pour que se trouve sur place, à l’installation, un véhicule de transport pouvant légalement recevoir un chargement de grain;
+
+- c) remet le récépissé et acquitte les droits exigibles aux termes de la présente loi pour le grain qui y est visé.
+
+**Idem**
+
+(2) Le déchargement du grain visé aux récépissés remis et à l’égard duquel les droits exigibles ont été acquittés est réputé être effectué sans délai par l’exploitant d’une installation si les véhicules de transport sont chargés dans l’ordre de leur arrivée et aussi rapidement que le permet la prudence.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 74; 2012, ch. 31, art. 372
+
+</details>
+
+### 75 Restrictions concernant la réception et le déchargement
+
+L’exploitant ou le directeur d’une installation terminale agréée ne peuvent, sans autorisation écrite de la Commission :
+
+- a) réadmettre dans l’installation du grain déjà officiellement inspecté au moment de son déchargement de celle-ci;
+
+- b) permettre que du grain contenant des impuretés soit déchargé de l’installation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 75; 2012, ch. 31, art. 373
+
+</details>
+
+### 76 Marche à suivre — traitement ou disposition du grain avarié
+
+(1) Lorsqu’il est constaté que du grain stocké dans une installation terminale agréée est infesté ou contaminé, ou avarié ou fort susceptible de le devenir, ou requiert un traitement pour toute autre raison :
+
+- a) l’exploitant en informe sans délai la Commission, l’inspecteur principal du poste d’inspection le plus rapproché et, si le grain est stocké en cellule, toute personne qui détient un droit ou un intérêt sur celui-ci;
+
+- b) la Commission fait procéder, si elle l’estime nécessaire, à l’inspection du grain;
+
+- c) la Commission, ou toute personne habilitée par elle, donne les instructions appropriées concernant le traitement du grain ou la façon d’en disposer;
+
+- d) l’exploitant exécute sans délai les instructions.
+
+**Interdiction d’effectuer un mélange**
+
+(2) Sauf autorisation de la Commission, il est interdit de mélanger à d’autres grains le grain visé par une instruction donnée en application du paragraphe (1).
+
+**Frais de traitement, etc.**
+
+(3) Les frais exposés pour l’exécution des instructions données en application du paragraphe (1) pour du grain stocké en cellule peuvent être recouvrés des personnes qui détiennent des droits ou intérêts sur ce grain au prorata de ceux-ci.
+
+**Responsabilité légale ou contractuelle**
+
+(4) Le présent article ne libère pas l’exploitant d’une installation terminale agréée des obligations que lui imposent la présente loi ou tout contrat aux termes duquel le grain est entré ou resté en sa possession.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 76; 2004, ch. 25, art. 107; 2012, ch. 31, art. 374
+
+</details>
+
+### 77 Enlèvement obligatoire du grain
+
+(1) L’exploitant d’une installation terminale agréée qui détient une autorisation écrite de la Commission à cette fin et qui a donné, en la forme et selon les modalités réglementaires, un avis écrit d’au moins trente jours au dernier détenteur connu du récépissé délivré par lui peut obliger celui-ci à prendre livraison du grain visé par le récépissé.
+
+**Vente du grain**
+
+(2) Si le détenteur ne se conforme pas à l’avis visé au paragraphe (1) dans le délai imparti, qu’il en ait pris connaissance ou non, l’exploitant peut, aux conditions éventuellement fixées par écrit par la Commission, vendre le grain en cause ou la même quantité de grain des mêmes type et grade.
+
+**Obligation après vente**
+
+(3) Après la vente, la seule obligation de l’exploitant envers le détenteur est de lui verser le montant du prix de vente, sur remise du récépissé, déduction faite des frais exposés pour le grain en application de la présente loi et des frais de vente.
+
+**Avertissement**
+
+(4) Le récépissé délivré par l’exploitant d’une installation terminale agréée doit contenir l’avertissement énoncé au paragraphe 65(4).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 77; 2012, ch. 31, art. 375
+
+</details>
+
+### Installations de transformation
+
+### 78 Réception
+
+(1) Sous réserve des autres dispositions de la présente loi, des règlements ou des ordonnances de la Commission, l’exploitant d’une installation de transformation agréée est tenu d’y admettre le grain légalement livré qu’il a accepté.
+
+**Accusé de réception ou bon de paiement**
+
+(2) Sur réception du grain d’un producteur dans son silo de transformation agréé, l’exploitant établit, selon les modalités de temps et autres modalités réglementaires, un accusé de réception ou un bon de paiement faisant état du grade du grain, de son appellation de grade et des impuretés qu’il contient et le délivre sans délai au producteur.
+
+**Restriction en matière de déchargement**
+
+(3) Sauf autorisation de la Commission, le seul grain que l’exploitant d’une installation de transformation agréée peut en décharger doit être destiné à la transformation directe en un autre produit, à moins d’être officiellement inspecté et pesé au moment du déchargement et d’avoir fait l’objet d’un classement par grades conformément à la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 78; L.R. (1985), ch. 37 (4^e^ suppl.), art. 22; 1994, ch. 45, art. 20
+
+</details>
+
+### 79
+
+[Abrogé, 2012, ch. 31, art. 376]
+
+### 80
+
+[Abrogé, 2012, ch. 31, art. 376]
+
+### Négociants en grains
+
+### 81 Obligation du négociant
+
+(1) Tout négociant en grains titulaire de licence établit, pour l’achat de grain de l’Ouest auprès du producteur de celui-ci, selon les modalités de temps et autres modalités réglementaires, un accusé de réception ou un bon de paiement faisant état du grade du grain, de son appellation de grade et des impuretés qu’il contient et le délivre sans délai au producteur.
+
+(2) [Abrogé, L.R. (1985), ch. 37 (4^e^ suppl.), art. 24]
+
+**Contrats de commission**
+
+(3) Le négociant en grains titulaire d’une licence qui perçoit une commission à l’achat ou à la vente de grain de l’Ouest désigné sous une appellation de grade ne peut, sans le consentement de la personne pour laquelle il agit, acheter, vendre ou détenir directement ou indirectement, dans ces opérations, d’autres droits ou intérêts que la commission convenue.
+
+**Interdictions**
+
+(4) Le négociant en grains titulaire d’une licence ne peut :
+
+- a) sauf autorisation de la Commission, conclure de contrat portant sur du grain de l’Ouest qu’il a des raisons de croire infesté ou contaminé;
+
+- b) conclure un contrat prévoyant la livraison de grain de l’Ouest à une installation ou à un consignataire si le grain ne peut être légalement livré à destination.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 81; L.R. (1985), ch. 37 (4^e^ suppl.), art. 24; 1994, ch. 45, art. 22; 2004, ch. 25, art. 108
+
+</details>
+
+### 82 Registres et rapports
+
+Chaque négociant en grains titulaire d’une licence tient les registres de son commerce et fait à la Commission les rapports réglementaires y afférents.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 68
+
+</details>
+
+### 82.1
+
+[Abrogé, 2012, ch. 31, art. 377]
+
+### Manutention du grain en général
+
+### 83 Opérations réservées aux titulaires de licences
+
+(1) Il est interdit, dans la région de l’Ouest, à toute personne qui n’est pas titulaire d’une licence ou mandatée par son employeur titulaire de licence de se faire rémunérer, d’une manière ou d’une autre, notamment au titre d’un profit ou d’une commission, pour les opérations suivantes :
+
+- a) achat, vente ou négociations en vue de la pesée, de l’inspection ou du classement par grades, au nom d’une autre personne, de grain de l’Ouest;
+
+- b) signature d’un contrat pour l’achat de grain de l’Ouest.
+
+**Exceptions**
+
+(2) Par dérogation au paragraphe (1) et sous réserve des autres dispositions de la présente loi, peuvent être signés par une personne qui n’est pas un titulaire de licence les contrats suivants :
+
+- a) un contrat d’achat de grain dont l’appellation de grade n’est pas spécifiée, prévoyant le plein paiement du prix fixé à la signature du contrat ou à la livraison du grain;
+
+- b) un contrat d’achat de grain, par un producteur de grain, à titre de semences pour son exploitation agricole;
+
+- c) un contrat d’achat de grain, par un éleveur, pour l’alimentation de son bétail ou de ses volailles;
+
+- d) un contrat signé dans l’enceinte d’une bourse des grains reconnue, par un courtier membre de cette bourse et dûment enregistré en conformité avec les règlements de cette bourse.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 83; 1994, ch. 45, art. 24
+
+</details>
+
+### Déclaration relative au grain
+
+### 83.1 Obligation de faire et de fournir une déclaration
+
+Le titulaire de licence et toute personne qui lui vend du grain sont tenus, conformément aux règlements, de faire une déclaration relative au grain et de la fournir à toute personne prévue par règlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, ch. 25, art. 27
+- 2020, ch. 1, art. 67
+
+</details>
+
+### 83.2 Règlements
+
+Avec l’approbation du gouverneur en conseil, la Commission peut, par règlement, régir la déclaration prévue à l’article 83.1, et notamment prévoir :
+
+- a) la forme et le contenu de la déclaration;
+
+- b) les délais dans lesquels elle doit être faite et fournie;
+
+- c) les personnes à qui elle doit être fournie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, ch. 25, art. 27
+- 2020, ch. 1, art. 67
+
+</details>
+
+### 83.3 Déclaration fausse ou trompeuse
+
+Il est interdit de faire sciemment une affirmation fausse ou trompeuse dans la déclaration prévue à l’article 83.1.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, ch. 25, art. 27
+- 2020, ch. 1, art. 67
+
+</details>
+
+## Transport du grain
+
+### Dispositions générales
+
+### 84 Exclusivité des transporteurs publics
+
+Sauf en conformité avec les conditions fixées par règlement pris en vertu de l’article 84.1 ou avec l’arrêté pris en vertu de l’article 84.2, seuls les transporteurs publics peuvent transporter ou faire transporter du grain de l’étranger au Canada, ou vice versa.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 84; 1994, ch. 45, art. 25
+- 2020, ch. 1, art. 67
+
+</details>
+
+### 84.1 Règlements
+
+Avec l’approbation du gouverneur en conseil, la Commission peut, par règlement, fixer des conditions pour l’application de l’article 84.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, ch. 1, art. 67
+
+</details>
+
+### 84.2 Arrêtés
+
+La Commission peut, par arrêté, permettre à une personne autre qu’un transporteur public de transporter ou de faire transporter du grain de l’étranger au Canada, ou vice versa, conformément aux conditions qu’elle y précise. S’il vise plus d’une personne, l’arrêté ne s’applique pas au-delà de la campagne agricole à l’égard de laquelle il est pris.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, ch. 1, art. 67
+
+</details>
+
+### 85 Inspection des véhicules de transport
+
+(1) L’inspecteur :
+
+- a) peut, à tout moment, obliger un transporteur public à immobiliser son véhicule de transport à un poste d’inspection pour inspection, officielle ou non, du grain, des produits céréaliers ou des criblures;
+
+- b) procède, dans les vingt-quatre heures qui suivent la demande d’immobilisation, à l’inspection, officielle ou non, du grain, des produits céréaliers ou des criblures.
+
+**Délai d’inspection**
+
+(2) Le transporteur public visé par le paragraphe (1) :
+
+- a) doit immobiliser son véhicule de transport au poste pendant la durée de l’inspection, ou, au plus, pendant un délai de vingt-quatre heures;
+
+- b) peut alors reprendre la route.
+
+**Inspection des véhicules de transport**
+
+(3) L’inspecteur :
+
+- a) peut, à toute heure convenable, inspecter tout véhicule de transport qui a été placé le long d’une installation pour recevoir du grain;
+
+- b) s’il a des motifs raisonnables de croire, compte tenu des règlements, que le véhicule de transport n’est pas en état de recevoir un chargement de grain, ordonner de surseoir au chargement jusqu’à ce que la situation ait été corrigée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 85; 1994, ch. 45, art. 26
+
+</details>
+
+### 86 Interdiction de décharger du grain dans un véhicule défectueux
+
+Il est interdit à quiconque, y compris un transporteur public, de décharger ou laisser décharger du grain provenant d’une installation dans un véhicule de transport qui lui appartient ou qu’il conduit, dans l’un ou l’autre des cas suivants :
+
+- a) il a des raisons de croire, compte tenu des règlements, que ce véhicule n’est pas en état de recevoir le grain;
+
+- b) le déchargement a été interdit par un inspecteur en application du paragraphe 85(3).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 70
+
+</details>
+
+### Wagons du producteur
+
+### 87 Demande de wagons
+
+(1) Les producteurs qui ont une quantité suffisante de grain pour remplir un wagon et qui peuvent légalement le livrer à une compagnie de chemin de fer pour transport à une installation terminale ou de transformation, ou à un consignataire en un lieu autre qu’une installation, peuvent, pourvu que leur nombre ne dépasse pas celui que peut fixer par arrêté la Commission, demander par écrit à celle-ci, en la forme réglementaire, un wagon à cette fin.
+
+**Affectation de wagons**
+
+(2) Chaque semaine, la Commission affecte, dans l’ordre des demandes reçues et selon les normes numériques et autres qu’elle ordonne, les wagons disponibles qui entrent, pendant cette période, dans chaque zone de contrôle d’expédition.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 87; 1994, ch. 45, art. 27(F); 1998, ch. 22, art. 25(F); 2012, ch. 31, art. 378
+
+</details>
+
+### 87.1
+
+[Abrogé, 2011, ch. 25, art. 28]
+
+### 87.2
+
+[Abrogé, 2011, ch. 25, art. 28]
+
+### 87.3
+
+[Abrogé, 2011, ch. 25, art. 28]
+
+## Contrôle et procédures d’application
+
+### Inspection et saisie
+
+### 88 Accès aux lieux
+
+(1) Sous réserve du paragraphe (1.1), un inspecteur peut, à toute heure convenable, pénétrer dans une installation ou dans les locaux d’un titulaire de licence d’exploitation d’une installation ou de négociant en grains, s’il a des motifs raisonnables de croire que des grains, des produits céréaliers ou des criblures s’y trouvent, qu’ils appartiennent au titulaire ou sont en sa possession, ainsi que des livres, registres ou autres documents relatifs à l’exploitation de l’installation ou du commerce. Il peut alors :
+
+- a) examiner les lieux et l’équipement, les grains, les produits céréaliers et les criblures qui s’y trouvent;
+
+- a.1) prélever des échantillons des grains, des produits céréaliers ou des criblures;
+
+- b) examiner tout livre, registre, connaissement et autre document, s’il a des motifs raisonnables de croire qu’ils contiennent des renseignements relatifs à la vérification du respect de la présente loi et en faire des copies ou des extraits.
+
+**Mandat pour maison d’habitation**
+
+(1.1) Dans le cas d’une maison d’habitation, l’inspecteur ne peut toutefois y pénétrer sans l’autorisation de l’occupant que s’il est muni du mandat prévu au paragraphe (1.2).
+
+**Délivrance du mandat**
+
+(1.2) Sur demande ex parte, le juge de paix peut signer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à pénétrer dans une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+
+- a) les circonstances prévues au paragraphe (1) existent;
+
+- b) il est nécessaire d’y pénétrer pour l’application de la présente loi;
+
+- c) un refus d’y pénétrer a été opposé ou il y a des motifs raisonnables de croire que tel sera le cas.
+
+**Usage de la force**
+
+(1.3) L’inspecteur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
+
+**Production du certificat**
+
+(2) L’inspecteur reçoit un certificat attestant sa qualité, qu’il présente, sur demande, au responsable des locaux visés au paragraphe (1).
+
+**Assistance à l’inspecteur**
+
+(3) Le titulaire de licence ou le responsable des locaux visés par le paragraphe (1), ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger quant à l’application de la présente loi et de ses règlements.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 88; L.R. (1985), ch. 31 (1^er^ suppl.), art. 13; 1988, ch. 65, art. 126; 1998, ch. 22, art. 17; 2011, ch. 25, art. 29; 2012, ch. 31, art. 379
+
+</details>
+
+### 89 Entrave
+
+(1) Il est interdit d’entraver l’action de l’inspecteur dans l’exercice des fonctions que lui confère la présente loi.
+
+**Fausses déclarations**
+
+(2) Il est interdit de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse à l’inspecteur agissant dans l’exercice des fonctions que lui confère la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 72
+
+</details>
+
+### 90 Saisie et rapport
+
+(1) L’inspecteur peut saisir des registres ou autres documents s’il a des motifs raisonnables de croire qu’ils concernent ou établissent la perpétration d’une infraction à la présente loi et, en tout état de cause, doit sans délai faire rapport à la Commission des faits qu’il a constatés, s’il a des motifs raisonnables de croire :
+
+- a) qu’une infraction à la présente loi a été commise;
+
+- b) que du grain, des produits céréaliers ou des criblures se trouvant dans une installation sont infestés ou contaminés;
+
+- c) que l’équipement de l’installation est dans un tel état que le grain, les produits céréaliers ou les criblures ne peuvent être pesés avec précision ou manipulés sans risque;
+
+- d) que, vu son état, l’installation est dangereuse pour les personnes ou peut entraîner la perte ou la détérioration du grain, des produits céréaliers ou des criblures qui y sont stockés.
+
+**Rétention**
+
+(2) Le délai maximal de rétention des registres ou autres documents mentionnés au paragraphe (1) est de trente jours après la saisie, à moins que pendant cette période des poursuites aient été intentées pour une infraction dont ces documents font preuve, auquel cas il peut être prolongé jusqu’à l’aboutissement des poursuites.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 90; 1988, ch. 65, art. 127; 1994, ch. 45, art. 29; 2012, ch. 31, art. 380
+
+</details>
+
+### Enquêtes et arbitrage
+
+### 91 Enquêtes
+
+(1) La Commission a compétence pour enquêter et peut, après réception du rapport d’inspection prévu à l’article 90, ou à tout autre moment, enquêter sur :
+
+- a) le classement par grades et la pesée des grains qui se trouvent dans une installation;
+
+- b) la diminution opérée au titre des impuretés ou de la perte de poids survenue dans une installation;
+
+- c) [Abrogé, 2012, ch. 31, art. 381]
+
+- d) une allégation selon laquelle l’installation est exploitée d’une manière injuste ou discriminatoire;
+
+- e) la perte ou la détérioration de grains pendant le stockage ou le traitement dans une installation;
+
+- f) les frais réclamés par un titulaire de licence pour les services fournis dans le cadre de celle-ci;
+
+- g) le défaut ou le refus d’un titulaire de licence de payer les droits exigés pour des services fournis par elle-même ou de se conformer aux dispositions de la présente loi, d’un règlement ou d’un arrêté pris sous son régime, ou encore d’une licence délivrée en application de la présente loi;
+
+- g.1) [Abrogé, 2011, ch. 25, art. 30]
+
+- h) une plainte touchant une question de sa compétence;
+
+- i) toute autre question survenant dans le cadre de l’exercice de ses fonctions.
+
+**Désignation**
+
+(2) La Commission peut désigner un commissaire pour mener toute enquête prévue par le présent article et n’ayant pas le caractère d’une audience.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 91; 1988, ch. 65, art. 128; 1998, ch. 22, art. 25(F); 2011, ch. 25, art. 30; 2012, ch. 31, art. 381
+
+</details>
+
+### 92 Arbitrage
+
+La Commission ou un commissaire a qualité, avec le consentement de toutes les parties intéressées, pour agir comme arbitre dans tout litige relatif à des grains ou à des transactions commerciales portant sur des grains.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 75
+
+</details>
+
+### 92.1 Arbitrage — certains contrats
+
+(1) La Commission, un commissaire ou un tiers nommé par elle a qualité pour agir, sur demande écrite d’une partie au contrat comportant des dispositions exigées par un règlement pris en vertu de l’alinéa 116(1)s.2), comme arbitre dans tout litige relatif à ces dispositions.
+
+**Honoraires**
+
+(2) La Commission peut fixer les honoraires à lui verser, ou à verser à l’arbitre dans le cas où celui-ci est un tiers, pour l’arbitrage.
+
+**Détermination des frais**
+
+(3) La Commission détermine les frais liés à l’arbitrage.
+
+**Répartition des honoraires et des frais**
+
+(4) L’arbitre décide de la répartition entre les parties du paiement des honoraires et des frais à verser à la Commission ou au tiers, selon le cas.
+
+**Décision exécutoire**
+
+(5) Les décisions de l’arbitre lient les parties.
+
+**Tiers arbitre**
+
+(6) Dans le cas où un tiers agit comme arbitre, ses décisions sont réputées les décisions de la Commission.
+
+**Ordonnance**
+
+(7) La Commission peut, par arrêté, ordonner au titulaire de la licence de se conformer à une décision rendue en application du présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, ch. 8, art. 2
+
+</details>
+
+### Ordonnances relatives à l’exploitation ou à la suspension des licences
+
+### 93 Restriction de l’exploitation et suspension de la licence
+
+(1) Si elle a des motifs raisonnables de croire à la perpétration d’une infraction à la présente loi par un titulaire de licence, à l’omission par celui-ci de se conformer à une condition de la licence ou à l’existence de toute situation visée à l’un des alinéas 90(1)b) à d), la Commission peut, par arrêté, sur réception du rapport d’inspection prévu à l’article 90 ou au cours d’une enquête effectuée au titre de l’article 91 :
+
+- a) exiger que le titulaire de licence ou toute autre personne habilitée par elle effectue une pesée et une inspection du grain, des produits céréaliers ou des criblures entreposés dans une installation en vue d’en déterminer l’importance des stocks et interdire, pour permettre la pesée et l’inspection, pour une période maximale de trente jours fixée par l’arrêté, toute entrée et sortie de telles marchandises;
+
+- b) dans le cas de toute situation visée à l’un des alinéas 90(1)b) à d) :
+  - (i) exiger qu’il soit remédié à la situation selon les modalités qu’elle précise dans l’arrêté,
+  - (ii) exiger que le grain, les produits céréaliers ou les criblures se trouvant dans l’installation et mentionnés dans l’arrêté soient stockés, ou qu’il en soit disposé, de la manière qu’elle juge équitable,
+  - (iii) interdire, pour une période maximale de trente jours fixée par l’arrêté, tout usage particulier de l’installation ou de son équipement;
+
+- c) suspendre, à son appréciation, qu’elle exerce ou non les pouvoirs que lui confèrent les alinéas a) et b), la licence en cause pour une période maximale de trente jours fixée par l’arrêté.
+
+**Suspension de licence**
+
+(1.1) Si elle a des motifs raisonnables de croire qu’un titulaire de licence ne se conforme pas à une décision arbitrale rendue au titre de l’article 92.1, la Commission peut, par arrêté, suspendre la licence en cause pour une période maximale de trente jours fixée par l’arrêté.
+
+**Exigence préalable**
+
+(2) Sous réserve du paragraphe (3), la Commission ne peut prendre l’arrêté visé aux paragraphes (1) ou (1.1) que si elle a donné au titulaire de la licence ou à son représentant toute occasion d’être entendu.
+
+**Restriction ou suspension immédiates**
+
+(3) Si à son avis l’intérêt public l’exige, la Commission peut prendre un arrêté en application des paragraphes (1) ou (1.1) sans que le titulaire ait eu l’occasion de se faire entendre. Elle doit toutefois lui en donner ensuite l’occasion dans les meilleurs délais.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 93; 1994, ch. 45, art. 30; 1998, ch. 22, art. 25(F); 2012, ch. 31, art. 382; 2014, ch. 8, art. 3
+
+</details>
+
+### 94 Rétablissement de la licence et suppression de la restriction
+
+(1) Les interdictions, exigences ou suspensions visées par le paragraphe 93(1) peuvent être levées dès que, de l’avis de la Commission, elles n’ont plus leur raison d’être.
+
+**Prolongation de la période d’interdiction ou de suspension**
+
+(2) Sous réserve du paragraphe (3), la Commission peut, sur avis écrit donné au titulaire de licence visé par l’arrêté, prolonger la période d’interdiction ou de suspension imposée en application du paragraphe 93(1); le cas échéant, elle en avise immédiatement l’intéressé.
+
+**Limitation**
+
+(3) La durée totale d’une période d’interdiction ou de suspension et de sa prolongation ne peut être supérieure à trente jours sauf dans les cas suivants :
+
+- a) dans les trente jours suivant le commencement de cette période, des poursuites ont été intentées contre le titulaire de licence ou le directeur de l’installation pour infraction à la présente loi, auquel cas la période visée est réputée se prolonger jusqu’au quatorzième jour suivant l’aboutissement des procédures, sauf prescription contraire de la Commission;
+
+- b) malgré le manquement aux exigences visées au paragraphe 93(1), la Commission peut prolonger, par arrêté, la période pour une durée précise qu’elle estime raisonnable, étant convaincue que :
+  - (i) d’une part, le titulaire de licence a pris toutes les mesures utiles pour se conformer à l’arrêté et sera en mesure d’y satisfaire dans un délai raisonnable,
+  - (ii) d’autre part, la révocation de la licence ou l’institution de procédures n’est pas justifiée dans les circonstances.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 94; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### Révocation des licences
+
+### 95 Révocation des licences
+
+(1) La Commission peut, par arrêté, révoquer une licence d’exploitation d’une installation ou de négociant en grains, dans les cas suivants :
+
+- a) il y a eu défaut du titulaire de se conformer à un arrêté, relatif à l’exploitation d’une installation, pris en application du paragraphe 93(1) ou de l’alinéa 94(3)b);
+
+- a.1) il y a eu défaut du titulaire de se conformer à une décision arbitrale rendue au titre de l’article 92.1;
+
+- b) le titulaire ou le directeur de l’installation agréée est déclaré coupable d’une infraction à la présente loi;
+
+- c) le titulaire n’a pas maintenu la garantie exigée par le paragraphe 45.1(1);
+
+- d) le titulaire n’a pas obtenu la garantie supplémentaire exigée par l’arrêté visé au paragraphe 49(1);
+
+- e) le titulaire a omis de se conformer à une condition de la licence.
+
+**Restriction**
+
+(2) Sous réserve du paragraphe (3), sauf consentement du titulaire à cet effet, il ne peut y avoir révocation de licence sans que l’intéressé ou son représentant ait eu toute occasion de se faire entendre.
+
+**Possibilité d’être entendu antérieurement**
+
+(3) Lorsqu’elle a déjà donné à l’intéressé ou à son représentant l’occasion de se faire entendre au titre de l’article 93, la Commission n’est plus tenue à cette formalité pour révoquer sa licence.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 95; 2012, ch. 31, art. 383; 2014, ch. 8, art. 4
+
+</details>
+
+### Révision par le ministre
+
+### 96 Révision par le ministre
+
+Le ministre peut, sur demande d’un intéressé, réviser tout arrêté de la Commission portant refus de délivrance ou de révocation d’une licence. Après examen de la demande et des documents à l’appui, il peut, s’il juge la décision non fondée, faire délivrer ou rétablir la licence par la Commission aux conditions qu’il estime appropriées.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 96; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### Arrêté de paiement
+
+### 97 Arrêté après enquête
+
+La Commission peut, après avoir mené une enquête en application de l’article 91 et avoir donné aux intéressés toute occasion de se faire entendre, prendre un arrêté visant :
+
+- a) le paiement d’une indemnité, par tout demandeur, titulaire de licence ou autre personne relevant de sa compétence, aux personnes qui ont subi des dommages par suite d’une infraction à la présente loi ou à ses règlements d’application, ou du défaut de se conformer à leurs dispositions ou à celles d’un arrêté pris ou d’une licence délivrée en application de la présente loi;
+
+- b) le paiement par le titulaire de licence, de droits dus à la Commission aux termes de la présente loi pour des services.
+
+- c) [Abrogé, 2012, ch. 31, art. 384]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 97; 1998, ch. 22, art. 25(F); 2012, ch. 31, art. 384
+
+</details>
+
+### Audiences publiques
+
+### 98 Audiences publiques
+
+(1) La Commission peut, si elle est convaincue que cela est dans l’intérêt public, tenir une audience publique sur :
+
+- a) une enquête instituée en application de l’article 91;
+
+- b) toute autre question au sujet de laquelle elle estime souhaitable de le faire.
+
+**Sur demande**
+
+(2) La Commission tient une audience publique pour entendre toute personne qui le souhaite et dont l’intérêt est en jeu, dans les cas suivants :
+
+- a) la présente loi exige que toute personne ait la possibilité d’être entendue au sujet de la délivrance, du refus de délivrance, de la suspension ou de la révocation d’une licence ou au sujet de toute enquête visée à l’alinéa 91(1)h);
+
+- b) le demandeur ou le titulaire de la licence, ou la personne visée par la plainte, demande la tenue d’une audience publique.
+
+**Pouvoirs de la Commission**
+
+(3) La Commission a, pour les audiences publiques prévues au présent article, les pouvoirs conférés à un commissaire nommé aux termes de la partie I de la *Loi sur les enquêtes*.
+
+**Représentation**
+
+(4) Toute personne comparaissant à une audience publique en vertu du présent article peut s’y faire représenter par un procureur.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 80
+
+</details>
+
+### Procédure
+
+### 99 Avis de l’arrêté
+
+(1) Copie de l’arrêté portant refus de délivrance ou révocation d’une licence, ou visant le paiement d’argent ou la répartition d’une perte, ainsi que les motifs à l’appui de la décision sont adressés, en conformité avec les règles établies en application du paragraphe (2), à chaque personne visée par l’arrêté ou mentionnée par les règles.
+
+**Règles de procédure**
+
+(2) La Commission peut établir des règles relatives :
+
+- a) à la présentation des demandes, observations, réclamations et plaintes qui lui sont adressées et à la tenue de ses audiences publiques;
+
+- b) d’une façon générale, à la conduite de ses travaux en matière d’enquête et d’audience publique.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 99; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### Exécution des ordonnances de paiement
+
+### 100 Dépôt des arrêtés en Cour fédérale
+
+(1) Le dépôt auprès de la Cour fédérale, appelée dans la présente partie la « Cour », d’un arrêté de la Commission portant paiement d’argent ou répartition d’une perte peut s’effectuer à compter du trente et unième jour qui suit la prise de celui-ci.
+
+**Enregistrement de l’arrêté**
+
+(2) Lors de son dépôt à la Cour, l’arrêté doit y être enregistré et, sous réserve du paragraphe (4), il a la même force et le même effet qu’un jugement de cette Cour pour une dette du même montant et comportant les intérêts courus jusqu’à la date du paiement, conformément à l’arrêté.
+
+**Frais et droits**
+
+(3) Les frais raisonnables et les droits afférents à l’enregistrement d’un arrêté sont recouvrables comme s’il s’agissait d’un montant prévu par celui-ci.
+
+**Sursis d’exécution**
+
+(4) La Cour peut, aux conditions qu’elle estime justes, ordonner de surseoir à l’exécution d’un arrêté enregistré conformément au présent article jusqu’à l’issue d’un appel interjeté aux termes de l’article 101.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 100; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### Appels à la Cour
+
+### 101 Appel à la Cour
+
+(1) Il peut être interjeté appel devant la Cour d’un arrêté de la Commission portant paiement d’argent ou répartition d’une perte.
+
+**Introduction de l’appel**
+
+(2) L’appel en vertu du paragraphe (1) est interjeté par le dépôt d’un avis d’appel devant la Cour dans les trente jours suivant la prise de l’arrêté contesté ou dans le délai supplémentaire que la Cour accorde dans des circonstances spéciales.
+
+**Signification**
+
+(3) Dès son dépôt, l’avis d’appel est signifié à la Commission et à toutes les parties intéressées.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 101; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### Interdictions, infractions et peines
+
+### 102 Interdictions concernant les appellations de grade
+
+(1) Dans le cadre d’un achat ou d’une vente de grain, il est interdit, sans une licence délivrée au titre de la présente loi, d’utiliser une appellation de grade dans un registre ou dans un accusé de réception ou de déchargement de grain.
+
+**Exceptions**
+
+(2) Le paragraphe (1) ne s’applique pas à la vente qu’effectue le producteur du grain qu’il a effectivement produit.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 102; 1994, ch. 45, art. 31
+
+</details>
+
+### 103 Interdictions concernant les formules
+
+Il est interdit à quiconque n’est pas titulaire d’une licence de délivrer un accusé de réception, un bon de paiement ou un récépissé, ou tout autre document qui leur ressemble au point de pouvoir créer une confusion.
+
+- (2) [Abrogé, L.R. (1985), ch. 37 (4^e^ suppl.), art. 26]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 103; L.R. (1985), ch. 37 (4^e^ suppl.), art. 26; 1994, ch. 45, art. 32
+
+</details>
+
+### 104 Interdictions concernant l’exploitation d’une installation
+
+Il est interdit à l’exploitant d’une installation de :
+
+- a) délivrer un bon de paiement constatant l’achat de grain, un récépissé ou tout autre document censé accuser réception pour du grain qui n’a pas été acheté ni reçu dans l’installation;
+
+- b) laisser en circulation pour une quantité de grain se trouvant dans l’installation plus d’un bon de paiement, récépissé ou autre document constatant la réception du grain;
+
+- c) sauf aux termes des règlements ou d’un arrêté de la Commission, recevoir dans l’installation des grains, produits céréaliers ou criblures infestés, contaminés ou qui peuvent être raisonnablement considérés comme tels, ou les en décharger;
+
+- d) sauf autorisation de la Commission, mélanger à du grain entreposé dans l’installation toute matière autre que du grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 104; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### 105 Interdictions générales
+
+Il est interdit :
+
+- a) d’employer une appellation de grade dans la manutention, le commerce ou la désignation de grain n’en possédant pas les caractéristiques;
+
+- b) d’employer un nom ou un nom et un numéro, ressemblant tellement à une appellation de grade qu’ils peuvent être utilisés délibérément pour créer une confusion avec celle-ci, ou avoir pour conséquence une telle confusion;
+
+- c) d’offrir en vente ou pour stockage ou soumettre à l’inspection officielle du grain qui a fait l’objet d’un traitement, d’un mélange ou d’une autre opération visant à cacher ses véritables caractéristiques;
+
+- d) sauf aux termes des règlements ou d’un arrêté de la Commission, de livrer à une installation ou recevoir de celle-ci des grains, produits céréaliers ou criblures infestés ou contaminés ou qui peuvent être raisonnablement considérés comme tels.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 105; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### 105.1
+
+[Abrogé, 2011, ch. 25, art. 31]
+
+### 106 Actes frauduleux
+
+Il est interdit :
+
+- a) de présenter ou manutentionner le grain d’une façon qui puisse être raisonnablement considérée comme une présentation trompeuse faite en vue d’obtenir la délivrance d’un faux certificat d’inspection;
+
+- b) d’utiliser un certificat d’inspection ou un certificat d’utilisation finale pour du grain autre que celui auquel il se rapporte en réalité;
+
+- c) à titre d’exploitant d’une installation, d’inspecteur ou de peseur :
+  - (i) de donner intentionnellement un poids inexact pour du grain livré à une installation ou déchargé de celle-ci,
+  - (ii) d’augmenter intentionnellement la quantité d’impuretés contenues par du grain reçu dans une installation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 106; 1988, ch. 65, art. 130
+
+</details>
+
+### 107 Infraction et peine
+
+(1) Tout exploitant d’une installation qui enfreint l’article 72 commet une infraction et :
+
+- a) en tant que particulier, encourt, sur déclaration de culpabilité :
+  - (i) par procédure sommaire, une amende maximale de neuf mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines,
+  - (ii) par mise en accusation, une amende maximale de dix-huit mille dollars et un emprisonnement maximal de quatre ans, ou l’une de ces peines;
+
+- b) en tant que personne morale, encourt, sur déclaration de culpabilité :
+  - (i) par procédure sommaire, une amende maximale de trente mille dollars,
+  - (ii) par mise en accusation, une amende maximale de soixante mille dollars.
+
+(1.1) [Abrogé, 2011, ch. 25, art. 32]
+
+**Idem**
+
+(2) Quiconque enfreint une disposition de la présente loi — à l’exception de l’article 72 —, des règlements ou d’un arrêté de la Commission ne portant pas paiement d’argent ou répartition de perte commet une infraction et :
+
+- a) en tant que particulier, encourt, sur déclaration de culpabilité :
+  - (i) par procédure sommaire, une amende maximale de six mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines,
+  - (ii) par mise en accusation, une amende maximale de douze mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines;
+
+- b) en tant que personne morale, encourt, sur déclaration de culpabilité :
+  - (i) par procédure sommaire, une amende maximale de neuf mille dollars,
+  - (ii) par mise en accusation, une amende maximale de dix-huit mille dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 107; L.R. (1985), ch. 37 (4^e^ suppl.), art. 27; 1988, ch. 65, art. 131; 2011, ch. 25, art. 32
+
+</details>
+
+### 108 Infraction d’un directeur ou d’un employé
+
+(1) Le directeur d’une installation, l’employé ou le mandataire de l’exploitant ou du titulaire d’une licence d’exploitation qui agit en vue de la perpétration d’une infraction à la présente loi par l’exploitant ou le titulaire de la licence est considéré comme coauteur de l’infraction.
+
+**Idem**
+
+(2) L’employé ou le mandataire d’un négociant en grains titulaire d’une licence qui agit en vue de la perpétration d’une infraction à la présente loi par le négociant en grains est considéré comme coauteur de l’infraction.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 108; 2004, ch. 25, art. 109(A)
+
+</details>
+
+### 109 Preuve documentaire
+
+Dans les poursuites pour infraction à la présente loi, un document censé avoir été signé par un commissaire, un dirigeant ou un employé de la Commission agissant dans l’exercice de ses fonctions constitue la preuve des faits qui y sont énoncés sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 91
+
+</details>
+
+### 110 Prescription
+
+(1) Les poursuites, par procédure sommaire, pour une infraction à la présente loi se prescrivent par deux ans à compter de sa perpétration.
+
+**Procès**
+
+(2) Le tribunal dans le ressort duquel l’accusé réside ou exerce ses activités est compétent pour connaître de toute plainte ou dénonciation en matière d’infraction à la présente loi, indépendamment du lieu de perpétration.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 92
+
+</details>
+
+## Dispositions générales
+
+### Bons de paiement et récépissés
+
+### 111 Transfert entre détenteurs
+
+(1) Un bon de paiement ou un récépissé établi en la forme réglementaire et donnant au détenteur indiqué dans ce document droit au paiement d’une somme d’argent ou à la livraison de grain conformément aux conditions qui y sont énoncées, ainsi que les droits en découlant, peuvent être transférés à un nouveau détenteur par endossement et remise du document au cessionnaire.
+
+(2) [Abrogé, 2012, ch. 31, art. 385]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 111; 2012, ch. 31, art. 385
+
+</details>
+
+### 112 Interdiction de grever d’une charge, d’un droit ou d’un intérêt
+
+Par dérogation à la *Loi sur les banques*, ni le détenteur d’un récépissé ni l’exploitant d’une installation agréée qui l’a établi ne peuvent grever le grain mentionné dans le récépissé d’une charge, d’un droit ou d’un intérêt portant atteinte aux droits ou aux intérêts du détenteur autrement que par endossement ou remise du récépissé au bénéficiaire de la charge, du droit ou de l’intérêt en question.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 112; 2004, ch. 25, art. 110
+
+</details>
+
+### 113
+
+[Abrogé, 2012, ch. 31, art. 386]
+
+### 114
+
+[Abrogé, 2012, ch. 31, art. 386]
+
+### Règlements et décrets
+
+### 115 Décrets du gouverneur en conseil
+
+Le gouverneur en conseil peut, par décret :
+
+- a) lorsqu’il l’estime nécessaire dans l’intérêt public, exiger d’une compagnie de chemin de fer qu’elle fournisse et place, en un point desservi par elle, des wagons pour le transport du grain;
+
+- b) malgré toute autre disposition de la présente loi, et sauf le pouvoir prévu à l’alinéa a), permettre et ordonner à tout ministre ou organisme fédéral d’exercer les pouvoirs conférés, par la présente loi, relativement à l’affectation des wagons disponibles;
+
+- c) ordonner que toute affectation de wagons s’inspire du principe selon lequel les producteurs devraient avoir le droit d’utiliser l’installation de leur choix ou de procéder directement au chargement;
+
+- d) ordonner que l’attribution d’un grade à du grain au titre de la présente loi soit subordonnée à son inspection officielle lors de son déchargement d’une installation terminale;
+
+- e) fixer pour une campagne agricole une autre période d’au moins trois cent soixante-cinq jours;
+
+- f) donner à la Commission des instructions sur la façon d’exercer ses activités dans le cadre de ses attributions;
+
+- g) prendre toute autre mesure d’application de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 115; L.R. (1985), ch. 37 (4^e^ suppl.), art. 28(A); 2011, ch. 25, art. 33; 2012, ch. 31, art. 387
+
+</details>
+
+### 116 Règlements
+
+(1) Avec l’approbation du gouverneur en conseil, la Commission peut, par règlement :
+
+- a) désigner comme grains, pour l’application de la présente loi, toute semence;
+
+- b) interdire, pendant un certain temps, la livraison, le déchargement, la manutention, le traitement et l’expédition du grain dans des installations ou à partir d’elles, ou réglementer ces opérations afin d’assurer l’acheminement régulier du grain;
+
+- b.1) régir la manutention et le traitement du grain dans les silos;
+
+- c) fixer les modalités du prélèvement des échantillons de grain;
+
+- c.1) prévoir les circonstances dans lesquelles l’inspecteur attribue un grade au grain importé et précise les impuretés à éliminer, en vertu de l’alinéa 32(1)b);
+
+- d) préciser la marche à suivre par les parties à un contrat de stockage en cellule en vue de préserver l’identité des grains visés par le contrat;
+
+- e) déterminer les rapports à faire concernant les impuretés;
+
+- e.1) déterminer ce qui constitue une substance dangereuse et en régir l’utilisation, la manutention et l’entreposage par les exploitants de silo agréé;
+
+- f) fixer la marge maximale de perte de poids qui peut être calculée lors de la livraison de grain à une installation;
+
+- g) régir la vente de grain par échantillon;
+
+- h) réglementer la réception, l’inspection, la manutention et le stockage, dans les installations, de grain importé et en fixer la durée maximale de stockage dans une installation;
+
+- i) établir la procédure à suivre pour les appels interjetés relativement aux grades de grain;
+
+- j) spécifier les renseignements à fournir par les demandeurs de licence, notamment les renseignements qui concernent leur situation financière, et les conditions de délivrance des licences;
+
+- k) régir, pour l’application du paragraphe 45.1(1), la garantie à obtenir, sous forme notamment de cautionnement ou d’assurance;
+
+- k.1) préciser les personnes ou catégories de personnes pouvant réaliser ou recouvrer la garantie obtenue par un titulaire de licence;
+
+- k.2) préciser les conditions de la réalisation ou du recouvrement de la garantie obtenue par un titulaire de licence;
+
+- k.3) soustraire un titulaire de licence à l’obligation d’obtenir une garantie;
+
+- l) déterminer le type de registres que doit tenir un titulaire de licence, les rapports qu’il doit faire, le mode de transmission de ces rapports et les délais à respecter à cette fin;
+
+- m) fixer le montant ou le mode de détermination des droits maximaux exigibles par les titulaires de licence pour les services qu’ils fournissent aux termes de la présente loi, ainsi que le mode de publication de ces taux;
+
+- n) établir les imprimés ou formules à utiliser dans le cadre de la présente loi, notamment pour les bons de paiement et les récépissés, ainsi que leurs modalités d’utilisation, de transmission et autres;
+
+- o) mettre en oeuvre un système de conservation et de délivrance des bons de paiement et des récépissés;
+
+- p) exiger des titulaires de licence qu’ils lui fournissent les renseignements réglementaires sur la gestion de leurs affaires;
+
+- q) déterminer les circonstances et les modalités d’annulation des certificats d’inspection;
+
+- r) fixer le montant ou le mode de détermination des droits exigibles pour les services fournis par elle ou en son nom et de ceux payables pour les licences qu’elle délivre, ainsi que les modalités de temps et autres du paiement de ces droits;
+
+- s) établir les normes de construction, modification et entretien des installations et de leur équipement;
+
+- s.1) régir l’élimination du grain contaminé;
+
+- s.2) régir les dispositions à prévoir dans un contrat d’une catégorie réglementaire relatif à des grains, notamment celles concernant des indemnités ou des pénalités en cas de non-respect de ces dispositions;
+
+- s.3) régir, pour l’application de l’article 92.1, l’arbitrage, notamment les règles de procédure, les conditions d’admissibilité des demandes d’arbitrage, les qualités requises des tiers pour qu’ils agissent comme arbitre, les règles de confidentialité et la communication d’une décision arbitrale;
+
+- t) prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
+
+- u) prendre toute autre mesure d’application de la présente loi.
+
+**Autres formules et systèmes**
+
+(2) La Commission peut, par écrit, autoriser un titulaire de licence à utiliser, pour la conservation ou la délivrance de bons de paiement, de récépissés ou de tout autre document qu’elle précise, des formules ou systèmes en remplacement ou en plus de ceux prévus par règlement.
+
+**Liste des établissements**
+
+(3) La Commission peut, par règlement pris avec l’approbation du gouverneur en conseil, établir la liste des établissements de la région de l’Est utilisés, même en partie, pour le stockage du grain.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 116; L.R. (1985), ch. 37 (4^e^ suppl.), art. 29; 1994, ch. 45, art. 33; 1998, ch. 22, art. 24; 2001, ch. 4, art. 89(A); 2012, ch. 31, art. 388; 2014, ch. 8, art. 5
+- 2020, ch. 1, art. 68
+
+</details>
+
+### 117 Exemption des exigences de la loi et des règlements
+
+Lorsqu’elle estime que le contrôle d’un type d’installation ou d’opérations de manutention de grain ou qu’une installation ou opération de manutention en particulier n’est pas essentiel pour assurer le maintien de la qualité, de la bonne garde et de l’efficacité de la manutention des grains au Canada, la Commission peut, aux conditions et pour la période qu’elle y précise, soustraire à l’obligation de licence ou aux autres exigences prévues par la présente loi ou les règlements :
+
+- a) ce type d’installation ou d’opérations, par règlement pris avec l’approbation du gouverneur en conseil;
+
+- b) une installation ou opération en particulier, par arrêté.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 117; 1994, ch. 45, art. 34; 1998, ch. 22, art. 25(F)
+
+</details>
+
+### 118 Arrêtés de la Commission
+
+La Commission peut, par arrêté :
+
+- a) régir, sous réserve des décrets pris par le gouverneur en conseil en vertu de l’article 115, l’affectation des wagons disponibles aux installations terminales et aux points d’expédition d’une ligne de chemin de fer;
+
+- a.1) soustraire un titulaire de licence à l’obligation d’obtenir une garantie;
+
+- a.2) obliger, pour l’application du paragraphe 49(1), un titulaire de licence à obtenir, dans le délai qu’elle juge raisonnable, la garantie supplémentaire qu’elle estime suffisante;
+
+- b) prévoir la surveillance des opérations par lesquelles il est disposé du grain qui se trouve dans une installation en cas de suspension ou de révocation de la licence d’exploitation de celle-ci;
+
+- b.1) obliger l’exploitant d’une installation terminale agréée à faire procéder à la pesée ou à l’inspection du grain reçu à l’installation par un tiers qui est autorisé par la Commission et qu’il choisit, ou à sa pesée ou à son inspection officielles, ou à toute combinaison de ces pesées et inspections, et prévoir la façon de procéder;
+
+- c) obliger ou autoriser l’exploitant d’une installation à y recevoir pour stockage ou traitement, selon les modalités qu’elle juge indiquées, du grain avarié ou fort susceptible de le devenir;
+
+- d) ordonner la saisie de grains infestés ou contaminés ou obliger l’exploitant à les traiter ou à s’en départir selon les modalités acceptées par elle;
+
+- e) en vue d’assurer l’acheminement régulier du grain, fixer, pour tels type et grade de grain, la quantité maximale qui peut être stockée dans une installation;
+
+- f) pourvoir à la répartition équitable, entre les expéditeurs, de l’espace de stockage dans les installations terminales agréées;
+
+- g) pourvoir à l’acceptation des livraisons de grains dans l’intérêt des producteurs;
+
+- g.1) [Abrogé, 2011, ch. 25, art. 34]
+
+- h) formuler des instructions relatives au commerce des grains.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 118; 1998, ch. 17, art. 32, ch. 22, art. 25(F); 2011, ch. 25, art. 34; 2012, ch. 31, art. 389
+
+</details>
+
+### 118.1 Incorporation par renvoi — Commission
+
+(1) Les règlements pris par la Commission en vertu de la présente loi peuvent incorporer par renvoi tout document, indépendamment de sa source, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Accessibilité**
+
+(2) La Commission veille à ce que tout document incorporé par renvoi dans les règlements pris par elle en vertu de la présente loi, ainsi que ses modifications ultérieures, soient accessibles.
+
+**Aucune déclaration de culpabilité**
+
+(3) Aucune déclaration de culpabilité ne peut découler d’une contravention faisant intervenir un document qui est incorporé par renvoi dans les règlements pris par la Commission en vertu de la présente loi et qui se rapporte au fait reproché, sauf si, au moment de ce fait, le document était accessible en application du paragraphe (2) ou était autrement accessible à la personne en cause.
+
+**Ni enregistrement ni publication**
+
+(4) Il est entendu que les documents qui sont incorporés par renvoi dans les règlements pris par la Commission en vertu de la présente loi n’ont pas à être transmis pour enregistrement ni à être publiés dans la *Gazette du Canada* du seul fait de leur incorporation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2020, ch. 1, art. 69
+
+</details>
+
+### Sa Majesté
+
+### 119 Obligation de Sa Majesté
+
+La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 101
+
+</details>
+
+### Reclassement
+
+### 120 Modification des grades
+
+En cas de modification ou de suppression d’un grade de grain ou de criblures ou d’exemption d’un type de grain de l’application de la présente loi, indépendamment de la modification :
+
+- a) le détenteur d’un récépissé relatif à du grain ou des criblures ainsi visés a droit, sous réserve des autres dispositions de la présente loi, sur présentation du document et paiement des frais exigibles aux termes de la présente loi, à la livraison, conformément au récépissé, de grain ou de criblures du grade ou type visés par la modification, la suppression ou l’exemption;
+
+- b) la Commission doit, à la demande du propriétaire de grain ou de criblures qui souhaite faire face aux engagements pris à leur égard antérieurement à l’entrée en vigueur de la modification, de la suppression ou de l’exemption, reclasser le grain ou les criblures sur la base du grade modifié ou supprimé, ou le grain soustrait à l’application de la présente loi, comme si l’exemption n’avait pas été accordée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. G-10, art. 120; L.R. (1985), ch. 37 (4^e^ suppl.), art. 30
+
+</details>
+
+### Examen et rapport
+
+### 120.1 Examen et rapport
+
+Dans l’année suivant l’entrée en vigueur du présent article, le ministre veille à ce que :
+
+- a) la Commission et les dispositions de la présente loi, ainsi que les conséquences de son application, fassent l’objet d’un examen indépendant et approfondi;
+
+- b) soit déposé devant chaque chambre du Parlement un rapport de l’examen dans lequel les auteurs de l’examen font état des modifications qu’ils jugent souhaitables.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2005, ch. 24, art. 2.1
+
+</details>
+
+## Entrée en vigueur
+
+### [^]121 Entrée en vigueur
+
+(1) Les alinéas d) et e) de la définition de **installation** à l’article 2 ainsi que les paragraphes 55(2) et (3), ou telle de ces dispositions, entrent en vigueur à la date ou aux dates fixées par proclamation.
+
+**Idem**
+
+(2) La proclamation donnant effet aux alinéas d) ou e) de la définition de **installation** à l’article 2 ou aux paragraphes 55(2) ou (3) fixe leur entrée en vigueur à une date postérieure d’au moins six mois à celle où sa prise a été autorisée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1970-71-72, ch. 7, art. 116
+
+</details>
+
+
+## ANNEXES I ET II
+
+
+## DISPOSITIONS CONNEXES
+
+### — 2012, ch. 31, art. 405
+
+### 405 Installation ou silo de transbordement
+
+À compter de la date d’entrée en vigueur du paragraphe 351(1), la mention d’une installation de transbordement ou d’un silo de transbordement vaut mention d’une installation terminale ou d’un silo terminal respectivement dans les arrêtés, licences, récépissés et autres documents délivrés, pris ou établis, selon le cas, en vertu de la *Loi sur les grains du Canada*.
+
+### — 2012, ch. 31, art. 406
+
+### 406 Appels
+
+Malgré les articles 358 et 359, les articles 39 à 41 de la *Loi sur les grains du Canada*, dans leur version antérieure à la date d’entrée en vigueur de l’article 358, continuent de s’appliquer aux inspections officielles effectuées sous le régime de cette loi avant cette date; les membres des tribunaux d’appel sont reconduits dans leur mandat à ces fins et continuent de toucher le traitement et les indemnités auxquels ils ont droit.
+
+### — 2012, ch. 31, art. 407
+
+### 407 Nouvelle garantie
+
+Un titulaire de licence qui a donné une garantie sous le régime de la *Loi sur les grains du Canada*, avant l’entrée en vigueur de l’article 362, doit obtenir la garantie exigée par le paragraphe 45.1(1), édicté par cet article, dans les quatre-vingt-dix jours suivant la date d’entrée en vigueur du même article.
+
+### — 2012, ch. 31, art. 408
+
+### 408 Garantie
+
+Les garanties données sous le régime de la *Loi sur les grains du Canada*, avant la date d’entrée en vigueur de l’article 362, peuvent être retenues à compter de cette date pour la durée de leur validité, sans jamais toutefois dépasser quatre-vingt-dix jours, et utilisées aux fins auxquelles elles ont été données.
+
+### — 2012, ch. 31, art. 409
+
+### 409 Aucun transfert entre détenteurs
+
+Le récépissé délivré, conformément aux règlements pris au titre de la *Loi sur les grains du Canada*, par l’exploitant d’une installation de transbordement agréée avant la date d’entrée en vigueur de l’article 385 et portant, au recto, la mention « non négociable » ne peut être transféré à un nouveau détenteur par endossement et remise du document au cessionnaire.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2014, ch. 8, par. 14(1) et (2)
+
+### 14 1998, ch. 22
+
+(1) Au présent article, « autre loi » s’entend de la *Loi modifiant la Loi sur les grains du Canada et la Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire et abrogeant la Loi sur les marchés de grain à terme*, chapitre 22 des Lois du Canada (1998).
+
+(2) Si l’article 4 de la présente loi entre en vigueur avant l’article 21 de l’autre loi, à la date d’entrée en vigueur de cet article 21, le paragraphe 95(1) de la *Loi sur les grains du Canada* est modifié par adjonction, après l’alinéa a), de ce qui suit :

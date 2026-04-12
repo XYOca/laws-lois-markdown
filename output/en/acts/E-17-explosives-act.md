@@ -1,0 +1,834 @@
+---
+title: "Explosives Act"
+long_title: "An Act respecting the manufacture, testing, acquisition, possession, sale, storage, transportation, importation and exportation of explosives and the use of fireworks"
+chapter: "E-17"
+language: "en"
+type: "act"
+---
+
+# Explosives Act
+
+> An Act respecting the manufacture, testing, acquisition, possession, sale, storage, transportation, importation and exportation of explosives and the use of fireworks
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Explosives Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-15, s. 1
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**authorized explosive** means any explosive that is declared to be an authorized explosive in accordance with the regulations; (**explosif autorisé**)
+
+**Convention** means the Convention on the Marking of Plastic Explosives for the Purpose of Detection, concluded in Montreal on March 1, 1991, as amended from time to time; (**Convention**)
+
+**Department** means the Department of Natural Resources; (**ministère**)
+
+**detection agent** means any of the substances set out in the Table to Part 2 of the Technical Annex to the Convention; (**agent de détection**)
+
+**explosive** means any thing that is made, manufactured or used to produce an explosion or a detonation or pyrotechnic effect, and includes any thing prescribed to be an explosive by the regulations, but does not include gases, organic peroxides or any thing prescribed not to be an explosive by the regulations; (**explosif**)
+
+**factory** means any building, structure, premises or land in or on which the manufacture or any part of the process of manufacture of an explosive is carried on, the site on which the building, structure or premises are situated, and all other buildings, structures or premises within such a site; (**fabrique**)
+
+**illicit manufacture** means any activity that is prohibited under paragraph 6(1)(a) or (e); (**fabrication illicite**)
+
+**illicit trafficking** means any importation into Canada, exportation from Canada or transportation in transit through Canada of an explosive if
+  - (a) the importation or exportation is not authorized by the country of origin or the country of destination, or
+  - (b) the transportation in transit of the explosive through any country is not authorized by that country; (**trafic illicite**)
+
+**inspector** means the Chief Inspector of Explosives, an inspector of explosives and a deputy inspector of explosives appointed under section 13, and any other person who is directed by the Minister to inspect an explosive, a restricted component, a vehicle, a licensed factory or a magazine, or to hold an inquiry in connection with any accident caused by an explosive; (**inspecteur**)
+
+**licensed factory** means a factory in respect of which a licence issued under section 7 is in force; (**fabrique agréée**)
+
+**licensed magazine** means a magazine in respect of which a licence issued under section 7 is in force; (**poudrière agréée**)
+
+**magazine** means any building, storehouse, structure or place in which any explosive is kept or stored, but does not include
+  - (a) a place where an explosive is kept or stored exclusively for use at or in a mine or quarry in a province in which provision is made by the law of that province for efficient inspection and control of explosives stored and used at or in mines and quarries,
+  - (b) a vehicle in which an authorized explosive is being conveyed in accordance with this Act,
+  - (c) the structure or place in which is kept for private use, and not for sale, an authorized explosive to an amount not exceeding that authorized by regulation,
+  - (d) any store or warehouse in which are stored for sale authorized explosives to an amount not exceeding that authorized by regulation, or
+  - (e) any place at which the blending or assembling of the inexplosive component parts of an authorized explosive is allowed under section 8; (**poudrière**)
+
+**military device** has the meaning assigned to that expression by the regulations; (**engin militaire**)
+
+**Minister** means the Minister of Natural Resources or such other Minister as the Governor in Council may designate; (**ministre**)
+
+**operator** includes the owner, manager or person in charge; (**exploitants**)
+
+**plastic explosive** means an explosive that
+  - (a) is formulated with one or more high explosives that in their pure form have a vapour pressure less than 10^-4^ Pa at a temperature of 25^o^C,
+  - (b) is formulated with a binder material, and
+  - (c) is, when mixed, malleable or flexible at normal room temperature; (**explosif plastique**)
+
+**restricted component** means any prescribed component of an explosive the acquisition, possession or sale of which is restricted by a regulation made under paragraph 5(a.31); (**composant d’explosif limité**)
+
+**transit** means the portion of international transboundary transportation through the territory of a country that is neither the country of origin nor the country of destination; (**transit**)
+
+**unmarked plastic explosive** means a plastic explosive that
+  - (a) does not contain a detection agent, or
+  - (b) at the time of manufacture, does not contain the required minimum concentration level of a detection agent as set out in the Table to Part 2 of the Technical Annex to the Convention; (**explosif plastique non marqué**)
+
+**vehicle** means any truck, automobile or other conveyance for use on land but does not include any vehicle running only on rails to which Part III of the *Canada Transportation Act* applies. (**véhicules**)
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 2; 1993, c. 32, s. 2; 1994, c. 41, ss. 37, 38; 1995, c. 35, s. 1; 1996, c. 10, s. 227; 2004, c. 15, s. 36
+
+</details>
+
+## Application
+
+### 3 Application of Act
+
+Except as provided by the regulations, this Act does not apply to or in respect of any explosives under the direction or control of the Minister of National Defence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-15, s. 3
+
+</details>
+
+## Her Majesty
+
+### 4 Binding on Her Majesty
+
+Subject to section 3, this Act is binding on Her Majesty in right of Canada or a province.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-15, s. 3
+
+</details>
+
+## Regulations
+
+### 5 Regulations
+
+The Governor in Council may make regulations generally for carrying the purposes or provisions of this Act into effect, and in particular, but without limiting the generality of the foregoing, may make regulations
+
+- (a) for classifying explosives, and for prescribing the composition, quality and character of explosives;
+
+- (a.1) prescribing any thing that is to be included or not to be included in the definition “explosive” in section 2;
+
+- (a.2) exempting any explosive or class of explosives from the application of this Act or the regulations or any provision of this Act or the regulations;
+
+- (a.3) restricting to any person or body or class of persons or bodies the acquisition, possession, use or sale of any explosive or class of explosives;
+
+- (a.31) prescribing any component of an explosive and restricting to any person or body or class of persons or bodies its acquisition, possession or sale;
+
+- (a.4) prohibiting the acquisition, possession, use or sale of any explosive that, in the opinion of the Minister, is intrinsically unsafe, and identifying that explosive by reference to its common name or a description of the class of explosives to which it belongs;
+
+- (a.5) respecting the transfer and possession of unmarked plastic explosives intended for use under paragraph 6.1(1)(a) or (b);
+
+- (a.6) respecting the transport, transfer and possession of unmarked plastic explosives by a person referred to in paragraph 6.1(3)(a) or (b) during the periods provided for in those paragraphs;
+
+- (a.7) prescribing procedures for the destruction or disposal of unmarked plastic explosives referred to in subsection 6.1(3);
+
+- (a.8) defining the expression “military device”;
+
+- (b) prescribing the duration of licences, permits and certificates issued pursuant to section 7 and of permits issued pursuant to section 9, the terms and conditions on which licences, permits and certificates shall be issued and the fees to be paid therefor, and providing for the cancellation and suspension thereof;
+
+- (c) not inconsistent with any other Act of Parliament or regulations made under any other Act of Parliament, for regulating the importation, exportation, packing, handling and transportation of explosives;
+
+- (c.1) requiring that explosives be accompanied by safety instructions, and providing for the content of those instructions;
+
+- (c.2) requiring that explosives and their packaging be marked for safety purposes, and respecting those markings;
+
+- (d) for holding inquiries into any accident caused by explosives;
+
+- (e) for the taking of samples of explosives required for examination and testing, and for the establishing of testing stations, and of the tests and other examinations to which explosives shall be subjected;
+
+- (e.1) providing for safety standards in respect of research relating to explosives and for safety standards for large-scale testing of explosives;
+
+- (e.2) prescribing fees for declaring explosives to be authorized explosives and for testing explosives;
+
+- (f) prescribing the procedure to be followed to have an explosive declared an authorized explosive, the nature of the investigation to be made to determine its suitability to be declared authorized and the circumstances in which an explosive may be declared an authorized explosive;
+
+- (g) relating to the construction, management and licensing of factories and magazines;
+
+- (g.1) providing for safety standards in respect of factories and magazines;
+
+- (g.2) providing for the training in safety procedures of employees at factories and magazines;
+
+- (h) for the safety of the public and of
+  - (i) employees at any factory or magazine,
+  - (ii) persons engaged in the handling or packing of explosives or any class of explosives, or
+  - (iii) persons engaged in the use of fireworks;
+  - (iv) [Repealed, 1993, c. 32, s. 3]
+
+- (i) not inconsistent with any other Act of Parliament or regulations made thereunder, respecting the safety of any person engaged in the transportation of explosives;
+
+- (i.1) respecting security standards and security measures relating to explosives and restricted components;
+
+- (j) governing the establishment, location and maintenance of factories and magazines and the making, manufacture and storage of explosives;
+
+- (k) for the blending of the inexplosive components of an authorized explosive, and specifying the conditions under which the blending may be done;
+
+- (l) limiting the amount of authorized explosives that may be kept in places other than licensed factories and licensed magazines, and prescribing the manner in and conditions on which it shall be handled and stored in those places;
+
+- (l.1) respecting record keeping and the exchange of information for the purposes of tracing, identifying and preventing the illicit manufacture and illicit trafficking of explosives;
+
+- (m) respecting the acquisition, possession and sale of explosives and restricted components; and
+
+- (n) prescribing the circumstances in which explosives shall for the purposes of this Act be deemed to be or not to be under the direction or control of the Minister of National Defence.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 5; 1993, c. 32, s. 3; 1995, c. 35, s. 2; 2004, c. 15, s. 37; 2015, c. 3, s. 82(F)
+
+</details>
+
+## Prohibited Activities
+
+### 6 Manufacture, use, etc.
+
+Except as authorized under this Act and subject to such exemptions as may be provided by regulation, no person shall
+
+- (a) make or manufacture any explosive, either wholly or in part, except in a licensed factory;
+
+- (b) sell any authorized explosive unless that person is the operator of a licensed factory or licensed magazine and is authorized to sell explosives;
+
+- (c) store any explosive in a magazine that is not a licensed magazine;
+
+- (d) have in his possession any explosive; or
+
+- (e) carry on, except in a licensed factory, any of the following processes, namely,
+  - (i) dividing an explosive into its components, or otherwise breaking up or unmaking any explosive,
+  - (ii) making fit for use any damaged explosive, or
+  - (iii) remaking, altering or repairing any explosive.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 6; 2004, c. 15, s. 38(E)
+
+</details>
+
+### 6.1 Manufacture of unmarked plastic explosives
+
+(1) No person shall manufacture unmarked plastic explosives unless the explosives are
+
+- (a) manufactured in limited quantities solely for use in such of the following activities as are authorized, in writing, by the Chief Inspector of Explosives, namely,
+  - (i) research, development or testing of new or modified explosives,
+  - (ii) training in explosives detection, or in the development or testing of explosives detection equipment, or
+  - (iii) forensic science activities; or
+
+- (b) destined to be incorporated as an integral part of a military device in Canada within three years after the coming into force of this section.
+
+**Transport and possession of unmarked plastic explosives**
+
+(2) Subject to subsections (3) and (4), no person shall transport or possess unmarked plastic explosives unless the explosives are
+
+- (a) transported or possessed in limited quantities solely for use as authorized in the manner referred to in paragraph (1)(a); or
+
+- (b) destined to be and are incorporated as an integral part of a military device in Canada within three years after the coming into force of this section.
+
+**Exception**
+
+(3) Unmarked plastic explosives manufactured or imported into Canada before the day on which this section comes into force may, in accordance with the regulations, be transported or possessed by
+
+- (a) a person who performs military or police functions, during the period that begins on the coming into force of this section and ends fifteen years later; or
+
+- (b) any other person, during the period that begins on the coming into force of this section and ends three years later.
+
+**Importation or exportation of unmarked plastic explosives**
+
+(4) No person shall import or export unmarked plastic explosives unless the explosives are incorporated as an integral part of a military device.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1995, c. 35, s. 3
+
+</details>
+
+### 6.2 Illicit trafficking, etc.
+
+No person shall knowingly
+
+- (a) engage in illicit trafficking; or
+
+- (b) acquire, possess, sell, offer for sale, transport or deliver any illicitly trafficked explosive.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2004, c. 15, s. 39
+
+</details>
+
+## Licences and Permits
+
+### 7 Licences and permits
+
+(1) The Minister may issue
+
+- (a) licences for factories and magazines;
+
+- (b) permits for vehicles used for the transportation of explosives; and
+
+- (c) certificates for carrying out, on an occasional and temporary basis, activities relating to the manufacture, testing or storage of explosives or the use of fireworks or the training of persons in the use of fireworks.
+
+**Additional conditions**
+
+(2) The Minister may make any licence, permit or certificate referred to in subsection (1) subject to any term or condition, in addition to those prescribed by the regulations, that the Minister considers necessary for the protection of any person or property, including, without limiting the generality of the foregoing, compliance with security or safety standards in respect of any factory or magazine or any class thereof that are supplementary to but not inconsistent with those provided for under paragraph 5(g.1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 7; 1993, c. 32, s. 4
+
+</details>
+
+### 8 Inexplosive component parts
+
+Notwithstanding anything in this Act, the Governor in Council, on the recommendation of the Minister, accompanied by a certificate from the Chief Inspector of Explosives approving of the nature of the components and of the final explosive product, may allow the inexplosive component parts of an authorized explosive to be assembled and blended at or near the place of use.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-15, s. 8
+
+</details>
+
+### 9 Permits
+
+(1) The Minister may issue permits for the importation or exportation, or the transportation in transit through Canada, of explosives.
+
+**No import, export or transport without permit**
+
+(2) Except as provided by the regulations, no person shall, without a permit issued under this section, import or export, or transport in transit through Canada, any explosive.
+
+**Evidence of financial responsibility**
+
+(3) The Minister may require any person who engages or proposes to engage in the importation or exportation, or the transportation in transit through Canada, of any explosive and who does not reside in Canada or have a chief place of business or head office in Canada to provide evidence of financial responsibility in the form of insurance, or in the form of an indemnity bond or a suretyship, satisfactory to the Minister, or in any other form satisfactory to the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 9; 1993, c. 32, s. 5; 2001, c. 4, s. 80(E); 2004, c. 15, s. 40
+
+</details>
+
+### 10 Applications
+
+An application for a licence, permit or certificate issued pursuant to section 7 or a permit issued pursuant to section 9 shall be made in such manner and be accompanied by such information and other material as are prescribed by the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 10; 1993, c. 32, s. 6
+
+</details>
+
+### 10.1 Form
+
+Licences, permits and certificates issued pursuant to section 7 and permits issued pursuant to section 9 shall be in the form prescribed by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 32, s. 6
+
+</details>
+
+### 11 No alterations without a permit
+
+(1) The operator of a factory, magazine or vehicle for which a licence or permit has been issued under section 7 shall not,
+
+- (a) in the case of a factory or magazine, relocate or make any alteration or addition to the factory or magazine or rebuild any part thereof, or
+
+- (b) in the case of a vehicle, make any alteration to the vehicle
+
+until the operator has obtained written authority therefor from the Minister.
+
+**Emergency situations**
+
+(2) Notwithstanding subsection (1), an operator referred to in that subsection may undertake any of the activities referred to therein with the approval of the Minister granted by any means where, in the opinion of the Minister, extraordinary circumstances exist for doing so or it is necessary to do so for the protection of any person or property.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 11; 1993, c. 32, s. 7
+
+</details>
+
+### 12 Cessation of use where a special danger
+
+The Minister may require the operator of any factory or magazine or the operator of any vehicle in which an explosive is being conveyed to stop using, or to use only under and subject to conditions specified by the Minister, any building, structure or vehicle that, from its location or from the nature of the processes carried on therein, constitutes, in the opinion of the Minister, a special danger.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-15, s. 12; 1974-75-76, c. 60, s. 6
+
+</details>
+
+## Inspectors and Chemists
+
+### 13 Appointment
+
+(1) There may be appointed in the manner authorized by law a Chief Inspector of Explosives, together with such other inspectors and chemists as are necessary for the carrying out of this Act.
+
+**Inspectors without remuneration**
+
+(2) The Governor in Council may appoint, in addition to the inspectors appointed under subsection (1), such other inspectors and deputy inspectors, without remuneration, as the Governor in Council considers necessary for the carrying out of this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-15, s. 14
+
+</details>
+
+### 14 Inspection
+
+(1) For the purpose of ensuring compliance with this Act and the regulations, an inspector may, subject to subsection (5), at any reasonable time, enter and inspect any factory, magazine, vehicle or other place in which the inspector believes on reasonable grounds any explosive is being manufactured, tested, stored, sold or transported, any restricted component is being stored or sold, or any fireworks are being or are intended to be used, and the inspector may
+
+- (a) open or cause to be opened any thing found in that place that the inspector believes, on reasonable grounds, contains an explosive or a substance that may be used in the manufacture of an explosive;
+
+- (b) inspect any thing found in that place that the inspector believes, on reasonable grounds, is an explosive or any thing that may be used in the manufacturing, packing or marking of an explosive;
+
+- (c) take samples of any thing found in that place that the inspector believes, on reasonable grounds, is an explosive or a substance that may be used in the manufacture of an explosive;
+
+- (d) require any person to produce for inspection or copying, in whole or in part, any document that the inspector believes, on reasonable grounds, contains any information relevant to the administration of this Act or the regulations; and
+
+- (e) make copies of or take extracts from any document that the inspector believes, on reasonable grounds, contains any information relevant to the administration of this Act or the regulations.
+
+**Vehicle**
+
+(2) For the purpose of carrying out an inspection under subsection (1), an inspector may stop a vehicle or direct that it be moved to a place where the inspection may be carried out.
+
+**Operation of data processing and copying equipment**
+
+(3) In carrying out an inspection at any place under this section, an inspector may
+
+- (a) use or cause to be used any data processing system at the place to examine any data contained in or available to the system;
+
+- (b) reproduce or cause to be reproduced any record from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
+
+- (c) use or cause to be used any copying equipment at the place to make copies of any record or other document.
+
+**Certificate to be produced**
+
+(4) An inspector, other than a peace officer, shall be furnished with a certificate of appointment and on entering any place described in subsection (1) shall, if so required, produce the certificate to the person in charge thereof.
+
+**Warrant required to enter dwelling-house**
+
+(5) An inspector may not enter a dwelling-house except with the consent of the occupant of the dwelling-house or under the authority of a warrant issued pursuant to subsection (6).
+
+**Authority to issue warrant**
+
+(6) Where on ex parte application a justice is satisfied by information on oath that
+
+- (a) the conditions for entry described in subsection (1) exist in relation to a dwelling-house,
+
+- (b) entry to the dwelling-house is necessary for any purpose relating to the administration of this Act or the regulations, and
+
+- (c) entry to the dwelling-house has been refused or there are reasonable grounds to believe that entry will be refused,
+
+the justice may issue a warrant authorizing the inspector named in the warrant to enter the dwelling-house, subject to any conditions that may be specified in the warrant.
+
+**Use of force**
+
+(7) An inspector who executes a warrant shall not use force unless the inspector is accompanied by a peace officer and the use of force is specifically authorized in the warrant.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 14; 1993, c. 32, s. 8; 2004, c. 15, s. 41
+
+</details>
+
+### 14.1 Seizure
+
+(1) If, in carrying out an inspection at any place under this section, an inspector believes on reasonable grounds that an offence under this Act has been committed, the inspector may seize and detain any explosive or any restricted component
+
+- (a) by means of which or in relation to which the inspector believes on reasonable grounds the offence was committed; or
+
+- (b) that the inspector believes on reasonable grounds will afford evidence in respect of the commission of the offence.
+
+**Storage**
+
+(2) The seized explosive or restricted component shall, at the discretion of the inspector, be detained and stored at the place where it was seized or be moved to any other place for storage.
+
+**Storage**
+
+(3) The explosive or restricted component may be moved to and stored at any other place, on the application of the owner or the person having the possession of it at the time of its seizure.
+
+**Prohibition**
+
+(4) Except as authorized by an inspector, no person shall examine, remove, alter or interfere in any way with an explosive or a restricted component that is seized and detained under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 32, s. 8; 2004, c. 15, s. 42
+
+</details>
+
+### 14.2 Safety measures
+
+If an inspector believes on reasonable grounds that any activities relating to the manufacture, testing, storage, transportation or sale of explosives or restricted components or the use of fireworks are being carried out in contravention of this Act or the regulations, the inspector may direct the taking of, or take, any measures necessary to remedy the contravention.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 32, s. 8; 2004, c. 15, s. 42
+
+</details>
+
+### 14.3 Assistance to inspector
+
+The operator of a place entered by an inspector pursuant to subsection 14(1) and every person found in that place shall give the inspector all reasonable assistance to enable the inspector to carry out the inspector’s duties and functions under this Act, and shall furnish the inspector with any information the inspector may reasonably require with respect to the administration of this Act and the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 32, s. 8
+
+</details>
+
+### 14.4 Detention
+
+(1) An explosive or a restricted component that is seized and detained under section 14.1 shall not be detained after the expiry of ninety days after the day of the seizure unless, before that expiry, it is forfeited under section 14.6 or 26 or proceedings are instituted in relation to it.
+
+**Continued detention**
+
+(2) If proceedings are instituted in relation to a seized explosive or restricted component, the explosive or restricted component may be detained until the proceedings are finally concluded or an order is made under subsection 14.5(2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 32, s. 8; 2004, c. 15, s. 43(E)
+
+</details>
+
+### 14.5 Application for return
+
+(1) If proceedings are instituted in respect of a seized explosive or restricted component, the owner or the person having the possession of it at the time of its seizure may apply to the court before which the proceedings are being held for an order that it be returned.
+
+**Order**
+
+(2) On application under subsection (1), the court may order that the explosive or restricted component be returned to the applicant, subject to any conditions that the court may impose to ensure that it is preserved for any purpose for which it may subsequently be required, if the court is satisfied that sufficient evidence exists or may reasonably be obtained without detaining it.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 32, s. 8; 2004, c. 15, s. 44
+
+</details>
+
+### 14.6 Consent to forfeiture
+
+If the owner of an explosive or a restricted component that is seized and detained under this Act consents in writing to its forfeiture, it is forfeited to Her Majesty in right of Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 32, s. 8; 2004, c. 15, s. 44
+
+</details>
+
+## Inquiries into Accidents
+
+### 15 Minister may direct inquiry
+
+(1) The Minister may direct an inquiry to be made, subject to the *Canadian Transportation Accident Investigation and Safety Board Act*, whenever any accidental explosion of any explosive has occurred, or when any accident has been caused by an explosive.
+
+**Authority of person appointed to inquire**
+
+(2) The person authorized by the Minister to conduct an inquiry under subsection (1) has all the powers and authority of a commissioner appointed under Part I of the *Inquiries Act*.
+
+(3) [Repealed, 1989, c. 3, s. 42]
+
+**Where provincial inquiry provided**
+
+(4) This section does not apply where an accident has been caused by an explosion of an explosive occurring in any mine or quarry or metallurgical work in a province in which provision is made by the law of that province for a proper and thorough investigation and inquiry into the cause of such an accident.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 15; 1989, c. 3, s. 42
+
+</details>
+
+## Offences, Punishment and Procedure
+
+### 16 Offences
+
+(1) Every person who
+
+- (a) fails to permit an inspector to enter any place or to inspect, examine or make inquiries in pursuance of the inspector’s duties,
+
+- (b) fails to comply with any order, direction or requirement of an inspector made in pursuance of this Act or any regulation, in respect of which no appeal has been taken under section 17,
+
+- (c) fails to comply with any order, direction or requirement of an inspector made in pursuance of this Act or any regulation, as amended or confirmed by the Minister pursuant to section 17, or
+
+- (d) in any manner whatever, obstructs an inspector in the execution of the inspector’s duties under this Act,
+
+is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding six months or to both.
+
+**Certificate of Minister as evidence**
+
+(2) In any prosecution under paragraph (1)(b) for failure to comply with an order, direction or requirement of an inspector, a certificate purporting to have been signed by or on behalf of the Minister stating that no appeal in respect of the order, direction or requirement has been taken under section 17 shall be received in evidence as proof, in the absence of evidence to the contrary, of that fact.
+
+**Idem**
+
+(3) In any prosecution under paragraph (1)(c) for failure to comply with an order, direction or requirement of an inspector as amended or confirmed by the Minister, a certificate purporting to have been signed by or on behalf of the Minister stating
+
+- (a) that the Minister has amended or confirmed the order, direction or requirement of the inspector, and
+
+- (b) the terms of the order, direction or requirement as amended or confirmed,
+
+shall be received in evidence as proof, in the absence of evidence to the contrary, of the matters set out in the certificate.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 16; 1993, c. 32, s. 9
+
+</details>
+
+### 17 Appeal to Minister
+
+A person who is dissatisfied with an order, direction or requirement of an inspector made in pursuance of this Act or any regulation may, within fifteen days after the day on which the order, direction or requirement was made, submit the facts respecting the order, direction or requirement to the Minister for the Minister’s consideration and decision, and the Minister may confirm, revoke or amend the order, direction or requirement.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-15, s. 17
+
+</details>
+
+### 18 Trespassing
+
+Every person who without permission or lawful authority enters or is otherwise found in or about any factory or magazine or any vehicle in which an authorized explosive is being conveyed is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding five thousand dollars, and may be forthwith removed therefrom by any peace officer or by any person employed at the factory or magazine or the operator of the vehicle, as the case may be.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 18; 1993, c. 32, s. 10
+
+</details>
+
+### 19 False information or application
+
+No person shall
+
+- (a) in or with respect to an application for a licence, permit, or certificate under section 7 or a permit under section 9, submit any false or misleading information or make any false or misleading statement; or
+
+- (b) make such an application that, by reason of any non-disclosure of facts, is false or misleading.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 19; 1993, c. 32, s. 10
+
+</details>
+
+### 20 Acts likely to cause explosion or fire
+
+Every person who abandons any explosive or who commits any act that is likely to cause an explosion or fire in or about any factory or magazine or any vehicle in which an explosive is being conveyed is guilty of an offence and is liable
+
+- (a) on summary conviction, to a fine not exceeding two hundred and fifty thousand dollars or to imprisonment for a term not exceeding two years or to both; or
+
+- (b) on proceedings by way of indictment, to a fine not exceeding five hundred thousand dollars or to imprisonment for a term not exceeding five years or to both.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 20; 1993, c. 32, s. 10; 2004, c. 15, s. 45
+
+</details>
+
+### 21 Possession, etc.
+
+(1) Except as authorized by or under this Act, every person who, personally or by an agent or a mandatary, acquires, is in possession of, sells, offers for sale, stores, uses, makes, manufactures, transports, imports, exports or delivers any explosive, or acquires, is in possession of, sells or offers for sale any restricted component, is guilty of an offence and is liable
+
+- (a) on summary conviction, to a fine not exceeding two hundred and fifty thousand dollars or to imprisonment for a term not exceeding two years or to both; or
+
+- (b) on proceedings by way of indictment, to a fine not exceeding five hundred thousand dollars or to imprisonment for a term not exceeding five years or to both.
+
+**No offence**
+
+(2) No person shall be convicted under subsection (1) of having an explosive or a restricted component in their possession if the person establishes that they manufactured, imported or acquired it in accordance with the requirements of this Act and the regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 21; 1993, c. 32, s. 11; 2004, c. 15, s. 45, c. 25, ss. 139(E), 208(E)
+
+</details>
+
+### 21.1 Continuing offence
+
+If an offence under this Act is committed or continued on more than one day, the person who committed the offence is liable to be convicted for a separate offence for each day on which the offence is committed or continued.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2004, c. 15, s. 45
+
+</details>
+
+### 22 General punishment
+
+(1) Every person who contravenes any provision of this Act or the regulations, for which no punishment has been provided, is guilty of an offence punishable on summary conviction and is liable
+
+- (a) for a first offence, to a fine not exceeding fifty thousand dollars; and
+
+- (b) for each subsequent offence, to a fine not exceeding one hundred thousand dollars.
+
+**Arrest without warrant**
+
+(2) For the purpose of this Act, a peace officer may exercise the powers of search and seizure provided for in section 487 of the *Criminal Code* without a warrant if the conditions for obtaining a warrant exist but, by reason of exigent circumstances, it would not be practicable to obtain a warrant.
+
+**Additional fine**
+
+(3) Where a person has been convicted of an offence under this Act, the court may, where it is satisfied that as a result of the commission of the offence the person acquired any monetary benefits or that monetary benefits accrued to the person, order the person to pay, notwithstanding the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to the court’s estimate of the amount of those monetary benefits.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 22; 1993, c. 32, s. 12; 2004, c. 15, s. 46
+
+</details>
+
+### 23 Disclosure of confidential information
+
+(1) Subject to subsection (2) and the regulations, any person who, without the express authority of the Minister, knowingly discloses any confidential information obtained under this Act is guilty of an offence and is liable
+
+- (a) on summary conviction, to a fine not exceeding five thousand dollars; or
+
+- (b) on proceedings by way of indictment, to a fine not exceeding ten thousand dollars or to imprisonment for a term not exceeding six months or to both.
+
+**Exceptions**
+
+(2) A person may disclose information referred to in subsection (1) for the purposes of the performance of duties and functions under this or any other Act of Parliament or the administration or enforcement of this Act or as required by any other law, or where the disclosure may reasonably be considered necessary for the protection of any person or property.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 23; 1993, c. 32, s. 12; 2004, c. 15, s. 47
+
+</details>
+
+### 23.1 Venue
+
+An information in respect of an offence under this Act may be heard, tried or determined by any competent court of criminal jurisdiction in and for a province if the accused is resident, working or carrying on business within the territorial jurisdiction of that court even if the matter of the information did not arise in that territorial jurisdiction.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 32, s. 12
+
+</details>
+
+### 24 Limitation period
+
+(1) Any proceedings under this Act may be instituted at any time within, but not later than, twelve months after the day on which the Minister becomes aware of the subject-matter of the proceedings.
+
+**Certificate**
+
+(2) A document purporting to have been issued by the Minister, certifying the day on which the Minister became aware of the subject-matter of any proceedings, is admissible in evidence without proof of the signature or the official character of the person appearing to have signed the document and, in the absence of any evidence to the contrary, is proof of the matter asserted in it.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 24; 2004, c. 15, s. 48
+
+</details>
+
+### 25 Certificate or report of inspector or chemist
+
+(1) Subject to subsections (3) and (4), a certificate or report appearing to have been signed by an inspector or chemist stating that the inspector or chemist has analysed or examined a substance or thing and stating the results thereof is admissible in evidence in any prosecution for an offence under this Act without proof of the signature or official character of the person appearing to have signed the certificate or report and, in the absence of evidence to the contrary, is proof of the statements contained in the certificate or report.
+
+**Copies or extracts**
+
+(2) Subject to subsections (3) and (4), a copy made or an extract taken by an inspector pursuant to paragraph 14(1)(e) and appearing to have been certified under the inspector’s signature as a true copy or extract is admissible in evidence in any prosecution for an offence under this Act without proof of the signature or official character of the person appearing to have signed the copy or extract and, in the absence of evidence to the contrary, has the same probative force as the original document would have if it had been proved in the ordinary way.
+
+**Attendance of inspector or chemist**
+
+(3) The party against whom a certificate or report is produced pursuant to subsection (1) or against whom a copy or an extract is produced pursuant to subsection (2) may, with leave of the court, require the attendance of the inspector or chemist who signed or appears to have signed the certificate, report, copy or extract for the purpose of cross-examination.
+
+**Notice**
+
+(4) No certificate, report, copy or extract referred to in subsection (1) or (2) shall be received in evidence unless the party intending to produce it has served on the party against whom it is intended to be produced a notice of that intention together with a duplicate of the certificate, report, copy or extract.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 25; 1993, c. 32, s. 13
+
+</details>
+
+### 26 Forfeiture to Crown
+
+(1) When a person is convicted of an offence for acquiring, having in their possession, selling, offering for sale, storing, using, making, manufacturing, transporting, importing, exporting or delivering any explosive or restricted component, the court or judge, in addition to any other penalty that may be imposed, shall, in the case of an illicitly manufactured or illicitly trafficked explosive or an explosive that is not an authorized explosive, and may, in the case of an authorized explosive or a restricted component, declare that the explosive or restricted component by means of which or in relation to which the offence was committed be forfeited to the Crown.
+
+**Disposal of explosive or component forfeited**
+
+(2) If an explosive or a restricted component is forfeited under section 14.6 or subsection (1) and the time within which an appeal may be taken has expired or any appeal has been disposed of, it may be seized and disposed of as the Minister directs, and the costs of its disposal may be charged to the owner or the person having the lawful possession of it at the time of its seizure.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 26; 1993, c. 32, s. 14; 2004, c. 15, s. 49
+
+</details>
+
+### 27 Abandoned or deteriorated explosives
+
+Any explosive that appears to the Minister to be abandoned, to have deteriorated or to be a danger to persons or property may be seized and destroyed or otherwise disposed of by such person, in such manner and at such time and place as the Minister may direct.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 27; 2004, c. 15, s. 50(F)
+
+</details>
+
+## General
+
+### 28 Certain powers of Minister may be delegated
+
+The powers conferred on the Minister by sections 7, 9, 11, 12 and 27 may be exercised by any person designated by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. E-15, s. 26; 1974-75-76, c. 60, s. 11
+
+</details>
+
+### 29 Obligation to comply with other laws
+
+Nothing in this Act relieves any person
+
+- (a) of the obligation to comply with the requirements of any Act of Parliament relating to explosives or components of explosives or the requirements of any licence law, or other law or by-law of any province or municipality, lawfully enacted in relation to explosives, especially requirements in relation to the acquisition, possession, storage, handling, sale, transportation or delivery of explosives or components of explosives; or
+
+- (b) of any liability or punishment imposed for any contravention of an Act, law or by-law referred to in paragraph (a).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. E-17, s. 29; 1995, c. 39, s. 170; 2004, c. 15, s. 51
+
+</details>

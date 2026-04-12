@@ -1,0 +1,1256 @@
+---
+title: "Radiocommunication Act"
+long_title: "An Act respecting radiocommunication in Canada"
+chapter: "R-2"
+language: "en"
+type: "act"
+---
+
+# Radiocommunication Act
+
+> An Act respecting radiocommunication in Canada
+
+
+## Short Title
+
+### 1 Short title
+
+This Act may be cited as the *Radiocommunication Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. R-2, s. 1; 1989, c. 17, s. 2
+
+</details>
+
+## Interpretation
+
+### 2 Definitions
+
+In this Act,
+
+**broadcasting** means any radiocommunication in which the transmissions are intended for direct reception by the general public; (**radiodiffusion**)
+
+**broadcasting certificate** means a certificate issued by the Minister under subparagraph 5(1)(a)(ii); (**certificat de radiodiffusion**)
+
+**broadcasting undertaking** includes any distribution undertaking, programming undertaking and network operation to which the *Broadcasting Act* applies; (**entreprise de radiodiffusion**)
+
+**distribution undertaking** has the same meaning as in the *Broadcasting Act*; (**entreprise de distribution**)
+
+**encrypted** means treated electronically or otherwise for the purpose of preventing intelligible reception; (**encodage**)
+
+**harmful interference** means an adverse effect of electromagnetic energy from any emission, radiation or induction that
+  - (a) endangers the use or functioning of a safety-related radiocommunication system, or
+  - (b) significantly degrades or obstructs, or repeatedly interrupts, the use or functioning of radio apparatus or radio-sensitive equipment; (**brouillage préjudiciable**)
+
+**interference-causing equipment** means any device, machinery or equipment, other than radio apparatus, that causes or is capable of causing interference to radiocommunication; (**matériel brouilleur**)
+
+**jammer** means any device or combination of devices that transmits, emits or radiates electromagnetic energy and that is designed to cause, causes or is capable of causing interference or obstruction to radiocommunication, other than a device or combination of devices for which standards have been established under paragraph 5(1)(d) or 6(1)(a) or for which a radio authorization has been issued. (**brouilleur**)
+
+**lawful distributor**, in relation to an encrypted subscription programming signal or encrypted network feed, means a person who has the lawful right in Canada to transmit it and authorize its decoding; (**distributeur légitime**)
+
+**Minister** means the Minister of Industry; (**ministre**)
+
+**network** has the same meaning as in the *Broadcasting Act*; (**réseau**)
+
+**network feed** means any radiocommunication that is transmitted
+  - (a) by a network operation to its affiliates,
+  - (b) to a network operation for retransmission by it to its affiliates, or
+  - (c) by a lawful distributor to a programming undertaking; (**alimentation réseau**)
+
+**operator**[Repealed, 1989, c. 17, s. 3]
+
+**prescribed** means prescribed by regulations; (Version anglaise seulement)
+
+**programming undertaking** has the same meaning as in the *Broadcasting Act*; (**entreprise de programmation**)
+
+**public** includes persons who occupy apartments, hotel rooms or dwelling units situated in multi-unit buildings; (**public**)
+
+**public switched telephone network** means a telecommunication facility the primary purpose of which is to provide a land line-based telephone service to the public for compensation; (**réseau téléphonique public commuté**)
+
+**radio apparatus** means a device or combination of devices intended for, or capable of being used for, radiocommunication; (**appareil radio**)
+
+**radio authorization** means a licence, certificate or authorization issued by the Minister under paragraph 5(1)(a); (**autorisation de radiocommunication**)
+
+**radio-based telephone communication** means any radiocommunication that is made over apparatus that is used primarily for connection to a public switched telephone network; (**communication radiotéléphonique**)
+
+**radiocommunication** or **radio** means any transmission, emission or reception of signs, signals, writing, images, sounds or intelligence of any nature by means of electromagnetic waves of frequencies lower than 3 000 GHz propagated in space without artificial guide; (**radiocommunication** ou **radio**)
+
+**radio licence** means a licence issued by the Minister under subparagraph 5(1)(a)(i); (**licence radio**)
+
+**radio operator certificate** means a certificate issued by the Minister under subparagraph 5(1)(a)(iii); (**certificat d’opérateur radio**)
+
+**radio-sensitive equipment** means any device, machinery or equipment, other than radio apparatus, the use or functioning of which is or can be adversely affected by radiocommunication emissions; (**matériel radiosensible**)
+
+**radio station** or **station** means a place in which radio apparatus is located; (**station de radiocommunication** ou **station**)
+
+**spectrum licence** means a licence issued by the Minister under subparagraph 5(1)(a)(i.1); (**licence de spectre**)
+
+**subscription programming signal** means radiocommunication that is intended for reception either directly or indirectly by the public in Canada or elsewhere on payment of a subscription fee or other charge; (**signal d’abonnement**)
+
+**technical acceptance certificate** means a certificate issued by the Minister under subparagraph 5(1)(a)(iv). (**certificat d’approbation technique**)
+
+**telecommunication**[Repealed, 1993, c. 38, s. 91]
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. R-2, s. 2; 1989, c. 17, s. 3; 1991, c. 11, s. 81; 1993, c. 38, s. 91, c. 40, s. 23; 1995, c. 1, s. 62; 1996, c. 18, s. 60; 2014, c. 39, s. 174
+
+</details>
+
+## Application
+
+### 3 Application to Her Majesty and Parliament
+
+(1) Subject to subsection (2), this Act is binding on Her Majesty in right of Canada, on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer and on Her Majesty in right of a province.
+
+**Exemptions**
+
+(2) The Governor in Council may by order exempt Her Majesty in right of Canada, or the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as represented by the person or persons named in the order, from any or all provisions of this Act or the regulations, and such an exemption may be
+
+- (a) in the case of an exemption of Her Majesty in right of Canada, in respect of Her Majesty in right of Canada generally, or only in respect of a department or other body named in the order;
+
+- (b) either absolute or qualified; and
+
+- (c) of either general or specific application.
+
+**Geographical application**
+
+(3) This Act applies within Canada and on board
+
+- (a) any ship, vessel or aircraft that is
+  - (i) registered or licensed under an Act of Parliament, or
+  - (ii) owned by, or under the direction or control of, Her Majesty in right of Canada or a province;
+
+- (b) any spacecraft that is under the direction or control of
+  - (i) Her Majesty in right of Canada or a province,
+  - (ii) a citizen or resident of Canada, or
+  - (iii) a corporation incorporated or resident in Canada; and
+
+- (c) any platform, rig, structure or formation that is affixed or attached to land situated in the continental shelf of Canada.
+
+**Powers, duties and functions of Minister**
+
+(4) Any power, duty or function of the Minister under this Act or the regulations may be exercised or performed by any person authorized by the Minister to do so and, if so exercised or performed, shall be deemed to have been exercised or performed by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. R-2, s. 3; R.S., 1985, c. 4 (3rd Supp.), s. 1; 1989, c. 17, s. 4; 1996, c. 31, s. 94; 2004, c. 7, s. 37; 2006, c. 9, s. 34; 2015, c. 36, s. 138; 2017, c. 20, s. 173
+
+</details>
+
+## Prohibitions
+
+### 4 Prohibitions
+
+(1) No person shall, except under and in accordance with a radio authorization, install, operate or possess radio apparatus, other than
+
+- (a) radio apparatus exempted by or under regulations made under paragraph 6(1)(m); or
+
+- (b) radio apparatus that is capable only of the reception of broadcasting and that is not a distribution undertaking.
+
+**Idem**
+
+(2) No person shall manufacture, import, distribute, lease, offer for sale or sell any radio apparatus, interference-causing equipment or radio-sensitive equipment for which a technical acceptance certificate is required under this Act, otherwise than in accordance with such a certificate.
+
+**Idem**
+
+(3) No person shall manufacture, import, distribute, lease, offer for sale or sell any radio apparatus, interference-causing equipment or radio-sensitive equipment for which technical standards have been established under paragraph 6(1)(a), unless the apparatus or equipment complies with those standards.
+
+**Other prohibitions**
+
+(4) No person shall install, use, possess, manufacture, import, distribute, lease, offer for sale or sell a jammer.
+
+**Other prohibitions — subsection 5.01(1)**
+
+(5) Subject to subsection 5.01(2), no person shall manufacture, import, distribute, lease, offer for sale, sell or possess any radio apparatus, or equipment or device, or component of any equipment or device, or any class of radio apparatus, or equipment or device, or component of any equipment or device, specified by the Minister under subsection 5.01(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. R-2, s. 4; 1989, c. 17, s. 4; 1991, c. 11, s. 82; 2014, c. 39, s. 175
+- 2024, c. 17, s. 380
+
+</details>
+
+## Minister’s Powers
+
+### 5 Minister’s powers
+
+(1) Subject to any regulations made under section 6, the Minister may, taking into account all matters that the Minister considers relevant for ensuring the orderly establishment or modification of radio stations and the orderly development and efficient operation of radiocommunication in Canada,
+
+- (a) issue
+  - (i) radio licences in respect of radio apparatus,
+  - (i.1) spectrum licences in respect of the utilization of specified radio frequencies within a defined geographic area,
+  - (ii) broadcasting certificates in respect of radio apparatus that form part of a broadcasting undertaking,
+  - (iii) radio operator certificates,
+  - (iv) technical acceptance certificates in respect of radio apparatus, interference-causing equipment and radio-sensitive equipment, and
+  - (v) any other authorization relating to radiocommunication that the Minister considers appropriate,
+  and may fix the terms and conditions of any such licence, certificate or authorization including, in the case of a radio licence and a spectrum licence, terms and conditions as to the services that may be provided by the holder thereof;
+
+- (b) amend the terms and conditions of any licence, certificate or authorization issued under paragraph (a);
+
+- (c) make available to the public any information set out in radio licences or broadcasting certificates;
+
+- (d) establish technical requirements and technical standards in relation to
+  - (i) radio apparatus,
+  - (ii) interference-causing equipment, and
+  - (iii) radio-sensitive equipment,
+  or any class thereof;
+
+- (e) plan the allocation and use of the spectrum;
+
+- (f) approve each site on which radio apparatus, including antenna systems, may be located, and approve the erection of all masts, towers and other antenna-supporting structures;
+
+- (g) test radio apparatus for compliance with technical standards established under this Act;
+
+- (h) require holders of, and applicants for, radio authorizations to disclose to the Minister such information as the Minister considers appropriate respecting the present and proposed use of the radio apparatus in question and the cost of installing or maintaining it;
+
+- (i) require holders of radio authorizations to inform the Minister of any material changes in information disclosed pursuant to paragraph (h);
+
+- (j) appoint inspectors for the purposes of this Act;
+
+- (k) take such action as may be necessary to secure, by international regulation or otherwise, the rights of Her Majesty in right of Canada in telecommunication matters, and consult the Canadian Radio-television and Telecommunications Commission with respect to any matter that the Minister deems appropriate;
+
+- (l) make determinations as to the existence of harmful interference and issue orders to persons in possession or control of radio apparatus, interference-causing equipment or radio-sensitive equipment that the Minister determines to be responsible for the harmful interference to cease or modify operation of the apparatus or equipment until such time as it can be operated without causing or being affected by harmful interference;
+
+- (m) undertake, sponsor, promote or assist in research relating to radiocommunication, including the technical aspects of broadcasting; and
+
+- (n) do any other thing necessary for the effective administration of this Act.
+
+**Canadian telecommunications policy**
+
+(1.1) In exercising the powers conferred by subsection (1), the Minister may have regard to the objectives of the Canadian telecommunications policy set out in section 7 of the *Telecommunications Act*.
+
+**Bidding system for radio authorizations**
+
+(1.2) In exercising the power under paragraph (1)(a) to issue radio authorizations, the Minister may use a system of competitive bidding to select the persons to whom radio authorizations will be issued.
+
+**Payments pursuant to bids**
+
+(1.3) Where the Minister accepts a bid for a radio authorization under a system of competitive bidding, any moneys payable to Her Majesty pursuant to the bid are in lieu of any fees fixed under this or any other Act for the radio authorization.
+
+**Procedures for bidding system**
+
+(1.4) The Minister may establish procedures, standards and conditions, including, without limiting the generality of the foregoing, bidding mechanisms, minimum bids, bidders’ qualifications, acceptance of bids, application fees for bidders, deposit requirements, withdrawal penalties and payment schedules, applicable in respect of a system of competitive bidding used under subsection (1.2) in selecting the person to whom a radio authorization will be issued.
+
+**Obligation**
+
+(1.5) Any person who is subject to the procedures, standards and conditions applicable in respect of a system of competitive bidding used under subsection (1.2) shall comply with all of them.
+
+**Suspension or revocation of radio authorization**
+
+(2) The Minister may suspend or revoke a radio authorization
+
+- (a) with the consent of the holder thereof;
+
+- (b) after giving written notice to the holder and giving the holder a reasonable opportunity to make representations to the Minister with respect thereto, where the Minister is satisfied that
+  - (i) the holder has contravened this Act, the regulations or the terms or conditions of the radio authorization, or
+  - (ii) the radio authorization was obtained through misrepresentation; or
+
+- (c) on giving written notice of suspension or revocation to the holder, without having to give the holder an opportunity to make representations to the Minister with respect thereto, where the holder has failed to comply with a request to pay fees or interest due under paragraph 6(1)(l).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. R-2, s. 5; 1989, c. 17, s. 4; 1993, c. 38, s. 92; 1996, c. 18, s. 61; 2014, c. 39, s. 176
+
+</details>
+
+### 5.01 Subsection 4(5) — devices
+
+(1) For the purposes of subsection 4(5), the Minister may, by order, specify any radio apparatus, or equipment or device, or component of any equipment or device, or any class of radio apparatus, or equipment or device, or component of any equipment or device, that the Minister is of the opinion, having regard to the circumstances, is likely used, or intended to be used, to intercept and make use of, or to intercept and divulge, any radiocommunication for a purpose that the Minister specifies in the order.
+
+**Subsection 4(5) — exemption**
+
+(2) For the purposes of subsection 4(5), the Minister may also, by order, exempt any person, or class of persons, in whole or in part, on the conditions that the Minister may specify, from the application of that subsection.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2024, c. 17, s. 381
+
+</details>
+
+### 5.02 Incorporation by reference
+
+(1) An order made under subsection 5.01(1) or (2) may incorporate by reference any document, regardless of its source, either as it exists on a particular date or as it is amended from time to time.
+
+**Accessibility of incorporated documents**
+
+(2) The Minister shall ensure that any document that is incorporated by reference in the order is accessible.
+
+**No finding of guilt or administrative penalty**
+
+(3) A person is not liable to be found guilty of an offence or subjected to an administrative monetary penalty for any contravention in respect of which a document that is incorporated by reference in the order is relevant unless, at the time of the alleged contravention, the document was accessible as required by subsection (2) or it was otherwise accessible to the person.
+
+**No registration or publication required**
+
+(4) For greater certainty, a document that is incorporated by reference in the order is not required to be transmitted for registration or published in the *Canada Gazette* by reason only that it is incorporated by reference.
+
+**Existing power not limited**
+
+(5) For greater certainty, the express power in this section to incorporate a document by reference does not limit the power that otherwise exists to incorporate a document by reference in a regulation made under this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2024, c. 17, s. 381
+
+</details>
+
+### 5.1 Information sharing — Canada
+
+(1) Information that has been collected or obtained by the Minister in the administration of this Act may be disclosed by the Minister to a federal department, a provincial or municipal government in Canada, or an agency of that federal, provincial or municipal government, to the extent that the disclosure is necessary for the administration of this Act.
+
+**Information sharing — Government of foreign state and international organization**
+
+(2) The information may also be disclosed by the Minister under an agreement, a memorandum of understanding or an arrangement in writing between the Government of Canada and the government of a foreign state, an international organization of states or an international organization established by the governments of states, or any institution of that government or organization, if the Minister believes that the information may be relevant to an investigation or proceeding in respect of a contravention under this Act or of the laws of that foreign state that address conduct that is substantially similar to conduct that would be in contravention of this Act.
+
+**Contents**
+
+(3) The agreement, memorandum of understanding or arrangement must
+
+- (a) restrict the use of the information to purposes relevant to an investigation or proceeding in respect of a contravention of the laws of the foreign state that address conduct referred to in subsection (2);
+
+- (b) stipulate that the information be treated in a confidential manner and not be further disclosed without the express consent of the person responsible for disclosing the information; and
+
+- (c) only be in respect of contraventions of the laws of a foreign state that have consequences that would not be considered penal under Canadian law.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 177
+
+</details>
+
+## Powers of Governor in Council and Others
+
+### 6 Regulations
+
+(1) The Governor in Council may make regulations
+
+- (a) respecting technical requirements and technical standards in relation to
+  - (i) radio apparatus,
+  - (ii) interference-causing equipment, and
+  - (iii) radio-sensitive equipment,
+  or any class thereof;
+
+- (b) prescribing the eligibility of persons to whom radio authorizations, or any class thereof, may be issued, including eligibility criteria based on
+  - (i) in the case of an individual, citizenship or permanent residence, or
+  - (ii) in the case of a corporation, residence, ownership or control of the corporation, and the citizenship or permanent residence status of the directors and officers of the corporation;
+
+- (c) prescribing the qualifications of persons to whom radio authorizations, or any class thereof, may be issued, including examinations to be administered;
+
+- (d) prescribing the procedure governing the making of applications for radio authorizations, or any class thereof, including form and manner, and prescribing the processing and disposition of those applications and the issuing of radio authorizations by the Minister;
+
+- (e) prescribing the terms and conditions of radio authorizations, including, in the case of a radio licence, terms and conditions as to the services that may be provided by the holder thereof;
+
+- (f) prescribing conditions and restrictions applicable in respect of any prescribed radio service;
+
+- (g) prescribing radio apparatus, interference-causing equipment and radio-sensitive equipment, or classes thereof, in respect of which a technical acceptance certificate is required;
+
+- (h) respecting the inspection, testing and approval of radio apparatus, interference-causing equipment and radio-sensitive equipment in relation to technical acceptance certificates;
+
+- (i) prohibiting or regulating, in relation to
+  - (i) interference to radiocommunication, or
+  - (ii) adverse effects of electromagnetic energy from any emission, radiation or induction,
+  the manufacture, importation, installation, distribution, lease, offering for sale, sale or use of radio apparatus, interference-causing equipment and radio-sensitive equipment;
+
+- (j) prescribing the eligibility and qualifications of persons who may be appointed as inspectors, and the duties of inspectors;
+
+- (k) for giving effect to international agreements, conventions or treaties respecting radiocommunication to which Canada is a party;
+
+- (l) prescribing fees
+  - (i) for radio authorizations, applications therefor and examinations or testing in relation thereto, and
+  - (ii) for services provided by the Department of Communications relating to spectrum management,
+  and respecting interest payable on unpaid fees so prescribed;
+
+- (m) prescribing radio apparatus, or any class thereof, that is exempt, either absolutely or subject to prescribed qualifications, from the application of subsection 4(1);
+
+- (n) prohibiting or regulating the further telecommunication, other than by persons operating broadcasting undertakings, of radiocommunications;
+
+- (o) for requiring, in a manner set out in the regulations, the reception or transmission of radiocommunication by any radio apparatus, or the exchange of radiocommunication by any radio apparatus with another radio apparatus;
+
+- (p) prescribing the manner in which radiocommunication is carried on in relation to any class of radio apparatus or radio service;
+
+- (q) prescribing the procedure to be followed with respect to the making of determinations under paragraph 5(1)(l), and prescribing the factors, including signal quality requirements, that the Minister shall take into account when making those determinations;
+
+- (r) prescribing maximum fines or maximum terms of imprisonment, or both, not exceeding those set out in subsection 10(1), for contravening or failing to comply with a regulation;
+
+- (s) prescribing anything that by this Act is to be prescribed; and
+
+- (t) generally for carrying out the purposes and provisions of this Act.
+
+**Incorporation by reference**
+
+(2) A regulation made under subsection (1) incorporating by reference a classification, standard, procedure or other specification may incorporate the classification, standard, procedure or specification as amended from time to time.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. R-2, s. 6; 1989, c. 17, s. 4
+
+</details>
+
+### 7 Possession by Her Majesty
+
+(1) Her Majesty may assume and, for any length of time, retain possession of any radio station and all things necessary to the sufficient working of it and may, for the same time, require the exclusive service of the operators and other persons employed in working the station.
+
+**Control by Government**
+
+(2) The person who owns or controls the station of which possession is assumed pursuant to subsection (1) shall give up possession of it and the operators and other persons employed as described in that subsection shall, during the time of possession thereunder, diligently and faithfully obey such orders, and transmit and receive such signals, calls and radiograms, as they are required to receive and transmit by any duly authorized officer of the Government of Canada.
+
+**Compensation**
+
+(3) Where the Minister and the person who owns or controls any radio station taken possession of by the Crown under this section cannot agree on the compensation to be paid by the Crown for the taking of possession, the Minister shall refer the matter to the Federal Court for adjudication and the *Expropriation Act* is, with such modifications as the circumstances require, applicable for the purpose of determining the amount of the compensation, if any, and the amount of any judgment on proceedings instituted under this subsection is payable out of the Consolidated Revenue Fund.
+
+**Exception**
+
+(4) Notwithstanding subsection (3), any dispute as to the compensation to be paid for the taking of possession of a radio station on settlement land as defined in section 2 of the *Yukon Surface Rights Board Act* or on Tetlit Gwich’in Yukon land may be heard and determined only by the Yukon Surface Rights Board under and in accordance with that Act.
+
+**Settlement land**
+
+(5) If the Yukon first nation concerned does not consent thereto, no interest in settlement land as defined in section 2 of the *Yukon Surface Rights Board Act* may be taken possession of under this section without the consent of the Governor in Council.
+
+**Tetlit Gwich’in Yukon land**
+
+(6) If the Gwich’in Tribal Council does not consent thereto, no interest in Tetlit Gwich’in Yukon land may be taken possession of under this section without the consent of the Governor in Council.
+
+**Notice of intention**
+
+(7) Where an interest in land referred to in subsection (5) or (6) is to be taken possession of without the consent of the Yukon first nation or Gwich’in Tribal Council, as the case may be,
+
+- (a) a public hearing in respect of the location and extent of the land to be taken possession of or occupied shall be held in accordance with the following procedure:
+  - (i) notice of the time and place for the public hearing shall be given to the Yukon first nation or Gwich’in Tribal Council and the public,
+  - (ii) at the time and place fixed for the public hearing, an opportunity shall be provided for the Yukon first nation or Gwich’in Tribal Council and the public to be heard,
+  - (iii) costs incurred by any party in relation to the hearing are in the discretion of the person or body holding the hearing and may be awarded on or before the final disposition of the issue, and
+  - (iv) a report on the hearing shall be prepared and submitted to the Minister; and
+
+- (b) notice of intention to obtain the consent of the Governor in Council shall be given to the Yukon first nation or Gwich’in Tribal Council on completion of the public hearing and submission of a report thereon to the Minister.
+
+**Definition of “Tetlit Gwich’in Yukon land”**
+
+(8) In this section, **Tetlit Gwich’in Yukon land** means land as described in Annex B, as amended from time to time, to Appendix C of the Comprehensive Land Claim Agreement between Her Majesty the Queen in right of Canada and the Gwich’in, as represented by the Gwich’in Tribal Council, that was approved, given effect and declared valid by the *Gwich’in Land Claim Settlement Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. R-2, s. 10; 1989, c. 17, s. 5; 1994, c. 43, s. 92
+
+</details>
+
+### 8 Powers of inspectors
+
+(1) An inspector who is appointed under paragraph 5(1)(j) may, subject to subsection (2),
+
+- (a) enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act, and examine the document, information or thing or remove it for examination or reproduction;
+
+- (b) make use of, or cause to be made use of, any computer system at the place to examine any data contained in or available to the system;
+
+- (c) reproduce any document, or cause it to be reproduced, from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
+
+- (d) use any copying equipment or means of communication in the place.
+
+**Certificate**
+
+(1.1) An inspector shall be provided with a certificate of appointment which is to be presented at the request of any person appearing to be in charge of any place entered by the inspector.
+
+**Dwelling-houses**
+
+(2) Where a place referred to in subsection (1) is a dwelling-house, an inspector may not enter that dwelling-house without the consent of the occupant, except
+
+- (a) under the authority of a warrant issued under subsection (3), or
+
+- (b) where, by reason of exigent circumstances, it would not be practical for the inspector to obtain a warrant
+
+and, for the purposes of paragraph (b), exigent circumstances include circumstances in which the delay necessary to obtain a warrant would result in danger to human life or safety or the loss or destruction of evidence.
+
+**Authority to issue warrant**
+
+(3) On an ex parte application, a justice of the peace may issue a warrant authorizing an inspector who is named in the warrant to enter a dwelling-house, subject to any conditions spec­ified in the warrant, if the justice is satisfied by information on oath that
+
+- (a) the dwelling-house is a place described in paragraph (1)(a);
+
+- (b) entry to the dwelling-house is necessary for the purpose of verifying compliance or preventing non-compliance with this Act; and
+
+- (c) entry has been refused by, or there are reasonable grounds to believe that entry will be refused by, or that consent to entry cannot be obtained from, the occupant.
+
+**Use of force**
+
+(4) In executing a warrant issued under subsection (3), an inspector shall not use force unless the inspector is accompanied by a peace officer and the use of force is specifically authorized in the warrant.
+
+**Assistance to inspectors**
+
+(5) The owner or person in charge of a place entered by an inspector shall give the inspector all reasonable assistance to enable the inspector to carry out the inspector’s duties under this Act, and shall give the inspector any information that the inspector reasonably requests.
+
+**Information requirement**
+
+(5.1) An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
+
+**Obstruction, false information**
+
+(6) Where an inspector is carrying out duties under this Act, no person shall
+
+- (a) resist or wilfully obstruct the inspector; or
+
+- (b) knowingly make a false or misleading statement, either orally or in writing, to the inspector.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, c. 17, s. 6; 2014, c. 39, s. 178
+
+</details>
+
+### 8.1 Seizure
+
+(1) An inspector may seize and detain any radio apparatus, interference-causing equipment, radio-sensitive equipment or jammer that they have reasonable grounds to believe is or was used to contravene any provision of this Act or the regulations or is related to the contravention of a provision of the Act or the regulations.
+
+**Detention**
+
+(2) Any thing that is seized under subsection (1) is not to be detained
+
+- (a) after the applicable provisions of this Act or the regulations have, in the opinion of an inspector, been complied with; or
+
+- (b) after the expiry of 60 days after the day on which the thing is seized, unless before that time
+  - (i) the seized thing has been forfeited under section 8.3 or 13,
+  - (ii) proceedings have been instituted in respect of the contravention in relation to which the thing was seized, in which case it may be detained until the proceedings are concluded, or
+  - (iii) notice of an application for an order extending the time during which the seized thing may be detained has been given in accordance with subsection 8.2(1).
+
+**Storing of seized things**
+
+(3) Any thing seized under subsection (1) may, at the option of an inspector, be kept or stored in the building or place where it was seized or may be removed to any other proper place by or at the direction of an inspector.
+
+**Prohibition**
+
+(4) No person shall, without the permission of an inspector, remove, alter or interfere in any way with any thing seized under this section.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 179
+
+</details>
+
+### 8.2 Application to extend period of detention
+
+(1) If proceedings have not been instituted, the Minister may, before the expiry of 60 days after the day on which the thing is seized and after giving notice to the owner of the seized thing or to the person in whose possession it was at the time of seizure, apply to any superior court of competent jurisdiction for an order extending the time during which the seized thing may be detained.
+
+**Order of extension granted**
+
+(2) If, on the hearing of an application made under subsection (1), the court is satisfied that the thing seized should continue to be detained, the court shall order that it be detained for the additional period that the court considers appropriate and that, on the expiry of that period, it be restored to the person from whom it was seized or to any other person entitled to its possession unless before the expiry of that period, subparagraph 8.1(2)(b)(i) or (ii) applies.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 179
+
+</details>
+
+### 8.3 Forfeiture on consent
+
+The owner or the last person in lawful possession of any radio apparatus, interference-causing equipment, radio-sensitive equipment or jammer may, at any time, consent in writing to its forfeiture to Her Majesty.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 179
+
+</details>
+
+## Offences and Punishment
+
+### 9 Prohibitions
+
+(1) No person shall
+
+- (a) knowingly send, transmit or cause to be sent or transmitted any false or fraudulent distress signal, message, call or radiogram of any kind;
+
+- (b) without lawful excuse, interfere with or obstruct any radiocommunication;
+
+- (c) decode an encrypted subscription programming signal or encrypted network feed otherwise than under and in accordance with an authorization from the lawful distributor of the signal or feed;
+
+- (d) operate a radio apparatus so as to receive an encrypted subscription programming signal or encrypted network feed that has been decoded in contravention of paragraph (c); or
+
+- (e) retransmit to the public an encrypted subscription programming signal or encrypted network feed that has been decoded in contravention of paragraph (c).
+
+**Prohibition**
+
+(1.1) Except as prescribed, no person shall make use of or divulge a radio-based telephone communication
+
+- (a) if the originator of the communication or the person intended by the originator of the communication to receive it was in Canada when the communication was made; and
+
+- (b) unless the originator, or the person intended by the originator to receive the communication consents to the use or divulgence.
+
+**Idem**
+
+(2) Except as prescribed, no person shall intercept and make use of, or intercept and divulge, any radiocommunication, except as permitted by the originator of the communication or the person intended by the originator of the communication to receive it.
+
+**Exceptions**
+
+(3) Subsection (2) does not apply in respect of radiocommunication that consists of broadcasting, a subscription programming signal or a network feed.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, c. 17, s. 6; 1991, c. 11, s. 83; 1993, c. 40, s. 24
+
+</details>
+
+### 9.1 Penalties
+
+Every person who contravenes subsection 9(1.1) or (2) is guilty of an offence punishable on summary conviction and liable
+
+- (a) in the case of an individual, to a fine not exceeding twenty-five thousand dollars or to imprisonment for a term not exceeding one year, or to both; and
+
+- (b) in the case of a person other than an individual, to a fine not exceeding seventy-five thousand dollars.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 40, s. 25
+
+</details>
+
+### 10 Offences
+
+(1) Every person who
+
+- (a) contravenes section 4 or paragraph 9(1)(a) or (b),
+
+- (b) without lawful excuse, manufactures, imports, distributes, leases, offers for sale, sells, installs, modifies, operates or possesses any equipment or device, or any component thereof, under circumstances that give rise to a reasonable inference that the equipment, device or component has been used, or is or was intended to be used, for the purpose of contravening section 9,
+
+- (c) contravenes or fails to comply with an order issued by the Minister under paragraph 5(1)(l),
+
+- (c.1) contravenes subsection 5(1.5), or
+
+- (d) contravenes or fails to comply with a regulation, where no punishment is prescribed by regulations made under paragraph 6(1)(r) for that contravention or failure to comply,
+
+is guilty of an offence punishable on summary conviction and is liable, in the case of an individual, to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding one year, or to both, or, in the case of a corporation, to a fine not exceeding twenty-five thousand dollars.
+
+**Offences**
+
+(2) Every person is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding five thousand dollars, who
+
+- (a) contravenes or fails to comply with subsection 8(5) or (6) or 8.1(4); or
+
+- (b) does not submit the information required by the inspector under subsection 8(5.1).
+
+**Idem**
+
+(2.1) Every person who contravenes paragraph 9(1)(c) or (d) is guilty of an offence punishable on summary conviction and is liable, in the case of an individual, to a fine not exceeding ten thousand dollars or to imprisonment for a term not exceeding six months, or to both, or, in the case of a corporation, to a fine not exceeding twenty-five thousand dollars.
+
+**Idem**
+
+(2.2) Every person who contravenes paragraph 9(1)(e) is guilty of an offence punishable on summary conviction and is liable, in the case of an individual, to a fine not exceeding twenty thousand dollars or to imprisonment for a term not exceeding one year, or to both, or, in the case of a corporation, to a fine not exceeding two hundred thousand dollars.
+
+**Exception**
+
+(2.3) No person who decodes an encrypted subscription programming signal in contravention of paragraph 9(1)(c) shall be convicted of an offence under that paragraph if the lawful distributor had the lawful right to make the signal available, on payment of a subscription fee or other charge, to persons in the area where the signal was decoded but had not made the signal readily available to those persons.
+
+**Not lawful excuse**
+
+(2.4) Nothing in subsection (2.3) shall constitute a lawful excuse for any person to manufacture, import, distribute, lease, offer for sale or sell any equipment or device, or any component thereof, in contravention of paragraph (1)(b).
+
+**Due diligence**
+
+(2.5) No person shall be convicted of an offence under paragraph 9(1)(c), (d) or (e) if the person exercised all due diligence to prevent the commission of the offence.
+
+**Continuing offence**
+
+(3) Where an offence under this section is committed or continued on more than one day, the person who committed the offence is liable to be convicted for a separate offence for each day on which the offence is committed or continued.
+
+**Injunctions**
+
+(4) Where a court of competent jurisdiction is satisfied, on application by the Minister, that an offence under paragraph (1)(a) is being or is likely to be committed, the court may grant an injunction, subject to such conditions as the court considers appropriate, ordering any person to cease or refrain from any activity related to that offence.
+
+**Federal Court**
+
+(5) For the purposes of subsection (4), the Federal Court is a court of competent jurisdiction.
+
+**Limitation**
+
+(6) A prosecution for an offence under this Act may be commenced within, but not after, three years after the day on which the subject-matter of the offence arose.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, c. 17, s. 6; 1991, c. 11, s. 84; 2014, c. 39, s. 180
+
+</details>
+
+### 11 Liability of directors, etc.
+
+Where a corporation commits an offence under this Act, any officer, director or agent of the corporation who directed, authorized, assented to or acquiesced or participated in the commission of the offence is a party to and guilty of the offence, and is liable to the punishment provided for that offence in respect of an individual, whether or not the corporation has been prosecuted or convicted.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, c. 17, s. 6
+
+</details>
+
+### 12 Ticket offences
+
+(1) The Governor in Council may make regulations designating any offence under this Act as an offence in respect of which
+
+- (a) any person appointed as an inspector may issue and serve a summons by completing a ticket in the prescribed form, signing it and
+  - (i) delivering it to the accused at the time the offence is alleged to have been committed, or
+  - (ii) mailing it to the accused at the accused’s latest known address, and
+
+- (b) the information may be laid after the ticket is delivered or mailed,
+
+and any regulations made under this section shall establish a procedure for voluntarily entering a plea of guilty and paying a fine in respect of each offence to which the regulations relate and shall prescribe the amount of the fine to be paid in respect of each such offence.
+
+**Fines**
+
+(2) A fine prescribed by regulations made under subsection (1) in respect of an offence may be lower for a first offence than for a subsequent offence, but in no case shall it be greater than one thousand dollars.
+
+**Failure to respond to ticket**
+
+(3) Where a person to whom a ticket is delivered or mailed does not enter a plea within the prescribed time, a justice shall examine the information referred to in subsection (1) and
+
+- (a) if the information is complete and regular on its face, the justice shall enter a conviction in the person’s absence and impose a fine of the prescribed amount; or
+
+- (b) if the information is not complete and regular on its face, the justice shall quash the proceedings.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, c. 17, s. 6
+
+</details>
+
+### 13 Forfeiture of radio apparatus
+
+(1) In the case of a conviction for an offence under paragraph 10(1)(a), any radio apparatus in relation to which or by means of which the offence was committed may be forfeited to Her Majesty in right of Canada by order of the Minister for such disposition, subject to subsections (2) to (6), as the Minister may direct.
+
+**Notice of forfeiture**
+
+(2) Where a radio apparatus is ordered to be forfeited under subsection (1), the Minister shall cause a notice of the forfeiture to be published in the *Canada Gazette*.
+
+**Application by person claiming interest**
+
+(3) Any person, other than a party to the proceedings that resulted in a forfeiture under subsection (1), who claims an interest in the apparatus as owner, mortgagee, lien holder or holder of any like interest may, within thirty days after the making of the order of forfeiture, apply to any superior court of competent jurisdiction for an order under subsection (6), whereupon the court shall fix a day for the hearing of the application.
+
+**Notice**
+
+(4) An applicant for an order under subsection (6) shall, at least thirty days before the day fixed for the hearing of the application, serve a notice of the application and of the hearing on the Minister and on all other persons claiming an interest in the apparatus that is the subject-matter of the application as owner, mortgagee, lien holder or holder of any like interest of whom the applicant has knowledge.
+
+**Notice of intervention**
+
+(5) Every person, other than the Minister, who is served with a notice under subsection (4) and who intends to appear at the hearing of the application to which the notice relates shall, at least ten days before the day fixed for the hearing, file an appropriate notice of intervention in the record of the court and serve a copy thereof on the Minister and on the applicant.
+
+**Order declaring nature and extent of interests**
+
+(6) Where, on the hearing of an application under this section, the court is satisfied that the applicant, or the interveners, if any, or any of them,
+
+- (a) are innocent of any complicity and collusion in any conduct that caused the apparatus to be subject to forfeiture, and
+
+- (b) in the case of owners, exercised all reasonable care in respect of the persons permitted to obtain possession and use of the apparatus to satisfy themselves that it was not likely to be used in the commission of an offence under paragraph 10(1)(a),
+
+any applicant or intervener in respect of whom the court is so satisfied is entitled to an order declaring that his interest is not affected by the forfeiture and declaring the nature and extent of his interest and the priority of his interest in relation to other interests recognized pursuant to this subsection, and the court may, in addition, order that the apparatus to which the interests relate be delivered to one or more of the persons found to have an interest therein, or that an amount equal to the value of each of the interests so declared be paid to the persons found to have those interests.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, c. 17, s. 6
+
+</details>
+
+### 14 Exemptions
+
+(1) The Minister may, by order, subject to any terms and conditions that he or she may specify, exempt any person, class of persons or entity from the application of subsection 4(4) or paragraph 9(1)(b), for any of the following purposes:
+
+- (a) national security;
+
+- (b) public safety, including with respect to penitentiaries and prisons;
+
+- (c) customs and immigration;
+
+- (d) national defence;
+
+- (e) international relations;
+
+- (f) the investigation or prosecution of offences in Canada, including the preservation of evidence;
+
+- (g) the protection of property, or the prevention of serious harm to any person; or
+
+- (h) for any other purpose prescribed by regulation.
+
+**Regulation**
+
+(2) The Governor in Council may make regulations for the purpose of paragraph (1)(h).
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. R-2, s. 14; 1989, c. 17, s. 6; 2014, c. 39, s. 181
+
+</details>
+
+### 15 Disposition of fines
+
+All fines imposed by this Act or the regulations belong to Her Majesty in right of Canada and shall be paid to the Receiver General.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., c. R-1, s. 13
+
+</details>
+
+## Administrative Monetary Penalties
+
+### 15.1 Commission of violation
+
+Every contravention of any of subsections 4(1), (3) to (5) and 5(1.5) constitutes a violation and the person who commits the violation is liable
+
+- (a) in the case of an individual, to an administrative monetary penalty not exceeding $25,000 and, for a subsequent contravention, a penalty not exceeding $50,000; or
+
+- (b) in any other case, to an administrative monetary penalty not exceeding $10,000,000 and, for a subsequent contravention, a penalty not exceeding $15,000,000.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+- 2024, c. 17, s. 382
+
+</details>
+
+### 15.11 Criteria for penalty
+
+(1) The amount of the penalty is to be determined by taking into account the following factors:
+
+- (a) the nature and scope of the violation;
+
+- (b) the history of compliance with this Act by the person who committed the violation;
+
+- (c) any benefit that the person obtained from the commission of the violation;
+
+- (d) the person’s ability to pay the penalty;
+
+- (e) any factors established by the regulations; and
+
+- (f) any other relevant factor.
+
+**Purpose of penalty**
+
+(2) The purpose of the penalty is to promote compliance with this Act and not to punish.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.12 Power of Minister — violation
+
+The Minister may
+
+- (a) designate any person, or any person who is a member of a class of persons, as being authorized to issue notices of violation or to accept undertakings; and
+
+- (b) establish, in respect of each violation, a short-form description to be used in notices of violation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.13 Entry into undertaking
+
+(1) A person may enter into an undertaking after a notice of violation is served on them.
+
+**Contents**
+
+(2) The undertaking
+
+- (a) shall be accepted by a person who is authorized to accept an undertaking;
+
+- (b) shall identify every act or omission that constitutes a violation and that is covered by the undertaking;
+
+- (c) shall identify every provision at issue;
+
+- (d) may contain any conditions that the person who is authorized to accept an undertaking considers appropriate; and
+
+- (e) may include a requirement to pay a specified amount.
+
+**Effect of undertaking**
+
+(3) If a person enters into an undertaking, the proceeding that is commenced by the notice of violation is ended in respect of that person in connection with any act or omission referred to in the undertaking.
+
+**Failure to respect undertaking**
+
+(4) Failure to respect an undertaking constitutes a violation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.14 Issuance and service
+
+(1) A person who is authorized to issue notices of violation and who believes, on reasonable grounds, that a person has committed a violation may issue, and shall cause to be served on the person, a notice of violation.
+
+**Contents of notice**
+
+(2) The notice of violation shall name the person who is believed to have committed the violation, identify the violation and include
+
+- (a) the penalty that the person is liable to pay;
+
+- (b) a statement as to the right of the person, within 30 days after the day on which the notice is served, or within any longer period that the Minister specifies, to pay the penalty or to make representations with respect to the violation and the penalty, and the manner for doing so; and
+
+- (c) a statement indicating that if the person does not pay the penalty or make representations in accordance with the notice, the person is deemed to have committed the violation and the penalty is to be imposed.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.15 Payment
+
+(1) If a person who is served with a notice of violation pays the penalty proposed in the notice, the person is deemed to have committed the violation and the proceedings in respect of it are ended.
+
+**Representations to Minister**
+
+(2) If a person who is served with a notice of violation makes representations in accordance with the notice, the Minister shall decide, on a balance of probabilities, after considering any other representations that the Minister considers appropriate, whether the person committed the violation and may, if the Minister so decides, impose the penalty set out in the notice, a lesser penalty or no penalty.
+
+**Failure to pay or make representations**
+
+(3) If a person who is served with a notice of violation neither pays the penalty nor makes representations in accordance with the notice, the person is deemed to have committed the violation and the penalty is to be imposed.
+
+**Copy of decision and notice of rights**
+
+(4) The Minister shall cause a copy of any decision made under subsection (2) to be issued and served on the person together with a notice of the person’s right to appeal under section 15.2.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.16 Evidence
+
+In a proceeding in respect of a violation, a notice purporting to be served under subsection 15.14(1) or a copy of a decision purporting to be served under subsection 15.15(4) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.17 Defence
+
+(1) It is a defence for a person in a proceeding in relation to a violation to establish that they exercised due diligence to prevent the violation.
+
+**Common law principles**
+
+(2) Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.18 Vicarious liability — acts of employees and agents and mandataries
+
+A person is liable for a violation that is committed by an employee of the person acting in the course of the employee’s employment, or by an agent or mandatary of the person acting within the scope of the agent’s or mandatary’s authority, whether or not the employee or agent or mandatary who actually committed the violation is identified or proceeded against.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.19 Officer, director or agent or mandatary of corporations
+
+An officer, director or agent or mandatary of a corporation that commits a violation is liable for the violation if they directed, authorized, assented to, acquiesced in or participated in the commission of the violation, whether or not the corporation is proceeded against.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.2 Appeal to Federal Court
+
+(1) Subject to subsection (2), an appeal may be brought in the Federal Court from a decision made under subsection 15.15(2) within 30 days after the day on which the decision is made.
+
+**Appeal on question of fact**
+
+(2) An appeal on a question of fact may be brought only with the leave of the Federal Court, an application for which shall be made within 30 days after the day on which the decision is made. The appeal may not be brought later than 30 days after the day on which leave to appeal is granted.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.21 Debts due to Her Majesty
+
+(1) The following amounts are debts due to Her Majesty in right of Canada that may be recovered in the Federal Court:
+
+- (a) the amount payable under an undertaking entered into under subsection 15.13(1), beginning on the day specified in the undertaking or, if no day is specified, beginning on the day on which the undertaking is entered into;
+
+- (b) the amount of the penalty set out in a notice of violation, beginning on the day on which it is required to be paid in accordance with the notice, unless representations are made in accordance with the notice;
+
+- (c) if representations are made, either the amount of the penalty that is imposed by the Minister or on appeal, as the case may be, beginning on the day specified by the Minister or the court or, if no day is specified, beginning on the day on which the decision is made; and
+
+- (d) the amount of any reasonable expenses incurred in attempting to recover an amount referred to in any of paragraphs (a) to (c).
+
+**Time limit or prescription**
+
+(2) A proceeding to recover such a debt may not be commenced later than five years after the day on which the debt becomes payable.
+
+**Receiver General**
+
+(3) A penalty paid or recovered in relation to a violation is payable to the Receiver General.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.22 Certificate of default
+
+(1) The Minister may issue a certificate for the unpaid amount of any debt referred to in subsection 15.21(1).
+
+**Effect of registration**
+
+(2) Registration of a certificate in the Federal Court has the same effect as a judgment of that Court for a debt of the amount set out in the certificate and all related registration costs.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.23 Time limit or prescription
+
+(1) A proceeding in respect of a violation may not be commenced later than three years after the day on which the subject-matter of the proceedings becomes known to the Minister.
+
+**Certificate of Minister**
+
+(2) A document appearing to have been issued by the Minister, certifying the day on which the subject-matter of any proceedings became known to him or her, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.24 Publication
+
+The Minister may make public
+
+- (a) the name of a person who committed a violation, the nature of the violation including the acts or omissions, or the provisions at issue and the amount of the penalty; and
+
+- (b) the name of a person who enters into an undertaking, the nature of the undertaking including the acts or omissions, or the provisions at issue, the conditions included in the undertaking and, if applicable, the amount of the penalty.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.25 How act or omission may be proceeded with
+
+If an act or omission may be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.26 For greater certainty
+
+For greater certainty, a violation is not an offence and, accordingly, section 126 of the *Criminal Code* does not apply.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+### 15.27 Regulations
+
+The Governor in Council may make regulations
+
+- (a) designating provisions of this Act whose contravention constitutes a separate violation in respect of each day during which it continues;
+
+- (b) for the purpose of paragraph 15.11(1)(e), establishing other factors to be considered in determining the amount of the penalty; and
+
+- (c) respecting undertakings entered into under section 15.13.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2014, c. 39, s. 182
+
+</details>
+
+## General
+
+### 16 Certificates or reports of inspectors
+
+(1) In any proceeding under this Act, or in any other proceeding to which the legislative jurisdiction of Parliament extends, a certificate or report purporting to have been given by an inspector who did an inspection or test pursuant to this Act and to have been signed by that inspector is admissible in evidence and, in the absence of any evidence to the contrary, is proof of the matters stated therein relating to the inspection or test, without proof of the signature, official character or capacity of the person appearing to have signed the certificate or report.
+
+**No admissibility without notice**
+
+(2) No certificate or report shall be received in evidence pursuant to subsection (1) unless the party who intends to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention, together with a copy of the certificate or report.
+
+**Attendance of inspector**
+
+(3) A party who receives notice under subsection (2) may, with leave of the court, require the attendance of the inspector for the purposes of cross-examination.
+
+<details>
+<summary>Historical Note</summary>
+
+- R.S., 1985, c. R-2, s. 16; 1989, c. 17, s. 7
+
+</details>
+
+### 17 Protection from personal liability
+
+(1) No action or other proceeding for damages lies or may be instituted against a Minister, servant or agent of the Crown for or in respect of anything done or omitted to be done, or purported to be done or omitted to be done, in good faith under this Act or any order or regulation issued or made under this Act.
+
+**Crown not relieved of liability**
+
+(2) Subsection (1) does not relieve the Crown of liability for the acts or omissions described therein, and the Crown is liable under the *Crown Liability Act* or any other law as if that subsection had not been enacted.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1989, c. 17, s. 7
+
+</details>
+
+## Civil Action
+
+### 18 Right of civil action
+
+(1) Any person who
+
+- (a) holds an interest in the content of a subscription programming signal or network feed, by virtue of copyright ownership or a licence granted by a copyright owner,
+
+- (b) is authorized by the lawful distributor of a subscription programming signal or network feed to communicate the signal or feed to the public,
+
+- (c) holds a licence to carry on a broadcasting undertaking issued by the Canadian Radio-television and Telecommunications Commission under the *Broadcasting Act*, or
+
+- (d) develops a system or technology, or manufactures or supplies to a lawful distributor equipment, for the purpose of encrypting a subscription programming signal or network feed, or manufactures, supplies or sells decoders, to enable authorized persons to decode an encrypted subscription programming signal or encrypted network feed
+
+may, where the person has suffered loss or damage as a result of conduct that is contrary to paragraph 9(1)(c), (d) or (e) or 10(1)(b), in any court of competent jurisdiction, sue for and recover damages from the person who engaged in the conduct, or obtain such other remedy, by way of injunction, accounting or otherwise, as the court considers appropriate.
+
+**Rules applicable**
+
+(2) In an action under subsection (1) against a person,
+
+- (a) a monetary judgment may not exceed one thousand dollars where the person is an individual and the conduct engaged in by the person is neither contrary to paragraph 9(1)(e) or 10(1)(b) nor engaged in for commercial gain; and
+
+- (b) the costs of the parties are in the discretion of the court.
+
+**Evidence of prior proceedings**
+
+(3) In an action under subsection (1) against a person, the record of proceedings in any court in which that person was convicted of an offence under paragraph 9(1)(c), (d) or (e) or 10(1)(b) is, in the absence of any evidence to the contrary, proof that the person against whom the action is brought engaged in conduct that was contrary to that paragraph, and any evidence given in those proceedings as to the effect of that conduct on the person bringing the action is evidence thereof in the action.
+
+**Jurisdiction of Federal Court**
+
+(4) For the purposes of an action under subsection (1), the Federal Court is a court of competent jurisdiction.
+
+**Limitation**
+
+(5) An action under subsection (1) may be commenced within, but not after, three years after the conduct giving rise to the action was engaged in.
+
+***Copyright Act***
+
+(6) Nothing in this section affects any right or remedy that an aggrieved person may have under the *Copyright Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1991, c. 11, s. 85
+
+</details>
+
+### 19 Right of civil action
+
+(1) Any person who has made or received a radio-based telephone communication that the person believes on reasonable grounds will be or has been divulged or will be used or has been made use of contrary to subsection 9(1.1) may, in any court of competent jurisdiction, bring an action to prevent the divulgence or use of or to recover damages from the person who will divulge or has divulged or who will make use of or has made use of the radio-based telephone communication, and in any such action the court may grant any remedy, by way of injunction, damages, accounting or otherwise, as the court considers appropriate.
+
+**Evidence of prior proceedings**
+
+(2) In an action under subsection (1) against a person, the record of proceedings in any court in which that person was convicted of an offence under subsection 9(1.1) is, in the absence of any evidence to the contrary, proof that the person against whom the action is brought divulged or made use of the radio-based telephone communication and any evidence given in those proceedings as to the effect of the divulgence or use on the person bringing the action is evidence thereof in the action.
+
+**Jurisdiction of Federal Court**
+
+(3) For the purposes of an action under subsection (1), the Federal Court is a court of competent jurisdiction.
+
+**Limitation**
+
+(4) An action under subsection (1) may be commenced within, but not after, three years after the conduct giving rise to the action was engaged in.
+
+**Remedies not affected**
+
+(5) Nothing in this section affects any other right or remedy that an aggrieved person might otherwise have.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1993, c. 40, s. 26
+
+</details>
+
+
+## RELATED PROVISIONS
+
+### — 1989, c. 17, s. 16
+
+### 16 Radio licences, etc.
+
+Radio licences, technical construction and operating certificates and radio operator certificates that were in force under the *Radio Act* immediately before this Act comes into force continue in force thereafter as if they had been issued in accordance with the *Radio Act* as amended by this Act.
+
+### — 1995, c. 1, s. 62(4)
+
+### 62 Idem
+
+(4) Every reference to the Minister of Communications in any order, regulation or other instrument made under the *Radiocommunication Act* or the *Telecommunications Act* shall, unless the context otherwise requires, be read as a reference to the Minister of Industry.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 1992, c. 47, s. 84 (Sch., s. 14)
+
+### 14 1989, c. 17, s. 6
+
+Section 12 is repealed.
+
+### — 2002, c. 7, s. 233
+
+### 233 1994, c. 43, s. 92
+
+Subsections 7(4) and (5) of the *Radiocommunication Act* are replaced by the following:

@@ -1,0 +1,812 @@
+---
+title: "Loi sur les chambres de commerce"
+long_title: "Loi concernant la constitution des chambres de commerce"
+chapter: "B-6"
+language: "en"
+type: "act"
+---
+
+# Loi sur les chambres de commerce
+
+> Loi concernant la constitution des chambres de commerce
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur les chambres de commerce*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 1
+
+</details>
+
+## Définitions
+
+### 2 Définitions
+
+Les définitions qui suivent s’appliquent à la présente loi.
+
+**chambre de commerce** S’entend notamment d’un *board of trade* et, pour les fins de la nomination des peseurs de grain sous le régime de la présente loi, s’entend de tout *board of trade* ou de toute chambre de commerce constitués en vertu d’une loi du Parlement, ou de la législature de l’ancienne province du Canada ou d’une province. (**board of trade**)
+
+**conseil** Sont assimilés au conseil le « conseil d’administration » et les administrateurs du corps dirigeant, quelle qu’en soit la désignation. (**council**)
+
+**district** Tout district judiciaire ou tout district judiciaire provisoire, délimité ou constitué comme tel par une loi fédérale ou provinciale, ou par une proclamation prise en vertu ou sous l’autorité d’une telle loi, et toute ville, tout comté ou tout village auxquels peuvent être ajoutés un ou plusieurs cantons choisis à cette fin, ou un groupe de municipalités ou de divisions, dans et pour lesquels est constituée une chambre de commerce sous le régime de la présente loi. Lui sont assimilés :
+  - a) dans les provinces de la Saskatchewan, d’Alberta et de Terre-Neuve-et-Labrador, tout district électoral, constitué pour les élections à l’Assemblée législative pour l’une de ces provinces, dans et pour lequel une chambre de commerce est constituée;
+  - b) dans la province de la Colombie-Britannique et au Yukon, une division minière, ou étendue de pays décrite comme s’étendant d’un point indiqué à certaines distances spécifiées et dans certaines directions spécifiées, dans et pour laquelle une chambre de commerce est constituée. (**district**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-6, art. 2; 2002, ch. 7, art. 86; 2015, ch. 3, art. 172
+
+</details>
+
+### Constitution
+
+### 3 Constitution d’une chambre de commerce
+
+(1) Trente personnes au moins qui exercent les professions de marchands, négociants, courtiers, artisans, fabricants, gérants de banques ou agents d’assurance, et poursuivent leurs opérations ou résident dans un district dont la population est d’au moins deux mille cinq cents personnes, ou, dans la province de la Colombie-Britannique ou au Yukon, d’au moins mille cinq cents personnes, peuvent se constituer en une chambre de commerce et nommer un secrétaire.
+
+**Emploi de noms restreint**
+
+(2) Il est interdit à toute personne, dans un district où il existe une chambre de commerce qui est enregistrée sous le régime de la présente loi, d’utiliser les termes « *Board of Trade* » ou « Chambre de commerce » comme partie de la dénomination sous laquelle elle a été constituée en personne morale ou exerce des opérations, ou tous autres termes assez similaires pour être susceptibles de confusion avec ces termes, à moins qu’elle ne soit constituée en personne morale sous le régime de la présente loi ou d’une loi spéciale ou générale du Parlement.
+
+**Peine**
+
+(3) Quiconque contrevient au paragraphe (2) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende d’au plus cinq cents dollars et les frais et d’au moins cent dollars et les frais, et un emprisonnement d’au plus six mois, ou l’une de ces peines.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-6, art. 3; 2002, ch. 7, art. 87
+
+</details>
+
+### 4 Procédure pour changer les limites d’un district
+
+Sur demande adressée par la chambre de commerce d’un district sous son sceau, signée par le président et le secrétaire, et dûment autorisée par un règlement administratif de celle-ci, le gouverneur en conseil peut changer les limites de ce district.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 4
+
+</details>
+
+### 5 Certificat de constitution
+
+Les personnes qui se constituent en chambre de commerce aux termes du paragraphe 3(1) établissent, sous leur signature, un certificat spécifiant la dénomination que prend la chambre de commerce et sous laquelle elle sera connue, le nom du district où elle est située et exerce ses opérations, ainsi que le nom de la personne qu’elles ont nommée secrétaire de cette chambre de commerce.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 5
+
+</details>
+
+### 6 Déclaration solennelle
+
+(1) Lorsque le district est situé en totalité ou en partie dans les limites d’un district pour lequel il existe une chambre de commerce, le certificat est accompagné d’une déclaration solennelle d’au moins deux de ses signataires attestant :
+
+- a) les faits à cet égard;
+
+- b) la population du district pour lequel il existe une chambre de commerce;
+
+- c) la population du district pour lequel une nouvelle chambre de commerce est projetée;
+
+- d) la population du district — diminué par le changement — projeté pour lequel il existe une chambre de commerce;
+
+- e) les faits ou considérations qui ont motivé la constitution de la nouvelle chambre de commerce.
+
+**Enregistrement du certificat**
+
+(2) Dans ces cas :
+
+- a) la chambre de commerce existante doit avoir l’occasion de faire valoir les motifs de son opposition au changement projeté;
+
+- b) le certificat ne peut être enregistré qu’avec la sanction et l’autorisation du gouverneur en conseil.
+
+**Application du par. (2)**
+
+(3) Le paragraphe (2) s’applique à toute demande de constitution en personne morale sous le régime d’une loi spéciale ou générale du Parlement avec le droit d’employer les dénominations « *Board of Trade* » ou « Chambre de commerce » ou toute autre dénomination assez similaire pour être susceptible de confusion avec celles-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 6
+
+</details>
+
+### 7 Ministre
+
+(1) Le certificat visé à l’article 5 doit être authentiqué devant un notaire public, un commissaire aux serments ou un juge de paix, par le secrétaire de la chambre de commerce et être transmis au ministre de l’Industrie qui le fait consigner dans un registre tenu à cet effet.
+
+**Preuve**
+
+(2) Une copie de ce certificat, dûment certifiée par le ministre de l’Industrie, fait foi de l’existence de cette association.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-6, art. 7; 1992, ch. 1, art. 145(F); 1995, ch. 1, art. 62
+
+</details>
+
+### 8 Pouvoirs
+
+(1) Les personnes désignées dans le certificat visé à l’article 5 comme membres de la personne morale et les autres qui se joignent à elles par la suite sont, par la présente loi, autorisées à réaliser les objets en vue desquels la chambre de commerce a été constituée et à exercer les pouvoirs et privilèges conférés par la présente loi.
+
+**Personnalité morale**
+
+(2) Ces personnes ainsi que leurs associés, successeurs et ayants droit, sont, sous les dénomination et raison mentionnées dans le certificat, constitués en personne morale, ayant le pouvoir d’acheter, de vendre et d’aliéner les immeubles ou biens réels nécessaires aux objets de la chambre de commerce.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-6, art. 8; 2011, ch. 21, art. 2
+
+</details>
+
+### 9 Élection du conseil
+
+Lorsque les dispositions des articles 3 à 7 ont été suivies, la majorité des personnes désignées comme membres de la personne morale dans le certificat visé à l’article 5 peut tenir une assemblée pour l’élection d’un président, d’un vice-président et des membres du conseil, et peut aussi, sans donner d’avis, préparer et adopter les règlements administratifs, règles et règlements prévus à la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 9
+
+</details>
+
+### 10 Domicile légal
+
+Le lieu ordinaire des assemblées de la chambre de commerce est réputé son domicile légal, où tout avis ou exploit peut lui être signifié.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 10
+
+</details>
+
+### Membres du conseil
+
+### 11 Conseil de la chambre de commerce
+
+Un président, un vice-président et un secrétaire, et au moins huit autres membres forment le conseil d’une chambre de commerce, qui est appelé « Le conseil de la chambre de commerce de (*ajouter le nom du district ci-dessus défini*) », et possède les pouvoirs et remplit les fonctions prévus à la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 11
+
+</details>
+
+### 12 Élection du président et des membres du conseil
+
+(1) À la première assemblée trimestrielle qui a lieu chaque année, les membres de la chambre de commerce qui sont présents, ou la majorité d’entre eux, élisent de la manière prescrite par les règlements administratifs, et parmi les membres de la chambre de commerce, un président, un vice-président et un secrétaire, et au moins huit autres membres du conseil, lesquels, avec le président, le vice-président et le secrétaire, forment le conseil de la chambre de commerce.
+
+**Occupation du poste**
+
+(2) Les personnes élues restent en fonctions jusqu’à ce que d’autres soient élues à leur place, à la première assemblée trimestrielle de l’année suivante ou jusqu’à ce qu’elles soient démises de leurs fonctions ou s’en démettent en vertu des règlements administratifs de la chambre de commerce.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 12
+
+</details>
+
+### 13 Défaut de faire l’élection
+
+Si l’élection prévue à l’article 12 n’a pas lieu à la première assemblée trimestrielle, la chambre de commerce n’est pas de ce fait dissoute, mais cette élection peut se faire à toute assemblée générale de la chambre de commerce, convoquée en conformité avec l’article 17, et les membres du conseil alors en fonctions continuent de l’être jusqu’à ce que l’élection soit tenue.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 13
+
+</details>
+
+### 14 Serment professionnel
+
+Préalablement à leur entrée en fonctions, les président et vice-président prêtent et souscrivent, devant le maire de la ville qui constitue le district, ou devant un juge de paix, un serment dans les termes suivants :
+
+Je jure de remplir fidèlement et sincèrement mes devoirs de de la chambre de commerce de et, dans toutes matières se rattachant à l’accomplissement de ces devoirs, de faire toutes choses, et ces choses seulement, qu’en conscience je croirai propres à favoriser la réalisation des objets pour lesquels cette chambre de commerce a été constituée, suivant leur vrai sens et intention. Ainsi Dieu me soit en aide.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 14
+
+</details>
+
+### 15 Vacance
+
+(1) À toute réunion du conseil, celui-ci peut, si un de ses membres est décédé, a démissionné ou a été absent de ses réunions pendant six mois consécutifs, élire un membre de la chambre de commerce membre du conseil à la place de celui qui est décédé, a démissionné ou est absent.
+
+**Majorité**
+
+(2) Le nouveau membre est élu à la majorité des membres du conseil présents à l’une de ses réunions, s’il y a quorum.
+
+**Durée des fonctions**
+
+(3) Le membre ainsi élu reste en fonctions jusqu’à la prochaine élection annuelle.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 15
+
+</details>
+
+### Assemblées
+
+### 16 Plein pouvoir de la majorité
+
+À toute assemblée annuelle ou générale de la chambre de commerce, soit pour l’élection des membres du conseil, soit pour tout autre objet, la majorité des membres présents peut faire tout ce que la présente loi ou les règlements administratifs de la chambre de commerce prescrivent de faire à cette assemblée générale.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 16
+
+</details>
+
+### 17 Assemblées générales trimestrielles
+
+(1) Les membres de la chambre de commerce tiennent chaque année, en un endroit dans les limites du district, des assemblées générales trimestrielles.
+
+**Publication des avis**
+
+(2) Avis de ces assemblées, indiquant les date, heure et lieu, est donné par le secrétaire du conseil alors en fonctions, au moins trois jours avant ces assemblées, par annonce dans un journal ou autrement, suivant que le conseil le juge nécessaire.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 17
+
+</details>
+
+### 18 Assemblée générale extraordinaire
+
+Le conseil ou la majorité de ses membres peut convoquer une assemblée générale de la chambre de commerce pour un des objets de la présente loi :
+
+- a) soit par avis inséré un jour avant l’assemblée dans un ou plusieurs journaux publiés dans le district où est située la chambre de commerce;
+
+- b) soit par une lettre circulaire signée par le secrétaire de la chambre de commerce, adressée à chacun des membres et envoyée par la poste un jour avant l’assemblée.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 18
+
+</details>
+
+### 19 Réunions du conseil
+
+(1) Sont admis aux réunions du conseil tous les membres de la chambre de commerce qui peuvent y assister, mais ceux-ci ne peuvent prendre part aux délibérations.
+
+**Procès-verbal des délibérations**
+
+(2) Le procès-verbal des délibérations, à toutes les réunions du conseil ou de la chambre de commerce, est inscrit dans des registres qui sont tenus à cet effet par le secrétaire de la chambre de commerce.
+
+**Signature par le président**
+
+(3) Ce procès-verbal est signé par le président ou par le vice-président de la chambre de commerce, ou par la personne qui a présidé la réunion.
+
+**Livres ouverts à l’inspection**
+
+(4) Les registres visés au paragraphe (2) sont, à toutes heures convenables, gratuitement à la disposition de tout membre de la chambre de commerce.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 19
+
+</details>
+
+### Membres
+
+### 20 Membres
+
+(1) Toute personne résidant dans un district pour lequel une chambre de commerce a été constituée, qui est alors ou a été marchand, courtier, négociant, artisan, fabricant, gérant de banque ou agent d’assurance, peut devenir membre de la chambre de commerce.
+
+**Candidats proposés**
+
+(2) À toute assemblée générale de la chambre de commerce, tout membre de cette dernière peut proposer que l’une des personnes mentionnées au paragraphe (1) en devienne membre.
+
+**Majorité des deux tiers requise**
+
+(3) Si la proposition est adoptée par une majorité des deux tiers des membres de la chambre de commerce alors présents, cette personne en devient dès lors membre et a tous les droits et est assujettie à toutes les obligations des autres membres.
+
+**Personnes autres que les négociants**
+
+(4) Toute personne qui n’est pas marchand, courtier, négociant, artisan, fabricant, gérant de banque ou agent d’assurance, peut devenir membre de la chambre de commerce de la manière prévue au présent article, si elle est recommandée par le conseil de la chambre de commerce à une assemblée générale.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 20
+
+</details>
+
+### 21 Retraite des membres
+
+Tout membre de la chambre de commerce qui veut cesser d’en être membre ou s’en retirer peut le faire en tout temps, en donnant par écrit au secrétaire dix jours d’avis de son intention et en acquittant toute dette légitime qui, lors de l’avis, lui est imputée dans les livres de la chambre de commerce.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 21
+
+</details>
+
+### Règlements administratifs
+
+### 22 Règlements administratifs ou autres
+
+La majorité des membres de la chambre de commerce présents à une assemblée générale peut prendre des règlements administratifs ou autres, relatifs à l’administration de la chambre de commerce, régissant :
+
+- a) l’admission et les contributions des membres;
+
+- b) l’imposition de pénalités;
+
+- c) l’expulsion ou la démission des membres;
+
+- d) la direction de son conseil, des membres qui le composent et de ses affaires;
+
+- e) la gouverne du conseil d’arbitrage mentionné dans la présente loi;
+
+- f) la fixation de la date et du lieu des réunions ordinaires du conseil;
+
+- g) les pouvoirs que peut exercer le conseil;
+
+- h) toutes autres matières relatives à l’administration de la chambre de commerce non incompatibles avec la présente loi ni avec les lois fédérales.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 22
+
+</details>
+
+### 23 Sont obligatoires
+
+Les règlements administratifs pris en vertu de l’article 22 lient tous les membres de la chambre de commerce, ses dirigeants et ses employés, ainsi que toutes autres personnes qui sont légalement sous sa direction.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 23
+
+</details>
+
+### 24 Avis requis
+
+Aucun règlement administratif ne peut être pris par la chambre de commerce, à moins qu’un membre appuyé par un autre membre n’en ait donné avis par écrit à une assemblée précédente, et que cet avis n’ait été dûment inscrit dans les registres de la chambre de commerce à titre de procès-verbal.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 24
+
+</details>
+
+### Contributions et redevances
+
+### 25 Contributions et pénalités
+
+(1) Sont payées au secrétaire de la chambre de commerce et recouvrables, à défaut de paiement, par action intentée au nom de celle-ci, les sommes suivantes :
+
+- a) toutes contributions des membres dues à la chambre de commerce, en vertu d’un règlement administratif;
+
+- b) toutes pénalités encourues en vertu d’un règlement administratif par quelque personne qui y est soumise;
+
+- c) toutes autres sommes dues à la chambre de commerce.
+
+**Procédure**
+
+(2) Dans une action intentée aux termes du paragraphe (1), il suffit d’alléguer que la personne en cause est endettée envers la chambre de commerce de la somme d’argent, du montant des arriérés de contribution, de pénalité ou d’autres sommes, par suite de quoi la chambre de commerce a un droit d’action en vertu de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 25
+
+</details>
+
+### 26 Preuve
+
+Au procès ou à l’instruction de cette action, il suffit à la chambre de commerce d’établir :
+
+- a) d’une part, que le défendeur, à l’époque où la demande a été faite, était ou avait été membre de la chambre de commerce;
+
+- b) d’autre part, que le montant réclamé pour contribution, amende ou autrement, restait à payer d’après les livres de la chambre de commerce.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 26
+
+</details>
+
+### Pouvoirs du conseil
+
+### 27 Réunions du conseil
+
+(1) Le conseil d’une chambre de commerce peut tenir des réunions et les ajourner quand il est nécessaire, et traiter à ces réunions des affaires qui lui sont attribuées par la présente loi ou par les règlements administratifs de la chambre de commerce.
+
+**Mode de convocation**
+
+(2) Les réunions du conseil sont convoquées par le secrétaire, à la demande du président ou de deux membres du conseil.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 27
+
+</details>
+
+### 28 Pouvoirs du conseil
+
+(1) Le conseil possède, outre les pouvoirs que la présente loi lui confère expressément, les pouvoirs qui lui sont accordés par tout règlement administratif de la chambre de commerce, non incompatible avec la présente loi.
+
+**Restriction**
+
+(2) Le conseil n’a pas, et aucun règlement administratif ne peut lui conférer, le pouvoir de prendre ou de changer un règlement administratif, ou d’admettre un membre.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 28
+
+</details>
+
+### 29 Quorum
+
+Cinq membres ou plus du conseil, légalement assemblés, forment quorum, dont la majorité peut accomplir tout ce qui entre dans les pouvoirs du conseil.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 29
+
+</details>
+
+### 30 Qui préside
+
+(1) À toutes les réunions du conseil, et à toutes les assemblées générales de la chambre de commerce, le président, ou, en son absence, le vice-président, ou, en l’absence des deux, tout membre du conseil, alors présent, qui est choisi pour cette occasion, préside.
+
+**Voix prépondérante**
+
+(2) En cas de partage, lors d’un vote, le membre qui préside a voix prépondérante.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 30
+
+</details>
+
+### 31 Règlements administratifs, règles et règlements
+
+(1) Le conseil rédige les règlements administratifs, règles et règlements qu’il croit les plus propres à favoriser les intérêts de la chambre de commerce et la réalisation des objets de la présente loi, et il les soumet pour qu’ils soient adoptés à une assemblée générale de la chambre de commerce, convoquée à cet effet.
+
+**Règlements administratifs quant aux peseurs**
+
+(2) Le conseil peut aussi prendre des règlements administratifs prescrivant que tout peseur employé relativement à un élévateur à grain dans le district pour lequel cette chambre de commerce est constituée soit autorisé par permis et prête serment de remplir fidèlement, exactement et impartialement les fonctions de peseur, et faire examiner toute personne qui demande un permis de peseur aux élévateurs à grain, sur ses capacités, de la manière que le conseil juge à propos.
+
+**Permis**
+
+(3) Le conseil peut, s’il est convaincu que le requérant est en état de remplir ses fonctions, lui délivrer un permis qui l’autorise à agir comme peseur.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 31
+
+</details>
+
+### Conseil d’arbitrage
+
+### 32 Conseil d’arbitrage
+
+(1) À l’époque fixée par l’article 12 pour l’élection du conseil, et de la même manière, les membres de la chambre de commerce peuvent élire parmi eux douze personnes qui forment un conseil appelé le conseil d’arbitrage.
+
+**Pouvoirs**
+
+(2) Trois de ces personnes peuvent juger et régler tout cas ou différend commercial qui leur est volontairement soumis par les parties intéressées.
+
+**Trois arbitres agissent**
+
+(3) Lorsque les parties conviennent de s’obliger à soumettre le sujet de leur différend à la décision du conseil d’arbitrage, elles sont réputées l’avoir soumis à trois des membres du conseil, qui peuvent, soit par ordre spécial du conseil, soit en vertu de règles générales adoptées par lui ou d’un règlement administratif de la chambre de commerce ayant trait à l’examen d’affaires ainsi soumises, être nommés pour entendre, arbitrer et régler le différend.
+
+**Décision lie les parties**
+
+(4) Une décision rendue en vertu du paragraphe (3) lie le conseil d’arbitrage et les parties qui soumettent l’affaire.
+
+**Formule**
+
+(5) L’affaire est soumise suivant la formule 1 de l’annexe, ou dans des termes équivalents.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-6, art. 32; 2011, ch. 21, art. 3
+
+</details>
+
+### 33 Les membres prêtent serment
+
+(1) Les différents membres du conseil d’arbitrage prêtent et souscrivent, avant d’agir comme tels, devant le président ou le vice-président de la chambre de commerce, serment suivant la formule 2 de l’annexe de remplir fidèlement, impartialement et diligemment leurs devoirs de membres du conseil d’arbitrage.
+
+**Déclaration conservée**
+
+(2) La déclaration sous serment est gardée parmi les documents de la chambre de commerce.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 33
+
+</details>
+
+### 34 Membres du conseil
+
+Tout membre du conseil peut, en même temps, être membre du conseil d’arbitrage.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 34
+
+</details>
+
+### 35 Pouvoir des arbitres quant au serment, etc.
+
+(1) Les trois membres nommés pour entendre une affaire soumise à l’arbitrage, ou deux d’entre eux, ont plein pouvoir d’interroger, sous serment — que l’un des trois membres est par les présentes autorisé à faire prêter — , toute partie ou témoin qui, comparaissant devant eux, est ainsi interrogé, et rendent leur sentence par écrit dans l’affaire.
+
+**Décision lie les parties**
+
+(2) La sentence arbitrale lie les parties conformément aux conditions selon lesquelles l’affaire a été soumise et suivant les dispositions de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 35
+
+</details>
+
+### Autorisation des peseurs
+
+### 36 Examen des peseurs
+
+(1) Lorsque le conseil d’une chambre de commerce a adopté un règlement administratif prescrivant que tout peseur employé relativement à un élévateur à grain dans le district pour lequel cette chambre est constituée soit autorisé par permis et prête le serment prévu à l’article 37, cette chambre de commerce peut faire examiner toute personne qui demande un permis de peseur aux élévateurs à grain, sur ses capacités, de la manière que le conseil juge à propos.
+
+**Permis**
+
+(2) Le conseil peut, s’il est convaincu que le requérant est en état de remplir ses fonctions, lui délivrer un permis qui l’autorise à agir comme peseur.
+
+**Infractions et peines**
+
+(3) Quiconque agit comme peseur à un élévateur à grain dans un district, sauf s’il a été ainsi autorisé et a prêté le serment prévu à l’article 37, commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de dix dollars pour chaque infraction.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 36
+
+</details>
+
+### 37 Assermentation des peseurs
+
+(1) Tout peseur qui reçoit un permis en vertu de l’article 36 prête et souscrit immédiatement, devant un juge de paix, un serment professionnel dans les termes qui suivent ou dans des termes analogues :
+
+**Garde du serment**
+
+(2) Le serment ainsi prêté est conservé par le juge de paix qui l’a fait prêter, et une copie de ce serment certifiée par ce juge de paix fait preuve qu’il a été prêté et souscrit conformément à la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 37
+
+</details>
+
+### Affiliation à la Chambre de commerce canadienne
+
+### 38 Affiliation à la Chambre de commerce canadienne
+
+(1) Toute chambre de commerce régulièrement enregistrée sous le régime de la présente loi peut s’affilier à la Chambre de commerce canadienne en se conformant aux conditions et exigences de cette organisation, et peut se faire représenter à l’assemblée annuelle de celle-ci.
+
+**Élection des délégués**
+
+(2) Les délégués ou représentants à l’assemblée annuelle de la Chambre de commerce canadienne sont élus à une assemblée générale, régulièrement convoquée ou par le conseil de la chambre de commerce qui veut ainsi être représentée.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 38
+
+</details>
+
+### Changement de dénomination
+
+### 39 Changement de dénomination
+
+Lorsqu’une chambre de commerce présente à cet effet une demande revêtue de son sceau et signée de son président et de son secrétaire, sa dénomination peut être changée si le gouverneur en conseil est convaincu que ce changement n’est pas recherché dans un but irrégulier et n’est pas autrement susceptible d’objection.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 39
+
+</details>
+
+### 40 Publication dans la *Gazette du Canada*
+
+Un changement de dénomination devient définitif par l’insertion que le ministre de l’Industrie fait d’un avis de ce changement dans la *Gazette du Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-6, art. 40; 1992, ch. 1, art. 145(F); 1995, ch. 1, art. 62
+
+</details>
+
+### 41 Droits et obligations
+
+La modification de la dénomination d’une chambre de commerce ne change en rien ses droits ou obligations; toute action intentée par ou contre elle avant ce changement peut se poursuivre par ou contre elle sous sa dénomination précédente.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 41
+
+</details>
+
+### Rapport sommaire annuel
+
+### 42 Rapport sommaire annuel
+
+(1) Toute chambre de commerce fait, le ou avant le 1^er^ juin de chaque année, un rapport sommaire, arrêté à la date du 31 mars précédent, et indiquant :
+
+- a) sa dénomination;
+
+- b) le mode et la date de sa constitution en personne morale;
+
+- c) la date de la dernière assemblée générale de ses membres;
+
+- d) les noms et adresses des personnes qui, à la date du rapport, forment son conseil.
+
+**Dépôt**
+
+(2) Le rapport sommaire est fait et déposé en double exemplaire au ministère de l’Industrie, le ou avant le 1^er^ juin de chaque année.
+
+**Signature**
+
+(3) Chacun des exemplaires est signé par le secrétaire de la chambre de commerce.
+
+**Défaut**
+
+(4) Si une chambre de commerce omet de se conformer à l’une des prescriptions du présent article, elle est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de vingt dollars pour chaque jour que dure l’omission.
+
+**Peine**
+
+(5) Tout membre du conseil de cette chambre de commerce qui, sciemment ou volontairement, autorise ou permet l’omission, est passible de la même peine.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-6, art. 42; 1992, ch. 1, art. 145(F); 1995, ch. 1, art. 63
+
+</details>
+
+### Dissolution
+
+### 43 Dissolution de la chambre de commerce
+
+Lorsqu’il apparaît qu’une chambre de commerce est devenue incapable d’exercer ou a cessé d’exercer ses pouvoirs, le gouverneur en conseil peut, aux conditions qu’il juge justes et convenables, dissoudre cette chambre comme personne morale.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 43
+
+</details>
+
+### Formation de la chambre
+
+### 44 Formation
+
+(1) Trente personnes au moins, directement ou indirectement occupées ou intéressées au commerce ou au bien-être économique et social d’un district, qu’elles y résident ou non, peuvent s’associer et constituer une chambre de commerce aux fins de favoriser et d’améliorer le commerce et le bien-être économique, civique et social de ce district.
+
+**Certificat, enregistrement et constitution**
+
+(2) Dès qu’ont été observées les dispositions des articles 5 et 7, l’article 8 s’applique à l’association visée au paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 44
+
+</details>
+
+### 45 Mémorandum de convention
+
+En même temps que le certificat de formation, les personnes mentionnées à l’article 44 transmettent en double exemplaire au ministre de l’Industrie un mémorandum de convention, lequel énonce les règlements administratifs ou autres de la chambre de commerce projetée et, plus particulièrement, prévoit des règlements administratifs ou autres sur les sujets suivants :
+
+- a) conditions d’admission des membres, y compris les sociétés ou compagnies qui deviennent membres de la chambre de commerce;
+
+- b) mode de tenue des assemblées, droits de voter et de prendre, d’abroger ou de modifier les règlements administratifs ou autres;
+
+- c) nomination et destitution des administrateurs, des fiduciaires, de comités ou des dirigeants, et détermination de leurs pouvoirs et traitements respectifs;
+
+- d) mesures à prendre pour l’apurement des comptes et la nomination des vérificateurs;
+
+- e) décision relative à la question de savoir si les membres peuvent se retirer de la chambre de commerce et comment ils peuvent le faire;
+
+- f) mesures à prendre pour la garde du sceau et l’attestation des documents délivrés par la chambre de commerce.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-6, art. 45; 1992, ch. 1, art. 145(F); 1995, ch. 1, art. 62
+
+</details>
+
+### 46 Modification
+
+(1) Les règlements administratifs ou autres visés à l’article 45 peuvent être modifiés, au besoin, à une assemblée générale convoquée à cette fin.
+
+**Ratification**
+
+(2) Aucun changement ni aucune modification ne peuvent être mis en vigueur ou en pratique sans l’approbation du ministre de l’Industrie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. B-6, art. 46; 1992, ch. 1, art. 145(F); 1995, ch. 1, art. 62
+
+</details>
+
+### 47 Chambres de commerce existantes
+
+Toute chambre de commerce existante constituée en personne morale par ou suivant une loi du Parlement, ou de la législature de l’ancienne province du Canada ou d’une province, peut demander, sous le régime de la présente partie, la constitution de cette chambre de commerce conformément à la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 47
+
+</details>
+
+### 48 Pouvoirs
+
+Une chambre de commerce constituée en vertu de la présente partie possède tous les pouvoirs et toute l’autorité conférés à une chambre de commerce par la partie I et est astreinte à toutes les dispositions de la partie I, sauf dans la mesure où ces dispositions sont modifiées par la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, art. 48
+
+</details>
+
+
+## ANNEXE
+
+FORMULE 1(article 32)Sachez tous que le soussigné et le soussigné (*s’il y a d’autres parties, c’est-à-dire d’autres intérêts distincts, en faire mention*), étant en désaccord sur leurs droits respectifs dans l’affaire décrite ci-après, sont convenus et ont pris l’engagement, aux termes d’un dédit de dollars, de se conformer et de se soumettre à la sentence qui sera rendue par le conseil d’arbitrage de la chambre de commerce de dans cette affaire, sous peine du dédit susmentionné, qui sera payé à la partie prête à s’y conformer ou à s’y soumettre, par celle qui refuse de le faire.En foi de quoi, les parties ont à ces présentes apposé leur signature, à  ... , ce jour de 19 ... .
+
+FORMULE 2(article 33)Je jure que je remplirai fidèlement, impartialement et diligemment mon devoir comme membre du conseil d’arbitrage de la chambre de commerce de et que je rendrai, dans tous les cas où j’agirai comme arbitre, une sentence juste et véridique, au mieux de mon jugement et de mon habileté, sans crainte, faveur ni affection envers qui que ce soit. Ainsi Dieu me soit en aide.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. B-8, ann
+
+</details>

@@ -1,0 +1,53 @@
+---
+title: "Loi sur les documents publics"
+long_title: "Loi concernant les documents publics et assurant la correction des lettres patentes défectueuses"
+chapter: "P-28"
+language: "en"
+type: "act"
+---
+
+# Loi sur les documents publics
+
+> Loi concernant les documents publics et assurant la correction des lettres patentes défectueuses
+
+
+### 1 Titre abrégé
+
+Titre abrégé : « *Loi sur les documents publics* ».
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. P-28, art. 1
+
+</details>
+
+### 2 Documents publics du Canada
+
+(1) Il n’est pas nécessaire d’utiliser du parchemin pour une commission ou autre document public sous le grand sceau, ou sous le sceau privé du gouverneur général, pour les lettres patentes du Canada, ou pour les brefs, actes ou autres documents publics, ou pour une partie de ces documents, à moins qu’une loi qui s’y rapporte ne l’exige expressément; ces documents, s’ils sont écrits ou imprimés en totalité ou en partie sur papier, sont aussi valides sous tous les rapports que s’ils avaient été écrits ou imprimés sur parchemin.
+
+**Réserve**
+
+(2) La présente loi n’a pas pour effet de déclarer qu’il était nécessaire, pour la validité des documents visés au paragraphe (1) signés, scellés ou exécutés avant le 22 juin 1869, qu’ils aient été, en totalité ou en partie, sur parchemin.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. P-28, art. 2
+
+</details>
+
+### 3 Lettres patentes ou documents défectueux
+
+(1) Si des lettres patentes revêtues du grand sceau, autres que celles qui portent concession de terres, ou des documents revêtus du sceau privé du gouverneur général ou de l’administrateur du gouvernement du Canada ont été délivrés à une personne, ou au nom d’une personne, autre que celle qui y a droit, ou contiennent une erreur d’écriture, une erreur dans les noms ou une énonciation inexacte d’un fait important, le registraire général du Canada, s’il y est autorisé par le gouverneur en conseil, peut ordonner l’annulation de ces lettres patentes ou documents défectueux, la notation de cette annulation en marge du registre des premières lettres patentes ou autres documents et la délivrance, à leur place, de lettres patentes correctes sous le grand sceau ou de documents corrects sous le sceau privé.
+
+**Effet**
+
+(2) Ces nouveaux titres ont effet depuis la date des lettres ou documents annulés.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. P-28, art. 3; 2011, ch. 21, art. 155
+
+</details>

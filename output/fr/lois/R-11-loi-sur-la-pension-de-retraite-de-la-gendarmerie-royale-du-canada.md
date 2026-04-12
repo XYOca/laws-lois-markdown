@@ -1,0 +1,2197 @@
+---
+title: "Loi sur la pension de retraite de la Gendarmerie royale du Canada"
+long_title: "Loi concernant la pension de retraite des membres de la Gendarmerie royale du Canada"
+chapter: "R-11"
+language: "en"
+type: "act"
+---
+
+# Loi sur la pension de retraite de la Gendarmerie royale du Canada
+
+> Loi concernant la pension de retraite des membres de la Gendarmerie royale du Canada
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur la pension de retraite de la Gendarmerie royale du Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-11, art. 1
+
+</details>
+
+## Égalité de statut
+
+### 2 Statut des hommes et des femmes
+
+Les contributeurs de sexes masculin et féminin que vise la présente loi ont un statut et des droits et obligations égaux en vertu de celle-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1974-75-76, ch. 81, art. 54
+
+</details>
+
+## Définitions et interprétation
+
+### 3 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente loi.
+
+**activité de service** Tout service que les règlements spécifient comme étant du service actif et qui est réputé, pour l’application de la présente loi, s’être terminé lors de la libération ou, dans le cas d’une personne qui a subi un traitement dans un hôpital d’anciens combattants au sens des règlements, immédiatement après sa libération, lors de sa sortie de cet hôpital. (**active service**)
+
+**âge de retraite** Relativement à quelque grade ou catégorie de contributeur, l’âge fixé par les règlements comme âge de retraite applicable à ce grade ou à cette catégorie. (**retirement age**)
+
+**ancienne loi** La *Loi sur la Gendarmerie royale du Canada*, chapitre 241 des Statuts revisés du Canada de 1952, telle qu’elle se lisait avant le 1^er^ avril 1960, y compris, sauf indication contraire du contexte, toute autre loi fédérale prévoyant le paiement de pensions aux membres de la Gendarmerie selon la durée du service, autre que la présente loi. (**former Act**)
+
+**Caisse de retraite de la Gendarmerie royale du Canada** La caisse constituée par l’article 29.2. (**Royal Canadian Mounted Police Pension Fund**)
+
+**compte de pension de retraite** Le compte de pension de retraite de la Gendarmerie royale du Canada visé à l’article 4. (**Superannuation Account**)
+
+**contributeur** Personne tenue par l’article 5 de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada, y compris, sauf indication contraire du contexte :
+  - a) une personne qui a cessé d’être tenue par la présente loi de contribuer au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada;
+  - b) pour l’application des articles 15 à 19 et 22, un contributeur selon la partie V de l’ancienne loi, auquel a été accordée une pension ou une allocation annuelle sous le régime de cette loi, ou qui est décédé. (**contributor**)
+
+**enfant** L’enfant, le beau-fils ou la belle-fille du contributeur — ou l’individu adopté légalement ou de fait par lui — qui était à la charge de celui-ci au moment de son décès. (**child**)
+
+**fonction publique** S’entend au sens du paragraphe 3(1) de la *Loi sur la pension de la fonction publique*. (**Public Service**)
+
+**Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada** Le fonds constitué par l’article 29.1. (**Royal Canadian Mounted Police Superannuation Investment Fund**)
+
+**force régulière** La force régulière des Forces canadiennes, y compris :
+  - a) les forces connues avant le 1^er^ février 1968 sous le nom de forces régulières des Forces canadiennes;
+  - b) les forces connues avant cette même date sous les désignations : Marine royale du Canada, Armée active canadienne, Milice active permanente, Corps de la milice permanente, État-major permanent de la milice, Corps d’aviation royal canadien (corps régulier) et Aviation active permanente. (**regular force**)
+
+**Gendarmerie** La Gendarmerie royale du Canada. (**Force**)
+
+**invalide** Sauf à la partie II, se dit de tout membre de la Gendarmerie incapable, en raison de son état de santé, de s’acquitter de ses fonctions comme membre de la Gendarmerie et, pour l’application de l’article 12, de toute personne ordinairement incapable, en raison de son état de santé, d’exercer une occupation sensiblement rémunératrice. (**disabled**)
+
+**membre de la Gendarmerie** Membre de la Gendarmerie, au sens que donne à ces termes la *Loi sur la Gendarmerie royale du Canada*, y détenant un grade, ainsi que tout autre membre de la Gendarmerie, au sens que cette loi donne à ces termes, d’une catégorie désignée en conformité avec les règlements pour l’application de la présente loi. (**member of the Force**)
+
+**ministre** Le ministre de la Sécurité publique et de la Protection civile. (**Minister**)
+
+**officier** Officier breveté de la Gendarmerie. (**officer**)
+
+**Première Guerre mondiale** La guerre déclarée le 4 août 1914 et réputée, pour l’application de la présente loi, s’être terminée le 31 août 1921. (**World War I**)
+
+**prestation supplémentaire** Prestation supplémentaire payable au titre de la partie III. (**supplementary benefit**)
+
+**régime provincial de pensions** S’entend au sens du *Régime de pensions du Canada*. (**provincial pension plan**)
+
+**Seconde Guerre mondiale** La guerre déclarée le 10 septembre 1939 et réputée, pour l’application de la présente loi, s’être terminée le 30 septembre 1947. (**World War II**)
+
+**service dans la Gendarmerie** Est assimilée au service dans la Gendarmerie toute période de service :
+  - a) accomplie à titre de gendarme auxiliaire de la Gendarmerie avant le 1^er^ avril 1960;
+  - b) accomplie à titre de policier et comptant comme service ouvrant droit à pension selon le paragraphe 24.1(9);
+  - c) visée à la division 6b)(ii)(A) ou (L) et accomplie à titre de policier si le contributeur choisit de payer à l’égard de ce service;
+  - d) accomplie à titre de policier ou de membre de la Gendarmerie pour toute période de service visée à la division 6b)(ii)(H), (I), (O) ou (P) si le contributeur choisit de payer à l’égard de ce service. (**service in the Force**)
+
+**solde**
+  - a) Relativement à la Gendarmerie, la solde du grade effectif détenu par la personne que vise l’expression, à l’exclusion de la solde du grade provisoire ou la solde supplémentaire pour les emplois temporaires dans les cadres ou autres emplois temporaires du même genre, ou, dans le cas d’une personne ne détenant pas un grade dans la Gendarmerie, le traitement ou autre rémunération pour l’accomplissement des fonctions régulières de cette personne à titre de membre de la Gendarmerie, ainsi que les allocations, versées au moyen d’indemnité ou autrement, que les règlements prescrivent;
+  - b) relativement à la fonction publique ou aux Forces canadiennes, le traitement ou la solde et les allocations, selon le cas, applicables quant à cette personne, déterminés en vertu de la *Loi sur la pension de la fonction publique* ou de la *Loi sur la pension de retraite des Forces canadiennes*. (**pay**)
+
+**survivant** Personne qui :
+  - a) était unie au contributeur par les liens du mariage au décès de celui-ci;
+  - b) est visée au paragraphe 18(1). (**survivor**)
+
+**Mentions de la *Loi sur la pension de retraite des Forces canadiennes***
+
+(2) La mention, dans la présente loi, de la *Loi sur la pension de retraite des Forces canadiennes* vaut également mention de toute autre loi fédérale, exécutoire avant ou après le 1^er^ avril 1960, prévoyant le paiement de pensions aux membres des Forces canadiennes selon la durée du service.
+
+**Personnes employées sous le régime de la *Loi sur la Gendarmerie royale du Canada***
+
+(3) Pour l’application de la présente loi, de la *Loi sur la pension de la fonction publique* et de la *Loi sur la pension de retraite des Forces canadiennes*, toute personne employée sous le régime de la *Loi sur la Gendarmerie royale du Canada* sans être membre de la Gendarmerie est réputée être employée dans la fonction publique, et toute période de service d’une personne durant laquelle elle était employée sous le régime de cette loi sans être membre de la Gendarmerie, ou durant laquelle elle était visée par la partie VII de l’ancienne loi, est réputée une période de service durant laquelle elle était employée dans la fonction publique.
+
+**Emploi ouvrant droit à pension**
+
+(4) Sauf ce que prévoient les règlements, l’emploi à titre de membre de la Gendarmerie n’est pas un emploi excepté pour l’application du *Régime de pensions du Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 3; 1992, ch. 46, art. 60; 1999, ch. 34, art. 169; 2003, ch. 22, art. 225(A); 2005, ch. 10, art. 34; 2009, ch. 13, art. 2; 2012, ch. 31, art. 504
+
+</details>
+
+## Pension de retraite
+
+### Admissibilité aux prestations
+
+### 4 Admissibilité
+
+(1) Sous réserve des autres dispositions de la présente partie, une annuité ou autre prestation ci-après spécifiée doit être versée à toute personne qui, étant tenue de contribuer au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada d’après la présente partie, cesse d’être membre de la Gendarmerie ou décède, ou relativement à cette personne. Cette annuité ou autre prestation doit, sous réserve des autres dispositions de la présente partie, reposer sur le nombre d’années de service ouvrant droit à pension au crédit de cette personne.
+
+**Compte de pension de retraite**
+
+(2) Le compte de pension de la Gendarmerie royale du Canada, ouvert parmi les comptes du Canada selon l’ancienne loi, est maintenu sous la désignation : compte de pension de retraite de la Gendarmerie royale du Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 4; 1999, ch. 34, art. 170
+
+</details>
+
+### Contributions
+
+### 5 Contribution à compter de 2013
+
+(1) À compter du 1^er^ janvier 2013 et pour toute partie de la période en cause, le membre de la Gendarmerie est tenu de verser à la Caisse de retraite de la Gendarmerie royale du Canada, par retenue sur sa solde ou autrement, la contribution calculée selon les taux que le Conseil du Trésor détermine sur recommandation conjointe du président du Conseil du Trésor et du ministre.
+
+**Contribution — trente-cinq ans de service**
+
+(2) La personne ayant à son crédit, le 1^er^ janvier 2013 ou après cette date, une période de service d’au moins trente-cinq ans ouvrant droit à pension — ou une période de service ouvrant droit à pension et une autre période de service totalisant au moins trente-cinq ans — n’est pas tenue de verser la contribution visée au paragraphe (1), mais est tenue de verser, par retenue sur sa solde ou autrement, à la Caisse de retraite de la Gendarmerie royale du Canada, en plus de toute autre somme exigée par la présente loi, une contribution — dont les taux sont déterminés par le Conseil du Trésor sur recommandation conjointe du président du Conseil du Trésor et du ministre — à compter du 1^er^ janvier 2013 ou du jour où elle a atteint trente-cinq ans de service, le dernier en date étant à retenir.
+
+**Taux maximums**
+
+(3) Pour l’application des paragraphes (1) et (2), les taux de contribution ne peuvent être supérieurs aux taux des contributions à payer au titre de l’article 5 de la *Loi sur la pension de la fonction publique* par les contributeurs du groupe 1 visés au paragraphe 12(0.1) de cette loi.
+
+**Autre période de service**
+
+(4) Pour l’application du paragraphe (2), **autre période de service** s’entend des années de service ouvrant droit à une prestation de pension de retraite ou de pension d’un genre spécifié dans les règlements qui est à payer :
+
+- a) soit sur le Trésor ou un compte parmi les comptes du Canada autre que le compte de pension de retraite;
+
+- b) soit par la Caisse de retraite des Forces canadiennes, au sens de la *Loi sur la pension de retraite des Forces canadiennes*, ou la Caisse de retraite de la fonction publique, au sens de la *Loi sur la pension de la fonction publique*.
+
+**Contributions non requises**
+
+(5) Malgré les autres dispositions de la présente partie, nulle personne ne peut, à l’égard d’une période de service postérieure au 14 décembre 1994, contribuer au titre de la présente partie en ce qui regarde la partie de son taux de solde annuel dépassant le taux de solde annuel fixé par règlement ou déterminé selon les modalités réglementaires.
+
+**Restriction**
+
+(6) Un membre de la Gendarmerie qui est engagé pour travailler dans la Gendarmerie en moyenne pour un nombre d’heures par semaine ou de jours par année qui est inférieur à celui fixé par règlement ne peut contribuer au titre de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 5; 1992, ch. 46, art. 61; 1999, ch. 34, art. 171; 2012, ch. 31, art. 505
+
+</details>
+
+### Service ouvrant droit à pension
+
+### 6 Service ouvrant droit à pension
+
+Sous réserve des autres dispositions de la présente partie, le service suivant peut être compté par un contributeur comme service ouvrant droit à pension, pour l’application de la présente partie :
+
+- a) le service non accompagné d’option, comprenant :
+  - (i) dans le cas d’un contributeur qui, immédiatement avant le 1^er^ avril 1960, était contributeur selon la partie V de l’ancienne loi, toute période de service qu’il aurait eu droit de compter aux fins de calcul de toute pension, allocation ou gratification selon cette partie si, à cette époque, il avait pris sa retraite de la Gendarmerie, sauf toute semblable période pour laquelle il a choisi, d’après cette partie, de payer,
+  - (ii) dans le cas de tout contributeur :
+    - (A) toute période durant laquelle il était tenu par les paragraphes 5(1) et (2), dans leur version au 31 décembre 2012, de contribuer au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada, et celle durant laquelle il est tenu par le paragraphe 5(1) de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada,
+    - (B) toute période de service qu’il peut compter comme service ouvrant droit à pension conformément à l’article 23,
+    - (C) toute période de service qu’il peut compter comme service ouvrant droit à pension selon le paragraphe 24.1(9);
+
+- b) le service accompagné d’option, comprenant :
+  - (i) dans le cas d’un contributeur qui, immédiatement avant le 1^er^ avril 1960, était contributeur selon la partie V de l’ancienne loi :
+    - (A) toute période de service pour laquelle il a choisi de payer en vertu de cette partie,
+    - (B) toute période de service pour laquelle il aurait pu décider, suivant les dispositions de cette partie, exécutoires immédiatement avant le 1^er^ avril 1960, de payer, s’il choisit, dans le délai prescrit par ces dispositions, de payer pour ce service,
+  - (ii) dans le cas de tout contributeur :
+    - (A) toute période de service à titre de membre d’une force policière provinciale ou municipale avec laquelle le ministre a conclu un arrangement aux termes de l’article 20 de la *Loi sur la Gendarmerie royale du Canada*, qu’il peut, d’après les règlements, compter comme service ouvrant droit à pension pour l’application de la présente partie, s’il choisit, dans le délai d’un an après qu’il est devenu contributeur selon la présente partie, de payer pour ce service,
+    - (B) toute période de service alors qu’il était en activité de service dans les forces navales, les forces de l’armée ou les forces aériennes de Sa Majesté pendant la Première Guerre mondiale ou la Seconde Guerre mondiale, s’il choisit, dans le délai d’un an après qu’il est devenu contributeur selon la présente partie, de payer pour ce service,
+    - (C) toute période de service dans le Contingent spécial de l’armée canadienne, établi par le décret C.P. 3860 du 7 août 1950, pris en vertu de la *Loi sur la défense nationale*, s’il choisit, dans le délai d’un an après qu’il est devenu contributeur selon la présente partie, de payer pour ce service,
+    - (D) toute période de service dans la force régulière, s’il choisit, dans le délai d’un an après qu’il est devenu contributeur selon la présente partie, de payer pour ce service,
+    - (E) toute période continue de service à plein temps d’une durée minimale de six mois dans les Forces canadiennes autres que la force régulière ou dans les forces navales, les forces de l’armée ou les forces aériennes de Sa Majesté levées par le Canada autres que la force régulière, s’il choisit, dans le délai d’un an après qu’il est devenu contributeur selon la présente partie, de payer pour ce service,
+    - (F) toute période de service à titre de membre de la Gendarmerie, pour laquelle il n’était pas tenu de contribuer selon l’ancienne loi, s’il choisit, dans le délai d’un an après qu’il est devenu contributeur selon la présente partie, de payer pour ce service,
+    - (G) toute période de service durant laquelle il était employé dans la fonction publique à plein temps et recevait un traitement, s’il choisit, dans le délai d’un an après qu’il est devenu contributeur selon la présente partie, de payer pour ce service, et toute période de service auprès d’un office, conseil, bureau, commission ou personne morale, ou secteur de l’administration publique fédérale, ajouté à l’annexe I de la *Loi sur la pension de la fonction publique* après le 1^er^ avril 1960, durant laquelle il était employé à plein temps et recevait un traitement, s’il choisit, dans le délai d’un an après cette addition, de payer pour ce service,
+    - (H) toute période de service qu’il peut compter comme service ouvrant droit à pension conformément à l’article 24 de la présente loi ou à l’article 18 de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, chapitre R-11 des Statuts revisés du Canada de 1970,
+    - (I) toute période de service pour laquelle il avait droit de toucher, ou pour laquelle il a reçu une somme à titre de remboursement de contributions ou autre paiement en une somme globale, autre qu’une valeur de transfert ou valeur escomptée, selon la présente partie ou la partie V de l’ancienne loi, s’il choisit, dans le délai d’un an après être devenu subséquemment contributeur selon la présente partie, de payer pour ce service,
+    - (J) toute période de service décrite au présent alinéa, pour laquelle il aurait pu choisir, en vertu de la présente partie, de la partie V de l’ancienne loi, de la *Loi sur la pension du service civil*, chapitre 50 des Statuts revisés du Canada de 1952, de la *Loi sur la pension de la fonction publique*, de la *Loi sur la pension de retraite des Forces canadiennes* ou de tout décret pris aux termes de la *Loi de 1950 sur les forces canadiennes*, modifiée par la *Loi de 1954 sur les forces canadiennes*, de payer, mais pour laquelle il n’a pas ainsi fait un choix dans le délai imparti à cette fin, s’il décide, à tout moment avant de cesser d’être membre de la Gendarmerie, de payer pour ce service,
+    - (K) toute période de service à l’égard de laquelle le contributeur effectue le choix visé au paragraphe 6.1(1), s’il choisit, avant la date où il cesse d’être membre de la Gendarmerie, de payer pour ce service,
+    - (L) toute période de service d’un genre spécifié dans les règlements, s’il choisit, selon les modalités réglementaires, de payer pour ce service,
+    - (M) toute période de service passée dans la fonction publique, après le 31 décembre 1980 et avant la date d’entrée en vigueur de la présente division, pendant laquelle il a été engagé pour travailler dans la Gendarmerie en moyenne pour au moins le nombre d’heures par semaine ou de jours par année fixé par règlement, s’il était contributeur avant cette date et s’il choisit, dans un délai d’un an après celle-ci, de payer pour ce service,
+    - (N) toute période de service passée dans la fonction publique après le 31 décembre 1980 pendant laquelle il a été engagé pour travailler dans celle-ci en moyenne pour au moins le nombre d’heures par semaine ou de jours par année fixé par règlement, s’il choisit, dans un délai d’un an après qu’il est devenu contributeur selon la présente partie, de payer à l’égard de ce service.
+    - (O) sous réserve des règlements, toute période de service à l’égard de laquelle le paiement d’une valeur de transfert ou d’une valeur escomptée, selon le cas, a été fait conformément à l’article 12.1, à l’article 22 de la *Loi sur la pension de retraite des Forces canadiennes* ou à l’article 13.01 de la *Loi sur la pension de la fonction publique*, s’il choisit conformément aux règlements de payer à l’égard de ce service,
+    - (P) sous réserve des règlements, toute période de service à l’égard de laquelle un paiement a été fait à l’égard du contributeur conformément à un accord conclu en vertu du paragraphe 24.1(2), s’il choisit conformément aux règlements de payer à l’égard de ce service.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 6; 1992, ch. 46, art. 62; 1999, ch. 34, art. 172; 2003, ch. 22, art. 218(A), ch. 26, art. 44 et 56; 2012, ch. 31, art. 506
+
+</details>
+
+### 6.1 Choix pour absence du service
+
+(1) Sous réserve du paragraphe (3), un contributeur qui est ou a été absent de la Gendarmerie, en congé non payé, pendant plus de trois mois peut, selon les modalités de temps ou autres prévues aux règlements, choisir de ne pas compter comme service ouvrant droit à pension, au titre de la division 6(1)a)(ii)(A), la partie de la période de congé qui dépasse trois mois.
+
+**Contributions non requises**
+
+(2) Par dérogation à l’article 5, le contributeur qui effectue le choix visé au paragraphe (1) est exempté de l’obligation de contribuer au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada relativement à la partie de la période visée par ce choix.
+
+**Exception**
+
+(3) Le contributeur ne peut effectuer le choix visé au paragraphe (1) dans le cas suivant :
+
+- a) son congé non payé a pris fin avant la date d’entrée en vigueur de ce paragraphe;
+
+- b) il a, avant cette date, versé au compte de pension de retraite toutes les contributions requises relativement à la période du congé.
+
+**Cessation de l’obligation**
+
+(4) Le contributeur qui effectue le choix visé au paragraphe (1) relativement à une période de congé non payé se terminant avant la date d’entrée en vigueur de ce paragraphe et qui a, avant cette date, versé au compte de pension de retraite seulement une partie des contributions requises relativement à cette période n’est plus tenu, à la date du choix, de contribuer au compte de pension de retraite relativement à cette période; il doit dès lors compter comme service ouvrant droit à pension au titre de la division 6(1)a)(ii)(A) la partie de cette période visée par les règlements.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 63; 1999, ch. 34, art. 173
+
+</details>
+
+### Service ouvrant droit à pension et accompagné d’option : montant dont le paiement est requis
+
+### 7 Montant à payer
+
+(1) Sous réserve de l’article 8, un contributeur qui peut, selon la présente partie, compter comme service ouvrant droit à pension toute période de service accompagné d’option que spécifie l’alinéa 6b), est tenu à cet égard de payer ce qui suit :
+
+- a) relativement à une période spécifiée dans la division 6b)(i)(A), tout montant qu’il aurait été requis de payer aux termes de la partie V de l’ancienne loi, si cette partie avait été maintenue en vigueur;
+
+- b) relativement à toute période spécifiée dans la division 6b)(i)(B), tout montant qu’il aurait été requis de payer en vertu de la partie V de l’ancienne loi, en vigueur immédiatement avant le 1^er^ avril 1960;
+
+- c) relativement à toute période spécifiée dans la division 6b)(ii)(A), un montant déterminé de la manière prescrite par les règlements;
+
+- d) relativement à toute période spécifiée dans la division 6b)(ii)(B), un montant égal à celui pour lequel il aurait été requis de contribuer si, durant celle-ci, il avait été requis de contribuer :
+  - (i) lorsque cette période ou toute partie de celle-ci est antérieure à 1966, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 1965, relativement à cette période ou à cette partie de période,
+  - (ii) lorsque cette période ou toute partie de celle-ci est postérieure à 1965, mais antérieure au 1^er^ avril 1969, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 mars 1969, relativement à cette période ou à cette partie de période,
+  - (iii) lorsque cette période ou toute partie de celle-ci est postérieure au 31 mars 1969, mais antérieure au 1^er^ janvier 2000, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 1999, relativement à cette période ou à cette partie de période,
+  - (iv) lorsque cette période ou toute partie de celle-ci est postérieure à 1999, mais antérieure au 1^er^ janvier 2004, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 2003, relativement à cette période ou à cette partie de période,
+  - (v) lorsque cette période ou toute partie de celle-ci est postérieure à 2003, mais antérieure au 1^er^ janvier 2013, de la manière et aux taux déterminés au titre du paragraphe 5(2), dans sa version au 31 décembre 2012, relativement à cette période ou à cette partie de période,
+  - (vi) lorsque cette période ou toute partie de celle-ci est postérieure à 2012, de la manière prévue au paragraphe 5(1) et aux taux que le Conseil du Trésor détermine au titre de ce paragraphe, relativement à cette période ou à cette partie de période,
+  en ce qui concerne une solde égale à celle qu’on était autorisé à lui payer la dernière fois qu’il est devenu contributeur aux termes de la présente loi, avec les intérêts;
+
+- e) relativement à toute période spécifiée dans les divisions 6b)(ii)(C), (D), (E), (F) ou (G), un montant égal à celui pour lequel il aurait été requis de contribuer s’il avait, durant celle-ci, été requis de contribuer :
+  - (i) lorsque cette période ou toute partie de celle-ci est antérieure à 1966, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 1965, relativement à cette période ou à cette partie de période,
+  - (ii) lorsque cette période ou toute partie de celle-ci est postérieure à 1965, mais antérieure au 1^er^ avril 1969, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 mars 1969, relativement à cette période ou à cette partie de période,
+  - (iii) lorsque cette période ou toute partie de celle-ci est postérieure au 31 mars 1969, mais antérieure au 1^er^ janvier 2000, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 1999, relativement à cette période ou à cette partie de période,
+  - (iv) lorsque cette période ou toute partie de celle-ci est postérieure à 1999, mais antérieure au 1^er^ janvier 2004, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 2003, relativement à cette période ou à cette partie de période,
+  - (v) lorsque cette période ou toute partie de celle-ci est postérieure à 2003, mais antérieure au 1^er^ janvier 2013, de la manière et aux taux déterminés au titre du paragraphe 5(2), dans sa version au 31 décembre 2012, relativement à cette période ou à cette partie de période,
+  - (vi) lorsque cette période ou toute partie de celle-ci est postérieure à 2012, de la manière prévue au paragraphe 5(1) et aux taux que le Conseil du Trésor détermine au titre de ce paragraphe, relativement à cette période ou à cette partie de période,
+  en ce qui concerne une solde égale à celle qu’on était autorisé à lui payer la dernière fois qu’il est devenu contributeur aux termes de la présente loi, avec les intérêts;
+
+- f) nonobstant toute disposition des alinéas d) et e) du présent paragraphe, relativement à toute période décrite à la division 6b)(ii)(H), le montant qu’il doit payer à cette fin d’après l’article 24;
+
+- g) nonobstant toute disposition des alinéas a) à f) du présent paragraphe, relativement à toute période décrite dans la division 6b)(ii)(I), un montant égal à celui du remboursement des contributions ou d’un autre paiement en une somme globale, dont fait mention cette division, plus la valeur capitalisée, au jour où ce paiement lui a été fait, de telles sommes sous forme de versements du montant que la présente partie ou la partie V de l’ancienne loi lui enjoint d’acquitter à l’égard de cette période, qui étaient payables par lui avant l’époque où ce paiement lui a été fait et qui étaient demeurées impayées par lui à cette époque, avec un intérêt simple de quatre pour cent l’an depuis l’époque en question jusqu’à la date de l’option;
+
+- h) nonobstant toute autre disposition du présent paragraphe, relativement à quelque période décrite dans la division 6b)(ii)(J), un montant égal à celui qu’il aurait été requis de payer s’il avait décidé selon la présente partie, dans le délai prescrit pour exercer l’option, de payer pour cette période, et si, pendant cette période, le taux de la solde qu’on était autorisé à lui verser avait été égal au taux de la solde, ainsi autorisé à la date où il a fait le choix, avec les intérêts;
+
+- i) relativement à la période visée aux divisions 6b)(ii)(F.1), (K), (L), (M), (N), (O) et (P), les montants déterminés en conformité avec les règlements.
+
+**Définition de **intérêts****
+
+(2) Au présent article, sauf indication contraire, **intérêts** s’entend de l’intérêt simple à quatre pour cent l’an depuis le milieu de l’exercice où les contributions auraient été faites, si le contributeur avait été requis de verser ces contributions pendant la période pour laquelle il a décidé de payer, jusqu’au moment de l’option.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 7; 1992, ch. 46, art. 64; 1999, ch. 34, art. 174; 2012, ch. 31, art. 507
+
+</details>
+
+### Options
+
+### 8 Manière d’exercer une option
+
+(1) Tout choix effectué par un contributeur selon la présente partie doit avoir lieu pendant que le contributeur est membre de la Gendarmerie. Il doit être constaté par écrit, sous la forme que prescrivent les règlements, et attesté. L’original doit en être adressé au Commissaire de la Gendarmerie royale du Canada dans le délai fixé par la présente partie pour l’établissement du choix ou, dans le cas d’un choix que le contributeur peut faire à tout moment avant de cesser d’être membre de la Gendarmerie, dans le délai d’un mois à compter de la date de l’option.
+
+**Choix nul**
+
+(2) Un choix visé par la présente partie est nul dans la mesure où il constitue, selon le cas :
+
+- a) une décision de payer à l’égard de toute période de service, décrite dans l’une des divisions 6b)(ii)(A) à (G), que l’auteur du choix a droit de compter aux fins de toute prestation de pension de retraite ou de pension d’un genre prescrit par les règlements, autrement qu’en vertu des dispositions de la présente partie;
+
+- b) une décision de payer à l’égard de toute période de service visée aux divisions 6b)(ii)(J), (K) ou (L), sauf si l’auteur du choix a subi un examen médical, comme le prescrivent les règlements, dans tel délai, antérieur ou postérieur à l’exercice de l’option, que prescrivent ceux-ci;
+
+- b.1) une décision de renoncer à une annuité, une allocation annuelle ou une pension, en vertu du paragraphe 24(5), le 1^er^ décembre 1995 ou après cette date, sauf si l’auteur du choix a subi un examen médical, tel que prévu aux règlements, dans tel délai, immédiatement antérieur ou postérieur à l’exercice de l’option, que prescrivent ceux-ci;
+
+- c) une décision de payer à l’égard de toute période de service de moins de quatre-vingt-dix jours telle qu’elle est définie par les règlements à moins qu’il ne s’agisse d’un service qui peut être compté en vertu de la division 6b)(ii)(I).
+
+**Droit à l’égard d’une fraction de période**
+
+(3) Un contributeur qui a droit, en vertu de la présente partie, de choisir de payer à l’égard d’une période de service peut décider de payer pour une fraction seulement de cette période, mais uniquement pour la fraction la plus récente.
+
+**Faculté de modifier ou révoquer**
+
+(4) Un choix en vertu de la présente partie peut être modifié par l’auteur du choix, dans le délai que prescrit la présente partie pour l’exercice de l’option, en augmentant la ou les périodes de service pour lesquelles il choisit de payer, et est autrement irrévocable sauf dans telles circonstances et selon telles modalités que prescrivent les règlements, y compris le paiement par l’auteur du choix, à Sa Majesté, de tel montant, à l’égard de toute prestation qui revient à ce dernier tant que subsiste le choix, en conséquence de l’option qu’il a ainsi exercée, que déterminent les règlements.
+
+**Mode de paiement**
+
+(5) Sous réserve des autres dispositions du présent article, un montant qu’un contributeur est astreint à verser, selon le paragraphe 7(1), en ce qui regarde toute période de service pour laquelle il a choisi de payer, doit être payé par lui au compte de pension de retraite :
+
+- a) soit en une somme globale, à la date de l’exercice de l’option;
+
+- b) soit en versements, effectués à telles conditions et calculés sur telles bases, quant à la mortalité et aux intérêts, que prescrivent les règlements,
+
+à son choix.
+
+**Choix exercé après le 31 mars 2000**
+
+(5.1) Pour l’application des paragraphes (5) et 24(1), la somme que le contributeur est tenu de payer par suite d’un choix exercé après le 31 mars 2000 doit être payée à la Caisse de retraite de la Gendarmerie royale du Canada.
+
+**Versements impayés**
+
+(6) Lorsqu’un contributeur qui a décidé, en vertu de la présente partie ou de la partie V de l’ancienne loi, de payer pour une période de service et s’est engagé à payer pour cette période par versements, cesse d’être membre de la Gendarmerie avant que tous les versements aient eu lieu, les versements impayés peuvent être retenus, en conformité avec les règlements, sur tout montant à lui payable par Sa Majesté, y compris toute annuité ou autre prestation qui lui est payable en vertu de la présente partie, jusqu’à ce que tous les versements aient été acquittés ou que le contributeur décède, en choisissant celui de ces deux événements qui se produit en premier lieu.
+
+**Recouvrement des montants dus**
+
+(7) Lorsqu’un montant payable par un contributeur au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada moyennant une retenue sur la solde et les allocations ou d’autre façon est devenu exigible, mais demeure impayé à l’époque de son décès, ce montant, avec intérêt à quatre pour cent l’an depuis la date où il est devenu exigible, peut être recouvré, en conformité avec les règlements, sur toute allocation payable, selon la présente partie, au survivant ou aux enfants du contributeur, sans préjudice de tout autre recours accessible à Sa Majesté quant au recouvrement de ce montant. Tout montant ainsi recouvré doit être porté au crédit du compte de pension de retraite ou être versé à la caisse et est censé, pour l’application de la définition de **remboursement de contributions** au paragraphe 9(1), avoir été versé à ce compte ou à cette caisse par le contributeur.
+
+**Choix régis par règlement**
+
+(8) Dans le cas des choix prévus aux divisions 6b)(ii)(F.1), (L), (M), (N), (O) ou (P), le présent article s’applique dans la mesure et selon les modalités prévues par les règlements.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 8; 1992, ch. 46, art. 65; 1999, ch. 34, art. 175
+
+</details>
+
+### 8.1 Recouvrement d’une annuité versée par erreur
+
+Lorsque le versement d’un montant, fondé sur la présente partie ou la partie III et à valoir sur une annuité, allocation annuelle ou prestation supplémentaire, s’est effectué par erreur, le ministre peut retenir par voie de déduction sur tous versements ultérieurs de cette annuité, allocation annuelle ou prestation supplémentaire, de la manière que prescrivent les règlements, un montant égal à celui qui a été versé par erreur, sans préjudice de tout autre recours dont dispose Sa Majesté relativement au recouvrement de celui-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 66
+
+</details>
+
+### Prestations : mode de calcul, etc.
+
+### 9 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente partie.
+
+**allocation de cessation en espèces** Montant égal à un mois de solde pour chaque année de service ouvrant droit à pension au crédit du contributeur, calculé sur la base du taux de solde qu’on est autorisé à lui verser à la date où il cesse d’être membre de la Gendarmerie, moins un montant égal à l’excédent du montant visé à l’alinéa a) sur celui visé à l’alinéa b) :
+  - a) le montant total que le contributeur aurait été tenu de verser au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada jusqu’au moment où il a cessé d’être un membre de la Gendarmerie — à l’exception des intérêts ou des frais requis pour des paiements échelonnés — relativement à du service postérieur à 1965, s’il avait contribué sur la base des taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 1965;
+  - b) le montant total que le contributeur était tenu de verser au compte ou à la caisse jusqu’au moment où il a cessé d’être un membre de la Gendarmerie — à l’exception des intérêts ou des frais requis pour des paiements échelonnés — relativement à du service postérieur à 1965. (**cash termination allowance**)
+
+**annuité** Annuité calculée selon l’article 10. (**annuity**)
+
+**annuité différée** Annuité qui devient payable au contributeur lorsqu’il atteint l’âge de soixante ans. (**deferred annuity**)
+
+**annuité immédiate** Annuité qui devient payable au contributeur dès qu’il y devient admissible. (**immediate annuity**)
+
+**prestataire** Personne à laquelle un montant quelconque est payable ou est sur le point d’être payable en vertu de la présente partie. (**recipient**)
+
+**remboursement de contributions** Remboursement :
+  - a) d’une part, du montant versé par le contributeur au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada, à l’exclusion de tout montant ainsi versé conformément au paragraphe 39(7) de la *Loi sur la pension de la fonction publique*;
+  - b) d’autre part, de tout montant qu’il a versé à un autre compte, caisse ou fonds, avec intérêt, le cas échéant, qui a été transféré au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada,
+dans la mesure où ce montant reste à son crédit au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada, avec intérêt, le cas échéant, calculé en application du paragraphe (6). (**return of contributions**)
+
+**valeur de transfert** Somme globale, déterminée conformément aux règlements, représentant la valeur des prestations de pension du contributeur. (**transfer value**)
+
+**Durée du paiement, etc. au contributeur**
+
+(2) Lorsqu’une annuité ou allocation annuelle devient payable à un contributeur en vertu de la présente partie, elle doit, sous réserve des règlements, être payée en mensualités égales le mois écoulé et continuer, sous réserve des autres dispositions de la présente partie, pendant toute la vie du contributeur et, par la suite, jusqu’à la fin du mois de son décès, et tout montant d’arriéré qui en demeure impayé à quelque moment après son décès doit être payé de la manière prévue à l’article 15 en ce qui concerne un remboursement de contributions.
+
+**Durée du paiement, etc. au survivant ou à l’enfant**
+
+(3) Lorsqu’une allocation annuelle devient payable en vertu de la présente partie à un survivant ou à un enfant, elle doit, sous réserve des règlements, être payée en mensualités égales le mois écoulé et continuer, sous réserve des autres dispositions de la présente partie, jusqu’à la fin du mois au cours duquel le prestataire décède ou cesse d’une autre façon d’être fondé à recevoir une allocation annuelle, et tout montant d’arriéré qui demeure impayé à quelque moment après son décès doit être payé à la succession du prestataire ou, si le montant est inférieur à mille dollars, de la manière que prescrit le ministre.
+
+**Options**
+
+(4) Lorsque, en vertu de l’article 11, un contributeur est admissible à un remboursement de contributions ou, suivant son choix, à toute autre prestation y spécifiée :
+
+- a) s’il n’exerce pas ce choix dans le délai d’un an à compter de la date où il est ainsi devenu admissible, il est réputé l’avoir exercé en faveur d’une annuité différée;
+
+- b) si, sans avoir exercé ce choix, il devient contributeur selon la *Loi sur la pension de la fonction publique* ou la *Loi sur la pension de retraite des Forces canadiennes*, il est réputé avoir exercé ce choix, immédiatement avant de devenir contributeur en vertu de l’une de ces lois, en faveur d’une annuité différée.
+
+**Révocation de l’option**
+
+(5) Lorsque, en vertu de l’article 11, un contributeur a droit à une prestation y spécifiée à son choix, il peut révoquer cette option et en exercer une nouvelle dans telles circonstances et selon telles modalités que le gouverneur en conseil prescrit par règlement.
+
+**Intérêt sur le remboursement de contributions**
+
+(6) Pour l’application de la définition de **remboursement de contributions**, au paragraphe (1), l’intérêt est calculé selon les modalités réglementaires et sur les soldes déterminés conformément aux règlements :
+
+- a) au taux de quatre pour cent composé annuellement pour toute période antérieure au 1^er^ janvier 2001;
+
+- b) aux taux fixés par les règlements pris en vertu de l’alinéa 26.1(1)c.3), composé trimestriellement, pour toute période postérieure au 31 décembre 2000.
+
+**Incessibilité des montants**
+
+(7) Sous réserve de la *Loi sur le partage des prestations de retraite* et de la partie II de la *Loi sur la saisie-arrêt et la distraction de pensions* :
+
+- a) les prestations visées à la présente partie ou à la partie III ne peuvent être cédées, grevées, assorties d’un exercice anticipé ou données en garantie, et toute opération en ce sens est nulle;
+
+- b) les prestations auxquelles un contributeur, un survivant ou un enfant a droit, en vertu de la présente partie ou de la partie III, ne peuvent, sauf au titre de l’article 12.1 ou du paragraphe 18(2), faire l’objet d’une renonciation ou d’une conversion pendant la vie de la personne en cause; toute opération en ce sens est nulle;
+
+- c) les prestations visées à la présente partie ou à la partie III sont, en droit ou en équité, exemptes d’exécution de saisie et de saisie-arrêt.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 9; 1992, ch. 46, art. 67; 1999, ch. 34, art. 176; 2003, ch. 26, art. 57
+
+</details>
+
+### 10 Calcul des annuités
+
+(1) Le montant de toute annuité à laquelle un contributeur peut devenir admissible en vertu de la présente partie est un montant égal au total des produits suivants :
+
+- a) le produit du sous-alinéa (i) par les sous-alinéas (ii) ou (iii) :
+  - (i) le nombre d’années de service ouvrant droit à pension au crédit du contributeur jusqu’à la date d’entrée en vigueur du présent paragraphe, n’excédant pas trente-cinq, divisé par cinquante,
+  - (ii) soit la solde annuelle moyenne reçue par le contributeur au cours d’une période de cinq ans de service ouvrant droit à pension choisie par ou pour lui ou au cours d’une période ainsi choisie composée de périodes consécutives de service ouvrant droit à pension et formant un total de cinq années,
+  - (iii) soit, dans le cas du contributeur ayant à son crédit moins de cinq ans de service ouvrant droit à pension, la solde annuelle moyenne qu’il a reçue pendant la période de service ouvrant droit à pension et à son crédit;
+
+- b) le produit du sous-alinéa (i) par le moindre des sous-alinéas (ii) ou (iii) :
+  - (i) le nombre d’années de service ouvrant droit à pension au crédit du contributeur pendant la période commençant au plus tôt à la date d’entrée en vigueur du présent paragraphe, n’excédant pas trente-cinq, moins le nombre d’années de service ouvrant droit à pension visé au sous-alinéa a)(i) et à son crédit, divisé par cinquante,
+  - (ii) la solde annuelle moyenne reçue par le contributeur au cours de la période visée aux sous-alinéas a)(ii) ou (iii), selon le cas,
+  - (iii) la solde annuelle moyenne fixée par les règlements pris en vertu de l’alinéa 26.1(1)a), ou déterminée de la manière prévue à ces règlements, et en vigueur à la date où le contributeur a cessé en dernier lieu d’être membre de la Gendarmerie.
+
+**Déduction de la pension**
+
+(2) Nonobstant le paragraphe (1), à moins que le ministre ne soit convaincu qu’un contributeur :
+
+- a) d’une part, n’a pas atteint l’âge de soixante-cinq ans;
+
+- b) d’autre part, n’a pas droit à une pension d’invalidité payable aux termes de l’alinéa 44(1)b) du *Régime de pensions du Canada* ou d’un régime provincial de pensions analogue,
+
+il est déduit du montant de toute pension à laquelle ce contributeur a droit en vertu de la présente partie un montant égal au pourcentage, prévu au paragraphe (2.1), du produit de la solde obtenue à l’alinéa c) par le nombre obtenu à l’alinéa d) :
+
+- c) la solde annuelle moyenne reçue par le contributeur pendant la période de service ouvrant droit à pension visée au paragraphe (1) qui lui est applicable, ne dépassant pas sa moyenne des maximums des gains ouvrant droit à pension;
+
+- d) le nombre d’années de service ouvrant droit à pension après 1965 ou après qu’il a atteint l’âge de dix-huit ans, en prenant des deux dates celle qui intervient la dernière, au crédit du contributeur, ne dépassant pas trente-cinq, divisé par cinquante.
+
+**Pourcentages**
+
+(2.1) Pour l’application du paragraphe (2), le pourcentage est le suivant :
+
+- a) trente-cinq pour cent si le contributeur est né avant 1943;
+
+- b) trente-quatre et un quart pour cent s’il est né en 1943;
+
+- c) trente-trois et demi pour cent s’il est né en 1944;
+
+- d) trente-deux et trois quarts pour cent s’il est né en 1945;
+
+- e) trente-deux pour cent s’il est né en 1946;
+
+- f) trente et un et un quart pour cent s’il est né après 1946.
+
+**Définitions**
+
+(3) Les définitions qui suivent s’appliquent au paragraphe (2).
+
+**maximum des gains annuels ouvrant droit à pension** S’entend au sens du *Régime de pensions du Canada*. (**Year’s Maximum Pensionable Earnings**)
+
+**moyenne des maximums des gains ouvrant droit à pension** À l’égard de tout contributeur, la moyenne du maximum des gains annuels ouvrant droit à pension pour l’année dans laquelle il a cessé d’être un membre de la Gendarmerie et pour chacune des quatre années précédentes. (**Average Maximum Pensionable Earnings**)
+
+**Solde réputée reçue pendant certaines périodes**
+
+(4) Pour l’application du présent article :
+
+- a) une personne qui compte à son crédit du service ouvrant droit à pension comprenant une période spécifiée dans l’une quelconque des divisions 6b)(ii)(A) à (G) est réputée avoir reçu, durant cette période, une solde à un taux égal à celui de la solde sur la base de laquelle était déterminé le montant qu’en vertu de la présente loi elle était tenue de payer pour cette période de service.
+
+- b) une personne qui compte à son crédit du service ouvrant droit à pension comprenant toute période spécifiée à l’une des divisions 6b)(ii)(L), (O) et (P) ou au paragraphe 24.1(9) est réputée avoir reçu, durant cette période, le taux de solde annuel fixé par règlement ou déterminé selon les modalités réglementaires.
+
+**Calcul de la solde annuelle moyenne**
+
+(5) Pour l’application des sous-alinéas (1)a)(ii) et (iii), une période de service durant laquelle une personne demeure membre de la Gendarmerie et est tenue par le paragraphe 5(2) de verser des contributions, ou était tenue par les paragraphes 5(5), (6) ou (7), dans leur version au 31 décembre 2012, d’en verser, est réputée une période de service ouvrant droit à pension au crédit de cette personne.
+
+**Application**
+
+(6) Les sous-alinéas (1)a)(ii) et (iii), édictés par le paragraphe 16(1) de la *Loi d’exécution du budget de 1999*, s’appliquent relativement aux prestations à payer à la personne — ou à son égard — qui verse des contributions au titre de l’article 5 le 17 juin 1999 ou après cette date. Ils ne s’appliquent pas à la personne qui a eu droit à une annuité avant cette date, est nommée de nouveau dans la Gendarmerie ou s’y rengage et est un contributeur visé à l’article 23 et qui, dès qu’elle cesse par la suite d’être membre de la Gendarmerie, n’a droit qu’à un remboursement de contributions.
+
+**Application**
+
+(7) La définition de **moyenne des maximums des gains ouvrant droit à pension** au paragraphe (3), édictée par le paragraphe 16(2) de la *Loi d’exécution du budget de 1999*, ne s’applique qu’aux déductions effectuées au titre du paragraphe (2) et qui prennent effet à la date d’entrée en vigueur du présent paragraphe ou après celle-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 10; 1992, ch. 46, art. 68; 1999, ch. 26, art. 16, ch. 34, art. 177; 2003, ch. 26, art. 58; 2006, ch. 4, art. 206; 2009, ch. 13, art. 4; 2012, ch. 31, art. 508
+
+</details>
+
+### Paiement des prestations
+
+### 11 Prestations payables à la retraite
+
+(1) Un contributeur qui, après avoir atteint l’âge de retraite, cesse d’être membre de la Gendarmerie pour toute raison autre que l’invalidité ou l’inconduite, a droit à une prestation déterminée comme suit :
+
+- a) s’il a servi dans la Gendarmerie pendant une période inférieure à la période réglementaire prévue pour l’application du présent alinéa, il a droit :
+  - (i) soit à un remboursement de contributions,
+  - (ii) soit à une allocation de cessation en espèces, si elle est d’un montant supérieur;
+
+- b) s’il a servi dans la Gendarmerie pendant une période égale ou supérieure à la période réglementaire prévue pour l’application de l’alinéa a), il a droit à une annuité immédiate.
+
+**Retraite attribuable à l’invalidité**
+
+(2) Un contributeur qui est obligatoirement retraité de la Gendarmerie du fait qu’il est devenu invalide a droit à une prestation déterminée comme suit :
+
+- a) s’il compte à son crédit une période de service ouvrant droit à pension inférieure à la période réglementaire prévue pour l’application du présent alinéa, il a droit :
+  - (i) soit à un remboursement de contributions,
+  - (ii) soit à une allocation de cessation en espèces, si elle est d’un montant supérieur;
+
+- b) s’il compte à son crédit une période de service ouvrant droit à pension égale ou supérieure à la période réglementaire prévue pour l’application de l’alinéa a), il a droit à une annuité immédiate.
+
+**Retraite motivée par un souci d’économie ou d’efficacité**
+
+(3) Un contributeur qui, avant d’avoir atteint l’âge de retraite, est obligatoirement retraité de la Gendarmerie pour favoriser l’économie ou l’efficacité, a droit à une prestation déterminée comme suit :
+
+- a) s’il a servi dans la Gendarmerie pendant une période inférieure à la période réglementaire prévue pour l’application du présent alinéa, il a droit à un remboursement de contributions;
+
+- b) s’il a servi dans la Gendarmerie pendant une période égale ou supérieure à la période réglementaire prévue pour l’application de l’alinéa a), mais inférieure à celle prévue pour l’application de l’alinéa c), il a droit, à son choix, selon le cas :
+  - (i) [Abrogé, 2003, ch. 26, art. 45]
+  - (ii) à une annuité différée,
+  - (iii) dans le cas d’un contributeur dont la retraite résulte d’une réduction du nombre total des membres de la Gendarmerie, et dans tout autre cas, selon la discrétion du Conseil du Trésor, à une annuité immédiate, réduite, jusqu’à ce que le contributeur atteigne l’âge de soixante-cinq ans mais non par la suite, de cinq pour cent pour chaque année entière sans excéder six par laquelle la période de son service dans la Gendarmerie est inférieure à la période réglementaire prévue pour l’application de l’alinéa c);
+
+- c) s’il a servi dans la Gendarmerie pendant une période égale ou supérieure à la période réglementaire prévue pour l’application du présent alinéa, il a droit à une annuité immédiate.
+
+**Renvoi pour inconduite**
+
+(4) Un contributeur qui est obligatoirement retraité de la Gendarmerie pour motif d’inconduite a droit :
+
+- a) soit à un remboursement de contributions;
+
+- b) soit, selon la discrétion du Conseil du Trésor, à la totalité ou à une partie spécifiée par le Conseil du Trésor de toute prestation à laquelle il aurait eu droit selon le présent article, si :
+  - (i) dans le cas d’un contributeur qui, à la date de sa retraite, avait atteint l’âge de retraite, il avait cessé d’être membre de la Gendarmerie pour quelque motif autre que l’invalidité ou l’inconduite,
+  - (ii) dans le cas d’un contributeur qui, à la date de sa retraite, n’avait pas atteint l’âge de retraite, il avait été obligatoirement retraité de la Gendarmerie pour favoriser l’économie ou l’efficacité à cause d’une réduction du nombre total des membres de la Gendarmerie,
+  sauf que, dans aucun cas, la valeur capitalisée de cette prestation ne peut être inférieure au montant du remboursement de contributions, mentionné à l’alinéa a).
+
+**Autres motifs**
+
+(5) Le contributeur qui cesse d’être membre de la Gendarmerie, sans avoir atteint l’âge de retraite, pour quelque motif autre que l’invalidité, l’inconduite ou le souci d’économie ou d’efficacité, a droit à une prestation déterminée comme suit :
+
+- a) s’il a servi dans la Gendarmerie pendant une période inférieure à la période réglementaire prévue pour l’application du présent alinéa, il a droit à un remboursement de contributions;
+
+- b) s’il a servi dans la Gendarmerie pendant une période égale ou supérieure à la période réglementaire prévue pour l’application de l’alinéa a), mais inférieure à celle prévue pour l’application de l’alinéa c), il a droit à une annuité différée;
+
+- c) s’il a servi dans la Gendarmerie pendant une période égale ou supérieure à la période réglementaire prévue pour l’application du présent alinéa, mais inférieure à celle prévue pour l’application de l’alinéa d), il a droit à une allocation annuelle payable au moment où il cesse d’être membre de la Gendarmerie et diminuée de cinq pour cent pour chaque année entière par laquelle :
+  - (i) la durée de son service dans la Gendarmerie est inférieure à la période réglementaire prévue pour l’application de l’alinéa d),
+  - (ii) son âge à sa retraite est inférieur à l’âge de retraite applicable à son grade, si ce chiffre est inférieur;
+
+- d) s’il a servi dans la Gendarmerie pendant une période égale ou supérieure à la période réglementaire prévue pour l’application du présent alinéa, il a droit à une annuité immédiate.
+
+(6) [Abrogé, 1999, ch. 34, art. 178]
+
+**Prestations payables à la retraite**
+
+(7) Lorsqu’un contributeur qui est un membre de la Gendarmerie n’y détenant pas un grade et qui a atteint l’âge de retraite cesse d’être un membre de celle-ci, pour toute autre raison que l’inconduite, il a droit :
+
+- a) si, à la date où il cesse d’être un membre de la Gendarmerie, il compte à son crédit une période de service ouvrant droit à pension inférieure à la période réglementaire prévue pour l’application du présent alinéa, à un remboursement de contributions;
+
+- b) si, à la date où il cesse d’être un membre de la Gendarmerie, il compte à son crédit une période de service ouvrant droit à pension égale ou supérieure à la période réglementaire prévue pour l’application de l’alinéa a), à une annuité immédiate.
+
+**Retraite par suite d’invalidité**
+
+(8) Lorsqu’un contributeur qui est un membre de la Gendarmerie n’y détenant pas un grade est mis obligatoirement à la retraite pour invalidité, il a droit :
+
+- a) si, à la date où il cesse d’être un membre de la Gendarmerie, il compte à son crédit une période de service ouvrant droit à pension inférieure à la période réglementaire prévue pour l’application du présent alinéa, au plus élevé des deux montants suivants :
+  - (i) un remboursement de contributions,
+  - (ii) une allocation de cessation en espèces;
+
+- b) si, à la date où il cesse d’être un membre de la Gendarmerie, il compte à son crédit une période de service ouvrant droit à pension égale ou supérieure à la période réglementaire prévue pour l’application de l’alinéa a), à une annuité immédiate.
+
+**Contributeur ayant à son crédit une période de service égale à la période réglementaire**
+
+(9) Lorsqu’un contributeur qui est un membre de la Gendarmerie n’y détenant pas un grade cesse, après avoir servi pendant une période égale ou supérieure à la période réglementaire prévue pour l’application de l’alinéa (7)a), mais inférieure à celle prévue pour l’application du paragraphe (12) dans la Gendarmerie, d’être un membre de celle-ci, pour toute autre raison que l’invalidité ou l’inconduite, il a droit :
+
+- a) si à la date où il cesse d’être un membre de la Gendarmerie il a atteint l’âge réglementaire prévu pour l’application du présent alinéa et compte à son crédit le nombre d’années de service ouvrant droit à pension prévu par règlement pour l’application du présent alinéa, à une annuité immédiate quand il cesse d’être un membre de la Gendarmerie;
+
+- b) dans tous les autres cas, à son choix :
+  - (i) à une annuité différée,
+  - (ii) si à la date où il cesse d’être un membre de la Gendarmerie il a atteint l’âge réglementaire prévu pour l’application du présent sous-alinéa et compte à son crédit le nombre d’années de service ouvrant droit à pension prévu par règlement pour l’application du présent sous-alinéa, à une allocation annuelle, payable immédiatement lorsqu’il exerce son option, égale au montant de l’annuité différée mentionnée au sous-alinéa (i), diminuée du produit obtenu par la multiplication de cinq pour cent du montant de cette annuité par :
+    - (A) l’âge réglementaire prévu pour l’application de l’alinéa a) moins son âge en années, arrondi au dixième d’année le plus proche, au moment où il exerce son option,
+    - (B) le nombre d’années de service ouvrant droit à pension prévu par règlement pour l’application de l’alinéa a) moins le nombre d’années, arrondi au dixième d’année le plus proche, de service ouvrant droit à pension à son crédit, si ce chiffre est plus élevé,
+  - (iii) si à la date où il cesse d’être un membre de la Gendarmerie il a atteint l’âge réglementaire prévu pour l’application du présent sous-alinéa, après avoir été un membre pour une ou des périodes totalisant le nombre d’années prévu par règlement pour l’application du présent sous-alinéa et n’avoir pas cessé volontairement d’être un membre de la Gendarmerie, à une allocation annuelle, payable dès cette date, égale au montant de l’annuité différée mentionnée au sous-alinéa (i), diminuée du produit obtenu en multipliant :
+    - (A) cinq pour cent du montant de cette annuité,
+    - (B) le nombre d’années de service ouvrant droit à pension prévu par règlement pour l’application de la présente division moins le nombre d’années, arrondi au dixième d’année le plus proche, de service ouvrant droit à pension à son crédit,
+  - (iv) à une allocation annuelle payable :
+    - (A) dès qu’il exerce son choix, dans le cas d’un contributeur qui a atteint l’âge réglementaire prévu pour l’application du sous-alinéa b)(ii),
+    - (B) dès qu’il atteint l’âge réglementaire prévu pour l’application du sous-alinéa b)(ii), si le contributeur qui exerce son choix n’a pas atteint cet âge,
+    - (C) cinq pour cent du montant de cette annuité,
+    - (D) soixante moins son âge en années, arrondi au dixième d’année le plus proche au moment où l’allocation devient payable.
+  - (v) [Abrogé, 2003, ch. 26, art. 45]
+
+**Renvoi pour inconduite**
+
+(10) Lorsqu’un contributeur qui est un membre de la Gendarmerie n’y détenant pas un grade est mis obligatoirement à la retraite pour inconduite, il a droit :
+
+- a) soit à un remboursement de contributions;
+
+- b) soit, avec le consentement du Conseil du Trésor, à l’intégralité, ou à toute partie spécifiée par celui-ci, de la prestation à laquelle il aurait eu droit selon le sous-alinéa (5)b)(ii) ou les paragraphes (7), (8), (9) ou (12) si, au moment de son renvoi, il avait cessé d’être employé dans la Gendarmerie pour une raison autre que l’inconduite, sauf que la valeur capitalisée de celle-ci ne peut jamais être inférieure au remboursement de contributions mentionné à l’alinéa a).
+
+**Remboursement de contributions**
+
+(11) Malgré toute autre disposition du présent article, sauf ce que prévoient les paragraphes (2), (7), (8), (10) ou (11.1), le contributeur qui cesse d’être membre de la Gendarmerie après y avoir servi pendant une période inférieure à la période réglementaire prévue pour l’application de l’alinéa (7)a) n’a droit qu’à un remboursement de contributions.
+
+**Droit à une annuité différée**
+
+(11.1) Le contributeur qui cesse d’être membre de la Gendarmerie après y avoir servi pendant une période inférieure à la période réglementaire prévue pour l’application de l’alinéa (7)a) a droit à une annuité différée si, à la fois :
+
+- a) il compte à son crédit une période de service ouvrant droit à pension — à l’égard de laquelle il a effectué le choix visé au paragraphe 24(5) ou tout autre choix au titre de tout règlement pris au titre du paragraphe 27(2) — égale ou supérieure à deux ans;
+
+- b) il n’a pas droit à une annuité immédiate.
+
+**Membre de la Gendarmerie n’y détenant pas de grade**
+
+(12) Un membre de la Gendarmerie n’y détenant pas de grade a droit à une annuité immédiate s’il a servi dans la Gendarmerie pendant une période égale ou supérieure à la période réglementaire prévue pour l’application du présent paragraphe.
+
+**Service dans la Gendarmerie**
+
+(13) Pour l’application du présent article, la période de service pour laquelle le contributeur a touché un remboursement de contributions ou autre paiement en une somme globale au titre de la présente partie n’est pas incluse dans le calcul du service dans la Gendarmerie s’il n’a pas choisi de payer pour ce service.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 11; 1992, ch. 46, art. 69; 1999, ch. 34, art. 178; 2003, ch. 26, art. 45; 2009, ch. 13, art. 5
+
+</details>
+
+### 12 Prestation payable en cas d’invalidité après la retraite
+
+(1) Un contributeur qui, n’ayant pas atteint l’âge de soixante ans mais étant devenu admissible selon la présente partie à une annuité différée, ou n’ayant pas atteint l’âge de cinquante ans mais étant devenu admissible selon la présente partie à une allocation annuelle payable dès qu’il aura atteint l’âge de cinquante ans, devient invalide, cesse d’avoir droit à cette annuité différée ou allocation annuelle et devient admissible à une annuité immédiate.
+
+**Idem**
+
+(2) Lorsqu’il est certifié, conformément aux règlements, qu’un contributeur qui n’a pas atteint l’âge de soixante ans mais est devenu admissible en vertu du paragraphe (1) à une annuité immédiate, a recouvré la santé ou est capable de s’acquitter de ses fonctions comme membre de la Gendarmerie ou d’autres fonctions à ce même titre, proportionnées à ses aptitudes, ce contributeur cesse d’avoir droit à cette annuité immédiate et devient admissible :
+
+- a) soit à une annuité différée;
+
+- b) soit à une allocation annuelle, payable immédiatement dans le cas d’un contributeur âgé de cinquante ans ou plus, ou payable dès qu’il aura atteint l’âge de cinquante ans dans le cas d’un contributeur âgé de moins de cinquante ans, laquelle allocation doit être l’équivalent actuariel, déterminé en la manière prescrite, de l’annuité différée, mentionnée à l’alinéa a),
+
+à son choix.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-11, art. 11
+
+</details>
+
+### 12.1 Valeur de transfert
+
+(1) Malgré les autres dispositions de la présente loi, à l’exception du paragraphe 24.1(6), le contributeur qui cesse d’être membre de la Gendarmerie et qui y a servi pendant une période égale ou supérieure à la période réglementaire mais n’a pas droit à une annuité immédiate a droit, sous réserve des règlements, en remplacement des prestations auxquelles il aurait par ailleurs droit en vertu de la présente loi à l’égard du service ouvrant droit à pension qu’il compte à son crédit, à une valeur de transfert qui lui est versée conformément au paragraphe (2).
+
+**Destinations possibles des fonds**
+
+(2) Le versement de la valeur de transfert s’effectue par le virement de celle-ci, conformément aux instructions du contributeur :
+
+- a) soit au régime de pension agréé en vertu de la *Loi de l’impôt sur le revenu* choisi par le contributeur, si ce régime le permet;
+
+- b) soit à un régime ou fonds d’épargne-retraite du contributeur, du genre prévu par les règlements;
+
+- c) soit à un établissement financier autorisé à vendre des rentes viagères immédiates ou différées du genre prévu par les règlements, pour l’achat auprès de cet établissement d’une telle rente destinée au contributeur.
+
+**Paiement par versements**
+
+(3) Si le contributeur choisit de payer par versements pour une période de service ouvrant droit à pension, la valeur de transfert est calculée, conformément aux règlements, en fonction de la partie de la période de service ouvrant droit à pension pour laquelle il a payé au moment prévu par règlement.
+
+**Choix**
+
+(4) Après le transfert effectué au titre du paragraphe (1), la personne qui est nommée de nouveau dans la Gendarmerie ou s’y rengage après le transfert et qui devient un contributeur ne peut compter comme service ouvrant droit à pension que la période de service visée par le transfert si elle choisit, en conformité avec les conditions réglementaires, de payer la somme réglementaire selon les modalités de temps ou autres prévues par les règlements.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 34, art. 179; 2003, ch. 26, art. 46
+
+</details>
+
+### 12.2 Remboursement de contributions
+
+(1) Est fait conformément à l’article 12.1 le remboursement de contributions auquel le contributeur a droit à l’égard de toute période de service qui est comprise dans une période de service ouvrant droit à pension et à l’égard de laquelle les conditions suivantes sont réunies :
+
+- a) un paiement a été fait au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada :
+  - (i) soit conformément à un accord conclu en vertu de l’article 24.1,
+  - (ii) soit à l’égard d’un choix effectué par le contributeur au titre de la présente partie;
+
+- b) au moment où s’est fait ce paiement, la *Loi de 1985 sur les normes de prestation de pension* ou une loi provinciale fondamentalement semblable à cette loi exigeait l’immobilisation des contributions.
+
+**Présomption**
+
+(2) Pour l’application du présent article, l’alinéa b) de la définition de **remboursement de contributions**, au paragraphe 9(1), est réputé viser aussi le paiement total fait aux termes d’un accord conclu en vertu de l’article 24.1 ou d’un choix effectué par le contributeur au titre de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 13, art. 6
+
+</details>
+
+### 12.3 Valeur de transfert ou valeur escomptée
+
+Le remboursement de contributions auquel le contributeur a droit à l’égard de toute période de service pour laquelle il a fait le choix visé à la division 6b)(ii)(O) est fait conformément à l’article 12.1.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 13, art. 6
+
+</details>
+
+### 13 Prestations payables au décès
+
+(1) Au décès d’un contributeur qui, à cette date, avait droit selon la présente partie à une annuité ou à une allocation annuelle, le survivant et les enfants du contributeur ont droit aux allocations suivantes, calculées sur la base du produit obtenu au moyen de la multiplication de la solde annuelle moyenne, reçue par le contributeur durant la période spécifiée au sous-alinéa 10(1) a)(ii), par le nombre d’années de service ouvrant droit à pension à son crédit, le centième du produit ainsi obtenu étant ci-après appelé « l’allocation de base » :
+
+- a) dans le cas d’un survivant, une allocation annuelle payable immédiatement, égale à l’allocation de base;
+
+- b) dans le cas de chaque enfant, une allocation annuelle immédiate égale au cinquième de l’allocation de base ou, si le contributeur est décédé sans laisser de survivant ou si ce dernier est décédé ou n’a droit à aucune allocation au titre de la présente partie, autre qu’une allocation annuelle immédiate aux termes de l’article 14.1, aux deux cinquièmes de l’allocation de base.
+
+L’ensemble des allocations versées en vertu de l’alinéa b) ne peut excéder les quatre cinquièmes de l’allocation de base ou, si le contributeur est décédé sans laisser de survivant ou si ce dernier est décédé ou n’a droit à aucune allocation au titre de la présente partie, autre qu’une allocation annuelle immédiate aux termes de l’article 14.1, les huit cinquièmes de l’allocation de base.
+
+**Idem**
+
+(2) Lorsque, lors du calcul des allocations auxquelles ont droit les enfants d’un contributeur en vertu du paragraphe (1), il est établi qu’il y a plus de quatre enfants du contributeur qui peuvent prétendre à une allocation, le montant total des allocations doit être réparti entre ces enfants en telles parts que le ministre estime équitables et opportunes eu égard aux circonstances.
+
+**Prestations payables au décès**
+
+(3) Au décès d’un contributeur qui était alors membre de la Gendarmerie et comptait à son crédit une période de service ouvrant droit à pension égale ou supérieure à celle prévue par règlement, le survivant et les enfants du contributeur ont droit aux allocations annuelles auxquelles ils auraient été admissibles selon le paragraphe (1), si le contributeur, immédiatement avant son décès, était devenu admissible selon la présente partie à une annuité ou à une allocation annuelle.
+
+**Définition de **enfant****
+
+(4) Pour l’application du présent article, **enfant** désigne un enfant du contributeur qui :
+
+- a) est âgé de moins de dix-huit ans;
+
+- b) est âgé de dix-huit ans ou plus mais de moins de vingt-cinq ans et fréquente à plein temps une école ou une université, et ce sans interruption appréciable depuis la date de ses dix-huit ans ou, s’il est postérieur à cette date, depuis le décès du contributeur.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 13; 1989, ch. 6, art. 25; 1992, ch. 46, art. 70; 1999, ch. 34, art. 180; 2003, ch. 26, art. 59
+
+</details>
+
+### 14 Prestations payables au décès
+
+Au décès d’un contributeur qui était alors membre de la Gendarmerie et comptait à son crédit une période de service ouvrant droit à pension inférieure à celle prévue par règlement, le survivant et les enfants du contributeur, dans le cas où celui-ci laisse un survivant ou un enfant de moins de dix-huit ans, ont droit conjointement, à titre de prestation consécutive au décès :
+
+- a) soit à un remboursement de contributions;
+
+- b) soit à un montant égal à un mois de solde pour chaque année de service ouvrant droit à pension au crédit du contributeur, calculé sur la base du taux de solde qu’on est autorisé à lui payer à la date de son décès,
+
+en choisissant le plus élevé des deux montants.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 14; 1999, ch. 34, art. 181; 2003, ch. 26, art. 60
+
+</details>
+
+### 14.1 Choix pour anciens contributeurs
+
+(1) Le contributeur peut, lorsque la personne à qui il est marié ou avec laquelle il cohabite dans une union de type conjugal depuis au moins un an n’aurait pas droit au versement d’une allocation annuelle immédiate en vertu de la présente partie, choisir, conformément aux règlements, de réduire le montant de son annuité ou allocation annuelle afin que la personne puisse avoir droit à une allocation annuelle immédiate en vertu du paragraphe (2).
+
+**Paiement**
+
+(2) A droit à une allocation annuelle immédiate la personne qui était mariée au contributeur ou cohabitait avec lui dans une union de type conjugal depuis au moins un an à la date du choix effectué en application du paragraphe (1) et à la date de son décès, au montant déterminé suivant le choix et les règlements, pourvu que ce choix ne soit pas révoqué ou réputé avoir été révoqué.
+
+**Absence de droits concurrents**
+
+(3) La personne qui a droit à une allocation annuelle aux termes de l’article 18 après le décès du contributeur n’a pas droit de recevoir une allocation annuelle immédiate à l’égard de celui-ci en vertu du paragraphe (2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 71; 1999, ch. 34, art. 182; 2000, ch. 12, art. 288
+
+</details>
+
+### Paiements aux survivants, aux enfants et à d’autres bénéficiaires
+
+### 15 Paiement en une somme globale
+
+Quand, dans la présente partie, il est prévu que le survivant et les enfants d’un contributeur ont conjointement droit à un remboursement de contributions ou à un montant visé à l’alinéa 14b), le montant total doit en être payé au survivant, sauf que :
+
+- a) si, au décès du contributeur, tous les enfants étaient âgés de dix-huit ans ou plus, et si, au moment où le versement doit avoir lieu, le survivant est décédé ou introuvable, le montant total doit être versé aux enfants en parts égales;
+
+- b) si, au décès du contributeur, l’un des enfants n’avait pas atteint l’âge de dix-huit ans, et si le contributeur est décédé sans laisser de survivant ou si, au moment où le paiement doit avoir lieu, le survivant est décédé ou introuvable, le montant total doit être versé aux enfants, selon les proportions que le ministre estime équitables et opportunes dans les circonstances, ou à l’un d’entre eux, selon ce que le ministre ordonne;
+
+- c) si des enfants qui n’ont pas atteint l’âge de dix-huit ans au décès du contributeur vivent séparés du survivant au moment où le versement doit avoir lieu, le montant total doit être versé au survivant et aux enfants vivant ainsi séparés de ce dernier, selon les proportions que le ministre estime équitables et opportunes dans les circonstances, ou au survivant ou à l’un des enfants vivant ainsi séparés de ce dernier, selon ce que le ministre ordonne;
+
+- d) si le contributeur est décédé sans laisser d’enfants et, au moment où le versement doit avoir lieu, le survivant est décédé ou introuvable, ou si le contributeur est décédé sans laisser de survivant et, au moment où le versement doit avoir lieu, tous les enfants sont décédés ou introuvables, le montant total doit être versé :
+  - (i) si le contributeur a, en application de règlements pris en vertu de l’article 26, désigné sa succession comme bénéficiaire ou un autre bénéficiaire qui peut être désigné en vertu de ces règlements et si ce bénéficiaire survit au contributeur, au bénéficiaire,
+  - (ii) dans tout autre cas, à la succession du contributeur ou, s’il s’agit de moins de mille dollars, selon ce que le ministre ordonne.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 15; 1999, ch. 34, art. 183
+
+</details>
+
+### 15.1 Répartition du montant s’il y a deux survivants
+
+(1) S’il y a deux survivants, la part du montant total à payer au titre de l’article 15 au survivant visé à l’alinéa a) de la définition de **survivant** au paragraphe 3(1) et celle à payer au survivant visé à l’alinéa b) de cette définition sont payées selon ce que le ministre ordonne.
+
+**Décision du ministre**
+
+(2) Le paragraphe (1) ne porte pas atteinte au pouvoir du ministre de décider que la part d’un survivant est nulle.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 34, art. 183
+
+</details>
+
+### 16
+
+[Abrogé, 1989, ch. 6, art. 26]
+
+### 17 Allocations aux enfants
+
+(1) Lorsqu’un enfant d’un contributeur a droit à une allocation annuelle ou à un autre montant en vertu de la présente partie, le versement doit en être fait, si l’enfant a moins de dix-huit ans, à la personne ayant la garde de cet enfant et investie de l’autorité sur celui-ci, ou, quand aucune personne n’en a la garde ou n’est investie de l’autorité à son égard, à celle que peut désigner le ministre.
+
+(2) [Abrogé, 1999, ch. 34, art. 184]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 17; 1999, ch. 34, art. 184
+
+</details>
+
+### 18 Personne réputée survivant
+
+(1) Pour l’application de la présente partie, a la qualité de survivant la personne qui établit que, au décès du contributeur, elle cohabitait avec lui dans une union de type conjugal depuis au moins un an.
+
+**Personne réputée mariée**
+
+(1.1) Pour l’application de la présente partie, lorsque le contributeur décède alors qu’il était marié à une personne avec qui il avait cohabité dans une union de type conjugal jusqu’à leur mariage, celle-ci est réputée s’être mariée au contributeur à la date établie comme celle à laquelle la cohabitation a commencé.
+
+**Survivant n’ayant pas droit à une allocation annuelle — renonciation**
+
+(2) Le survivant n’a pas droit à une allocation annuelle s’il y renonce irrévocablement par écrit au titre du paragraphe (3).
+
+**Renonciation**
+
+(3) Le survivant ne peut renoncer à l’allocation que si, selon le cas :
+
+- a) la renonciation a pour effet d’augmenter le montant de l’allocation payable à un enfant au titre de l’alinéa 13(1)b);
+
+- b) il en résulte le versement d’une prestation au titre de l’article 22.
+
+**Délai**
+
+(4) La renonciation doit être faite au plus tard trois mois après que le survivant a été avisé de son droit de recevoir une allocation. Elle prend effet à la date du décès du contributeur.
+
+**Survivant n’ayant droit à aucune prestation — responsabilité criminelle**
+
+(5) Le survivant n’a droit à aucune prestation au titre de la présente loi relativement au contributeur si, après le décès de celui-ci, il est tenu criminellement responsable de sa mort.
+
+**Survivant n’ayant pas droit à une allocation annuelle — survivant introuvable**
+
+(6) S’il est établi à la satisfaction du ministre que, au décès du contributeur, le survivant est introuvable, celui-ci n’a pas droit à une allocation annuelle.
+
+**Répartition du montant de l’allocation s’il y a deux survivants**
+
+(7) Si une allocation annuelle est payable au titre de l’alinéa 13(1)a) à deux survivants, le montant total de celle-ci est ainsi réparti :
+
+- a) le survivant visé à l’alinéa a) de la définition de **survivant** au paragraphe 3(1) a droit à une part de l’allocation en proportion du rapport entre le nombre total d’années de cohabitation avec le contributeur dans le cadre du mariage, d’une part, et dans une union de type conjugal, d’autre part, et le nombre total d’années de cohabitation des survivants avec celui-ci dans le cadre du mariage et dans une union de type conjugal;
+
+- b) le survivant visé à l’alinéa b) de cette définition a droit à une part de l’allocation en proportion du rapport entre le nombre d’années où il a cohabité avec le contributeur dans une union de type conjugal et le nombre total d’années où les survivants ont cohabité avec lui dans le cadre du mariage et dans une union de type conjugal.
+
+**Arrondissement**
+
+(8) Pour le calcul des années au titre du paragraphe (7), une partie d’année est comptée comme une année si elle est égale ou supérieure à six mois; elle n’est pas prise en compte dans le cas contraire.
+
+**Versement à l’autre survivant**
+
+(9) Si l’un des survivants visés au paragraphe (7) décède ou n’a droit à aucune prestation au titre de la présente loi au décès du contributeur, sa part de l’allocation annuelle est versée à l’autre survivant.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 18; 1992, ch. 46, art. 72; 1999, ch. 34, art. 185
+
+</details>
+
+### 19 Mariage après soixante ans
+
+(1) Sous réserve de l’article 14.1, mais nonobstant toute autre disposition de la présente partie, le survivant du contributeur n’a droit à aucune allocation annuelle à l’égard de celui-ci au titre de la présente partie si, au moment du mariage ou au début de la cohabitation dans une union de type conjugal, le contributeur avait atteint l’âge de soixante ans sauf si, par la suite, ce dernier est devenu ou demeuré contributeur.
+
+**Enfant né après que la personne a atteint l’âge de 60 ans**
+
+(2) Nonobstant les autres dispositions de la présente partie, excepté ce que prévoient les règlements, un enfant né d’une personne ou par elle adopté ou qui est devenu le beau-fils ou la belle-fille par remariage d’une personne à une époque où celle-ci était âgée de plus de soixante ans, n’a droit à aucune allocation annuelle prévue par la présente partie, à moins que, après ce moment, cette personne ne soit devenue ou demeurée contributeur.
+
+**Décès dans un délai d’un an après le mariage**
+
+(3) Nonobstant les autres dispositions de la présente partie, lorsqu’un contributeur décède dans un délai d’un an après son mariage, l’allocation annuelle n’est payable à son survivant ou aux enfants issus du mariage que s’il est établi, à la satisfaction du ministre, que le contributeur jouissait à l’époque de son mariage d’un état de santé lui permettant d’espérer vivre encore au moins un an par la suite.
+
+(4) [Abrogé, 1989, ch. 6, art. 27]
+
+**Réserve**
+
+(5) Le présent article n’a pas pour effet de porter atteinte au droit d’un enfant d’un mariage antérieur du contributeur à une allocation prévue par l’article 13.
+
+**Disposition transitoire**
+
+(6) Nonobstant les autres dispositions de la présente loi, nul n’a droit de recevoir une allocation que prévoit la présente partie en raison du fait qu’il est le survivant d’une contributrice ou réputé l’être si elle n’était pas membre de la Gendarmerie au 20 décembre 1975 ou après cette date. L’article 2 ne s’applique pas à l’égard du présent paragraphe.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 19; 1989, ch. 6, art. 27; 1992, ch. 46, art. 73; 1999, ch. 34, art. 186
+
+</details>
+
+### 19.1
+
+[Abrogé, 1999, ch. 34, art. 187]
+
+### Changement de destinataire, en certains cas
+
+### 20 Paiements faits aux personnes à charge du prestataire
+
+(1) Lorsqu’un tribunal compétent au Canada a rendu une ordonnance enjoignant à un prestataire de fournir un soutien financier, les sommes qui sont payables à celui-ci en vertu de la présente partie ou de la partie III peuvent être distraites pour versement à la personne nommée dans l’ordonnance en conformité avec la partie II de la *Loi sur la saisie-arrêt et la distraction de pensions*.
+
+**Incapacité du prestataire d’administrer ses propres affaires**
+
+(2) Lorsque, pour une raison quelconque, un prestataire se trouve dans l’impossibilité d’administrer ses propres affaires, ou lorsqu’il est dans l’incapacité de le faire et que personne n’est autorisé par la loi à lui servir de curateur, le receveur général peut verser, à toute personne désignée par le ministre pour recevoir des paiements au nom du prestataire, tout montant qui est payable à ce dernier en vertu de la présente partie ou de la partie III.
+
+**Paiement réputé fait au prestataire**
+
+(3) Pour l’application de la présente partie et de la partie III, tout paiement effectué par le receveur général en conformité avec les paragraphes (1) ou (2) est réputé être un paiement fait au prestataire à l’égard de qui il a été effectué.
+
+(4) [Abrogé, 2000, ch. 12, art. 289]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 20; 1992, ch. 46, art. 74; 1999, ch. 34, art. 188; 2000, ch. 12, art. 289
+
+</details>
+
+### Présomption de décès
+
+### 21 Présomption de décès
+
+(1) Lorsque, avant ou après l’entrée en vigueur du présent paragraphe, le contributeur ou le bénéficiaire d’une prestation prévue à la présente loi ou l’ancienne loi a disparu dans des circonstances qui, de l’avis du ministre, font présumer hors de tout doute raisonnable qu’il est décédé, le ministre peut arrêter la date à laquelle le décès de cette personne est présumé avoir eu lieu; dès lors, celle-ci est, pour l’application de la présente loi et de l’ancienne loi, réputée être décédée à cette date.
+
+**Modification de la date**
+
+(2) Dans les cas où, après avoir arrêté la date du décès présumé d’une personne conformément au paragraphe (1), il reçoit des renseignements ou des éléments de preuve nouveaux indiquant une date de décès différente, le ministre peut arrêter une autre date en ce qui concerne le décès; la personne en question est dès lors considérée, pour l’application de la présente loi et de l’ancienne loi, comme décédée à cette autre date.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 21; 1992, ch. 46, art. 74
+
+</details>
+
+### Prestations minimales
+
+### 22 Prestations minimales
+
+(1) Quand, au décès d’un contributeur qui n’était pas membre de la Gendarmerie au 20 décembre 1975, ou après, il n’y a personne à qui une allocation prévue par la présente partie puisse être versée, ou quand les personnes à qui cette allocation peut être versée meurent ou cessent d’y avoir droit et qu’aucun autre montant ne peut leur être versé en vertu de la présente partie, tout excédent du montant d’un remboursement de contributions sur l’ensemble des sommes versées à ces personnes et au contributeur en vertu de la présente partie ou de la partie V de l’ancienne loi doit être versé, à titre de prestation consécutive au décès, à la succession du contributeur ou, s’il est inférieur à mille dollars, selon que l’ordonne le ministre.
+
+**Idem**
+
+(2) Quand, au décès d’un contributeur qui était membre de la Gendarmerie au 20 décembre 1975, ou après, il n’y a personne à qui une allocation prévue par la présente partie puisse être versée, ou quand les personnes à qui cette allocation peut être versée meurent ou cessent d’y avoir droit et qu’aucun autre montant ne peut leur être versé en vertu de la présente partie, un montant égal au montant :
+
+- a) le plus élevé :
+  - (i) soit du montant d’un remboursement de contributions,
+  - (ii) soit d’un montant égal à cinq fois l’annuité à laquelle le contributeur avait ou aurait à son décès eu droit, déterminé conformément au paragraphe 10(1),
+
+qui excède :
+
+- b) l’ensemble des sommes versées à ces personnes et au contributeur en vertu de la présente partie et de la partie V de l’ancienne loi,
+
+doit être versé, à titre de prestation consécutive au décès :
+
+- c) si le contributeur a, en application de règlements pris en vertu de l’article 26, désigné sa succession comme bénéficiaire ou un autre bénéficiaire qui peut être désigné en vertu de ces règlements, et si ce bénéficiaire survit au contributeur, au bénéficiaire;
+
+- d) dans tout autre cas, à la succession du contributeur ou, s’il s’agit de moins de mille dollars, selon que l’ordonne le ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-11, art. 17; 1974-75-76, ch. 81, art. 63
+
+</details>
+
+### Cas spéciaux
+
+#### Anciens membres de la Gendarmerie
+
+### 23 Personnes nommées de nouveau dans la Gendarmerie ou s’y rengageant
+
+Lorsqu’une personne devenue admissible à une annuité ou à une allocation annuelle selon la présente partie ou à une pension en vertu de la partie V de l’ancienne loi pour avoir servi dans la Gendarmerie, est nommée de nouveau dans la Gendarmerie ou s’y rengage et devient un contributeur selon la présente partie, tout droit ou titre qu’elle peut avoir eu à l’égard d’une telle annuité, allocation annuelle ou pension, appelée au présent article « première annuité », prend fin aussitôt, et la période de service sur laquelle était fondée la première annuité peut être comptée par elle comme service ouvrant droit à pension pour l’application de la présente partie, sauf que :
+
+- a) si cette personne, dès qu’elle cesse par la suite d’être membre de la Gendarmerie n’a droit, en vertu de la présente partie, à aucune prestation autre qu’un remboursement de contributions, la somme ainsi remboursée ne peut comprendre aucune somme versée au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada à son crédit en tout temps avant sa nouvelle nomination ou son rengagement dans la Gendarmerie, et tout droit ou titre qu’elle aurait eu, sans le présent article, à l’égard de la première annuité dès qu’elle cesse par la suite d’être membre de la Gendarmerie, lui est alors rendu;
+
+- b) si cette personne, dès qu’elle cesse par la suite d’être membre de la Gendarmerie, a droit, selon la présente partie, à une annuité ou allocation annuelle dont la valeur capitalisée est inférieure à la valeur capitalisée de la première annuité, au lieu de toute autre prestation prévue par la présente partie, tout droit ou titre qu’elle aurait eu, sans le présent article, à l’égard de la première annuité dès qu’elle cesse par la suite d’être membre de la Gendarmerie, doit alors lui être rendu, et il doit lui être versé un montant égal à ses contributions sous le régime de la présente partie, effectuées à l’égard de la période de son service dans la Gendarmerie après qu’elle y a été nommée de nouveau ou qu’elle s’y est rengagée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 23; 1999, ch. 34, art. 189; 2003, ch. 26, art. 61
+
+</details>
+
+#### Anciens employés de la fonction publique et membres de la force régulière
+
+### 24 Service qui peut être compté
+
+(1) Quiconque devient contributeur selon la présente partie, ayant été employé dans la fonction publique mais n’étant pas devenu admissible à une pension ou allocation annuelle aux termes de la *Loi sur la pension de la fonction publique*, ou ayant été membre de la force régulière mais n’étant pas devenu admissible à une annuité, allocation annuelle ou pension aux termes de la *Loi sur la pension de retraite des Forces canadiennes*, peut compter comme service ouvrant droit à pension, pour l’application de la présente partie, toute période de service dans la Gendarmerie ou toute période de service décrite à l’article 6, que, d’après la *Loi sur la pension de la fonction publique* ou la *Loi sur la pension de retraite des Forces canadiennes*, selon le cas, il avait droit de compter aux fins de pension, s’il choisit, dans le délai d’un an à compter du moment où il devient contributeur selon la présente partie, de payer pour ce service, auquel cas le montant qu’il est tenu de payer par la présente loi pour ce service est :
+
+- a) dans le cas d’un service pour lequel il était astreint à payer par la *Loi sur la pension de la fonction publique* ou la *Loi sur la pension de retraite des Forces canadiennes*, selon le cas, tout excédent :
+  - (i) du montant total dont cette loi exigeait le paiement, par lui, pour ce service,
+  sur
+  - (ii) le montant total qu’il a effectivement payé pour ce service, moins tout montant à lui versé sous le régime de cette loi en tout temps avant d’avoir fait son choix,
+  avec un intérêt simple de quatre pour cent l’an sur tout montant qui lui a été payé aux termes de cette loi en tout temps avant de faire son choix, depuis le moment où le paiement a été effectué jusqu’à celui du choix;
+
+- b) dans le cas d’un service pour lequel il n’était pas tenu de payer aux termes de la *Loi sur la pension de la fonction publique* ou de la *Loi sur la pension de retraite des Forces canadiennes*, selon le cas, un montant égal à celui qu’il aurait été tenu de payer si, pendant cette période de service, il avait été requis de contribuer :
+  - (i) lorsque cette période ou une partie de celle-ci est antérieure à 1966, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version du 31 décembre 1965, relativement à cette période ou partie de période,
+  - (ii) lorsque cette période ou une partie de celle-ci est postérieure à 1965 et antérieure au 1^er^ avril 1969, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version antérieure au 1^er^ avril 1969, relativement à cette période ou partie de période,
+  - (iii) lorsque cette période ou toute partie de celle-ci est postérieure au 31 mars 1969, mais antérieure au 1^er^ janvier 2000, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 1999, relativement à cette période ou à cette partie de période,
+  - (iv) lorsque cette période ou toute partie de celle-ci est postérieure à 1999, mais antérieure au 1^er^ janvier 2004, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 2003, relativement à cette période ou à cette partie de période,
+  - (v) lorsque cette période ou toute partie de celle-ci est postérieure à 2003, mais antérieure au 1^er^ janvier 2013, de la manière et aux taux déterminés au titre du paragraphe 5(2), dans sa version au 31 décembre 2012, relativement à cette période ou à cette partie de période,
+  - (vi) lorsque cette période ou toute partie de celle-ci est postérieure à 2012, de la manière prévue au paragraphe 5(1) et aux taux que le Conseil du Trésor détermine au titre de ce paragraphe, relativement à cette période ou à cette partie de période,
+  en ce qui concerne une solde égale à celle qu’on était autorisé à lui payer la dernière fois qu’il est devenu contributeur selon la présente loi, avec les intérêts, selon la définition contenue au paragraphe 7(2).
+
+**Solde et allocations censées reçues**
+
+(2) Pour l’application de la présente partie, la solde censée avoir été reçue par une personne à qui s’applique le paragraphe (1), pendant toute période de service du genre décrit aux alinéas (1)a) ou b), est une solde à un taux égal à celui de la solde d’après lequel a été déterminé le montant dont le paiement doit être effectué pour cette période de service :
+
+- a) en vertu de la *Loi sur la pension de la fonction publique* ou de la *Loi sur la pension de retraite des Forces canadiennes*, selon le cas, lorsqu’il s’agit d’un service du genre décrit à l’alinéa (1)a);
+
+- b) en vertu de la présente partie, dans le cas d’un service du genre décrit à l’alinéa (1)b).
+
+**Renonciation aux prestations lors du choix**
+
+(3) Nonobstant la *Loi sur la pension de la fonction publique* ou la *Loi sur la pension de retraite des Forces canadiennes*, dès qu’un choix est établi en vertu du paragraphe (1), l’auteur de ce choix et toute personne à qui une prestation aurait autrement pu devenir payable d’après la *Loi sur la pension de la fonction publique* ou la *Loi sur la pension de retraite des Forces canadiennes*, selon le cas, à l’égard de cette personne, cessent d’avoir droit à quelque prestation prévue par cette loi pour tout service de cette personne auquel ce choix se rattache.
+
+**Droit de conserver la pension**
+
+(4) Quiconque devient contributeur selon la présente partie, ayant été employé dans la fonction publique et étant devenu admissible à une pension ou allocation annuelle en vertu de la *Loi sur la pension de la fonction publique*, ou ayant été membre de la force régulière et étant devenu admissible à une annuité, allocation annuelle ou pension en vertu de la *Loi sur la pension de retraite des Forces canadiennes*, a droit, pour l’application de la présente partie, de conserver cette annuité, allocation annuelle ou pension, mais la période de service sur laquelle était fondée cette annuité, allocation annuelle ou pension ne peut être comptée par lui aux fins d’une prestation à laquelle il peut se trouver admissible selon la présente partie pour le motif qu’il est devenu contributeur en vertu de cette dernière.
+
+**Décision de renoncer aux prestations**
+
+(5) Nonobstant le paragraphe (4), toute personne à qui ce paragraphe s’applique peut choisir, après être devenue contributeur selon la présente partie, de renoncer à l’annuité, allocation annuelle ou pension y mentionnée, auquel cas, nonobstant la *Loi sur la pension de la fonction publique* ou la *Loi sur la pension de retraite des Forces canadiennes*, l’auteur de ce choix et toute personne à qui une prestation aurait pu autrement devenir payable d’après la *Loi sur la pension de la fonction publique* ou la *Loi sur la pension de retraite des Forces canadiennes*, selon le cas, à l’égard de cette personne, cessent d’avoir droit à quelque prestation prévue par cette loi concernant tout service de cette personne, décrit au paragraphe (1), et l’auteur de ce choix est assujetti au paragraphe (1), à tous égards, comme s’il n’était pas devenu admissible à une annuité, allocation annuelle ou pension sous le régime de cette loi mais avait choisi, selon le paragraphe (1), de payer pour la totalité de ce service.
+
+**Remboursement de certaines prestations**
+
+(6) Lorsqu’une personne à qui le paragraphe (4) s’applique choisit, en application du paragraphe (5), de renoncer à l’annuité, l’allocation annuelle ou la pension mentionnée au paragraphe (4), l’auteur de ce choix doit verser un montant égal au montant de l’annuité, l’allocation annuelle, la pension ou la prestation de retraite supplémentaire qui lui a été versée pour toute période commençant au cours du mois qui a débuté après qu’il a été un contributeur selon la présente partie pendant une année, ainsi que l’intérêt simple à quatre pour cent l’an. Ce montant :
+
+- a) si le choix est exercé avant le 1^er^ avril 2000, doit être porté au crédit du compte tenu, parmi les comptes du Canada, en application de la partie I de la *Loi sur la pension de la fonction publique* ou de la partie I de la *Loi sur la pension de retraite des Forces canadiennes*;
+
+- b) si le choix est exercé le 1^er^ avril 2000 ou après cette date, doit être versé à la Caisse de retraite de la fonction publique, au sens de la *Loi sur la pension de la fonction publique*, ou à la Caisse de retraite des Forces canadiennes, au sens de la *Loi sur la pension de retraite des Forces canadiennes*, ou doit être porté au crédit de l’un des comptes visés à l’alinéa a), selon que le montant de l’annuité, l’allocation annuelle, la pension ou la prestation de retraite supplémentaire a été débité du compte en cause ou versé par la caisse en question.
+
+**Montant à porter au crédit du compte de pension de retraite**
+
+(7) Lorsque, en vertu du présent article, une personne exerce, avant le 1^er^ avril 2000, un choix selon lequel elle est astreinte, par la présente partie, à payer pour quelque période de service du genre décrit à l’alinéa (1)a), on doit imputer au compte tenu, parmi les comptes du Canada, en application de la *Loi sur la pension de la fonction publique* ou de la *Loi sur la pension de retraite des Forces canadiennes*, selon le cas, et porter au crédit du compte de pension de retraite à l’égard de cette personne, un montant égal au chiffre déterminé conformément au sous-alinéa (1)a)(ii).
+
+**Montant du remboursement de contributions**
+
+(8) Pour l’application de la *Loi sur la pension de la fonction publique* ou de la *Loi sur la pension de retraite des Forces canadiennes*, selon le cas, le montant de tout remboursement de contributions ou de tout autre paiement en une somme globale qui est ou peut devenir payable d’après cette loi à cette personne ou à son égard, est censé être le montant autrement déterminé en vertu de cette loi moins le montant qui, en vertu du paragraphe (7), doit être porté au crédit du compte de pension de retraite à l’occasion du choix exercé avant le 1^er^ avril 2000.
+
+**Montant à verser**
+
+(9) Les paragraphes (7) et (8) s’appliquent au choix exercé le 1^er^ avril 2000 ou après cette date, avec les adaptations nécessaires. La mention du compte, relativement à la *Loi sur la pension de la fonction publique* ou la *Loi sur la pension de retraite des Forces canadiennes*, vaut mention de la Caisse de retraite de la fonction publique ou de la Caisse de retraite des Forces canadiennes en ce qui concerne les contributions versées à la caisse en cause et la mention du compte de pension de retraite vaut mention de la Caisse de retraite de la Gendarmerie royale du Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 24; 1999, ch. 34, art. 190; 2003, ch. 22, art. 225(A); 2012, ch. 31, art. 509
+
+</details>
+
+### Accords de transfert
+
+### 24.1 Définition de **employeur admissible**
+
+(1) Au présent article, **employeur admissible** s’entend de l’employeur dont les employés sont visés par un régime de pension ou un régime d’épargne-retraite du genre prévu par les règlements pris en vertu de l’alinéa 26.1(1)h.3), y compris de l’administrateur d’un tel régime.
+
+**Autorisation de conclure un accord**
+
+(2) Le ministre peut, selon les modalités approuvées par le Conseil du Trésor, conclure avec tout employeur admissible un accord aux termes duquel il paiera à cet employeur, pour tout régime visé au paragraphe (1), un montant déterminé en conformité avec le paragraphe (3) relativement à tout contributeur qui a cessé ou cesse d’être membre de la Gendarmerie et est ou devient un employé de cet employeur. L’accord peut également prévoir que l’employeur versera au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada le montant déterminé conformément à l’accord à l’égard de toute personne qui a cessé ou cesse d’être employée par lui et est ou devient membre de la Gendarmerie.
+
+**Autorisation de virer des contributions**
+
+(3) Dans les cas où le ministre a conclu l’accord visé au paragraphe (2), il peut être payé à l’employeur — si l’accord le prévoit et aux conditions et selon les modalités stipulées par celui-ci —, à l’égard d’un contributeur qui cesse d’être membre de la Gendarmerie et est ou devient employé de celui-ci :
+
+- a) sur le compte de pension de retraite :
+  - (i) soit des montants égaux au total des montants suivants :
+    - (A) un montant ne dépassant pas la valeur actuarielle, calculée conformément à l’accord, de toutes les prestations échues en vertu de la présente partie et de la partie III relativement à la période de service ouvrant droit à pension qui est au crédit du contributeur avant le 1^er^ avril 2000,
+    - (B) le montant déterminé par le ministre au titre des intérêts sur le montant déterminé conformément à la division (A) au moment du paiement,
+  - (ii) soit les prestations payables au contributeur ou à l’égard de celui-ci en vertu de la présente partie ou de la partie III, à mesure de leur échéance, relativement à la période de service ouvrant droit à pension qui est au crédit du contributeur avant le 1^er^ avril 2000;
+
+- b) par la Caisse de retraite de la Gendarmerie royale du Canada :
+  - (i) soit des montants égaux au total des montants suivants :
+    - (A) un montant ne dépassant pas la valeur actuarielle, calculée conformément à l’accord, de toutes les prestations échues en vertu de la présente partie et de la partie III relativement à la période de service ouvrant droit à pension qui, le 1^er^ avril 2000 ou après cette date, est au crédit du contributeur ou est portée à son crédit,
+    - (B) le montant déterminé par le ministre au titre des intérêts sur le montant déterminé conformément à la division (A) au moment du paiement,
+  - (ii) soit les prestations payables au contributeur ou à l’égard de celui-ci en vertu de la présente partie ou de la partie III, à mesure de leur échéance, relativement à la période de service ouvrant droit à pension qui, le 1^er^ avril 2000 ou après cette date, est au crédit du contributeur ou est portée à son crédit.
+
+**Consentement du contributeur**
+
+(4) Nul paiement ne peut être fait selon le paragraphe (3) sans le consentement écrit du contributeur.
+
+**Non-application du paragraphe 9(7)**
+
+(5) Le paragraphe 9(7) ne s’applique pas à un paiement fait en vertu du paragraphe (3).
+
+**Prestation non payable à l’égard des contributions transférées**
+
+(6) Sous réserve des règlements pris en vertu de l’alinéa 26.1(1)h.3), lorsque, en conformité avec l’alinéa (3)a), le ministre fait un paiement à un employeur admissible à l’égard d’un employé, celui-ci cesse d’avoir droit aux prestations prévues à la présente partie ou à la partie III relativement à la période de service ouvrant droit à pension à laquelle se rattache ce paiement.
+
+**Paiement de la différence**
+
+(7) Sous réserve du paragraphe (8), si la somme payée par le ministre en vertu du paragraphe (3) est moins élevée que la valeur de transfert qui serait déterminée pour l’employé aux termes de l’article 12.1 — que l’employé y ait droit ou non —, le ministre verse conformément au paragraphe 12.1(2) à l’égard de l’employé une somme égale à la différence.
+
+**Paiement de la différence**
+
+(8) Lorsque le montant payé par le ministre en vertu du paragraphe (3) est moins élevé que le montant du remboursement des contributions auquel aurait par ailleurs droit l’employé en vertu de l’article 11, le ministre verse à l’employé un montant égal à la différence.
+
+**Temps qui peut être compté par un membre de la Gendarmerie**
+
+(9) Lorsqu’un employé d’un employeur admissible avec qui le ministre a conclu un accord conformément au paragraphe (2) a cessé d’être employé par cet employeur et est ou devient un membre de la Gendarmerie, toute période de service de cet employé qu’il avait droit, au moment où il a quitté cet emploi, de faire compter pour tout régime visé au paragraphe (1) établi au bénéfice des personnes employées par cet employeur peut, si l’accord le prévoit, être comptée par lui comme service ouvrant droit à pension pour l’application de l’article 6, dans la mesure, aux conditions et selon les modalités réglementaires, si l’employeur verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada le montant dont l’accord exige le versement par cet employeur à l’égard de l’employé.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 34, art. 191; 2003, ch. 26, art. 47
+
+</details>
+
+### Commission des pensions
+
+### 25 Commission des pensions
+
+Le ministre peut établir, pour le conseiller et l’aider dans les matières relevant de l’application de la présente partie, une commission appelée Commission des pensions de la Gendarmerie royale du Canada et composée de trois officiers nommés par le ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. R-11, art. 21
+
+</details>
+
+### Comité consultatif
+
+### 25.1 Comité consultatif
+
+(1) Le ministre constitue un comité — le Comité consultatif de la Gendarmerie royale du Canada — chargé de le conseiller et de l’assister sur les questions relatives à l’application de la présente loi; il en nomme les membres conformément au paragraphe (2).
+
+**Mandat du comité**
+
+(1.1) Le comité a pour mandat :
+
+- a) d’examiner la gestion et le financement des prestations visées par la présente loi, ainsi que toute question touchant à leur forme, et de faire des recommandations au ministre sur ces questions;
+
+- b) d’examiner toute question en matière de pension dont le saisit le ministre.
+
+**Membres**
+
+(2) Le comité est composé des personnes suivantes :
+
+- a) une personne choisie parmi les contributeurs qui reçoivent une annuité en vertu de la présente loi et qui sont proposés par une association qui, de l’avis du ministre, les représente;
+
+- b) trois personnes choisies parmi celles qui sont tenues de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada et qui sont proposées par un organisme qui, de l’avis du ministre, les représente;
+
+- c) deux personnes choisies parmi celles qui sont tenues de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada;
+
+- d) deux autres personnes choisies par le ministre.
+
+**Durée du mandat des membres**
+
+(3) Le mandat des membres est d’une durée maximale de trois ans et est renouvelable plus d’une fois.
+
+**Recommandation de candidats**
+
+(3.1) Le comité est tenu de recommander au ministre des candidats en vue de leur nomination au poste de membre du comité visé à l’article 10 de la *Loi sur l’Office d’investissement des régimes de pensions du secteur public*.
+
+**Président**
+
+(4) Le ministre choisit le président parmi les membres du comité.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 75; 1999, ch. 34, art. 192; 2012, ch. 31, art. 510
+
+</details>
+
+### Règlements
+
+### 26 Règlements
+
+Le gouverneur en conseil peut prendre des règlements :
+
+- a) sous réserve de l’article 26.1, en vue de toute mesure d’ordre réglementaire prévue à la présente loi;
+
+- b) spécifiant, pour l’application du paragraphe 3(4), l’emploi à titre de membre de la Gendarmerie qui est un emploi excepté;
+
+- c) prescrivant, par dérogation à l’article 5, la manière et les circonstances selon lesquelles les personnes tenues de contribuer au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada au titre de ces articles, mais qui sont ou ont été, avant ou après le 1^er^ avril 1960, absentes de la Gendarmerie en congé non payé, doivent contribuer au compte ou à la caisse à l’égard de cette absence, prescrivant la solde qui est réputée leur avoir été versée pendant ce congé et concernant les contributions qu’elles doivent verser au compte ou à la caisse relativement à cette solde;
+
+- d) prescrivant les circonstances dans lesquelles et les modalités selon lesquelles une personne qui a fait un choix en vertu de la présente partie peut l’annuler en tout ou en partie et peut en faire un autre, ou être réputée le faire, en vertu de celle-ci;
+
+- e) prescrivant les méthodes selon lesquelles et les bases sur lesquelles le montant de tout paiement envisagé par le paragraphe 8(4) doit être calculé et les circonstances dans lesquelles un tel paiement, qu’il soit fait avant ou après le 1^er^ avril 1960, peut être remboursé;
+
+- f) prescrivant les circonstances dans lesquelles et les modalités selon lesquelles tout contributeur peut révoquer un choix fait en vertu de la présente partie et faire un nouveau choix en vertu de celle-ci;
+
+- g) prescrivant la preuve requise pour convaincre le ministre qu’un contributeur n’a pas droit à une pension d’invalidité visée à l’alinéa 10(2)b), la date et les modalités de présentation de la preuve, ainsi que la forme de cette preuve;
+
+- h) définissant, pour l’application de la présente loi, l’expression **fréquente à plein temps une école ou une université** telle qu’elle s’applique à un enfant du contributeur;
+
+- i) prévoyant les circonstances dans lesquelles une personne est réputée, pour l’application de la présente loi, fréquenter une école ou une université à peu près sans interruption;
+
+- i.1) prescrivant le mode de recouvrement du montant visé à l’article 19.1 sur les paiements de l’allocation annuelle mentionnés à cet article;
+
+- i.2) régissant la détermination de l’invalidité, pour l’application de la présente partie, et les conditions auxquelles une allocation de cessation en espèces ou une annuité immédiate doit être payée ou continuer d’être payée, y compris la première évaluation et les évaluations ultérieures périodiques ou autres d’une telle invalidité;
+
+- j) prescrivant, pour l’application de la présente partie, les méthodes selon lesquelles et les bases sur lesquelles la valeur capitalisée de toute annuité doit être calculée;
+
+- k) prescrivant la manière et le moment de désigner des bénéficiaires selon la présente partie;
+
+- l) autorisant un contributeur à désigner sa succession comme bénéficiaire et prescrivant les catégories de personnes et d’organismes parmi lesquels des bénéficiaires peuvent être désignés pour l’application de la présente partie;
+
+- m) prescrivant, dans le cas d’une personne qui, n’ayant pas été un contributeur selon la présente partie ou la partie V de l’ancienne loi, a cessé d’être membre de la Gendarmerie et par la suite, soit avant, soit après le 1^er^ avril 1960, est nommée de nouveau ou se rengage dans la Gendarmerie, la mesure et les circonstances dans lesquelles toute pension à elle payable ou accordée selon les parties II ou III de l’ancienne loi continuera à lui être versée, et la mesure et les conditions moyennant lesquelles tout service de cette personne avant l’époque à laquelle elle a ainsi cessé d’être membre de la Gendarmerie peut être compté par elle comme service ouvrant droit à pension pour l’application de la présente partie;
+
+- n) touchant la détermination, pour l’application de la présente partie, de la date effective à laquelle une personne sera censée être devenue ou avoir cessé d’être membre de la Gendarmerie;
+
+- o) prescrivant, dans le cas de toute personne décrite au paragraphe 93(4) de l’ancienne loi qui, n’ayant pas atteint l’âge de soixante-cinq ans, a cessé d’être membre de la Gendarmerie soit avant, soit après le 1^er^ avril 1960, les montants dont doit être ajustée toute annuité, allocation annuelle ou pension payable à cette personne selon la présente partie ou la partie V de l’ancienne loi, ainsi que la manière d’opérer cet ajustement;
+
+- p) prévoyant le maintien en vigueur de toute directive en cours, émise par le Conseil du Trésor d’après l’article 105 de l’ancienne loi, dans les circonstances prévues par cet article et sous réserve de modification ou de suspension ainsi que l’envisage cet article;
+
+- q) prévoyant, nonobstant toute autre disposition de la présente partie, la réduction, par le Conseil du Trésor, de toute annuité, allocation annuelle ou pension payable selon la présente partie ou la partie V de l’ancienne loi à une personne ou à l’égard d’une personne qui, après avoir pris sa retraite de la Gendarmerie, est déclarée coupable d’un acte criminel par elle commis alors qu’elle était membre de la Gendarmerie, si, de l’avis du Conseil du Trésor, la perpétration de cet acte, par elle, constituait une inconduite dans l’accomplissement de ses devoirs comme membre de la Gendarmerie;
+
+- r) prévoyant que sera payée, sur le compte de pension de retraite ou par la Caisse de retraite de la Gendarmerie royale du Canada, lors du décès d’un contributeur et sur une demande adressée au ministre par la personne, ou pour son compte, à qui une allocation annuelle devient payable en vertu de la présente partie, la totalité ou une partie de telle fraction des droits ou impôts sur les successions, legs ou héritages, payables par elle, qui, d’après les règlements, est déclarée attribuable à cette allocation, et prescrivant les montants dont cette allocation et tout montant payable selon l’article 22, en pareil cas, doivent être réduits ainsi que la manière d’opérer cette réduction;
+
+- s) nonobstant toute autre disposition de la présente partie, déclarant que, lorsqu’il a atteint l’âge de retraite, un contributeur doit cesser d’être membre de la Gendarmerie, à moins que la continuation de son service dans la Gendarmerie ne soit autorisée en conformité avec les règlements, et prescrivant les circonstances dans lesquelles il peut continuer d’être membre de la Gendarmerie après avoir atteint cet âge, ainsi que les conditions auxquelles il peut continuer d’être ainsi membre;
+
+- t) d’une façon générale, pour l’application de la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 26; 1989, ch. 6, art. 29; 1992, ch. 46, art. 76; 1999, ch. 34, art. 193; 2009, ch. 13, art. 7
+
+</details>
+
+### 26.1 Règlements
+
+(1) Le gouverneur en conseil peut, par règlement :
+
+- a) fixer un taux de solde annuel pour l’application du paragraphe 5(5) ou de l’alinéa 10(4)b) ou prévoir son mode de détermination;
+
+- a.1) déterminer, pour l’application des alinéas b) à d) de la définition de **service dans la Gendarmerie** au paragraphe 3(1), qui est policier;
+
+- b) fixer les modalités de temps ou autres selon lesquelles un choix peut être effectué en vertu du paragraphe 6.1(1);
+
+- c) déterminer, pour l’application du paragraphe 6.1(4), la partie de la période de congé à compter comme service ouvrant droit à pension en vertu de la division 6a)(ii)(A);
+
+- c.1) fixer un nombre d’heures par semaine ou de jours par année pour l’application du paragraphe 5(6), des divisions 6b)(ii)(F.1), (M) et (N) et de l’alinéa 7(1)i);
+
+- c.2) prévoir le mode de détermination de la valeur de transfert pour l’application de la définition de ce terme au paragraphe 9(1), ainsi que les conditions selon lesquelles le contributeur a droit à la valeur de transfert, et prendre toute autre mesure qu’il estime nécessaire à l’application de l’article 12.1;
+
+- c.3) régir, pour l’application du paragraphe 9(6), les modalités et le mode de détermination des soldes à prendre en compte et, pour l’application de l’alinéa 9(6)b), le calcul de l’intérêt;
+
+- d) déterminer, malgré les règlements d’application de l’alinéa 26c), le montant à payer en vertu de l’alinéa 7(1)i);
+
+- e) prendre des mesures relatives au choix visé à l’article 14.1, notamment en ce qui concerne :
+  - (i) la question de savoir à quel moment, de quelle manière et dans quelles circonstances le choix peut être effectué, révoqué ou réputé avoir été révoqué,
+  - (ii) la réduction de l’annuité ou de l’allocation annuelle du contributeur lorsqu’un choix a été effectué,
+  - (iii) le montant de l’allocation annuelle immédiate à verser en vertu du paragraphe 14.1(2),
+  - (iv) toute autre mesure qu’il estime nécessaire à l’application de l’article 14.1;
+
+- f) et g) [Abrogés, 2000, ch. 12, art. 290]
+
+- h) prévoir les taux auxquels l’intérêt est calculé, de quelle manière et à quels moments il est porté au crédit du compte de pension de retraite en vertu de l’alinéa 29(1)b);
+
+- h.1) prévoir les renseignements additionnels que doit comporter le rapport annuel visé à l’article 31;
+
+- h.2) prévoir des périodes de service dans la Gendarmerie et des périodes de service ouvrant droit à pension pour l’application des articles 11, 12.1, 13 et 14, les périodes étant d’au moins deux ans et d’au plus cinq ans dans le cas des alinéas 11(7)a) et 11(8)a) et des articles 13 et 14, d’au plus dix ans dans le cas des alinéas 11(1)a), 11(2)a), 11(3)a) et 11(5)a), du sous-alinéa 11(9)b)(iii), du paragraphe 11(11) et de l’article 12.1, d’au plus vingt ans dans le cas des alinéas 11(3)c) et 11(5)c), d’au plus vingt-cinq ans dans le cas de l’alinéa 11(5)d) et du sous-alinéa 11(9)b)(ii), d’au plus trente ans dans le cas de l’alinéa 11(9)a) et de la division 11(9)b)(iii)(B) et d’au plus trente-cinq ans dans le cas du paragraphe 11(12);
+
+- h.3) prévoir des catégories de régimes de pension ou de régimes d’épargne-retraite pour l’application du paragraphe 24.1(1) et prévoir à quelles conditions, selon quelles modalités et dans quelle mesure les périodes de service peuvent compter comme des périodes de service ouvrant droit à pension pour l’application du paragraphe 24.1(9);
+
+- h.4) prévoir selon quelles modalités et dans quelle mesure les dispositions de la présente loi ou de ses règlements s’appliquent au membre de la Gendarmerie qui a été engagé pour y travailler pour au moins le nombre d’heures par semaine ou de jours par année fixé par les règlements pris en vertu de l’alinéa c.1) et adapter ces dispositions à cette application;
+
+- h.5) prévoir les conditions et modalités de temps et autres relatives à l’exercice des choix visés aux divisions 6b)(ii)(F.1) et (L) à (P), le mode de détermination du service ouvrant droit à pension qui résulte de ces choix ainsi que le mode de détermination des montants à payer, aux termes de l’alinéa 7(1)i), à l’égard des périodes visées par ces choix et prévoir selon quelles modalités et dans quelle mesure l’article 8 et les règlements d’application de cet article s’appliquent à ces choix et aux contributeurs qui les font et adapter ces dispositions à cette application;
+
+- h.6) prévoir des âges pour l’application du paragraphe 11(9), ces âges étant d’au plus cinquante-cinq ans dans le cas de l’alinéa 11(9)a) et du sous-alinéa 11(9)b)(iii) et d’au plus cinquante ans dans le cas du sous-alinéa 11(9)b)(ii);
+
+- i) prendre toute autre mesure qu’il estime nécessaire pour l’application des dispositions de la présente loi mentionnées au présent paragraphe.
+
+**Rétroactivité**
+
+(2) Les règlements pris en vertu des alinéas (1)a), c), d), h) ou h.4) peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 77; 1999, ch. 34, art. 194; 2000, ch. 12, art. 290; 2003, ch. 26, art. 62; 2009, ch. 13, art. 8; 2012, ch. 31, art. 511
+
+</details>
+
+### 27 Règlements sur les congés
+
+(1) Pour l’application de la présente partie, une personne qui a contribué au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada en conformité avec tout règlement pris en vertu de l’alinéa 26c), relativement à une période durant laquelle elle était absente de la Gendarmerie en congé non payé, est réputée avoir contribué au compte ou à la caisse :
+
+- a) lorsque cette période ou une partie de celle-ci est antérieure à 1966, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 1965, relativement à cette période ou partie de période;
+
+- b) lorsque cette période ou une partie de celle-ci est postérieure à 1965, mais antérieure au 1^er^ avril 1969, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version antérieure au 1^er^ avril 1969, relativement à cette période ou partie de période;
+
+- c) lorsque cette période ou une partie de celle-ci est postérieure au 31 mars 1969, mais antérieure au 1^er^ janvier 2000, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 1999, relativement à cette période ou partie de période;
+
+- d) lorsque cette période ou toute partie de celle-ci est postérieure à 1999, mais antérieure au 1^er^ janvier 2004, de la manière et aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 2003, relativement à cette période ou partie de période;
+
+- e) lorsque cette période ou toute partie de celle-ci est postérieure à 2003, mais antérieure au 1^er^ janvier 2013, de la manière et aux taux déterminés au titre du paragraphe 5(2), dans sa version au 31 décembre 2012, relativement à cette période ou partie de période;
+
+- f) lorsque cette période ou toute partie de celle-ci est postérieure à 2012, de la manière prévue au paragraphe 5(1) et aux taux que le Conseil du Trésor détermine au titre de ce paragraphe, relativement à cette période ou à cette partie de période.
+
+Elle est aussi réputée avoir reçu, durant cette période, une solde et des allocations à un taux égal à celui de la solde et des allocations qu’on aurait été autorisé à lui payer si elle n’avait pas ainsi été absente en congé non payé.
+
+**Députés et sénateurs**
+
+(2) Nonobstant toute autre disposition de la présente partie, le gouverneur en conseil peut, par règlement :
+
+- a) prévoir que la durée du mandat d’un ancien député ou sénateur pour lequel il a versé les contributions prévues par la *Loi sur les allocations de retraite des parlementaires* peut, aux conditions qui peuvent être prévues par les règlements, être incluse dans la période ouvrant droit à pension de cet ancien député ou sénateur pour l’application de la présente partie;
+
+- b) prévoir le transfert au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada des contributions qu’il a versées au compte d’allocations, au sens de cette loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 27; 1999, ch. 34, art. 195; 2012, ch. 31, art. 512
+
+</details>
+
+### Paiements sur le compte de pension de retraite
+
+### 28 Paiements sur le compte de pension de retraite
+
+(1) Tous les montants nécessaires au paiement de prestations selon la présente partie, y compris les prestations mentionnées au paragraphe 26(3) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, chapitre 34 des Statuts du Canada de 1959, et à la partie III, sont payés sur le compte de pension de retraite si elles sont payables en ce qui touche le service ouvrant droit à pension qui est au crédit du contributeur avant le 1^er^ avril 2000.
+
+**Transfert des montants**
+
+(2) Les montants déposés auprès du Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada au titre du paragraphe 29.1(2) sont transférés à l’Office d’investissement des régimes de pensions du secteur public, au sens de la *Loi sur l’Office d’investissement des régimes de pensions du secteur public*, pour être gérés conformément à cette loi.
+
+**Paiement des prestations**
+
+(3) Si les montants portés au crédit du compte de pension de retraite ne permettent pas de payer les prestations visées au paragraphe (1), les montants nécessaires au paiement de celles-ci doivent être portés au débit du Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada et payés sur l’actif de l’Office d’investissement des régimes de pensions du secteur public.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 28; 1999, ch. 34, art. 196
+
+</details>
+
+### Montants
+
+### 29 Crédits annuels
+
+(1) Lors de chaque exercice, sont portés au crédit du compte de pension de retraite :
+
+- a) [Abrogé, 1999, ch. 34, art. 198]
+
+- b) le montant qui représente l’intérêt sur le solde figurant au crédit du compte calculé de la manière et selon le taux et porté au crédit aux moments que peuvent prescrire les règlements. Toutefois, le taux applicable à un trimestre donné au cours d’un exercice doit être au moins égal à celui qui serait obtenu pour le même trimestre par la méthode de calcul prévue à l’article 30 du *Règlement sur la pension de retraite de la Gendarmerie royale du Canada*, dans sa version du 31 mars 1991.
+
+(2) à (5) [Abrogés, 1999, ch. 34, art. 198]
+
+**Montants portés au crédit du compte à la suite d’un rapport d’évaluation actuarielle**
+
+(6) À la suite du dépôt au Parlement du rapport d’évaluation actuarielle visé à l’article 30 concernant l’état du compte de pension de retraite et la situation du Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada, est porté au crédit du compte, selon les modalités de temps et autres prévues au paragraphe (7), le montant que, de l’avis du président du Conseil du Trésor, il faudra ajouter, à la fin du quinzième exercice suivant le dépôt du rapport ou de la période plus courte qu’il détermine, au solde créditeur que devrait alors, suivant l’estimation de celui-ci, avoir le compte et le fonds pour couvrir le coût des prestations payables en application de la présente partie et de la partie III au titre du service ouvrant droit à pension qui est au crédit des contributeurs avant le 1^er^ avril 2000.
+
+**Versements annuels égaux**
+
+(7) Sous réserve du paragraphe (8), le montant qu’il faudra ajouter au solde créditeur du compte de pension de retraite, en application du paragraphe (6), est porté au crédit du compte par versements annuels égaux échelonnés sur une période de quinze ans ou sur la période plus courte que détermine le président du Conseil du Trésor, le premier versement devant être porté au crédit du compte au cours de l’exercice où le rapport d’évaluation actuarielle est déposé au Parlement.
+
+**Ajustements**
+
+(8) Lorsqu’un nouveau rapport d’évaluation actuarielle est déposé au Parlement avant la fin de la période applicable aux termes du paragraphe (7), les versements qui restaient à effectuer au cours de cette période peuvent être ajustés compte tenu du montant que le président du Conseil du Trésor estime, à la date du dépôt de ce rapport, être celui qu’il faudra ajouter au solde créditeur que, suivant l’estimation de celui-ci, devrait avoir le compte de pension de retraite et le Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada à la fin de cette période pour couvrir le coût des prestations payables en application de la présente partie et de la partie III au titre du service ouvrant droit à pension qui est au crédit des contributeurs avant le 1^er^ avril 2000.
+
+**Montant porté au débit du compte à la suite d’un rapport d’évaluation actuarielle**
+
+(9) À la suite du dépôt au Parlement du rapport d’évaluation actuarielle visé à l’article 30 concernant l’état du compte de pension de retraite et la situation du Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada, peut être porté au débit du compte, selon les modalités de temps et autres prévues au paragraphe (11), le montant qui, de l’avis du président du Conseil du Trésor, dépasse le montant devant, à son avis — fondé sur le rapport —, être au crédit du compte et du fonds, à la fin du quinzième exercice suivant le dépôt du rapport ou de la période plus courte qu’il détermine, pour couvrir le coût des prestations payables en application de la présente partie et de la partie III au titre du service ouvrant droit à pension qui est au crédit des contributeurs avant le 1^er^ avril 2000.
+
+**Montant dépassant le montant maximum**
+
+(10) Si le montant total au crédit du compte et du fonds visés au paragraphe (9) dépasse, à la suite du dépôt du rapport, le montant maximum visé au paragraphe (13), le montant excédentaire doit être porté au débit du compte selon les modalités de temps et autres prévues au paragraphe (11).
+
+**Prélèvements annuels**
+
+(11) Sous réserve du paragraphe (12), le montant pouvant être porté au débit du compte en application du paragraphe (9) et celui devant l’être en application du paragraphe (10) sont prélevés annuellement sur une période de quinze ans ou sur la période plus courte que détermine le président du Conseil du Trésor, le premier prélèvement devant être effectué au cours de l’exercice où le rapport d’évaluation actuarielle est déposé au Parlement.
+
+**Ajustements**
+
+(12) Lorsqu’un nouveau rapport d’évaluation actuarielle est déposé au Parlement avant la fin de la période applicable aux termes du paragraphe (11), les prélèvements restant à effectuer au cours de cette période peuvent être ajustés compte tenu du montant que le président du Conseil du Trésor estime, à la date du dépôt de ce rapport, être celui qu’il faudra ajouter au solde créditeur que, suivant l’estimation de celui-ci, devrait avoir le compte de pension de retraite et le Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada à la fin de cette période pour couvrir le coût des prestations payables en application de la présente partie et de la partie III au titre du service ouvrant droit à pension qui est au crédit des contributeurs avant le 1^er^ avril 2000.
+
+**Montants maximums**
+
+(13) À la fin de la période, le montant total au crédit du compte de pension de retraite et du Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada ne peut dépasser cent dix pour cent du montant que le président du Conseil du Trésor estime nécessaire pour couvrir le coût des prestations payables en application de la présente partie et de la partie III au titre du service ouvrant droit à pension qui est au crédit des contributeurs avant le 1^er^ avril 2000.
+
+**Coûts**
+
+(14) Les coûts liés à l’application de la présente loi en ce qui touche les prestations payables en application de celle-ci au titre du service ouvrant droit à pension qui est au crédit des contributeurs avant le 1^er^ avril 2000 sont payés sur le compte de pension de retraite. Ces coûts sont fixés par le Conseil du Trésor sur recommandation du ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 29; 1992, ch. 46, art. 78; 1999, ch. 34, art. 198
+
+</details>
+
+### Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada
+
+### 29.1 Constitution
+
+(1) Est constitué le Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada.
+
+**Dépôt auprès du fonds**
+
+(2) Sont déposés auprès du fonds :
+
+- a) les sommes du compte de pension de retraite transférées le 1^er^ avril 2000 ou après cette date que le ministre des Finances détermine, selon les modalités de temps et autres fixées par lui;
+
+- b) les revenus des placements faits avec celles-ci et les profits, moins les pertes qui résultent de la vente des placements.
+
+**Coûts**
+
+(3) Si le montant au crédit du compte de pension de retraite ne permet pas de payer les coûts liés à l’application de la présente loi en ce qui touche les prestations payables en application de celle-ci au titre du service ouvrant droit à pension qui est au crédit des contributeurs avant le 1^er^ avril 2000, les coûts sont payés sur le fonds.
+
+**Transfert**
+
+(4) Après consultation de l’Office d’investissement des régimes de pensions du secteur public, au sens de la *Loi sur l’Office d’investissement des régimes de pensions du secteur public*, le ministre des Finances peut transférer du fonds au compte de pension de retraite, selon les modalités de temps et autres qu’il fixe, les montants qu’il détermine.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 34, art. 199
+
+</details>
+
+### Caisse de retraite de la Gendarmerie royale du Canada
+
+### 29.2 Constitution
+
+(1) Est constituée la Caisse de retraite de la Gendarmerie royale du Canada.
+
+**Dépôt auprès de la caisse**
+
+(2) Sont déposés auprès de la caisse :
+
+- a) le montant que le président du Conseil du Trésor détermine en vertu du paragraphe (3);
+
+- b) les montants devant être payés à la caisse au titre de la présente loi;
+
+- c) les revenus des placements faits avec les montants visés aux alinéas a) et b) et les profits, moins les pertes qui résultent de la vente des placements.
+
+**Montants déterminés par le président du Conseil du Trésor**
+
+(3) Lors de chaque exercice, sont déposés auprès de la caisse, pour chaque mois et dans les trente jours suivant le dernier jour du mois en cause :
+
+- a) le montant que le président du Conseil du Trésor détermine, après consultation du ministre et sur l’avis d’actuaires, et qui, selon lui, est nécessaire pour couvrir le coût des prestations acquises pour ce mois relativement au service courant et qui deviendront payables par la caisse;
+
+- b) le montant que le président du Conseil du Trésor détermine, après consultation du ministre, en fonction de la somme globale versée à la caisse pendant le mois précédent sous forme de contributions à l’égard du service passé.
+
+**Calcul**
+
+(4) En vue de déterminer le montant visé à l’alinéa (3)a), le président du Conseil du Trésor peut tenir compte de tout surplus de la caisse selon le plus récent rapport d’évaluation actuarielle sur la situation de celle-ci visé à l’article 30.
+
+**Transfert des montants**
+
+(5) Les montants déposés auprès de la caisse sont transférés à l’Office d’investissement des régimes de pensions du secteur public, au sens de la *Loi sur l’Office d’investissement des régimes de pensions du secteur public*, pour être gérés conformément à cette loi.
+
+**Paiement des prestations**
+
+(6) Tous les montants nécessaires au paiement des prestations que prévoient la présente partie et la partie III doivent être portés au débit de la caisse et payés sur l’actif de l’Office d’investissement des régimes de pensions du secteur public si elles sont payables au titre du service ouvrant droit à pension porté au crédit du contributeur le 1^er^ avril 2000 ou après cette date.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 34, art. 199
+
+</details>
+
+### 29.3 Montants versés à la suite d’un rapport d’évaluation actuarielle
+
+(1) À la suite du dépôt au Parlement du rapport d’évaluation actuarielle visé à l’article 30 concernant la situation de la Caisse de retraite de la Gendarmerie royale du Canada, est versé à la caisse, selon les modalités de temps et autres prévues au paragraphe (2), le montant que, de l’avis du président du Conseil du Trésor, il faudra ajouter, à la fin du quinzième exercice suivant le dépôt du rapport ou de la période plus courte qu’il détermine, au solde créditeur que, suivant son estimation, devrait alors avoir la caisse pour couvrir le coût des prestations payables en application de la présente partie et de la partie III au titre du service ouvrant droit à pension porté au crédit des contributeurs le 1^er^ avril 2000 ou après cette date.
+
+**Versements annuels égaux**
+
+(2) Sous réserve du paragraphe (3), le montant visé au paragraphe (1) est payé à la caisse par versements annuels égaux échelonnés sur une période de quinze ans ou sur la période plus courte que le président du Conseil du Trésor détermine, le premier versement devant être effectué au cours de l’exercice où le rapport d’évaluation actuarielle est déposé au Parlement.
+
+**Ajustements**
+
+(3) Lorsqu’un nouveau rapport d’évaluation actuarielle est déposé au Parlement avant la fin de la période applicable aux termes du paragraphe (2), les versements qui restaient à effectuer au cours de cette période peuvent être ajustés compte tenu du montant que le président du Conseil du Trésor estime, à la date du dépôt de ce rapport, être celui qu’il faudra ajouter au solde créditeur que, suivant l’estimation de celui-ci, devrait avoir la caisse à la fin de cette période pour couvrir le coût des prestations payables en application de la présente partie et de la partie III au titre du service ouvrant droit à pension porté au crédit des contributeurs le 1^er^ avril 2000 ou après cette date.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 34, art. 199
+
+</details>
+
+### 29.4 Surplus non autorisé
+
+(1) Si, à la suite du dépôt au Parlement du rapport d’évaluation actuarielle visé à l’article 30 concernant la situation de la Caisse de retraite de la Gendarmerie royale du Canada, il y a, selon le président du Conseil du Trésor, un surplus non autorisé, aucun montant ne peut être déposé auprès de la caisse au titre de l’alinéa 29.2(3)a) tant que, selon lui, un tel surplus existe.
+
+**Mesures en cas de surplus non autorisé**
+
+(2) Si, à la suite du dépôt au Parlement d’un tel rapport, il y a, selon le président du Conseil du Trésor, un surplus non autorisé :
+
+- a) peuvent être réduites, selon les modalités de temps et autres et pour la période que le Conseil du Trésor fixe sur recommandation du président du Conseil du Trésor et après consultation du ministre, les contributions payables au titre de l’article 5;
+
+- b) peut être payé par la caisse et versé au Trésor le montant que le Conseil du Trésor fixe sur recommandation du président du Conseil du Trésor et après consultation du ministre, selon les modalités de temps et autres ainsi fixées.
+
+**Recommandation du président du Conseil du Trésor**
+
+(3) Le président du Conseil du Trésor ne peut faire la recommandation visée à l’alinéa (2)b) qu’après avoir estimé, à la lumière du rapport, que le montant du solde créditeur de la caisse, à la fin du quinzième exercice suivant le dépôt du rapport ou de la période plus courte qu’il détermine, ne sera pas inférieur au total des montants suivants :
+
+- a) le montant nécessaire pour couvrir le coût des prestations payables en application de la présente partie et de la partie III au titre du service ouvrant droit à pension qui est porté au crédit des contributeurs le 1^er^ avril 2000 ou après cette date;
+
+- b) le montant de tout surplus de la caisse qui n’est pas un surplus non autorisé.
+
+**Mesures en cas de surplus**
+
+(4) Si, à la suite du dépôt au Parlement d’un tel rapport, il y a, selon le président du Conseil du Trésor, un surplus qui n’est pas un surplus non autorisé, les contributions payables au titre de l’article 5 ou de l’alinéa 29.2(3)a) peuvent être réduites selon les modalités de temps et autres et pour la période que le Conseil du Trésor fixe sur recommandation du président du Conseil du Trésor et après consultation du ministre.
+
+**Surplus non autorisé**
+
+(5) Pour l’application du présent article, il y a surplus non autorisé si la différence entre l’actif de la caisse et son passif, selon le rapport d’évaluation actuarielle visé à l’article 30 ou celui fait à la demande du président du Conseil du Trésor, est supérieure au montant correspondant à vingt-cinq pour cent de la dette actuarielle à l’égard des contributeurs, selon ce rapport.
+
+**Réduction des contributions**
+
+(6) Il est entendu qu’une réduction des contributions visées à l’alinéa (2)a) ou au paragraphe (4) ne constitue pas une modification du taux de contribution applicable avant la réduction.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 34, art. 199
+- 2019, ch. 29, art. 159
+
+</details>
+
+### 29.5 Coûts
+
+Les coûts liés à l’application de la présente loi en ce qui touche les prestations payables en application de celle-ci au titre du service ouvrant droit à pension qui est porté au crédit des contributeurs le 1^er^ avril 2000 ou après cette date sont payés par la Caisse de retraite de la Gendarmerie royale du Canada. Ces coûts sont déterminés par le Conseil du Trésor sur recommandation du ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1999, ch. 34, art. 199
+
+</details>
+
+### Rapport actuariel
+
+### 30 *Loi sur les rapports relatifs aux pensions publiques*
+
+Un certificat de coût, un rapport d’évaluation actuarielle et un rapport sur l’actif relatifs à l’état du compte de pension de retraite et à la situation du Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada et de la Caisse de retraite de la Gendarmerie royale du Canada doivent, conformément à la *Loi sur les rapports relatifs aux pensions publiques*, être préparés, déposés auprès du ministre désigné au titre de la même loi et déposés devant le Parlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 30; L.R. (1985), ch. 13 (2^e^ suppl.), art. 13; 1999, ch. 34, art. 200
+
+</details>
+
+### Rapport annuel
+
+### 31 Rapport annuel
+
+Le ministre doit, chaque année, faire déposer devant chaque chambre du Parlement un rapport sur l’application de la présente partie et de la partie III au cours de l’exercice précédent, y compris un état indiquant, au moyen de classifications appropriées, les montants versés au compte de pension de retraite, à la Caisse de retraite de la Gendarmerie royale du Canada et au Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada, et ceux payés sur ce compte et ce fonds et par cette caisse, pendant l’exercice, le nombre des contributeurs et le nombre de personnes qui reçoivent des prestations prévues par la présente partie et la partie III; le rapport comporte également les renseignements additionnels que le gouverneur en conseil peut exiger par règlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 31; 1992, ch. 46, art. 79; 1999, ch. 34, art. 200
+
+</details>
+
+## Prestations à l’égard de blessures ou décès dans l’exercice de fonctions
+
+### 31.1 Définition de **service dans la Gendarmerie**
+
+Pour l’application de la présente partie, les alinéas b), c) et d) de la définition de **service dans la Gendarmerie**, au paragraphe 3(1), s’appliquent uniquement à l’égard d’une période de service à titre de membre d’une force policière provinciale ou municipale avec laquelle le ministre a conclu un arrangement aux termes de l’article 20 de la *Loi sur la Gendarmerie royale du Canada*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 13, art. 9
+
+</details>
+
+### 32 Admissibilité à une compensation conforme à la *Loi sur les pensions*
+
+Sous réserve des autres dispositions de la présente partie et des règlements, une compensation conforme à la *Loi sur les pensions* doit être accordée, chaque fois que la blessure ou la maladie — ou son aggravation — ayant causé l’invalidité ou le décès sur lequel porte la demande de compensation était consécutive ou se rattachait directement au service dans la Gendarmerie, à toute personne, ou à l’égard de toute personne :
+
+- a) visée à la partie VI de l’ancienne loi à tout moment avant le 1^er^ avril 1960, qui, avant ou après cette date, a subi une invalidité ou est décédée;
+
+- b) ayant servi dans la Gendarmerie à tout moment après le 31 mars 1960 comme contributeur selon la partie I de la présente loi, et qui a subi une invalidité avant ou après cette date, ou est décédée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 32; 1998, ch. 11, art. 1; 2000, ch. 34, art. 46; 2009, ch. 13, art. 10
+
+</details>
+
+### 32.1 Compensation relative au service dans une zone de service spécial
+
+(1) Est accordée au membre de la Gendarmerie — ou à son égard — qui devient invalide ou décède par suite d’une blessure ou d’une maladie, ou de son aggravation, qui est survenue durant le service spécial au sens du paragraphe (2) ou qui lui est attribuable, une compensation, conforme à la *Loi sur les pensions*, égale à celle qui serait accordée aux membres des Forces canadiennes en service spécial au sens de cette loi, s’il n’était pas tenu compte de l’article 3.1 de la même loi.
+
+**Définition de **service spécial****
+
+(2) Pour l’application du paragraphe (1), **service spécial** s’entend du service effectué par un membre de la Gendarmerie soit dans une zone de service spécial désignée au titre de l’article 32.12 ou au titre de l’article 69 de la *Loi sur le bien-être des vétérans*, soit dans le cadre d’une opération de service spécial désignée au titre de l’article 32.13 ou au titre de l’article 70 de cette loi, pendant la période visée par la désignation. Sont assimilés au service spécial, s’ils ont lieu pendant cette période mais au plus tôt le 11 septembre 2001 :
+
+- a) la formation reçue spécialement en vue du service dans la zone ou dans le cadre de l’opération, sans égard au lieu où elle est reçue;
+
+- b) le déplacement pour se rendre dans la zone, sur les lieux de l’opération ou dans le lieu de la formation visée à l’alinéa a) et en revenir;
+
+- c) le congé autorisé avec solde pris durant ce service, sans égard au lieu où il est pris.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1998, ch. 11, art. 2; 2000, ch. 34, art. 46; 2003, ch. 12, art. 4, ch. 27, art. 9(F); 2005, ch. 21, art. 109; 2017, ch. 20, art. 292
+
+</details>
+
+### 32.11 Définition de **risques élevés**
+
+Pour l’application des alinéas 32.12(1)c) et 32.13(1)d), **risques élevés** s’entend de risques dont le niveau est plus élevé que celui qui se rencontre généralement en temps de paix.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 12, art. 4
+
+</details>
+
+### 32.12 Zone de service spécial
+
+(1) Après consultation du ministre au sens du paragraphe 3(1) de la *Loi sur les pensions*, le ministre de la Sécurité publique et de la Protection civile peut, par arrêté, désigner toute zone comme zone de service spécial si, à la fois :
+
+- a) la zone se situe à l’extérieur du Canada;
+
+- b) des membres de la Gendarmerie y ont été ou y seront déployés dans le cadre d’une opération d’un type prévu à l’article 32.14;
+
+- c) il est d’avis qu’en raison du déploiement ces membres ont été ou pourraient être exposés à des risques élevés.
+
+**Effet de la désignation**
+
+(2) La désignation prend effet à la date de la prise de l’arrêté ou à la date antérieure — qui ne précède pas le 11 juin 1998 — ou postérieure qui y est précisée. L’arrêté peut également prévoir la date de cessation d’effet de la désignation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 12, art. 4; 2005, ch. 10, art. 34
+
+</details>
+
+### 32.13 Opération de service spécial
+
+(1) Après consultation du ministre au sens du paragraphe 3(1) de la *Loi sur les pensions*, le ministre de la Sécurité publique et de la Protection civile peut, par arrêté, désigner tout ou partie d’une opération comme opération de service spécial si, à la fois :
+
+- a) l’opération est d’un type prévu à l’article 32.14;
+
+- b) l’opération est menée à l’extérieur du Canada;
+
+- c) des membres de la Gendarmerie ont été ou seront déployés dans le cadre de l’opération;
+
+- d) il est d’avis qu’en raison du déploiement ces membres ont été ou pourraient être exposés à des risques élevés.
+
+**Effet de la désignation**
+
+(2) La désignation prend effet à la date de la prise de l’arrêté ou à la date antérieure — qui ne précède pas le 11 septembre 2001 — ou postérieure qui y est précisée. L’arrêté peut également prévoir la date de cessation d’effet de la désignation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 12, art. 4; 2005, ch. 10, art. 34
+
+</details>
+
+### 32.14 Types d’opérations
+
+Pour l’application des alinéas 32.12(1)b) et 32.13(1)a), constituent des types d’opérations :
+
+- a) le conflit armé;
+
+- b) l’opération autorisée en vertu de la Charte des Nations Unies ou de tout autre instrument conventionnel semblable;
+
+- c) l’opération qui, de l’avis du ministre de la Sécurité publique et de la Protection civile, est une opération de recherche et de sauvetage;
+
+- d) l’opération qui, de l’avis du ministre de la Sécurité publique et de la Protection civile, vise à porter secours aux sinistrés;
+
+- e) l’opération qui, de l’avis du ministre de la Sécurité publique et de la Protection civile, vise à combattre le terrorisme;
+
+- f) l’opération qui, de l’avis du ministre de la Sécurité publique et de la Protection civile, vise à rétablir l’ordre social ou à rebâtir les institutions sociales à la suite de troubles politiques ou sociaux;
+
+- g) l’opération qui, de l’avis du ministre de la Sécurité publique et de la Protection civile, comporte un niveau de risque comparable à celui qui se rencontre généralement dans le cadre des opérations visées aux alinéas a) et b).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 12, art. 4; 2005, ch. 10, art. 34
+
+</details>
+
+### 32.15 *Loi sur les textes réglementaires*
+
+Les articles 3, 5 et 11 de la *Loi sur les textes réglementaires* ne s’appliquent pas aux arrêtés visés aux articles 32.12 et 32.13.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 12, art. 4
+
+</details>
+
+### 32.2 Décision
+
+Il est disposé des réclamations de compensation faites sous le régime de la présente partie de la même manière que celles faites sous celui de la *Loi sur les pensions*, les dispositions de cette loi non incompatibles avec la présente partie s’y appliquant avec les adaptations nécessaires.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1998, ch. 11, art. 2; 2000, ch. 34, art. 46
+
+</details>
+
+### 33 Paiement d’une allocation de traitement
+
+(1) Lorsqu’un ancien membre de la Gendarmerie qui reçoit une pension en vertu de la présente partie ou en vertu du paragraphe 22(1) de la *Loi sur la Gendarmerie royale du Canada*, chapitre 241 des Statuts revisés du Canada de 1952, tel qu’il se lisait avant le 1^er^ avril 1960, ou en vertu du paragraphe 5(1) de la *Loi sur la continuation des pensions de la Gendarmerie royale du Canada*, chapitre R-10 des Statuts revisés du Canada de 1970, parce qu’il est devenu invalide, reçoit un traitement à titre d’hospitalisé, aux termes des règlements pris en vertu de la *Loi sur le ministère des Anciens Combattants*, pour l’invalidité pour laquelle sa pension lui a été accordée, il peut lui être payé une allocation de traitement qui, de l’avis du Conseil du Trésor, serait équivalente à l’allocation de traitement qui lui serait payable aux termes de ces règlements s’il était un ancien combattant auquel ces règlements s’appliquent, et durant la période pendant laquelle l’allocation de traitement lui est payée, l’article 41 de la *Loi sur les pensions* s’applique, compte tenu des adaptations de circonstance, à cette pension.
+
+(2) [Abrogé, 1998, ch. 11, art. 3]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 33; 1998, ch. 11, art. 3; 2000, ch. 34, art. 95(F)
+
+</details>
+
+### 34 Application de la *Loi sur l’indemnisation des agents de l’État*
+
+(1) Malgré le paragraphe 3(1) de la *Loi sur l’indemnisation des agents de l’État*, cette loi s’applique à tous les membres de la Gendarmerie, au sens du paragraphe 2(1) de la *Loi sur la Gendarmerie royale du Canada*, sauf aux membres et aux personnes visés aux articles 32 et 32.1 de la présente loi.
+
+(2) [Abrogé, 2009, ch. 13, art. 11]
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 34; 1998, ch. 11, art. 4; 2009, ch. 13, art. 11
+
+</details>
+
+## Prestations supplémentaires
+
+### 35 Définitions
+
+Les définitions qui suivent s’appliquent à la présente partie.
+
+**contributeur**[Abrogée, 1999, ch. 34, art. 201]
+
+**pension** Pension, allocation annuelle ou annuité payable en vertu de la partie I. (**pension**)
+
+**prestataire** Personne qui reçoit une pension et qui, selon le cas :
+  - a) a atteint l’âge de soixante ans;
+  - b) n’ayant pas atteint l’âge de soixante ans, est invalide;
+  - c) n’ayant pas atteint l’âge de soixante ans, la reçoit en vertu des paragraphes 11(9) ou (10);
+  - d) n’ayant pas atteint l’âge de soixante ans, la reçoit à l’issue de sa retraite obligatoire de la Gendarmerie au motif que son état de santé physique ou mentale l’a rendue invalide;
+  - e) n’ayant pas atteint l’âge de soixante ans, la reçoit sur la base d’au moins :
+    - (i) vingt-six années de service ouvrant droit à pension, si elle a atteint l’âge de cinquante-neuf ans mais n’a pas encore soixante ans,
+    - (ii) vingt-sept années de service ouvrant droit à pension, si elle a atteint l’âge de cinquante-huit ans mais n’a pas encore cinquante-neuf ans,
+    - (iii) vingt-huit années de service ouvrant droit à pension, si elle a atteint l’âge de cinquante-sept ans mais n’a pas encore cinquante-huit ans,
+    - (iv) vingt-neuf années de service ouvrant droit à pension, si elle a atteint l’âge de cinquante-six ans mais n’a pas encore cinquante-sept ans,
+    - (v) trente années de service ouvrant droit à pension, si elle a atteint l’âge de cinquante-cinq ans mais n’a pas encore cinquante-six ans;
+  - f) la reçoit du fait de sa qualité de survivant ou d’enfant du contributeur décédé. (**recipient**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 35; 1992, ch. 46, art. 80; 1999, ch. 34, art. 201
+
+</details>
+
+### 36
+
+[Abrogé, 1999, ch. 34, art. 202]
+
+### 37 Contributions pour service accompagné d’option
+
+(1) La personne qui choisit, en conformité avec les articles 6 ou 24, de compter comme service ouvrant droit à pension toute période de service accompagné d’option spécifiée dans ces articles, ou une fraction de celle-ci, et postérieure au 31 mars 1970, mais antérieure au 1^er^ janvier 2000 est tenue, à cet égard, de verser au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada, en plus de tout montant à verser en vertu de la présente loi, un montant calculé de la manière et relativement à la solde visée à ces articles :
+
+- a) dans le cas d’une période ou fraction de période de service accompagné d’option postérieure au 31 mars 1970, mais antérieure au 1^er^ janvier 1977, au taux de un demi pour cent de sa solde;
+
+- b) dans le cas d’une période ou fraction de période de service accompagné d’option postérieure au 31 décembre 1976, mais antérieure au 1^er^ janvier 2000, au taux de un pour cent de sa solde.
+
+**Mode de paiement**
+
+(2) Les paragraphes 8(5) à (7) s’appliquent, avec les adaptations nécessaires, aux montants dont le paiement est obligatoire en vertu du paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 37; 1992, ch. 46, art. 80; 1999, ch. 34, art. 203
+
+</details>
+
+### 38 Prestation payable
+
+Sous réserve des autres dispositions de la présente partie, une prestation supplémentaire est payable à chaque prestataire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 38; 1992, ch. 46, art. 80
+
+</details>
+
+### 39 Calcul des prestations
+
+(1) Les prestations supplémentaires payables au prestataire pour un mois d’une année sont calculées par rapport à l’année de retraite du prestataire et leur montant est égal à celui des prestations de retraite supplémentaires qui serait payable à l’égard de sa pension conformément à l’article 4 de la *Loi sur les prestations de retraite supplémentaires* si celle-ci s’appliquait au prestataire.
+
+**Idem**
+
+(2) Le montant des prestations supplémentaires payables au prestataire pour un mois de l’année qui suit celle de sa retraite est égal au produit des facteurs suivants :
+
+- a) le montant des prestations supplémentaires qui, sans le présent article, seraient payables au prestataire pour ce mois;
+
+- b) le rapport entre le nombre de mois entiers restant dans l’année de la retraite après le mois de celle-ci et douze.
+
+**Détermination de l’année ou du mois de retraite**
+
+(3) Pour l’application du présent article :
+
+- a) l’année ou le mois de la retraite d’une personne à ou pour laquelle, ou relativement au service de laquelle, une pension est payable, à l’exclusion d’une personne visée à l’alinéa b), est l’année ou le mois, selon le cas, au cours desquels cette personne a, pour l’application de la présente loi, cessé pour la dernière fois d’être membre de la Gendarmerie;
+
+- b) l’année ou le mois de la retraite d’une personne qui reçoit une pension à titre de survivant ou d’enfant du contributeur est l’année ou le mois de retraite, selon le cas, de la personne à l’égard de laquelle ou relativement au service de laquelle la pension est payable.
+
+**Seuil de la prestation supplémentaire**
+
+(4) Nonobstant le paragraphe (1) mais sous réserve de l’article 40, le montant global de la prestation supplémentaire et de la pension qui peut être payé à un prestataire pour un mois d’une année donnée ne peut être inférieur au montant global de la prestation supplémentaire et de la pension qui a été ou peut être payé à ce prestataire pour tout mois de l’année précédente.
+
+**Prestation minimum garantie**
+
+(5) Malgré les paragraphes (1), (2) et (4) mais sous réserve de l’article 40, la prestation supplémentaire à payer pour un mois d’une année donnée au prestataire ne peut être inférieure à la différence entre la pension qui lui est due pour ce mois et le total de la prestation supplémentaire et de la pension maximale qui lui auraient été versées pour ce mois, autrement qu’en vertu du présent article, si le mois de retraite de l’année de retraite du prestataire avait été ce mois d’une année déterminé :
+
+- a) par le gouverneur en conseil, dans le cas de toute personne à ou pour qui la pension est payable lorsqu’elle cesse d’occuper la charge à laquelle il l’avait nommée;
+
+- b) par le Conseil du Trésor, dans le cas de toute personne non visée à l’alinéa a).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. R-11, art. 39; 1992, ch. 46, art. 80; 1999, ch. 34, art. 204; 2003, ch. 26, art. 63
+
+</details>
+
+### 40 Mode de paiement
+
+(1) Les prestations supplémentaires payables au prestataire sont versées aux mêmes dates, selon les mêmes modalités, pendant ou pour les mêmes périodes et aux mêmes conditions que la pension qui lui est payable.
+
+(2) [Abrogé, 1999, ch. 34, art. 205]
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 80; 1999, ch. 34, art. 205
+
+</details>
+
+## Dispositions générales
+
+### 41 Règlements
+
+(1) Le gouverneur en conseil peut, par règlement, en vue de permettre au régime prévu par la présente loi d’être conforme à des dispositions déterminées de l’article 147.1 de la *Loi de l’impôt sur le revenu* et de la partie LXXXV du *Règlement de l’impôt sur le revenu* :
+
+- a) adapter les dispositions de la présente loi ou de ses règlements;
+
+- b) régir l’application des dispositions de la présente loi ou de ses règlements;
+
+- c) prendre toute autre mesure qu’il estime nécessaire à cette fin.
+
+**Idem**
+
+(2) Le gouverneur en conseil peut, par règlement, en vue d’assurer une application réaliste et équitable de la présente loi en cas de prise de règlement au titre du paragraphe (1) :
+
+- a) adapter les dispositions de la présente loi ou de ses règlements;
+
+- b) régir l’application des dispositions de la présente loi ou de ses règlements;
+
+- c) prendre toute autre mesure qu’il estime nécessaire à cette fin.
+
+**Incompatibilité**
+
+(3) Les règlements d’application du paragraphe (1) l’emportent sur les dispositions incompatibles de la présente loi ou des autres règlements d’application de celle-ci.
+
+**Rétroactivité**
+
+(4) Les règlements d’application des paragraphes (1) ou (2) peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens; le cas échéant, ils sont réputés entrés en vigueur avant la date de leur prise, la rétroactivité ne pouvant toutefois être antérieure à la date d’entrée en vigueur du présent paragraphe.
+
+**Nullité**
+
+(5) Est nul tout règlement pris en vertu des paragraphes (1) ou (2) qui réduirait ou aurait pour effet de réduire le montant d’une pension, d’une allocation annuelle, d’une rente ou annuité, d’une prestation supplémentaire ou d’un versement global acquis avant la date de la prise.
+
+**Pouvoirs du Conseil du Trésor**
+
+(6) Outre les pouvoirs qu’il est autorisé à exercer au titre de l’alinéa 7(2)d) de la *Loi sur la gestion des finances publiques*, le Conseil du Trésor peut exercer les pouvoirs du gouverneur en conseil prévus au présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1992, ch. 46, art. 80; 1999, ch. 34, art. 206
+
+</details>
+
+### 42 Règlements
+
+(1) Le gouverneur en conseil peut, par règlement, prévoir selon quelles modalités et dans quelle mesure telles dispositions de la présente loi ou des règlements pris en vertu de celle-ci s’appliquent à l’égard de tout service d’un contributeur accompli dans la force de réserve des Forces canadiennes et adapter ces dispositions en vue de leur application.
+
+**Rétroactivité**
+
+(2) Les règlements pris en vertu du paragraphe (1) peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
+
+**Pouvoirs du Conseil du Trésor**
+
+(3) Outre les pouvoirs qu’il est autorisé à exercer au titre de l’alinéa 7(2)d) de la *Loi sur la gestion des finances publiques*, le Conseil du Trésor peut exercer les pouvoirs du gouverneur en conseil prévus au présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 26, art. 64
+
+</details>
+
+### 43 Pouvoir du ministre
+
+Le ministre peut utiliser des moyens électroniques pour créer, communiquer, rendre accessibles, recueillir, recevoir, mettre en mémoire ou traiter de quelque autre façon des documents ou de l’information sous le régime de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2008, ch. 28, art. 161
+
+</details>
+
+### 44 Règlements — moyens électroniques
+
+(1) Le gouverneur en conseil peut, par règlement :
+
+- a) régir l’utilisation de moyens électroniques pour créer, communiquer, rendre accessibles, recueillir, recevoir, mettre en mémoire ou traiter de quelque autre façon des documents ou de l’information sous le régime de la présente loi, et notamment :
+  - (i) le format ainsi que la technologie ou le procédé à utiliser,
+  - (ii) le lieu où le document électronique doit être fait ou envoyé,
+  - (iii) les délais et les circonstances — notamment le lieu — dans lesquels le document électronique est considéré comme ayant été envoyé ou reçu,
+  - (iv) la technologie ou le procédé à utiliser pour faire ou vérifier une signature électronique et la manière d’utiliser cette signature,
+  - (v) les circonstances dans lesquelles un document électronique doit porter la signature électronique ou la signature électronique sécurisée;
+
+- b) prévoir que l’exigence, prévue par une disposition de la présente loi, de fournir un document ou une information par des moyens non électroniques est remplie par la fourniture d’un document électronique si les éventuelles conditions réglementaires sont respectées.
+
+***Loi sur la protection des renseignements personnels et les documents électroniques***
+
+(2) Pour l’application du paragraphe (1), **document électronique**, **signature électronique** et **signature électronique sécurisée** s’entendent au sens du paragraphe 31(1) de la *Loi sur la protection des renseignements personnels et les documents électroniques*.
+
+**Pouvoirs du Conseil du Trésor**
+
+(3) Outre les pouvoirs qu’il est autorisé à exercer au titre de l’alinéa 7(2)d) de la *Loi sur la gestion des finances publiques*, le Conseil du Trésor peut exercer les pouvoirs du gouverneur en conseil prévus au paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2008, ch. 28, art. 161
+
+</details>
+
+
+## DISPOSITIONS CONNEXES
+
+### — 1989, ch. 6, art. 33
+
+### 33 Allocations versées au conjoint
+
+Le conjoint survivant qui, à l’entrée en vigueur de la présente loi, recevait soit l’allocation annuelle prévue par la partie I de la *Loi sur la pension de la fonction publique*, par la partie I de la *Loi sur la pension de retraite des Forces canadiennes* ou par la partie I de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, soit la pension prévue par la partie IV de la *Loi sur la continuation des pensions de la Gendarmerie royale du Canada*, l’une ou l’autre étant réduite en vertu du paragraphe 26(4), de l’article 33, du paragraphe 19(4) ou du paragraphe 48(2) de respectivement ces mêmes lois, dans sa version à l’entrée en vigueur de la présente loi, a droit au plein montant de l’allocation ou de la pension prévue par la loi applicable, et ce à compter de la date d’entrée en vigueur de la présente loi.
+
+### — 1989, ch. 6, art. 34
+
+### 34 Reprise du versement d’allocation au conjoint
+
+Lorsque, avant l’entrée en vigueur de la présente loi, il a été suspendu ou a pris fin pour cause de remariage, en application du paragraphe 25(2) de la *Loi sur la pension de la fonction publique*, de l’article 27 de la *Loi sur la pension de retraite des Forces canadiennes*, du paragraphe 30(2) de la *Loi sur la continuation de la pension des services de défense*, du paragraphe 9(5) de la *Loi sur la pension spéciale du service diplomatique*, des paragraphes 14(2), 19(4) ou 31(5) de la *Loi sur les allocations de retraite des parlementaires*, des paragraphes 38.1(2) ou 39(2) de la *Loi sur les allocations de retraite des membres du Parlement*, S.R. 1970, ch. M-10 (dans sa version modifiée par S.R. 1970, ch. 25 (1^er^ suppl.), articles 14 et 15), du paragraphe 24(2) de la *Loi sur la continuation des pensions de la Gendarmerie royale du Canada* ou de l’article 16 de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, dans l’une de leurs versions antérieures à l’entrée en vigueur de la présente loi, le paiement de l’allocation, de la rente ou de la pension au conjoint ou au conjoint survivant reprend, sous réserve de la loi applicable, à compter de l’entrée en vigueur de la présente loi.
+
+### — 1989, ch. 6, par. 35(1)
+
+### 35 Reprise du versement des allocations aux enfants
+
+(1) Lorsque, avant l’entrée en vigueur de la présente loi, il n’a jamais commencé ou a pris fin parce que le bénéficiaire n’était plus considéré, du fait de son mariage, comme un enfant au sens de l’alinéa 12(9)b) de la *Loi sur la pension de la fonction publique*, de l’alinéa 25(4)b) de la *Loi sur la pension de retraite des Forces canadiennes*, de l’alinéa 13(4)b) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, de l’alinéa 47(8)b) de la *Loi sur la continuation des pensions de la Gendarmerie royale du Canada* ou de l’alinéa b) de la définition de **enfant**, au paragraphe 31(6) de la *Loi sur les allocations de retraite des parlementaires*, dans l’une de leurs versions antérieures à l’entrée en vigueur de la présente loi, le paiement de l’allocation ou de la pension au bénéficiaire commence ou reprend, sous réserve de la loi applicable, à compter de l’entrée en vigueur de la présente loi.
+
+### — 1992, ch. 46, art. 108
+
+### 108 Disposition transitoire
+
+Les montants portés au crédit du compte de prestations de retraite supplémentaires à compter du 1^er^ avril 1991 conformément à la partie III de la *Loi sur la pension de la fonction publique*, à la partie III de la *Loi sur la pension de retraite des Forces canadiennes* ou à la partie III de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, selon le libellé de ces parties précédant la date de sanction de la présente loi sont réputés avoir été portés au crédit du compte de pension de retraite, au compte de pension de retraite des Forces armées ou au compte de pension de retraite de la Gendarmerie royale du Canada, selon le cas.
+
+### — 1999, ch. 34, par. 229(1)
+
+### 229 Disposition transitoire
+
+(1) Les paragraphes 64(5) et (6) et 65(4), l’article 75, le paragraphe 76(3), les articles 82, 133, 135, 136, 139, 141, 180, 181, 183 et 185, le paragraphe 186(3) et l’article 188 ne s’appliquent qu’à l’égard des contributeurs qui décèdent à la date d’entrée en vigueur du présent paragraphe ou après cette date.
+
+### — 2003, ch. 12, par. 6(2)
+
+### 6 Zones de service spécial
+
+(2) Pour l’application de la définition de **service spécial** au paragraphe 32.1(2) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, édictée par l’article 4 de la présente loi, la mention d’une zone de service spécial désignée au titre de l’article 91.2 de la *Loi sur les pensions* vaut également mention des zones de service spécial désignées par le *Décret sur la pension dans les zones de service spécial* pris en vertu du paragraphe 91.1(1) de la *Loi sur les pensions*, dans sa version antérieure à la date d’entrée en vigueur de la présente loi, et ce jusqu’à l’abrogation du décret.
+
+### — 2003, ch. 26, art. 69
+
+### 69 Application de l’article 45
+
+L’article 45 ne s’applique qu’à l’égard du contributeur qui cesse d’être membre de la Gendarmerie royale du Canada à la date d’entrée en vigueur de cet article ou après cette date.
+
+### — 2009, ch. 13, art. 12
+
+### 12 Prestation — service à temps partiel
+
+Sont valides les calculs — faits avant le 26 octobre 2006 — des prestations à verser en vertu de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada* à un ancien membre de la Gendarmerie, au sens du paragraphe 3(1) de cette loi, ou à son égard pour du service à temps partiel, dans la mesure où leur résultat est le même que celui qui aurait été obtenu s’ils avaient été faits conformément au *Règlement sur la pension de retraite de la Gendarmerie royale du Canada* dans sa version au 26 octobre 2006.
+
+### — 2009, ch. 13, art. 13
+
+### 13 Détermination
+
+Est valide la manière dont est déterminée la somme à payer relativement à toute période de service visée à la division 6b)(ii)(A) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada* avant l’entrée en vigueur du règlement visé à l’alinéa 7(1)c) de cette loi.
+
+### — 2011, ch. 24, al. 184a) et d)
+
+### 184 Entrée en vigueur rétroactive
+
+Malgré le paragraphe 109(1) de la *Loi modifiant certaines lois en matière de pensions et édictant la Loi sur les régimes de retraite particuliers et la Loi sur le partage des prestations de retraite*, chapitre 46 des Lois du Canada (1992), (appelé « loi modificative » au présent article) et le décret C.P. 1994-2097 du 14 décembre 1994 portant le numéro d’enregistrement TR/94-146 :
+
+- a) les paragraphes 2(4) et 6(2), les articles 8, 11 et 18, le paragraphe 33(2), les articles 40 et 41, le paragraphe 48(1) et les articles 61, 68 et 70 de la loi modificative sont réputés être entrés en vigueur le 15 décembre 1994;
+
+...
+
+- d) l’alinéa 26.1(1)a) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, édicté par l’article 77 de la loi modificative, est réputé être entré en vigueur le 15 décembre 1994;
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2014, ch. 39, art. 387
+
+### 387 Définitions
+
+Les définitions qui suivent s’appliquent aux articles 388 à 400.
+
+**date publiée** La date qui est publiée dans la *Gazette du Canada* par le Conseil du Trésor en vertu du paragraphe 86(1) de la *Loi visant à accroître la responsabilité de la Gendarmerie royale du Canada*. (**published date**)
+
+**employé réputé** Personne qui, au titre du paragraphe 86(1) de la *Loi visant à accroître la responsabilité de la Gendarmerie royale du Canada*, est réputée avoir été nommée en vertu de la *Loi sur l’emploi dans la fonction publique*. (**deemed employee**)
+
+### — 2014, ch. 39, art. 388
+
+### 388 Contributeur du groupe 1
+
+Pour l’application de la *Loi sur la pension de la fonction publique*, est réputé être un contributeur du groupe 1 visé au paragraphe 12(0.1) de cette loi à compter de la date publiée, l’employé réputé qui, selon le cas :
+
+- a) est tenu en vertu de l’article 5 de cette loi de contribuer à la date publiée et continue de l’être sans interruption depuis cette date;
+
+- b) continue d’être employé dans la fonction publique, au sens du paragraphe 3(1) de cette loi, sans interruption depuis la date publiée, n’est pas tenu en vertu de l’article 5 de cette loi de contribuer, à cette date, en application de l’alinéa 5(1)f) ou du paragraphe 5.1(1) de cette loi et le devient après cette date;
+
+- c) est tenu en vertu de l’article 5 de cette loi de contribuer à la date publiée, cesse de l’être après cette date, l’est à nouveau après celle-ci et continue d’être employé dans la fonction publique sans interruption depuis la cessation;
+
+- d) le jour avant celui où il cesse d’être employé dans la fonction publique, est un employé réputé qui est visé par l’un des alinéas a) à c), sauf si, selon le cas :
+  - (i) il a reçu un remboursement de contributions en vertu du paragraphe 12(3) de cette loi,
+  - (ii) le versement de la valeur de transfert a été effectué à son égard en application du paragraphe 13.01(2) de cette loi,
+  - (iii) un paiement a été effectué à un employeur admissible, à son égard, conformément au paragraphe 40.2(3) de cette loi.
+
+### — 2014, ch. 39, art. 389
+
+### 389 Période de service ouvrant droit à pension
+
+La période de service ouvrant droit à pension au titre de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada* au crédit d’un employé réputé à la date publiée est, à cette date, réputée être une période de service ouvrant droit à pension au titre de la *Loi sur la pension de la fonction publique*.
+
+### — 2014, ch. 39, art. 390
+
+### 390 Versements impayés
+
+(1) Lorsqu’un employé réputé s’est engagé, au titre de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, à payer par versements pour une fraction de la période visée à l’article 389 et que tous les versements n’ont pas eu lieu à la date publiée, les versements impayés doivent être versés à la Caisse de retraite de la fonction publique constituée en application du paragraphe 44.2(1) de la *Loi sur la pension de la fonction publique*, aux mêmes conditions que celles qui s’appliquaient à ces versements avant la date publiée.
+
+**Versements : cessation d’emploi ou décès**
+
+(2) Lorsque l’employé réputé cesse d’être employé dans la fonction publique — ou décède — avant que tous les versements aient eu lieu, les versements impayés peuvent être retenus en conformité avec la *Loi sur la pension de la fonction publique* sur les sommes qui lui sont dues — ou qui sont dues à son égard — par Sa Majesté du chef du Canada, y compris toute pension ou autre prestation qui lui est due — ou qui est due à son égard — en vertu de cette loi.
+
+### — 2014, ch. 39, art. 391
+
+### 391 Aucune annuité ou prestation
+
+Malgré le paragraphe 4(1) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, aucune annuité ou autre prestation spécifiée à la partie I ou III de cette loi ne doit être versée à un employé réputé ou relativement à cet employé à l’égard de la période de service ouvrant droit à pension visée à l’article 389.
+
+### — 2014, ch. 39, art. 392
+
+### 392 Traitement
+
+Pour l’application de la *Loi sur la pension de la fonction publique*, l’employé réputé est réputé avoir reçu comme traitement pendant la période de service ouvrant droit à pension visée à l’article 389 la solde, au sens du paragraphe 3(1) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada* dans sa version antérieure à l’entrée en vigueur du présent article, qui lui est applicable, déterminée au titre de cette loi.
+
+### — 2014, ch. 39, art. 393
+
+### 393 Période de service
+
+Pour l’application de la division 13(1)c)(ii)(C), des paragraphes 13(4) et 51(1) et (2) et de l’article 53 de la *Loi sur la pension de la fonction publique*, toute période de service de l’employé réputé en tant que membre de la Gendarmerie, au sens du paragraphe 3(1) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada* dans sa version antérieure à l’entrée en vigueur du présent article, est réputée être une période pendant laquelle cet employé était employé dans la fonction publique.
+
+### — 2014, ch. 39, art. 394
+
+### 394 Service à temps partiel
+
+Pour l’application de la *Loi sur la pension de la fonction publique*, toute période de service à temps partiel de l’employé réputé en tant que membre de la Gendarmerie, au sens du paragraphe 3(1) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada* dans sa version antérieure à l’entrée en vigueur du présent article, est réputée être une période pendant laquelle il était un employé à temps partiel travaillant à ce titre dans la fonction publique.
+
+### — 2014, ch. 39, art. 395
+
+### 395 Crédit : compte de pension de retraite
+
+Est imputée au compte de pension de retraite de la Gendarmerie royale du Canada, maintenu en vertu du paragraphe 4(2) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, et portée au crédit du compte de pension de retraite, maintenu en vertu du paragraphe 4(2) de la *Loi sur la pension de la fonction publique*, la somme, déterminée par le président du Conseil du Trésor, après consultation avec le ministre de la Sécurité publique et de la Protection civile, et fondée sur l’avis d’actuaires, qui est requise pour verser les prestations à payer à l’égard de toute partie de la période de service ouvrant droit à pension visée à l’article 389 qui a été portée au crédit de l’employé réputé avant le 1^er^ avril 2000.
+
+### — 2014, ch. 39, art. 396
+
+### 396 Choix visé au paragraphe 5.3(1) de la *Loi sur la pension de la fonction publique*
+
+Pour l’application de la *Loi sur la pension de la fonction publique*, toute période de service à l’égard de laquelle l’employé réputé a effectué le choix visé au paragraphe 6.1(1) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada* est réputée être une période de service à l’égard de laquelle il a effectué le choix visé au paragraphe 5.3(1) de la *Loi sur la pension de la fonction publique*.
+
+### — 2014, ch. 39, art. 397
+
+### 397 1999, ch. 34, par. 178(7); 2003, ch. 26, par. 45(3)
+
+(1) Les paragraphes 11(7) à (10) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada* sont abrogés.
+
+**2009, ch. 13, par. 5(1)**
+
+(2) Le paragraphe 11(11) de la même loi est remplacé par ce qui suit :
+
+**2009, ch. 13, par. 5(1)**
+
+(3) Le passage du paragraphe 11(11.1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**1999, ch. 34, par. 178(7)**
+
+(4) Le paragraphe 11(12) de la même loi est abrogé.
+
+### — 2014, ch. 39, art. 398
+
+### 398 2003, ch. 26, par. 62(2)
+
+(1) L’alinéa 26.1(1)h.2) de la même loi est remplacé par ce qui suit :
+
+**1999, ch. 34, par. 194(3)**
+
+(2) L’alinéa 26.1(1)h.6) de la même loi est abrogé.
+
+### — 2014, ch. 39, art. 399
+
+### 399 1992, ch. 46, art. 80
+
+L’alinéa c) de la définition de **prestataire**, à l’article 35 de la même loi, est abrogé.
+
+### — 2014, ch. 39, art. 400
+
+### 400 Membre ne détenant pas de grade
+
+La *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, dans sa version antérieure à la date d’entrée en vigueur du présent article, continue de s’appliquer à toute personne visée au paragraphe 66(4) de la *Loi sur le Service canadien du renseignement de sécurité* dans sa version au 28 juin 1984, ainsi qu’au membre de la Gendarmerie, au sens du paragraphe 3(1) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, n’y détenant pas un grade et ayant cessé d’en être un membre avant la date publiée.
+
+### — 2024, ch. 25, art. 112
+
+### 112 Mention — version anglaise
+
+Sauf indication contraire du contexte, dans la version anglaise de toute loi fédérale et de tout texte d’application, « Force » est remplacé par « RCMP ».

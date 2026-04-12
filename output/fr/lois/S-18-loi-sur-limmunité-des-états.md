@@ -1,0 +1,468 @@
+---
+title: "Loi sur l’immunité des États"
+long_title: "Loi portant sur l’immunité des États étrangers devant les tribunaux"
+chapter: "S-18"
+language: "en"
+type: "act"
+---
+
+# Loi sur l’immunité des États
+
+> Loi portant sur l’immunité des États étrangers devant les tribunaux
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur l’immunité des États*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, ch. 95, art. 1
+
+</details>
+
+## Définitions et interprétation
+
+### 2 Définitions
+
+Les définitions qui suivent s’appliquent à la présente loi.
+
+**activité commerciale** Toute poursuite normale d’une activité ainsi que tout acte isolé qui revêtent un caractère commercial de par leur nature. (**commercial activity**)
+
+**activité terroriste** S’entend au sens du paragraphe 83.01(1) du *Code criminel* dans les cas où l’acte ou l’omission en cause est commis, le 1er janvier 1985 ou après cette date, par un État étranger inscrit sur la liste visée au paragraphe 6.1(2). (**terrorist activity**)
+
+**État étranger** Sont assimilés à un État étranger :
+  - a) le chef ou souverain de cet État ou d’une subdivision politique de celui-ci, dans l’exercice de ses fonctions officielles;
+  - b) le gouvernement et les ministères de cet État ou de ses subdivisions politiques, ainsi que les organismes de cet État;
+  - c) les subdivisions politiques de cet État. (**foreign state**)
+
+**organisme d’un État étranger** Toute entité juridique distincte qui constitue un organe de l’État étranger. (**agency of a foreign state**)
+
+**subdivision politique** Toute province, tout état ou toute autre subdivision politique similaire d’un État étranger à régime fédéral. (**political subdivision**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 2; 2012, ch. 1, art. 3.1
+
+</details>
+
+### 2.1 Soutien du terrorisme — sens
+
+Pour l’application de la présente loi, un État étranger soutient le terrorisme s’il commet, au profit ou au regard de toute entité inscrite au sens du paragraphe 83.01(1) du *Code criminel*, tout acte ou omission qui est sanctionné par l’un des articles 83.02 à 83.04 et 83.18 à 83.23 de cette loi ou le serait s’il avait été commis au Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 1, art. 4
+
+</details>
+
+## Immunité de juridiction
+
+### 3 Immunité de juridiction
+
+(1) Sauf exceptions prévues dans la présente loi, l’État étranger bénéficie de l’immunité de juridiction devant tout tribunal au Canada.
+
+**Immunité reconnue d’office**
+
+(2) Le tribunal reconnaît d’office l’immunité visée au paragraphe (1) même si l’État étranger s’est abstenu d’agir dans l’instance.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, ch. 95, art. 3
+
+</details>
+
+### 4 Renonciation à l’immunité
+
+(1) L’État étranger qui se soumet à la juridiction du tribunal selon les modalités prévues aux paragraphes (2) ou (4), renonce à l’immunité de juridiction visée au paragraphe 3(1).
+
+**Soumission à la juridiction du tribunal**
+
+(2) Se soumet à la juridiction du tribunal l’État étranger qui :
+
+- a) le fait de manière expresse par écrit ou autrement, avant l’introduction de l’instance ou en cours d’instance;
+
+- b) introduit une instance devant le tribunal;
+
+- c) intervient ou fait un acte de procédure dans l’instance.
+
+**Exception**
+
+(3) L’alinéa (2)c) ne s’applique pas dans les cas où :
+
+- a) l’intervention ou l’acte de procédure a pour objet d’invoquer l’immunité de juridiction;
+
+- b) l’État étranger a agi dans l’instance sans connaître les faits qui lui donnaient droit à l’immunité de juridiction, ces faits n’ayant pu être suffisamment établis auparavant, et il a invoqué l’immunité aussitôt que possible après l’établissement des faits.
+
+**Demandes incidentes**
+
+(4) La soumission à la juridiction d’un tribunal qui s’opère soit par l’introduction d’une instance soit par l’intervention ou l’acte de procédure qui ne sont pas soustraits à l’application de l’alinéa (2)c), vaut pour les interventions de tiers et les demandes reconventionnelles découlant de l’objet de cette instance.
+
+**Appels**
+
+(5) La soumission à la juridiction d’un tribunal intervenue selon les modalités prévues aux paragraphes (2) ou (4) vaut également pour les tribunaux supérieurs devant lesquels l’instance pourra être portée en totalité ou en partie par voie d’appel ou d’exercice du pouvoir de contrôle.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, ch. 95, art. 4
+
+</details>
+
+### 5 Activité commerciale
+
+L’État étranger ne bénéficie pas de l’immunité de juridiction dans les actions qui portent sur ses activités commerciales.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, ch. 95, art. 5
+
+</details>
+
+### 6 Dommages
+
+L’État étranger ne bénéficie pas de l’immunité de juridiction dans les actions découlant :
+
+- a) des décès ou dommages corporels survenus au Canada;
+
+- b) des dommages aux biens ou perte de ceux-ci survenus au Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 6; 2001, ch. 4, art. 121
+
+</details>
+
+### 6.1 Soutien du terrorisme
+
+(1) L’État étranger inscrit sur la liste visée au paragraphe (2) ne bénéficie pas de l’immunité de juridiction dans les actions intentées contre lui pour avoir soutenu le terrorisme le 1^er^ janvier 1985 ou après cette date.
+
+**Liste d’États étrangers**
+
+(2) Le gouverneur en conseil peut, par décret, établir une liste sur laquelle il peut, dès lors et par la suite, inscrire tout État étranger s’il est convaincu, sur la recommandation du ministre des Affaires étrangères faite après consultation du ministre de la Sécurité publique et de la Protection civile, qu’il existe des motifs raisonnables de croire que cet État soutient ou a soutenu le terrorisme.
+
+**Établissement de la liste**
+
+(3) La liste doit être établie dans les six mois suivant la date d’entrée en vigueur du présent article.
+
+**Demande de radiation**
+
+(4) Le ministre des Affaires étrangères, saisi d’une demande écrite présentée par un État étranger, décide, après consultation du ministre de la Sécurité publique et de la Protection civile, s’il existe des motifs raisonnables de recommander ou non au gouverneur en conseil de radier cet État de la liste.
+
+**Avis de la décision au demandeur**
+
+(5) Il donne sans délai au demandeur un avis de la décision qu’il a rendue relativement à la demande.
+
+**Nouvelle demande de radiation**
+
+(6) L’État étranger ne peut présenter une nouvelle demande de radiation en vertu du paragraphe (4) que si sa situation a évolué d’une manière importante depuis la présentation de sa dernière demande ou que si le ministre a terminé l’examen mentionné au paragraphe (7).
+
+**Examen périodique de la liste**
+
+(7) Deux ans après l’établissement de la liste et tous les deux ans par la suite, le ministre des Affaires étrangères :
+
+- a) examine celle-ci, après consultation du ministre de la Sécurité publique et de la Protection civile, pour savoir si les motifs visés au paragraphe (2) justifiant l’inscription d’un État étranger sur la liste existent toujours et recommande au gouverneur en conseil de radier ou non cet État de la liste;
+
+- b) examine la liste, après consultation de ce ministre, pour savoir s’il existe des motifs, visés au paragraphe (2), justifiant l’inscription sur cette liste d’un État étranger non encore inscrit sur celle-ci et recommande au gouverneur en conseil d’inscrire ou non cet État sur la liste.
+
+**Effet de l’examen**
+
+(8) L’examen est sans effet sur la validité de la liste.
+
+**Fin de l’examen**
+
+(9) Le ministre termine son examen dans les meilleurs délais mais au plus tard cent vingt jours après l’avoir commencé. Une fois l’examen terminé, il fait publier sans délai un avis à cet effet dans la *Gazette du Canada*.
+
+**Effet de la radiation sur les actions en justice**
+
+(10) La radiation de l’État étranger de la liste après que des actions ont été intentées contre lui pour avoir soutenu le terrorisme n’a pas pour effet de restaurer l’immunité de juridiction de celui-ci dans ces actions ou dans tout appel ou procédure d’exécution connexe.
+
+**Activité terroriste**
+
+(11) L’État étranger inscrit sur la liste visée au paragraphe (2) à l’égard duquel un tribunal compétent a conclu qu’il avait soutenu le terrorisme ne bénéficie pas de l’immunité de juridiction dans les actions intentées contre lui relativement à une activité terroriste à laquelle il s’est livré.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 1, art. 5
+
+</details>
+
+### 7 Droit maritime
+
+(1) L’État étranger ne bénéficie pas, pour tout navire dont il est le propriétaire ou l’exploitant et qui était utilisé ou destiné à être utilisé dans le cadre d’une activité commerciale au moment de la naissance du droit d’action ou de l’introduction de l’instance, de l’immunité de juridiction dans les actions suivantes :
+
+- a) actions réelles contre le navire;
+
+- b) actions personnelles visant à faire valoir un droit se rattachant au navire.
+
+**Cargaisons**
+
+(2) L’État étranger ne bénéficie pas de l’immunité de juridiction dans les actions suivantes :
+
+- a) actions réelles contre une cargaison dont il est propriétaire et qui, au moment de la naissance du droit d’action ou de l’introduction de l’instance, était, ainsi que le navire qui la transportait, utilisée ou destinée à être utilisée dans le cadre d’une activité commerciale;
+
+- b) actions personnelles visant à faire valoir un droit se rattachant à cette cargaison, le navire qui la transportait étant, au moment de la naissance du droit d’action ou de l’introduction de l’instance, utilisé ou destiné à être utilisé dans le cadre d’une activité commerciale.
+
+**Idem**
+
+(3) Pour l’application des paragraphes (1) et (2), sont réputés appartenir à l’État étranger le navire ou la cargaison qui sont en sa possession, dont il est responsable ou sur lesquels il revendique un droit.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, ch. 95, art. 7
+
+</details>
+
+### 8 Biens situés au Canada
+
+L’État étranger ne bénéficie pas de l’immunité de juridiction dans les actions portant sur la reconnaissance de ses intérêts ou, dans la province de Québec, de ses droits sur des biens dépendant d’une succession ou d’une donation, ou vacants.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 8; 2004, ch. 25, art. 172
+
+</details>
+
+## Procédure et réparation
+
+### 9 Signification à l’État étranger
+
+(1) La signification d’un acte de procédure introductif d’instance à l’État étranger, à l’exclusion de ses organismes, se fait :
+
+- a) selon le mode agréé par l’État;
+
+- b) selon le mode prévu à une convention internationale à laquelle l’État est partie;
+
+- c) selon le mode prévu au paragraphe (2).
+
+**Idem**
+
+(2) La signification mentionnée à l’alinéa (1)c) peut se faire par remise personnelle ou par envoi recommandé d’une copie de l’acte introductif d’instance au sous-ministre des Affaires étrangères ou à la personne qu’il désigne; le sous-ministre ou cette personne transmet à son tour cette copie à l’État étranger.
+
+**Signification à l’organisme d’un État étranger**
+
+(3) La signification d’un acte introductif d’instance à un organisme d’un État étranger se fait :
+
+- a) selon le mode agréé par l’organisme;
+
+- b) selon le mode prévu à une convention internationale applicable à l’organisme;
+
+- c) selon les règles de procédure ou de pratique applicables.
+
+**Idem**
+
+(4) Dans les cas où la signification à un organisme d’un État étranger ne peut se faire conformément au paragraphe (3), le tribunal peut, par ordonnance, prescrire le mode de signification.
+
+**Date de signification**
+
+(5) La date de signification de l’acte introductif d’instance est, dans le cas prévu au paragraphe (2), celle de l’attestation au tribunal concerné, par le sous-ministre des Affaires étrangères ou la personne qu’il désigne en vertu du paragraphe (2), que l’acte a été transmis à l’État étranger.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 9; 1995, ch. 5, art. 27
+
+</details>
+
+### 10 Jugement par défaut
+
+(1) Dans les cas où l’État étranger, après que signification de l’acte introductif d’instance lui a été faite conformément aux paragraphes 9(1), (3) ou (4), ne fait pas, dans les délais fixés par les règles de procédure ou de pratique du tribunal ou par une autre règle de droit, le premier acte de procédure que doit faire un défendeur ou un intimé dans une action similaire, les actes de procédure menant au jugement ne peuvent être faits qu’à l’expiration d’au moins soixante jours suivant la date de signification.
+
+**Idem**
+
+(2) Une expédition du jugement rendu à la suite du défaut prévu au paragraphe (1) est signifiée :
+
+- a) selon le mode prescrit par le tribunal, si l’acte introductif d’instance a été signifié à l’organisme d’un État étranger;
+
+- b) sinon, selon le mode prévu à l’alinéa 9(1) c), comme si le jugement était un acte introductif d’instance.
+
+**Idem**
+
+(3) Dans les cas où il est nécessaire en raison du paragraphe (2) de signifier l’expédition d’un jugement selon le mode de signification prévu à l’alinéa 9(1) c), les paragraphes 9(2) et (5) s’appliquent, compte tenu des adaptations de circonstance.
+
+**Demande en rétractation ou annulation**
+
+(4) L’État étranger dispose de soixante jours suivant la date de signification de l’expédition du jugement prévue au paragraphe (2) pour produire une demande en rétractation ou annulation de jugement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 10; 2004, ch. 25, art. 173
+
+</details>
+
+### 11 Réparation sous réserve de consentement
+
+(1) Sous réserve du paragraphe (3), il ne peut être accordé de réparation par voie d’injonction, d’exécution en nature ou de récupération de biens fonciers ou autres contre un État étranger, sauf dans les cas et dans la mesure où celui-ci y a consenti par écrit.
+
+**Consentement exprès**
+
+(2) La soumission de l’État étranger à la juridiction du tribunal ne constitue pas le consentement prévu au paragraphe (1).
+
+**Exception**
+
+(3) Le présent article ne s’applique pas aux organismes d’un État étranger ni à un État étranger inscrit sur la liste visée au paragraphe 6.1(2) dans le cadre de toute action intentée contre lui pour avoir soutenu le terrorisme ou pour s’être livré à une activité terroriste.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 11; 2012, ch. 1, art. 6
+
+</details>
+
+### 12 Exécution des jugements
+
+(1) Sous réserve des paragraphes (2) et (3), les biens de l’État étranger situés au Canada sont insaisissables et ne peuvent, dans le cadre d’une action réelle, faire l’objet de saisie, rétention, mise sous séquestre ou confiscation, sauf dans les cas suivants :
+
+- a) l’État a renoncé, de façon expresse ou tacite, à son immunité relative à l’insaisissabilité et aux autres mesures mentionnées ci-dessus, toute révocation ultérieure de la renonciation ne pouvant être faite que suivant les termes de la renonciation qui l’autorisent;
+
+- b) les biens sont utilisés ou destinés à être utilisés soit dans le cadre d’une activité commerciale, soit par l’État pour soutenir le terrorisme ou pour se livrer à une activité terroriste si celui-ci est inscrit sur la liste visée au paragraphe 6.1(2);
+
+- c) l’exécution a trait à un jugement qui établit des droits sur des biens acquis par voie de succession ou de donation ou sur des immeubles situés au Canada;
+
+- d) la saisie ou l’exécution a trait à un bien autre qu’un bien ayant une valeur culturelle ou historique et à un jugement rendu dans le cadre d’une action intentée contre l’État pour avoir soutenu le terrorisme ou pour s’être livré à une activité terroriste, si celui-ci est inscrit sur la liste visée au paragraphe 6.1(2).
+
+**Biens des organismes des États étrangers**
+
+(2) Sous réserve du paragraphe (3), les biens des organismes des États étrangers sont saisissables et peuvent, dans le cadre d’une action réelle, faire l’objet de saisie, rétention, mise sous séquestre et confiscation en exécution du jugement d’un tribunal dans toute instance où les dispositions de la présente loi ne reconnaissent pas l’immunité de juridiction à ces organismes.
+
+**Biens militaires**
+
+(3) Sont insaisissables et ne peuvent, dans le cadre d’une action réelle, faire l’objet de saisie, rétention, mise sous séquestre et confiscation, les biens suivants de l’État étranger :
+
+- a) ceux qui sont utilisés ou destinés à être utilisés dans le cadre d’une activité militaire;
+
+- b) ceux qui sont de nature militaire ou placés sous la responsabilité d’une autorité militaire ou d’un organisme de défense.
+
+**Biens d’une banque centrale étrangère**
+
+(4) Sous réserve du paragraphe (5), sont insaisissables les biens qu’une banque centrale ou une autorité monétaire étrangères détiennent pour leur propre compte et qui ne sont pas utilisés ou destinés à être utilisés dans le cadre d’une activité commerciale.
+
+**Renonciation à l’insaisissabilité**
+
+(5) Les biens mentionnés au paragraphe (4) sont saisissables si la banque ou l’autorité, ou le gouvernement dont elles relèvent, ont expressément renoncé à l’insaisissabilité, toute révocation ultérieure de la renonciation ne pouvant être faite que suivant les termes de la renonciation qui l’autorisent.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 12; 2012, ch. 1, art. 7
+
+</details>
+
+### 12.1 Aide aux créanciers bénéficiaires du jugement
+
+(1) À la demande d’une partie ayant obtenu gain de cause à l’encontre d’un État étranger dans le cadre d’une action visée à l’article 6.1, le ministre des Finances ou le ministre des Affaires étrangères peut, dans le cadre de son mandat et dans la mesure du possible, aider le créancier bénéficiaire du jugement à identifier et localiser les biens ci-après, sauf si, de l’avis du ministre des Affaires étrangères, cela est préjudiciable aux intérêts du Canada sur le plan des relations internationales ou, de l’avis de l’un ou l’autre des ministres, cela est préjudiciable aux autres intérêts du Canada :
+
+- a) s’agissant du ministre des Finances, les actifs financiers de l’État étranger ressortissant à la compétence du Canada;
+
+- b) s’agissant du ministre des Affaires étrangères, les biens de l’État étranger situés au Canada.
+
+**Communication des renseignements**
+
+(2) Dans le cadre de l’exercice de ce pouvoir, le ministre ne peut communiquer aucun renseignement produit par ou pour une institution fédérale sans l’autorisation de celle-ci, ni aucun renseignement qui n’a pas été ainsi produit sans l’autorisation de la première institution fédérale à l’avoir reçu.
+
+**Définition de **institution fédérale****
+
+(3) Au paragraphe (2), **institution fédérale** s’entend des ministères, directions, bureaux, conseils, commissions, offices, services, personnes morales ou autres organismes dont un ministre est responsable devant le Parlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2012, ch. 1, art. 8
+
+</details>
+
+### 13 Défaut de produire
+
+(1) Le tribunal ne peut imposer aucune pénalité ni amende à un État étranger en raison de son abstention ou de son refus de produire des documents ou de fournir des renseignements au cours de l’instance.
+
+**Exception**
+
+(2) Le paragraphe (1) ne s’applique pas aux organismes d’un État étranger ni à un État étranger inscrit sur la liste visée au paragraphe 6.1(2) dans le cadre de toute action intentée contre lui pour avoir soutenu le terrorisme ou pour s’être livré à une activité terroriste.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 13; 2012, ch. 1, art. 9
+
+</details>
+
+## Dispositions générales
+
+### 14 Certificat du ministre des Affaires étrangères
+
+(1) Le certificat délivré par le ministre des Affaires étrangères ou en son nom par la personne qu’il autorise est admissible en preuve et fait foi pour toute question touchant :
+
+- a) la qualité d’État étranger, au sens de la présente loi, d’un pays donné;
+
+- b) la qualité de subdivision politique d’une région ou d’un territoire donnés d’un État étranger;
+
+- c) la ou les personnes à considérer comme chefs d’un État étranger ou d’une de ses subdivisions politiques, ou comme formant leur gouvernement.
+
+Il n’est pas nécessaire de prouver l’authenticité de la signature apposée sur ce certificat ni l’autorisation accordée au signataire.
+
+**Idem**
+
+(2) L’attestation délivrée par le sous-ministre des Affaires étrangères ou en son nom par la personne qu’il désigne en vertu du paragraphe 9(2) est admissible en preuve et fait foi de son contenu en ce qui a trait à la signification d’un acte introductif d’instance ou d’un autre acte à un État étranger, sans qu’il soit nécessaire de prouver la signature qui y est apposée ni l’autorisation accordée au signataire.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 14; 1995, ch. 5, art. 25 et 27
+
+</details>
+
+### 15 Restriction de l’immunité par décret
+
+Le gouverneur en conseil, sur recommandation du ministre des Affaires étrangères, peut, par décret, limiter l’immunité ou les privilèges prévus par la présente loi, s’il estime, pour un État donné, qu’ils dépassent ceux qui sont accordés par le droit de cet État.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 15; 1995, ch. 5, art. 25
+
+</details>
+
+### 16 Incompatibilité
+
+Les dispositions de la *Loi sur l’extradition*, de la *Loi sur les forces étrangères présentes au Canada* et de la *Loi sur les missions étrangères et les organisations internationales* l’emportent sur les dispositions incompatibles de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. S-18, art. 16; 1991, ch. 41, art. 13; 2000, ch. 24, art. 70
+
+</details>
+
+### 17 Application des règles de procédure ou de pratique des tribunaux
+
+La présente loi ne porte atteinte à l’application des règles de procédure ou de pratique des tribunaux, notamment celles qui sont relatives à la signification d’un acte hors de leur ressort, que dans la mesure exigée par la nécessité de lui donner effet.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, ch. 95, art. 16
+
+</details>
+
+### 18 Champ d’application
+
+La présente loi ne s’applique pas aux poursuites pénales ni à celles qui y sont assimilées.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1980-81-82-83, ch. 95, art. 17
+
+</details>

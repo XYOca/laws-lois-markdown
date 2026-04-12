@@ -1,0 +1,1170 @@
+---
+title: "Loi sur l’expropriation"
+long_title: "Loi concernant l’expropriation"
+chapter: "E-21"
+language: "en"
+type: "act"
+---
+
+# Loi sur l’expropriation
+
+> Loi concernant l’expropriation
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur l’expropriation*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 16(1^er^ suppl.), art. 1
+
+</details>
+
+## Définitions et interprétation
+
+### 2 Définitions
+
+(1) Les définitions qui suivent s’appliquent à la présente loi.
+
+**avis de confirmation** L’avis de confirmation visé à l’article 14. (**notice of confirmation**)
+
+**avis d’intention** L’avis d’intention visé à l’article 5. (**notice of intention**)
+
+**bien-fonds** S’entend notamment des fonds de terre, mines, bâtiments, structures, accessoires fixes ainsi que des objets qui sont immeubles au sens du droit civil du Québec. Sont également visés les minéraux, précieux ou communs, de surface, souterrains ou en surplomb, à l’exclusion, au Québec, des minéraux en surplomb.  (**land**)
+
+**Couronne** Sa Majesté du chef du Canada. (**Crown**)
+
+**droit exproprié**[Abrogée, 2011, ch. 21, art. 127]
+
+**droit ou intérêt exproprié** Droit, domaine ou intérêt totalement ou partiellement perdu du fait de l’enregistrement d’un avis de confirmation en vertu de la partie I.  (**expropriated interest or right**)
+
+**droit réel immobilier**[Abrogée, 2011, ch. 21, art. 127]
+
+**enregistrer** S’entend notamment du fait d’inscrire, de produire ou de déposer. (**register**)
+
+**exproprié** Pris par la Couronne en vertu de la partie I. (**expropriated**)
+
+**ministre**
+  - a) Relativement aux dispositions de la présente loi autres que celles de la partie II, le ministre des Travaux publics et des Services gouvernementaux ou, durant les périodes et relativement aux sujets auxquels les pouvoirs et fonctions du ministre en vertu de la présente loi s’étendent comme peut le spécifier tout acte de délégation de pouvoirs signé par lui et publié dans la *Gazette du Canada*, tout autre ministre visé à l’alinéa b) et qui est nommé dans cet acte;
+  - b) relativement à la partie II, un ministre qui dirige un ministère dont le nom figure à l’annexe I de la *Loi sur la gestion des finances publiques*. (**Minister**)
+
+**registrateur** Fonctionnaire auprès de qui les titres relatifs aux immeubles ou biens réels sont enregistrés. (**registrar**)
+
+**titulaire**[Abrogée, 2011, ch. 21, art. 127]
+
+**tribunal** La Cour fédérale. (**Court**)
+
+**Disposition interprétative**
+
+(2) Pour l’application de la présente loi :
+
+- a) l’intérêt foncier se rapporte au bien-fonds situé au Canada, mais ailleurs qu’au Québec;
+
+- b) le droit réel immobilier se rapporte au bien-fonds situé au Québec et, par assimilation, il comprend le droit de tout locataire de ce bien-fonds;
+
+- c) le détenteur est la personne qui a un droit, un domaine ou un intérêt sur un bien-fonds situé au Canada, mais ailleurs qu’au Québec;
+
+- d) le titulaire est la personne qui a un droit sur un bien-fonds situé au Québec, y compris, par assimilation, le locataire d’un tel bien-fonds.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 2; 1996, ch. 16, art. 60; 2011, ch. 21, art. 127
+
+</details>
+
+### 3 Envoi d’avis et autres documents
+
+(1) Pour l’application de la présente loi, lorsqu’un avis ou autre document, sous forme d’original ou de copie, est destiné à une personne autre que le ministre ou le procureur général du Canada :
+
+- a) on doit envoyer l’original ou la copie du document par courrier recommandé à cette personne à sa dernière adresse connue ou, si son adresse est inconnue, le faire publier dans au moins un numéro d’une publication ayant une circulation générale dans la région où se trouve le bien-fonds visé par le document, s’il existe une telle publication;
+
+- b) l’original ou la copie du document sont réputés avoir été envoyés à cette personne au moment où ils ont été postés ou publiés la première fois en conformité avec l’alinéa a).
+
+**Idem**
+
+(2) Lorsqu’un avis d’opposition ou autre document doit être signifié au ministre, ce document lui est signifié en le laissant à son bureau ou en l’y envoyant par courrier recommandé, mais dans ce dernier cas le document n’est pas réputé avoir été signifié tant qu’il n’a pas été reçu à ce bureau.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 16(1^er^ suppl.), art. 2
+
+</details>
+
+## Expropriation
+
+### Acquisition et délaissement de biens-fonds
+
+### 4 Pouvoir d’exproprier
+
+(1) La Couronne peut exproprier, en conformité avec les dispositions de la présente partie, tout droit réel immobilier ou intérêt foncier, y compris l’un des droits ou intérêts mentionnés aux articles 7 et 7.1, dont elle a besoin, de l’avis du ministre, pour un ouvrage public ou à une autre fin d’intérêt public.
+
+**Exception**
+
+(2) Les droits sur les **terres de catégorie IA-N**, au sens du paragraphe 2(1) de la *Loi sur les Naskapis et la Commission crie-naskapie*, ne peuvent faire l’objet d’une expropriation prévue à la présente partie sans le consentement du gouverneur en conseil.
+
+**Exception**
+
+(2.1) Les droits sur les **terres de catégorie IA**, au sens du paragraphe 2(2) de la *Loi sur l’accord concernant la gouvernance de la nation crie d’Eeyou Istchee*, ne peuvent faire l’objet d’une expropriation prévue à la présente partie sans le consentement du gouverneur en conseil.
+
+**Exception**
+
+(3) Les droits ou intérêts sur les **terres shishalhes**, au sens du paragraphe 2(1) de la *Loi sur l’autonomie gouvernementale de la Nation shishalhe*, ne peuvent faire l’objet d’une expropriation prévue à la présente partie sans le consentement du gouverneur en conseil.
+
+**Exception**
+
+(4) Les droits sur les terres désignées au sens de l’article 2 de la *Loi sur l’Office des droits de surface du Yukon* ne peuvent faire l’objet d’une expropriation prévue à la présente partie sans l’agrément du gouverneur en conseil.
+
+**Exception**
+
+(5) Les droits sur les terres gwich’in tetlit du Yukon ne peuvent faire l’objet d’une expropriation prévue à la présente partie sans l’agrément du gouverneur en conseil.
+
+**Avis d’intention**
+
+(6) L’expropriation de droits sur des terres visées aux paragraphes (4) ou (5) ne peut avoir lieu qu’une fois qu’un avis de l’intention de demander l’agrément du gouverneur en conseil a été donné, selon le cas, à la première nation touchée ou au Conseil tribal des Gwich’in, soit après la tenue d’une audience publique et la remise d’un rapport au ministre en conformité avec l’article 10, soit après l’expiration du délai de trente jours prévu à l’article 9.
+
+**Définition de **terre gwich’in tetlit du Yukon****
+
+(7) Au présent article, **terre gwich’in tetlit du Yukon** s’entend de toute terre visée à la sous-annexe B — avec ses modifications — de l’annexe C de l’Entente sur la revendication territoriale globale des Gwich’in, conclue entre Sa Majesté la Reine du chef du Canada et les Gwich’in, représentés par le Conseil tribal des Gwich’in, approuvée, mise en vigueur et déclarée valide par la *Loi sur le règlement de la revendication territoriale des Gwich’in*.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 4; L.R. (1985), ch. 20 (2^e^ suppl.), art. 2; 1994, ch. 43, art. 84; 2011, ch. 21, art. 128; 2018, ch. 4, art. 128
+- 2022, ch. 9, art. 41
+
+</details>
+
+### 4.1 Demande d’expropriation
+
+(1) La compagnie de chemin de fer — au sens de l’article 87 de la *Loi sur les transports au Canada* — présente au ministre des Transports une demande pour que le ministre fasse exproprier par la Couronne, conformément à la présente partie, le droit réel immobilier ou intérêt foncier dont elle a besoin pour un chemin de fer et qu’elle n’a pu acheter.
+
+**Pouvoir du ministre**
+
+(2) Avec l’agrément du gouverneur en conseil donné sur recommandation du ministre des Transports, lorsqu’il estime que la compagnie de chemin de fer a besoin du droit réel immobilier ou intérêt foncier pour un chemin de fer, le ministre fait exproprier par la Couronne ce droit ou intérêt en conformité avec la présente partie.
+
+**Présomption**
+
+(3) Si le ministre des Transports recommande l’expropriation, le ministre est censé être d’avis que la Couronne a besoin du droit réel immobilier ou intérêt foncier pour un ouvrage public ou à une autre fin d’intérêt public.
+
+**Fixation des frais**
+
+(4) Le ministre compétent aux fins de la partie I de la présente loi peut, par règlement, fixer le montant des frais payables pour l’expropriation et le taux d’intérêt applicable.
+
+**Frais**
+
+(5) Les frais constituent une créance de Sa Majesté du chef du Canada à la charge de la compagnie de chemin de fer et portent intérêt, au taux réglementaire, depuis la date où ils sont payables.
+
+**Garantie**
+
+(6) Le ministre peut exiger que la compagnie de chemin de fer fournisse une garantie, selon le montant et les autres modalités qu’il détermine, pour le paiement des frais payables en application du présent article.
+
+**Dévolution**
+
+(7) Pour l’application du présent article, la mention de la Couronne, à l’article 15, vaut mention de la compagnie de chemin de fer qui présente la demande visée au paragraphe (1).
+
+**Restriction**
+
+(8) La compagnie de chemin de fer qui a obtenu en vertu de l’article 15 un droit réel immobilier ou intérêt foncier qui était dévolu, avant l’expropriation, à la Couronne ne peut l’aliéner qu’au profit de celle-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1996, ch. 10, art. 228; 2011, ch. 21, art. 129
+
+</details>
+
+### 5 Avis d’intention d’exproprier
+
+(1) Chaque fois que, de l’avis du ministre, la Couronne a besoin d’un droit réel immobilier ou intérêt foncier pour un ouvrage public ou à une autre fin d’intérêt public, le ministre peut demander au procureur général du Canada d’enregistrer un avis d’intention d’exproprier ce droit ou intérêt, signé par le ministre, et qui, à la fois :
+
+- a) décrit le bien-fonds;
+
+- b) précise la nature du droit ou intérêt dont l’expropriation est proposée et détermine s’il sera assujetti à un droit réel immobilier ou intérêt foncier préexistant sur le bien-fonds;
+
+- c) indique l’ouvrage public ou l’autre fin d’intérêt public pour lesquels le droit ou intérêt est requis;
+
+- d) déclare que la Couronne a l’intention d’exproprier le droit ou intérêt.
+
+**Enregistrement d’un avis**
+
+(2) Lorsqu’il reçoit du ministre une demande d’enregistrement d’un avis d’intention mentionné au présent article, le procureur général du Canada fait enregistrer, au bureau du registrateur de la circonscription foncière, du comté, du district ou de la division d’enregistrement où se trouve le bien-fonds, cet avis ainsi qu’un plan du bien-fonds visé par l’avis, et, après avoir fait faire les enquêtes et recherches qu’il juge nécessaires ou souhaitables sur le titre du bien-fonds, il fournit au ministre un rapport indiquant les noms et dernières adresses connues, le cas échéant, des personnes qui paraissent y avoir un droit, un domaine ou un intérêt dans la mesure où il lui a été possible d’en connaître l’existence.
+
+**Précisions quant à la fin d’intérêt public — déclaration**
+
+(3) Lorsque le ministre estime que le droit ou intérêt visé par l’avis d’intention mentionné au présent article est requis par la Couronne à une fin visant la protection ou la sécurité du Canada ou d’un pays allié du Canada ou associé avec lui et qu’il ne serait pas dans l’intérêt public de donner plus de précisions, il suffit que l’avis contienne une déclaration portant que le droit ou intérêt est requis par la Couronne à cette fin pour qu’il soit conforme à l’alinéa (1)c) sans autres précisions.
+
+**Précisions quant à la fin d’intérêt public — renseignements supplémentaires**
+
+(4) Sous réserve du paragraphe (3), le ministre met à la disposition de toute personne qui en fait la demande, pour l’application des articles 9 et 10 et dans la mesure où il lui apparaît praticable et d’intérêt public de le faire, tous renseignements supplémentaires dont il dispose quant à l’ouvrage public ou l’autre fin d’intérêt public pour lesquels la Couronne a besoin du droit ou intérêt visé par l’avis enregistré en vertu du présent article.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 5; 2011, ch. 21, art. 130
+
+</details>
+
+### 6 Erreur ou omission dans l’avis ou le plan
+
+(1) Lorsqu’il y a, dans l’avis ou le plan enregistré en vertu de l’article 5, une omission, un exposé inexact ou une description erronée, un avis ou un plan corrigé avec effet rétroactif à la date d’enregistrement du premier avis ou plan peut être enregistré.
+
+**Validité de l’avis — nature du droit ou intérêt**
+
+(2) L’avis enregistré en vertu de l’article 5 n’est pas invalide du seul fait qu’il omet d’indiquer la nature du droit ou intérêt dont l’expropriation est proposée; en pareil cas, ce droit ou intérêt comprend l’ensemble des droits réels immobiliers ou intérêts fonciers sur le bien-fonds visé par l’avis.
+
+**Validité de l’avis — droit réel immobilier ou intérêt foncier préexistant**
+
+(3) L’avis enregistré en vertu de l’article 5 n’est pas invalide du seul fait qu’il ne détermine pas si le droit ou intérêt dont l’expropriation est proposée sera assujetti à un droit réel immobilier ou intérêt foncier préexistant sur le bien-fonds visé. En ce cas, le droit réel immobilier ou intérêt foncier à exproprier n’est pas assujetti à ce droit ou intérêt préexistant.
+
+**Biens-fonds provinciaux**
+
+(4) Lorsqu’il apparaît au procureur général du Canada qu’un bien-fonds ou un droit réel immobilier ou intérêt foncier visé par l’avis enregistré en vertu de l’article 5 appartient à Sa Majesté du chef d’une province, il fait, dès lors, notifier au procureur général de la province l’enregistrement et ses détails.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 6; 2011, ch. 21, art. 130
+
+</details>
+
+### 7 Nature des intérêts pouvant être indiqués dans l’avis : provinces autres que le Québec
+
+Au Canada mais ailleurs qu’au Québec, l’avis d’intention peut mentionner, pour indiquer la nature de l’intérêt dont l’expropriation est proposée, tout domaine ou intérêt foncier, notamment :
+
+- a) un intérêt assorti d’un terme ou d’une condition ou limité de toute autre façon;
+
+- b) une servitude, des profits à prendre ou tout autre service foncier;
+
+- c) tout droit relatif à un bien-fonds que pourrait conférer le propriétaire du bien-fonds, que ce droit soit ou non, s’il est conféré par le propriétaire, opposable à un tiers acquéreur du bien-fonds,
+
+- d) toute restriction visant l’usage du bien-fonds qui pourrait être établie par contrat ou autre accord, que cette restriction, si la charge en était assumée par le propriétaire du bien-fonds, soit ou non opposable à un tiers acquéreur du bien-fonds;
+
+- e) la possession exclusive du bien-fonds pour une durée fixée ou pour une période définie ou non, sous réserve, le cas échéant, des conditions ou limitations que peut spécifier l’avis.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 7; 2011, ch. 21, art. 130
+
+</details>
+
+### 7.1 Nature des droits pouvant être indiqués dans l’avis d’intention : Québec
+
+Au Québec, l’avis d’intention peut mentionner, pour indiquer la nature du droit dont l’expropriation est proposée, tout droit réel immobilier.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2011, ch. 21, art. 130
+
+</details>
+
+### 8 Envoi de copies et publication de l’avis
+
+(1) Lorsqu’un avis d’intention d’exproprier un droit réel immobilier ou intérêt foncier a été enregistré, le ministre :
+
+- a) fait publier une copie de l’avis dans au moins un numéro d’une publication ayant une circulation générale dans la région où se trouve le bien-fonds, s’il existe une telle publication, dans les trente jours qui suivent l’enregistrement de l’avis;
+
+- b) fait envoyer une copie de l’avis à chacune des personnes dont les noms sont indiqués dans le rapport du procureur général du Canada mentionné au paragraphe 5(2), aussitôt que possible après l’enregistrement de l’avis.
+
+Immédiatement après en avoir fait envoyer par courrier recommandé une copie à chacune des personnes mentionnées à l’alinéa b), le ministre fait publier cet avis dans la *Gazette du Canada*.
+
+**Quand l’avis est réputé être donné**
+
+(2) Un avis d’intention est réputé avoir été donné à la date à laquelle il est publié dans la *Gazette du Canada* en vertu du paragraphe (1), et lorsqu’il y a dans un avis ainsi publié une omission, un exposé inexact ou une description erronée un avis corrigé avec effet rétroactif à la date de publication du premier avis peut être publié dans la *Gazette du Canada*.
+
+**Énoncé relatif au droit de faire opposition**
+
+(3) Tout avis, sous forme d’original ou de copie, publié ou envoyé conformément au paragraphe (1) comporte un énoncé des dispositions de l’article 9 dans la mesure où cet article s’applique à l’expropriation envisagée du droit ou intérêt visé par l’avis.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 8; 2011, ch. 21, art. 131
+
+</details>
+
+### 9 Opposition
+
+Toute personne qui s’oppose à l’expropriation envisagée d’un droit réel immobilier ou intérêt foncier visé par l’avis d’intention peut, dans un délai de trente jours à compter du jour où l’avis est donné, signifier au ministre une opposition par écrit indiquant ses nom et adresse ainsi que la nature et les motifs de son opposition et son intérêt à s’opposer à l’expropriation envisagée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 9; 2011, ch. 21, art. 132
+
+</details>
+
+### 10 Audience publique
+
+(1) Immédiatement après l’expiration du délai de trente jours visé à l’article 9, le ministre ordonne, si une opposition lui a été signifiée en vertu de cet article, qu’une audience publique soit tenue au sujet de cette opposition et de toute autre opposition à l’expropriation envisagée qui lui a été ou peut lui être signifiée.
+
+**Nomination d’un enquêteur**
+
+(2) Lorsque le ministre ordonne qu’une audience publique soit tenue au sujet d’une ou plusieurs oppositions, il demande immédiatement au procureur général du Canada de nommer un enquêteur pour tenir cette audience et le procureur général du Canada doit, dès lors, nommer à titre d’enquêteur en l’occurrence une personne compétente qui n’est pas employée dans la fonction publique au sens du paragraphe 3(1) de la *Loi sur la pension de la fonction publique*.
+
+**Rémunération et indemnités**
+
+(3) L’enquêteur nommé en vertu du présent article reçoit la rémunération et les indemnités fixées par le procureur général du Canada avec l’approbation du Conseil du Trésor.
+
+**Fonctions de l’enquêteur**
+
+(4) L’enquêteur nommé en vertu du présent article :
+
+- a) fixe, dès que possible après sa nomination et en tout cas au plus tard sept jours à compter de la date de celle-ci, les date, heure et lieu convenables pour l’audience publique et fait donner avis de ces date, heure et lieu en le publiant dans au moins un numéro d’une publication ayant une circulation générale dans la région où se trouve le bien-fonds, s’il existe une telle publication, et en envoyant cet avis à chacune des personnes dont les noms sont indiqués dans le rapport du procureur général du Canada mentionné au paragraphe 5(2), et à toute autre personne qui a signifié une opposition au ministre;
+
+- b) donne, aux date, heure et lieu fixés pour l’audience publique, l’occasion de se faire entendre à chaque personne y comparaissant qui a signifié une opposition au ministre ou à celles de ces personnes qu’il estime nécessaire d’entendre de manière à faire rapport au ministre sur la nature et les motifs des oppositions;
+
+- c) inspecte le bien-fonds comme il le juge nécessaire et reçoit et examine toutes observations écrites qui lui sont soumises avant ou pendant l’audience par toute personne qui a signifié une opposition au ministre;
+
+- d) prépare et soumet au ministre, dans les trente jours après sa nomination, un rapport écrit sur la nature et les motifs des oppositions présentées.
+
+**Idem**
+
+(5) S’il lui apparaît qu’une opposition signifiée au ministre en vertu de l’article 9 est vexatoire ou peu sérieuse ou qu’elle n’est pas faite de bonne foi, l’enquêteur n’est pas tenu de donner d’avis, de tenir des audiences ni de prendre toute autre mesure requise par le paragraphe (4) en ce qui concerne cette opposition et peut toujours ne tenir aucun compte d’une telle opposition.
+
+**Conseiller juridique**
+
+(6) Toute personne qui, en vertu du présent article, peut être entendue à une audience publique, peut s’y faire représenter par un conseiller juridique.
+
+**Tenue de l’audience**
+
+(7) Une audience publique en vertu du présent article est tenue, sous réserve des dispositions contraires du présent article, de la manière que peut déterminer l’enquêteur.
+
+**Prolongation du délai pour faire rapport**
+
+(8) À la demande d’un enquêteur, le procureur général du Canada peut prolonger, d’une période ne dépassant pas trente jours, le délai énoncé par le présent article pour préparer et soumettre un rapport au ministre.
+
+**Frais pour soutenir les oppositions**
+
+(9) L’enquêteur fixe, dans tout rapport soumis par lui au ministre en vertu du présent article, le montant, s’il en est, qu’il estime raisonnable, ne dépassant pas le montant maximal qui peut être autorisé par un tarif de frais prescrit par le gouverneur en conseil pour l’application du présent article, en ce qui concerne les frais de toute personne qui a signifié une opposition au ministre et qu’elle a subis en soutenant une opposition; sujet à certification du ministre, le ministre des Finances fait verser à cette personne, sur le Trésor, le montant ainsi certifié de ces frais.
+
+**Omission de tenir une audience ou d’en faire rapport**
+
+(10) Lorsque, pour une raison quelconque, un enquêteur, nommé en vue de tenir une audience publique en vertu du présent article, omet de le faire ou omet de préparer et de soumettre au ministre un rapport comme il en est requis par le présent article, et dans le délai qui lui est imparti, le ministre notifie le fait au procureur général du Canada qui doit immédiatement nommer un autre enquêteur à cette fin.
+
+**Décret lorsque la possession par la Couronne est requise d’urgence**
+
+(11) Si le gouverneur en conseil est d’avis, avant l’enregistrement de l’avis d’intention, que la possession matérielle ou l’usage par la Couronne du bien-fonds dans les limites du droit ou intérêt dont l’expropriation est proposée sont, en raison de circonstances spéciales, requis d’urgence et que le fait d’ordonner la tenue d’une audience publique à ce sujet entraînerait un retard préjudiciable à l’intérêt public, il peut ordonner au ministre de ne pas donner l’ordre prévu au paragraphe (1) quant à l’expropriation envisagée; dans un tel cas, une déclaration à cet effet est incluse dans l’avis d’intention.
+
+**Exception**
+
+(12) Le paragraphe (11) ne s’applique pas aux biens-fonds visés aux paragraphes 4(4) ou (5), mais la première nation touchée ou le Conseil tribal des Gwich’in, selon le cas, peut renoncer à la tenue d’une audience publique. Si la renonciation est faite avant l’enregistrement d’un avis d’intention, une déclaration à cet effet est incluse dans celui-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 10; 1994, ch. 43, art. 85; 2003, ch. 22, art. 225(A); 2011, ch. 21, art. 133
+
+</details>
+
+### 11 Confirmation de l’intention ou renonciation
+
+(1) Si un avis d’intention a été donné, le ministre peut :
+
+- a) soit confirmer l’intention de la manière prévue à l’article 14 si :
+  - (i) aucune opposition ne lui est faite en vertu de l’article 9 dans le délai de trente jours mentionné dans cet article,
+  - (ii) une opposition lui a été faite en vertu de l’article 9 dans le délai de trente jours mentionné dans cet article, après avoir reçu et examiné le rapport d’un enquêteur nommé pour tenir une audience publique à ce sujet,
+  - (iii) la déclaration prévue au paragraphe 10(11) a été incluse dans l’avis d’intention, qu’une opposition lui ait été faite ou non en vertu de l’article 9;
+
+- b) soit renoncer à cette intention.
+
+**Idem**
+
+(2) Si, à l’expiration d’un délai de cent vingt jours après le jour où l’avis a été donné, le ministre n’a pas confirmé son intention de la manière prévue à l’article 14, il est réputé avoir renoncé à cette intention.
+
+**Lorsqu’un droit ou intérêt plus restreint est requis**
+
+(3) Chaque fois que, au moment de confirmer l’intention d’exproprier un droit réel immobilier ou intérêt foncier, le ministre est d’avis qu’un droit ou intérêt plus restreint est requis par la Couronne pour un ouvrage public ou une autre fin d’intérêt public, il peut confirmer son intention d’exproprier le droit ou intérêt plus restreint, auquel cas il est réputé avoir renoncé à l’intention d’exproprier ce qui reste des droits réels immobiliers ou de l’intérêt foncier.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 11; 2011, ch. 21, art. 134
+
+</details>
+
+### 12 Avis de renonciation
+
+(1) Lorsque le ministre a renoncé à l’intention d’exproprier un droit réel immobilier ou intérêt foncier autrement qu’en confirmant son intention d’exproprier un droit ou intérêt plus restreint afférent au bien-fonds, il fait immédiatement envoyer un avis de renonciation à cette intention :
+
+- a) à chacune des personnes qui paraissent avoir un droit, un domaine ou un intérêt sur le bien-fonds, dans la mesure où il a été possible au procureur général du Canada d’en connaître l’existence, et à toute autre personne qui a signifié une opposition au ministre en vertu de l’article 9;
+
+- b) au procureur général du Canada qui confirme immédiatement la renonciation en faisant enregistrer un tel avis au bureau du registrateur où l’avis d’intention a été enregistré.
+
+**Droit du titulaire ou du détenteur en cas de renonciation à une intention**
+
+(2) Lorsqu’il a été renoncé à l’intention d’exproprier un droit réel immobilier ou intérêt foncier, ou ce qui reste des droits ou de l’intérêt sur le bien-fonds, une indemnité conforme à la présente partie est payée par la Couronne à toute personne qui était titulaire ou détenteur du droit ou intérêt ou du reste des droits ou de l’intérêt au moment où l’avis d’intention a été enregistré.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 12; 2011, ch. 21, art. 135
+
+</details>
+
+### 13 Copie du rapport et des motifs fournie sur demande
+
+Si le ministre, après avoir reçu et examiné le rapport de l’enquêteur nommé pour tenir une audience publique relativement à une opposition signifiée en vertu de l’article 9, a confirmé, conformément à l’article 14, l’intention d’exproprier un droit réel immobilier ou intérêt foncier ou un droit ou intérêt plus restreint afférent au bien-fonds, il doit, à la demande écrite de la personne ayant signifié l’opposition, lui fournir une copie du rapport de l’enquêteur et, dans le cas où l’opposition n’a pas été retenue, un énoncé des motifs de son rejet.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 13; 2011, ch. 21, art. 135
+
+</details>
+
+### 14 Avis de confirmation d’intention
+
+(1) Le ministre peut confirmer l’intention d’exproprier le droit réel immobilier ou intérêt foncier visé par l’avis d’intention, ou un droit ou intérêt plus restreint afférent au bien-fonds, en demandant au procureur général du Canada d’enregistrer un avis de confirmation, signé par le ministre, contenant :
+
+- a) si le droit ou intérêt exproprié est le même que le droit ou intérêt visé par l’avis d’intention, une déclaration confirmant l’intention d’exproprier ce droit ou intérêt;
+
+- b) si le droit ou intérêt exproprié est un droit ou intérêt plus restreint que celui visé par l’avis d’intention, une déclaration confirmant l’intention d’exproprier le droit ou intérêt visé par l’avis d’intention, avec les réserves expressément spécifiées dans la déclaration.
+
+**Enregistrement de l’avis**
+
+(2) En recevant du ministre une demande d’enregistrer un avis de confirmation mentionné au présent article, le procureur général du Canada fait enregistrer cet avis au bureau du registrateur où l’avis d’intention a été enregistré, et si le bien-fonds visé par l’avis de confirmation est plus restreint en superficie que celui visé dans l’avis d’intention, il fait enregistrer avec l’avis de confirmation un plan révisé du bien-fonds visé par ce dernier avis.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 14; 2011, ch. 21, art. 136
+
+</details>
+
+### 15 Effet de l’enregistrement de l’avis
+
+Dès l’enregistrement d’un avis de confirmation :
+
+- a) le droit ou intérêt dont l’expropriation est confirmée devient absolument dévolu à la Couronne;
+
+- b) tout autre droit, domaine ou intérêt est perdu, à l’égard de la Couronne ou de toute personne agissant en son nom ou sous son autorité, dans la mesure où ce droit, ce domaine ou cet intérêt est incompatible avec le droit ou intérêt dont l’expropriation est confirmée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 15; 2011, ch. 21, art. 137
+
+</details>
+
+### 16 Des copies sont envoyées et une offre d’indemnité totale est faite
+
+(1) En cas d’enregistrement d’un avis de confirmation, le ministre :
+
+- a) immédiatement après l’enregistrement de l’avis, fait envoyer une copie de celui-ci à chacune des personnes qui paraissent avoir un droit, un domaine ou un intérêt sur le bien-fonds, dans la mesure où il a été possible au procureur général du Canada d’en connaître l’existence, et à toute autre personne qui a signifié une opposition au ministre en vertu de l’article 9;
+
+- b) dans les quatre-vingt-dix jours suivant l’enregistrement de l’avis ou si, avant l’expiration de ces quatre-vingt-dix jours, une demande a été faite en vertu de l’article 18, dans celui des deux délais suivants qui se termine le dernier :
+  - (i) soit les quatre-vingt-dix jours qui suivent l’enregistrement de l’avis,
+  - (ii) soit les trente jours qui suivent celui de la décision finale statuant sur la demande,
+  fait, par écrit, à toute personne qui a droit à une indemnité en vertu de la présente partie pour un droit ou intérêt exproprié visé par l’avis de confirmation, une offre d’indemnité d’un montant qu’il estime égal à l’indemnité à laquelle cette personne peut alors prétendre en vertu de la présente partie pour ce droit ou intérêt, sans nécessité pour elle de donner une décharge et sans préjudice du droit de cette personne, si elle accepte l’offre, de réclamer une indemnité supplémentaire à ce sujet.
+
+**Offre faite en retard**
+
+(2) Si le ministre n’est pas en mesure de faire une offre d’indemnité dans le délai prévu à l’alinéa (1)b) relativement à un droit ou intérêt exproprié, il fait l’offre aussitôt que possible après l’expiration de ce délai et en tout cas avant qu’une indemnité ne soit accordée par le tribunal en vertu de la présente partie relativement à ce droit ou intérêt; toutefois, dans ce cas, l’intérêt prévu au paragraphe 36(4) est payable, en plus de tous autres intérêts payables en vertu de l’article 36, à la personne qui peut prétendre à l’indemnité relativement à ce droit ou intérêt.
+
+**L’offre est fondée sur une évaluation écrite**
+
+(3) L’offre d’indemnité faite à une personne en vertu du présent article relativement à un droit ou intérêt exproprié est fondée sur une évaluation écrite de la valeur de ce droit ou intérêt et une copie de l’évaluation est envoyée à cette personne au moment où l’offre est faite.
+
+**Déclarations à inclure dans la copie de l’avis et dans l’offre**
+
+(4) Est inclus dans toute copie d’un avis de confirmation envoyée à une personne visée à l’alinéa (1)a) un exposé de la façon dont les dispositions de l’article 29 lui sont applicables, et est incluse dans toute offre transmise par écrit à une personne visée à l’alinéa (1)b) une déclaration portant que cette offre n’est pas subordonnée à l’obligation, pour cette personne, de donner une décharge et qu’elle est faite sans préjudice de son droit, si elle accepte l’offre, de réclamer une indemnité supplémentaire au sujet du droit ou intérêt exproprié.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 16; 2011, ch. 21, art. 137
+
+</details>
+
+### 17 Cas où l’offre est acceptée
+
+Lorsqu’une offre d’indemnité a été faite à une personne en vertu de l’article 16, le plein montant de l’offre est, dès l’acceptation de l’offre, payé à cette personne.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 16(1^er^ suppl.), art. 15
+
+</details>
+
+### 18 Décision relative au titre
+
+(1) Si le procureur général du Canada, après l’enregistrement d’un avis de confirmation, ne sait pas exactement quelles sont les personnes qui avaient un droit, un domaine ou un intérêt afférent au bien-fonds visé par l’avis ou quelle est la nature ou l’étendue de ceux-ci, il peut demander au tribunal de rendre une décision sur l’état du titre afférent au bien-fonds ou à une partie de celui-ci immédiatement avant l’enregistrement de l’avis, et de décider qui y avait alors un droit, un domaine ou un intérêt et quelle en était la nature et l’étendue.
+
+**Audition**
+
+(2) La demande prévue au présent article est en premier lieu faite ex parte et le tribunal fixe les date, heure et lieu de l’audition des personnes en cause et donne des instructions au sujet :
+
+- a) des personnes à qui l’avis de l’audition doit être signifié, du contenu de l’avis et du mode de signification;
+
+- b) des documents et renseignements que le procureur général du Canada ou toutes autres personnes doivent soumettre;
+
+- c) des autres questions que le tribunal estime nécessaires.
+
+**Décision**
+
+(3) Après l’audition, ou bien le tribunal décide, pour l’application de la présente partie, quelles personnes avaient un droit, un domaine ou un intérêt sur le bien-fonds visé par l’avis de confirmation immédiatement avant l’enregistrement de l’avis et quelle en était la nature et l’étendue, ou bien il ordonne qu’une ou plusieurs questions soient instruites afin de lui permettre de rendre une telle décision.
+
+**Effet de la décision**
+
+(4) Une décision rendue par le tribunal, pour l’application de la présente partie, est réputée être un jugement final du tribunal et, sous réserve, le cas échéant, de sa modification en appel, elle détermine d’une manière définitive, pour l’application de la présente partie, quelles personnes avaient un droit, un domaine ou un intérêt sur le bien-fonds visé par l’avis de confirmation immédiatement avant l’enregistrement de l’avis et quelle en était la nature et l’étendue.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 18; 2011, ch. 21, art. 138
+
+</details>
+
+### 19 Droit qu’a la Couronne de prendre matériellement possession
+
+(1) Malgré l’article 15, la Couronne n’a le droit de prendre matériellement possession et de faire usage du bien-fonds visé par l’avis de confirmation, dans la mesure du droit ou intérêt exproprié, qu’à celui des moments suivants qui est applicable :
+
+- a) au moment de l’enregistrement de l’avis de confirmation, si à ce moment-là aucune autre personne qui était titulaire ou détenteur d’un droit ou intérêt sur le bien-fonds immédiatement avant l’enregistrement de l’avis de confirmation n’occupe le bien-fonds;
+
+- b) le cas échéant, au moment postérieur à l’enregistrement de l’avis de confirmation où la possession matérielle ou l’usage du bien-fonds, dans la mesure du droit ou intérêt exproprié, est abandonné à la Couronne sans qu’un avis ait été envoyé en vertu de l’alinéa c) aux personnes indiquées dans cet alinéa;
+
+- c) dans tout autre cas, au moment postérieur à l’enregistrement de l’avis de confirmation où :
+  - (i) d’une part, le ministre a envoyé à chacune des personnes qui paraissent avoir eu, au moment de l’enregistrement de l’avis de confirmation, un droit, un domaine ou un intérêt sur le bien-fonds, dans la mesure où il a été possible au procureur général du Canada d’en connaître l’existence, ou, lorsqu’une demande a été faite en vertu de l’article 18 et qu’il en a été disposé définitivement, à chacune des personnes au sujet desquelles il a été décidé qu’elles avaient un droit, domaine ou intérêt sur ce bien-fonds immédiatement avant l’enregistrement de l’avis de confirmation, un avis portant que cette possession matérielle ou cet usage sont requis par la Couronne à compter de l’expiration de la période spécifiée dans l’avis et qui doit être d’au moins quatre-vingt-dix jours après l’envoi de l’avis à chacune de ces personnes, et, portant, ou bien que ce délai est expiré ou bien que cette possession matérielle ou cet usage ont été abandonnés à la Couronne avant l’expiration de ce délai,
+  - (ii) d’autre part, le ministre a fait, en vertu de l’article 16, une offre à chacune des personnes qui peuvent alors avoir droit à une indemnité en vertu de la présente partie en ce qui concerne un droit ou intérêt exproprié.
+
+**Lorsque la possession par la Couronne est requise d’urgence**
+
+(2) Si le gouverneur en conseil estime, avant ou après l’enregistrement d’un avis de confirmation, que la possession matérielle ou l’usage par la Couronne du bien-fonds visé par l’avis dans les limites du droit ou intérêt exproprié ou du droit ou intérêt dont l’expropriation est proposée sont, en raison de circonstances spéciales, requis d’urgence, il peut ordonner :
+
+- a) que soit substitué aux quatre-vingt-dix jours mentionnés à l’alinéa (1)c) le délai plus court qui lui semble justifié par les circonstances;
+
+- b) s’il a été fait, en vertu de l’article 18, une demande qui n’a pas fait l’objet d’une décision finale, que la Couronne puisse ainsi prendre matériellement possession ou faire usage du bien-fonds malgré le fait qu’aucune offre n’a alors été faite en vertu de l’article 16.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 19; 2011, ch. 21, art. 139
+
+</details>
+
+### 20 Intention de renoncer à une expropriation : droit de choisir entre l’acceptation ou le rejet de la renonciation
+
+(1) Si le ministre est d’avis, avant le paiement d’une indemnité pour un droit ou intérêt exproprié, que la Couronne n’a pas ou n’a plus besoin de ce droit ou intérêt pour un ouvrage public ou à une autre fin d’intérêt public ou qu’elle n’a besoin pour cela que d’un droit ou intérêt plus restreint, il peut donner avis qu’il a l’intention de renoncer au droit ou intérêt ou à ce qui reste des droits ou de l’intérêt, selon le cas, en faisant envoyer une copie de l’avis à chacune des personnes visées à l’alinéa 19(1)c); chacune de ces personnes peut, dans les trente jours suivant le jour où une copie de l’avis lui a été adressée, signifier au ministre un avis énonçant qu’elle choisit :
+
+- a) soit d’accepter la renonciation et de reprendre le droit ou intérêt ou ce qui reste des droits ou de l’intérêt, dans la mesure où la renonciation ferait en sorte qu’ils lui en fassent retour;
+
+- b) soit de rejeter la renonciation.
+
+**Acceptation de la renonciation**
+
+(2) Si chacune des personnes auxquelles un avis est envoyé en vertu du paragraphe (1) signifie au ministre avis qu’elle choisit d’accepter la renonciation, ce dernier peut faire envoyer un avis de renonciation au droit ou intérêt exproprié ou à ce qui reste des droits ou de l’intérêt, selon le cas, à chacune de ces personnes et au procureur général du Canada, qui dès lors confirme la renonciation en faisant enregistrer cet avis au bureau du registrateur où a été enregistré l’avis de confirmation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 20; 2011, ch. 21, art. 139
+
+</details>
+
+### 21 Effet de la confirmation d’une renonciation
+
+Lorsque la renonciation à un droit ou intérêt exproprié ou à ce qui reste des droits réels immobiliers ou de l’intérêt foncier est confirmée, le droit ou intérêt exproprié retourne dès lors aux personnes à qui il avait été enlevé ou à celles agissant en leur nom ou sous leur autorité, selon le cas, ou le bien-fonds retourne à ces personnes sous réserve du droit ou intérêt plus restreint sur ce bien-fonds que la Couronne a retenu sur celui-ci.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 21; 2011, ch. 21, art. 139
+
+</details>
+
+### 22 Fonctions du registrateur
+
+Chaque registrateur reçoit et conserve en permanence à son bureau les avis et plans que le procureur général du Canada fait enregistrer en vertu de la présente partie; il y inscrit le jour, l’heure et la minute de leur réception par lui comme étant ceux de leur enregistrement et fait dans ses registres les inscriptions nécessaires pour rendre public leur enregistrement.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 22; 2011, ch. 21, art. 140(A)
+
+</details>
+
+### 23 Avis péremptoirement opposable sauf à la Couronne
+
+Sauf si la Couronne le conteste :
+
+- a) un document paraissant signé par le ministre est réputé avoir été signé par lui;
+
+- b) il est considéré que, selon le cas :
+  - (i) tous les droits ou intérêts visés par l’avis d’intention sont,
+  - (ii) un droit ou intérêt plus restreint visé seulement par un avis de confirmation est,
+  - (iii) un droit ou intérêt auquel il a été renoncé par un avis de renonciation ou ce qui reste des droits ou de l’intérêt, selon le cas, n’est pas ou n’est plus,
+  selon le ministre, requis par la Couronne pour un ouvrage public ou à une autre fin d’intérêt public;
+
+- c) il est considéré que, lorsque le procureur général du Canada a fait enregistrer, au bureau du registrateur où un avis d’intention d’exproprier un droit réel immobilier ou intérêt foncier a été enregistré, un document paraissant être un avis de confirmation de l’intention d’exproprier ce droit ou intérêt ou un droit ou intérêt plus restreint sur le bien-fonds, ce document est un avis de confirmation de cette intention dès lors enregistré en conformité avec la présente partie.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 23; 2011, ch. 21, art. 141
+
+</details>
+
+### 24 Preuve de l’avis et de l’enregistrement
+
+Un document paraissant avoir été certifié par un registrateur comme étant une copie conforme d’un avis ou d’un plan enregistré selon la présente partie au moment indiqué dans le certificat fait preuve, sans qu’il soit nécessaire de faire la preuve de la qualité officielle ni de la signature du registrateur, des déclarations contenues dans le certificat et de l’enregistrement de l’avis ou du plan au moment ainsi indiqué.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 16(1^er^ suppl.), art. 22
+
+</details>
+
+### Indemnité
+
+### 25 Droit à l’indemnité
+
+(1) Une indemnité est payée par la Couronne à chaque personne qui, immédiatement avant l’enregistrement d’un avis de confirmation, était le titulaire ou détenteur d’un droit, d’un domaine ou d’un intérêt sur le bien-fonds visé par l’avis, jusqu’à concurrence de son droit ou intérêt exproprié; le montant de cette indemnité est égal à l’ensemble des sommes suivantes :
+
+- a) la valeur du droit ou intérêt exproprié à la date à laquelle la Couronne l’a pris;
+
+- b) le montant de la diminution de valeur de ce qui reste au titulaire ou détenteur, déterminé conformément à l’article 27.
+
+**Moment auquel la valeur est déterminée**
+
+(2) Pour l’application du présent article et des articles 26 et 27, le moment de la prise d’un droit ou intérêt exproprié est :
+
+- a) lorsqu’un choix a été fait en vertu du paragraphe (3) par le titulaire ou détenteur de ce droit ou intérêt, le moment spécifié par lui dans son choix;
+
+- b) dans tout autre cas, le moment où l’avis de confirmation a été enregistré.
+
+**Choix de faire déterminer la valeur du droit ou intérêt**
+
+(3) Lorsque la copie de l’avis de confirmation a été envoyée plus de quatre-vingt-dix jours après l’enregistrement de l’avis à une personne dont le nom est indiqué dans le rapport du procureur général du Canada mentionné au paragraphe 5(2) ou à une personne qui a signifié au ministre une opposition en vertu de l’article 9, cette personne peut, avant qu’une indemnité ne lui soit payée pour un droit ou intérêt exproprié dont elle était le titulaire ou détenteur immédiatement avant l’enregistrement de l’avis, choisir de faire déterminer la valeur de ce droit ou intérêt, et faire connaître son choix :
+
+- a) soit à la date où l’avis de confirmation a été enregistré;
+
+- b) soit à la date où la copie de l’avis de confirmation lui a été envoyée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 25; 2011, ch. 21, art. 142
+
+</details>
+
+### 26 Règles de la détermination de la valeur
+
+(1) Les règles qu’énonce le présent article s’appliquent à la détermination de la valeur d’un droit ou intérêt exproprié.
+
+**Valeur marchande**
+
+(2) Sous réserve des autres dispositions du présent article, la valeur d’un droit ou intérêt exproprié est la valeur marchande de ce droit ou intérêt, c’est-à-dire le montant qui aurait été payé pour celui-ci si, à la date à laquelle la Couronne l’a pris, il avait été vendu sur le marché libre par un vendeur consentant à un acheteur consentant.
+
+**Lorsque le titulaire ou détenteur est requis de renoncer à l’occupation**
+
+(3) Lorsque le titulaire ou détenteur d’un droit ou intérêt exproprié occupait le bien-fonds à la date d’enregistrement de l’avis de confirmation et, qu’à la suite de l’expropriation, il lui a fallu renoncer à l’occupation du bien-fonds, la valeur du droit ou intérêt exproprié est le plus élevé des deux montants suivants :
+
+- a) la valeur marchande de ce droit ou intérêt, déterminée conformément au paragraphe (2);
+
+- b) l’ensemble des sommes suivantes :
+  - (i) la valeur marchande de ce droit ou intérêt déterminée d’après l’usage qui en était fait à la date à laquelle la Couronne l’a pris, considéré comme s’il était le plus rémunérateur et le plus rationnel,
+  - (ii) les frais, dépenses et pertes attribuables ou connexes au trouble de jouissance éprouvé par le titulaire ou détenteur, y compris son déménagement dans d’autres lieux, mais s’il n’est pas possible de les évaluer ou de les déterminer en pratique, ils peuvent être remplacés par un pourcentage ne dépassant pas quinze pour cent de la valeur marchande déterminée conformément au sous-alinéa (i),
+  plus la valeur, pour le titulaire ou détenteur, de tout facteur représentant pour lui un avantage économique particulier attribuable ou connexe à son occupation du bien-fonds, dans la mesure où le présent alinéa ne prévoit pas par ailleurs l’inclusion de ce facteur dans la détermination de la valeur du droit ou intérêt exproprié.
+
+**Supplément**
+
+(4) Dans tout cas où la Couronne a pris matériellement possession du bien-fonds visé au paragraphe (3) ou en fait usage, à l’expiration d’un délai de préavis au titulaire ou détenteur qui est plus court que le préavis de quatre-vingt-dix jours mentionné à l’alinéa 19(1)c), il est ajouté à la valeur du droit ou intérêt exproprié déterminée en vertu du présent article un supplément égal à dix pour cent de cette valeur.
+
+**Bâtiment construit pour une fin spéciale**
+
+(5) Malgré le paragraphe (3), lorsque, sur le terrain visé par l’avis de confirmation, était construit un bâtiment ou une autre structure spécialement conçus pour servir aux fins d’un établissement scolaire, hospitalier ou municipal ou d’une institution religieuse ou charitable ou à des fins analogues, dont l’utilisation à ces fins par le titulaire ou détenteur est devenue pratiquement impossible à la suite de l’expropriation, la valeur du droit ou intérêt exproprié est, si ce droit ou intérêt était utilisé à ces fins et — n’eût été l’expropriation — aurait continué de l’être et si, à la date à laquelle la Couronne l’a pris, il n’y avait pas, en général, de demande ou de marché à ces fins pour ce droit ou intérêt, le plus élevé des deux montants suivants :
+
+- a) la valeur marchande de ce droit ou intérêt, déterminée conformément au paragraphe (2);
+
+- b) l’ensemble des sommes suivantes :
+  - (i) le coût du droit réel immobilier ou intérêt foncier susceptible de remplacer raisonnablement à ces fins le droit ou intérêt exproprié,
+  - (ii) les frais, les dépenses et les pertes attribuables ou connexes au déménagement et à l’installation dans d’autres lieux, mais s’il n’est pas possible de les évaluer ou de les déterminer en pratique, ils peuvent être remplacés par un pourcentage ne dépassant pas quinze pour cent du coût visé au sous-alinéa (i),
+  moins le montant de l’amélioration de la situation du titulaire ou détenteur qui a été obtenue ou qu’on peut raisonnablement prévoir du fait de sa réinstallation dans d’autres lieux.
+
+**Supplément**
+
+(6) Dans tout cas où la Couronne a pris matériellement possession du terrain visé au paragraphe (5) ou en a fait usage, à l’expiration d’un délai de préavis au titulaire ou détenteur qui est plus court que le préavis de quatre-vingt-dix jours mentionné à l’alinéa 19(1)c), il est ajouté à la valeur du droit ou intérêt exproprié déterminée conformément au présent article, un supplément égal à dix pour cent de cette valeur.
+
+**Facteurs supplémentaires**
+
+(7) Pour l’application des sous-alinéas (3)b)(ii) et (5)b)(ii), il doit être tenu compte du moment auquel et des circonstances dans lesquelles un titulaire ou détenteur a été autorisé à conserver l’occupation du bien-fonds après que la Couronne a acquis le droit d’en prendre matériellement possession ou d’en faire usage ainsi que de toute assistance fournie par le ministre pour permettre à ce titulaire ou détenteur de chercher et d’obtenir des lieux de remplacement.
+
+**Bien-fonds utilisé comme résidence**
+
+(8) Lorsqu’un droit ou intérêt exproprié était, immédiatement avant l’enregistrement d’un avis de confirmation, utilisé par son titulaire ou détenteur aux fins de sa résidence et que la valeur de ce droit ou intérêt déterminée conformément au présent article est inférieure au montant minimal suffisant pour permettre au titulaire ou détenteur de se réinstaller :
+
+- a) soit au moment où lui est fait le paiement d’une indemnité relative au droit ou intérêt autrement qu’en conformité avec une offre qui lui a été faite en vertu de l’article 16;
+
+- b) soit au moment où la Couronne a eu le droit de prendre matériellement possession ou de faire usage du bien-fonds dans les limites du droit ou intérêt exproprié,
+
+en prenant de ces deux dates celle qui est antérieure à l’autre, dans ou sur des lieux raisonnablement équivalant aux lieux expropriés, il est ajouté à la valeur du droit ou intérêt déterminée conformément au présent article l’excédent de ce montant minimal sur cette valeur.
+
+**Frais de déménagement et de réinstallation du locataire**
+
+(9) Lorsqu’un droit ou intérêt exproprié était, immédiatement avant l’enregistrement de l’avis de confirmation, celui d’un locataire, il doit être substitué au montant déterminé en vertu des sous-alinéas (3)b)(ii) ou (5)b)(ii), ou à l’excédent du montant minimal mentionné au paragraphe (8) sur la valeur du droit ou intérêt y mentionné et déterminée conformément au présent article, selon le cas, la partie de ce montant qui convient compte tenu :
+
+- a) de la durée du bail et de la période restant à courir au moment auquel se rapporte la détermination;
+
+- b) de tout droit ou de toute perspective raisonnable de renouvellement du bail qu’avait le locataire;
+
+- c) de tout investissement dans le bien-fonds par le locataire et de la nature de toute entreprise exercée par lui sur les lieux.
+
+**Bien-fonds assujetti à une sûreté**
+
+(10) Lorsqu’un droit ou intérêt exproprié était, immédiatement avant l’enregistrement d’un avis de confirmation, assujetti à un droit réel immobilier ou intérêt foncier qui n’était détenu par son titulaire ou détenteur qu’à titre de garantie, appelé au présent paragraphe une « sûreté » :
+
+- a) la valeur du droit ou intérêt exproprié est l’ensemble des sommes suivantes :
+  - (i) la valeur de ce droit ou intérêt, déterminée conformément au présent article comme s’il n’avait été assujetti à aucune sûreté,
+  - (ii) le montant de toute perte actuelle ou escomptée, pour le titulaire ou détenteur du droit ou intérêt exproprié, par suite d’une différence de taux d’intérêt durant le reste de la période pour laquelle un montant en principal payable en vertu des conditions de la garantie a été avancé, cette différence devant être calculée à partir d’un taux d’intérêt hypothétique ne dépassant pas le taux d’intérêt courant pour une garantie équivalente, dans la mesure où aucune autre disposition du présent article ne prévoit l’inclusion, dans la détermination de la valeur du droit ou intérêt exproprié, d’un montant à l’égard de cette perte,
+  moins la valeur de chaque sûreté à laquelle le droit ou intérêt exproprié était assujetti, déterminée comme le prévoit l’alinéa b) mais comme si aucun montant n’y était inclus en vertu du sous-alinéa (ii) de cet alinéa;
+
+- b) la valeur de la sûreté est l’ensemble des sommes suivantes :
+  - (i) le principal impayé suivant les conditions de la garantie et de tout intérêt exigible ou couru en vertu de celle-ci, à l’époque de l’enregistrement de l’avis de confirmation,
+  - (ii) le montant égal à trois fois l’élément d’intérêt, calculé comme montant mensuel, de tout paiement d’intérêt, ou de principal et d’intérêt payable aux termes de la garantie, au taux en vigueur aux termes de celle-ci immédiatement avant l’enregistrement de l’avis de confirmation;
+  lorsque le droit ou intérêt exproprié était assujetti à plus d’une sûreté, la valeur de chaque sûreté est déterminée selon son rang mais en aucun cas la valeur d’une sûreté à laquelle était assujetti un droit ou intérêt exproprié ne peut dépasser la valeur obtenue en soustrayant de la valeur du droit ou intérêt exproprié, déterminée conformément au présent article comme si ce droit ou intérêt n’avait été assujetti à aucune sûreté, la valeur de toutes les autres sûretés de rang antérieur dont le présent paragraphe requiert la détermination selon leur rang;
+
+- c) lorsque l’expropriation ne porte que sur un droit plus restreint ou une partie de l’intérêt assujettis à une sûreté, la valeur de la sûreté est la fraction de sa valeur totale, déterminée conformément au présent paragraphe comme si le droit moins restreint ou la totalité de l’intérêt assujettis à la sûreté avait été exproprié, que :
+  - (i) la valeur du droit plus restreint ou de la partie de l’intérêt, déterminée conformément au présent paragraphe comme si ceux-ci n’avaient été assujettis à aucune sûreté,
+  représente par rapport à :
+  - (ii) la valeur du droit moins restreint ou de la totalité de l’intérêt, déterminée conformément au présent paragraphe comme si ceux-ci n’avaient été assujettis à aucune sûreté,
+  moins la même fraction de l’élément d’intérêt de tout paiement, effectué aux termes de la garantie, entre le moment de l’enregistrement de l’avis de confirmation et le moment du paiement de toute indemnité pour la sûreté autrement qu’en conformité avec une offre faite à son titulaire ou détenteur en vertu de l’article 16.
+
+**Facteurs dont il ne faut pas tenir compte**
+
+(11) En déterminant la valeur d’un droit ou intérêt exproprié, il n’est tenu aucun compte :
+
+- a) de tout usage que la Couronne envisage de faire ou fait réellement du bien-fonds après l’expropriation;
+
+- b) de toute valeur établie ou prétendue établie par une opération ou un contrat comportant le louage ou la disposition du droit ou intérêt ou d’un droit plus restreint ou d’une partie de l’intérêt, ou par référence à ceux-ci, lorsque cette opération ou ce contrat a été passé après l’enregistrement de l’avis de l’intention d’exproprier;
+
+- c) de toute augmentation ou diminution de la valeur du droit ou intérêt résultant de la prévision d’une expropriation par la Couronne ou d’une connaissance ou prévision, avant l’expropriation, de l’ouvrage public ou de l’autre fin d’intérêt public pour lesquels le droit ou intérêt a été exproprié;
+
+- d) de toute augmentation de la valeur du droit ou intérêt résultant de son usage en contravention avec la loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 26; 2011, ch. 21, art. 142
+
+</details>
+
+### 27 Diminution de la valeur de ce qui reste au titulaire ou détenteur après séparation
+
+(1) Le montant de la diminution de valeur, le cas échéant, de ce qui reste au titulaire ou détenteur est le montant obtenu en retranchant de la valeur de tous les droits réels immobiliers ou intérêts fonciers qu’il avait immédiatement avant la prise du droit ou intérêt exproprié, calculée conformément à l’article 26, la somme obtenue en additionnant les sommes suivantes :
+
+- a) la valeur du droit ou intérêt exproprié;
+
+- b) la valeur de tout ce qui reste de ses droits réels immobiliers ou intérêts fonciers immédiatement après le moment de la prise du droit ou intérêt exproprié.
+
+**Facteurs à considérer dans la détermination de la valeur du reste des droits ou intérêts**
+
+(2) Pour l’application de l’alinéa (1)b), la valeur de ce qui reste des droits réels immobiliers ou intérêts fonciers du titulaire ou détenteur immédiatement après la prise du droit ou intérêt exproprié est déterminée conformément à l’article 26, sauf qu’il doit être tenu compte, dans la détermination de cette valeur, de tout accroissement ou de toute diminution de la valeur de ce qui reste des droits réels immobiliers ou intérêts fonciers détenus par le titulaire ou détenteur avec le droit ou intérêt exproprié immédiatement avant l’enregistrement de l’avis de confirmation, par suite de la construction ou de l’usage ou de la construction ou de l’usage prévus d’un ouvrage public sur le bien-fonds visé par l’avis ou de l’usage ou de l’usage prévu de ce bien-fonds à une fin d’intérêt public.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 27; 2011, ch. 21, art. 142
+
+</details>
+
+### 28 Autres éléments dont il doit être tenu compte
+
+(1) Il est tenu compte :
+
+- a) d’une renonciation ou d’une nouvelle dévolution, en vertu de la présente partie, en ce qui concerne un droit réel immobilier ou intérêt foncier ou ce qui reste des droits ou de l’intérêt;
+
+- b) d’un engagement, pris au nom de la Couronne par le ministre ou par une autre personne dans les limites de ses pouvoirs, d’apporter une modification, de construire un ouvrage, de concéder ou de transférer un autre bien-fonds ou un droit réel immobilier ou intérêt foncier y afférent,
+
+corrélativement avec toutes les autres circonstances de l’espèce, pour déterminer le montant à payer à toute personne réclamant une indemnité pour un droit ou intérêt exproprié.
+
+**Indemnité payable en cas de renonciation à l’intention d’exproprier**
+
+(2) En cas de renonciation à l’intention d’exproprier un droit réel immobilier ou intérêt foncier ou ce qui reste des droits ou de l’intérêt, l’indemnité payable par la Couronne à son titulaire ou détenteur est le montant de toute perte réelle subie par celui-ci après l’enregistrement de l’avis d’intention et avant la confirmation, soit de la renonciation à l’intention, soit de l’intention d’exproprier un droit ou intérêt plus restreint, selon le cas, du fait de l’enregistrement :
+
+- a) de l’avis d’intention, en cas de renonciation à l’intention d’exproprier le droit ou intérêt;
+
+- b) de l’avis d’intention dans la mesure où cet avis concerne ce qui reste des droits ou de l’intérêt en cas de renonciation à l’intention d’exproprier le reste.
+
+**Application des art. 31 et 32**
+
+(3) En ce qui concerne cette indemnité, les dispositions des articles 31 et 32 s’appliquent, compte tenu des adaptations de circonstance, comme si l’expression « l’enregistrement de l’avis de confirmation », à l’alinéa 31(1)a), était remplacée par l’expression « la confirmation de la renonciation à l’intention d’exproprier ».
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 28; 2011, ch. 21, art. 143
+
+</details>
+
+### 29 Les frais d’estimation, frais légaux et autres frais seront payés par la Couronne
+
+(1) La Couronne paie à chaque personne ayant droit à une indemnité en vertu de la présente partie un montant égal aux frais d’estimation, frais légaux et autres frais qui ont été raisonnablement encourus par cette personne pour faire valoir son droit à cette indemnité, sauf ceux de ces frais qui ont été encourus après l’institution de procédures en vertu des articles 31 et 32.
+
+**Taxation**
+
+(2) Les frais prévus au paragraphe (1) peuvent être taxés par le fonctionnaire responsable de la taxation des frais au tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 16(1^er^ suppl.), art. 27
+
+</details>
+
+### Paiement de l’indemnité
+
+### 30 Avis de négocier l’indemnité payable
+
+(1) Lorsque, après qu’une offre d’indemnité relativement à un droit ou intérêt exproprié a été faite en vertu de l’article 16 à une personne ayant droit à une indemnité, celle-ci et le ministre sont incapables de convenir du montant de l’indemnité à laquelle elle a alors droit, cette dernière peut signifier au ministre ou le ministre peut lui signifier, dans les soixante jours qui suivent l’offre, un avis de négocier l’indemnité à laquelle la personne a alors droit.
+
+**Poursuites interdites**
+
+(2) Lorsqu’un tel avis a été signifié, aucune procédure ne peut être instituée en vertu des articles 31 et 32 ou, si elle a été instituée, ne peut être poursuivie soit par la personne ayant droit à l’indemnité, soit par le procureur général du Canada, ou en leur nom, quant à l’expropriation, jusqu’à l’expiration d’un délai de soixante jours à compter de la signification de l’avis, à moins qu’avant l’expiration de ces soixante jours le conciliateur auquel la question a été renvoyée en vertu du paragraphe (4) n’ait fait un rapport au ministre énonçant qu’il lui a été impossible de parvenir à un règlement et n’ait envoyé une copie de son rapport à la personne ayant droit à l’indemnité.
+
+**Nomination des conciliateurs, leur rémunération, etc.**
+
+(3) Le gouverneur en conseil, sur la recommandation du procureur général du Canada, peut nommer une ou plusieurs personnes compétentes, qui ne sont pas des personnes employées dans la fonction publique, au sens du paragraphe 3(1) de la *Loi sur la pension de la fonction publique*, pour servir de conciliateurs pour l’application du présent article et peut fixer et autoriser le paiement de la rémunération et des indemnités devant être versées à ces personnes pour toute période pendant laquelle elles servent en cette qualité.
+
+**Renvoi au conciliateur**
+
+(4) Immédiatement après qu’un avis de négocier est signifié au ministre ou à la personne ayant droit à l’indemnité en conformité avec le présent article, le ministre renvoie l’affaire à un conciliateur nommé en vertu du paragraphe (3), qui doit, après avoir donné un préavis raisonnable à cette personne et au ministre, les rencontrer ou rencontrer leurs représentants autorisés, faire l’inspection du bien-fonds qu’il estime nécessaire, recevoir et examiner les estimations, évaluations ou autres preuves écrites ou orales qui lui sont soumises, sur lesquelles soit la personne, soit le ministre se fondent pour l’estimation du montant de l’indemnité à payer, que ces preuves soient admissibles ou non dans des procédures engagées devant un tribunal, et s’efforcer d’aboutir à un règlement de l’indemnité à payer.
+
+**Rapport du conciliateur**
+
+(5) Le conciliateur, dans les soixante jours suivant la signification de l’avis de négocier, fait rapport au ministre du succès ou de l’échec de la négociation et envoie alors une copie de son rapport à la personne ayant droit à l’indemnité.
+
+**Déclarations au cours d’une négociation**
+
+(6) Aucune preuve de tout ce qui s’est dit ou d’un aveu fait au cours d’une négociation en vertu du présent article n’est admissible dans des procédures engagées devant un tribunal pour le recouvrement ou la détermination de l’indemnité à payer à la personne y ayant droit.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 30; 2003, ch. 22, art. 225(A); 2011, ch. 21, art. 144
+
+</details>
+
+### 31 Procédure en vue de déterminer l’indemnité
+
+(1) Sous réserve de l’article 30 :
+
+- a) une personne qui a droit à une indemnité pour un droit ou intérêt exproprié peut :
+  - (i) après l’enregistrement de l’avis de confirmation, si elle n’a accepté aucune offre faite en vertu de l’article 16,
+  - (ii) dans un délai d’un an à compter de l’acceptation de l’offre, dans tout autre cas,
+  engager des procédures devant le tribunal par voie d’exposé de la demande pour le recouvrement du montant de l’indemnité à laquelle elle a alors droit;
+
+- b) le procureur général du Canada peut, après l’enregistrement de l’avis de confirmation, que des procédures en vertu de l’alinéa a) aient été engagées ou non, produire auprès du tribunal un avis sur la question indiquant :
+  - (i) les détails de l’expropriation concernant tout terrain visé par l’avis de confirmation,
+  - (ii) les noms, dans la mesure où ils sont connus, de chaque personne ayant droit à une indemnité pour un droit ou intérêt exproprié et les noms des personnes qui doivent être parties aux procédures,
+  - (iii) le montant de toute offre faite en vertu de l’article 16, à des personnes qui doivent être parties aux procédures,
+  - (iv) les autres faits qui semblent être pertinents.
+
+**Avis produit au tribunal**
+
+(2) Un avis produit au tribunal, en vertu du paragraphe (1), est réputé introduire une instance ou un procès mettant en cause les personnes qui y sont désignées comme parties aux procédures, en vue de la détermination finale de l’indemnité payable ou de la décision finale de toute autre question résultant de l’enregistrement de l’avis de confirmation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 31; 2011, ch. 21, art. 145
+
+</details>
+
+### 32 Exposé de la demande
+
+(1) Chaque personne désignée dans un avis produit au tribunal, en vertu du paragraphe 31(1), comme devant être partie aux procédures doit, dans une période de trente jours à compter de la date où l’avis lui est signifié ou dans le délai supplémentaire que le tribunal ou un de ses juges peut accorder soit avant soit après l’expiration de cette période, signifier au procureur général du Canada et produire au tribunal un exposé de la demande dans ces procédures.
+
+**Mémoire en défense**
+
+(2) Le procureur général du Canada doit, dans une période de trente jours à compter du jour où l’exposé lui a été signifié, ou si plusieurs exposés lui ont été signifiés, à compter du jour où le dernier de ces exposés lui a été signifié, ou dans le délai supplémentaire que le tribunal ou un de ses juges peut accorder soit avant soit après l’expiration de cette période, signifier à chacune des personnes en cause et produire au tribunal un mémoire en défense ou un mémoire en réponse en l’espèce.
+
+**Procédure**
+
+(3) Sous réserve des autres dispositions du présent article et de l’article 31, une instance ou un procès introduits ainsi que l’énonce le paragraphe 31(2) sont poursuivis conformément aux règles et ordonnances de pratique et de procédure devant le tribunal et comme si les procédures avaient été introduites par un exposé de la demande produit par une personne désignée dans un avis produit au tribunal selon le paragraphe 31(1) comme devant être partie aux procédures.
+
+**Lorsqu’une demande en vertu de l’art. 18 est en instance**
+
+(4) Lorsqu’une demande a été faite en vertu de l’article 18 et qu’au moment où des procédures suscitées par l’expropriation à laquelle se rapporte la demande ont été introduites par un exposé de la demande, ainsi que l’énonce l’alinéa 31(1)a), la demande n’a pas fait l’objet d’une décision finale, les procédures sont suspendues jusqu’à ce qu’une décision finale soit prise au sujet de la demande.
+
+**Jugement faisant obstacle à toute autre réclamation**
+
+(5) Qu’il soit rendu avec le consentement des parties, par défaut ou d’autre façon, un jugement rendu dans des procédures, en vertu du présent article ou de l’article 31, fait obstacle à toutes nouvelles réclamations des parties aux procédures et des personnes réclamant en leur nom ou sous leur autorité, y compris toute réclamation relative à un douaire ou à un douaire non encore ouvert ou relativement à quelque hypothèque ou autre droit, et le tribunal déclare le montant de l’indemnité payable et rend l’ordonnance qui peut être nécessaire pour la répartition, le paiement ou le placement des deniers de l’indemnité et pour la garantie des droits de tous les intéressés.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 32; 2011, ch. 21, art. 146
+
+</details>
+
+### 33 Nature de l’indemnité
+
+(1) Toute indemnité dont il a été convenu ou l’indemnité allouée par le tribunal en vertu de la présente partie pour un droit ou intérêt exproprié tient lieu du droit ou intérêt.
+
+**Effet du paiement dans le cas d’une sûreté**
+
+(2) Toute indemnité dont il a été convenu ou l’indemnité allouée par le tribunal en vertu de la présente partie pour une sûreté visée au paragraphe 26(10) est, en ce qui concerne les rapports entre le titulaire ou détenteur du droit ou intérêt assujetti à la sûreté et le titulaire ou détenteur de la sûreté, réputée libérer de toute obligation, aux termes de la garantie, le titulaire ou détenteur du droit ou intérêt assujetti à la sûreté, jusqu’à concurrence de l’indemnité ainsi convenue ou allouée et, lorsqu’un montant ou une fraction d’un montant indiqué au sous-alinéa 26(10)b)(ii) sont inclus dans cette indemnité, cette dernière est réputée le libérer intégralement de l’obligation de donner tout avis ou payer tout boni requis aux termes de la garantie en ce qui concerne le paiement par anticipation de la garantie par suite de l’expropriation.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 33; 2011, ch. 21, art. 147
+
+</details>
+
+### 34 La situation de la Couronne est celle d’un acheteur
+
+Lorsqu’une indemnité pour un droit ou intérêt exproprié a été payée à une personne dont le droit de réclamer une indemnité avait déjà été notifié à la Couronne au moment du paiement, aucune indemnité n’est payable à une autre personne, que le droit ou intérêt de cette autre personne provienne ou non de la personne à qui une indemnité a été payée, si, selon la loi de la province où le bien-fonds est situé, le droit ou intérêt objet de la réclamation d’indemnité de cette autre personne avait été nul ou non exécutoire contre la Couronne en cas d’achat par la Couronne du droit ou intérêt exproprié, au moment de l’enregistrement de l’avis d’intention.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 34; 2011, ch. 21, art. 147
+
+</details>
+
+### 35 Déduction et recouvrement de l’excédent d’indemnité
+
+Lorsqu’une indemnité a été payée à une personne pour un droit ou intérêt exproprié, en conformité avec une offre qui lui a été faite en vertu de l’article 16, le montant ainsi payé est déduit du montant de l’indemnité que le tribunal lui a allouée, en vertu de la présente partie, pour ce même droit ou intérêt et, lorsque le montant ainsi payé dépasse le montant ainsi alloué, l’excédent constitue une dette due à la Couronne et peut être recouvré par la Couronne devant tout tribunal compétent.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 35; 2011, ch. 21, art. 147
+
+</details>
+
+### 35.1 Exception
+
+(1) Malgré toute autre disposition de la présente loi, l’Office des droits de surface du Yukon est seul à connaître, en conformité avec la *Loi sur l’Office des droits de surface du Yukon*, de tout différend concernant l’indemnité payable par suite de l’expropriation de droits réels sur des biens-fonds visés aux paragraphes 4(4) ou (5).
+
+**Dispositions applicables**
+
+(2) Le paragraphe 16(2) et les articles 33, 35 et 36 s’appliquent, avec les adaptations nécessaires, à l’indemnité fixée par l’Office des droits de surface du Yukon, comme si celle-ci avait été fixée par le tribunal.
+
+<details>
+<summary>Historical Note</summary>
+
+- 1994, ch. 43, art. 86
+
+</details>
+
+### Intérêt
+
+### 36 Définitions
+
+(1) Les définitions qui suivent s’appliquent au présent article.
+
+**date de la possession** Le jour où la Couronne a obtenu le droit de prendre matériellement possession ou de faire usage du bien-fonds visé par l’avis de confirmation. (**date of possession**)
+
+**date de l’offre** Le jour où une offre a été acceptée. (**date of the offer**)
+
+**indemnité** Somme allouée par le tribunal, en vertu de la présente partie, pour un droit ou intérêt exproprié. (**compensation**)
+
+**offre** Offre faite en vertu de l’article 16. (**offer**)
+
+**taux de base** Taux, déterminé de la manière prescrite par un décret pris par le gouverneur en conseil pour l’application du présent article; il n’est pas inférieur au rendement moyen des bons du Trésor du gouvernement du Canada, déterminé de la manière prescrite par ce décret. (**basic rate**)
+
+**Intérêt payable par la Couronne**
+
+(2) Un intérêt est payable par la Couronne, au taux de base, sur l’indemnité, depuis la date de la possession jusqu’à la date du prononcé du jugement, sauf lorsqu’une offre a été acceptée.
+
+**Intérêt payable lorsqu’une offre a été acceptée**
+
+(3) Lorsqu’une offre a été acceptée, un intérêt est payable par la Couronne depuis la date de l’offre jusqu’à la date du prononcé du jugement :
+
+- a) au taux de base, sur le montant par lequel l’indemnité dépasse le montant de l’offre;
+
+- b) par surcroît, au taux de cinq pour cent l’an sur l’indemnité, si le montant de l’offre est inférieur à quatre-vingt-dix pour cent de l’indemnité.
+
+Lorsqu’une offre a été acceptée après la date de la possession, l’intérêt est payable sur l’indemnité, au taux de base, depuis la date de la possession jusqu’à la date de l’offre.
+
+**Intérêt supplémentaire lorsque l’offre est faite en retard**
+
+(4) Lorsqu’une offre n’est faite qu’après l’expiration de la période applicable qu’indique l’alinéa 16(1)b) pour faire une telle offre, un intérêt est payable par la Couronne sur l’indemnité, au taux de cinq pour cent l’an, en plus de tout intérêt payable en vertu des paragraphes (2) ou (3), depuis l’expiration de cette période jusqu’à la date où une offre est faite.
+
+**Discrétion du tribunal lorsqu’il y a retard**
+
+(5) Lorsque le tribunal est d’avis qu’un retard apporté à la détermination finale de l’indemnité est attribuable, en tout ou partie, à une personne qui a droit à cette indemnité, ou que cette personne a omis de transmettre la possession dans un délai raisonnable après une demande formelle, le tribunal peut refuser de lui allouer des intérêts pour tout ou partie d’une période pour laquelle elle aurait autrement eu droit à des intérêts, sauf que le tribunal ne peut refuser de les allouer du seul fait qu’une offre faite à cette personne n’a pas été acceptée.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 36; 2011, ch. 21, art. 148
+
+</details>
+
+### Entrée et possession
+
+### 37 Entrée en vue d’une inspection ou d’une évaluation
+
+(1) Lorsqu’un avis d’intention a été enregistré, toute personne qui y est autorisée par écrit par le ministre peut, à tout moment convenable, sur avis à une personne qui occupe le bien-fonds visé par l’avis, pénétrer sur les lieux afin d’y faire l’inspection que la présente partie l’autorise à faire, ou afin de faire une estimation de la valeur de ce bien-fonds ou d’un droit réel immobilier ou intérêt foncier y afférent.
+
+**Obstacle, etc. à l’entrée**
+
+(2) Commet une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque, sans excuse légitime, empêche une personne de faire une chose que celle-ci est autorisée à faire par le paragraphe (1), ou la gêne ou lui fait obstacle en l’occurrence.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 37; 2011, ch. 21, art. 149
+
+</details>
+
+### 38 Mandat de prise de possession
+
+(1) Lorsque le ministre ou la personne qui agit en son nom est empêché de pénétrer sur les lieux, ou de prendre matériellement possession ou de faire usage d’un bien-fonds, dans les limites de tout droit ou intérêt exproprié en vertu de la présente partie, tout juge du tribunal ou d’une cour supérieure d’une province peut, sur preuve de l’expropriation et, si nécessaire, sur preuve du droit de la Couronne d’en prendre matériellement possession ou d’en faire usage, et après avoir donné de la manière prescrite par le juge aux personnes que ce dernier désigne et qui sont parties aux procédures un avis les invitant à exposer leurs raisons, émettre son mandat, conforme à la formule énoncée à l’annexe de la présente loi, au shérif compétent lui enjoignant de mettre le ministre ou une personne autorisée à agir en son nom en possession matérielle du bien-fonds, dans les limites du droit ou intérêt exproprié.
+
+**Exécution du mandat**
+
+(2) Le shérif exécute immédiatement le mandat qui lui est émis en vertu du présent article et fait rapport au tribunal dont fait partie le juge qui l’a émis, sur l’exécution du mandat et la façon dont il a été exécuté.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 38; 2011, ch. 21, art. 150
+
+</details>
+
+### Frais
+
+### 39 Frais
+
+(1) Sous réserve du paragraphe (2), les frais des procédures devant le tribunal en vertu de la présente partie et les frais accessoires à ces procédures, sont laissés à la discrétion du tribunal ou, dans le cas de procédures devant un juge du tribunal ou un juge de la cour supérieure d’une province, à la discrétion de ce juge. Le tribunal ou le juge peuvent ordonner, qu’en tout ou partie, ces frais soient acquittés par la Couronne ou par une partie à ces procédures.
+
+**Frais payés par la Couronne**
+
+(2) Lorsque le montant de l’indemnité allouée en vertu de la présente partie à une partie à des procédures devant le tribunal en vertu des articles 31 et 32, pour un droit ou intérêt exproprié, ne dépasse pas le montant total de toute offre faite à cette partie en vertu de l’article 16 et de toute offre subséquente qui lui est faite pour ce droit ou intérêt avant le début de l’instruction des procédures, le tribunal ordonne, sauf s’il conclut que le montant de l’indemnité réclamée par cette partie dans les procédures était déraisonnable, que la totalité des frais des procédures et des frais accessoires supportés par cette partie soit payée par la Couronne, et lorsque le montant de l’indemnité ainsi allouée à cette partie dépasse ce montant total, le tribunal ordonne que la totalité des frais des procédures et des frais accessoires supportés par cette partie, y compris les frais extrajudiciaires que le tribunal détermine, soit payée à cette partie par la Couronne.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 39; 2011, ch. 21, art. 151
+
+</details>
+
+## Usage des biens-fonds
+
+### 40 Pouvoirs du ministre
+
+Un ministre, ou toute autre personne munie de son consentement écrit, peut, sur préavis de sept jours donné au propriétaire d’un bien-fonds :
+
+- a) pénétrer sur le terrain, l’arpenter et en prendre les niveaux, ainsi qu’effectuer les sondages, ou creuser les trous d’exploration, qu’il juge nécessaires à toute fin ayant rapport à un ouvrage public;
+
+- b) pénétrer sur le terrain et y déposer de la terre, des pierres, du gravier, des arbres, arbustes, billots, perches, du menu bois ou d’autres matériaux nécessaires pour un ouvrage public, ou en vue d’extraire et emporter de la terre, des pierres, du gravier ou autres matériaux, de même que d’abattre et emporter des arbres, arbustes, billots, perches, du menu bois ou d’autres matériaux en provenant, pour la construction, la réparation ou l’entretien d’un ouvrage public;
+
+- c) faire et utiliser tous les chemins temporaires d’accès au bois, à la pierre, à l’argile, au gravier ou aux carrières de sable ou de gravier, dont il a besoin pour relier commodément les lieux où se trouvent ces matériaux à un ouvrage public au cours de la construction, la réparation ou l’entretien de cet ouvrage;
+
+- d) pénétrer sur le terrain pour y faire les travaux de drainage convenables pour l’évacuation des eaux d’un ouvrage public, ou maintenir de tels travaux en bon état;
+
+- e) détourner, dévier ou modifier, temporairement ou définitivement, le cours d’une rivière ou un autre cours d’eau ou le tracé d’une voie ferrée, route, rue ou autre voie, ou en élever ou abaisser le niveau, afin de les faire passer au-dessus, au-dessous, au niveau ou à côté d’un ouvrage public selon qu’il l’estime nécessaire à toute fin ayant rapport à cet ouvrage;
+
+- f) aux fins d’un ouvrage public, modifier l’emplacement d’une conduite d’eau, de pétrole ou de gaz, d’un égout ou d’un drain, d’un fil, poteau ou pylône télégraphique, téléphonique ou électrique.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 16(1^er^ suppl.), art. 37
+
+</details>
+
+### 41 Enlèvement et remplacement d’un mur, d’une clôture, etc.
+
+Lorsque, au cours de la construction, de la réparation ou de l’entretien d’un ouvrage public, il est nécessaire de démolir ou d’enlever un mur ou une clôture d’un bien-fonds adjacent à un ouvrage public, ou de construire un drain ou de creuser un fossé pour l’écoulement des eaux, le mur ou la clôture doivent être rétablis dès la cessation de la nécessité qui en a occasionné la démolition ou l’enlèvement. Après que le mur ou la clôture ont été ainsi rétablis, ou quand le drain ou le fossé sont terminés, le propriétaire ou l’occupant du bien-fonds doit entretenir le mur, la clôture, le drain ou le fossé dans la mesure où il pourrait être astreint à le faire par la loi si le mur ou la clôture n’avaient jamais été démolis ni enlevés de la sorte, ou si le drain ou le fossé avaient toujours existé.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 16(1^er^ suppl.), art. 38
+
+</details>
+
+### 42 Emploi d’explosifs
+
+(1) Lorsque la Couronne a conclu avec une personne un contrat relatif à la construction ou à l’exécution d’un ouvrage public ou que, sur l’ordre du gouverneur en conseil ou d’un ministre agissant dans les limites de ses pouvoirs, un fonctionnaire, employé ou mandataire de la Couronne est chargé de la construction ou de l’exécution d’un ouvrage public, le gouverneur en conseil peut, si à son avis il est nécessaire ou opportun de procéder à des travaux d’excavation ou d’enlèvement de matériaux à l’aide d’explosifs, autoriser que les travaux soient faits de cette façon, même si les explosions peuvent endommager un bien-fonds ou d’autres biens ou être préjudiciables au fonctionnement d’une industrie ou à la poursuite de travaux, dans le voisinage de l’ouvrage public, ou si elles sont susceptibles de les affecter.
+
+**Avis et demande de reconsidération**
+
+(2) Un avis de l’autorisation de faire des travaux de la façon indiquée au paragraphe (1) est envoyé au moins sept jours d’avance au propriétaire d’un bien-fonds ou d’autres biens pouvant être affectés par ces travaux ou à toute personne qui exploite une industrie ou fait des travaux pouvant être ainsi affectés, et un tel propriétaire ou une telle personne peuvent, dans les sept jours qui suivent l’envoi de cet avis, s’adresser au gouverneur en conseil ou à toute personne désignée par lui en vue d’obtenir une reconsidération de l’autorisation.
+
+**Indemnité pour dommages**
+
+(3) Si la construction ou l’exécution d’un ouvrage public fait l’objet d’un contrat, le montant de l’indemnité payable par la Couronne est à la charge de l’entrepreneur, sauf dispositions contraires du contrat. Si l’entrepreneur ne l’acquitte pas immédiatement sur demande formelle, la Couronne peut le recouvrer sur l’argent versé à l’entrepreneur au titre du contrat ou le montant en question peut être déduit de toute somme d’argent, entre les mains de la Couronne, appartenant ou payable à l’entrepreneur.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 16(1^er^ suppl.), art. 39
+
+</details>
+
+### 43 La Couronne est tenue de verser une indemnité comme si elle n’agissait pas en vertu de pouvoirs conférés par une loi
+
+La Couronne verse, à chaque personne qui subit des pertes ou dommages réels du fait de l’exercice de pouvoirs prévus par la présente partie, une indemnité égale au montant des pertes ou dommages réels dont la Couronne serait responsable si le pouvoir n’avait pas été exercé en vertu d’une autorisation conférée par une loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. 16(1^er^ suppl.), art. 40
+
+</details>
+
+## Dispositions générales
+
+### 44 Nomination d’une personne qui agit pour les incapables
+
+(1) Si un fiduciaire, un tuteur, un curateur ou quelqu’un d’autre, représentant un incapable ou d’autres personnes, y compris des enfants à naître, ne peut pas ou ne veut pas agir pour leur compte, ou si une ou plusieurs de ces personnes, y compris des enfants à naître, ne sont pas ainsi représentées, le tribunal peut, après le préavis qu’il peut ordonner, nommer un fiduciaire, un tuteur, un curateur ou un autre représentant qui agira en leur nom pour l’application de la présente loi.
+
+**Protection des bénéficiaires**
+
+(2) En faisant une nomination prévue au paragraphe (1), le tribunal peut donner, quant à l’emploi, l’affectation ou le placement de toute indemnité payable en vertu de la présente loi, les ordres qu’il estime nécessaires pour la sauvegarde des intérêts de tous les réclamants en l’espèce.
+
+**Obligation créée par le contrat, etc.**
+
+(3) Tout contrat ou accord conclu, toute décharge ou quittance donnée, par une personne nommée en vertu du paragraphe (1), et tout acte de transfert exécuté aux termes de ce contrat ou de cet accord lient, à toutes fins, la personne par qui est conclu ce contrat ou cet accord ou par qui est donnée cette décharge ou quittance, et toutes personnes, y compris les enfants à naître, pour le compte desquelles ils sont conclus ou donnés.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, art. 44; 2011, ch. 21, art. 152
+
+</details>
+
+
+## ANNEXE
+
+(paragraphe 38(1))
+
+MandatRELATIVEMENT À LA*Loi sur l’expropriation*(Canada)Province de ou TerritoireET À L’AFFAIRE DE...AU :SHÉRIF de  ...Attendu :qu’on a empêché le ministre compétent pour l’application de la partie I de la *Loi sur l’expropriation* ou quelqu’un qui agit en son nom de prendre matériellement possession du bien-fonds dont la description figure ci-dessous, dans les limites de tout droit ou intérêt exproprié sur celui-ci en vertu de la loi;que la preuve requise par l’article 38 de la loi a été faite devant moi,les présentes vous enjoignent, au nom de Sa Majesté, de mettre immédiatement ce ministre ou la personne autorisée à agir en son nom en possession matérielle de ce bien-fonds dans les limites du droit ou intérêt exproprié sur ce bien-fonds, et de faire rapport sur l’exécution du présent mandat à (*nom du tribunal*) ainsi que sur la façon dont il a été exécuté.Fait sous mon seing, ce  ...  jour de  ...  20 ......Juge
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. E-21, ann.; 2011, ch. 21, art. 153
+
+</details>
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2002, ch. 7, art. 167 et 168
+
+### 167 1994, ch. 43, art. 84
+
+Le paragraphe 4(4) de la *Loi sur l’expropriation* est remplacé par ce qui suit :
+
+### — 2002, ch. 7, art. 167 et 168
+
+### 168 1994, ch. 43, art. 86
+
+L’article 35.1 de la même loi est remplacé par ce qui suit :

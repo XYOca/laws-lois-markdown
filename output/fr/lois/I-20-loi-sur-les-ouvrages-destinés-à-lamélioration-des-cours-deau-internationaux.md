@@ -1,0 +1,1130 @@
+---
+title: "Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux"
+long_title: "Loi concernant la construction, la mise en service et l’entretien d’ouvrages destinés à l’amélioration de cours d’eau internationaux"
+chapter: "I-20"
+language: "en"
+type: "act"
+---
+
+# Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux
+
+> Loi concernant la construction, la mise en service et l’entretien d’ouvrages destinés à l’amélioration de cours d’eau internationaux
+
+
+## Titre abrégé
+
+### 1 Titre abrégé
+
+*Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux*.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. I-22, art. 1
+
+</details>
+
+## Définitions
+
+### 2 Définitions
+
+Les définitions qui suivent s’appliquent à la présente loi.
+
+**cours d’eau international** Eaux qui coulent d’un endroit du Canada à un endroit situé hors du Canada. (**international river**)
+
+**eaux limitrophes** S’entend au sens de l’article préliminaire du traité relatif aux eaux limitrophes et aux questions survenant le long de la frontière entre le Canada et les États-Unis, signé à Washington le 11 janvier 1909 et reproduit à l’annexe 1 de la *Loi du traité des eaux limitrophes internationales*. (**boundary waters**)
+
+**eaux transfrontalières** S’entend au sens de l’article 10 de la *Loi du traité des eaux limitrophes internationales*. (**transboundary waters**)
+
+**ministre** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (**Minister**)
+
+**ouvrage destiné à l’amélioration d’un cours d’eau international** Barrage, obstacle, canal, bassin de retenue, pipeline ou autre ouvrage dont l’objet ou l’effet consiste :
+  - a) d’une part, à augmenter, diminuer ou changer le débit naturel du cours d’eau international;
+  - b) d’autre part, à déranger, modifier ou influencer l’utilisation effective ou virtuelle du cours d’eau international hors du Canada. (**international river improvement**)
+
+**réviseur-chef** Réviseur nommé à titre de réviseur-chef en vertu du paragraphe 244(1) de la *Loi canadienne sur la protection de l’environnement (1999)* ainsi que tout réviseur désigné en application du paragraphe 244(3) de cette loi pour exercer les fonctions de réviseur-chef.  (**Chief Review Officer**)
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. I-20, art. 2; 2009, ch. 14, art. 89; 2013, ch. 12, art. 13
+
+</details>
+
+## Règlements
+
+### 3 Règlements
+
+Aux fins de l’aménagement et de l’utilisation des ressources en eau du Canada dans l’intérêt national, le gouverneur en conseil peut prendre des règlements :
+
+- a) concernant la construction, la mise en service et l’entretien d’ouvrages destinés à l’amélioration de cours d’eau internationaux;
+
+- b) concernant la délivrance, l’annulation et la suspension de permis pour la construction, la mise en service et l’entretien d’ouvrages destinés à l’amélioration de cours d’eau internationaux;
+
+- c) prescrivant des droits applicables aux permis délivrés en vertu de la présente loi;
+
+- d) régissant l’exemption d’ouvrages destinés à l’amélioration d’un cours d’eau international de l’application de la présente loi;
+
+- e) permettant la conduite d’inspections sous le régime de la présente loi à l’égard de tout ouvrage exempté en application des règlements pris en vertu de l’alinéa d) et indiquant l’objet de telles inspections;
+
+- f) désignant les dispositions des règlements pour l’application de l’alinéa 33(1)b).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. I-20, art. 3; 2009, ch. 14, art. 90
+
+</details>
+
+## Permis
+
+### 4 Permis requis
+
+Nul ne peut construire, mettre en service ou entretenir des ouvrages destinés à l’amélioration d’un cours d’eau international, sauf en conformité avec un permis délivré sous le régime de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. I-20, art. 4; 2009, ch. 14, art. 91
+
+</details>
+
+### 4.1 Objet
+
+(1) Le présent article a pour objet la prévention des risques de dommages environnementaux qui découlent des pertes d’eau permanentes dans les écosystèmes canadiens.
+
+**Interdiction**
+
+(2) Il ne peut être délivré de permis pour la construction, la mise en service ou l’entretien d’ouvrages destinés à l’amélioration d’un cours d’eau international si l’ouvrage relie à ce cours d’eau des eaux qui ne sont ni des eaux limitrophes ni des eaux transfrontalières et a pour objet ou pour effet d’augmenter le débit annuel de celui-ci à la frontière internationale.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2013, ch. 12, art. 14
+
+</details>
+
+### 5
+
+[Abrogé, 2009, ch. 14, art. 91]
+
+### 6
+
+[Abrogé, 2009, ch. 14, art. 91]
+
+## Dispositions générales
+
+### 7 Exception
+
+(1) La présente loi ne s’applique pas à l’égard d’un ouvrage destiné à l’amélioration d’un cours d’eau international, lorsque l’ouvrage est, selon le cas :
+
+- a) construit sous le régime d’une loi fédérale;
+
+- b) situé dans les eaux limitrophes;
+
+- c) construit, mis en service ou entretenu uniquement à des fins domestiques, à des fins sanitaires ou à des fins d’irrigation, ou à d’autres fins de consommation semblables.
+
+**Inspection autorisée**
+
+(2) Malgré le paragraphe (1), une inspection peut être effectuée à l’égard de tout ouvrage visé à l’alinéa (1)c) pour vérifier s’il est construit ou s’il continue à être mis en service ou entretenu uniquement à des fins domestiques, à des fins sanitaires ou à des fins d’irrigation, ou à d’autres fins de consommation semblables.
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. I-20, art. 7; 2009, ch. 14, art. 92; 2017, ch. 26, art. 15
+
+</details>
+
+### 8 Obligation de Sa Majesté
+
+La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. I-22, art. 8
+
+</details>
+
+### 9 Quand la législation provinciale doit s’appliquer
+
+Nonobstant les autres dispositions de la présente loi, un ouvrage destiné à l’amélioration d’un cours d’eau international est assujetti aux mêmes lois que celles auxquelles il serait soumis s’il était un ouvrage destiné à l’amélioration d’un cours d’eau rentrant dans la compétence législative de la législature de la province où il est situé, sauf dans la mesure où les lois de cette province sont incompatibles avec la présente loi ou les règlements.
+
+<details>
+<summary>Historical Note</summary>
+
+- S.R., ch. I-22, art. 9
+
+</details>
+
+## Contrôle d’application
+
+### Agents de l’autorité et analystes
+
+### 10 Agents de l’autorité et analyste
+
+(1) Le ministre peut désigner — à titre individuel ou au titre de son appartenance à une catégorie déterminée — toute personne qu’il estime compétente à titre d’agent de l’autorité ou d’analyste pour l’application de la présente loi ou de telle de ses dispositions.
+
+**Pouvoirs**
+
+(2) Pour l’application de la présente loi, l’agent a tous les pouvoirs d’un agent de la paix; le ministre peut toutefois restreindre ceux-ci lors de la désignation.
+
+**Restrictions**
+
+(3) Le ministre peut restreindre les pouvoirs que l’agent de l’autorité et l’analyste sont autorisés à exercer dans le cadre de la présente loi.
+
+**Production du certificat**
+
+(4) Le ministre remet à chaque agent de l’autorité ou analyste un certificat attestant sa qualité; l’agent et l’analyste le présentent, sur demande, au responsable du lieu visité. Le certificat précise, le cas échéant, les restrictions prévues au titre des paragraphes (2) ou (3).
+
+<details>
+<summary>Historical Note</summary>
+
+- L.R. (1985), ch. I-20, art. 10; 2009, ch. 14, art. 93
+
+</details>
+
+### 11 Immunité
+
+Les agents de l’autorité et les analystes sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 12 Droit de passage
+
+Dans l’exercice de leurs fonctions, l’agent de l’autorité, l’analyste et les personnes qui les accompagnent peuvent entrer sur une propriété privée et y circuler sans engager de responsabilité à cet égard et sans que personne ne puisse s’y opposer.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### Inspection
+
+### 13 Inspection
+
+(1) Pour l’application de la présente loi et sous réserve du paragraphe (2), l’agent de l’autorité peut, à toute heure convenable, inspecter tout lieu s’il a des motifs raisonnables de croire que s’y trouve un objet visé par la présente loi ou un document relatif à l’application de celle-ci.
+
+**Local d’habitation**
+
+(2) L’agent de l’autorité ne peut toutefois procéder à l’inspection d’un local d’habitation sans le consentement de l’occupant que s’il est muni du mandat prévu au paragraphe (3).
+
+**Mandat autorisant l’inspection d’un local d’habitation**
+
+(3) Sur demande ex parte, le juge de paix peut délivrer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’agent de l’autorité qui y est nommé à procéder à l’inspection d’un local d’habitation — et toute autre personne qui y est nommée à accompagner celui-ci et à exercer les pouvoirs qui y sont prévus —, s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+
+- a) les circonstances prévues au paragraphe (1) existent;
+
+- b) l’inspection est nécessaire pour l’application de la présente loi;
+
+- c) un refus a été opposé à l’inspection ou il y a des motifs raisonnables de croire que tel sera le cas.
+
+**Mandat autorisant l’inspection d’un lieu autre qu’un local d’habitation**
+
+(4) Sur demande ex parte, le juge de paix peut délivrer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’agent de l’autorité qui y est nommé à procéder à l’inspection d’un lieu autre qu’un local d’habitation — et toute autre personne qui y est nommée à accompagner celui-ci et à exercer les pouvoirs qui y sont prévus —, s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+
+- a) les circonstances prévues au paragraphe (1) existent;
+
+- b) l’inspection est nécessaire pour l’application de la présente loi;
+
+- c) un refus a été opposé à l’inspection, l’agent de l’autorité ne peut y procéder sans recourir à la force ou le lieu est abandonné;
+
+- d) sous réserve du paragraphe (5), le nécessaire a été fait pour aviser le propriétaire, l’exploitant ou le responsable du lieu.
+
+**Avis non requis**
+
+(5) Le juge de paix peut supprimer l’obligation d’aviser le propriétaire, l’exploitant ou le responsable du lieu s’il est convaincu soit qu’on ne peut les joindre parce qu’ils se trouvent hors de son ressort, soit qu’il n’est pas dans l’intérêt public de donner cet avis.
+
+**Usage de la force**
+
+(6) L’agent de l’autorité ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage.
+
+**Pouvoirs d’immobilisation et de détention**
+
+(7) Pour l’application de la présente loi, l’agent de l’autorité peut, à toute heure convenable, ordonner l’immobilisation d’un moyen de transport ainsi que son déplacement, de la manière, par la route et à l’endroit qu’il précise, pour une inspection et le retenir pendant une période de temps raisonnable.
+
+**Pouvoirs de l’agent de l’autorité**
+
+(8) Dans le cadre de l’inspection, l’agent de l’autorité peut, pour l’application de la présente loi :
+
+- a) examiner tout objet relatif à l’application de la présente loi qui se trouve dans le lieu inspecté;
+
+- b) ouvrir et examiner tout emballage qui s’y trouve et qui, à son avis, contient un objet visé à l’alinéa a);
+
+- c) examiner les livres, registres, données électroniques ou autres documents qui, à son avis, contiennent des renseignements relatifs à l’application de la présente loi, et reproduire ces documents en tout ou en partie;
+
+- d) prélever des échantillons de tout objet relatif à l’application de la présente loi;
+
+- e) faire des essais et effectuer des mesures.
+
+L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonnables.
+
+**Analystes**
+
+(9) Pour l’application de la présente loi, l’analyste peut accompagner l’agent de l’autorité au cours de l’inspection et, à cette occasion, pénétrer dans le lieu inspecté et exercer les pouvoirs prévus au paragraphe (8).
+
+**Sort des échantillons**
+
+(10) L’agent de l’autorité ou l’analyste peut disposer des échantillons prélevés en vertu de l’alinéa (8)d) de la façon qu’il estime indiquée.
+
+**Usage d’ordinateurs et de photocopieuses**
+
+(11) Dans le cadre de son inspection, l’agent de l’autorité peut :
+
+- a) utiliser ou faire utiliser tout ordinateur ou système informatique se trouvant sur place pour prendre connaissance des données qu’il contient ou auxquelles il donne accès;
+
+- b) obtenir ces données sous forme d’imprimé ou sous toute autre forme intelligible et les emporter aux fins d’examen ou de reproduction;
+
+- c) utiliser ou faire utiliser le matériel de reproduction se trouvant sur place pour faire des copies de tous livres, registres, données électroniques et autres documents.
+
+**Obligation du responsable**
+
+(12) Le responsable du lieu inspecté doit faire en sorte que l’agent de l’autorité puisse procéder aux opérations mentionnées au paragraphe (11).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 14 Production de documents et d’échantillons
+
+(1) Pour l’application de la présente loi, le ministre peut, par lettre recommandée ou signification à personne, demander à quiconque de prendre — dans le délai raisonnable et selon les modalités éventuellement indiqués — les mesures suivantes :
+
+- a) produire, au lieu qu’il précise, tout document ou échantillon;
+
+- b) y faire des essais, y effectuer des mesures ou y prendre des échantillons.
+
+**Obligation d’obtempérer**
+
+(2) Le destinataire de la demande visée au paragraphe (1) est tenu de s’y conformer, indépendamment de toute autre règle de droit contraire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### Perquisition et saisie
+
+### 15 Perquisition sans mandat
+
+Pour l’application de la présente loi et des règlements, l’agent de l’autorité peut exercer sans mandat de perquisition les pouvoirs mentionnés à l’article 487 du *Code criminel* en matière de perquisition et de saisie lorsque l’urgence de la situation rend difficilement réalisable l’obtention du mandat, sous réserve que les conditions de délivrance de celui-ci soient réunies.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### Aide à donner aux agents de l’autorité et analystes
+
+### 16 Aide à donner à l’agent de l’autorité et à l’analyste
+
+Le propriétaire ou le responsable du lieu visité en application de la présente loi, ainsi que quiconque s’y trouve, sont assujettis aux obligations suivantes :
+
+- a) prêter à l’agent de l’autorité et à l’analyste toute l’assistance possible dans l’exercice de leurs fonctions;
+
+- b) donner à l’agent de l’autorité et à l’analyste les renseignements qu’ils peuvent valablement exiger quant à l’application de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### Dispositions générales
+
+### 16.1 Documents admissibles en preuve
+
+(1) Le document établi ou délivré dans le cadre de la présente loi et paraissant signé par l’analyste est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
+
+**Présence de l’analyste**
+
+(2) La partie contre laquelle est produit le document peut, avec l’autorisation du tribunal, exiger la présence de l’analyste.
+
+**Préavis**
+
+(3) Le document n’est admis en preuve que si la partie qui entend le produire donne à la partie qu’elle vise un préavis suffisant de son intention, accompagné d’une copie du document.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 17 Garde
+
+(1) Sous réserve du paragraphe (2) :
+
+- a) les articles 489.1 et 490 du *Code criminel* s’appliquent en cas de saisie d’objets effectuée par l’agent de l’autorité en vertu de la présente loi ou d’un mandat délivré au titre du *Code criminel*;
+
+- b) la responsabilité de ces objets incombe, sous réserve d’une ordonnance rendue aux termes de l’article 490 du *Code criminel*, à l’agent de l’autorité ou à la personne qu’il désigne.
+
+**Confiscation de plein droit**
+
+(2) Dans le cas où leur propriétaire — ou la personne qui a droit à leur possession — ne peut être identifié dans les trente jours suivant la saisie, les objets, ou le produit de leur disposition, sont confisqués au profit de Sa Majesté du chef du Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 18 Disposition par le ministre
+
+Il est disposé des objets confisqués conformément aux instructions du ministre.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 19 Responsabilité pour frais
+
+Le propriétaire des objets saisis en vertu de la présente loi ou d’un mandat délivré au titre du *Code criminel*, toute personne en ayant la possession ainsi que toute personne en ayant la charge ou le contrôle, avant la saisie, sont solidairement responsables des frais liés à leur saisie, rétention, entretien ou confiscation — y compris les frais liés à leur disposition, notamment par destruction — supportés par Sa Majesté du chef du Canada lorsque ceux-ci excèdent le produit de leur disposition.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### Ordres d’exécution
+
+### 20 Définition de **ordre**
+
+Pour l’application des articles 21 à 30, **ordre** s’entend de l’ordre donné en vertu de l’article 21.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 21 Ordre
+
+(1) Lors de l’inspection ou de la perquisition, l’agent de l’autorité qui a des motifs raisonnables de croire qu’une infraction à la présente loi ou aux règlements a été commise par une personne — et continue de l’être — ou le sera vraisemblablement peut ordonner à toute personne qui cause ou causera vraisemblablement l’infraction — ou y contribue ou y contribuera vraisemblablement — de prendre les mesures prévues au paragraphe (2) qui sont justifiées en l’espèce pour mettre fin à la perpétration de l’infraction ou s’abstenir de la commettre.
+
+**Mesures**
+
+(2) L’ordre peut enjoindre à la personne à qui il est adressé de prendre une ou plusieurs des mesures suivantes :
+
+- a) s’abstenir d’agir en violation de la présente loi ou des règlements ou, au contraire, faire quoi que ce soit pour s’y conformer;
+
+- b) cesser une activité ou fermer notamment un ouvrage ou une entreprise, pour une période déterminée;
+
+- c) cesser l’exercice d’une activité ou la mise en service d’une partie notamment d’un ouvrage ou d’une entreprise jusqu’à ce que l’agent de l’autorité soit convaincu qu’ils sont conformes à la présente loi et aux règlements;
+
+- d) déplacer un moyen de transport vers un autre lieu;
+
+- e) décharger un moyen de transport ou le charger;
+
+- f) prendre toute autre mesure que l’agent de l’autorité estime nécessaire pour favoriser l’exécution de l’ordre, notamment :
+  - (i) tenir des registres sur toute question pertinente,
+  - (ii) lui faire périodiquement rapport,
+  - (iii) lui transmettre les renseignements, propositions ou plans qu’il précise et qui énoncent les mesures à prendre par la personne à qui l’ordre est adressé à l’égard de toute question qui y est précisée.
+
+**Teneur de l’ordre**
+
+(3) Sous réserve de l’article 22, l’ordre est donné par écrit et énonce les éléments suivants :
+
+- a) le nom de la personne ou des personnes à qui il est adressé;
+
+- b) les dispositions de la présente loi ou des règlements qui auraient été enfreintes ou le seront vraisemblablement;
+
+- c) les faits pertinents concernant la perpétration de la prétendue infraction;
+
+- d) les mesures à prendre;
+
+- e) le moment où chaque mesure doit prendre effet ou son délai d’exécution;
+
+- f) sous réserve du paragraphe (4), la durée de sa validité;
+
+- g) le fait qu’une révision peut être demandée au réviseur-chef;
+
+- h) le délai pour faire la demande de révision.
+
+**Période de validité**
+
+(4) L’ordre est valide pour une période maximale de cent quatre-vingts jours.
+
+**Omission de fournir un rapport**
+
+(5) Pour l’application du paragraphe (1), il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction consistant à omettre de fournir un rapport exigé en vertu de la présente loi ou des règlements.
+
+***Loi sur les textes réglementaires***
+
+(6) L’ordre n’est pas un texte réglementaire au sens de la *Loi sur les textes réglementaires*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93; 2017, ch. 26, art. 63(A)
+
+</details>
+
+### 22 Situation d’urgence
+
+(1) En cas d’urgence, l’ordre peut être donné oralement mais à condition que, dans les sept jours, un ordre conforme à l’article 21 suive par écrit.
+
+**Précision**
+
+(2) Il est entendu qu’il y a notamment urgence dans les cas où le délai pour donner un ordre écrit qui satisfait aux exigences du paragraphe 21(3) risquerait de mettre en danger la vie humaine ou l’environnement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 23 Avis d’intention
+
+(1) Sauf en cas d’urgence, l’agent de l’autorité, dans la mesure du possible et avant de donner l’ordre, avise oralement ou par écrit la personne à qui l’ordre est adressé de son intention de le faire et lui donne la possibilité de présenter oralement ses observations.
+
+**Teneur de l’avis d’intention**
+
+(2) L’avis d’intention précise les éléments suivants :
+
+- a) son objet;
+
+- b) le texte en vertu duquel l’ordre sera donné;
+
+- c) la faculté qu’a la personne à qui l’ordre est adressé de présenter oralement ses observations à l’agent de l’autorité dans le délai précisé.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 24 Exécution de l’ordre
+
+(1) La personne à qui l’ordre est adressé l’exécute dès la réception de l’original ou de sa copie ou dès qu’il lui est donné oralement en vertu du paragraphe 22(1), selon le cas.
+
+**Autres procédures**
+
+(2) La communication ou l’exécution de l’ordre n’empêche pas l’introduction de quelque procédure que ce soit contre la personne à qui l’ordre est adressé dans le cadre de la présente loi ou de toute autre loi relativement à la prétendue infraction en cause.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 25 Intervention de l’agent de l’autorité
+
+(1) Faute par la personne à qui l’ordre est adressé de prendre les mesures qui y sont énoncées, l’agent de l’autorité peut les prendre ou les faire prendre.
+
+**Accès**
+
+(2) L’agent de l’autorité ou la personne autorisée ou tenue par l’agent de prendre les mesures visées au paragraphe (1) a accès à tout lieu ou bien et peut prendre les mesures qui s’imposent dans les circonstances.
+
+**Responsabilité personnelle**
+
+(3) La personne qui fournit aide ou conseils quant à l’exécution de l’ordre ou qui prend, en application du paragraphe (1), les mesures autorisées ou requises par l’agent de l’autorité n’encourt aucune responsabilité personnelle, ni au civil ni au criminel, pour les actes ou omissions constatés à cette occasion, sauf s’il est établi qu’elle était de mauvaise foi. Le présent paragraphe ne s’applique pas aux personnes visées au paragraphe 21(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 26 Recouvrement des frais par Sa Majesté
+
+(1) Sa Majesté du chef du Canada peut recouvrer les frais directs et indirects occasionnés par la prise des mesures prévues au paragraphe 25(1) auprès des personnes qui ont causé la prétendue infraction ou y ont contribué, dans la mesure de leur négligence.
+
+**Frais justifiés**
+
+(2) Les frais exposés ne peuvent être recouvrés que dans la mesure où il peut être établi qu’ils étaient justifiés dans les circonstances.
+
+**Poursuites**
+
+(3) Sa Majesté du chef du Canada peut recouvrer les créances, ainsi que les dépens afférents, par action en recouvrement devant tout tribunal compétent.
+
+**Recours contre des tiers et indemnité**
+
+(4) Le présent article ne limite pas les recours contre les tiers ni le droit à une indemnité.
+
+**Prescription**
+
+(5) Le recouvrement se prescrit par cinq ans à compter de la date où les faits à l’origine des créances sont survenus ou, si elle est postérieure, de la date où ils sont venus à la connaissance du ministre.
+
+**Certificat du ministre**
+
+(6) Le document paraissant délivré par le ministre et attestant la date où les faits à l’origine des créances sont venus à sa connaissance fait foi de ce fait, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 27 Demande de révision
+
+(1) Toute personne à qui l’ordre est adressé peut en demander la révision au réviseur-chef par avis écrit dans les trente jours suivant la date où elle en reçoit la copie ou celle où il lui est donné oralement.
+
+**Prorogation du délai pour faire la demande**
+
+(2) Le réviseur-chef peut proroger le délai dans lequel la demande de révision peut être faite s’il estime qu’il est dans l’intérêt public de le faire.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 28 Modification de l’ordre
+
+(1) Tant que le réviseur-chef n’est pas saisi d’une demande de révision de l’ordre, l’agent de l’autorité peut, pourvu qu’il donne un préavis suffisant, prendre les mesures suivantes :
+
+- a) modifier, suspendre ou supprimer une condition de l’ordre ou y en ajouter une;
+
+- b) annuler l’ordre;
+
+- c) corriger toute erreur matérielle qu’il contient;
+
+- d) prolonger sa validité d’une durée d’au plus cent quatre-vingts jours moins le nombre de jours écoulés depuis sa réception par la personne à qui il a été adressé.
+
+**Avis d’intention**
+
+(2) Sauf en cas d’urgence, l’agent de l’autorité, dans la mesure du possible et avant d’exercer un des pouvoirs prévus aux alinéas (1)a) et d), avise oralement ou par écrit la personne à qui l’ordre est adressé de son intention et lui donne la possibilité de présenter oralement ses observations.
+
+**Teneur de l’avis d’intention**
+
+(3) L’avis d’intention quant à l’exercice des pouvoirs prévus à l’alinéa (1)a) précise les éléments suivants :
+
+- a) son objet;
+
+- b) le texte en vertu duquel le pouvoir sera exercé;
+
+- c) la faculté qu’a la personne à qui l’ordre est adressé de présenter oralement ses observations à l’agent de l’autorité dans le délai précisé.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 29 Règlements
+
+Le ministre peut, par règlement :
+
+- a) fixer la forme des rapports à faire au titre du sous-alinéa 21(2)f)(ii) et préciser les renseignements qu’ils doivent comporter ou qui doivent y être joints;
+
+- b) établir des règles générales ou particulières en ce qui touche la présentation des observations dans le cadre des paragraphes 23(1) ou 28(2).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 30 Révision
+
+Les articles 257 à 271 de la *Loi canadienne sur la protection de l’environnement (1999)* s’appliquent, avec les adaptations nécessaires, à la révision des ordres.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+## Entrave et renseignements faux ou trompeurs
+
+### 31 Entrave
+
+Il est interdit d’entraver volontairement l’action de l’agent de l’autorité ou de l’analyste dans l’exercice des fonctions que lui confère la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 32 Renseignements communiqués sciemment
+
+(1) Il est interdit, relativement à toute question visée par la présente loi :
+
+- a) de communiquer sciemment des renseignements, échantillons ou résultats faux ou trompeurs;
+
+- b) de produire sciemment des documents comportant des renseignements faux ou trompeurs.
+
+**Renseignements communiqués par négligence**
+
+(2) Il est interdit, relativement à toute question visée par la présente loi :
+
+- a) de communiquer par négligence des renseignements, échantillons ou résultats faux ou trompeurs;
+
+- b) de produire par négligence des documents comportant des renseignements faux ou trompeurs.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+## Infractions et peines
+
+### 33 Infraction
+
+(1) Commet une infraction quiconque contrevient :
+
+- a) à l’article 4, au paragraphe 24(1), à l’article 31 ou au paragraphe 32(1);
+
+- b) à toute disposition des règlements désignée par les règlements pris en vertu de l’alinéa 3f);
+
+- c) à toute ordonnance judiciaire rendue en vertu de la présente loi.
+
+**Peine — personnes physiques**
+
+(2) La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
+
+- a) sur déclaration de culpabilité par mise en accusation :
+  - (i) pour une première infraction, d’une amende d’au moins 15 000 $ et d’au plus 1 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines,
+  - (ii) en cas de récidive, d’une amende d’au moins 30 000 $ et d’au plus 2 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+
+- b) sur déclaration de culpabilité par procédure sommaire :
+  - (i) pour une première infraction, d’une amende d’au moins 5 000 $ et d’au plus 300 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+  - (ii) en cas de récidive, d’une amende d’au moins 10 000 $ et d’au plus 600 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+**Peine — autres personnes**
+
+(3) La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+
+- a) sur déclaration de culpabilité par mise en accusation :
+  - (i) pour une première infraction, d’une amende d’au moins 500 000 $ et d’au plus 6 000 000 $,
+  - (ii) en cas de récidive, d’une amende d’au moins 1 000 000 $ et d’au plus 12 000 000 $;
+
+- b) sur déclaration de culpabilité par procédure sommaire :
+  - (i) pour une première infraction, d’une amende d’au moins 100 000 $ et d’au plus 4 000 000 $,
+  - (ii) en cas de récidive, d’une amende d’au moins 200 000 $ et d’au plus 8 000 000 $.
+
+**Peine — personnes morales à revenus modestes**
+
+(4) La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 37 est passible :
+
+- a) sur déclaration de culpabilité par mise en accusation :
+  - (i) pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 4 000 000 $,
+  - (ii) en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 8 000 000 $;
+
+- b) sur déclaration de culpabilité par procédure sommaire :
+  - (i) pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
+  - (ii) en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 34 Infraction
+
+(1) Commet une infraction quiconque contrevient à toute disposition de la présente loi ou des règlements, sauf une disposition dont la contravention constitue une infraction aux termes du paragraphe 33(1).
+
+**Peine — personnes physiques**
+
+(2) La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
+
+- a) sur déclaration de culpabilité par mise en accusation :
+  - (i) pour une première infraction, d’une amende maximale de 100 000 $,
+  - (ii) en cas de récidive, d’une amende maximale de 200 000 $;
+
+- b) sur déclaration de culpabilité par procédure sommaire :
+  - (i) pour une première infraction, d’une amende maximale de 25 000 $,
+  - (ii) en cas de récidive, d’une amende maximale de 50 000 $.
+
+**Peine — autres personnes**
+
+(3) La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+
+- a) sur déclaration de culpabilité par mise en accusation :
+  - (i) pour une première infraction, d’une amende maximale de 500 000 $,
+  - (ii) en cas de récidive, d’une amende maximale de 1 000 000 $;
+
+- b) sur déclaration de culpabilité par procédure sommaire :
+  - (i) pour une première infraction, d’une amende maximale de 250 000 $,
+  - (ii) en cas de récidive, d’une amende maximale de 500 000 $.
+
+**Peine — personnes morales à revenus modestes**
+
+(4) La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 37 est passible :
+
+- a) sur déclaration de culpabilité par mise en accusation :
+  - (i) pour une première infraction, d’une amende maximale de 250 000 $,
+  - (ii) en cas de récidive, d’une amende maximale de 500 000 $;
+
+- b) sur déclaration de culpabilité par procédure sommaire :
+  - (i) pour une première infraction, d’une amende maximale de 50 000 $,
+  - (ii) en cas de récidive, d’une amende maximale de 100 000 $.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 35 Infraction continue
+
+Il est compté une infraction distincte aux dispositions de la présente loi ou des règlements pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 36 Présomption — récidive
+
+(1) Pour l’application des articles 33 et 34, il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la gestion des ressources en eau, d’une infraction essentiellement semblable.
+
+**Application**
+
+(2) Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 37 Déclaration : personne morale à revenus modestes
+
+Pour l’application des articles 33 et 34, le tribunal peut déclarer qu’une personne morale est une personne morale à revenus modestes s’il est convaincu que ses revenus bruts, dans la période d’un an précédant immédiatement la date de l’infraction — ou si celle-ci a été commise sur plus d’un jour, dans la période d’un an précédant immédiatement le premier jour où elle a été commise —, n’excédaient pas 5 000 000 $.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 38 Allègement de l’amende minimale
+
+Le tribunal peut imposer une amende inférieure à l’amende minimale prévue aux paragraphes 33(2) à (4) s’il est convaincu, sur le fondement de la preuve présentée, que l’amende minimale constituerait un fardeau financier excessif pour le contrevenant; le cas échéant, il motive sa décision.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 39 Amende supplémentaire
+
+Le tribunal saisi d’une poursuite pour infraction à la présente loi, s’il est convaincu que la personne déclarée coupable a acquis des biens par suite de la perpétration de l’infraction ou en a tiré des avantages, lui inflige une amende supplémentaire correspondant à son évaluation de ces biens ou avantages. Le montant de l’amende supplémentaire peut être supérieur à celui de toute autre amende pouvant être imposée en vertu de la présente loi.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 40 Avis aux actionnaires
+
+En cas de déclaration de culpabilité d’une personne morale ayant des actionnaires pour infraction à la présente loi, le tribunal lui ordonne d’aviser ceux-ci, de la façon et dans les délais qu’il précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 41 Responsabilité pénale : dirigeants, administrateurs et mandataires
+
+(1) En cas de perpétration d’une infraction à la présente loi par une personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue pour une personne physique, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+**Devoirs des dirigeants et administrateurs**
+
+(2) Les dirigeants et administrateurs de la personne morale font preuve de la diligence voulue pour que celle-ci se conforme :
+
+- a) à la présente loi et aux règlements;
+
+- b) aux ordonnances judiciaires, aux ordres et directives du ministre, des agents de l’autorité ou des analystes, aux interdictions qu’ils prononcent et aux obligations qu’ils imposent.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 42 Objectif premier de la détermination de la peine
+
+La détermination des peines relatives aux infractions à la présente loi a pour objectif premier de contribuer au respect de la présente loi. Cet objectif est atteint par l’imposition de sanctions justes visant ce qui suit :
+
+- a) dissuader le contrevenant et toute autre personne de commettre des infractions à la présente loi;
+
+- b) dénoncer les comportements qui causent des dommages ou des risques de dommages aux ressources en eau;
+
+- c) rétablir l’environnement endommagé par l’infraction.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 43 Détermination de la peine — principes
+
+(1) Pour la détermination de la peine à infliger au contrevenant, le tribunal, en sus des principes et facteurs qu’il est par ailleurs tenu de prendre en considération — y compris ceux énoncés aux articles 718.1 à 718.21 du *Code criminel* —, tient compte des principes suivants :
+
+- a) le montant de l’amende devrait être majoré en fonction des circonstances aggravantes de l’infraction, notamment celles énoncées au paragraphe (2);
+
+- b) le montant de l’amende devrait refléter la gravité de chacune des circonstances aggravantes de l’infraction.
+
+**Détermination de la peine — circonstances aggravantes**
+
+(2) Les circonstances aggravantes dont le tribunal tient compte sont les suivantes :
+
+- a) l’infraction a causé un dommage ou un risque de dommage à l’environnement;
+
+- b) l’infraction a causé un dommage ou un risque de dommage aux ressources uniques, particulièrement importantes ou vulnérables de l’environnement;
+
+- c) l’infraction a causé un dommage considérable, persistant ou irréparable;
+
+- d) le contrevenant a agi de façon intentionnelle ou insouciante;
+
+- e) le contrevenant a omis de prendre des mesures raisonnables pour empêcher la perpétration de l’infraction malgré sa capacité financière de le faire;
+
+- f) le contrevenant, en commettant l’infraction ou en omettant de prendre des mesures pour empêcher sa perpétration, a accru ses revenus ou a réduit ses dépenses, ou avait l’intention de le faire;
+
+- g) le contrevenant a commis l’infraction bien qu’il ait reçu de l’agent de l’autorité un avertissement l’informant de la situation ayant par la suite donné lieu à l’infraction;
+
+- h) le contrevenant a dans le passé accompli des actes contraires aux lois fédérales ou provinciales visant la gestion des ressources en eau;
+
+- i) le contrevenant, après avoir commis l’infraction :
+  - (i) a tenté de dissimuler sa perpétration,
+  - (ii) a omis de prendre rapidement des mesures afin d’empêcher ou d’atténuer les conséquences de l’infraction, ou encore d’y remédier,
+  - (iii) a omis de prendre rapidement des mesures pour réduire le risque que des infractions semblables soient commises.
+
+**Absence de circonstances aggravantes**
+
+(3) L’absence de circonstances aggravantes mentionnées au paragraphe (2) n’est pas une circonstance atténuante.
+
+**Sens de **dommage****
+
+(4) Pour l’application des alinéas (2)a) à c), le dommage comprend la perte des valeurs d’usage et de non-usage.
+
+**Motifs**
+
+(5) Si le tribunal décide de ne pas majorer le montant de l’amende, bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (2), il motive sa décision.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 44 Affectation
+
+(1) Les sommes reçues par le receveur général en paiement d’amendes infligées à l’égard de toute infraction à la présente loi — à l’exception des sommes perçues en vertu de la *Loi sur les contraventions* — sont portées au crédit du Fonds pour dommages à l’environnement — ouvert parmi les comptes du Canada — et sont utilisées à des fins liées à la protection, à la conservation, au rétablissement ou à la restauration de l’environnement, ou pour l’administration du fonds.
+
+**Recommandation du tribunal**
+
+(2) Le tribunal qui fixe le montant de l’amende à porter au crédit du Fonds pour dommages à l’environnement peut recommander au ministre qu’une partie ou la totalité de celle-ci soit versée à la personne ou à l’organisation qu’il précise à l’une des fins visées au paragraphe (1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 45 Ordonnance du tribunal
+
+(1) En plus de toute peine infligée et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant à la personne déclarée coupable tout ou partie des obligations suivantes :
+
+- a) s’abstenir de tout acte ou toute activité risquant d’entraîner, de l’avis du tribunal, la continuation de l’infraction ou la récidive;
+
+- b) prendre les mesures que le tribunal estime indiquées pour réparer ou éviter tout dommage à l’environnement résultant ou pouvant résulter de la perpétration de l’infraction;
+
+- c) en garantie de l’exécution des obligations imposées au titre du présent paragraphe, fournir le cautionnement ou déposer auprès du tribunal la somme que celui-ci estime indiqué;
+
+- d) mener des études de suivi des effets sur l’environnement, de la façon que le ministre indique, ou verser, selon les modalités prescrites par le tribunal, une somme d’argent destinée à permettre ces études;
+
+- e) mettre en place un système de gestion de l’environnement répondant à une norme canadienne ou internationale reconnue que le tribunal précise;
+
+- f) faire effectuer une vérification environnementale par une personne appartenant à la catégorie de personnes désignée par le ministre à des moments que celui-ci précise et prendre les mesures appropriées pour remédier aux défauts constatés;
+
+- g) verser à Sa Majesté du chef du Canada, en vue de promouvoir la gestion durable des ressources en eau, la somme que le tribunal estime indiquée;
+
+- h) publier, de la façon que le tribunal précise, les faits liés à la perpétration de l’infraction et les détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+
+- i) aviser les personnes touchées ou lésées par sa conduite, à ses frais et de la façon que le tribunal précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+
+- j) fournir au ministre, sur demande présentée par celui-ci dans les trois ans suivant sa déclaration de culpabilité, les renseignements relatifs à ses activités que le tribunal estime indiqués en l’occurrence;
+
+- k) indemniser toute personne, de façon monétaire ou autrement, en tout ou en partie, des frais exposés par elle pour toute mesure prise ou à prendre pour la réparation ou la prévention du dommage résultant — ou pouvant résulter — des faits qui ont mené à la déclaration de culpabilité, y compris des frais occasionnés pour l’évaluation des mesures de réparation ou de prévention pertinentes;
+
+- l) exécuter des travaux d’intérêt collectif à des conditions raisonnables;
+
+- m) remettre au ministre les permis qui lui ont été délivrés sous le régime des règlements;
+
+- n) s’abstenir de présenter une nouvelle demande de permis sous le régime des règlements pendant la période que le tribunal estime indiquée;
+
+- o) verser, selon les modalités prescrites, une somme d’argent à des groupes concernés notamment par la protection de l’environnement, pour les aider dans le travail qu’ils accomplissent au sein ou pour le compte d’une collectivité située près de l’endroit où l’infraction a été commise;
+
+- p) verser, selon les modalités que le tribunal précise, une somme d’argent destinée à permettre des recherches sur la protection, la conservation ou le rétablissement de cours d’eau internationaux;
+
+- q) verser à un établissement d’enseignement, selon les modalités prescrites, une somme d’argent notamment destinée à créer des bourses d’études attribuées à quiconque suit un programme d’études dans un domaine lié à l’environnement;
+
+- r) se conformer aux autres conditions que le tribunal estime indiquées pour assurer sa bonne conduite et la dissuader, ainsi que toute autre personne, de commettre des infractions à la présente loi.
+
+**Publication**
+
+(2) En cas d’inexécution de l’obligation prévue à l’alinéa (1)h), le ministre peut procéder à la publication des faits liés à la perpétration de l’infraction et des détails de la peine imposée, de la façon précisée par le tribunal à la personne déclarée coupable, et en recouvrer les frais auprès de celle-ci.
+
+**Créances de Sa Majesté**
+
+(3) L’indemnité et la somme à verser à Sa Majesté du chef du Canada en application des alinéas (1)g) ou k), ainsi que les frais visés au paragraphe (2), constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent.
+
+**Exécution**
+
+(4) Toute personne, à l’exception de Sa Majesté du chef du Canada, qui a droit à une indemnité en vertu de l’alinéa (1)k) peut, à défaut de paiement immédiat, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’indemnité en question; ce jugement peut être exécuté contre la personne déclarée coupable de la même manière que s’il s’agissait d’un jugement rendu contre elle par cette cour en matière civile.
+
+**Annulation ou suspension du permis**
+
+(5) Les permis remis en application de l’alinéa (1)m) sont annulés à moins que le tribunal ne les suspende pour la période qu’il estime indiquée.
+
+**Prise d’effet**
+
+(6) Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit immédiatement, soit à la date fixée par le tribunal, et elle demeure en vigueur pendant une durée maximale de trois ans, à moins que le tribunal n’en ordonne autrement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 46 Confiscation
+
+(1) Sur déclaration de culpabilité du contrevenant à la présente loi, le tribunal peut prononcer, en sus de la peine infligée, la confiscation au profit de Sa Majesté du chef du Canada des objets saisis ou du produit de leur aliénation.
+
+**Restitution d’un objet non confisqué**
+
+(2) Si le tribunal ne prononce pas la confiscation, les objets saisis, ou le produit de leur aliénation, sont restitués au propriétaire ou à la personne qui a droit à leur possession.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 47 Rétention ou vente
+
+En cas de déclaration de culpabilité, les objets saisis — ou le produit de leur aliénation — peuvent être retenus jusqu’au paiement de l’amende, ou ces objets peuvent être vendus et le produit de leur aliénation peut être affecté en tout ou en partie au paiement de l’amende.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 48 Dommages-intérêts
+
+(1) Le tribunal peut, lors du prononcé de la peine, ordonner à la personne déclarée coupable d’une infraction à la présente loi de verser à la personne lésée par sa conduite, sur demande de celle-ci, des dommages-intérêts pour la perte de biens ou les dommages causés à ceux-ci découlant de la perpétration de l’infraction.
+
+**Exécution**
+
+(2) À défaut de paiement immédiat des dommages-intérêts, la personne lésée peut, par dépôt de l’ordonnance, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’ordre de payer la somme en question, et ce jugement peut être exécuté contre la personne déclarée coupable de la même manière que s’il s’agissait d’un jugement rendu contre elle par cette cour en matière civile.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 49 Prescription
+
+La poursuite visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrit par cinq ans à compter de sa perpétration, à moins que le poursuivant et le défendeur ne consentent au prolongement de ce délai.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 50 Publication de renseignements sur les infractions
+
+(1) Afin d’encourager le respect de la présente loi et des règlements, le ministre publie dans un registre accessible au public des renseignements concernant les déclarations de culpabilité des personnes morales pour infraction à la présente loi.
+
+**Rétention des renseignements**
+
+(2) Les renseignements sont conservés dans le registre pour une durée minimale de cinq ans.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+## Rapports
+
+### 51 Rapport au Parlement — application de la loi
+
+Le plus tôt possible après le 31 décembre de chaque année, le ministre établit un rapport sur l’application de la présente loi au cours de cette année et le fait déposer devant les deux chambres du Parlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
+
+### 52 Examen — articles 33 à 50
+
+(1) Dix ans après l’entrée en vigueur du présent article, et tous les dix ans par la suite, le ministre procède à l’examen des articles 33 à 50.
+
+**Rapport au Parlement**
+
+(2) Il fait déposer un rapport sur la question devant les deux chambres du Parlement dans l’année qui suit le début de l’examen.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2009, ch. 14, art. 93
+
+</details>
