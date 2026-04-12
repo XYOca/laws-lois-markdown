@@ -1,0 +1,16 @@
+# Source XML repo (cloned at runtime)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db

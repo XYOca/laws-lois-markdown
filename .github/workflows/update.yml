@@ -1,0 +1,82 @@
+name: Update Canadian Laws Markdown
+
+on:
+  schedule:
+    # Run weekly on Sunday at midnight UTC
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Force full reconversion of all files"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore source commit tracker
+        run: |
+          if [ -f .source-commit ]; then
+            mkdir -p data
+            cp .source-commit data/.source-commit
+          fi
+
+      - name: Run conversion
+        run: |
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            python scripts/convert.py --output-dir ./output --data-dir ./data --force
+          else
+            python scripts/convert.py --output-dir ./output --data-dir ./data
+          fi
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add output/ .source-commit
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Get source commit info
+        if: steps.changes.outputs.changed == 'true'
+        id: source
+        run: |
+          SOURCE_COMMIT=$(cat data/.source-commit)
+          echo "commit=${SOURCE_COMMIT}" >> "$GITHUB_OUTPUT"
+          echo "short=${SOURCE_COMMIT:0:7}" >> "$GITHUB_OUTPUT"
+
+      - name: Save source commit tracker
+        if: steps.changes.outputs.changed == 'true'
+        run: cp data/.source-commit .source-commit
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "Matt Gros"
+          git config user.email "3311227+mpge@users.noreply.github.com"
+          git add output/ .source-commit
+          git commit -m "Update legislation markdown from source (${SOURCE_SHORT})
+
+          Source: justicecanada/laws-lois-xml@${SOURCE_COMMIT}"
+          git push
+        env:
+          SOURCE_COMMIT: ${{ steps.source.outputs.commit }}
+          SOURCE_SHORT: ${{ steps.source.outputs.short }}
