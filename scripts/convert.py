@@ -802,7 +802,7 @@ def convert_all(data_dir: Path, output_dir: Path, changed_files: set[str] | None
 
 def main():
     parser = argparse.ArgumentParser(description="Convert Canadian legislation XML to Markdown")
-    parser.add_argument("--output-dir", default="./output", help="Output directory for Markdown files")
+    parser.add_argument("--output-dir", default="./laws", help="Output directory for Markdown files")
     parser.add_argument("--data-dir", default="./data", help="Directory for cloned source repo")
     parser.add_argument("--force", action="store_true", help="Force full reconversion of all files")
     args = parser.parse_args()
@@ -820,36 +820,136 @@ def main():
     previous_commit = get_previous_commit(data_dir)
     changed_files = None
 
+    needs_conversion = True
     if args.force:
         print("Force mode: converting all files.\n")
     elif previous_commit is None:
         print("First run: converting all files.\n")
     elif previous_commit == commit:
-        print("Source repo unchanged since last run. Nothing to do.")
-        return
+        print("Source repo unchanged since last run. Skipping conversion.")
+        needs_conversion = False
     else:
         print(f"Previous commit: {previous_commit[:7]}")
         print(f"Current commit:  {commit[:7]}")
         changed_files = get_changed_xml_files(data_dir, previous_commit, commit)
         if changed_files is not None:
             if not changed_files:
-                print("No XML files changed. Nothing to do.")
-                return
-            print(f"Incremental mode: {len(changed_files)} XML files changed.\n")
+                print("No XML files changed. Skipping conversion.")
+                needs_conversion = False
+            else:
+                print(f"Incremental mode: {len(changed_files)} XML files changed.\n")
         else:
             print("Could not determine changes, converting all files.\n")
 
-    # Step 3: Convert
-    print("Converting XML to Markdown...\n")
-    total = convert_all(data_dir, output_dir, changed_files)
+    # Step 3: Convert (if needed)
+    if needs_conversion:
+        print("Converting XML to Markdown...\n")
+        total = convert_all(data_dir, output_dir, changed_files)
 
-    if total > 0:
-        # Step 4: Save commit hash
-        save_commit(data_dir, commit)
-        print(f"\nSource commit saved: {commit}")
-    else:
-        print("\nNo files converted.")
-        sys.exit(1)
+        if total > 0:
+            save_commit(data_dir, commit)
+            print(f"\nSource commit saved: {commit}")
+        else:
+            print("\nNo files converted.")
+            sys.exit(1)
+
+    # Step 4: Always regenerate index
+    print("\nGenerating index...")
+    generate_index(output_dir)
+
+
+def parse_frontmatter(file_path: Path) -> dict:
+    """Parse YAML frontmatter from a markdown file."""
+    meta = {}
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            first_line = f.readline().strip()
+            if first_line != "---":
+                return meta
+            for line in f:
+                line = line.strip()
+                if line == "---":
+                    break
+                if ": " in line:
+                    key, value = line.split(": ", 1)
+                    meta[key] = value.strip('"')
+    except Exception:
+        pass
+    return meta
+
+
+def generate_index(output_dir: Path):
+    """Generate INDEX.md files listing all laws with titles and descriptions."""
+    # Category display names
+    category_labels = {
+        ("en", "acts"): ("English", "Federal Acts"),
+        ("en", "regulations"): ("English", "Federal Regulations"),
+        ("fr", "lois"): ("Français", "Lois fédérales"),
+        ("fr", "reglements"): ("Français", "Règlements fédéraux"),
+    }
+
+    all_entries = {}
+
+    for (lang, category), (lang_label, cat_label) in category_labels.items():
+        cat_dir = output_dir / lang / category
+        if not cat_dir.exists():
+            continue
+
+        entries = []
+        for md_file in sorted(cat_dir.glob("*.md")):
+            if md_file.name == "INDEX.md":
+                continue
+            meta = parse_frontmatter(md_file)
+            title = meta.get("title", md_file.stem)
+            chapter = meta.get("chapter", meta.get("instrument_number", ""))
+            long_title = meta.get("long_title", "")
+            rel_path = f"{lang}/{category}/{md_file.name}"
+            entries.append({
+                "file": md_file.name,
+                "rel_path": rel_path,
+                "title": title,
+                "chapter": chapter,
+                "long_title": long_title,
+            })
+
+        all_entries[(lang, category)] = entries
+
+        # Write per-category INDEX.md
+        lines = [f"# {cat_label}\n"]
+        lines.append(f"_{len(entries)} documents_\n")
+        lines.append("| # | Title | Description |")
+        lines.append("| --- | --- | --- |")
+        for e in entries:
+            desc = e["long_title"] if e["long_title"] and e["long_title"] != e["title"] else ""
+            # Escape pipes in table cells
+            title_cell = e["title"].replace("|", "\\|")
+            desc_cell = desc.replace("|", "\\|")
+            ident = e["chapter"]
+            lines.append(f"| {ident} | [{title_cell}]({e['file']}) | {desc_cell} |")
+
+        index_path = cat_dir / "INDEX.md"
+        index_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        print(f"  {lang}/{category}/INDEX.md ({len(entries)} entries)")
+
+    # Write root INDEX.md
+    root_lines = ["# Canadian Federal Legislation / Législation fédérale du Canada\n"]
+    root_lines.append("Complete collection of Canadian federal laws and regulations in Markdown format.\n")
+    root_lines.append("Collection complète des lois et règlements fédéraux du Canada en format Markdown.\n")
+
+    total = sum(len(v) for v in all_entries.values())
+    root_lines.append(f"**{total:,} documents total**\n")
+
+    root_lines.append("## Contents / Table des matières\n")
+    root_lines.append("| Category | Count | Index |")
+    root_lines.append("| --- | --- | --- |")
+
+    for (lang, category), (lang_label, cat_label) in category_labels.items():
+        entries = all_entries.get((lang, category), [])
+        root_lines.append(f"| {cat_label} ({lang_label}) | {len(entries):,} | [{lang}/{category}/INDEX.md]({lang}/{category}/INDEX.md) |")
+
+    root_index = output_dir / "INDEX.md"
+    root_index.write_text("\n".join(root_lines) + "\n", encoding="utf-8")
+    print(f"  INDEX.md (root, {total:,} total)")
 
 
 if __name__ == "__main__":

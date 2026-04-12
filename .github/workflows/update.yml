@@ -40,15 +40,15 @@ jobs:
       - name: Run conversion
         run: |
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
-            python scripts/convert.py --output-dir ./output --data-dir ./data --force
+            python scripts/convert.py --output-dir ./laws --data-dir ./data --force
           else
-            python scripts/convert.py --output-dir ./output --data-dir ./data
+            python scripts/convert.py --output-dir ./laws --data-dir ./data
           fi
 
       - name: Check for changes
         id: changes
         run: |
-          git add output/ .source-commit
+          git add laws/ .source-commit
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -72,7 +72,7 @@ jobs:
         run: |
           git config user.name "Matt Gros"
           git config user.email "3311227+mpge@users.noreply.github.com"
-          git add output/ .source-commit
+          git add laws/ .source-commit
           git commit -m "Update legislation markdown from source (${SOURCE_SHORT})
 
           Source: justicecanada/laws-lois-xml@${SOURCE_COMMIT}"
