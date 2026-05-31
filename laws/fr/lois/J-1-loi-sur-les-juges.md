@@ -230,7 +230,7 @@ Les juges de la Cour d’appel de l’Ontario et de la Cour supérieure de justi
 
 - a) s’agissant du juge en chef et du juge en chef adjoint de l’Ontario : 371 400 $;
 
-- b) s’agissant de chacun des quatorze autres juges d’appel : 338 800 $;
+- b) s’agissant de chacun des seize autres juges d’appel : 338 800 $;
 
 - c) s’agissant du juge en chef et du juge en chef adjoint de la Cour supérieure de justice : 371 400 $;
 
@@ -242,6 +242,7 @@ Les juges de la Cour d’appel de l’Ontario et de la Cour supérieure de justi
 - L.R. (1985), ch. J-1, art. 12; L.R. (1985), ch. 41 (1^er^ suppl.), art. 2, ch. 50 (1^er^ suppl.), art. 4, ch. 39 (3^e^ suppl.), art. 1; 1990, ch. 17, art. 29; 1998, ch. 30, art. 2; 2001, ch. 7, art. 4; 2006, ch. 11, art. 1; 2012, ch. 31, art. 210; 2017, ch. 20, art. 200; 2018, ch. 12, art. 298
 - 2021, ch. 23, art. 255
 - 2022, ch. 10, art. 341
+- 2026, ch. 3, art. 500
 
 </details>
 
@@ -487,13 +488,13 @@ Le montant des traitements prévus aux articles 9 à 22 est arrondi à la centai
 
 - a) seize, pour les cours d’appel;
 
-- b) soixante-dix-neuf, pour les autres juridictions supérieures.
+- b) soixante-neuf, pour les autres juridictions supérieures.
 
 - c) [Abrogé, 1992, ch. 51, art. 7]
 
 **Tribunaux de la famille**
 
-(4) Afin de favoriser la constitution de tribunaux provinciaux de la famille, il peut être versé, à quelque moment que ce soit, un maximum de cinquante-huit autres traitements aux juges nommés aux tribunaux visés à l’alinéa (3)b) :
+(4) Afin de favoriser la constitution de tribunaux provinciaux de la famille, il peut être versé, à quelque moment que ce soit, un maximum de soixante-six autres traitements aux juges nommés aux tribunaux visés à l’alinéa (3)b) :
 
 - a) soit pour constituer en leur sein un tribunal de la famille;
 
@@ -513,6 +514,7 @@ Le montant des traitements prévus aux articles 9 à 22 est arrondi à la centai
 - L.R. (1985), ch. J-1, art. 24; L.R. (1985), ch. 41 (1^er^ suppl.), art. 10, ch. 27 (2^e^ suppl.), art. 3; 1989, ch. 8, art. 9; 1992, ch. 51, art. 7; 1996, ch. 30, art. 1; 1998, ch. 30, art. 3; 2006, ch. 11, art. 3; 2008, ch. 26, art. 1; 2015, ch. 3, art. 126; 2017, ch. 20, art. 211
 - 2018, ch. 12, art. 300
 - 2024, ch. 17, art. 320
+- 2026, ch. 3, art. 501
 
 </details>
 

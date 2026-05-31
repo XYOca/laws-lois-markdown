@@ -1,6 +1,6 @@
 # Lois fédérales
 
-_956 documents_
+_963 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -84,6 +84,7 @@ _956 documents_
 | B-9.8594 | [Loi n^o^ 1 d’exécution du budget de 2021](B-9.8594-loi-no-1-dexécution-du-budget-de-2021.md) | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d’autres mesures |
 | B-9.8595 | [Loi n^o^ 1 d’exécution du budget de 2022](B-9.8595-loi-no-1-dexécution-du-budget-de-2022.md) | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 7 avril 2022 et mettant en œuvre d’autres mesures |
 | B-9.8596 | [Loi n^o^ 1 d’exécution du budget de 2024](B-9.8596-loi-no-1-dexécution-du-budget-de-2024.md) | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 16 avril 2024 |
+| B-9.8598 | [Loi n^o^ 1 d’exécution du budget de 2025](B-9.8598-loi-no-1-dexécution-du-budget-de-2025.md) | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 novembre 2025 |
 | B-9.86 | [Loi concernant la « Buffalo and Fort Erie Public Bridge Company »](B-9.86-loi-concernant-la-buffalo-and-fort-erie-public-bridge-company.md) |  |
 | B-9.88 | [Loi sur le développement d’une économie verte dans les Prairies](B-9.88-loi-sur-le-développement-dune-économie-verte-dans-les-prairies.md) | Loi concernant le développement d’une économie verte dans les Prairies |
 | B-9.89 | [Loi visant à bâtir le Canada](B-9.89-loi-visant-à-bâtir-le-canada.md) | Loi concernant les projets d’intérêt national |
@@ -192,6 +193,7 @@ _956 documents_
 | C-29.7 | [Loi sur la commercialisation des services de navigation aérienne civile](C-29.7-loi-sur-la-commercialisation-des-services-de-navigation-aérienne-civile.md) | Loi concernant la commercialisation des services de navigation aérienne civile |
 | C-3 | [Loi sur la Société d’assurance-dépôts du Canada](C-3-loi-sur-la-société-dassurance-dépôts-du-canada.md) | Loi constituant la Société d’assurance-dépôts du Canada |
 | C-3.4 | [Loi sur la réorganisation de la Corporation de développement du Canada](C-3.4-loi-sur-la-réorganisation-de-la-corporation-de-développement-du-canada.md) | Loi concernant la réorganisation de la Corporation de développement du Canada |
+| C-3.43 | [Loi sur la Corporation de développement des investissements du Canada](C-3.43-loi-sur-la-corporation-de-développement-des-investissements-du-canada.md) | Loi visant à proroger la Corporation de développement des investissements du Canada |
 | C-3.45 | [Loi sur la prestation canadienne pour les personnes handicapées](C-3.45-loi-sur-la-prestation-canadienne-pour-les-personnes-handicapées.md) | Loi visant à réduire la pauvreté et à renforcer la sécurité financière des personnes handicapées par l’établissement de la prestation canadienne pour les personnes handicapées et apportant une modification corrélative à la Loi de l’impôt sur le revenu |
 | C-3.5 | [Loi canadienne sur l’épargne-invalidité](C-3.5-loi-canadienne-sur-lépargne-invalidité.md) | Loi favorisant l’épargne destinée aux personnes handicapées |
 | C-3.55 | [Loi sur l’apprentissage et la garde des jeunes enfants au Canada](C-3.55-loi-sur-lapprentissage-et-la-garde-des-jeunes-enfants-au-canada.md) | Loi relative à l’apprentissage et à la garde des jeunes enfants au Canada |
@@ -224,6 +226,7 @@ _956 documents_
 | C-36.7 | [Modifications constitutionnelles](C-36.7-modifications-constitutionnelles.md) | Loi concernant les modifications constitutionnelles |
 | C-36.71 | [Loi sur le maintien de la représentation des provinces à la Chambre des communes](C-36.71-loi-sur-le-maintien-de-la-représentation-des-provinces-à-la-chambre-des-communes.md) | Loi modifiant la Loi constitutionnelle de 1867 (représentation électorale) |
 | C-36.75 | [Loi sur les services bancaires axés sur les consommateurs](C-36.75-loi-sur-les-services-bancaires-axés-sur-les-consommateurs.md) | Loi établissant un cadre sur les services bancaires axés sur les consommateurs |
+| C-36.78 | [Loi sur les services bancaires axés sur les consommateurs](C-36.78-loi-sur-les-services-bancaires-axés-sur-les-consommateurs.md) | Loi établissant un cadre sur les services bancaires axés sur les consommateurs |
 | C-38 | [Loi sur l’emballage et l’étiquetage des produits de consommation](C-38-loi-sur-lemballage-et-létiquetage-des-produits-de-consommation.md) | Loi concernant l’emballage, l’étiquetage, la vente, l’importation et la publicité des produits préemballés et de certains autres |
 | C-38.5 | [Loi constituant en corporation la Banque Continentale du Canada](C-38.5-loi-constituant-en-corporation-la-banque-continentale-du-canada.md) |  |
 | C-38.7 | [Loi sur les contraventions](C-38.7-loi-sur-les-contraventions.md) | Loi concernant les contraventions aux textes législatifs fédéraux |
@@ -461,6 +464,7 @@ _956 documents_
 | H-3.5 | [Loi sur la protection des gares ferroviaires patrimoniales](H-3.5-loi-sur-la-protection-des-gares-ferroviaires-patrimoniales.md) | Loi visant à protéger les gares ferroviaires patrimoniales |
 | H-3.7 | [Loi sur l’exploitation du champ Hibernia](H-3.7-loi-sur-lexploitation-du-champ-hibernia.md) | Loi concernant l’exploitation du champ d’hydrocarbures Hibernia et apportant des modifications corrélatives à certaines lois |
 | H-3.76 | [Loi sur la banque de données concernant les délinquants sexuels à risque élevé (infractions sexuelles visant les enfants)](H-3.76-loi-sur-la-banque-de-données-concernant-les-délinquants-sexuels-à-risque-élevé-i.md) | Loi concernant la création d’une banque de données qui est accessible au public et contient des renseignements sur des personnes qui sont déclarées coupables d’infractions sexuelles visant les enfants et présentent un risque élevé de commettre des crimes de nature sexuelle |
+| H-3.77 | [Loi sur le réseau ferroviaire à grande vitesse](H-3.77-loi-sur-le-réseau-ferroviaire-à-grande-vitesse.md) | Loi concernant le réseau ferroviaire à grande vitesse |
 | H-3.8 | [Loi sur les ponts nécessaires au parachèvement de l’autoroute 30](H-3.8-loi-sur-les-ponts-nécessaires-au-parachèvement-de-lautoroute-30.md) | Loi autorisant la construction et l’entretien d’un pont franchissant le fleuve Saint-Laurent et d’un pont franchissant le canal de Beauharnois en vue du parachèvement de l’autoroute 30 |
 | H-4 | [Loi sur les lieux et monuments historiques](H-4-loi-sur-les-lieux-et-monuments-historiques.md) | Loi constituant la Commission des lieux et monuments historiques du Canada |
 | H-5 | [Loi instituant des jours de fête légale](H-5-loi-instituant-des-jours-de-fête-légale.md) | Loi instituant certains jours de fête légale |
@@ -603,6 +607,7 @@ _956 documents_
 | N-15.8 | [Loi permettant de reprendre et de continuer l’exploitation du réacteur national de recherche universel situé à Chalk River](N-15.8-loi-permettant-de-reprendre-et-de-continuer-lexploitation-du-réacteur-national-d.md) |  |
 | N-16.2 | [Loi sur la Journée nationale de la jupe à rubans](N-16.2-loi-sur-la-journée-nationale-de-la-jupe-à-rubans.md) | Loi concernant la Journée nationale de la jupe à rubans |
 | N-16.4 | [Loi sur la Table ronde nationale sur l’environnement et l’économie](N-16.4-loi-sur-la-table-ronde-nationale-sur-lenvironnement-et-léconomie.md) | Loi constituant la Table ronde nationale sur l’environnement et l’économie |
+| N-16.45 | [Loi sur le Programme national d’alimentation scolaire.](N-16.45-loi-sur-le-programme-national-dalimentation-scolaire.md) | Loi relative au Programme national d’alimentation scolaire |
 | N-16.5 | [Loi sur la Journée nationale des produits du phoque](N-16.5-loi-sur-la-journée-nationale-des-produits-du-phoque.md) | Loi instituant la Journée nationale des produits du phoque |
 | N-16.56 | [Loi de 2017 sur la sécurité nationale](N-16.56-loi-de-2017-sur-la-sécurité-nationale.md) | Loi concernant des questions de sécurité nationale |
 | N-16.6 | [Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement](N-16.6-loi-sur-le-comité-des-parlementaires-sur-la-sécurité-nationale-et-le-renseigneme.md) | Loi constituant le Comité des parlementaires sur la sécurité nationale et le renseignement et modifiant certaines lois en conséquence |
@@ -828,6 +833,7 @@ _956 documents_
 | S-15.6 | [Loi sur le commerce des spiritueux](S-15.6-loi-sur-le-commerce-des-spiritueux.md) | Loi concernant la mise en oeuvre d’engagements commerciaux internationaux pris par le Canada concernant des spiritueux provenant de pays étrangers |
 | S-15.7 | [Loi concernant la première nation crie de Split Lake relativement à la submersion de terres](S-15.7-loi-concernant-la-première-nation-crie-de-split-lake-relativement-à-la-submersio.md) | Loi concernant l’accord de règlement de la première nation crie de Split Lake sur des questions découlant d’une convention sur la submersion de terres |
 | S-15.8 | [Loi liquidant Sport Sélect et Loto Canada](S-15.8-loi-liquidant-sport-sélect-et-loto-canada.md) | Loi portant dissolution de la Société canadienne des paris sportifs et de Loto Canada Inc. |
+| S-15.9 | [Loi sur les cryptomonnaies stables](S-15.9-loi-sur-les-cryptomonnaies-stables.md) | Loi concernant les cryptomonnaies stables |
 | S-16 | [Loi sur le Conseil canadien des normes](S-16-loi-sur-le-conseil-canadien-des-normes.md) | Loi portant création du Conseil canadien des normes |
 | S-18 | [Loi sur l’immunité des États](S-18-loi-sur-limmunité-des-états.md) | Loi portant sur l’immunité des États étrangers devant les tribunaux |
 | S-19 | [Loi sur la statistique](S-19-loi-sur-la-statistique.md) | Loi concernant la statistique du Canada |
@@ -838,6 +844,7 @@ _956 documents_
 | S-21 | [Loi sur la publication des lois](S-21-loi-sur-la-publication-des-lois.md) | Loi concernant la publication des lois |
 | S-21.5 | [Loi sur l’abrogation des lois](S-21.5-loi-sur-labrogation-des-lois.md) | Loi prévoyant l’abrogation des lois non mises en vigueur dans les dix ans suivant leur sanction |
 | S-22 | [Loi sur les textes réglementaires](S-22-loi-sur-les-textes-réglementaires.md) | Loi prévoyant l’examen, la publication et le contrôle des règlements et autres textes réglementaires |
+| S-22.5 | [Loi visant à renforcer le système d’immigration et la frontière du Canada](S-22.5-loi-visant-à-renforcer-le-système-dimmigration-et-la-frontière-du-canada.md) | Loi concernant certaines mesures liées à la sécurité de la frontière canadienne et à l’intégrité du système d’immigration canadien et d’autres mesures connexes liées à la sécurité |
 | S-22.7 | [Loi fédérale sur l’aide financière aux étudiants](S-22.7-loi-fédérale-sur-laide-financière-aux-étudiants.md) | Loi portant octroi de prêts d’études et d’autres formes d’aide financière aux étudiants, modifiant la Loi fédérale sur les prêts aux étudiants, prévoyant l’abrogation de celle-ci et modifiant une autre loi en conséquence |
 | S-23 | [Loi fédérale sur les prêts aux étudiants](S-23-loi-fédérale-sur-les-prêts-aux-étudiants.md) | Loi destinée à faciliter l’octroi de prêts aux étudiants |
 | S-23.5 | [Loi de 2013 sur la succession au trône](S-23.5-loi-de-2013-sur-la-succession-au-trône.md) | Loi d’assentiment aux modifications apportées à la loi concernant la succession au trône |

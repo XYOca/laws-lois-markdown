@@ -682,11 +682,9 @@ La Société assure tous les dépôts faits à une institution membre, sauf :
 
 **Obligation d’assurer certains dépôts préexistants**
 
-(2) Malgré l’alinéa 12c) et le paragraphe 3(1.1) de l’annexe, mais sous réserve des autres dispositions de la présente loi, lorsque, en vertu d’une loi provinciale, des dépôts préexistants auraient fait, en tout ou en partie, l’objet d’une garantie ou auraient été assurés s’il n’y avait pas eu prorogation de la société coopérative de crédit locale en coopérative de crédit fédérale, la Société assure ces dépôts jusqu’à concurrence du montant assuré par la loi provinciale visée, pendant la période transitoire, s’ils sont détenus par une coopérative de crédit fédérale qui est une institution membre.
+(2) Malgré l’alinéa 12c) et le paragraphe 4(2) de l’annexe, mais sous réserve des autres dispositions de la présente loi, lorsque, en vertu d’une loi provinciale, des dépôts préexistants auraient fait, en tout ou en partie, l’objet d’une garantie ou auraient été assurés s’il n’y avait pas eu prorogation de la société coopérative de crédit locale en coopérative de crédit fédérale, la Société assure ces dépôts jusqu’à concurrence du montant assuré par la loi provinciale visée, pendant la période transitoire, s’ils sont détenus par une coopérative de crédit fédérale qui est une institution membre.
 
-**Obligation d’assurer certains dépôts préexistants à terme fixe**
-
-(3) Malgré l’alinéa 2(2)a) de l’annexe, les dépôts préexistants ayant un terme de plus de cinq ans avec la société coopérative de crédit locale prorogée comme coopérative de crédit fédérale qui, en vertu d’une loi provinciale, auraient fait l’objet d’une garantie ou auraient été assurés s’il n’y avait pas eu prorogation de la société coopérative de crédit locale en coopérative de crédit fédérale, sont assurés par la Société pendant la période transitoire, s’il sont détenus par une coopérative de crédit fédérale qui est une institution membre.
+(3) [Abrogé, 2026, ch. 3, art. 337]
 
 **Dépôt réputé distinct**
 
@@ -700,12 +698,13 @@ La Société assure tous les dépôts faits à une institution membre, sauf :
 <summary>Historical Note</summary>
 
 - 2010, ch. 12, art. 2098; 2018, ch. 27, art. 159
+- 2026, ch. 3, art. 337
 
 </details>
 
 ### 13 Cas de fusion
 
-(1) En cas de fusion d’institutions membres, les dépôts qu’une même personne détenait au moment de la fusion dans deux ou plusieurs des parties à la fusion, déduction faite des retraits, continuent d’être réputés des dépôts distincts dans le cadre de l’assurance-dépôts, et ce pour une période de deux ans ou, s’il s’agit d’un dépôt à terme dont le terme à courir dépasse deux ans, jusqu’à son exigibilité.
+(1) En cas de fusion d’institutions membres, y compris toute institution membre assurée en vertu de l’article 12.1, les dépôts qu’une même personne détenait au moment de la fusion dans deux ou plusieurs des parties à la fusion, déduction faite des retraits, continuent d’être réputés être des dépôts distincts dans le cadre de l’assurance-dépôts auprès de la Société, et ce pour une période de deux ans ou, s’il s’agit d’un dépôt à terme dont le terme à courir dépasse deux ans, jusqu’à son exigibilité.
 
 **Dépôts postérieurs à la fusion**
 
@@ -731,6 +730,7 @@ La Société assure tous les dépôts faits à une institution membre, sauf :
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. C-3, art. 13; 1992, ch. 26, art. 5; 1996, ch. 6, art. 25; 2005, ch. 30, art. 102; 2010, ch. 12, art. 2099; 2018, ch. 27, art. 160
+- 2026, ch. 3, art. 339
 
 </details>
 
@@ -958,6 +958,17 @@ La prime exigible d’une institution membre aux termes de la présente loi cons
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. C-3, art. 17; L.R. (1985), ch. 18 (3^e^ suppl.), art. 54; 1991, ch. 45, art. 543; 2005, ch. 30, art. 104; 2007, ch. 6, art. 404; 2012, ch. 5, art. 190
+
+</details>
+
+### 17.01 Assurance des institutions à des fins de fusion
+
+Malgré l’article 17, la Société assure, selon les modalités prévues par la présente loi et les règlements administratifs, les dépôts détenus par toute coopérative de crédit fédérale qui était une société coopérative de crédit locale avant d’être prorogée à des fins de fusion par des lettres patentes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 340
 
 </details>
 
@@ -3850,3 +3861,27 @@ L’article 39.26 de la même loi est remplacé par ce qui suit :
 ### 131
 
 Le paragraphe 39.28(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 3, art. 338
+
+### 338
+
+La même loi est modifiée par adjonction, après lʼarticle 12.1, de ce qui suit :
+
+### — 2026, ch. 3, par. 339(2)
+
+### 339
+
+(2) L’article 13 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+### — 2026, ch. 3, art. 341
+
+### 341
+
+La même loi est modifiée par adjonction, après l’article 23, de ce qui suit :
+
+### — 2026, ch. 3, art. 342
+
+### 342
+
+Les renvois qui suivent le titre « ANNEXE », à l’annexe de la même loi, sont remplacés par ce qui suit :

@@ -382,16 +382,35 @@ An ingredient that has no INCI name must be listed by its chemical name.
 
 ### 21.4
 
-(1) Subject to subsections (2) and (3), ingredients must be listed in descending order of predominance, in their concentration by weight.
+(0.1) The following definitions apply in this section.
+
+**European Restricted Substances List** means Annex III, titled *List of Substances Which Cosmetic Products Must Not Contain Except Subject To The Restrictions Laid Down*, of *Regulation (EC) No. 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products*, published by the European Union on its website, as amended from time to time. (**Liste européenne de substances à usage restreint**)
+
+**fragrance allergen** means a fragrance or flavour that can cause an allergic reaction and that is included in the European Restricted Substances List and for which the restrictions set out in column h of that list provide that its presence must be indicated in a cosmetic’s list of ingredients. (**allergène de parfum**)
+
+(1) Subject to subsections (2) to (4), ingredients must be listed in descending order of predominance, in their concentration by weight.
 
 (2) Ingredients that are present at a concentration of 1% or less and all colouring agents, regardless of their concentration, may be listed in random order after the ingredients that are present at a concentration of more than 1%.
 
-(3) In the case of fragrance and flavour, the words “parfum” and “aroma”, respectively, may be inserted at the end of the list of ingredients to indicate that such ingredients have been added to the cosmetic to produce or to mask a particular odour or flavour.
+(3) In the case of fragrance and flavour, other than fragrance allergens, the words “parfum” and “aroma”, respectively, may be inserted at the end of the list of ingredients to indicate that such ingredients have been added to the cosmetic to produce or to mask a particular odour or flavour.
+
+(4) A fragrance allergen must be listed if
+
+- (a) in the case of a rinse-off product, the concentration of the fragrance allergen in the cosmetic is greater than 0.01%; or
+
+- (b) in the case of a leave-on product, the concentration of the fragrance allergen in the cosmetic is greater than 0.001%.
+
+(5) Despite subsection (4), a fragrance allergen is not required to be listed in a cosmetic’s list of ingredients before the later of
+
+- (a) the day on which a provision of a regulation, published by the European Union on its website and amending the *Regulation (EC) No. 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products* by adding the fragrance allergen to the European Restricted Substances List, comes into force; and
+
+- (b) if applicable, the day on which the fragrance allergen must be listed in the list of ingredients of a cosmetic in order for the cosmetic to be made available on the European Union market, as set out or referred to in the entry in the European Restricted Substances List for that fragrance allergen.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2004-244, s. 11
+- SOR/2024-63, s. 6
 
 </details>
 
@@ -771,14 +790,3 @@ The inner and outer labels of a cosmetic in liquid form that contains 600 mg or 
 - SOR/2024-63, s. 11
 
 </details>
-
-
-## AMENDMENTS NOT IN FORCE
-
-### — SOR/2024-63, s. 6
-
-### 6
-
-(1) Subsection 21.4(1) of the Regulations is replaced by the following:
-
-(2) Subsection 21.4(3) of the Regulations is replaced by the following:

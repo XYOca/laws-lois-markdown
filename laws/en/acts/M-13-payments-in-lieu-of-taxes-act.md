@@ -644,3 +644,12 @@ Notwithstanding anything in this Act or any regulation made under this Act, a pa
 ### 5
 
 (2) Subsection 3(1.1) and section 3.1 of the Act apply only in respect of a taxation year starting on or after January 1, 2000.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 3, s. 567
+
+### 567
+
+Schedule III to the *Payments in Lieu of Taxes Act* is amended by deleting the following:

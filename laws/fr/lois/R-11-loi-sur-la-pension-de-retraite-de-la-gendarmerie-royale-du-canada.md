@@ -1681,6 +1681,7 @@ Pour l’application des alinéas 32.12(1)c) et 32.13(1)d), **risques élevés**
 <summary>Historical Note</summary>
 
 - 2003, ch. 12, art. 4; 2005, ch. 10, art. 34
+- 2026, ch. 3, art. 380(A)
 
 </details>
 
@@ -1743,14 +1744,15 @@ Les articles 3, 5 et 11 de la *Loi sur les textes réglementaires* ne s’appliq
 
 </details>
 
-### 32.2 Décision
+### 32.2 *Loi sur les pensions*
 
-Il est disposé des réclamations de compensation faites sous le régime de la présente partie de la même manière que celles faites sous celui de la *Loi sur les pensions*, les dispositions de cette loi non incompatibles avec la présente partie s’y appliquant avec les adaptations nécessaires.
+Il est disposé, par le ministre au sens du paragraphe 3(1) de la *Loi sur les pensions*, des réclamations de compensation faites sous le régime de la présente partie de la même manière que celles faites sous celui de cette loi, les dispositions de cette loi non incompatibles avec la présente partie s’y appliquant avec les adaptations nécessaires.
 
 <details>
 <summary>Historical Note</summary>
 
 - 1998, ch. 11, art. 2; 2000, ch. 34, art. 46
+- 2026, ch. 3, art. 381
 
 </details>
 
@@ -1777,6 +1779,36 @@ Il est disposé des réclamations de compensation faites sous le régime de la p
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. R-11, art. 34; 1998, ch. 11, art. 4; 2009, ch. 13, art. 11
+
+</details>
+
+### 34.1 Ajustement annuel
+
+À compter du 1^er^ janvier 2027, les prestations ci-après sont ajustées annuellement, et ce, uniquement en fonction de l’indice des prix à la consommation :
+
+- a) la compensation accordée au titre des articles 32 ou 32.1;
+
+- b) l’indemnité accordée en vertu de l’article 5 de la *Loi sur la continuation des pensions de la Gendarmerie royale du Canada* déterminée en fonction des taux prévus par la *Loi sur les pensions*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 371
+
+</details>
+
+### 34.2 Règlements
+
+(1) Le gouverneur en conseil peut prendre des règlements concernant l’ajustement annuel des prestations visées à l’article 34.1.
+
+**Rétroactivité**
+
+(2) Les règlements pris en vertu du paragraphe (1) peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 371
 
 </details>
 
@@ -2067,6 +2099,34 @@ Malgré le paragraphe 109(1) de la *Loi modifiant certaines lois en matière de 
 ...
 
 - d) l’alinéa 26.1(1)a) de la *Loi sur la pension de retraite de la Gendarmerie royale du Canada*, édicté par l’article 77 de la loi modificative, est réputé être entré en vigueur le 15 décembre 1994;
+
+### — 2026, ch. 3, art. 382
+
+### 382 Définitions
+
+Les définitions qui suivent s’appliquent aux articles 383 et 384.
+
+**date d’entrée en vigueur** La date de sanction de la présente loi. (**coming-into-force day**)
+
+**Loi** La *Loi sur la pension de retraite de la Gendarmerie royale du Canada*. (**Act**)
+
+### — 2026, ch. 3, art. 383
+
+### 383 Autorisation rétroactive — réclamations
+
+Le ministre des Anciens Combattants est rétroactivement autorisé à disposer de toute réclamation de compensation faite sous le régime de la partie II de la Loi avant la date d’entrée en vigueur.
+
+### — 2026, ch. 3, art. 384
+
+### 384 Autorisation rétroactive — communication
+
+Toute communication de renseignements qui précède la date d’entrée en vigueur et qui aurait été autorisée au titre de l’article 32.3 de la Loi si elle avait eu lieu à cette date ou après celle-ci est rétroactivement autorisée.
+
+### — 2026, ch. 3, art. 385
+
+### 385 Précision
+
+Il est entendu que dès le premier jour où la présente section et l’article 112 de la *Loi sur la Commission d’examen et de traitement des plaintes du public* sont tous deux en vigueur, cet article 112 a pour effet de remplacer « Force » par « RCMP » dans la version anglaise des dispositions édictées par la présente section.
 
 
 ## MODIFICATIONS NON EN VIGUEUR

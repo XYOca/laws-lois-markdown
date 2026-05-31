@@ -634,3 +634,12 @@ Par dérogation aux autres dispositions de la présente loi et à ses règlement
 ### 5
 
 (2) Le paragraphe 3(1.1) et l’article 3.1 de la même loi s’appliquent à toute année d’imposition débutant le 1^er^ janvier 2000 ou après cette date.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 3, art. 567
+
+### 567
+
+L’annexe III de la *Loi sur les paiements versés en remplacement d’impôts* est modifiée par suppression de ce qui suit :

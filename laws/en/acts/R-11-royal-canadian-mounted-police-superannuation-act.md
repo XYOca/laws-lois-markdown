@@ -1689,7 +1689,7 @@ In paragraphs 32.12(1)(c) and 32.13(1)(d), **conditions of elevated risk** means
 
 - (b) members of the Force have been deployed, or will be deployed, to that area as part of an operation of a type referred to in section 32.14; and
 
-- (c) the Solicitor General of Canada is of the opinion that that deployment has exposed or may expose those members to conditions of elevated risk.
+- (c) the Minister of Public Safety and Emergency Preparedness is of the opinion that that deployment has exposed or may expose those members to conditions of elevated risk.
 
 **Period of designation**
 
@@ -1699,6 +1699,7 @@ In paragraphs 32.12(1)(c) and 32.13(1)(d), **conditions of elevated risk** means
 <summary>Historical Note</summary>
 
 - 2003, c. 12, s. 4; 2005, c. 10, s. 34
+- 2026, c. 3, s. 380(E)
 
 </details>
 
@@ -1761,14 +1762,15 @@ Sections 3, 5 and 11 of the *Statutory Instruments Act* do not apply in respect 
 
 </details>
 
-### 32.2 Adjudication
+### 32.2 *Pension Act*
 
-All claims for awards under this Part shall be dealt with and adjudicated on in like manner as claims under the *Pension Act*, and all provisions of that Act not inconsistent with this Part apply, with such modifications as the circumstances require, to any claim under this Part.
+All claims for awards under this Part shall be dealt with and determined by the Minister as defined in subsection 3(1) of the *Pension Act* in the same manner as claims under that Act. All provisions of that Act that are not inconsistent with this Part apply, with any necessary modifications, to any claim under this Part.
 
 <details>
 <summary>Historical Note</summary>
 
 - 1998, c. 11, s. 2; 2000, c. 34, s. 46
+- 2026, c. 3, s. 381
 
 </details>
 
@@ -1795,6 +1797,36 @@ All claims for awards under this Part shall be dealt with and adjudicated on in 
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. R-11, s. 34; 1998, c. 11, s. 4; 2009, c. 13, s. 11
+
+</details>
+
+### 34.1 Annual adjustment
+
+Beginning on January 1, 2027, the following benefits are to be adjusted annually only on the basis of the Consumer Price Index:
+
+- (a) an award granted under section 32 or 32.1; and
+
+- (b) any compensation granted under section 5 of the *Royal Canadian Mounted Police Pension Continuation Act* that is determined on the basis of rates provided for under the *Pension Act*.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 371
+
+</details>
+
+### 34.2 Regulations
+
+(1) The Governor in Council may make regulations respecting the annual adjustment of the benefits referred to in section 34.1.
+
+**Retroactive effect**
+
+(2) Regulations made under subsection (1) may, if they so provide, have retroactive effect.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 371
 
 </details>
 
@@ -2085,6 +2117,34 @@ Despite subsection 109(1) of *An Act to amend certain Acts in relation to pensio
 ...
 
 - (d) paragraph 26.1(1)(a) of the *Royal Canadian Mounted Police Superannuation Act*, as enacted by section 77 of the amending Act, is deemed to have come into force on December 15, 1994; and
+
+### — 2026, c. 3, s. 382
+
+### 382 Definitions
+
+The following definitions apply in sections 383 and 384.
+
+**Act** means the *Royal Canadian Mounted Police Superannuation Act*. (**Loi**)
+
+**coming-into-force day** means the day on which this Act receives royal assent. (**date d’entrée en vigueur**)
+
+### — 2026, c. 3, s. 383
+
+### 383 Retroactive authorization — claims
+
+The Minister of Veterans Affairs is retroactively authorized to deal with and determine all claims for an award that were made under Part II of the Act before the coming-into-force day.
+
+### — 2026, c. 3, s. 384
+
+### 384 Retroactive authorization — disclosure
+
+Any disclosure of information that occurred before the coming-into-force day and that would be authorized under section 32.3 of the Act if it occurred on or after that day is retroactively authorized.
+
+### — 2026, c. 3, s. 385
+
+### 385 For greater certainty
+
+For greater certainty, on the first day on which both this Division and section 112 of the *Public Complaints and Review Commission Act* are in force, that section 112 operates so as to replace every reference to “Force” with a reference to “RCMP” in the English version of the provisions enacted by this Division.
 
 
 ## AMENDMENTS NOT IN FORCE

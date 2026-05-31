@@ -1186,3 +1186,45 @@ Pour l’application de l’alinéa 251.01(3)b) de la Loi, est visé le cas où,
 ### 9
 
 (1) L’annexe II du même règlement est modifiée par adjonction, après la mention « Le congé de maternité », de ce qui suit :
+
+### — DORS/2026-75, art. 1
+
+### 1
+
+Le *Règlement du Canada sur les normes du travail*[^] est modifié par adjonction, après l’article 11.1, de ce qui suit :
+
+### — DORS/2026-75, art. 2
+
+### 2
+
+Le même règlement est modifié par adjonction, après l’article 16, de ce qui suit :
+
+### — DORS/2026-75, art. 3
+
+### 3
+
+Le paragraphe 24(2) du même règlement est modifié par adjonction, après l’alinéa f), de ce qui suit :
+
+### — DORS/2026-75, art. 4
+
+### 4
+
+À l’annexe II du même règlement, « L’égalité des salaires » est remplacé par « L’égalité de traitement ».
+
+### — DORS/2026-75, art. 5
+
+### 5
+
+L’annexe II du même règlement est modifiée par adjonction, après la mention « Le travail au service de plusieurs employeurs », de ce qui suit :
+
+### — DORS/2026-75, art. 6
+
+### 6
+
+À l’annexe II du même règlement, « Le congé de maladie » est remplacé par « Le congé pour raisons médicales ».
+
+### — DORS/2026-75, art. 7
+
+### 7
+
+À l’annexe II du même règlement, « *https://www.canada.ca/fr/emploi-developpement-social/programmes/normes-travail/normes-federales.html* » est remplacé par « *https://www.canada.ca/fr/services/emplois/milieu-travail/normes-travail-federales.html* ».

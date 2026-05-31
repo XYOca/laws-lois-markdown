@@ -1196,6 +1196,8 @@ La part du coût des avantages, services ou soins visés au présent règlement 
   - (i) le facteur revenu figurant à l’alinéa 2a) de l’annexe de la *Loi sur les allocations aux anciens combattants*, applicable le 1^er^ juillet de la même année,
   - (ii) le même facteur revenu applicable le 1^er^ juillet de l’année précédente.
 
+(4.1) À l’alinéa (4)a), **province** s’entend de l’Ontario, du Québec, de la Nouvelle-Écosse, du Nouveau-Brunswick, du Manitoba, de la Colombie-Britannique, de l’Île-du-Prince-Édouard, de la Saskatchewan, de l’Alberta ou de Terre-Neuve-et-Labrador.
+
 (5) Le revenu mensuel d’un client correspond au total des montants soustraits du facteur revenu dans le calcul de l’allocation mensuelle payable au client pour le mois en cause aux termes des paragraphes 4(3), (6), (6.1) ou (8), selon le cas, de la *Loi sur les allocations aux anciens combattants*, ou qui seraient ainsi soustraits si le client était allocataire au sens de cette loi.
 
 (6) Le montant de l’exemption personnelle et familiale pour chacun des douze mois suivant le 30 septembre d’une année correspond au total des montants suivants :
@@ -1228,6 +1230,7 @@ La part du coût des avantages, services ou soins visés au présent règlement 
 - DORS/98-386, art. 15; DORS/2001-157, art. 12; DORS/2001-326, art. 12 et 14; DORS/2003-362, art. 11; DORS/2006-50, art. 82; DORS/2012-289, art. 12; DORS/2016-31, art. 11
 - DORS/2018-177, art. 22
 - DORS/2022-69, art. 16
+- 2026, ch. 3, art. 374
 
 </details>
 
@@ -1372,3 +1375,9 @@ Le *Règlement sur les soins de santé pour anciens combattants*, dans sa versio
 ### 16
 
 L’article 15 du *Règlement sur les soins de santé pour anciens combattants*, dans sa version antérieure à l’entrée en vigueur du présent règlement, continue de s’appliquer à l’égard de toute entente de contribution en vigueur à la date de cette entrée en vigueur jusqu’à l’expiration de l’entente, mais au plus tard jusqu’au 31 décembre 2013.
+
+### — 2026, ch. 3, art. 373
+
+### 373
+
+À l’égard de la période commençant le 1^er^ avril 1993 et se terminant le 15 juillet 1998, le terme « province », pour l’application de l’alinéa 20(5)a), du sous-alinéa 20(6)b)(i) et des alinéas 23(5)a) et (6)a) du *Règlement sur les soins de santé pour anciens combattants*, est considéré comme n’ayant visé que l’Ontario, le Québec, la Nouvelle-Écosse, le Nouveau-Brunswick, le Manitoba, la Colombie-Britannique, l’Île-du-Prince-Édouard, la Saskatchewan, l’Alberta ou Terre-Neuve-et-Labrador.

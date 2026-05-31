@@ -1336,3 +1336,32 @@ L’alinéa 19(1)j) et l’article 39 entrent en vigueur à la date fixée par p
 
 
 
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 3, art. 195
+
+### 195
+
+La définition de **document de bibliothèque**, au paragraphe 2(1) de la *Loi sur la Société canadienne des postes*, est abrogée.
+
+### — 2026, ch. 3, art. 196
+
+### 196
+
+La même loi est modifiée par adjonction, après l’article 16, de ce qui suit :
+
+### — 2026, ch. 3, art. 197
+
+### 197
+
+(1) Les alinéas 19(1)d) à g.1) de la même loi sont abrogés.
+
+(2) Les paragraphes 19(2) et (3) de la même loi sont abrogés.
+
+### — 2026, ch. 3, art. 198
+
+### 198
+
+Les articles 21 à 21.2 de la même loi sont abrogés.

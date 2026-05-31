@@ -2890,12 +2890,16 @@ Un document contenant des statistiques recueillies, établies, analysées ou ré
 
 - b.1) ou bien, sous la forme d’une déclaration ou d’une garantie visant les avantages d’un produit pour la protection ou la restauration de l’environnement ou l’atténuation des causes ou des effets environnementaux, sociaux et écologiques des changements climatiques, des indications qui ne se fondent pas sur une épreuve suffisante et appropriée, dont la preuve incombe à la personne qui donne les indications;
 
-- b.2) ou bien des indications sur les avantages d’une entreprise ou de l’activité d’une entreprise pour la protection ou la restauration de l’environnement ou l’atténuation des causes ou des effets environnementaux et écologiques des changements climatiques si les indications ne se fondent pas sur des éléments corroboratifs suffisants et appropriés obtenus au moyen d’une méthode reconnue à l’échelle internationale, dont la preuve incombe à la personne qui donne les indications;
+- b.2) ou bien des indications sur les avantages d’une entreprise ou de l’activité d’une entreprise pour la protection ou la restauration de l’environnement ou l’atténuation des causes ou des effets environnementaux et écologiques des changements climatiques si les indications ne se fondent pas sur des éléments corroboratifs suffisants et appropriés, dont la preuve incombe à la personne qui donne les indications;
 
 - c) ou bien des indications sous une forme qui fait croire qu’il s’agit :
   - (i) soit d’une garantie de produit,
   - (ii) soit d’une promesse de remplacer, entretenir ou réparer tout ou partie d’un article ou de fournir de nouveau ou continuer à fournir un service jusqu’à l’obtention du résultat spécifié,
   si cette forme de prétendue garantie ou promesse est trompeuse d’une façon importante ou s’il n’y a aucun espoir raisonnable qu’elle sera respectée.
+
+**Non-application de l’alinéa (1)b.2)**
+
+(1.01) L’alinéa (1)b.2) ne s’applique pas dans le cadre d’une demande présentée en vertu de la présente partie par une personne autorisée en vertu de l’article 103.1.
 
 **Indication de prix partiel**
 
@@ -2933,6 +2937,7 @@ Un document contenant des statistiques recueillies, établies, analysées ou ré
 - 1999, ch. 2, art. 22; 2009, ch. 2, art. 422
 - 2022, ch. 10, art. 259
 - 2024, ch. 15, art. 236
+- 2026, ch. 3, art. 597
 
 </details>
 
@@ -4801,6 +4806,10 @@ Après la délivrance du certificat visé à l’article 102, le commissaire ne 
 
 (6.1) Le Tribunal peut faire droit à une demande de permission de présenter une demande en vertu de l’article 74.1 s’il est convaincu que cela servirait l’intérêt public.
 
+**Rejet de la demande : article 74.1**
+
+(6.2) Toutefois, le Tribunal ne peut être saisi d’une demande de permission de présenter, en vertu de l’article 74.1, une demande fondée sur l’alinéa 74.01(1)b.2).
+
 **Octroi de la demande : articles 75, 77, 79 ou 90.1**
 
 (7) Le Tribunal peut faire droit à une demande de permission de présenter une demande en vertu des articles 75, 77, 79 ou 90.1 s’il a des raisons de croire que l’auteur de la demande est directement et sensiblement gêné dans tout ou partie de son entreprise en raison de l’existence de l’un ou l’autre des comportements qui pourraient faire l’objet d’une ordonnance en vertu de l’un de ces articles ou s’il est convaincu que cela servirait l’intérêt public.
@@ -4839,6 +4848,7 @@ Après la délivrance du certificat visé à l’article 102, le commissaire ne 
 - 2002, ch. 16, art. 12; 2009, ch. 2, art. 431
 - 2022, ch. 10, art. 266
 - 2024, ch. 15, art. 254
+- 2026, ch. 3, art. 598
 
 </details>
 

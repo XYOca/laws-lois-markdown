@@ -1777,6 +1777,8 @@ The definitions in this section apply in this Part.
 
 **Consumer Price Index**, in relation to an adjustment year, means the average of the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the *Statistics Act*, for each month in that adjustment year. (**indice des prix à la consommation**)
 
+**covered period** means the period beginning on April 1, 1985 and ending on December 31, 2026. (**période visée**)
+
 **first adjustment year**, in relation to a calendar year, means the period of twelve months ending on October 31 in the previous calendar year. (**première année de rajustement**)
 
 **second adjustment year**, in relation to a calendar year, means the period of twelve months immediately before the first adjustment year. (**seconde année de rajustement**)
@@ -1785,12 +1787,50 @@ The definitions in this section apply in this Part.
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. P-6, s. 74; R.S., 1985, c. 16 (1st Supp.), s. 10; 2000, c. 12, s. 230, c. 34, s. 34
+- 2026, c. 3, s. 363
+
+</details>
+
+### 74.1 Basic pension — covered period
+
+For the covered period, the basic pension payable as of a date set out in column 1 of Schedule IV is deemed to have been the basic pension set out in column 2 for that date.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 364
+
+</details>
+
+### 74.2 Related amounts — covered period
+
+For the covered period, the following amounts are deemed to have been calculated on the basis of the adjustments to the basic pension referred to in section 74.1:
+
+- (a) any amount that, under this Act, as it read before the coming into force of this section, or under any other Act of Parliament, was to have been adjusted at the same times and by the same percentage as the basic pension; and
+
+- (b) any amount that, under this Act, as it read before the coming into force of this section, or under any other Act of Parliament, was to have been determined on the basis of the basic pension or an amount referred to in paragraph (a).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 364
+
+</details>
+
+### 74.3 Conflict or inconsistency
+
+In the event of a conflict or inconsistency between sections 74.1 and 74.2 and any other provision of this Act or a provision of any other Act of Parliament, or of any regulation made under this or any other Act of Parliament, sections 74.1 and 74.2 prevail.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 364
 
 </details>
 
 ### 75 Annual adjustment of basic pension
 
-(1) The basic pension shall be adjusted annually in the manner prescribed by regulation of the Governor in Council, so that the basic pension payable for a month in the following calendar year is the greater of
+(1) Beginning on January 1, 2027, the basic pension shall be adjusted annually in the manner prescribed by regulation of the Governor in Council, so that the basic pension payable for a month in the following calendar year is the greater of
 
 - (a) an amount equal to the product obtained by multiplying
   - (i) the basic pension that would have been payable for that month if no adjustment had been made under this Part with respect to that following year,
@@ -1807,10 +1847,15 @@ The definitions in this section apply in this Part.
 
 (3) All amounts set out in Schedules I to III shall be adjusted, in the manner prescribed by regulation of the Governor in Council, at the same times and by the same percentage as the basic pension.
 
+**Definition of **province****
+
+(4) In paragraph (1)(b), **province** does not include Yukon, the Northwest Territories or Nunavut and is deemed never to have included them.
+
 <details>
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. P-6, s. 75; R.S., 1985, c. 16 (1st Supp.), s. 11, c. 37 (3rd Supp.), s. 13; 1990, c. 43, s. 24; 2000, c. 34, s. 35; 2003, c. 22, s. 224(E)
+- 2026, c. 3, s. 365
 
 </details>
 
@@ -2176,17 +2221,49 @@ The Governor in Council may make regulations for carrying the purposes and provi
 
 </details>
 
-### 91.1
+### 91.1 Regulations — paragraph 75(1)(b)
 
-[Repealed, 2005, c. 21, s. 108]
+The Governor in Council may make regulations for the purposes of paragraph 75(1)(b), including regulations respecting the determination of
 
-### 91.2
+- (a) the average annual gross composite wage of categories of unskilled members of the federal public administration designated by the Minister; and
 
-[Repealed, 2005, c. 21, s. 108]
+- (b) income tax for a single person calculated in the province with the lowest combined provincial and federal income tax rate.
 
-### 91.3
+<details>
+<summary>Historical Note</summary>
 
-[Repealed, 2005, c. 21, s. 108]
+- 2000, c. 34, s. 40; 2003, c. 12, s. 3; 2005, c. 21, s. 108
+- 2026, c. 3, s. 366
+
+</details>
+
+### 91.2 Amendments to Schedule IV
+
+The Governor in Council may, by regulation, amend Schedule IV by
+
+- (a) adding “January 1, 2026” to column 1 and the basic pension for that date in column 2; and
+
+- (b) varying any basic pension set out in column 2.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, c. 12, s. 3; 2005, c. 21, s. 108
+- 2026, c. 3, s. 366
+
+</details>
+
+### 91.3 Retroactive effect
+
+Regulations made under section 91 for the purposes of section 75 and regulations made under section 91.1 or 91.2 may, if they so provide, have retroactive effect.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, c. 12, s. 3; 2005, c. 21, s. 108
+- 2026, c. 3, s. 366
+
+</details>
 
 ### 91.4
 
@@ -2380,7 +2457,7 @@ against Her Majesty, or against any officer, servant or agent of Her Majesty, in
 
 ## SCHEDULE I  Scale of Pensions for Disability
 
-(Section 21)
+(Subsection 3(1), paragraphs 21(1)(a) and (2)(a), subsections 21(5), 34(6) and (7), paragraph 34(12)(a), section 41, subsections 42(3) and (5), 45(2), (2.1), (3), (3.01) and (3.1), 48(5), 49(1) and (2), 50(1) and 55(2), sections 70 and 71, subsections 71.1(1) and 71.2(2), paragraph 72(1)(a), section 74, subsection 75(3) and section 78)
 
 | Class | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | Range of Disability (%) | 98-100 | 93-97 | 88-92 | 83-87 | 78-82 | 73-77 | 68-72 | 63-67 | 58-62 | 53-57 | 48-52 | 43-47 | 38-42 | 33-37 | 28-32 | 23-27 | 18-22 | 13-17 | 8-12 | 5-7 |
@@ -2396,13 +2473,14 @@ against Her Majesty, or against any officer, servant or agent of Her Majesty, in
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. P-6, Sch. I; R.S., 1985, c. 37 (3rd Supp.), s. 17; 2000, c. 12, s. 236
+- 2026, c. 3, s. 367
 
 </details>
 
 
 ## SCHEDULE II  Pensions for Death
 
-(Sections 21, 34, 45, 46, 52, 53, 55, 70, 71, 75 and 78)
+(Paragraphs 21(1)(b) and (i) and (2)(b) and (d), subsections 34(6) and (11), subparagraph 34(12)(a)(i), subsections 45(2), (2.1) and (3.3), section 46, subsections 47(3) and 52(1), paragraph 52(2)(a), subsections 52(4), 53(2), (5) and (6) and 55(2), sections 70 and 71, subsection 75(3) and section 78)
 
 |  | Monthly Rate in Dollars |
 | --- | --- |
@@ -2424,13 +2502,14 @@ against Her Majesty, or against any officer, servant or agent of Her Majesty, in
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. P-6, Sch. II; R.S., 1985, c. 37 (3rd Supp.), s. 17; 1990, c. 43, s. 31; 2000, c. 12, ss. 232, 233
+- 2026, c. 3, s. 368
 
 </details>
 
 
 ## SCHEDULE III  Allowances
 
-(Sections 38, 72 and 75)
+(Subsections 38(1), (4) ,(5) , (7) and (8), 55(2), 72(1) and 75(3))
 
 |  | Yearly Rate in Dollars |
 | --- | --- |
@@ -2446,6 +2525,64 @@ against Her Majesty, or against any officer, servant or agent of Her Majesty, in
 <summary>Historical Note</summary>
 
 - 1990, c. 43, s. 31; 2000, c. 12, ss. 234, 235
+- 2026, c. 3, s. 369
+
+</details>
+
+
+## SCHEDULE IV
+
+(Sections 74.1 and 91.2)
+
+| Column 1 | Column 2 |
+| Date | Basic Pension ($) |
+| --- | --- |
+| April 1, 1985 | 1,146.83 |
+| January 1, 1986 | 1,191.56 |
+| January 1, 1987 | 1,240.40 |
+| January 1, 1988 | 1,293.75 |
+| January 1, 1989 | 1,346.79 |
+| January 1, 1990 | 1,410.09 |
+| January 1, 1991 | 1,477.77 |
+| January 1, 1992 | 1,563.48 |
+| January 1, 1993 | 1,591.62 |
+| January 1, 1994 | 1,621.86 |
+| January 1, 1995 | 1,629.97 |
+| January 1, 1996 | 1,659.31 |
+| January 1, 1997 | 1,684.20 |
+| January 1, 1998 | 1,716.20 |
+| January 1, 1999 | 1,731.65 |
+| January 1, 2000 | 1,776.75 |
+| January 1, 2001 | 1,821.17 |
+| January 1, 2002 | 1,875.81 |
+| January 1, 2003 | 1,936.65 |
+| January 1, 2004 | 1,998.62 |
+| January 1, 2005 | 2,032.60 |
+| January 1, 2006 | 2,209.38 |
+| January 1, 2007 | 2,258.92 |
+| January 1, 2008 | 2,304.10 |
+| January 1, 2009 | 2,361.70 |
+| January 1, 2010 | 2,436.32 |
+| January 1, 2011 | 2,478.08 |
+| January 1, 2012 | 2,547.47 |
+| January 1, 2013 | 2,593.32 |
+| January 1, 2014 | 2,616.66 |
+| January 1, 2015 | 2,663.76 |
+| January 1, 2016 | 2,695.73 |
+| January 1, 2017 | 2,733.47 |
+| January 1, 2018 | 2,792.53 |
+| January 1, 2019 | 2,856.76 |
+| January 1, 2020 | 2,911.04 |
+| January 1, 2021 | 2,940.15 |
+| January 1, 2022 | 3,019.53 |
+| January 1, 2023 | 3,215.80 |
+| January 1, 2024 | 3,357.30 |
+| January 1, 2025 | 3,444.59 |
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 370
 
 </details>
 

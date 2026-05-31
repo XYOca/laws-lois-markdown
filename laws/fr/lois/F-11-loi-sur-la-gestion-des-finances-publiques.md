@@ -5221,7 +5221,7 @@ Le gouverneur en conseil peut suspendre, avec ou sans traitement, pour la pério
 
 - b) aux sommes liées à la dette publique ou aux intérêts sur celle-ci;
 
-- c) aux sommes à payer par toute personne à Sa Majesté du chef du Canada ou à payer par le ministre du Revenu national à toute personne au titre de la *Loi sur la taxe d’accise*, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe*, de la *Loi sur la taxe sur les services numériques* ou de la *Loi sur l’impôt minimum mondial*.
+- c) aux sommes à payer par toute personne à Sa Majesté du chef du Canada ou à payer par le ministre du Revenu national à toute personne au titre de la *Loi sur la taxe d’accise*, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe* ou de la *Loi sur l’impôt minimum mondial*.
 
 <details>
 <summary>Historical Note</summary>
@@ -5233,6 +5233,7 @@ Le gouverneur en conseil peut suspendre, avec ou sans traitement, pour la pério
 - 2024, ch. 15, art. 108
 - 2024, ch. 17, art. 92
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 139
 
 </details>
 
@@ -6084,3 +6085,9 @@ ainsi que de la mention « Président », dans la colonne II, en regard de c
 La partie III de l’annexe VI de la même loi est modifiée par adjonction, dans la colonne I, selon l’ordre alphabétique, de ce qui suit :
 
 ainsi que de la mention « Président », dans la colonne II, en regard de ce ministère.
+
+### — 2026, ch. 3, art. 566
+
+### 566
+
+La partie I de l’annexe III de la *Loi sur la gestion des finances publiques* est modifiée par suppression de ce qui suit :

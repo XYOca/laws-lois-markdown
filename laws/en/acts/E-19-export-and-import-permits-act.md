@@ -1473,3 +1473,18 @@ Every first regulation made under section 3, 6 or 12 of the *Export and Import P
 ### 22 Automatic Firearms Country Control List
 
 Every country that is included in the **Automatic Firearms Country Control List**, as defined in subsection 2(1) of the *Export and Import Permits Act*, immediately before the day on which section 5 of this Act comes into force is deemed to have been included in that list, on that day, under section 4.1 of the *Export and Import Permits Act*, as enacted by that section 5.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 3, s. 460
+
+### 460
+
+Subsection 3(1) of the *Export and Import Permits Act* is amended by striking out “or” at the end of paragraph (f) and by adding the following after paragraph (g):
+
+### — 2026, c. 3, s. 461
+
+### 461
+
+Subsection 5(1) of the Act is amended by striking out “or” at the end of paragraph (e), by adding “or” at the end of paragraph (f) and by adding the following after paragraph (f):

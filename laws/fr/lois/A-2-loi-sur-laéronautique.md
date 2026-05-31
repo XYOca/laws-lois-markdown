@@ -55,6 +55,8 @@ La présente loi lie Sa Majesté du chef du Canada ou d’une province.
 
 **arrêté d’urgence** Arrêté pris en vertu des paragraphes 6.41(1) ou (1.1). (**interim order**)
 
+**bien** Tout ce qui peut être soit apporté ou placé à bord d’un aéronef, soit apporté dans un aérodrome ou d’autres installations aéronautiques, notamment les effets personnels, les bagages, le fret et les moyens de transport. (**goods**)
+
 **Canada**[Abrogée, 1996, ch. 31, art. 56]
 
 **commandant de bord** Le pilote responsable, pendant le temps de vol, de l’utilisation et de la sécurité d’un aéronef. (**pilot-in-command**)
@@ -63,7 +65,7 @@ La présente loi lie Sa Majesté du chef du Canada ou d’une province.
 
 **directive d’urgence** Directive donnée en vertu des articles 4.76 ou 4.77. (**emergency direction**)
 
-**document d’aviation canadien** Sous réserve du paragraphe (3), tout document — permis, licence, brevet, agrément, autorisation, certificat ou autre — délivré par le ministre sous le régime de la partie I et concernant des personnes, des aérodromes, ou des produits, installations ou services aéronautiques. (**Canadian aviation document**)
+**document d’aviation canadien** Sous réserve des paragraphes (3) et (4), tout document — permis, licence, brevet, agrément, autorisation, certificat ou autre — délivré par le ministre sous le régime de la partie I et concernant des personnes, des aérodromes, ou des produits, installations ou services aéronautiques. (**Canadian aviation document**)
 
 **habilitation de sécurité** Habilitation accordée au titre de l’article 4.8 à toute personne jugée acceptable sur le plan de la sûreté des transports. (**security clearance**)
 
@@ -123,12 +125,19 @@ La présente loi lie Sa Majesté du chef du Canada ou d’une province.
 
 - b) tout laissez-passer de zone réglementée délivré par le ministre à l’égard d’un aérodrome exploité par celui-ci;
 
-- c) tout document d’aviation canadien précisé par les règlements sur la sûreté aérienne pour l’application du présent paragraphe.
+- c) tout document d’aviation canadien précisé par les règlements sur la sûreté aérienne pour l’application du présent paragraphe;
+
+- d) toute autorisation donnée en vertu de l’article 7.42.
+
+**Exception — autorisations ministérielles**
+
+(4) L’autorisation accordée en vertu des paragraphes 4.3(1), (1.1) ou (3) n’est pas un document d’aviation canadien.
 
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. A-2, art. 3; L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 1992, ch. 4, art. 1; 1996, ch. 20, art. 99, ch. 31, art. 56; 1999, ch. 3, art. 13, ch. 31, art. 4; 2001, ch. 29, art. 33; 2002, ch. 7, art. 79(A); 2004, ch. 15, art. 2 et 111; 2014, ch. 29, art. 10; 2015, ch. 3, art. 3
+- 2026, ch. 3, art. 463
 
 </details>
 
@@ -138,7 +147,7 @@ La présente loi lie Sa Majesté du chef du Canada ou d’une province.
 
 ### 4 Règle générale
 
-(1) Sous réserve des règlements pris au titre de l’alinéa 4.9w), la présente partie s’applique en matière d’aéronautique, dans l’ensemble du Canada, aux personnes, aux produits aéronautiques et à tous autres objets et, à l’étranger, aux titulaires de documents d’aviation canadiens, aux aéronefs canadiens et à leurs passagers et équipages.
+(1) Sous réserve des règlements pris au titre de l’alinéa 4.9w), la présente partie s’applique en matière d’aéronautique, dans l’ensemble du Canada, aux personnes, aux produits aéronautiques et à tous autres objets et, à l’étranger, aux titulaires de documents d’aviation canadiens, aux aéronefs canadiens et aux passagers et aux équipages à bord de ceux-ci ainsi qu’aux biens et aux personnes à bord de tout aéronef à destination du Canada.
 
 **Droit étranger**
 
@@ -152,6 +161,7 @@ La présente loi lie Sa Majesté du chef du Canada ou d’une province.
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. A-2, art. 4; L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 1992, ch. 4, art. 2
+- 2026, ch. 3, art. 464
 
 </details>
 
@@ -163,6 +173,25 @@ Quiconque est auteur à l’étranger d’un fait — acte ou omission — qui, 
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 1992, ch. 4, art. 3
+
+</details>
+
+### 4.11 Méthodes de signification
+
+(1) Si une disposition de la présente partie — ou de tout règlement, avis, arrêté, mesure de sûreté ou directive d’urgence pris ou donnés, selon le cas, sous son régime — exige qu’un avis ou un autre document soient signifiés soit à personne, soit par courrier recommandé ou certifié, la signification peut également se faire par voie électronique.
+
+**Preuve de signification**
+
+(2) La signification par voie électronique est établie par un relevé de transmission électronique indiquant la date et l’heure de transmission.
+
+**Prise d’effet de la signification**
+
+(3) La signification électronique prend effet à la date indiquée sur le relevé de transmission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 465
 
 </details>
 
@@ -200,6 +229,8 @@ Quiconque est auteur à l’étranger d’un fait — acte ou omission — qui, 
 
 - n) sous réserve du paragraphe (2), procéder à des enquêtes sur tout aspect intéressant la sécurité aéronautique;
 
+- n.1) assurer la gestion de l’utilisation des systèmes d’aéronefs télépilotés ainsi que des matériels et des systèmes susceptibles de perturber le fonctionnement des systèmes d’aéronefs télépilotés;
+
 - o) entreprendre, à son initiative ou sur les instructions du gouverneur en conseil, toute autre activité liée à l’aéronautique.
 
 **Exception : enquêtes sur les accidents militaro-civils**
@@ -210,6 +241,7 @@ Quiconque est auteur à l’étranger d’un fait — acte ou omission — qui, 
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 2014, ch. 29, art. 11
+- 2026, ch. 3, art. 466
 
 </details>
 
@@ -392,18 +424,15 @@ La personne autorisée à exercer les attributions du ministre de la Défense na
 
 #### Définitions
 
-### 4.7 Définitions
+### 4.7 Définition de **contrôle**
 
-Les définitions qui suivent s’appliquent aux articles 4.71 à 4.85.
-
-**bien** Tout ce qui peut être soit apporté ou placé à bord d’un aéronef, soit apporté dans un aérodrome ou d’autres installations aéronautiques, notamment les effets personnels, les bagages, le fret et les moyens de transport. (**goods**)
-
-**contrôle** Contrôle — y compris la fouille — effectué de la manière et dans les circonstances prévues par les règlements sur la sûreté aérienne, les mesures de sûreté, les directives d’urgence ou les arrêtés d’urgence. (**screening**)
+Pour l’application des articles 4.71 à 4.85, **contrôle** s’entend de tout contrôle — y compris la fouille — effectué de la manière et dans les circonstances prévues par les règlements sur la sûreté aérienne, les mesures de sûreté, les directives d’urgence ou les arrêtés d’urgence.
 
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 1992, ch. 4, art. 5; 1999, ch. 31, art. 5 et 6; 2004, ch. 15, art. 5
+- 2026, ch. 3, art. 467
 
 </details>
 
@@ -440,7 +469,15 @@ Les définitions qui suivent s’appliquent aux articles 4.71 à 4.85.
 
 - j) prévoir des exigences de sûreté pour la conception et la construction des aéronefs, aérodromes et autres installations aéronautiques;
 
-- k) obliger l’établissement, par l’Administration canadienne de la sûreté du transport aérien, les transporteurs aériens et les exploitants d’aérodromes et d’autres installations aéronautiques, de systèmes de gestion de la sûreté et régir le contenu et les exigences de ces systèmes;
+- k) obliger des personnes — ou catégories de personnes — qui exercent des fonctions liées à la sûreté aérienne à élaborer, à documenter et à tenir à jour des systèmes de gestion de la sûreté ou d’autres systèmes relatifs à la sûreté aérienne;
+
+- k.1) obliger des personnes — ou catégories de personnes — qui exercent des fonctions liées à la sûreté aérienne à élaborer, à documenter et à tenir à jour des procédés, des procédures, des programmes ou des plans relatifs à la sûreté aérienne;
+
+- k.2) obliger des personnes — ou catégories de personnes — qui exercent des fonctions liées à la sûreté aérienne à élaborer et à tenir à jour des documents, notamment des manuels, relatifs à la sûreté aérienne;
+
+- k.3) régir le contenu et les exigences de tout système, procédé, programme, plan ou document ou de toute procédure visés à l’un ou l’autre des alinéas k) à k.2);
+
+- k.4) obliger des personnes — ou catégories de personnes — qui exercent des fonctions liées à la sûreté aérienne à se conformer aux dispositions ou aux exigences de tout système, procédé, programme, plan, ou document ou de toute procédure visés à l’un ou l’autre des alinéas k) à k.2);
 
 - l) prévoir des exigences de sûreté pour le matériel, les systèmes et les procédés utilisés dans les aéronefs, aérodromes et autres installations aéronautiques;
 
@@ -454,6 +491,7 @@ Les définitions qui suivent s’appliquent aux articles 4.71 à 4.85.
 <summary>Historical Note</summary>
 
 - 2004, ch. 15, art. 5
+- 2026, ch. 3, art. 468
 
 </details>
 
@@ -919,16 +957,19 @@ Le ministre peut procéder, à l’étranger, au contrôle de la sûreté aérie
 
 ### 4.87 Immunité
 
-La personne qui est autorisée par le ministre à contrôler l’observation des règlements sur la sûreté aérienne, des mesures de sûreté, des directives d’urgence ou des arrêtés d’urgence ou l’efficacité du matériel, des systèmes et procédés utilisés à l’égard des aéronefs, aérodromes et autres installations aéronautiques peut, à cette fin, sans se rendre coupable d’une infraction, commettre un acte ou une omission qui constitue une contravention à ces règlements, mesures, directives ou arrêtés.
+La personne qui est autorisée par le ministre à contrôler l’observation des règlements sur la sûreté aérienne, des mesures de sûreté, des directives d’urgence ou des arrêtés d’urgence ou l’efficacité du matériel, des systèmes et des procédés utilisés à l’égard des aéronefs, aérodromes et autres installations aéronautiques peut, à cette fin, sans se rendre coupable d’une infraction ou d’une violation, commettre un acte ou une omission qui constitue une contravention à ces règlements, mesures, directives ou arrêtés.
 
 <details>
 <summary>Historical Note</summary>
 
 - 2004, ch. 15, art. 7
+- 2026, ch. 3, art. 469
 
 </details>
 
 ### Dispositions réglementaires générales
+
+#### Règlements — général
 
 ### 4.9 Réglementation sur l’aéronautique
 
@@ -993,6 +1034,29 @@ Le gouverneur en conseil peut prendre des règlements sur l’aéronautique et n
 
 </details>
 
+### 4.901 Teneur des règlements
+
+Les règlements visés à l’article 4.9 peuvent notamment :
+
+- a) obliger des personnes — ou catégories de personnes — qui exercent des fonctions liées à la sûreté aérienne à élaborer, à documenter et à tenir à jour des systèmes de gestion de la sécurité ou d’autres systèmes relatifs à la sécurité aérienne;
+
+- b) obliger des personnes — ou catégories de personnes — qui exercent des fonctions liées à la sécurité aérienne à élaborer, à documenter et à tenir à jour des procédés, des procédures, des programmes ou des plans relatifs à la sécurité aérienne;
+
+- c) obliger des personnes — ou catégories de personnes — qui exercent des fonctions liées à la sécurité aérienne à élaborer et à tenir à jour des documents, notamment des manuels, relatifs à la sécurité aérienne;
+
+- d) régir le contenu et les exigences de tout système, procédé, programme, plan ou document ou de toute procédure visés à l’un ou l’autre des alinéas a) à c);
+
+- e) obliger des personnes — ou catégories de personnes — qui exercent des fonctions liées à la sécurité aérienne à se conformer aux dispositions ou aux exigences de tout système, procédé, programme, plan ou document ou de toute procédure visés à l’un ou l’autre des alinéas a) à c).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 471
+
+</details>
+
+#### Niveau de services de navigation aérienne civile
+
 ### 4.91 Règlements
 
 (1) Le gouverneur en conseil peut, par règlement, autoriser le ministre à prendre un arrêté enjoignant à la société, aux conditions qu’il juge indiquées, de maintenir le même niveau de services de navigation aérienne civile ou de l’augmenter.
@@ -1016,6 +1080,8 @@ Le gouverneur en conseil peut prendre des règlements sur l’aéronautique et n
 
 </details>
 
+#### Heures de travail et assurance
+
 ### 5 Heures de travail et assurance
 
 Le gouverneur en conseil peut, par règlement :
@@ -1033,6 +1099,8 @@ Le gouverneur en conseil peut, par règlement :
 
 </details>
 
+#### Interdictions et restrictions — utilisation d’aéronefs
+
 ### 5.1 Sécurité et sûreté aériennes
 
 Le ministre ou son délégué peut, par avis, lorsqu’il estime que la sécurité ou la sûreté aérienne ou la protection du public le requiert, interdire ou restreindre l’utilisation d’aéronefs en vol ou au sol dans telle zone ou dans tel espace aérien et ce, soit absolument, soit sous réserve des conditions ou exceptions qu’il détermine.
@@ -1043,6 +1111,62 @@ Le ministre ou son délégué peut, par avis, lorsqu’il estime que la sécurit
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 2004, ch. 15, art. 8
 
 </details>
+
+#### Systèmes, procédés, procédures, programmes, plans et documents
+
+### 5.11 Définition de **exigence réglementaire**
+
+Pour l’application des articles 5.12 à 5.14, **exigence réglementaire** s’entend de l’exigence prévue dans un règlement pris en vertu du paragraphe 4.71(1) ou de l’article 4.9 ou dans une mesure de sûreté.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 474
+
+</details>
+
+### 5.12 Avis — lacunes
+
+S’il estime que le système, le procédé, la procédure, le programme, le plan ou le document élaboré et tenu à jour par une personne dans le cadre d’une exigence réglementaire présente des lacunes qui risquent de compromettre la sécurité ou la sûreté aérienne, le ministre peut, par avis transmis à cette personne, exiger qu’elle apporte les mesures correctives nécessaires dans le délai qu’il précise.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 474
+
+</details>
+
+### 5.13 Avis — activité
+
+S’il estime que la personne qui a élaboré et tient à jour un système, un procédé, une procédure, un programme, un plan ou un document dans le cadre d’une exigence réglementaire exerce une activité visée par ce système, ce procédé, cette procédure, ce programme, ce plan ou ce document d’une manière qui risque de compromettre la sécurité ou la sûreté aérienne, le ministre peut, par avis transmis à cette personne, exiger qu’elle apporte les mesures correctives nécessaires dans le délai qu’il précise.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 474
+
+</details>
+
+### 5.14 *Loi sur les textes réglementaires*
+
+La *Loi sur les textes réglementaires* ne s’applique pas aux documents suivants :
+
+- a) le document élaboré afin de documenter un système, un procédé, une procédure, un programme ou un plan en vertu d’une exigence réglementaire;
+
+- b) le document élaboré en vertu d’une exigence réglementaire;
+
+- c) le document contenant des dispositions ou des exigences auxquelles une personne doit se conformer en vertu d’une exigence réglementaire;
+
+- d) l’avis visé aux articles 5.12 ou 5.13.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 474
+
+</details>
+
+#### *Loi sur la radiocommunication* et *Loi sur les explosifs*
 
 ### 5.2 *Loi sur la radiocommunication*
 
@@ -1071,6 +1195,87 @@ S’ajoutent, sans y déroger, à la *Loi sur les explosifs* et à ses règlemen
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1
+
+</details>
+
+### Fourniture volontaire de renseignements
+
+### 5.31 Fourniture de renseignements
+
+(1) Afin de promouvoir la sécurité et la sûreté aériennes, le ministre peut :
+
+- a) établir et gérer des programmes dans le cadre desquels toute personne ou tout organisme peut fournir des renseignements relatifs à la sécurité ou la sûreté aériennes;
+
+- b) conclure avec toute personne ou tout organisme des ententes ou des accords sur la fourniture de tels renseignements.
+
+**Règlements**
+
+(2) Le gouverneur en conseil peut, par règlement, régir les programmes, les ententes et les accords visés au paragraphe (1) et, notamment prévoir les circonstances visées aux alinéas 5.32j) et 5.33f).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 475
+
+</details>
+
+### 5.32 Communication interdite
+
+Les renseignements obtenus par le ministre dans le cadre d’un programme, d’une entente ou d’un accord visé au paragraphe 5.31(1) sont confidentiels et nul ne peut les communiquer, sauf dans les cas suivants :
+
+- a) la personne ou l’organisme qui les a fournis consent par écrit à leur communication;
+
+- b) ils doivent être fournis sous le régime de la présente loi;
+
+- c) ils ont aussi été obtenus autrement que dans le cadre du programme, de l’entente ou de l’accord;
+
+- d) la communication est exigée sous le régime d’une loi fédérale;
+
+- e) la communication est exigée par un subpoena, un document ou une ordonnance d’un tribunal, d’une personne ou d’un organisme ayant le pouvoir de contraindre à la production de renseignements ou est exigée par des règles de procédure se rapportant à la production de renseignements;
+
+- f) ils portent :
+  - (i) d’une part, sur la contravention à une disposition de la présente partie ou des règlements, avis, arrêtés, mesures de sûreté ou directives d’urgence pris ou donnés, selon le cas, sous son régime,
+  - (ii) d’autre part, sur un incident de sûreté ou un accident qui doit faire l’objet d’un avis sous le régime de la présente loi ou sur un accident dont il doit être fait rapport sous le régime de la *Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports*;
+
+- g) ils portent sur une contravention aux paragraphes 7.3(1) ou 7.41(1);
+
+- h) ils portent sur une contravention à toute disposition de la présente partie — à l’exception des paragraphes 7.3(1) et 7.41(1) — ou des règlements, avis, arrêtés, mesures de sûreté ou directives d’urgence pris ou donnés, selon le cas, sous son régime, et le ministre a des motifs raisonnables de croire que la contravention a été commise sciemment ou dans des circonstances équivalant à négligence grossière ou, au Québec, faute lourde;
+
+- i) le ministre estime que la communication est nécessaire :
+  - (i) soit pour parer à un risque appréciable — direct ou indirect — pour la sécurité aérienne ou la sécurité du public,
+  - (ii) soit pour parer à un danger immédiat pour la sûreté aérienne, la sûreté d’un aéronef, d’un aérodrome ou d’autres installations aéronautiques ou la sécurité du public, des passagers ou de l’équipage d’un aéronef;
+
+- j) la communication est autorisée dans les circonstances prévues par règlement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 475
+
+</details>
+
+### 5.33 Protection
+
+Les renseignements fournis par une personne dans le cadre d’un programme, d’une entente ou d’un accord visés au paragraphe 5.31(1) ne peuvent être utilisés contre la personne les ayant fournis en cas de poursuites engagées relativement à une contravention à la présente loi, sauf dans les cas suivants :
+
+- a) les renseignements doivent être fournis sous le régime de la présente loi;
+
+- b) ils ont aussi été obtenus autrement que dans le cadre du programme, de l’entente ou de l’accord;
+
+- c) ils portent :
+  - (i) d’une part, sur la contravention à une disposition de la présente partie ou des règlements, avis, arrêtés, mesures de sûreté ou directives d’urgence pris ou donnés selon le cas, sous son régime,
+  - (ii) d’autre part, sur un incident de sûreté ou un accident qui doit faire l’objet d’un avis sous le régime de la présente loi ou sur un accident dont il doit être fait rapport sous le régime de la *Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports*;
+
+- d) ils portent sur une contravention aux paragraphes 7.3(1) ou 7.41(1);
+
+- e) ils portent sur une contravention à toute disposition de la présente partie — à l’exception des paragraphes 7.3(1) et 7.41(1) — ou des règlements, avis, arrêtés, mesures de sûreté ou directives d’urgence pris ou donnés, selon le cas, sous son régime et le ministre a des motifs raisonnables de croire que la contravention a été commise sciemment ou dans des circonstances équivalant à négligence grossière ou, au Québec, faute lourde;
+
+- f) les circonstances prévues par les règlements existent.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 475
 
 </details>
 
@@ -1355,23 +1560,27 @@ Le certificat apparemment signé par le ministre de la Défense nationale ou le 
 
 - b) soit de parer à un danger immédiat pour la sûreté aérienne, la sécurité d’un aéronef, d’un aérodrome, d’autres installations aéronautiques ou celle du public, des passagers ou de l’équipage d’un aéronef;
 
-- c) soit de donner immédiatement suite à toute recommandation d’une personne ou d’un organisme chargé d’enquêter sur un accident ou un incident aérien.
+- c) soit de donner immédiatement suite à toute recommandation d’une personne ou d’un organisme chargé d’enquêter sur un accident ou un incident aérien;
+
+- d) soit de mettre en vigueur une norme internationale;
+
+- e) soit de mettre en vigueur une entente, une convention ou un accord internationaux dont le Canada est signataire.
 
 **Autorisation de prendre des arrêtés d’urgence**
 
-(1.1) Le ministre peut, sous réserve des exceptions et conditions qu’il précise, autoriser le sous-ministre à prendre, à l’une des fins mentionnées aux alinéas (1)a) à c), des arrêtés d’urgence pouvant comporter les mêmes dispositions qu’un règlement pris en vertu de la présente partie.
+(1.1) Le ministre peut, sous réserve des exceptions et conditions qu’il précise, autoriser le sous-ministre à prendre, à l’une des fins mentionnées aux alinéas (1)a) à e), des arrêtés d’urgence pouvant comporter les mêmes dispositions qu’un règlement pris en vertu de la présente partie.
 
 **Consultation**
 
 (1.2) Le ministre ou le sous-ministre, selon le cas, consulte au préalable les personnes ou organismes qu’il estime opportun de consulter.
 
-**Entrée en vigueur**
+**Période de validité**
 
-(2) L’arrêté prend effet dès sa prise, comme s’il s’agissait d’un règlement pris au titre de la présente partie, mais cesse d’avoir effet à défaut d’approbation par le gouverneur en conseil dans les quatorze jours suivant sa prise.
+(2) L’arrêté prend effet dès sa prise, comme s’il s’agissait d’un règlement pris au titre de la présente partie, mais cesse d’avoir effet à défaut d’approbation par le gouverneur en conseil un an après sa prise.
 
 **Recommandation par le ministre**
 
-(3) Dès que possible après l’approbation par le gouverneur en conseil, le ministre recommande à celui-ci la prise d’un règlement au titre de la présente partie ayant le même effet que l’arrêté, celui-ci cessant d’avoir effet à l’entrée en vigueur du règlement ou, en l’absence de règlement, un an après sa prise.
+(3) Dès que possible après l’approbation par le gouverneur en conseil, le ministre recommande à celui-ci la prise d’un règlement au titre de la présente partie ayant le même effet que l’arrêté, celui-ci cessant d’avoir effet à l’entrée en vigueur du règlement ou, en l’absence de règlement, trois ans après sa prise.
 
 **Publication dans la *Gazette du Canada***
 
@@ -1389,6 +1598,7 @@ Le certificat apparemment signé par le ministre de la Défense nationale ou le 
 <summary>Historical Note</summary>
 
 - 1992, ch. 4, art. 13; 2004, ch. 15, art. 11; 2015, ch. 3, art. 4(F)
+- 2026, ch. 3, art. 476
 
 </details>
 
@@ -1710,7 +1920,7 @@ En sus des motifs mentionnés aux articles 6.71, 6.9 à 7.1 ou à l’article 7.
 
 ### 7.21 Défaut de paiement
 
-(1) Le ministre peut suspendre ou refuser de délivrer, de renouveler ou de modifier un document d’aviation canadien si le demandeur ou le titulaire du document ou le propriétaire ou l’exploitant ou utilisateur de l’aéronef, de l’aérodrome, de l’aéroport ou de toute autre installation visés par le document fait l’objet d’un certificat visé à l’article 7.92, à l’alinéa 8b) ou au paragraphe 8.1(4).
+(1) Le ministre peut suspendre ou refuser de délivrer, de renouveler ou de modifier un document d’aviation canadien si le demandeur ou le titulaire du document ou le propriétaire ou l’exploitant ou utilisateur de l’aéronef, de l’aérodrome, de l’aéroport ou de toute autre installation visés par le document fait l’objet d’un certificat visé à l’article 8.11.
 
 **Avis**
 
@@ -1720,6 +1930,7 @@ En sus des motifs mentionnés aux articles 6.71, 6.9 à 7.1 ou à l’article 7.
 <summary>Historical Note</summary>
 
 - 2001, ch. 29, art. 38
+- 2026, ch. 3, art. 477
 
 </details>
 
@@ -1737,6 +1948,8 @@ En sus des motifs mentionnés aux articles 6.71, 6.9 à 7.1 ou à l’article 7.
 
 - d) d’entraver délibérément l’action d’une personne exerçant ses fonctions sous le régime de la présente partie;
 
+- d.1) sauf autorisation donnée en application de la présente partie et sous réserve du paragraphe (1.1), de volontairement perturber le fonctionnement d’un système d’aéronef télépiloté ou de volontairement gêner l’exercice des fonctions d’un membre d’équipage d’un tel système, lorsque celui-ci est en marche;
+
 - e) sauf autorisation donnée en application de la présente partie, d’utiliser délibérément un aéronef retenu sous le régime de celle-ci, ou d’effectuer quelque opération se rapportant à cet aéronef;
 
 - f) d’accomplir délibérément un acte ou chose pour lequel il faut un document d’aviation canadien sans en être titulaire ou en violation de ses termes;
@@ -1744,6 +1957,10 @@ En sus des motifs mentionnés aux articles 6.71, 6.9 à 7.1 ou à l’article 7.
 - g) d’accomplir délibérément un acte ou chose pour lequel il faut un document d’aviation canadien :
   - (i) alors que le document est frappé de suspension,
   - (ii) alors qu’une ordonnance rendue en vertu du paragraphe 7.5(1) l’interdit.
+
+**Exception — activités autorisées**
+
+(1.1) L’alinéa (1)d.1) ne s’applique pas à la personne qui exerce une activité autorisée à des fins de défense.
 
 **Contravention au par. (1)**
 
@@ -1757,21 +1974,19 @@ En sus des motifs mentionnés aux articles 6.71, 6.9 à 7.1 ou à l’article 7.
 
 (3) Sauf disposition contraire de la présente partie, quiconque contrevient à celle-ci, ou aux règlements, avis, arrêtés, mesures de sûreté ou directives d’urgence pris sous son régime, est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
-**Contravention au par. 4.81(1)**
+(3.1) [Abrogé, 2026, ch. 3, art. 478]
 
-(3.1) Par dérogation aux paragraphes (4) et (5), tout transporteur aérien ou exploitant de systèmes de réservation de services aériens qui omet de se conformer à la demande prévue aux paragraphes 4.81(1) ou 4.82(4) ou (5) est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et encourt une amende maximale de 50 000 $.
+**Peines — personnes physiques**
 
-**Peines : personnes physiques**
+(4) La personne physique déclarée coupable d’une infraction à la présente partie ou à ses textes d’application punissable sur déclaration de culpabilité par procédure sommaire encourt une amende maximale de 150 000 $, et dans le cas d’une infraction visée au paragraphe (1), un emprisonnement maximal de un an et une amende maximale de 150 000 $ , ou l’une de ces peines.
 
-(4) La personne physique déclarée coupable d’une infraction à la présente partie ou à ses textes d’application punissable sur déclaration de culpabilité par procédure sommaire encourt une amende maximale de cinq mille dollars, et dans le cas d’une infraction visée au paragraphe (1), un emprisonnement maximal de un an et une amende maximale de cinq mille dollars, ou l’une de ces peines.
+**Peines — personnes morales**
 
-**Peines : personnes morales**
-
-(5) La personne morale déclarée coupable d’une infraction à la présente partie ou à ses textes d’application punissable sur déclaration de culpabilité par procédure sommaire encourt une amende maximale de vingt-cinq mille dollars.
+(5) La personne morale déclarée coupable d’une infraction à la présente partie ou à ses textes d’application punissable sur déclaration de culpabilité par procédure sommaire encourt une amende maximale de 1 500 000 $.
 
 **Sanction pour la société**
 
-(5.1) Malgré le paragraphe (5), si elle contrevient à l’arrêté pris en vertu du paragraphe 4.91(1), la société encourt, pour chacun des jours au cours desquels se commet ou se continue l’infraction, une amende maximale de 25 000 $.
+(5.1) Malgré le paragraphe (5), si elle contrevient à l’arrêté pris en vertu du paragraphe 4.91(1), la société encourt, pour chacun des jours au cours desquels se commet ou se continue l’infraction, une amende maximale de 1 500 000 $.
 
 **Récidive**
 
@@ -1781,9 +1996,7 @@ En sus des motifs mentionnés aux articles 6.71, 6.9 à 7.1 ou à l’article 7.
 
 (7) La personne déclarée coupable d’une infraction à la présente partie ou à ses textes d’application punissable sur déclaration de culpabilité par procédure sommaire ne peut encourir d’emprisonnement pour cette infraction ni pour défaut de paiement de l’amende imposée, sauf s’il s’agit d’une infraction visée au paragraphe (1).
 
-**Idem**
-
-(7.1) La personne poursuivie en application de l’article 8.4 et déclarée coupable d’une infraction à la présente partie ou à ses textes d’application ne peut encourir d’emprisonnement pour cette infraction ni pour défaut de paiement de l’amende imposée.
+(7.1) [Abrogé, 2026, ch. 3, art. 478]
 
 **Recouvrement des amendes**
 
@@ -1797,6 +2010,7 @@ En sus des motifs mentionnés aux articles 6.71, 6.9 à 7.1 ou à l’article 7.
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 1992, ch. 4, art. 16; 1996, ch. 20, art. 103; 2004, ch. 15, art. 15
+- 2026, ch. 3, art. 478
 
 </details>
 
@@ -1887,6 +2101,21 @@ Il est compté une infraction distincte à la présente partie pour chaque vol o
 
 </details>
 
+### 7.42 Autorisation — perturbation
+
+(1) Le ministre peut autoriser, aux conditions qu’il juge indiquées, toute personne, individuellement ou au titre de son appartenance à une catégorie déterminée, à perturber le fonctionnement d’un système d’aéronef télépiloté ou à gêner l’exercice des fonctions du membre d’équipage d’un tel système s’il estime que la délivrance de l’autorisation est dans l’intérêt public ou qu’elle est requise pour la sécurité ou la sûreté aérienne.
+
+**Suspension, annulation ou modification**
+
+(2) Le ministre peut suspendre, annuler ou modifier l’autorisation s’il estime que sa suspension, son annulation ou sa modification est dans l’intérêt public ou qu’elle est requise pour la sécurité ou la sûreté aérienne.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 479
+
+</details>
+
 ### 7.5 Ordonnance d’interdiction
 
 (1) Quiconque est déclaré coupable d’une infraction à la présente partie ou à ses textes d’application peut, en sus de la sanction, se voir interdire, par ordonnance du tribunal saisi de la poursuite :
@@ -1904,75 +2133,328 @@ Il est compté une infraction distincte à la présente partie pour chaque vol o
 
 </details>
 
-### Procédure relative à certaines contraventions
+### 7.51 Responsabilité indirecte — propriétaires d’aéronefs
+
+Lorsqu’une personne peut être accusée et déclarée coupable d’une infraction à la présente partie ou à ses textes d’application relative à un aéronef, que la personne soit ou non identifiée ou poursuivie pour cette infraction, le propriétaire enregistré de l’aéronef peut être accusé et déclaré coupable de l’infraction, à moins que, lors de l’infraction, l’aéronef n’ait été en possession d’un tiers sans son consentement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 480
+
+</details>
+
+### 7.52 Responsabilité indirecte — utilisateurs d’aéronefs
+
+Lorsqu’une personne peut être accusée et déclarée coupable d’une infraction à la présente partie ou à ses textes d’application relative à un aéronef, que la personne soit ou non identifiée ou poursuivie pour cette infraction, l’utilisateur de l’aéronef peut être accusé et déclaré coupable de l’infraction, à moins que, lors de l’infraction, l’aéronef n’ait été en possession d’un tiers sans son consentement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 480
+
+</details>
+
+### 7.53 Responsabilité indirecte — commandants de bord
+
+Lorsqu’un membre d’équipage peut être accusé et déclaré coupable d’une infraction à la présente partie ou à ses textes d’application relative à un aéronef, que le membre d’équipage soit ou non identifié ou poursuivi pour cette infraction, le commandant de bord de l’aéronef peut être accusé et déclaré coupable de l’infraction, à moins que celle-ci n’ait été commise sans son consentement.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 480
+
+</details>
+
+### 7.54 Preuve
+
+Dans les poursuites intentées contre l’une ou l’autre des personnes ci-après pour infraction à la présente partie ou à ses textes d’application, il suffit, pour prouver l’infraction, d’établir que l’acte ou l’omission qui la constitue a été commis par un mandataire ou un employé de cette personne, que le mandataire ou l’employé ait été ou non identifié ou poursuivi pour cette infraction :
+
+- a) le propriétaire enregistré d’un aéronef;
+
+- b) l’utilisateur d’un aéronef;
+
+- c) l’exploitant d’un aérodrome ou d’une autre installation aéronautique;
+
+- d) le fournisseur de services de la circulation aérienne;
+
+- e) l’organisme titulaire d’un document d’aviation canadien autorisant la maintenance d’un produit aéronautique ou la prestation d’un service de maintenance.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 480
+
+</details>
+
+### 7.55 Exceptions
+
+Les articles 7.51 à 7.54 ne s’appliquent pas à l’égard de l’infraction relative à la contravention aux paragraphes 7.3(1) ou 7.41(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 480
+
+</details>
+
+### 7.56 Défense de prise de précautions voulues
+
+(1) Nul ne peut être reconnu coupable d’une infraction à la présente partie ou à ses textes d’application s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+
+**Exceptions**
+
+(2) Le paragraphe (1) ne s’applique pas à l’égard d’une infraction relative à la contravention aux paragraphes 7.3(1) ou 7.41(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 480
+
+</details>
+
+### Sanctions administratives pécuniaires
 
 ### 7.6 Désignation des contraventions
 
 (1) Le gouverneur en conseil peut, par règlement :
 
-- a) désigner toute disposition de la présente partie ou de tout règlement, avis, arrêté ou mesure de sûreté pris sous son régime, ou toute disposition de la *Loi sur la sûreté des déplacements aériens* ou de tout règlement pris — ou toute directive donnée — sous son régime, ci-après appelé au présent article et aux articles 7.7 à 8.2 « texte désigné », à titre de disposition dont la transgression est traitée conformément à la procédure prévue à ces articles;
+- a) désigner comme texte dont la contravention est assujettie aux articles 7.61 à 8.2 toute disposition de la présente partie ou de tout règlement, avis, arrêté ou mesure de sûreté pris ou donnés, selon le cas, sous son régime, ou toute disposition de la *Loi sur la sûreté des déplacements aériens* ou de tout règlement pris — ou toute directive donnée — sous le régime de celle-ci;
 
-- a.1) dans le cas où le paragraphe 4.81(1) ou 4.82(4) ou (5) est un texte désigné, fixer le montant maximal — à concurrence de 50 000 $ — à payer au titre d’une contravention à ce texte;
+- a.1) [Abrogé, 2026, ch. 3, art. 481]
 
-- b) fixer le montant maximal — à concurrence, dans le cas des personnes physiques, de 5 000 $ et, dans le cas des personnes morales, de 25 000 $ — à payer au titre d’une contravention à tout autre texte désigné.
+- b) prévoir le montant maximal de la sanction applicable à chaque contravention, plafonné comme suit :
+  - (i) dans le cas d’une personne physique, à 150 000 $,
+  - (ii) dans le cas d’une personne morale, à 1 500 000 $.
 
-**Non-application de la procédure sommaire**
-
-(2) Quiconque contrevient à un texte désigné commet une infraction et encourt la sanction prévue aux articles 7.7 à 8.2. Aucune poursuite ne peut être intentée contre lui par procédure sommaire.
+(2) [Abrogé, 2026, ch. 3, art. 481]
 
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 1992, ch. 4, art. 19; 2004, ch. 15, art. 18; 2015, ch. 20, art. 12
+- 2026, ch. 3, art. 481
 
 </details>
 
-### 7.7 Avis établissant le montant de l’amende
+### 7.61 Violation
 
-(1) Le ministre, s’il a des motifs raisonnables de croire qu’une personne a contrevenu à un texte désigné, peut décider de déterminer le montant de l’amende à payer, auquel cas il lui expédie, par signification à personne ou par courrier recommandé ou certifié à sa dernière adresse connue, un avis l’informant de la décision.
+(1) Toute contravention à un texte désigné en vertu de l’alinéa 7.6(1)a) constitue une violation pour laquelle le contrevenant s’expose à une pénalité dont le maximum est prévu en vertu de l’alinéa 7.6(1)b).
+
+**Violation continue**
+
+(2) Il est compté une violation distincte pour chaque vol ou partie de vol au cours desquels se commet ou se continue la violation.
+
+**Précision**
+
+(3) Toute contravention à un texte désigné en vertu de l’alinéa 7.6(1)a) qualifiable à la fois de violation et d’infraction peut être poursuivie soit comme violation, soit comme infraction, les poursuites pour violation et celles pour infraction s’excluant toutefois mutuellement.
+
+**Nature de la violation**
+
+(4) Il est entendu que les violations n’ont pas valeur d’infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du *Code criminel*.
+
+**Défense de prise des précautions voulues**
+
+(5) Nul ne peut être tenu responsable d’une violation s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa commission.
+
+**Responsabilité indirecte — propriétaires d’aéronefs**
+
+(6) Lorsqu’une personne peut être poursuivie pour une violation à la présente partie ou à ses textes d’application relative à un aéronef, que la personne soit ou non identifiée ou poursuivie pour cette violation, le propriétaire enregistré de l’aéronef peut être poursuivi pour la violation, à moins que, lors de la violation, l’aéronef n’ait été en possession d’un tiers sans son consentement.
+
+**Responsabilité indirecte — utilisateurs d’aéronefs**
+
+(7) Lorsqu’une personne peut être poursuivie pour une violation à la présente partie ou à ses textes d’application relative à un aéronef, que la personne soit ou non identifiée ou poursuivie pour cette violation, l’utilisateur de l’aéronef peut être poursuivi pour la violation, à moins que, lors de la violation, l’aéronef n’ait été en possession d’un tiers sans son consentement.
+
+**Responsabilité indirecte — commandants de bord**
+
+(8) Lorsqu’un membre d’équipage peut être poursuivi pour une violation à la présente partie ou à ses textes d’application relative à un aéronef, que le membre d’équipage soit ou non identifié ou poursuivi pour cette violation, le commandant de bord de l’aéronef peut être poursuivi pour la violation, à moins que celle-ci n’ait été commise sans son consentement.
+
+**Preuve**
+
+(9) Dans toute procédure engagée au titre de la présente partie ou de ses textes d’application contre l’une ou l’autre des personnes ci-après pour violation, il suffit, pour prouver la violation, d’établir que l’acte ou l’omission qui la constitue a été commis par un mandataire ou un employé de cette personne, que le mandataire ou l’employé ait été ou non identifié ou poursuivi pour cette violation :
+
+- a) le propriétaire enregistré d’un aéronef;
+
+- b) l’utilisateur d’un aéronef;
+
+- c) l’exploitant d’un aérodrome ou d’une autre installation aéronautique;
+
+- d) le fournisseur de services de la circulation aérienne;
+
+- e) l’organisme titulaire d’un document d’aviation canadien autorisant la maintenance d’un produit aéronautique ou la prestation d’un service de maintenance.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 482
+
+</details>
+
+### 7.62 Transaction — aucun procès-verbal signifié
+
+(1) S’il a des motifs raisonnables de croire qu’une violation a été commise par une personne à qui n’a pas été signifié au titre de l’article 7.7 un procès-verbal à cet égard, le ministre peut conclure avec elle une transaction en vue de l’observation, dans le délai précisé et aux conditions fixées, de la disposition enfreinte et fixer le montant et la forme de toute sûreté à lui verser pour garantir l’exécution de la transaction ainsi que le montant de la pénalité qu’elle aurait eu à payer si elle n’avait pas conclu la transaction.
+
+**Prorogation du délai**
+
+(2) S’il est convaincu que la personne ne peut exécuter la transaction dans le délai précisé pour des raisons indépendantes de sa volonté, le ministre peut proroger ce délai.
+
+**Assimilation — violation**
+
+(3) Sauf si elle présente une requête en révision au titre du paragraphe (4), la personne qui conclut une transaction est réputée avoir commis la violation en cause.
+
+**Requête en révision**
+
+(4) La personne qui conclut une transaction peut, dans les quarante-huit heures suivant la signature de celle-ci, mais avant la signification de l’avis de défaut visé au paragraphe (6), déposer auprès du Tribunal une requête en révision des faits reprochés, auquel cas la transaction est réputée être un procès-verbal et la personne est réputée avoir déposé une requête en révision des faits reprochés et du montant de la pénalité au titre de l’article 7.91.
+
+**Avis d’exécution**
+
+(5) S’il estime que la personne a exécuté la transaction, le ministre veille à ce qu’elle en soit avisée. Sur signification de l’avis :
+
+- a) aucune poursuite ne peut être intentée contre la personne pour la même violation;
+
+- b) toute sûreté versée au titre du paragraphe (1) est remise à la personne.
+
+**Avis de défaut d’exécution**
+
+(6) S’il estime que la personne n’a pas exécuté la transaction, le ministre fait signifier un avis de défaut qui l’informe soit qu’elle est tenue de payer, dans le délai et selon les modalités prévus dans l’avis de défaut et sans qu’il soit tenu compte du plafond fixé à l’alinéa 7.6(1)b), le double du montant de la pénalité prévue par la transaction, soit qu’il y aura confiscation de toute sûreté versée au titre du paragraphe (1) au profit de Sa Majesté du chef du Canada.
 
 **Contenu de l’avis**
 
-(2) L’avis est établi en la forme que le gouverneur en conseil peut fixer par règlement. Y sont notamment indiqués :
+(7) Sont indiqués dans l’avis de défaut notamment le lieu et la date limite, à savoir trente jours après la date de la signification de l’avis, du dépôt d’une éventuelle requête en révision ainsi que la procédure à suivre pour déposer une telle requête.
 
-- a) le texte en cause;
+**Aucun droit à la compensation**
 
-- b) sous réserve des règlements pris en vertu de l’alinéa 7.6(1)b), le montant qu’il détermine, conformément aux critères qu’il peut établir à cette fin, et qui doit être payé à titre d’amende pour la contravention lorsque la personne ne désire pas comparaître devant un conseiller pour présenter ses observations sur les faits reprochés;
+(8) Sur signification de l’avis de défaut, la personne perd tout droit à la compensation pour les sommes exposées dans le cadre de la transaction.
 
-- c) la date limite, qui suit de trente jours celle de signification ou d’expédition de l’avis, et le lieu du versement de l’amende visée à l’alinéa b) ou du dépôt d’une éventuelle requête en révision.
+**Remise de la sûreté**
+
+(9) La sûreté versée au titre du paragraphe (1) est remise à la personne :
+
+- a) en cas de signification de l’avis mentionné au paragraphe (6), lorsque cette dernière paie le double du montant de la pénalité prévue par la transaction;
+
+- b) lorsque le conseiller ou le comité du Tribunal conclut, au titre des articles 8 et 8.1 respectivement, que la transaction a été exécutée.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 482
+
+</details>
+
+### 7.7 Verbalisation
+
+(1) Le ministre, s’il a des motifs raisonnables de croire qu’une personne a commis une violation , peut dresser un procès-verbal, auquel cas il le lui expédie, par signification à personne ou par courrier recommandé ou certifié à sa dernière adresse connue.
+
+**Contenu du procès-verbal**
+
+(2) Le procès-verbal est établi en la forme que le gouverneur en conseil peut fixer par règlement. Y sont notamment indiqués :
+
+- a) les faits reprochés;
+
+- b) sous réserve des règlements pris en vertu de l’alinéa 7.6(1)b), le montant qu’il détermine, conformément aux critères qu’il peut établir à cette fin, et qui doit être payé à titre de pénalité pour la contravention lorsque la personne ne désire pas comparaître devant un conseiller pour présenter ses observations sur les faits reprochés;
+
+- c) la date limite, qui suit de trente jours celle de signification ou d’expédition du procès-verbal, et le lieu du versement de la pénalité visée à l’alinéa b) ou du dépôt d’une éventuelle requête en révision.
 
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1 ^er^ suppl.), art. 1; 1992, ch. 4, art. 20; 2001, ch. 29, art. 39
+- 2026, ch. 3, art. 483
 
 </details>
 
 ### 7.8 Option
 
-Le destinataire de l’avis doit soit payer l’amende, soit déposer une requête en révision des faits reprochés ou du montant de l’amende.
+Le destinataire du procès-verbal doit soit payer la pénalité, soit déposer une requête en révision des faits reprochés ou du montant de la pénalité.
 
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1 ^er^ suppl.), art. 1; 2001, ch. 29, art. 39
+- 2026, ch. 3, art. 484(F)
 
 </details>
 
-### 7.9 Paiement de l’amende
+### 7.9 Paiement de la pénalité
 
-Lorsque le destinataire de l’avis paie le montant requis conformément aux modalités qui y sont prévues, le ministre accepte ce paiement en règlement de l’amende imposée; aucune poursuite ne peut être intentée par la suite au titre de la présente partie contre l’intéressé pour la même contravention.
+Lorsque le destinataire du procès-verbal paie la somme requise conformément aux modalités qui y sont prévues, le ministre accepte ce paiement en règlement de la pénalité infligée; aucune poursuite ne peut être intentée par la suite au titre de la présente partie contre l’intéressé pour la même violation.
 
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 1992, ch. 1, art. 5; 2001, ch. 29, art. 39
+- 2026, ch. 3, art. 485
+
+</details>
+
+### 7.901 Demande de transaction — procès-verbal signifié
+
+Au lieu de payer la pénalité, le destinataire du procès-verbal peut, dans le délai et selon les modalités qui y sont prévues, demander au ministre de conclure avec lui une transaction au titre de l’article 7.902 en vue de la bonne observation de la disposition en cause.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 485
+
+</details>
+
+### 7.902 Transaction — procès-verbal signifié
+
+(1) Sur demande présentée en vertu de l’article 7.901, le ministre peut conclure avec la personne à qui un procès-verbal a été signifié une transaction qui, d’une part, est subordonnée aux conditions qu’il estime indiquées, notamment le dépôt d’une sûreté raisonnable — dont le montant et la nature doivent lui agréer — en garantie de l’exécution de la transaction, et, d’autre part, peut prévoir la réduction partielle ou totale du montant de la pénalité.
+
+**Assimilation**
+
+(2) La conclusion de la transaction vaut déclaration de responsabilité à l’égard de la violation.
+
+**Avis d’exécution**
+
+(3) La signification à la personne d’un avis du ministre déclarant que celui-ci estime la transaction exécutée met fin à la procédure; dès lors, la sûreté est remise à la personne.
+
+**Avis de défaut d’exécution**
+
+(4) S’il estime que la transaction n’a pas été exécutée, le ministre fait signifier à la personne un avis de défaut qui l’informe soit qu’elle est tenue de payer, dans le délai et selon les modalités prévus dans le procès-verbal, au lieu du montant de la pénalité infligée initialement et sans qu’il soit tenu compte du plafond fixé à l’alinéa 7.6(1)b), le double de ce montant, soit qu’il y aura confiscation de toute sûreté remise au profit de Sa Majesté du chef du Canada.
+
+**Effet de l’avis de défaut**
+
+(5) Sur signification de l’avis de défaut, la personne perd tout droit à la compensation pour les sommes exposées dans le cadre de la transaction et, selon les termes de cet avis :
+
+- a) soit elle paie la somme qui y est prévue dans le délai et selon les modalités prévus dans le procès-verbal;
+
+- b) soit la confiscation de la sûreté s’opère au profit de Sa Majesté du chef du Canada, ce qui met fin à la procédure.
+
+**Effet du paiement**
+
+(6) Lorsque la personne paie la somme requise dans le délai et selon les modalités prévus dans le procès-verbal, le ministre accepte ce paiement en règlement de la pénalité infligée; aucune poursuite ne peut être intentée par la suite au titre de la présente partie contre la personne pour la même violation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 485
+
+</details>
+
+### 7.903 Refus de transiger
+
+(1) Si le ministre refuse de transiger à la suite d’une demande présentée au titre de l’article 7.901, l’intéressé peut, dans le délai précisé par le ministre et selon les modalités prévues dans le procès-verbal, soit payer le montant de la pénalité infligée initialement, soit déposer une requête en révision au titre du paragraphe 7.91(1).
+
+**Effet du paiement**
+
+(2) Lorsque l’intéressé paie la somme requise dans le délai précisé par le ministre et selon les modalités prévues dans le procès-verbal, le ministre accepte ce paiement en règlement de la pénalité infligée; aucune poursuite ne peut être intentée par la suite au titre de la présente partie contre l’intéressé pour la même violation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 485
 
 </details>
 
 ### 7.91 Requête en révision
 
-(1) Le destinataire de l’avis qui veut faire réviser la décision du ministre à l’égard des faits reprochés ou du montant de l’amende dépose une requête auprès du Tribunal à l’adresse indiquée dans l’avis, au plus tard à la date limite qui y est indiquée, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+(1) Le destinataire du procès-verbal qui veut faire réviser la décision du ministre à l’égard des faits reprochés ou du montant de la pénalité dépose une requête auprès du Tribunal à l’adresse indiquée dans le procès-verbal, au plus tard à la date limite qui y est indiquée, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Requête en révision : inexécution de la transaction**
+
+(1.1) La personne à qui un avis de défaut a été signifié au titre du paragraphe 7.62(6) et qui veut faire réviser la décision du ministre prise en vertu de ce paragraphe dépose une requête en révision auprès du Tribunal au plus tard à la date limite qui est indiquée sur l’avis ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
 
 **Audience**
 
@@ -1984,27 +2466,33 @@ Lorsque le destinataire de l’avis paie le montant requis conformément aux mod
 
 **Charge de la preuve**
 
-(4) S’agissant d’une requête portant sur les faits reprochés, il incombe au ministre d’établir que l’intéressé a contrevenu au texte désigné.
+(4) Il incombe au ministre d’établir la responsabilité de l’intéressé.
 
 **Intéressé non tenu de témoigner**
 
 (5) L’intéressé n’est pas tenu de témoigner à l’audience.
 
+**Exclusion de certains moyens de défense**
+
+(6) Malgré le paragraphe 7.61(5) et s’agissant de la requête déposée au titre du paragraphe (1.1), l’intéressé ne peut invoquer en défense le fait qu’il a pris les précautions voulues pour exécuter la transaction.
+
 <details>
 <summary>Historical Note</summary>
 
 - 2001, ch. 29, art. 39
+- 2026, ch. 3, art. 486
 
 </details>
 
-### 7.92 Omission de payer l’amende ou de présenter une requête
+### 7.92 Omission de payer la pénalité
 
-L’omission, par l’intéressé, de verser dans le délai imparti le montant fixé dans l’avis visé au paragraphe 7.7(1) et de présenter une requête en révision en vertu du paragraphe 7.91(1) vaut déclaration de responsabilité à l’égard de la contravention. Sur demande, le ministre peut alors obtenir du Tribunal un certificat en la forme établie par le gouverneur en conseil sur lequel est inscrit ce montant.
+L’omission, par l’intéressé, de payer dans le délai imparti la pénalité prévue dans le procès-verbal et de déposer une requête en révision vaut déclaration de responsabilité à l’égard de la violation.
 
 <details>
 <summary>Historical Note</summary>
 
 - 2001, ch. 29, art. 39
+- 2026, ch. 3, art. 487
 
 </details>
 
@@ -2012,14 +2500,19 @@ L’omission, par l’intéressé, de verser dans le délai imparti le montant f
 
 Après audition des parties, le conseiller informe sans délai l’intéressé et le ministre de sa décision. S’il décide :
 
-- a) qu’il n’y a pas eu contravention, sous réserve de l’article 8.1, nulle autre poursuite ne peut être intentée à cet égard sous le régime de la présente partie;
+- a) qu’il n’y a pas eu violation, sous réserve de l’article 8.1, nulle autre poursuite ne peut être intentée à cet égard sous le régime de la présente partie;
 
-- b) qu’il y a eu contravention, il les informe également, sous réserve des règlements d’application de l’alinéa 7.6(1)b), du montant qu’il détermine et qui doit être payé au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut fixer par règlement, où est inscrit ce montant.
+- b) qu’il y a eu violation, il les informe également, sous réserve des règlements d’application de l’alinéa 7.6(1)b), de la somme à payer au Tribunal par l’intéressé ou en son nom et du délai imparti pour effectuer le paiement;
+
+- c) que la transaction a été exécutée, sous réserve de l’article 8.1, nulle autre poursuite ne peut être intentée à cet égard au titre de la présente partie;
+
+- d) que la transaction n’a pas été exécutée, il confirme la décision du ministre prise en vertu du paragraphe 7.62(6).
 
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. A-2, art. 8; L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 1992, ch. 4, art. 21; 2001, ch. 29, art. 40(A)
+- 2026, ch. 3, art. 488
 
 </details>
 
@@ -2033,22 +2526,44 @@ Après audition des parties, le conseiller informe sans délai l’intéressé e
 
 **Sort de l’appel**
 
-(3) Le comité du Tribunal peut rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause.
+(3) Le comité du Tribunal peut :
 
-**Avis**
+- a) dans le cas de la décision visée aux alinéas 8a) ou b), rejeter l’appel ou y faire droit et, sous réserve des règlements pris en vertu de l’alinéa 7.6(1)b), substituer sa propre décision à celle en cause;
 
-(4) S’il statue qu’il y a eu contravention, le comité en informe sans délai l’intéressé. Sous réserve des règlements d’application de l’alinéa 7.6(1)b), il l’informe également du montant qu’il détermine et qui doit être payé au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut fixer par règlement, où est inscrit ce montant.
+- b) dans le cas de la décision visée aux alinéas 8c) ou d), rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause.
+
+**Commission de la violation**
+
+(4) Sans délai après avoir pris sa décision, le comité informe l’intéressé et le ministre de celle-ci et du délai imparti pour effectuer, s’il y a lieu, le paiement de la somme, qu’il fixe, à payer au Tribunal.
 
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1 ^er^ suppl.), art. 1; 1992, ch. 4, art. 22; 2001, ch. 29, art. 41
+- 2026, ch. 3, art. 489
+
+</details>
+
+### 8.11 Certificat
+
+Le ministre peut obtenir du Tribunal ou du conseiller, selon le cas, un certificat en la forme établie par le gouverneur en conseil indiquant la pénalité à payer par l’intéressé si ce dernier, dans le délai requis :
+
+- a) omet de payer la pénalité prévue dans le procès-verbal ou dans l’avis de défaut visé aux paragraphes 7.62(6) ou 7.902(4) ou de déposer une requête en révision au titre de l’article 7.91;
+
+- b) omet de payer la somme prévue dans la décision prise au titre de l’alinéa 8b) ou confirmée au titre de l’alinéa 8d) ou de déposer un appel au titre de l’article 8.1;
+
+- c) omet de payer la somme fixée en vertu du paragraphe 8.1(4).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 490
 
 </details>
 
 ### 8.2 Enregistrement du certificat
 
-(1) Sur présentation à la juridiction supérieure, une fois le délai d’appel expiré, la décision portant appel rendue ou le délai pour payer l’amende ou déposer une requête en révision expiré, selon le cas, le certificat visé à l’article 7.92, à l’alinéa 8b) ou au paragraphe 8.1(4) est enregistré. Dès lors, il devient exécutoire et toute procédure d’exécution peut être engagée, le certificat étant assimilé à un jugement de cette juridiction obtenu par Sa Majesté du chef du Canada contre la personne désignée dans le certificat pour une dette dont le montant y est indiqué.
+(1) Sur présentation à une cour supérieure, le certificat visé à l’article 8.11, est enregistré. Dès lors, il devient exécutoire et toute procédure d’exécution peut être engagée, le certificat étant assimilé à un jugement de cette juridiction obtenu par Sa Majesté du chef du Canada contre la personne désignée dans le certificat pour une dette dont le montant y est indiqué.
 
 **Recouvrement des frais**
 
@@ -2062,6 +2577,7 @@ Après audition des parties, le conseiller informe sans délai l’intéressé e
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 2001, ch. 29, art. 42
+- 2026, ch. 3, art. 491
 
 </details>
 
@@ -2088,41 +2604,15 @@ Après audition des parties, le conseiller informe sans délai l’intéressé e
 
 </details>
 
-### Mesures de contrainte
+### Admissibilité en preuve
 
-### 8.4 Propriétaires d’aéronefs
+### 8.4
 
-(1) Lorsqu’une personne peut être poursuivie en raison d’une infraction à la présente partie ou à ses textes d’application relative à un aéronef, le propriétaire enregistré peut être poursuivi et encourir la peine prévue, à moins que, lors de l’infraction, l’aéronef n’ait été en possession d’un tiers sans le consentement du propriétaire.
+[Abrogé, 2026, ch. 3, art. 492]
 
-**Utilisateurs d’aéronefs**
+### 8.5
 
-(2) Lorsqu’une personne peut être poursuivie en raison d’une infraction à la présente partie ou à ses textes d’application relative à un aéronef, l’utilisateur de celui-ci peut être poursuivi et encourir la peine prévue, à moins que, lors de l’infraction, l’aéronef n’ait été en possession d’un tiers sans le consentement de l’utilisateur.
-
-**Commandants de bord**
-
-(3) Lorsqu’une personne peut être poursuivie en raison d’une infraction à la présente partie ou à ses textes d’application relative à un aéronef, le commandant de bord de celui-ci peut être poursuivi et encourir la peine prévue, à moins que l’infraction n’ait été commise sans le consentement du commandant.
-
-**Exploitants d’aérodromes**
-
-(4) Lorsqu’une personne peut être poursuivie en raison d’une infraction à la présente partie ou à ses textes d’application relative à un aérodrome ou autre installation aéronautique, l’exploitant peut être poursuivi et encourir la peine prévue, à moins que l’infraction n’ait été commise sans le consentement de l’exploitant.
-
-<details>
-<summary>Historical Note</summary>
-
-- L.R. (1985), ch. 33 (1^er^ suppl.), art. 1
-
-</details>
-
-### 8.5 Moyens de défense
-
-Nul ne peut être reconnu coupable d’avoir contrevenu à la présente partie ou aux règlements, avis, arrêtés, mesures de sûreté et directives d’urgence pris sous son régime s’il a pris toutes les précautions voulues pour s’y conformer.
-
-<details>
-<summary>Historical Note</summary>
-
-- L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 2004, ch. 15, art. 20
-
-</details>
+[Abrogé, 2026, ch. 3, art. 492]
 
 ### 8.6 Admissibilité en preuve
 
@@ -2134,6 +2624,8 @@ Les résultats des analyses servant à établir la présence ou la concentration
 - L.R. (1985), ch. 33 (1^er^ suppl.), art. 1; 1992, ch. 1, art. 3; 2008, ch. 6, art. 55; 2018, ch. 21, art. 39
 
 </details>
+
+### Pouvoirs d’entrée, de saisie et de rétention
 
 ### 8.7 Pouvoirs d’entrée, de saisie et de rétention
 
@@ -2484,7 +2976,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 
 - a) qui est désignée à cet effet par le ministre responsable d’un ministère directement intéressé par l’objet de l’enquête;
 
-- b) qui possède déjà, aux termes d’une convention ou d’un accord internationaux relatifs aux transports et auxquels le Canada est partie, le statut d’observateur ou qui est un représentant accrédité ou le conseiller d’un tel représentant;
+- b) qui possède déjà, aux termes d’une entente, d’une convention ou d’un accord internationaux relatifs aux transports et auxquels le Canada est partie, le statut d’observateur ou qui est un représentant accrédité ou le conseiller d’un tel représentant;
 
 - c) qui y est invitée par le directeur au motif qu’elle est, de l’avis de celui-ci, directement intéressée par l’objet de l’enquête et susceptible de contribuer à la mener à bonne fin.
 
@@ -2496,6 +2988,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. A-2, art. 17; L.R. (1985), ch. 28 (3^e^ suppl.), art. 276; 2014, ch. 29, art. 19
+- 2026, ch. 3, art. 494
 
 </details>
 
@@ -3051,6 +3544,18 @@ Sur recommandation du premier ministre et en vertu de l’alinéa 2a)[^] de la *
 ### 25 Enquêtes militaires en cours
 
 Si une enquête relevant du ministre de la Défense nationale et portant sur un accident ou incident relatif à l’aéronautique qui n’aurait pas été jugé un accident militaro-civil au sens de la partie II de la *Loi sur l’aéronautique* — appelée la « Loi » au présent article —, édictée par l’article 19 de la présente loi, est en cours à l’entrée en vigueur de cette partie ou est terminée à cette date sans qu’un rapport ait été fourni au ministre, les paragraphes 18(1) à (9) de la Loi et les dispositions des articles 22 à 24.1 de la Loi relatives aux enregistrements de bord, aux enregistrements contrôle et aux déclarations au sens des articles 22, 24 et 24.1 et celles de l’article 24.2 de la Loi relatives à l’information fournie par des civils s’appliquent à compter de la date d’entrée en vigueur de cette partie.
+
+### — 2026, ch. 3, art. 495
+
+### 495 Règlements sur la sûreté aérienne
+
+Les règlements visés à l’alinéa 4.71(2)k.4) de la *Loi sur l’aéronautique* peuvent être pris en vertu du paragraphe 4.71(1) de la même loi relativement au système, au procédé, à la procédure, au programme, au plan ou au document qu’une personne a établi ou élaboré ou dont elle dispose conformément à un règlement pris, avant la date d’entrée en vigueur du présent article, en vertu de ce paragraphe.
+
+### — 2026, ch. 3, art. 496
+
+### 496 Règlements sur la sécurité aérienne
+
+Les règlements visés à l’alinéa 4.901e) de la *Loi sur l’aéronautique* peuvent être pris en vertu de l’article 4.9 de la même loi relativement au système, au procédé, à la procédure, au programme, au plan ou au document qu’une personne a établi ou élaboré ou dont elle dispose conformément à un règlement pris en vertu de cet article avant la date d’entrée en vigueur du présent article.
 
 
 ## MODIFICATIONS NON EN VIGUEUR

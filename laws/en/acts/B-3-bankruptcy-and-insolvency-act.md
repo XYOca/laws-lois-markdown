@@ -6509,9 +6509,9 @@ Subject to priority of ranking as provided by section 136 and subject to subsect
 
 - (h) the *Underused Housing Tax Act*; *[2022, c. 10, s. 173]*
 
-- (i) the *Select Luxury Items Tax Act*; *[2022, c. 10, s. 173]*
+- (i) the *Select Luxury Items Tax Act*; and *[2022, c. 10, s. 173]*
 
-- (j) the *Digital Services Tax Act*; and
+- (j) [Repealed, 2026, c. 3, s. 130]
 
 - (k) the *Global Minimum Tax Act*.
 
@@ -6529,6 +6529,7 @@ Subject to priority of ranking as provided by section 136 and subject to subsect
 - 2024, c. 15, s. 99
 - 2024, c. 17, s. 83
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 130
 
 </details>
 

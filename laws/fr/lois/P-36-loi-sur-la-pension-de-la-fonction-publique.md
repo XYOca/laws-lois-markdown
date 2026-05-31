@@ -899,6 +899,7 @@ L’ensemble des allocations versées en vertu de l’alinéa b) ne peut excéde
     - (A) une pension différée,
     - (B) si au moment où il cesse d’être ainsi employé il a atteint l’âge de cinquante ans et compte à son crédit vingt-cinq années au moins de service ouvrant droit à pension, une allocation annuelle payable immédiatement, lors de l’exercice de son option, et égale au montant de la pension différée mentionnée à la division (A) diminué du plus grand des deux produits obtenus en multipliant cinq pour cent du montant de cette pension :
     - (C) si au moment où il cesse d’être ainsi employé il a atteint l’âge de cinquante-cinq ans, a été employé dans la fonction publique pendant une durée de dix ans au moins répartie sur une ou plusieurs périodes et ne quitte pas volontairement la fonction publique, une allocation annuelle payable immédiatement, à la cessation de son emploi, égale au montant de la pension différée mentionnée à la division (A) diminué du produit obtenu en multipliant :
+    - (C.1) sous réserve du paragraphe (1.1), si, au moment où il exerce son option au titre de la présente division, une initiative de réduction des effectifs est en vigueur et si, au moment où il cesse d’être ainsi employé, il a atteint l’âge de cinquante ans et a été employé dans la fonction publique pendant une durée de dix ans au moins répartie sur une ou plusieurs périodes, une allocation annuelle payable immédiatement, à la cessation de son emploi, égale au montant de la pension différée mentionnée à la division (A),
     - (D) une allocation annuelle payable :
 
 - d) s’il devient invalide, sans avoir atteint l’âge de soixante ans mais après avoir acquis le droit :
@@ -906,6 +907,14 @@ L’ensemble des allocations versées en vertu de l’alinéa b) ne peut excéde
   - (ii) à une allocation annuelle, il cesse d’avoir droit à cette allocation annuelle et acquiert le droit à une pension immédiate, laquelle doit être rectifiée en conformité avec les règlements de façon à tenir compte du montant de l’allocation annuelle qu’il recevait.
 
 - e) [Abrogé, 1999, ch. 34, art. 65]
+
+**Limitation au droit à l’allocation annuelle**
+
+(1.1) Le contributeur n’a droit à l’allocation annuelle prévue à la division (1)c)(ii)(C.1) que si le Conseil du Trésor approuve, selon les critères qu’il établit, son droit à celle-ci et que si le contributeur cesse d’être employé dans la fonction publique pendant la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant le trois centième jour suivant cette date.
+
+**Limitation à l’approbation**
+
+(1.2) Le Conseil du Trésor ne peut pas approuver le droit du contributeur à l’allocation annuelle visée à la division (1)c)(ii)(C.1) après le cent vingtième jour suivant la date d’entrée en vigueur du présent paragraphe.
 
 **Allocation au survivant et aux enfants**
 
@@ -943,6 +952,7 @@ qui intervient dans une période de deux ans immédiatement avant sa retraite de
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. P-36, art. 13; 1996, ch. 18, art. 30; 1999, ch. 34, art. 65; 2003, ch. 22, art. 225(A); 2012, ch. 31, art. 485
+- 2026, ch. 3, art. 217
 
 </details>
 
@@ -962,11 +972,20 @@ qui intervient dans une période de deux ans immédiatement avant sa retraite de
     - (A) une pension différée,
     - (B) si au moment où il cesse d’être ainsi employé il a atteint l’âge de cinquante-cinq ans et compte à son crédit vingt-cinq années au moins de service ouvrant droit à pension, une allocation annuelle payable immédiatement, lors de l’exercice de son option, et égale au montant de la pension différée mentionnée à la division (A) diminué du plus grand des deux produits obtenus en multipliant cinq pour cent du montant de cette pension :
     - (C) si au moment où il cesse d’être ainsi employé il a atteint l’âge de soixante ans, a été employé dans la fonction publique pendant une durée de dix ans au moins répartie sur une ou plusieurs périodes et ne quitte pas volontairement la fonction publique, une allocation annuelle payable immédiatement, à la cessation de son emploi, égale au montant de la pension différée mentionnée à la division (A) diminué du produit obtenu en multipliant :
+    - (C.1) sous réserve du paragraphe (1.1), si, au moment où il exerce son option au titre de la présente division, une initiative de réduction des effectifs est en vigueur et si, au moment où il cesse d’être ainsi employé, il a atteint l’âge de cinquante-cinq ans et a été employé dans la fonction publique pendant une durée de dix ans au moins répartie sur une ou plusieurs périodes, une allocation annuelle payable immédiatement, à la cessation de son emploi, égale au montant de la pension différée mentionnée à la division (A),
     - (D) une allocation annuelle payable :
 
 - d) s’il devient invalide, sans avoir atteint l’âge de soixante-cinq ans mais après avoir acquis le droit :
   - (i) à une pension différée, il cesse d’avoir droit à cette pension différée et acquiert le droit à une pension immédiate,
   - (ii) à une allocation annuelle, il cesse d’avoir droit à cette allocation annuelle et acquiert le droit à une pension immédiate, laquelle doit être rectifiée en conformité avec les règlements de façon à tenir compte du montant de l’allocation annuelle qu’il a reçue.
+
+**Limitation au droit à l’allocation annuelle**
+
+(1.1) Le contributeur n’a droit à l’allocation annuelle prévue à la division (1)c)(ii)(C.1) que si le Conseil du Trésor approuve, selon les critères qu’il établit, son droit à celle-ci et que si le contributeur cesse d’être employé dans la fonction publique pendant la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant le trois centième jour suivant cette date.
+
+**Limitation à l’approbation**
+
+(1.2) Le Conseil du Trésor ne peut pas approuver le droit du contributeur à l’allocation annuelle visée à la division (1)c)(ii)(C.1) après le cent vingtième jour suivant la date d’entrée en vigueur du présent paragraphe.
 
 **Allocation au survivant et aux enfants**
 
@@ -1002,6 +1021,7 @@ qui intervient dans une période de deux ans immédiatement avant sa retraite de
 <summary>Historical Note</summary>
 
 - 2012, ch. 31, art. 486
+- 2026, ch. 3, art. 218
 
 </details>
 
@@ -2479,6 +2499,28 @@ ne peut être payé à un employeur approuvé sur le compte de pension de retrai
 
 </details>
 
+### 44.21 Paiement — renonciation à la diminution
+
+Malgré le paragraphe 43(1) de la présente loi et l’article 21 de la *Loi sur les régimes de retraite particuliers*, la diminution prévue par les divisions 13(1)c)(ii)(C) ou 13.001(1)c)(ii)(C) à laquelle le Conseil de Trésor a renoncé au titre de ces divisions pendant la période commençant à la date d’entrée en vigueur du présent article et se terminant le trois centième jour suivant cette date est portée au débit de la Caisse de retraite de la fonction publique et payée sur l’actif de l’Office d’investissement des régimes de pensions du secteur public.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 219
+
+</details>
+
+### 44.22 Paiement — différence entre montants
+
+Malgré le paragraphe 43(1) de la présente loi et l’article 21 de la *Loi sur les régimes de retraite particuliers*, la différence entre l’allocation annuelle qui est payable au contributeur au titre des divisions 13(1)c)(ii)(C.1) ou 13.001(1)c)(ii)(C.1) et l’allocation annuelle qui aurait été payable s’il avait exercé une option au titre des divisions 13(1)c)(ii)(B), (C) ou (D) ou 13.001(1)c)(ii)(B), (C) ou (D) et qu’il avait cessé d’être employé dans la fonction publique au même moment où il a effectivement cessé de l’être est portée au débit de la Caisse de retraite de la fonction publique et payée sur l’actif de l’Office d’investissement des régimes de pensions du secteur public.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 219
+
+</details>
+
 ### 44.3 Montants versés à la suite d’un rapport d’évaluation actuarielle
 
 (1) À la suite du dépôt au Parlement du rapport d’évaluation actuarielle visé à l’article 45 concernant la situation de la Caisse de retraite de la fonction publique, est versé à la caisse, selon les modalités de temps et autres prévues au paragraphe (2), le montant que, de l’avis du ministre, il faudra ajouter, à la fin du quinzième exercice suivant le dépôt du rapport ou de la période plus courte que détermine le ministre, au solde créditeur que, suivant l’estimation de celui-ci, devrait alors avoir la caisse pour couvrir le coût des prestations payables en application de la présente partie et de la partie III au titre du service ouvrant droit à pension porté au crédit des contributeurs le 1^er^ avril 2000 ou après cette date.
@@ -3357,6 +3399,7 @@ Le ministre peut utiliser des moyens électroniques pour créer, communiquer, re
 - DORS/2019-301, art. 2
 - 2024, ch. 15, art. 215
 - 2024, ch. 33, art. 18
+- 2026, ch. 3, art. 526
 
 </details>
 
@@ -3479,3 +3522,55 @@ La partie II de l’annexe I de la *Loi sur la pension de la fonction publique* 
 ### 112 Mention — version anglaise
 
 Sauf indication contraire du contexte, dans la version anglaise de toute loi fédérale et de tout texte d’application, « Force » est remplacé par « RCMP ».
+
+### — 2026, ch. 3, art. 210
+
+### 210
+
+L’intertitre précédant l’article 24.1 et les articles 24.1 et 24.2 de la *Loi sur la pension de la fonction publique* sont remplacés par ce qui suit :
+
+### — 2026, ch. 3, art. 211
+
+### 211
+
+Le paragraphe 24.4(1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 3, art. 212
+
+### 212
+
+L’article 24.6 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 3, art. 213
+
+### 213
+
+(1) Les alinéas 42.1(1)m) à q) de la même loi sont remplacés par ce qui suit :
+
+(2) L’alinéa 42.1(1)t) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 3, art. 214
+
+### 214
+
+(1) Le passage de la définition de **prestataire** précédant l’alinéa a), à l’article 64 de la même loi, est remplacé par ce qui suit :
+
+(2) Le passage de l’alinéa c) de la définition de **prestataire** précédant le sous-alinéa (i), à l’article 64 de la même loi, est remplacé par ce qui suit :
+
+### — 2026, ch. 3, art. 215
+
+### 215
+
+Le paragraphe 69(4) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 3, art. 220
+
+### 220
+
+La même loi est modifiée par adjonction, après l’article 46, de ce qui suit :
+
+### — 2026, ch. 3, art. 568
+
+### 568
+
+La partie III de l’annexe I de la *Loi sur la pension de la fonction publique* est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :

@@ -4434,7 +4434,7 @@ Where circumstances render it difficult to determine the exact amount of any pay
 
 ### 77 Restriction on refunds and credits
 
-A refund shall not be paid, and a credit shall not be allowed, to a person under this Act until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under the *Excise Tax Act*, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* and the *Global Minimum Tax Act*.
+A refund shall not be paid, and a credit shall not be allowed, to a person under this Act until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under the *Excise Tax Act*, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act* and the *Global Minimum Tax Act*.
 
 <details>
 <summary>Historical Note</summary>
@@ -4447,6 +4447,7 @@ A refund shall not be paid, and a credit shall not be allowed, to a person under
 - 2024, c. 15, s. 101
 - 2024, c. 17, s. 85
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 132
 
 </details>
 
@@ -13014,7 +13015,7 @@ Bis the tax fraction of the coupon value.
 
 **Redemption of coupon**
 
-(5) For the purposes of this Part, where, in full or partial consideration for a taxable supply of property or a service, a supplier who is a registrant accepts a coupon that may be exchanged for the property or service or that entitles the recipient of the supply to a reduction of, or a discount on, the price of the property or service and a particular person at any time pays, in the course of a commercial activity of the particular person, an amount to the supplier for the redemption of the coupon, the following rules apply:
+(5) For the purposes of this Part, if, in full or partial consideration for a taxable supply of property or a service, a supplier that is a registrant accepts a coupon that may be exchanged for the property or service or that entitles the recipient of the supply to a reduction of, or a discount on, the price of the property or service and a particular person at any time pays, exclusively in the course of commercial activities of the particular person, an amount to the supplier for the redemption of the coupon, the following rules apply:
 
 - (a) the amount shall be deemed not to be consideration for a supply;
 
@@ -13022,11 +13023,20 @@ Bis the tax fraction of the coupon value.
 
 - (c) if the supply is not a zero-rated supply and the coupon entitled the recipient to a reduction of the price of the property or service equal to a fixed dollar amount specified in the coupon (in this paragraph referred to as the “coupon value”), the particular person, if a registrant (other than a registrant who is a prescribed registrant for the purposes of subsection 188(5)) at that time, may claim an input tax credit for the reporting period of the particular person that includes that time equal to the tax fraction of the coupon value, unless all or part of that coupon value is an amount of an adjustment, refund or credit to which subsection 232(3) applies.
 
+**Redemption – commercial activities**
+
+(6) For the purposes of subsection (5), a payment is made by a person exclusively in the course of commercial activities of the person only if
+
+- (a) the person is not a financial institution and all or substantially all of the activities in the course of which the payment is made are commercial activities; or
+
+- (b) the person is a financial institution and all of the activities in the course of which the payment is made are commercial activities.
+
 <details>
 <summary>Historical Note</summary>
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - 1990, c. 45, s. 12; 1993, c. 27, s. 46; 1994, c. 9, s. 10; 1997, c. 10, s. 174; 2000, c. 30, s. 33; 2006, c. 4, s. 7
+- 2026, c. 3, s. 159
 
 </details>
 
@@ -14147,7 +14157,7 @@ until the complex is supplied by way of sale, or is supplied by way of lease, li
 
 **Substantial completion**
 
-(9) For the purposes of this section, the construction or substantial renovation of a multiple unit residential complex or a condominium complex, or the construction of an addition to a multiple unit residential complex, shall be deemed to be substantially completed not later than the day all or substantially all of the residential units in the complex or addition are occupied after the construction or substantial renovation is begun.
+(9) For the purposes of this section, subsection 256.2(3.1) and the *Real Property (GST/HST) Regulations*, the construction or substantial renovation of a multiple unit residential complex or a condominium complex, or the construction of an addition to a multiple unit residential complex, shall be deemed to be substantially completed not later than the day all or substantially all of the residential units in the complex or addition are occupied after the construction or substantial renovation is begun.
 
 **Transfer of possession attributed to builder**
 
@@ -14166,6 +14176,7 @@ the builder shall be deemed to have at that time given possession of the complex
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - 1990, c. 45, s. 12; 1993, c. 27, ss. 56, 204(F); 1997, c. 10, s. 37; 2000, c. 12, s. 113, c. 30, s. 40; 2008, c. 28, s. 73
+- 2026, c. 3, s. 160
 
 </details>
 
@@ -17878,7 +17889,7 @@ Bis the amount, if any, that the person claimed as an interim net tax refund for
 
 **Restriction**
 
-(2) A net tax refund for a reporting period of a person shall not be paid to the person under subsection (1) at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* and the *Global Minimum Tax Act* have been filed with the Minister.
+(2) A net tax refund for a reporting period of a person shall not be paid to the person under subsection (1) at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act* and the *Global Minimum Tax Act* have been filed with the Minister.
 
 **Restriction**
 
@@ -17901,6 +17912,7 @@ Bis the amount, if any, that the person claimed as an interim net tax refund for
 - 2024, c. 15, s. 102
 - 2024, c. 17, s. 86
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 133
 
 </details>
 
@@ -17910,7 +17922,7 @@ Bis the amount, if any, that the person claimed as an interim net tax refund for
 
 **Restriction**
 
-(2) An amount paid on account of net tax for a reporting period of a person shall not be refunded to the person under subsection (1) at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* and the *Global Minimum Tax Act* have been filed with the Minister.
+(2) An amount paid on account of net tax for a reporting period of a person shall not be refunded to the person under subsection (1) at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act* and the *Global Minimum Tax Act* have been filed with the Minister.
 
 **Interest on refund**
 
@@ -17929,6 +17941,7 @@ Bis the amount, if any, that the person claimed as an interim net tax refund for
 - 2024, c. 15, s. 103
 - 2024, c. 17, s. 87
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 134
 
 </details>
 
@@ -18875,7 +18888,7 @@ Dis the number of days in the period commencing on the first day of the first of
 - (c) at the time the application is made,
   - (i) no designation under this subsection of a reporting period of the registrant ending in the fiscal year has been revoked,
   - (ii) all amounts required under this Part to be remitted before that time by the registrant in respect of reporting periods of the registrant or supplies of real property made to the registrant and all amounts payable under this Part before that time by the registrant as penalty, interest, an instalment of tax or a repayment in respect of reporting periods of the registrant have been remitted or paid,
-  - (iii) all amounts required under this Act (other than this Part), sections 21 and 33 of the *Canada Pension Plan*, the *Excise Act*, the *Customs Act*, the *Income Tax Act*, section 82 and Part VII of the *Employment Insurance Act*, the *Customs Tariff*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* and the *Global Minimum Tax Act* to be remitted or paid before that time by the registrant have been remitted or paid, and
+  - (iii) all amounts required under this Act (other than this Part), sections 21 and 33 of the *Canada Pension Plan*, the *Excise Act*, the *Customs Act*, the *Income Tax Act*, section 82 and Part VII of the *Employment Insurance Act*, the *Customs Tariff*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act* and the *Global Minimum Tax Act* to be remitted or paid before that time by the registrant have been remitted or paid, and
   - (iv) all returns required under this Part to be filed with the Minister before that time by the registrant have been filed.
 
 **No return**
@@ -18929,6 +18942,7 @@ the designations under subsection (2) of all subsequent reporting periods of the
 - 2024, c. 15, s. 104
 - 2024, c. 17, s. 88
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 135
 
 </details>
 
@@ -20375,6 +20389,10 @@ Bis the total of all other rebates and input tax credits that the landlord was e
 
 (2) In this section, a reference to a “lease” shall be read as a reference to a “lease, licence or similar arrangement”.
 
+**Purpose-built rental housing – student residence**
+
+(2.01) For the purposes of applying this section and the *Real Property (GST/HST) Regulations* (other than prescribed provisions) in respect of a taxable supply of property that is a residential complex or an addition to a residential complex, if the taxable supply and the property meet the conditions described in paragraph (3.1)(a) or (b), clause (a)(iii)(A) of the definition **qualifying residential unit** in subsection (1) is to be read as follows:
+
 **Purpose-built rental housing — cooperative housing corporation**
 
 (2.1) For the purposes of applying subsections (3) and (5) and section 255 in respect of a taxable supply to a person that is a cooperative housing corporation of property that is prescribed for the purposes of subsection (3.1), if the taxable supply and the property meet the conditions described in paragraph (3.1)(a) or (b) and if prescribed conditions are met, the person is deemed not to be a cooperative housing corporation in respect of the taxable supply.
@@ -20393,7 +20411,7 @@ Bis the total of all other rebates and input tax credits that the landlord was e
 
 - (d) the person is not entitled to include the tax in respect of the purchase from the supplier, or the tax in respect of the deemed purchase, in determining an input tax credit of the person,
 
-the Minister shall, subject to subsections (3.1), (7) and (8), pay a rebate to the person equal to the total of all amounts each of which is an amount, in respect of a residential unit that forms part of the residential complex or addition, as the case may be, and is a qualifying residential unit of the person at the particular time, determined by the formula
+the Minister shall, subject to subsections (3.1) to (3.4), (7) and (8), pay a rebate to the person equal to the total of all amounts each of which is an amount, in respect of a residential unit that forms part of the residential complex or addition, as the case may be, and is a qualifying residential unit of the person at the particular time, determined by the formula
 
 ```
 A × ($450,000 - B)/$100,000
@@ -20414,6 +20432,32 @@ Bis the greater of $350,000 and(i)if the unit is a single unit residential compl
 **Amount of rebate — purpose-built rental housing**
 
 (3.2) If subsection (3.1) applies, the amount of the rebate under subsection (3) is equal to the amount determined as if the first formula in subsection (3) and the descriptions for that formula were read as follows:
+
+**Purpose-built rental housing – student residence**
+
+(3.3) The rules set out in subsection (3.4) apply in respect of the construction or substantial renovation of a residential complex or an addition to a multiple unit residential complex if the following conditions are met:
+
+- (a) the builder of the residential complex or addition is a university, a public college or a school authority;
+
+- (b) the construction or substantial renovation of the residential complex or addition is carried out primarily for the purpose of providing a place of residence for students attending the university, the public college or a school of the school authority;
+
+- (c) the builder would, in the absence of subsection 191(6), be deemed under section 191 to have made and received, at a particular time, a taxable supply by way of sale of the residential complex or addition; and
+
+- (d) in respect of the taxable supply referred to in paragraph (c) that would, in the absence of subsection 191(6), be deemed under section 191 to have been made and received by the builder, it is the case that
+  - (i) the residential complex or addition is property prescribed for the purposes of subsection (3.1), determined as if the deemed purchase referred to in subparagraph (3)(a)(ii) were the taxable supply and the particular time referred to in paragraph (3)(b) were the particular time referred to in paragraph (c), and
+  - (ii) the taxable supply and the residential complex or addition meet the conditions prescribed for the purposes of subsection (3.1) and the conditions described in paragraph (3.1)(a) or (b).
+
+**Amount of rebate – student residence**
+
+(3.4) If the conditions set out in subsection (3.3) are met in respect of the construction or substantial renovation of a residential complex or an addition to a multiple unit residential complex, for the purposes of applying subsection (3) in respect of the construction or substantial renovation of the residential complex or addition, the following rules apply:
+
+- (a) the conditions in subparagraph (3)(a)(ii) and paragraphs (3)(b) to (d) are deemed to be met at the particular time referred to in paragraph (3.3)(c);
+
+- (b) the deemed purchase referred to in subparagraph (3)(a)(ii) is deemed to be the taxable supply referred to in paragraph (3.3)(c) that would, in the absence of subsection 191(6), be deemed under section 191 to have been made and received by the builder of the residential complex or addition;
+
+- (c) the particular time referred to in paragraph (3)(b) is deemed to be the particular time referred to in paragraph (3.3)(c); and
+
+- (d) despite subsections (3.1) and (3.2), the amount of the rebate under subsection (3) in respect of the construction or substantial renovation of the residential complex or addition is equal to the amount determined as if the first formula in subsection (3) and the descriptions for that formula were read as follows:
 
 **Rebate in respect of sale of building and lease of land**
 
@@ -20503,7 +20547,8 @@ Bis the greater of $87,500 and(i)in the case of a supply of land included in par
 
 - (a) the person files an application for the rebate within two years after
   - (i) in the case of a rebate under subsection (5), the end of the month in which the person makes the exempt supply referred to in subparagraph (5)(a)(ii),
-  - (ii) in the case of a rebate under subsection (6), the end of the month in which the tax referred to in that subsection is deemed to have been paid by the person, and
+  - (ii) in the case of a rebate under subsection (6), the end of the month in which the tax referred to in that subsection is deemed to have been paid by the person,
+  - (ii.1) in the case of a rebate under subsection (3), the amount of which is determined under subsection (3.4), in respect of the construction or substantial renovation of a residential complex or an addition to a multiple unit residential complex, the end of the month that includes the particular time referred to in paragraph (3.3)(c) in respect of the construction or renovation of the residential complex or addition, and
   - (iii) in any other case of a rebate in respect of a residential unit, the end of the month in which tax first becomes payable by the person, or is deemed to have been paid by the person, in respect of the unit or interest in the unit or in respect of the residential complex or addition, or interest therein, in which the unit is situated;
 
 - (b) if the rebate is in respect of a taxable supply received by the person from another person, the person has paid all of the tax payable in respect of that supply; and
@@ -20548,6 +20593,7 @@ Bis the greater of $87,500 and(i)in the case of a supply of land included in par
 - 2023, c. 31, s. 2
 - 2024, c. 15, s. 143
 - 2026, c. 2, s. 8
+- 2026, c. 3, s. 161
 
 </details>
 
@@ -22701,7 +22747,7 @@ A rebate of an amount under subsection 215.1(1) or (2) or 216(6) or any of secti
 
 ### 263.02 Restriction on rebate
 
-A rebate under this Part shall not be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* and the *Global Minimum Tax Act* have been filed with the Minister.
+A rebate under this Part shall not be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act* and the *Global Minimum Tax Act* have been filed with the Minister.
 
 <details>
 <summary>Historical Note</summary>
@@ -22714,6 +22760,7 @@ A rebate under this Part shall not be paid to a person at any time unless all re
 - 2024, c. 15, s. 105
 - 2024, c. 17, s. 89
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 136
 
 </details>
 
@@ -25065,11 +25112,12 @@ but does not include information that does not directly or indirectly reveal the
   - (iii) to an official solely for the purposes of the administration or enforcement of a law of a province that provides for the imposition or collection of a tax or duty, that provides that displays or indications of the price or consideration for property or services include tax under this Act or that provides for reimbursements to persons of amounts paid or payable by the persons as or on account of tax under this Act,
   - (iv) to an official of the government of a province solely for the purposes of the formulation or evaluation of fiscal policy,
   - (iv.1) to a person authorized by the council of a band listed in the schedule to the *Budget Implementation Act, 2000* solely for the purposes of the formulation, evaluation or initial implementation of fiscal policy relating to a tax that the council of the band may impose under a by-law made under subsection 24(1) of that Act,
-  - (iv.2) to a person authorized by the governing body of a first nation listed in the schedule to the *First Nations Goods and Services Tax Act* solely for the purposes of the formulation, evaluation or initial implementation of fiscal policy relating to a tax referred to in that Act,
+  - (iv.2) to a person authorized by the governing body of a first nation listed in a schedule to the *First Nations Goods and Services Tax Act* solely for the purposes of the formulation, evaluation or initial implementation of fiscal policy relating to a tax referred to in that Act,
   - (iv.3) to an official solely for the purpose of the administration or enforcement of the *Canada Education Savings Act* or a **designated provincial program**, as defined in subsection 146.1(1) of the *Income Tax Act*,
   - (iv.4) to an official solely for the purpose of the administration or enforcement of the *Canada Disability Savings Act* or a **designated provincial program**, as defined in subsection 146.4(1) of the *Income Tax Act*,
   - (v) to an official of a department or agency of the Government of Canada or of a province as to the name, address, telephone number, occupation, size or type of business of a person, solely for the purposes of enabling that department or agency to obtain statistical data for research and analysis,
   - (v.1) to an official of the Department of Employment and Social Development solely for the purpose of the administration or enforcement of a program established under the authority of the *Department of Employment and Social Development Act* in respect of children who are deceased or missing as a result of an offence, or a probable offence, under the *Criminal Code*,
+  - (v.2) to an official of the Department of Employment and Social Development solely for the purpose of the administration or enforcement of the *Canada Labour Code* as it relates to the misclassification of employees,
   - (vi) to an official solely for the purposes of setting off, against any sum of money that may be due or payable by Her Majesty in right of Canada, a debt due to
     - (A) Her Majesty in right of Canada, or
     - (B) Her Majesty in right of a province on account of taxes payable to the province where an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province,
@@ -25223,6 +25271,8 @@ but does not include information that does not directly or indirectly reveal the
 - 2023, c. 14, s. 4
 - 2023, c. 26, s. 83
 - 2024, c. 15, s. 71
+- 2026, c. 3, s. 97
+- 2026, c. 3, s. 189
 
 </details>
 
@@ -25357,7 +25407,7 @@ the Minister shall apply all or part of the allowable rebate against that net ta
 
 **Restriction on refunds**
 
-(7) An amount under this section shall not be refunded to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* and the *Global Minimum Tax Act* have been filed with the Minister.
+(7) An amount under this section shall not be refunded to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act* and the *Global Minimum Tax Act* have been filed with the Minister.
 
 **Meaning of **overpayment of net tax****
 
@@ -25384,6 +25434,7 @@ exceeds the total of
 - 2024, c. 15, s. 106
 - 2024, c. 17, s. 90
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 137
 
 </details>
 
@@ -28657,6 +28708,8 @@ Laundry detergents.
 - 1990, c. 45, s. 18; 1993, c. 27, ss. 147 to 177; 1994, c. 9, ss. 25 to 28, 35(F); 1997, c. 10, ss. 85 to 117, 243 to 252; 1999, c. 31, s. 234; 2000, c. 12, s. 113, c. 30, ss. 109 to 122, c. 34, s. 94(F); 2001, c. 15, ss. 21 to 28; 2003, c. 15, ss. 64, 65; 2004, c. 22, ss. 40 to 44; 2007, c. 18, ss. 52 to 56, c. 29, ss. 50, 51; 2008, c. 28, ss. 78 to 84; 2010, c. 12, ss. 83 to 87; 2012, c. 19, ss. 29, 30; 2013, c. 33, ss. 47 to 50, c. 40, s. 124; 2014, c. 20, ss. 52 to 60; 2016, c. 7, s. 68; 2017, c. 33, ss. 153, 154(F), 155, 156(F); 2018, c. 12, s. 96
 - 2019, c. 29, s. 75
 - 2024, c. 15, s. 137
+- 2026, c. 3, s. 162
+- 2026, c. 3, s. 163
 
 </details>
 
@@ -29025,3 +29078,13 @@ If a supply is made between a person and a corporation that have jointly made an
 
 
 (6) Despite section 298 of the Act, the Minister of National Revenue may assess, reassess or make an additional assessment of any amount in respect of paragraph (r.6) of the definition **financial service** in subsection 123(1) of the Act, as amended by subsection (1), at any time on or before the later of the day that is one year after the day on which the legislation enacting subsection (1) receives royal assent and the last day of the period otherwise allowed under that section for making the assessment, reassessment or additional assessment.
+
+### — 2026, c. 3, s. 161(7)
+
+
+(7) If a person is, or would be in the absence of paragraph 256.2(7)(a) of the Act (as amended by subsection (5)), entitled to a rebate under subsection 256.2(3) of the Act (as amended by subsection (2)) in respect of the construction or substantial renovation of a residential complex or an addition to a multiple unit residential complex, if the construction or renovation is substantially completed before the day on which this Act receives royal assent and if the amount of the rebate is determined under subsection 256.2(3.4) of the Act (as enacted by subsection (4)), the rebate may, despite paragraph 256.2(7)(a) of the Act (as amended by subsection (5)), be paid to the person if the person files an application for the rebate before the second anniversary of the day on which this Act receives royal assent.
+
+### — 2026, c. 3, s. 161(8)
+
+
+(8) If a person is, or would be in the absence of paragraph 256.2(7)(a) of the Act (as amended by subsection (5)), entitled to a rebate under subsection 256.2(3) of the Act (as amended by subsection (2)) in respect of the construction or substantial renovation of a residential complex or an addition to a multiple unit residential complex, if the construction or renovation is substantially completed before the day on which this Act receives royal assent, if the amount of the rebate is determined under subsection 256.2(3.2) of the Act (as amended by subsection (3)) and if the rebate is in respect of a taxable supply described in subsection 256.2(2.1) of the Act, the rebate may, despite paragraph 256.2(7)(a) of the Act (as amended by subsection (5)), be paid to the person if the person files an application for the rebate before the second anniversary of the day on which this Act receives royal assent.

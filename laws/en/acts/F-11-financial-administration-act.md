@@ -5305,7 +5305,7 @@ the Minister may require the retention of the amount of the indebtedness by way 
 
 - (b) an amount related to the public debt, or to interest on the public debt; and
 
-- (c) an amount owing by a person to Her Majesty in right of Canada, or payable by the Minister of National Revenue to any person, under the *Excise Tax Act*, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Softwood Lumber Products Export Charge Act, 2006*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* or the *Global Minimum Tax Act*.
+- (c) an amount owing by a person to His Majesty in right of Canada, or payable by the Minister of National Revenue to any person, under the *Excise Tax Act*, the *Income Tax Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Softwood Lumber Products Export Charge Act, 2006*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act* or the *Global Minimum Tax Act*.
 
 <details>
 <summary>Historical Note</summary>
@@ -5317,6 +5317,7 @@ the Minister may require the retention of the amount of the indebtedness by way 
 - 2024, c. 15, s. 108
 - 2024, c. 17, s. 92
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 139
 
 </details>
 
@@ -6168,3 +6169,9 @@ and the corresponding reference in column II to ‘‘Chairperson’’.
 Part III of Schedule VI to the Act is amended by adding, in alphabetical order in column I, a reference to
 
 and a corresponding reference in column II to ‘‘Chairperson’’.
+
+### — 2026, c. 3, s. 566
+
+### 566
+
+Part I of Schedule III to the *Financial Administration Act* is amended by deleting the following:

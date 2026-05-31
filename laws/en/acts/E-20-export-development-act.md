@@ -651,7 +651,7 @@ Section 83 of the *Impact Assessment Act* does not apply when the Minister or th
 
 - (b) for the purpose of prosecuting an offence under this Act or any other Act of Parliament;
 
-- (c) to the Minister of National Revenue solely for the purpose of administering or enforcing the *Excise Tax Act*, the *Income Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* or the *Global Minimum Tax Act*; or
+- (c) to the Minister of National Revenue solely for the purpose of administering or enforcing the *Excise Tax Act*, the *Income Tax Act*, the *Select Luxury Items Tax Act* or the *Global Minimum Tax Act*; or
 
 - (d) with the written consent of the person to whom the information relates.
 
@@ -663,6 +663,7 @@ Section 83 of the *Impact Assessment Act* does not apply when the Minister or th
 - 2024, c. 15, s. 107
 - 2024, c. 17, s. 91
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 138
 
 </details>
 

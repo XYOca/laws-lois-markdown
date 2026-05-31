@@ -36,6 +36,8 @@ type: "act"
 
 **conseil arbitral**[Abrogée, 2012, ch. 19, art. 273]
 
+**Conseil d’appel en assurance-emploi** Le Conseil d’appel en assurance-emploi constitué par l’article 43.01 de la *Loi sur le ministère de l’Emploi et du Développement social*. (**Employment Insurance Board of Appeal**)
+
 **date de mise à pied** Relativement à un employé, la date de mise à pied de celui-ci, telle que déterminée par l’Office en vertu du paragraphe 11(3). (**effective date of lay-off**)
 
 **employé** L’individu qui a été employé dans un établissement canadien. (**employee**)
@@ -60,7 +62,7 @@ type: "act"
 
 **semaine** Période de sept jours consécutifs dont le premier est un dimanche. (**week**)
 
-**Tribunal de la sécurité sociale** Le Tribunal de la sécurité sociale constitué par l’article 44 de la *Loi sur le ministère de l’Emploi et du Développement social*. (**Social Security Tribunal**)
+**Tribunal de la sécurité sociale**[Abrogée, 2023, ch. 26, art. 657]
 
 **Présomption**
 
@@ -70,6 +72,7 @@ type: "act"
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. L-1, art. 2; 1996, ch. 11, art. 95 et 99, ch. 23, art. 177; 2005, ch. 34, art. 80; 2012, ch. 19, art. 273; 2013, ch. 40, art. 236 et 238
+- 2023, ch. 26, art. 657
 
 </details>
 
@@ -327,13 +330,13 @@ L’Office peut certifier que l’employé nommé dans la demande visée à l’
 
 (5) Sous réserve du paragraphe (6), l’enquête prévue au paragraphe (4) terminée, la Commission décide si l’auteur de la demande a droit ou non de toucher des prestations d’adaptation et l’avise par écrit de sa décision.
 
-**Renvoi devant le Tribunal de la sécurité sociale**
+**Renvoi devant le Conseil d’appel en assurance-emploi**
 
-(6) La Commission peut, dans les quatorze jours de la réception de la demande prévue au paragraphe (1), renvoyer celle-ci ou une question qui en découle à la division générale du Tribunal de la sécurité sociale, pour décision.
+(6) La Commission peut, dans les quatorze jours de la réception de la demande prévue au paragraphe (1), renvoyer celle-ci ou une question qui en découle au Conseil d’appel en assurance-emploi pour décision.
 
-**Procédure**
+**Procédure devant le Conseil d’appel en assurance-emploi**
 
-(7) La division générale du Tribunal de la sécurité sociale, lorsqu’une demande ou une question lui est renvoyée conformément au paragraphe (6), doit adopter, lors de l’examen de cette demande ou question, la procédure prévue par la *Loi sur le ministère de l’Emploi et du Développement social* pour l’audition d’un appel.
+(7) Le Conseil d’appel en assurance-emploi, lorsqu’une demande ou une question lui est renvoyée conformément au paragraphe (6), doit adopter, lors de l’examen de cette demande ou question, la procédure prévue par la *Loi sur le ministère de l’Emploi et du Développement social* pour l’audition d’un appel.
 
 **Défaut**
 
@@ -347,6 +350,7 @@ L’Office peut certifier que l’employé nommé dans la demande visée à l’
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. L-1, art. 13; 1996, ch. 23, art. 187; 2012, ch. 19, art. 274; 2013, ch. 40, art. 236
+- 2023, ch. 26, art. 658
 
 </details>
 
@@ -775,7 +779,7 @@ La Commission peut consulter l’Office, soit d’une façon générale, soit à
 
 **Appel des décisions de la Commission**
 
-(2) Toute personne peut, dans les trente jours de la date où elle reçoit communication d’une décision rendue par la Commission en vertu de la présente loi, à l’exception des paragraphes 14(2) ou (3), ou dans le délai supplémentaire que la Commission peut accorder, pour des raisons spéciales, dans un cas particulier, interjeter appel devant le Tribunal de la sécurité sociale.
+(2) Toute personne peut, dans les trente jours de la date où elle reçoit communication d’une décision rendue par la Commission en vertu de la présente loi, à l’exception des paragraphes 14(2) ou (3), ou dans le délai supplémentaire que la Commission peut accorder, pour des raisons spéciales, dans un cas particulier, interjeter appel devant le Conseil d’appel en assurance-emploi.
 
 (3) [Abrogé, 2012, ch. 19, art. 275]
 
@@ -787,6 +791,7 @@ La Commission peut consulter l’Office, soit d’une façon générale, soit à
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. L-1, art. 31; 1996, ch. 23, art. 187; 2002, ch. 8, art. 182; 2012, ch. 19, art. 275
+- 2023, ch. 26, art. 659
 
 </details>
 
@@ -896,35 +901,17 @@ Les définitions qui suivent s’appliquent au présent article et aux articles 
 
 **Tribunal** Le Tribunal de la sécurité sociale constitué par l’article 44 de la *Loi sur le ministère de l’Emploi et du Développement social*. (**Tribunal**)
 
-
-## MODIFICATIONS NON EN VIGUEUR
-
-### — 2023, ch. 26, art. 657
-
-### 657
-
-(1) La définition de **Tribunal de la sécurité sociale**, au paragraphe 2(1) de la *Loi sur les prestations d’adaptation pour les travailleurs*, est abrogée.
-
-(2) Le paragraphe 2(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
-
-### — 2023, ch. 26, art. 658
-
-### 658
-
-Les paragraphes 13(6) et (7) de la même loi sont remplacés par ce qui suit :
-
-### — 2023, ch. 26, art. 659
-
-### 659
-
-Le paragraphe 31(2) de la même loi est remplacé par ce qui suit :
-
-### — 2023, ch. 26, art. 678
+### — 2023, ch. 26, par. 678(1)
 
 ### 678 *Loi sur les prestations d’adaptation pour les travailleurs*
 
 (1) Le paragraphe 13(7) de la *Loi sur les prestations d’adaptation pour les travailleurs*, dans sa version antérieure à la date d’entrée en vigueur de l’article 634, continue de s’appliquer, jusqu’à la date d’entrée en vigueur de l’article 635, à l’égard des demandes et des questions qui ont été renvoyées à la division générale au titre du paragraphe 13(6) de cette loi avant la date d’entrée en vigueur de l’article 634.
 
-**Demande ou question en cours**
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2023, ch. 26, par. 678(2)
+
+### 678 Demande ou question en cours
 
 (2) La demande ou la question qui a été renvoyée à la division générale au titre du paragraphe 13(6) de la *Loi sur les prestations d’adaptation pour les travailleurs* et qui était en cours à la date d’entrée en vigueur de l’article 635 est réputée, à cette date, être une demande ou une question renvoyée au Conseil d’appel.

@@ -6210,7 +6210,7 @@ Sauf quant à la priorité de rang que prévoit l’article 136 et sous réserve
 
 - i) la *Loi sur la taxe sur certains biens de luxe*; *[2022, ch. 10, art. 173]*
 
-- j) la *Loi sur la taxe sur les services numériques*;
+- j) [Abrogé, 2026, ch. 3, art. 130]
 
 - k) la *Loi sur l’impôt minimum mondial*.
 
@@ -6228,6 +6228,7 @@ Sauf quant à la priorité de rang que prévoit l’article 136 et sous réserve
 - 2024, ch. 15, art. 99
 - 2024, ch. 17, art. 83
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 130
 
 </details>
 

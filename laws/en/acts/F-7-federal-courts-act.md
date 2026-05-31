@@ -918,8 +918,8 @@ The Federal Court has original jurisdiction in respect of any matter, not alloca
 
 - (g) the Governor in Council, when the Governor in Council makes an order under subsection 186(1) of the *Canadian Energy Regulator Act*;
 
-- (g.1) the Appeal Division of the Social Security Tribunal established under section 44 of the *Department of Employment and Social Development Act*, unless the decision is made under subsection 57(2) or section 58.2 of that Act or relates to an appeal respecting a decision relating to further time to make a request under
-  - (i) subsection 52(2) of that Act,
+- (g.1) the Appeal Division of the Social Security Tribunal established under section 44 of the *Department of Employment and Social Development Act*, unless the decision is made under subsection 54.2(2) or 57(2) or section 58.2 of that Act or relates to an appeal respecting a decision relating to further time to make a request under
+  - (i) subsection 43.11(2) or 52(2) of that Act,
   - (ii) section 81 of the *Canada Pension Plan*,
   - (iii) section 27.1 of the *Old Age Security Act*,
   - (iv) section 112 of the *Employment Insurance Act*, or
@@ -963,7 +963,9 @@ The Federal Court has original jurisdiction in respect of any matter, not alloca
 - R.S., 1985, c. F-7, s. 28; R.S., 1985, c. 30 (2nd Supp.), s. 61; 1990, c. 8, s. 8; 1992, c. 26, s. 17, c. 33, s. 69, c. 49, s. 128; 1993, c. 34, s. 70; 1996, c. 10, s. 229, c. 23, s. 187; 1998, c. 26, s. 73; 1999, c. 31, s. 92(E); 2002, c. 8, s. 35; 2003, c. 22, ss. 167(E), 262; 2005, c. 46, s. 56.1; 2006, c. 9, ss. 6, 222; 2008, c. 22, s. 46; 2012, c. 19, ss. 110, 272, 572, c. 24, s. 86; 2013, c. 40, ss. 236, 439; 2014, c. 20, s. 236; 2017, c. 9, ss. 43, 55
 - 2019, c. 28, s. 102
 - 2021, c. 23, s. 237
+- 2023, c. 26, s. 656
 - 2024, c. 17, s. 408
+- 2024, c. 17, s. 412
 
 </details>
 
@@ -1863,18 +1865,3 @@ For greater certainty, the Federal Court has jurisdiction to hear and determine 
 ### 372 Prothonotaries
 
 For greater certainty, every person who, immediately before the day on which this section comes into force, holds office as prothonotary of the Federal Court, supernumerary prothonotary of the Federal Court, prothonotary of the Tax Court of Canada or supernumerary prothonotary of the Tax Court of Canada continues in office as associate judge of the Federal Court, supernumerary associate judge of the Federal Court, associate judge of the Tax Court of Canada or supernumerary associate judge of the Tax Court of Canada, as the case may be.
-
-
-## AMENDMENTS NOT IN FORCE
-
-### — 2023, c. 26, s. 656
-
-### 656
-
-Paragraph 28(1)(g.1) of the *Federal Courts Act* is replaced by the following:
-
-### — 2024, c. 17, s. 412
-
-### 412 2023, c. 26
-
-On the first day on which both section 656 of the *Budget Implementation Act, 2023, No. 1* and section 408 of this Act are in force, paragraph 28(1)(g.1) of the *Federal Courts Act* is replaced by the following:

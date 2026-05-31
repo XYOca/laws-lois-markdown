@@ -70,16 +70,13 @@ Pour l’application de l’alinéa 4(2)a) de la Loi, l’un ou l’autre des c
 
 (1) [Abrogé, DORS/2012-286, art. 43]
 
-(2) Dans le cas d’une obtention végétale appartenant à une catégorie visée à l’annexe I, en ce qui a trait aux exigences concernant la vente ou le consentement à la vente à l’étranger, la période visée à l’alinéa 7(1)c) de la Loi commence :
-
-- a) soit six ans avant la date de réception par le directeur de la demande de certificat d’obtention visant l’obtention végétale appartenant à une catégorie de plantes ligneuses figurant à l’annexe I, y compris leurs porte-greffes;
-
-- b) soit quatre ans avant la date de réception par le directeur de la demande de certificat d’obtention visant l’obtention végétale, pour toute autre catégorie visée à l’annexe I.
+(2) [Abrogé, DORS/2026-74, art. 1]
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/93-87, art. 1; DORS/94-750, art. 4; DORS/98-582, art. 2; DORS/2012-286, art. 43
+- DORS/2026-74, art. 1
 
 </details>
 
@@ -108,12 +105,13 @@ La requête visée à l’alinéa 26(2)b) de la Loi est présentée dans les 90
 
 ### 12
 
-Le cessionnaire doit se conformer aux exigences du paragraphe 31(1) de la Loi et de l’article 26 du présent règlement dans les 30 jours suivant la date de cession du certificat d’obtention.
+Le cessionnaire se conforme aux exigences prévues au paragraphe 31(1) de la Loi et à l’article 26 du présent règlement dans l’année qui suit la date de cession du certificat d’obtention.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/94-750, art. 5
+- DORS/2026-74, art. 2
 
 </details>
 
@@ -175,11 +173,11 @@ Toute opposition à l’égard d’un changement de dénomination publié dans l
 
 - e) la dénomination proposée;
 
-- f) une mention indiquant si une demande de certificat temporaire est annexée;
+- f) [Abrogé, DORS/2026-74, art. 3]
 
 - g) la description de la variété végétale;
 
-- h) une déclaration portant que la variété végétale est stable et qu’elle est suffisamment homogène au sens du paragraphe 4(3) de la Loi;
+- h) une déclaration portant que la variété végétale est stable et qu’elle est **suffisamment homogène** au sens du paragraphe 4(4) de la Loi;
 
 - i) le mode de création de la variété végétale;
 
@@ -193,7 +191,16 @@ Toute opposition à l’égard d’un changement de dénomination publié dans l
 
 - n) la manière d’assurer le maintien du matériel de multiplication.
 
-(2) Le requérant joint à sa demande de certificat d’obtention un échantillon de référence qui est représentatif du matériel de multiplication viable de la variété végétale faisant l’objet de la demande.
+(2) Au moment où il dépose sa demande, le requérant soumet au directeur un échantillon de référence représentatif du matériel de multiplication viable de la variété végétale faisant l’objet de la demande si un tel échantillon est disponible.
+
+(3) S’il établit à la satisfaction du directeur qu’aucun échantillon n’était disponible au moment du dépôt de sa demande, le requérant soumet l’échantillon ultérieurement, de la manière indiquée par le directeur, mais avant la délivrance du certificat d’obtention.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-74, art. 3
+
+</details>
 
 ### 20
 
@@ -201,7 +208,14 @@ La demande de certificat d’obtention est accompagnée :
 
 - a) des résultats d’épreuves et d’essais comparatifs qui visent à établir la qualité d’obtention végétale de la variété végétale;
 
-- b) de photographies et d’une description détaillée de la variété végétale qui démontrent que celle-ci est nettement distinguable selon l’alinéa 4(2)a) de la Loi.
+- b) de photographies et d’une description détaillée de la variété végétale qui démontrent que, au terme de l’alinéa 4(2)b) de la Loi, celle-ci se distingue nettement de toutes les autres variétés notoirement connues.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-74, art. 4
+
+</details>
 
 ### 21
 
@@ -251,7 +265,7 @@ Tout changement de dénomination prend effet à la date où il est approuvé par
 
 ### 26
 
-En cas de cession du certificat d’obtention par son titulaire, le cessionnaire, pour l’application du paragraphe 31(1) de la Loi, communique par écrit au directeur les renseignements suivants :
+En cas de cession du certificat d’obtention par son titulaire, le cessionnaire, pour l’application du paragraphe 31(1) de la Loi, communique au directeur, dans un format qui lui est accessible, les renseignements suivants :
 
 - a) les nom et adresse du titulaire précédent;
 
@@ -259,7 +273,7 @@ En cas de cession du certificat d’obtention par son titulaire, le cessionnaire
 
 - c) le numéro du certificat d’obtention;
 
-- d) la lettre de cession, signée par le titulaire et le cessionnaire, chacun devant un témoin;
+- d) la lettre de cession, signée par le titulaire et le cessionnaire;
 
 - e) la date de prise d’effet de la cession.
 
@@ -267,6 +281,7 @@ En cas de cession du certificat d’obtention par son titulaire, le cessionnaire
 <summary>Historical Note</summary>
 
 - DORS/94-750, art. 11
+- DORS/2026-74, art. 5
 
 </details>
 
@@ -299,7 +314,14 @@ Lorsque le requérant fait une demande d’exemption de licence obligatoire, vis
 
 ### 29
 
-Les taxes ou droits exigibles aux fins de la Loi et du présent règlement sont ceux prévus à l’annexe II; ils sont versés au directeur en dollars canadiens.
+Les taxes ou droits exigibles dans le cadre de la Loi et du présent règlement sont ceux prévus à l’annexe II; ils sont versés au receveur général du Canada en dollars canadiens.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-74, art. 6
+
+</details>
 
 ### 30
 
@@ -314,13 +336,64 @@ Les taxes ou droits exigibles aux fins de la Loi et du présent règlement sont 
 
 </details>
 
+## Non-application du privilège accordé aux agriculteurs
+
+### 31
+
+L’exception prévue au paragraphe 5.3(2) de la Loi ne s’applique pas aux catégories de variétés végétales suivantes :
+
+- a) les plantes fruitières, ornementales et potagères;
+
+- b) les plantes qui se reproduisent par multiplication végétative;
+
+- c) les hybrides et les variétés parentales utilisées pour créer des variétés hybrides.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-74, art. 7
+
+</details>
+
+## Période de validité de la protection
+
+### 32
+
+Pour l’application du paragraphe 6(1) de la Loi, le certificat d’obtention qui est délivré après la date d’entrée en vigueur du présent règlement pour les catégories ci-après est valide – à moins qu’il n’y soit mis fin plus tôt en conformité avec la Loi – pour une période de vingt-cinq ans :
+
+- a) les pommes de terre;
+
+- b) les asperges;
+
+- c) les espèces de plantes ligneuses.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-74, art. 7
+
+</details>
+
+## Vente d’une obtention végétale
+
+### 33
+
+Pour l’application du paragraphe 4(3) de la Loi, la vente ne comprend pas la publicité ou toute exposition qui n’est pas faite à titre onéreux.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-74, art. 7
+
+</details>
+
 > Attendu que, conformément au paragraphe 75(2) de la *Loi sur la protection des obtentions végétales*[^], le projet de *Règlement concernant la protection des obtentions végétales*, conforme en substance au texte ci-après, a été publié dans la *Gazette du Canada* Partie I le 20 juillet 1991;
 
 
 
 ## ANNEXE I
 
-(article 3 et paragraphe 7(2))
+(article 3)
 
 | Article | Colonne I | Colonne II |
 | Nom courant | Nom botanique |  |
@@ -370,6 +443,7 @@ Les taxes ou droits exigibles aux fins de la Loi et du présent règlement sont 
 <summary>Historical Note</summary>
 
 - DORS/93-87, art. 3; DORS/94-750, art. 14(F) à 17(F), 18 et 19; DORS/98-582, art. 3; DORS/2012-286, art. 45
+- DORS/2026-74, art. 8
 
 </details>
 
@@ -382,7 +456,7 @@ Les taxes ou droits exigibles aux fins de la Loi et du présent règlement sont 
 | Service | Taxe ou droit |  |
 | --- | --- | --- |
 | 1 | Dépôt d’une demande de certificat d’obtention selon le paragraphe 9(1) de la Loi  ... | 250 $ |
-| 2 | Dépôt d’une demande de certificat temporaire selon le paragraphe 19(1) de la Loi  ... | 50 |
+| 2 | [Abrogé, DORS/2026-74, art. 9] |  |
 | 3 | Revendication du bénéfice de priorité, selon l’alinéa 11(1)b) de la Loi, fondée sur une demande antérieure déposée dans un État de l’Union ou un pays signataire  ... | 50 |
 | 4 | Examen de la demande de certificat d’obtention selon le paragraphe 23(1) et l’alinéa 75(1)a) de la Loi  ... | 750 |
 | 5 | Enregistrement du certificat d’obtention selon le paragraphe 27(3) de la Loi  ... | 500 |
@@ -393,13 +467,16 @@ Les taxes ou droits exigibles aux fins de la Loi et du présent règlement sont 
 | 10 | Taxe annuelle selon le paragraphe 6(2) de la Loi  ... | 300 |
 | 11 | Traitement d’une demande de licence obligatoire, selon le paragraphe 32(1) et l’alinéa 75(1)a) de la Loi  ... | 250 |
 | 12 | Délivrance d’une copie certifiée conforme du certificat d’obtention détruit ou perdu, selon le paragraphe 27(5) de la Loi  ... | 50 |
-| 13 | Consultation, au Bureau de la protection des obtentions végétales, du registre et du répertoire visés au paragraphe 67(2) de la Loi, y compris les documents que le directeur estime pouvoir mettre à la disposition du public  ... | 5 |
+| 13 | [Abrogé, DORS/2026-74, art. 10] |  |
 | 14 | Copies de documents ou d’extraits du registre ou du répertoire visés au paragraphe 67(2) de la Loi, y compris les documents que le directeur estime pouvoir mettre à la disposition du public, obtenues du Bureau de la protection des obtentions végétales  ... | 50¢ la page |
-| 15 | [Abrogé, DORS/2012-286, art. 46] |  |
+| 15 | Dépôt d’une demande de certificat d’obtention présentée au directeur, conformément au paragraphe 9(1) de la Loi, au moyen de l’outil de demande PRISMA de l’Union internationale pour la protection des obtentions végétales (UPOV) ... | 152,32 |
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/94-750, art. 20; DORS/2012-286, art. 46
+- DORS/2026-74, art. 9
+- DORS/2026-74, art. 10
+- DORS/2026-74, art. 11
 
 </details>

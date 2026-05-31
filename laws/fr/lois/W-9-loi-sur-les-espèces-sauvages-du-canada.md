@@ -34,9 +34,11 @@ type: "act"
 
 **moyen de transport** Tout véhicule, aéronef, bateau ou autre moyen servant au transport des personnes ou des biens. (**conveyance**)
 
-**réviseur-chef** Réviseur nommé à titre de réviseur-chef en vertu du paragraphe 244(1) de la *Loi canadienne sur la protection de l’environnement (1999)* ainsi que tout réviseur désigné en application du paragraphe 244(3) de cette loi pour exercer les fonctions de réviseur-chef. (**Chief Review Officer**)
+**réviseur-chef**[Abrogée, 2026, ch. 3, art. 527]
 
 **terres domaniales** Terres appartenant à Sa Majesté du chef du Canada ou dont le gouvernement fédéral peut disposer, sous réserve de tout accord qu’il a conclu avec le gouvernement de la province où elles sont situées. La présente définition s’applique aussi aux ressources naturelles des terres ainsi qu’aux étendues d’eau qui s’y trouvent ou les traversent, de même qu’aux eaux intérieures et à la mer territoriale du Canada. (**public lands**)
+
+**Tribunal de la protection de l’environnement du Canada** Le Tribunal de la protection de l’environnement du Canada, constitué par le paragraphe 243(1) de la *Loi canadienne sur la protection de l’environnement (1999)*. (**Environmental Protection Tribunal of Canada**)
 
 **Possession**
 
@@ -59,6 +61,7 @@ type: "act"
 
 - L.R. (1985), ch. W-9, art. 2; 1994, ch. 23, art. 4; 2004, ch. 25, art. 114(F); 2009, ch. 14, art. 41
 - 2024, ch. 30, art. 5
+- 2026, ch. 3, art. 527
 
 </details>
 
@@ -478,7 +481,7 @@ Pour l’application des articles 11.7 à 11.97, **ordre** s’entend de l’ord
 
 - f) sous réserve du paragraphe (4), la durée de sa validité;
 
-- g) le fait qu’une révision peut être demandée au réviseur-chef;
+- g) le fait qu’une révision peut être demandée au Tribunal de la protection de l’environnement du Canada;
 
 - h) le délai pour faire la demande de révision.
 
@@ -498,6 +501,7 @@ Pour l’application des articles 11.7 à 11.97, **ordre** s’entend de l’ord
 <summary>Historical Note</summary>
 
 - 2009, ch. 14, art. 46; 2017, ch. 26, art. 63(A)
+- 2026, ch. 3, art. 548
 
 </details>
 
@@ -604,22 +608,24 @@ Pour l’application des articles 11.7 à 11.97, **ordre** s’entend de l’ord
 
 ### 11.94 Demande de révision
 
-(1) Toute personne à qui l’ordre est adressé peut en demander la révision au réviseur-chef par avis écrit dans les trente jours suivant la date où elle en reçoit la copie ou celle où il lui est donné oralement.
+(1) Toute personne à qui l’ordre est adressé peut en demander la révision au Tribunal de la protection de l’environnement du Canada par avis écrit dans les trente jours suivant la date où elle en reçoit la copie ou celle où il lui est donné oralement.
 
 **Prorogation du délai pour faire la demande**
 
-(2) Le réviseur-chef peut proroger le délai dans lequel la demande de révision peut être faite s’il estime qu’il est dans l’intérêt public de le faire.
+(2) Le président du Tribunal de la protection de l’environnement du Canada ou le membre du Tribunal qu’il désigne peut proroger le délai dans lequel la demande de révision peut être faite s’il estime qu’il est dans l’intérêt public de le faire.
 
 <details>
 <summary>Historical Note</summary>
 
 - 2009, ch. 14, art. 46
+- 2026, ch. 3, art. 528
+- 2026, ch. 3, art. 548
 
 </details>
 
 ### 11.95 Modification de l’ordre
 
-(1) Tant que le réviseur-chef n’est pas saisi d’une demande de révision de l’ordre, l’agent de la faune peut, pourvu qu’il donne un préavis suffisant, prendre les mesures suivantes :
+(1) Tant que le Tribunal de la protection de l’environnement du Canada n’est pas saisi d’une demande de révision de l’ordre, l’agent de la faune peut, pourvu qu’il donne un préavis suffisant, prendre les mesures suivantes :
 
 - a) modifier, suspendre ou supprimer une condition de l’ordre ou y en ajouter une;
 
@@ -647,6 +653,7 @@ Pour l’application des articles 11.7 à 11.97, **ordre** s’entend de l’ord
 <summary>Historical Note</summary>
 
 - 2009, ch. 14, art. 46
+- 2026, ch. 3, art. 529
 
 </details>
 

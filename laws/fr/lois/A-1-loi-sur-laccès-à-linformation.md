@@ -3850,7 +3850,7 @@ La présente loi lie Sa Majesté du chef du Canada.
 | Loi sur la concurrenceCompetition Act | paragraphes 29(1), 29.1(5) et 29.2(5) |
 | Loi sur la détermination de la participation et du contrôle canadiensCanadian Ownership and Control Determination Act | article 17 |
 | Loi sur l’administration de l’énergieEnergy Administration Act | article 98 |
-| Loi sur l’aéronautiqueAeronautics Act | paragraphes 4.79(1), 6.5(5), 22(2) et 24.2(4) |
+| Loi sur l’aéronautiqueAeronautics Act | paragraphe 4.79(1), article 5.32 et paragraphes 6.5(5), 22(2) et 24.2(4) |
 | Loi sur la Gendarmerie royale du CanadaRoyal Canadian Mounted Police Act | paragraphe 45.47(1) |
 | Loi sur la gestion des ressources de la vallée du MackenzieMackenzie Valley Resource Management Act | alinéa 30(1)b) |
 | Loi sur la production de défenseDefence Production Act | article 30 |
@@ -3867,7 +3867,6 @@ La présente loi lie Sa Majesté du chef du Canada.
 | Loi sur la taxe d’acciseExcise Tax Act | article 295 |
 | Loi sur la taxe sur certains biens de luxeSelect Luxury Items Tax Act | article 91 |
 | Loi sur la taxe sur les logements sous-utilisésUnderused Housing Tax Act | article 32 |
-| Loi sur la taxe sur les services numériquesDigital Services Tax Act | article 108 |
 | Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transportsCanadian Transportation Accident Investigation and Safety Board Act | paragraphes 28(2) et 31(4) |
 | Loi sur le casier judiciaireCriminal Records Act | paragraphe 6(2) et article 9 |
 | Loi sur le développement des exportationsExport Development Act | article 24.3 |
@@ -3877,7 +3876,8 @@ La présente loi lie Sa Majesté du chef du Canada.
 | Loi sur le Parlement du CanadaParliament of Canada Act | paragraphe 79.21(9) |
 | Loi sur le programme d’encouragement du secteur pétrolierPetroleum Incentives Program Act | article 17 |
 | Loi sur le Programme de protection des témoinsWitness Protection Program Act | article 11 |
-| Loi sur le recyclage des produits de la criminalité et le financement des activités terroristesProceeds of Crime (Money Laundering) and Terrorist Financing Act | alinéas 55(1)a), d) et e) |
+| Loi sur le recyclage des produits de la criminalité et le financement des activités terroristesProceeds of Crime (Money Laundering) and Terrorist Financing Act | paragraphe 9.11(1) et alinéas 55(1)a), d) et e) |
+| Loi sur le réseau ferroviaire à grande vitesseHigh-Speed Rail Network Act | paragraphes 25(1) et (2) |
 | Loi sur les allocations familialesFamily Allowances Act | article 18 |
 | Loi sur les brevetsPatent Act | article 10, paragraphe 20(7) et articles 87 et 88 |
 | Loi sur les déclarations des personnes morales et des syndicatsCorporations and Labour Unions Returns Act | article 18 |
@@ -3890,6 +3890,7 @@ La présente loi lie Sa Majesté du chef du Canada.
 | Loi sur les nouvelles en ligneOnline News Act | paragraphes 55(2) et 58(4) |
 | Loi sur les pêchesFisheries Act | paragraphes 61.2(1) et (2) |
 | Loi sur les produits dangereuxHazardous Products Act | article 12 |
+| Loi sur les services bancaires axés sur les consommateursConsumer-Driven Banking Act | articles 131 et 132 |
 | Loi sur les télécommunicationsTelecommunications Act | paragraphes 39(2) et 70(4) |
 | Loi sur les transports au CanadaCanada Transportation Act | paragraphe 51(1) et article 167 |
 | Loi sur le Tribunal canadien du commerce extérieurCanadian International Trade Tribunal Act | articles 45 et 49 |
@@ -3918,6 +3919,11 @@ La présente loi lie Sa Majesté du chef du Canada.
 - 2024, ch. 17, art. 82
 - 2024, ch. 20, art. 214
 - 2024, ch. 20, art. 216
+- 2026, ch. 3, art. 129
+- 2026, ch. 3, art. 193
+- 2026, ch. 3, art. 225
+- 2026, ch. 3, art. 497
+- 2026, ch. 3, art. 586
 
 </details>
 
@@ -4161,3 +4167,19 @@ ainsi que de la mention « paragraphe 45.47(1) » en regard de ce titre de l
 L’annexe II de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
 
 ainsi que de la mention « paragraphe 25(1) » en regard de ce titre de loi.
+
+### — 2026, ch. 3, art. 387
+
+### 387
+
+L’annexe II de la *Loi sur l’accès à l’information* est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+ainsi que de la mention « article 21 » en regard de ce titre de loi.
+
+### — 2026, ch. 3, art. 601
+
+### 601
+
+L’annexe II de la *Loi sur l’accès à l’information* est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+ainsi que de la mention « articles 55 et 56 » en regard de ce titre de loi.

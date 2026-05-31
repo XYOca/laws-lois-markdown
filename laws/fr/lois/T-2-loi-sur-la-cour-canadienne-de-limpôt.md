@@ -298,7 +298,7 @@ Sont attachés respectivement aux postes de juge en chef et de juge en chef adjo
 
 ### 12 Compétence
 
-(1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application du *Régime de pensions du Canada*, de la *Loi sur l’exportation et l’importation de biens culturels*, de la partie IX de la *Loi sur la taxe d’accise*, de la *Loi sur la sécurité de la vieillesse*, de la *Loi de l’impôt sur les revenus pétroliers*, de la partie V.1 de la *Loi sur les douanes*, de la *Loi de l’impôt sur le revenu*, de la *Loi sur l’assurance-emploi*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, de la *Loi sur les restrictions applicables aux promoteurs du crédit d’impôt pour personnes handicapées*, de la partie 1 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe*, de la *Loi sur la taxe sur les services numériques* et de la *Loi sur l’impôt minimum mondial*, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+(1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application du *Régime de pensions du Canada*, de la *Loi sur l’exportation et l’importation de biens culturels*, de la partie IX de la *Loi sur la taxe d’accise*, de la *Loi sur la sécurité de la vieillesse*, de la *Loi de l’impôt sur les revenus pétroliers*, de la partie V.1 de la *Loi sur les douanes*, de la *Loi de l’impôt sur le revenu*, de la *Loi sur l’assurance-emploi*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, de la *Loi sur les restrictions applicables aux promoteurs du crédit d’impôt pour personnes handicapées*, de la partie 1 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe* et de la *Loi sur l’impôt minimum mondial*, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
 
 **Compétence — *Loi sur la prestation canadienne pour les personnes handicapées***
 
@@ -310,11 +310,11 @@ Sont attachés respectivement aux postes de juge en chef et de juge en chef adjo
 
 **Autre compétence**
 
-(3) La Cour a compétence exclusive pour entendre les questions qui sont portées devant elle en vertu des articles 310 ou 311 de la *Loi sur la taxe d’accise*, de l’article 97.58 de la *Loi sur les douanes*, des articles 173 ou 174 de la *Loi de l’impôt sur le revenu*, des articles 51 ou 52 de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, des articles 204 ou 205 de la *Loi de 2001 sur l’accise*, des articles 62 ou 63 de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, des articles 121 ou 122 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, des articles 45 ou 46 de la *Loi sur la taxe sur les logements sous-utilisés*, des articles 105 ou 106 de la *Loi sur la taxe sur certains biens de luxe*, des articles 80 ou 81 de la *Loi sur la taxe sur les services numériques* ou des articles 94 ou 95 de la *Loi sur l’impôt minimum mondial*.
+(3) La Cour a compétence exclusive pour entendre les questions qui sont portées devant elle en vertu des articles 310 ou 311 de la *Loi sur la taxe d’accise*, de l’article 97.58 de la *Loi sur les douanes*, des articles 173 ou 174 de la *Loi de l’impôt sur le revenu*, des articles 51 ou 52 de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, des articles 204 ou 205 de la *Loi de 2001 sur l’accise*, des articles 62 ou 63 de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, des articles 121 ou 122 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, des articles 45 ou 46 de la *Loi sur la taxe sur les logements sous-utilisés*, des articles 105 ou 106 de la *Loi sur la taxe sur certains biens de luxe* ou des articles 95 ou 96 de la *Loi sur l’impôt minimum mondial*.
 
 **Prorogation des délais**
 
-(4) La Cour a compétence exclusive pour entendre toute demande de prorogation de délai présentée en vertu du paragraphe 28(1) du *Régime de pensions du Canada*, de l’article 33.2 de la *Loi sur l’exportation et l’importation de biens culturels*, des articles 304 et 305 de la *Loi sur la taxe d’accise*, des articles 97.51 et 97.52 de la *Loi sur les douanes*, des articles 166.2 et 167 de la *Loi de l’impôt sur le revenu*, du paragraphe 103(1) de la *Loi sur l’assurance-emploi*, des articles 45 et 47 de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, des articles 197 et 199 de la *Loi de 2001 sur l’accise*, des articles 115 et 117 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, des articles 39 ou 41 de la *Loi sur la taxe sur les logements sous-utilisés*, des articles 99 et 101 de la *Loi sur la taxe sur certains biens de luxe*, des articles 74 ou 76 de la *Loi sur la taxe sur les services numériques* ou des articles 88 ou 90 de la *Loi sur l’impôt minimum mondial*.
+(4) La Cour a compétence exclusive pour entendre toute demande de prorogation de délai présentée en vertu du paragraphe 28(1) du *Régime de pensions du Canada*, de l’article 33.2 de la *Loi sur l’exportation et l’importation de biens culturels*, des articles 304 et 305 de la *Loi sur la taxe d’accise*, des articles 97.51 et 97.52 de la *Loi sur les douanes*, des articles 166.2 et 167 de la *Loi de l’impôt sur le revenu*, du paragraphe 103(1) de la *Loi sur l’assurance-emploi*, des articles 45 et 47 de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, des articles 197 et 199 de la *Loi de 2001 sur l’accise*, des articles 115 et 117 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, des articles 39 ou 41 de la *Loi sur la taxe sur les logements sous-utilisés*, des articles 99 et 101 de la *Loi sur la taxe sur certains biens de luxe* ou des articles 89 ou 91 de la *Loi sur l’impôt minimum mondial*.
 
 **Report de la suspension du pouvoir de délivrer des reçus d’impôt**
 
@@ -332,6 +332,7 @@ Sont attachés respectivement aux postes de juge en chef et de juge en chef adjo
 - 2024, ch. 17, art. 93
 - 2024, ch. 17, art. 111
 - 2024, ch. 17, art. 409
+- 2026, ch. 3, art. 140
 
 </details>
 
@@ -975,8 +976,8 @@ Les jugements rendus sur les appels visés à l’article 18 ne constituent pas 
   - (vii) les articles 166.2 et 167 de la *Loi de l’impôt sur le revenu*,
   - (viii) les articles 56 et 58 de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*,
   - (ix) les articles 39 et 41 de la *Loi sur la taxe sur les logements sous-utilisés*, *[2022, ch. 10, art. 173]*
-  - (x) les articles 99 et 101 de la *Loi sur la taxe sur certains biens de luxe*, *[2022, ch. 10, art. 173]*
-  - (xi) les articles 74 et 76 de la *Loi sur la taxe sur les services numériques*;
+  - (x) les articles 99 et 101 de la *Loi sur la taxe sur certains biens de luxe*; *[2022, ch. 10, art. 173]*
+  - (xi) [Abrogé, 2026, ch. 3, art. 141]
 
 - b) les demandes de report de la partie non écoulée d’une période de suspension du pouvoir de délivrer des reçus d’impôt en vertu du paragraphe 188.2(4) de la *Loi de l’impôt sur le revenu*.
 
@@ -994,6 +995,7 @@ Les jugements rendus sur les appels visés à l’article 18 ne constituent pas 
 - 2024, ch. 15, art. 110
 - 2024, ch. 17, art. 94
 - 2024, ch. 17, art. 410
+- 2026, ch. 3, art. 141
 
 </details>
 
@@ -1281,7 +1283,7 @@ Les articles 18.14 et 18.15, les paragraphes 18.16(5) et 18.17(2) et les article
 
 **Procédure générale**
 
-(2) Les articles 17.1, 17.2 et 17.4 à 17.8 s’appliquent, avec les adaptations nécessaires, aux décisions sur les questions soumises à la Cour en vertu de l’article 310 de la *Loi sur la taxe d’accise*, de l’article 97.58 de la *Loi sur les douanes*, de l’article 51 de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de l’article 204 de la *Loi de 2001 sur l’accise*, de l’article 62 de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, de l’article 121 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, de l’article 45 de la *Loi sur la taxe sur les logements sous-utilisés*, de l’article 105 de la *Loi sur la taxe sur certains biens de luxe*, de l’article 80 de la *Loi sur la taxe sur les services numériques* ou de l’article 94 de la *Loi sur l’impôt minimum mondial*.
+(2) Les articles 17.1, 17.2 et 17.4 à 17.8 s’appliquent, avec les adaptations nécessaires, aux décisions sur les questions soumises à la Cour en vertu de l’article 310 de la *Loi sur la taxe d’accise*, de l’article 97.58 de la *Loi sur les douanes*, de l’article 51 de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de l’article 204 de la *Loi de 2001 sur l’accise*, de l’article 62 de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, de l’article 121 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, de l’article 45 de la *Loi sur la taxe sur les logements sous-utilisés*, de l’article 105 de la *Loi sur la taxe sur certains biens de luxe* ou de l’article 95 de la *Loi sur l’impôt minimum mondial*.
 
 <details>
 <summary>Historical Note</summary>
@@ -1293,6 +1295,7 @@ Les articles 18.14 et 18.15, les paragraphes 18.16(5) et 18.17(2) et les article
 - 2024, ch. 15, art. 111
 - 2024, ch. 17, art. 95
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 142
 
 </details>
 
@@ -1302,7 +1305,7 @@ Les articles 18.14 et 18.15, les paragraphes 18.16(5) et 18.17(2) et les article
 
 **Dispositions applicables à la détermination d’une question**
 
-(2) Les articles 17.1, 17.2 et 17.4 à 17.8 s’appliquent, sous réserve de l’article 18.33 et avec les adaptations nécessaires, à toute demande présentée à la Cour en vertu de l’article 311 de la *Loi sur la taxe d’accise*, de l’article 52 de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de l’article 205 de la *Loi de 2001 sur l’accise*, de l’article 63 de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, de l’article 122 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, de l’article 46 de la *Loi sur la taxe sur les logements sous-utilisés*, de l’article 106 de la *Loi sur la taxe sur certains biens de luxe*, de l’article 81 de la *Loi sur la taxe sur les services numériques* ou de l’article 95 de la *Loi sur l’impôt minimum mondial* et à la détermination de la question en cause.
+(2) Les articles 17.1, 17.2 et 17.4 à 17.8 s’appliquent, sous réserve de l’article 18.33 et avec les adaptations nécessaires, à toute demande présentée à la Cour en vertu de l’article 311 de la *Loi sur la taxe d’accise*, de l’article 52 de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de l’article 205 de la *Loi de 2001 sur l’accise*, de l’article 63 de la *Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre*, de l’article 122 de la *Loi sur la tarification de la pollution causée par les gaz à effet de serre*, de l’article 46 de la *Loi sur la taxe sur les logements sous-utilisés*, de l’article 106 de la *Loi sur la taxe sur certains biens de luxe* ou de l’article 96 de la *Loi sur l’impôt minimum mondial* et à la détermination de la question en cause.
 
 <details>
 <summary>Historical Note</summary>
@@ -1314,6 +1317,7 @@ Les articles 18.14 et 18.15, les paragraphes 18.16(5) et 18.17(2) et les article
 - 2024, ch. 15, art. 112
 - 2024, ch. 17, art. 96
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 143
 
 </details>
 

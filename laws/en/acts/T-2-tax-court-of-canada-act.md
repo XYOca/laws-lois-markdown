@@ -310,7 +310,7 @@ For each of the offices of Chief Justice and Associate Chief Justice, there shal
 
 ### 12 Jurisdiction
 
-(1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the *Canada Pension Plan*, the *Cultural Property Export and Import Act*, Part IX of the *Excise Tax Act*, the *Old Age Security Act*, the *Petroleum and Gas Revenue Tax Act*, Part V.1 of the *Customs Act*, the *Income Tax Act*, the *Employment Insurance Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Softwood Lumber Products Export Charge Act, 2006*, the *Disability Tax Credit Promoters Restrictions Act*, Part 1 of the *Greenhouse Gas Pollution Pricing Act*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* and the *Global Minimum Tax Act* when references or appeals to the Court are provided for in those Acts.
+(1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the *Canada Pension Plan*, the *Cultural Property Export and Import Act*, Part IX of the *Excise Tax Act*, the *Old Age Security Act*, the *Petroleum and Gas Revenue Tax Act*, Part V.1 of the *Customs Act*, the *Income Tax Act*, the *Employment Insurance Act*, the *Air Travellers Security Charge Act*, the *Excise Act, 2001*, the *Softwood Lumber Products Export Charge Act, 2006*, the *Disability Tax Credit Promoters Restrictions Act*, Part 1 of the *Greenhouse Gas Pollution Pricing Act*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act* and the *Global Minimum Tax Act* when references or appeals to the Court are provided for in those Acts.
 
 **Jurisdiction — *Canada Disability Benefit Act***
 
@@ -322,11 +322,11 @@ For each of the offices of Chief Justice and Associate Chief Justice, there shal
 
 **Further jurisdiction**
 
-(3) The Court has exclusive original jurisdiction to hear and determine questions referred to it under section 310 or 311 of the *Excise Tax Act*, section 97.58 of the *Customs Act*, section 173 or 174 of the *Income Tax Act*, section 51 or 52 of the *Air Travellers Security Charge Act*, section 204 or 205 of the *Excise Act, 2001*, section 62 or 63 of the *Softwood Lumber Products Export Charge Act, 2006*, section 121 or 122 of the *Greenhouse Gas Pollution Pricing Act*, section 45 or 46 of the *Underused Housing Tax Act*, section 105 or 106 of the *Select Luxury Items Tax Act*, section 80 or 81 of the *Digital Services Tax Act* or section 94 or 95 of the *Global Minimum Tax Act*.
+(3) The Court has exclusive original jurisdiction to hear and determine questions referred to it under section 310 or 311 of the *Excise Tax Act*, section 97.58 of the *Customs Act*, section 173 or 174 of the *Income Tax Act*, section 51 or 52 of the *Air Travellers Security Charge Act*, section 204 or 205 of the *Excise Act, 2001*, section 62 or 63 of the *Softwood Lumber Products Export Charge Act, 2006*, section 121 or 122 of the *Greenhouse Gas Pollution Pricing Act*, section 45 or 46 of the *Underused Housing Tax Act*, section 105 or 106 of the *Select Luxury Items Tax Act* or section 95 or 96 of the *Global Minimum Tax Act*.
 
 **Extensions of time**
 
-(4) The Court has exclusive original jurisdiction to hear and determine applications for extensions of time under subsection 28(1) of the *Canada Pension Plan*, section 33.2 of the *Cultural Property Export and Import Act*, section 304 or 305 of the *Excise Tax Act*, section 97.51 or 97.52 of the *Customs Act*, section 166.2 or 167 of the *Income Tax Act*, subsection 103(1) of the *Employment Insurance Act*, section 45 or 47 of the *Air Travellers Security Charge Act*, section 197 or 199 of the *Excise Act, 2001*, section 115 or 117 of the *Greenhouse Gas Pollution Pricing Act*, section 39 or 41 of the *Underused Housing Tax Act*, section 99 or 101 of the *Select Luxury Items Tax Act*, section 74 or 76 of the *Digital Services Tax Act* or section 88 or 90 of the *Global Minimum Tax Act*.
+(4) The Court has exclusive original jurisdiction to hear and determine applications for extensions of time under subsection 28(1) of the *Canada Pension Plan*, section 33.2 of the *Cultural Property Export and Import Act*, section 304 or 305 of the *Excise Tax Act*, section 97.51 or 97.52 of the *Customs Act*, section 166.2 or 167 of the *Income Tax Act*, subsection 103(1) of the *Employment Insurance Act*, section 45 or 47 of the *Air Travellers Security Charge Act*, section 197 or 199 of the *Excise Act, 2001*, section 115 or 117 of the *Greenhouse Gas Pollution Pricing Act*, section 39 or 41 of the *Underused Housing Tax Act*, section 99 or 101 of the *Select Luxury Items Tax Act* or section 89 or 91 of the *Global Minimum Tax Act*.
 
 **Postponements of suspensions to issue tax receipts**
 
@@ -344,6 +344,7 @@ For each of the offices of Chief Justice and Associate Chief Justice, there shal
 - 2024, c. 17, s. 93
 - 2024, c. 17, s. 111
 - 2024, c. 17, s. 409
+- 2026, c. 3, s. 140
 
 </details>
 
@@ -996,9 +997,9 @@ A judgment on an appeal referred to in section 18 shall not be treated as a prec
   - (vi.1) section 115 or 117 of the *Greenhouse Gas Pollution Pricing Act*,
   - (vii) section 166.2 or 167 of the *Income Tax Act*,
   - (viii) section 56 or 58 of the *Softwood Lumber Products Export Charge Act, 2006*,
-  - (ix) section 39 or 41 of the *Underused Housing Tax Act*, *[2022, c. 10, s. 173]*
-  - (x) section 99 or 101 of the *Select Luxury Items Tax Act*, or *[2022, c. 10, s. 173]*
-  - (xi) section 74 or 76 of the *Digital Services Tax Act*; and
+  - (ix) section 39 or 41 of the *Underused Housing Tax Act*, or *[2022, c. 10, s. 173]*
+  - (x) section 99 or 101 of the *Select Luxury Items Tax Act*, and *[2022, c. 10, s. 173]*
+  - (xi) [Repealed, 2026, c. 3, s. 141]
 
 - (b) a postponement of a portion of a period of suspension of authority to issue tax receipts under subsection 188.2(4) of the *Income Tax Act*.
 
@@ -1016,6 +1017,7 @@ A judgment on an appeal referred to in section 18 shall not be treated as a prec
 - 2024, c. 15, s. 110
 - 2024, c. 17, s. 94
 - 2024, c. 17, s. 410
+- 2026, c. 3, s. 141
 
 </details>
 
@@ -1303,7 +1305,7 @@ The provisions of sections 18.14 and 18.15, subsections 18.16(5) and 18.17(2) an
 
 **Determination of a question**
 
-(2) If it is agreed under section 310 of the *Excise Tax Act*, section 97.58 of the *Customs Act*, section 51 of the *Air Travellers Security Act*, section 204 of the *Excise Act, 2001*, section 62 of the *Softwood Lumber Products Export Act, 2006*, section 121 of the *Greenhouse Gas Pollution Pricing Act*, section 45 of the *Underused Housing Tax Act*, section 105 of the *Select Luxury Items Tax Act*, section 80 of the *Digital Services Tax Act* or section 94 of the *Global Minimum Tax Act* that a question should be determined by the Court, sections 17.1, 17.2 and 17.4 to 17.8 apply, with any modifications that the circumstances require, in respect of the determination of the question.
+(2) If it is agreed under section 310 of the *Excise Tax Act*, section 97.58 of the *Customs Act*, section 51 of the *Air Travellers Security Act*, section 204 of the *Excise Act, 2001*, section 62 of the *Softwood Lumber Products Export Act, 2006*, section 121 of the *Greenhouse Gas Pollution Pricing Act*, section 45 of the *Underused Housing Tax Act*, section 105 of the *Select Luxury Items Tax Act* or section 95 of the *Global Minimum Tax Act* that a question should be determined by the Court, sections 17.1, 17.2 and 17.4 to 17.8 apply, with any modifications that the circumstances require, in respect of the determination of the question.
 
 <details>
 <summary>Historical Note</summary>
@@ -1315,6 +1317,7 @@ The provisions of sections 18.14 and 18.15, subsections 18.16(5) and 18.17(2) an
 - 2024, c. 15, s. 111
 - 2024, c. 17, s. 95
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 142
 
 </details>
 
@@ -1324,7 +1327,7 @@ The provisions of sections 18.14 and 18.15, subsections 18.16(5) and 18.17(2) an
 
 **Provisions applicable to determination of a question**
 
-(2) If an application has been made under section 311 of the *Excise Tax Act*, section 52 of the *Air Travellers Security Charge Act*, section 205 of the *Excise Act, 2001*, section 63 of the *Softwood Lumber Products Export Charge Act, 2006*, section 122 of the *Greenhouse Gas Pollution Pricing Act*, section 46 of the *Underused Housing Tax Act*, section 106 of the *Select Luxury Items Tax Act*, section 81 of the *Digital Services Tax Act* or section 95 of the *Global Minimum Tax Act* for the determination of a question, the application or determination of the question must, subject to section 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
+(2) If an application has been made under section 311 of the *Excise Tax Act*, section 52 of the *Air Travellers Security Charge Act*, section 205 of the *Excise Act, 2001*, section 63 of the *Softwood Lumber Products Export Charge Act, 2006*, section 122 of the *Greenhouse Gas Pollution Pricing Act*, section 46 of the *Underused Housing Tax Act*, section 106 of the *Select Luxury Items Tax Act* or section 96 of the *Global Minimum Tax Act* for the determination of a question, the application or determination of the question must, subject to section 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
 
 <details>
 <summary>Historical Note</summary>
@@ -1336,6 +1339,7 @@ The provisions of sections 18.14 and 18.15, subsections 18.16(5) and 18.17(2) an
 - 2024, c. 15, s. 112
 - 2024, c. 17, s. 96
 - 2024, c. 17, s. 111
+- 2026, c. 3, s. 143
 
 </details>
 

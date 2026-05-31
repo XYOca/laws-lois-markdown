@@ -1,6 +1,6 @@
 # Federal Acts
 
-_956 documents_
+_963 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -84,6 +84,7 @@ _956 documents_
 | B-9.8594 | [Budget Implementation Act, 2021, No. 1](B-9.8594-budget-implementation-act-2021-no-1.md) | An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures |
 | B-9.8595 | [Budget Implementation Act, 2022, No. 1](B-9.8595-budget-implementation-act-2022-no-1.md) | An Act to implement certain provisions of the budget tabled in Parliament on April 7, 2022 and other measures |
 | B-9.8596 | [Budget Implementation Act, 2024, No. 1](B-9.8596-budget-implementation-act-2024-no-1.md) | An Act to implement certain provisions of the budget tabled in Parliament on April 16, 2024 |
+| B-9.8598 | [Budget 2025 Implementation Act, No. 1](B-9.8598-budget-2025-implementation-act-no-1.md) | An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 |
 | B-9.86 | [Buffalo and Fort Erie Public Bridge Company Act](B-9.86-buffalo-and-fort-erie-public-bridge-company-act.md) | An Act respecting the Buffalo and Fort Erie Public Bridge Company |
 | B-9.88 | [Building a Green Prairie Economy Act](B-9.88-building-a-green-prairie-economy-act.md) | An Act respecting the building of a green economy in the Prairies |
 | B-9.89 | [Building Canada Act](B-9.89-building-canada-act.md) | An Act respecting national interest projects |
@@ -192,6 +193,7 @@ _956 documents_
 | C-29.7 | [Civil Air Navigation Services Commercialization Act](C-29.7-civil-air-navigation-services-commercialization-act.md) | An Act respecting the commercialization of civil air navigation services |
 | C-3 | [Canada Deposit Insurance Corporation Act](C-3-canada-deposit-insurance-corporation-act.md) | An Act to establish the Canada Deposit Insurance Corporation |
 | C-3.4 | [Canada Development Corporation Reorganization Act](C-3.4-canada-development-corporation-reorganization-act.md) | An Act respecting the reorganization of the Canada Development Corporation |
+| C-3.43 | [Canada Development Investment Corporation Act](C-3.43-canada-development-investment-corporation-act.md) | An Act to continue the Canada Development Investment Corporation |
 | C-3.45 | [Canada Disability Benefit Act](C-3.45-canada-disability-benefit-act.md) | An Act to reduce poverty and to support the financial security of persons with disabilities by establishing the Canada disability benefit and making a consequential amendment to the Income Tax Act |
 | C-3.5 | [Canada Disability Savings Act](C-3.5-canada-disability-savings-act.md) | An Act to encourage savings for persons with disabilities |
 | C-3.55 | [Canada Early Learning and Child Care Act](C-3.55-canada-early-learning-and-child-care-act.md) | An Act respecting early learning and child care in Canada |
@@ -224,6 +226,7 @@ _956 documents_
 | C-36.7 | [Constitutional Amendments](C-36.7-constitutional-amendments.md) | An Act respecting constitutional amendments |
 | C-36.71 | [Preserving Provincial Representation in the House of Commons Act](C-36.71-preserving-provincial-representation-in-the-house-of-commons-act.md) | An Act to amend the Constitution Act, 1867 (electoral representation) |
 | C-36.75 | [Consumer-Driven Banking Act](C-36.75-consumer-driven-banking-act.md) | An Act to establish a consumer-driven banking framework |
+| C-36.78 | [Consumer-Driven Banking Act](C-36.78-consumer-driven-banking-act.md) | An Act to establish a consumer-driven banking framework |
 | C-38 | [Consumer Packaging and Labelling Act](C-38-consumer-packaging-and-labelling-act.md) | An Act respecting the packaging, labelling, sale, importation and advertising of prepackaged and certain other products |
 | C-38.5 | [An Act to incorporate Continental Bank of Canada](C-38.5-an-act-to-incorporate-continental-bank-of-canada.md) |  |
 | C-38.7 | [Contraventions Act](C-38.7-contraventions-act.md) | An Act respecting contraventions of federal enactments |
@@ -461,6 +464,7 @@ _956 documents_
 | H-3.5 | [Heritage Railway Stations Protection Act](H-3.5-heritage-railway-stations-protection-act.md) | An Act to protect heritage railway stations |
 | H-3.7 | [Hibernia Development Project Act](H-3.7-hibernia-development-project-act.md) | An Act respecting the Hibernia Development Project and to amend certain Acts in relation thereto |
 | H-3.76 | [High Risk Child Sex Offender Database Act](H-3.76-high-risk-child-sex-offender-database-act.md) | An Act respecting the establishment of a publicly accessible database containing information with respect to persons who are found guilty of sexual offences against children and who pose a high risk of committing crimes of a sexual nature |
+| H-3.77 | [High-Speed Rail Network Act](H-3.77-high-speed-rail-network-act.md) | An Act respecting the high-speed rail network |
 | H-3.8 | [Highway 30 Completion Bridges Act](H-3.8-highway-30-completion-bridges-act.md) | An Act to authorize the construction and maintenance of a bridge over the St. Lawrence River and a bridge over the Beauharnois Canal for the purpose of completing Highway 30 |
 | H-4 | [Historic Sites and Monuments Act](H-4-historic-sites-and-monuments-act.md) | An Act to establish the Historic Sites and Monuments Board of Canada |
 | H-5 | [Holidays Act](H-5-holidays-act.md) | An Act respecting Holidays |
@@ -603,6 +607,7 @@ _956 documents_
 | N-15.8 | [An Act to permit the resumption and continuation of the operation of the National Research Universal Reactor at Chalk River](N-15.8-an-act-to-permit-the-resumption-and-continuation-of-the-operation-of-the-nationa.md) |  |
 | N-16.2 | [National Ribbon Skirt Day Act](N-16.2-national-ribbon-skirt-day-act.md) | An Act respecting a National Ribbon Skirt Day |
 | N-16.4 | [National Round Table on the Environment and the Economy Act](N-16.4-national-round-table-on-the-environment-and-the-economy-act.md) | An Act to establish the National Round Table on the Environment and the Economy |
+| N-16.45 | [National School Food Program Act](N-16.45-national-school-food-program-act.md) | An Act respecting the National School Food Program |
 | N-16.5 | [National Seal Products Day Act](N-16.5-national-seal-products-day-act.md) | An Act respecting National Seal Products Day |
 | N-16.56 | [National Security Act, 2017](N-16.56-national-security-act-2017.md) | An Act respecting national security matters |
 | N-16.6 | [National Security and Intelligence Committee of Parliamentarians Act](N-16.6-national-security-and-intelligence-committee-of-parliamentarians-act.md) | An Act to establish the National Security and Intelligence Committee of Parliamentarians and to make consequential amendments to certain Acts |
@@ -828,6 +833,7 @@ _956 documents_
 | S-15.6 | [Spirit Drinks Trade Act](S-15.6-spirit-drinks-trade-act.md) | An Act respecting the implementation of international trade commitments by Canada regarding spirit drinks of foreign countries |
 | S-15.7 | [Split Lake Cree First Nation Flooded Land Act](S-15.7-split-lake-cree-first-nation-flooded-land-act.md) | An Act respecting the Split Lake Cree First Nation and the settlement of matters arising from an agreement relating to the flooding of land |
 | S-15.8 | [Sports Pool and Loto Canada Winding-Up Act](S-15.8-sports-pool-and-loto-canada-winding-up-act.md) | An Act respecting the winding-up of the Canadian Sports Pool Corporation and Loto Canada Inc. |
+| S-15.9 | [Stablecoin Act](S-15.9-stablecoin-act.md) | An Act respecting stablecoins |
 | S-16 | [Standards Council of Canada Act](S-16-standards-council-of-canada-act.md) | An Act to establish the Standards Council of Canada |
 | S-18 | [State Immunity Act](S-18-state-immunity-act.md) | An Act to provide for state immunity in Canadian courts |
 | S-19 | [Statistics Act](S-19-statistics-act.md) | An Act respecting statistics of Canada |
@@ -838,6 +844,7 @@ _956 documents_
 | S-21 | [Publication of Statutes Act](S-21-publication-of-statutes-act.md) | An Act respecting the publication of Statutes |
 | S-21.5 | [Statutes Repeal Act](S-21.5-statutes-repeal-act.md) | An Act to repeal legislation that has not come into force within ten years of receiving royal assent |
 | S-22 | [Statutory Instruments Act](S-22-statutory-instruments-act.md) | An Act to provide for the examination, publication and scrutiny of regulations and other statutory instruments |
+| S-22.5 | [Strengthening Canada’s Immigration System and Borders Act](S-22.5-strengthening-canadas-immigration-system-and-borders-act.md) | An Act respecting certain measures relating to the security of Canada’s borders and the integrity of the Canadian immigration system and respecting other related security measures |
 | S-22.7 | [Canada Student Financial Assistance Act](S-22.7-canada-student-financial-assistance-act.md) | An Act respecting the making of loans and the provision of other forms of financial assistance to students, to amend and provide for the repeal of the Canada Student Loans Act, and to amend one other Act in consequence thereof |
 | S-23 | [Canada Student Loans Act](S-23-canada-student-loans-act.md) | An Act to facilitate the making of loans to students |
 | S-23.5 | [Succession to the Throne Act, 2013](S-23.5-succession-to-the-throne-act-2013.md) | An Act to assent to alterations in the law touching the Succession to the Throne |

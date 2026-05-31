@@ -380,16 +380,35 @@ L’ingrédient qui ne possède pas d’appellation INCI est inscrit dans la lis
 
 ### 21.4
 
-(1) Sous réserve des paragraphes (2) et (3), les ingrédients sont inscrits dans la liste des ingrédients dans l’ordre décroissant de leur concentration, en poids.
+(0.1) Les définitions qui suivent s’appliquent au présent article.
+
+**allergène de parfum** Parfum ou saveur qui peut provoquer une réaction allergique, qui figure sur la Liste européenne de substances à usage restreint et pour lequel les restrictions prévues à la colonne h de cette liste prévoient que sa présence doit être indiquée dans la liste des ingrédients d’un cosmétique. (**fragrance allergen**)
+
+**Liste européenne de substances à usage restreint** L’annexe III, intitulée *Liste des substances que les produits cosmétiques ne peuvent contenir en dehors des restrictions prévues*, du *Règlement (CE) n^o^ 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatif aux produits cosmétiques* publié par l’Union européenne sur son site Web, avec ses modifications successives. (**European Restricted Substances List**)
+
+(1) Sous réserve des paragraphes (2) à (4), les ingrédients sont inscrits dans la liste des ingrédients dans l’ordre décroissant de leur concentration, en poids.
 
 (2) Les ingrédients dont la concentration est de un pour cent ou moins ainsi que les colorants, quelle que soit leur concentration, peuvent être inscrits, sans ordre précis, après les ingrédients dont la concentration dépasse un pour cent.
 
-(3) Dans le cas d’un parfum ou d’une saveur, les termes « parfum » ou « aroma » peuvent respectivement être inscrits à la fin de la liste des ingrédients afin d’indiquer l’ajout d’ingrédients qui produisent ou masquent une odeur ou une saveur.
+(3) Dans le cas d’un parfum ou d’une saveur, à l’exception des allergènes de parfum, les termes « parfum » ou « aroma » peuvent respectivement être inscrits à la fin de la liste des ingrédients afin d’indiquer l’ajout d’ingrédients qui produisent ou masquent une odeur ou une saveur.
+
+(4) Sont inscrits dans la liste des ingrédients :
+
+- a) l’allergène de parfum dont la concentration dans un produit à rincer est supérieure à 0,01 %;
+
+- b) celui dont la concentration dans un produit sans rinçage est supérieure à 0,001 %.
+
+(5) Malgré le paragraphe (4), l’allergène de parfum n’a pas à être inscrit dans la liste des ingrédients d’un cosmétique avant celle des dates ci-après qui est postérieure à l’autre :
+
+- a) la date d’entrée en vigueur d’une disposition d’un règlement, publié par l’Union européenne sur son site Web, qui modifie le *Règlement (CE) n^o^ 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatif aux produits cosmétiques* en ajoutant l’allergène de parfum à la Liste européenne de substances à usage restreint;
+
+- b) le cas échéant, la date qui figure à l’entrée de l’allergène de parfum dans la Liste européenne de substances à usage restreint, ou à laquelle cette entrée fait référence, et à compter de laquelle l’allergène de parfum doit être indiqué dans la liste des ingrédients d’un cosmétique pour que ce dernier puisse être mis à disposition sur le marché de l’Union européenne.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2004-244, art. 11
+- DORS/2024-63, art. 6
 
 </details>
 
@@ -769,14 +788,3 @@ Les étiquettes intérieure et extérieure d’un cosmétique sous forme liquide
 - DORS/2024-63, art. 11
 
 </details>
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-### — DORS/2024-63, art. 6
-
-### 6
-
-(1) Le paragraphe 21.4(1) du même règlement est remplacé par ce qui suit :
-
-(2) Le paragraphe 21.4(3) du même règlement est remplacé par ce qui suit :

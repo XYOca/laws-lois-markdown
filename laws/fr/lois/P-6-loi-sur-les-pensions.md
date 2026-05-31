@@ -1688,6 +1688,8 @@ Les définitions qui suivent s’appliquent à la présente partie.
 
 **pension de base** La pension de base mensuelle payable en conformité avec l’annexe I à un pensionné de la catégorie 1 qui est sans époux ou conjoint de fait ni enfant. (**basic pension**)
 
+**période visée** Période commençant le 1^er^ avril 1985 et se terminant le 31 décembre 2026. (**covered period**)
+
 **première année de rajustement** La période de douze mois prenant fin le 31 octobre précédant une année civile donnée. (**first adjustment year**)
 
 **seconde année de rajustement** La période de douze mois précédant la première année de rajustement. (**second adjustment year**)
@@ -1696,12 +1698,50 @@ Les définitions qui suivent s’appliquent à la présente partie.
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. P-6, art. 74; L.R. (1985), ch. 16 (1^er^ suppl.), art. 10; 2000, ch. 12, art. 230, ch. 34, art. 34
+- 2026, ch. 3, art. 363
+
+</details>
+
+### 74.1 Pension de base durant la période visée
+
+À l’égard de la période visée, la pension de base payable à compter d’une date figurant à la colonne 1 de l’annexe IV est réputée avoir été celle prévue à la colonne 2 en regard de cette date.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 364
+
+</details>
+
+### 74.2 Montants connexes durant la période visée
+
+À l’égard de la période visée, les montants ci-après sont réputés avoir été calculés en fonction de l’ajustement de la pension de base visée à l’article 74.1 :
+
+- a) tout montant qui, sous le régime de la présente loi, dans sa version antérieure à l’entrée en vigueur du présent article, ou de toute autre loi fédérale, devait être ajusté au même moment que la pension de base et en fonction du même pourcentage que celui qui est appliqué à la pension de base;
+
+- b) tout montant qui, sous le régime de la présente loi, dans sa version antérieure à l’entrée en vigueur du présent article, ou de toute autre loi fédérale, devait être déterminé en fonction de la pension de base ou d’un montant visé à l’alinéa a).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 364
+
+</details>
+
+### 74.3 Conflit ou incompatibilité
+
+En cas de conflit ou d’incompatibilité, les articles 74.1 et 74.2 l’emportent sur toute disposition de la présente loi ou de toute autre loi fédérale ou d’un règlement pris en vertu de la présente loi ou de toute autre loi fédérale.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 364
 
 </details>
 
 ### 75 Ajustement annuel de la pension de base
 
-(1) La pension de base doit être ajustée chaque année, de la manière prescrite par règlement du gouverneur en conseil, de sorte que la pension de base payable à l’égard d’un mois de l’année civile ultérieure soit égale au plus élevé des montants suivants :
+(1) À compter du 1^er^ janvier 2027, la pension de base doit être ajustée chaque année, de la manière prescrite par règlement du gouverneur en conseil, de sorte que la pension de base payable à l’égard d’un mois de l’année civile ultérieure soit égale au plus élevé des montants suivants :
 
 - a) le produit des facteurs ci-après :
   - (i) le montant de la pension de base qui aurait été payable pour ce mois de l’année ultérieure en question si aucun ajustement n’avait été fait en vertu de la présente partie à l’égard de cette année ultérieure,
@@ -1717,10 +1757,15 @@ Les définitions qui suivent s’appliquent à la présente partie.
 
 (3) Les montants prévus aux annexes I à III sont ajustés, de la manière prescrite par règlement du gouverneur en conseil, au même moment et en fonction du même pourcentage que celui qui est appliqué à la pension de base.
 
+**Définition de **province****
+
+(4) À l’alinéa (1)b), **province** ne vise ni le Yukon, ni les Territoires du Nord-Ouest, ni le Nunavut et est réputé ne jamais les avoir visés.
+
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. P-6, art. 75; L.R. (1985), ch. 16 (1^er^ suppl.), art. 11, ch. 37 (3^e^ suppl.), art. 13; 1990, ch. 43, art. 24; 2000, ch. 34, art. 35; 2003, ch. 22, art. 224(A)
+- 2026, ch. 3, art. 365
 
 </details>
 
@@ -2042,17 +2087,53 @@ Le gouverneur en conseil peut prendre des règlements pour l’application de la
 
 </details>
 
-### 91.1
+### 91.1 Règlements : alinéa 75(1)b)
 
-[Abrogé, 2005, ch. 21, art. 108]
+Le gouverneur en conseil peut prendre des règlements pour l’application de l’alinéa 75(1)b), notamment des règlements concernant l’établissement :
 
-### 91.2
+- a) du traitement annuel moyen négocié brut de certaines catégories d’employés non spécialisés de l’administration publique fédérale désignées par le ministre;
 
-[Abrogé, 2005, ch. 21, art. 108]
+- b) de l’impôt sur le revenu d’une personne célibataire calculé dans la province où le taux cumulatif de l’impôt sur le revenu tant fédéral que provincial est le plus bas.
 
-### 91.3
+<details>
+<summary>Historical Note</summary>
 
-[Abrogé, 2005, ch. 21, art. 108]
+- 2000, ch. 34, art. 40;
+- 2003, ch. 12, art. 3;
+- 2005, ch. 21, art. 108;
+- 2026, ch. 3, art. 366
+
+</details>
+
+### 91.2 Modification de l’annexe IV
+
+Le gouverneur en conseil peut, par règlement, modifier l’annexe IV :
+
+- a) d’une part, pour y ajouter « 1^er^ janvier 2026 » à la colonne 1 et la pension de base à la colonne 2 en regard de cette date;
+
+- b) d’autre part, pour y modifier toute pension de base figurant à la colonne 2.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 12, art. 3;
+- 2005, ch. 21, art. 108;
+- 2026, ch. 3, art. 366
+
+</details>
+
+### 91.3 Rétroactivité
+
+Les règlements pris en vertu de l’article 91 pour l’application de l’article 75 et ceux pris en vertu des articles 91.1 ou 91.2 peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2003, ch. 12, art. 3;
+- 2005, ch. 21, art. 108;
+- 2026, ch. 3, art. 366
+
+</details>
 
 ### 91.4
 
@@ -2220,7 +2301,7 @@ Sont soustraits à toute forme de poursuite les actes accomplis et les énonciat
 
 ## ANNEXE I  Échelle des pensions d’invalidité
 
-(article 21)
+(paragraphe 3(1), alinéas 21(1)a) et (2)a), paragraphes 21(5) et 34(6) et (7), alinéa 34(12)a), article 41, paragraphes 42(3) et (5), 45(2), (2.1), (3), (3.01) et (3.1), 48(5), 49(1), 50(1) et 55(2), articles 70 et 71, paragraphes 71.1(1) et 71.2(2), sous-alinéa 72(1)a)(i), article 74, paragraphe 75(3) et article 78)
 
 | Catégorie | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | Échelle d’invalidité (%) | 98-100 | 93-97 | 88-92 | 83-87 | 78-82 | 73-77 | 68-72 | 63-67 | 58-62 | 53-57 | 48-52 | 43-47 | 38-42 | 33-37 | 28-32 | 23-27 | 18-22 | 13-17 | 8-12 | 5-7 |
@@ -2236,13 +2317,14 @@ Sont soustraits à toute forme de poursuite les actes accomplis et les énonciat
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. P-6, ann. I; L.R. (1985), ch. 37 (3^e^ suppl.), art. 17; 2000, ch. 12, art. 236
+- 2026, ch. 3, art. 367
 
 </details>
 
 
 ## ANNEXE II  Pensions pour décès
 
-(articles 21, 34, 45, 46, 52, 53, 55, 70, 71, 75 et 78)
+(alinéas 21(1)b) et i) et (2)b) et d), paragraphes 34(6) et (11), sous-alinéa 34(12)a)(i), paragraphes 45(2), (2.1) et (3.3), article 46, paragraphes 47(3) et 52(1), alinéa 52(2)a), paragraphes 52(4), 53(2), (5) et (6) et 55(2), articles 70 et 71, paragraphe 75(3) et article 78)
 
 |  | Taux mensuel en dollars |
 | --- | --- |
@@ -2264,13 +2346,14 @@ Sont soustraits à toute forme de poursuite les actes accomplis et les énonciat
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. P-6, ann. II; L.R. (1985), ch. 37 (3^e^ suppl.), art. 17; 1990, ch. 43, art. 31; 2000, ch. 12, art. 232 et 233
+- 2026, ch. 3, art. 368
 
 </details>
 
 
 ## ANNEXE III  Allocations
 
-(articles 38, 72 et 75)
+(paragraphes 38(1), (4), (5), (7) et (8), 55(2), 72(1) et 75(3))
 
 |  | Taux annuel en dollars |
 | --- | --- |
@@ -2286,6 +2369,64 @@ Sont soustraits à toute forme de poursuite les actes accomplis et les énonciat
 <summary>Historical Note</summary>
 
 - 1990, ch. 43, art. 31; 2000, ch. 12, art. 234 et 235
+- 2026, ch. 3, art. 369
+
+</details>
+
+
+## ANNEXE IV
+
+(articles 74.1 et 91.2)
+
+| Colonne 1 | Colonne 2 |
+| Date | Pension de base ($) |
+| --- | --- |
+| 1^er^ avril 1985 | 1 146,83 |
+| 1^er^ janvier 1986 | 1 191,56 |
+| 1^er^ janvier 1987 | 1 240,40 |
+| 1^er^ janvier 1988 | 1 293,75 |
+| 1^er^ janvier 1989 | 1 346,79 |
+| 1^er^ janvier 1990 | 1 410,09 |
+| 1^er^ janvier 1991 | 1 477,77 |
+| 1^er^ janvier 1992 | 1 563,48 |
+| 1^er^ janvier 1993 | 1 591,62 |
+| 1^er^ janvier 1994 | 1 621,86 |
+| 1^er^ janvier 1995 | 1 629,97 |
+| 1^er^ janvier 1996 | 1 659,31 |
+| 1^er^ janvier 1997 | 1 684,20 |
+| 1^er^ janvier 1998 | 1 716,20 |
+| 1^er^ janvier 1999 | 1 731,65 |
+| 1^er^ janvier 2000 | 1 776,75 |
+| 1^er^ janvier 2001 | 1 821,17 |
+| 1^er^ janvier 2002 | 1 875,81 |
+| 1^er^ janvier 2003 | 1 936,65 |
+| 1^er^ janvier 2004 | 1 998,62 |
+| 1^er^ janvier 2005 | 2 032,60 |
+| 1^er^ janvier 2006 | 2 209,38 |
+| 1^er^ janvier 2007 | 2 258,92 |
+| 1^er^ janvier 2008 | 2 304,10 |
+| 1^er^ janvier 2009 | 2 361,70 |
+| 1^er^ janvier 2010 | 2 436,32 |
+| 1^er^ janvier 2011 | 2 478,08 |
+| 1^er^ janvier 2012 | 2 547,47 |
+| 1^er^ janvier 2013 | 2 593,32 |
+| 1^er^ janvier 2014 | 2 616,66 |
+| 1^er^ janvier 2015 | 2 663,76 |
+| 1^er^ janvier 2016 | 2 695,73 |
+| 1^er^ janvier 2017 | 2 733,47 |
+| 1^er^ janvier 2018 | 2 792,53 |
+| 1^er^ janvier 2019 | 2 856,76 |
+| 1^er^ janvier 2020 | 2 911,04 |
+| 1^er^ janvier 2021 | 2 940,15 |
+| 1^er^ janvier 2022 | 3 019,53 |
+| 1^er^ janvier 2023 | 3 215,80 |
+| 1^er^ janvier 2024 | 3 357,30 |
+| 1^er^ janvier 2025 | 3 444,59 |
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 370
 
 </details>
 

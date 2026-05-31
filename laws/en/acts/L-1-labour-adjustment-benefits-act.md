@@ -46,6 +46,8 @@ This Act may be cited as the *Labour Adjustment Benefits Act*.
 
 **employee** means any individual who has been employed at a Canadian establishment; (**employé**)
 
+**Employment Insurance Board of Appeal** means the Employment Insurance Board of Appeal established under section 43.01 of the *Department of Employment and Social Development Act*; (**Conseil d’appel en assurance-emploi**)
+
 **industrial restructuring** includes technological change; (**restructuration industrielle**)
 
 **labour adjustment benefits** means the benefits payable under this Act; (**prestations d’adaptation**)
@@ -56,7 +58,7 @@ This Act may be cited as the *Labour Adjustment Benefits Act*.
 
 **qualified employee** means an employee who has been determined by the Commission pursuant to this Act to be qualified to receive labour adjustment benefits; (**employé admissible**)
 
-**Social Security Tribunal** means the Social Security Tribunal established under section 44 of the *Department of Employment and Social Development Act*; (**Tribunal de la sécurité sociale**)
+**Social Security Tribunal**[Repealed, 2023, c. 26, s. 657]
 
 **week** means a period of seven consecutive days commencing on Sunday; (**semaine**)
 
@@ -70,6 +72,7 @@ This Act may be cited as the *Labour Adjustment Benefits Act*.
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. L-1, s. 2; 1996, c. 11, ss. 95, 99, c. 23, s. 177; 2005, c. 34, s. 80; 2012, c. 19, s. 273; 2013, c. 40, ss. 236, 238
+- 2023, c. 26, s. 657
 
 </details>
 
@@ -327,13 +330,13 @@ The Board may certify that an employee named in an application under section 11 
 
 (5) Subject to subsection (6), on completion of its investigation under subsection (4), the Commission shall determine whether or not the applicant is qualified to receive labour adjustment benefits and shall notify him in writing of its decision.
 
-**Reference to Social Security Tribunal**
+**Reference to Employment Insurance Board of Appeal**
 
-(6) The Commission may at any time within 14 days after receiving an application under subsection (1) refer the application or a question arising from it to the General Division of the Social Security Tribunal for a decision on it.
+(6) The Commission may at any time within 14 days after receiving an application under subsection (1) refer the application or a question arising from it to the Employment Insurance Board of Appeal for a decision on it.
 
-**Proceedings before Social Security Tribunal**
+**Proceedings before Employment Insurance Board of Appeal**
 
-(7) If an application or question is referred to the General Division of the Social Security Tribunal under subsection (6), the Tribunal must conduct its proceedings in respect of that application or question in accordance with the procedure for appeals under the *Department of Employment and Social Development Act*.
+(7) If an application or question is referred to the Employment Insurance Board of Appeal under subsection (6), the Employment Insurance Board of Appeal must conduct its proceedings in respect of that application or question in accordance with the procedure for appeals under the *Department of Employment and Social Development Act*.
 
 **Failure to comply with requirements**
 
@@ -347,6 +350,7 @@ The Board may certify that an employee named in an application under section 11 
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. L-1, s. 13; 1996, c. 23, s. 187; 2012, c. 19, s. 274; 2013, c. 40, s. 236
+- 2023, c. 26, s. 658
 
 </details>
 
@@ -781,7 +785,7 @@ The Commission may consult with the Board either generally or with respect to an
 
 **Appeal of Commission decision**
 
-(2) Any person may, at any time within 30 days after the day a decision of the Commission under this Act, other than subsection 14(2) or (3), is communicated to him or her, or within any further time that the Commission may in any particular case for special reason allow, appeal to the Social Security Tribunal.
+(2) Any person may, at any time within 30 days after the day a decision of the Commission under this Act, other than subsection 14(2) or (3), is communicated to them, or within any further time that the Commission may in any particular case for special reason allow, appeal to the Employment Insurance Board of Appeal.
 
 (3) [Repealed, 2012, c. 19, s. 275]
 
@@ -793,6 +797,7 @@ The Commission may consult with the Board either generally or with respect to an
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. L-1, s. 31; 1996, c. 23, s. 187; 2002, c. 8, s. 182; 2012, c. 19, s. 275
+- 2023, c. 26, s. 659
 
 </details>
 
@@ -902,34 +907,18 @@ The following definitions apply in this section and sections 665 to 678.
 
 **Tribunal** means the Social Security Tribunal established under section 44 of the *Department of Employment and Social Development Act*. (**Tribunal**)
 
-
-## AMENDMENTS NOT IN FORCE
-
-### — 2023, c. 26, s. 657
-
-### 657
-
-(1) The definition **Social Security Tribunal** in subsection 2(1) of the *Labour Adjustment Benefits Act* is repealed.
-
-(2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
-
-### — 2023, c. 26, s. 658
-
-### 658
-
-Subsections 13(6) and (7) of the Act are replaced by the following:
-
-### — 2023, c. 26, s. 659
-
-### 659
-
-Subsection 31(2) of the Act is replaced by the following:
-
-### — 2023, c. 26, s. 678
+### — 2023, c. 26, s. 678(1)
 
 ### 678 *Labour Adjustment Benefits Act*
 
 (1) Subsection 13(7) of the *Labour Adjustment Benefits Act*, as it read immediately before the day on which section 634 comes into force, continues to apply — until the day on which section 635 comes into force — in respect of an application or a question that was referred to the General Division under subsection 13(6) of that Act before the day on which section 634 comes into force.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2023, c. 26, s. 678(2)
+
+### 678
 
 **Ongoing application or question**
 

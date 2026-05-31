@@ -32,7 +32,9 @@ In this Act,
 
 **boundary waters** has the same meaning as in the Preliminary Article of the treaty relating to the boundary waters and to questions arising along the boundary between Canada and the United States signed at Washington on January 11, 1909 and set out in Schedule 1 to the *International Boundary Waters Treaty Act*. (**eaux limitrophes**)
 
-**Chief Review Officer** means the review officer appointed as Chief Review Officer under subsection 244(1) of the *Canadian Environmental Protection Act, 1999* and includes any review officer designated under subsection 244(3) of that Act to perform the functions of the Chief Review Officer; (**réviseur-chef**)
+**Chief Review Officer**[Repealed, 2026, c. 3, s. 523]
+
+**Environmental Protection Tribunal of Canada** means the Environmental Protection Tribunal of Canada established by subsection 243(1) of the *Canadian Environmental Protection Act, 1999*. (**Tribunal de la protection de l’environnement du Canada**)
 
 **international river** means water flowing from any place in Canada to any place outside Canada; (**cours d’eau international**)
 
@@ -48,6 +50,7 @@ In this Act,
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. I-20, s. 2; 2009, c. 14, s. 89; 2013, c. 12, s. 13
+- 2026, c. 3, s. 523
 
 </details>
 
@@ -456,7 +459,7 @@ For the purpose of sections 21 to 30, **order** means a compliance order issued 
 
 - (f) subject to subsection (4), the duration of the order;
 
-- (g) a statement that a request for a review may be made to the Chief Review Officer; and
+- (g) a statement that a request for a review may be made to the Environmental Protection Tribunal of Canada; and
 
 - (h) the period within which a request for a review may be made.
 
@@ -476,6 +479,7 @@ For the purpose of sections 21 to 30, **order** means a compliance order issued 
 <summary>Historical Note</summary>
 
 - 2009, c. 14, s. 93; 2017, c. 26, s. 63(E)
+- 2026, c. 3, s. 548
 
 </details>
 
@@ -586,22 +590,24 @@ For the purpose of sections 21 to 30, **order** means a compliance order issued 
 
 ### 27 Request for review
 
-(1) Any person to whom an order is directed may, by notice in writing given to the Chief Review Officer within 30 days after the day on which the person receives a copy of the written order or after the oral order is given, make a request to the Chief Review Officer for a review of the order.
+(1) Any person to whom an order is directed may, by notice in writing given to the Environmental Protection Tribunal of Canada within 30 days after the day on which the person receives a copy of the written order or after the oral order is given, make a request to the Environmental Protection Tribunal of Canada for a review of the order.
 
 **Extension of period for request**
 
-(2) The Chief Review Officer may extend the period within which a request for a review may be made if, in his or her opinion, it is in the public interest to do so.
+(2) The Chairperson of the Environmental Protection Tribunal of Canada, or any member of the Tribunal that they may designate, may extend the period within which a request for a review may be made if, in their opinion, it is in the public interest to do so.
 
 <details>
 <summary>Historical Note</summary>
 
 - 2009, c. 14, s. 93
+- 2026, c. 3, s. 524
+- 2026, c. 3, s. 548
 
 </details>
 
 ### 28 Variation or cancellation of order
 
-(1) At any time before a notice requesting a review of an order is received by the Chief Review Officer, the enforcement officer may, after giving reasonable notice,
+(1) At any time before the Environmental Protection Tribunal of Canada receives a notice requesting a review of an order, the enforcement officer may, after giving reasonable notice,
 
 - (a) amend or suspend a term or condition of the order, or add a term or condition to, or delete a term or condition from, the order;
 
@@ -633,6 +639,7 @@ For the purpose of sections 21 to 30, **order** means a compliance order issued 
 <summary>Historical Note</summary>
 
 - 2009, c. 14, s. 93
+- 2026, c. 3, s. 525
 
 </details>
 

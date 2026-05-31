@@ -69,13 +69,15 @@ This Act is binding on Her Majesty in right of Canada or a province.
 
 **Canadian aircraft** means an aircraft registered in Canada; (**aéronef canadien**)
 
-**Canadian aviation document** means, subject to subsection (3), any licence, permit, accreditation, certificate or other document issued by the Minister under Part I to or with respect to any person or in respect of any aeronautical product, aerodrome, facility or service; (**document d’aviation canadien**)
+**Canadian aviation document** means, subject to subsections (3) and (4), any licence, permit, accreditation, certificate or other document issued by the Minister under Part I to or with respect to any person or in respect of any aeronautical product, aerodrome, facility or service; (**document d’aviation canadien**)
 
 **civil air navigation services** has the same meaning as in subsection 2(1) of the *Civil Air Navigation Services Commercialization Act*; (**services de navigation aérienne civile**)
 
 **commercial air service** means any use of aircraft for hire or reward; (**service aérien commercial**)
 
 **emergency direction** means a direction made under section 4.76 or 4.77; (**directive d’urgence**)
+
+**goods** means anything that may be taken or placed on board an aircraft, or that may be brought into an aerodrome or other aviation facility, including personal belongings, baggage, cargo and conveyances; (**bien**)
 
 **hire or reward** means any payment, consideration, gratuity or benefit, directly or indirectly charged, demanded, received or collected by any person for the use of an aircraft; (**rémunération**)
 
@@ -115,14 +117,21 @@ This Act is binding on Her Majesty in right of Canada or a province.
 
 - (a) a security clearance;
 
-- (b) a restricted area pass that is issued by the Minister in respect of an aerodrome that the Minister operates; and
+- (b) a restricted area pass that is issued by the Minister in respect of an aerodrome that the Minister operates;
 
-- (c) a Canadian aviation document specified in an aviation security regulation for the purpose of this subsection.
+- (c) a Canadian aviation document specified in an aviation security regulation for the purpose of this subsection; and
+
+- (d) an authorization issued under section 7.42.
+
+**Exception — ministerial authorizations**
+
+(4) An authorization granted under subsection 4.3(1), (1.1) or (3) is not a Canadian aviation document.
 
 <details>
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. A-2, s. 3; R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 1; 1996, c. 20, s. 99, c. 31, s. 56; 1999, c. 3, s. 13, c. 31, s. 4; 2001, c. 29, s. 33; 2002, c. 7, s. 79(E); 2004, c. 15, ss. 2, 111; 2014, c. 29, s. 10; 2015, c. 3, s. 3
+- 2026, c. 3, s. 463
 
 </details>
 
@@ -132,7 +141,15 @@ This Act is binding on Her Majesty in right of Canada or a province.
 
 ### 4 Application of Part
 
-(1) Subject to any regulations made pursuant to paragraph 4.9(w), this Part applies in respect of aeronautics to all persons and to all aeronautical products and other things in Canada, to all persons outside Canada who hold Canadian aviation documents and to all Canadian aircraft and passengers and crew members thereon outside Canada.
+(1) Subject to any regulations under paragraph 4.9(w), this Part applies in respect of aeronautics to
+
+- (a) all persons and all aeronautical products and other things in Canada;
+
+- (b) all persons outside Canada who hold Canadian aviation documents;
+
+- (c) all Canadian aircraft outside Canada and all passengers and crew members on Canadian aircraft outside Canada; and
+
+- (d) all persons and goods on board aircraft bound for Canada.
 
 **Application of foreign law**
 
@@ -146,6 +163,7 @@ This Act is binding on Her Majesty in right of Canada or a province.
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. A-2, s. 4; R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 2
+- 2026, c. 3, s. 464
 
 </details>
 
@@ -157,6 +175,25 @@ Every person who commits an act or omission outside Canada that if committed in 
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 3
+
+</details>
+
+### 4.11 Manner of service
+
+(1) If a provision of this Part or of any regulation, notice, order, security measure or emergency direction made under this Part requires a notice or other document to be served personally or by registered or certified mail, it may also be served by electronic means.
+
+**Proof of service**
+
+(2) Service by electronic means may be proved by a record of electronic transmission setting out the date and time of transmission.
+
+**Date service effective**
+
+(3) Service by electronic means is considered effective on the day on which it is sent, as indicated on the record of transmission.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 465
 
 </details>
 
@@ -192,7 +229,9 @@ Every person who commits an act or omission outside Canada that if committed in 
 
 - (m) for the purposes of providing aviation weather services that will ensure the safety, regularity and efficiency of aircraft operation, enter into arrangements with any branch of the Government of Canada that is capable of and responsible for providing those services or, where those arrangements cannot be made, enter into arrangements with any person or organization with respect to the provision of those services in such form and manner and at such places as the Minister considers necessary;
 
-- (n) subject to subsection (2), investigate matters relating to aviation safety; and
+- (n) subject to subsection (2), investigate matters relating to aviation safety;
+
+- (n.1) manage the use of remotely piloted aircraft systems and equipment or systems that can cause interference with the operation of remotely piloted aircraft systems; and
 
 - (o) undertake such other activities in relation to aeronautics as the Minister considers appropriate or as the Governor in Council may direct.
 
@@ -204,6 +243,7 @@ Every person who commits an act or omission outside Canada that if committed in 
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 2014, c. 29, s. 11
+- 2026, c. 3, s. 466
 
 </details>
 
@@ -390,18 +430,15 @@ Any person whom the Minister of National Defence has authorized to exercise or p
 
 #### Interpretation
 
-### 4.7 Definitions
+### 4.7 Definition of **screening**
 
-The following definitions apply in sections 4.71 to 4.85.
-
-**goods** means anything that may be taken or placed on board an aircraft, or that may be brought into an aerodrome or other aviation facility, including personal belongings, baggage, cargo and conveyances. (**bien**)
-
-**screening** means a screening, including a search, carried out in the manner and under the circumstances prescribed in aviation security regulations, security measures, emergency directions or interim orders. (**contrôle**)
+In sections 4.71 to 4.85, **screening** means a screening, including a search, carried out in the manner and under the circumstances prescribed in aviation security regulations, security measures, emergency directions or interim orders.
 
 <details>
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 5; 1999, c. 31, ss. 5, 6; 2004, c. 15, s. 5
+- 2026, c. 3, s. 467
 
 </details>
 
@@ -438,7 +475,15 @@ The following definitions apply in sections 4.71 to 4.85.
 
 - (j) establishing security requirements for the design or construction of aircraft and aerodromes and other aviation facilities;
 
-- (k) requiring security management systems to be established by the Canadian Air Transport Security Authority and by air carriers and operators of aerodromes and other aviation facilities, including regulations respecting the content or requirements of those systems;
+- (k) requiring a person or class of persons having aviation security responsibilities to develop and document security management systems or other systems in relation to aviation security and to keep them up to date;
+
+- (k.1) requiring a person or class of persons having aviation security responsibilities to develop and document processes, procedures, programs or plans in relation to aviation security and to keep them up to date;
+
+- (k.2) requiring a person or class of persons having aviation security responsibilities to develop documents, such as manuals, in relation to aviation security and to keep them up to date;
+
+- (k.3) respecting the content and requirements of a system, process, procedure, program, plan or document referred to in any of paragraphs (k) to (k.2);
+
+- (k.4) requiring a person or class of persons having aviation security responsibilities to comply with the provisions or requirements of a system, process, procedure, program, plan or document referred to in any of paragraphs (k) to (k.2);
 
 - (l) establishing security requirements for equipment, systems and processes used in aircraft and aerodromes and other aviation facilities;
 
@@ -452,6 +497,7 @@ The following definitions apply in sections 4.71 to 4.85.
 <summary>Historical Note</summary>
 
 - 2004, c. 15, s. 5
+- 2026, c. 3, s. 468
 
 </details>
 
@@ -917,18 +963,21 @@ The Minister may conduct aviation security assessments outside Canada of air car
 
 #### Verifying Compliance and Testing Effectiveness
 
-### 4.87 No offence
+### 4.87 No offence or violation
 
-A person authorized by the Minister to verify compliance with aviation security regulations, security measures, emergency directions or interim orders, or to test the effectiveness of equipment, systems and processes used with respect to aircraft, aerodromes and other aviation facilities, does not commit an offence if the person commits any act or omission that is required in the course of any such verification or testing and that would otherwise constitute a contravention of an aviation security regulation, a security measure, an emergency direction or an interim order.
+A person authorized by the Minister to verify compliance with aviation security regulations, security measures, emergency directions or interim orders, or to test the effectiveness of equipment, systems and processes used with respect to aircraft, aerodromes and other aviation facilities, does not commit an offence or violation if the person commits any act or omission that is required in the course of any such verification or testing and that would otherwise constitute a contravention of an aviation security regulation, a security measure, an emergency direction or an interim order.
 
 <details>
 <summary>Historical Note</summary>
 
 - 2004, c. 15, s. 7
+- 2026, c. 3, s. 469
 
 </details>
 
 ### General Regulatory Powers
+
+#### Regulations — General
 
 ### 4.9 Regulations respecting aeronautics
 
@@ -993,6 +1042,29 @@ The Governor in Council may make regulations respecting aeronautics and, without
 
 </details>
 
+### 4.901 Contents of regulations
+
+Without limiting the generality of section 4.9, regulations may be made under that section
+
+- (a) requiring a person or class of persons having aviation safety responsibilities to develop and document safety management systems or other systems in relation to aviation safety and to keep them up to date;
+
+- (b) requiring a person or class of persons having aviation safety responsibilities to develop and document processes, procedures, programs or plans in relation to aviation safety and to keep them up to date;
+
+- (c) requiring a person or class of persons having aviation safety responsibilities to develop documents, such as manuals, in relation to aviation safety and to keep them up to date;
+
+- (d) respecting the content and requirements of a system, process, procedure, program, plan or document referred to in any of paragraphs (a) to (c); and
+
+- (e) requiring a person or class of persons having aviation safety responsibilities to comply with the provisions or requirements of a system, process, procedure, program, plan or document referred to in any of paragraphs (a) to (c).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 471
+
+</details>
+
+#### Civil Air Navigation Service Level
+
 ### 4.91 Regulations
 
 (1) The Governor in Council may make regulations authorizing the Minister to make orders directing the ANS Corporation to maintain or increase the level of civil air navigation services it provides in accordance with such terms and conditions as may be specified in the orders.
@@ -1016,6 +1088,8 @@ The Governor in Council may make regulations respecting aeronautics and, without
 
 </details>
 
+#### Hours of Work and Insurance
+
 ### 5 Hours of work limitation and insurance
 
 The Governor in Council may make regulations
@@ -1033,6 +1107,8 @@ The Governor in Council may make regulations
 
 </details>
 
+#### Prohibitions and Restrictions on the Operation of Aircraft
+
 ### 5.1 Restrictions and prohibitions for safety or security purposes
 
 The Minister or any person authorized by the Minister may by notice prohibit or restrict the operation of aircraft on or over any area or within any airspace, either absolutely or subject to any exceptions or conditions that the Minister or person may specify, if, in the opinion of the Minister or person, the prohibition or restriction is necessary for aviation safety or security or the protection of the public.
@@ -1043,6 +1119,62 @@ The Minister or any person authorized by the Minister may by notice prohibit or 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 2004, c. 15, s. 8
 
 </details>
+
+#### Systems, Processes, Procedures, Programs, Plans and Documents
+
+### 5.11 Definition of **regulatory requirement**
+
+In sections 5.12 to 5.14, **regulatory requirement** means a requirement of a regulation made under subsection 4.71(1) or section 4.9 or a requirement of a security measure.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 474
+
+</details>
+
+### 5.12 Notice — deficiencies
+
+If a person has developed and is keeping up to date a system, process, procedure, program, plan or document under a regulatory requirement and the Minister is of the opinion that the system, process, procedure, program, plan or document has deficiencies that risk compromising aviation safety or security, the Minister may, by notice sent to the person, require the person to take the necessary corrective measures within a period specified by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 474
+
+</details>
+
+### 5.13 Notice — operations
+
+If a person has developed and is keeping up to date a system, process, procedure, program, plan or document under a regulatory requirement and the Minister is of the opinion that the person is carrying out an operation referred to in that system, process, procedure, program, plan or document in a manner that risks compromising aviation safety or security, the Minister may, by notice sent to the person, require the person to take the necessary corrective measures within a period specified by the Minister.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 474
+
+</details>
+
+### 5.14 *Statutory Instruments Act*
+
+The *Statutory Instruments Act* does not apply to the following documents:
+
+- (a) a document developed for the purpose of documenting a system, process, procedure, program or plan under a regulatory requirement;
+
+- (b) a document developed under a regulatory requirement;
+
+- (c) a document the provisions or requirements of which a person is to comply with under a regulatory requirement; and
+
+- (d) a notice referred to in section 5.12 or 5.13.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 474
+
+</details>
+
+#### *Radiocommunication Act* and *Explosives Act*
 
 ### 5.2 Relationship to *Radiocommunication Act*
 
@@ -1071,6 +1203,87 @@ Regulations made under this Part respecting the use and operation of rockets are
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1
+
+</details>
+
+### Voluntary Provision of Information
+
+### 5.31 Provision of information
+
+(1) For the purpose of promoting aviation safety and security, the Minister may
+
+- (a) establish and administer programs under which a person or organization may provide information related to aviation safety or security; and
+
+- (b) enter into arrangements or agreements with any person or organization respecting the provision of information related to aviation safety or security.
+
+**Regulations**
+
+(2) The Governor in Council may make regulations respecting the programs, arrangements and agreements referred to in subsection (1) and, without restricting the generality of the foregoing, may make regulations prescribing circumstances for the purposes of paragraph 5.32(j) or 5.33(f).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 475
+
+</details>
+
+### 5.32 Non-disclosure of information
+
+Information obtained by the Minister under a program, arrangement or agreement referred to in subsection 5.31(1) is confidential and must not be disclosed by any person unless
+
+- (a) the person or organization that provided the information consents in writing to its disclosure;
+
+- (b) the information is required to be provided under this Act;
+
+- (c) the information was also obtained by means other than under the program, arrangement or agreement;
+
+- (d) the disclosure is required under an Act of Parliament;
+
+- (e) the disclosure is required for compliance with a subpoena or document issued or order made by a court, person or body with jurisdiction to compel the production of information or for compliance with rules of court relating to the production of information;
+
+- (f) the information relates to
+  - (i) a contravention of any provision of this Part or any regulation, notice, order, security measure or emergency direction made under this Part, and
+  - (ii) an accident or a security incident that must be reported under this Act or an accident that must be reported under the *Canadian Transportation Accident Investigation and Safety Board Act*;
+
+- (g) the information relates to a contravention of subsection 7.3(1) or 7.41(1);
+
+- (h) the information relates to a contravention of any provision of this Part — other than subsection 7.3(1) or 7.41(1) — or any regulation, notice, order, security measure or emergency direction made under this Part and the Minister has reasonable grounds to believe that the contravention was committed knowingly or under circumstances amounting to gross negligence or, in Quebec, gross fault;
+
+- (i) the disclosure is, in the Minister’s opinion, necessary to deal with
+  - (i) a significant risk, direct or indirect, to aviation safety or the safety of the public, or
+  - (ii) an immediate threat to aviation security, the security of any aircraft or aerodrome or other aviation facility or the safety of the public, passengers or crew members; or
+
+- (j) the disclosure is authorized in the circumstances prescribed by regulations.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 475
+
+</details>
+
+### 5.33 Protection
+
+Any information provided under a program, arrangement or agreement referred to in subsection 5.31(1) is not to be used against the person who provided it in any proceedings in respect of a contravention under this Act unless
+
+- (a) the information is required to be provided under this Act;
+
+- (b) the information was also obtained by means other than under the program, arrangement or agreement;
+
+- (c) the information relates to
+  - (i) a contravention of any provision of this Part or any regulation, notice, order, security measure or emergency direction made under this Part, and
+  - (ii) an accident or a security incident that must be reported under this Act or an accident that must be reported under the *Canadian Transportation Accident Investigation and Safety Board Act*;
+
+- (d) the information relates to a contravention of subsection 7.3(1) or 7.41(1);
+
+- (e) the information relates to a contravention of any provision of this Part — other than subsection 7.3(1) or 7.41(1) — or any regulation, notice, order, security measure or emergency direction made under this Part and the Minister has reasonable grounds to believe that the contravention was committed knowingly or under circumstances amounting to gross negligence or, in Quebec, gross fault; or
+
+- (f) the circumstances prescribed by regulations exist.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 475
 
 </details>
 
@@ -1368,21 +1581,25 @@ A certificate purporting to be signed by the Minister of National Defence or the
 
 - (a) to deal with a significant risk, direct or indirect, to aviation safety or the safety of the public;
 
-- (b) to deal with an immediate threat to aviation security, the security of any aircraft or aerodrome or other aviation facility or the safety of the public, passengers or crew members; or
+- (b) to deal with an immediate threat to aviation security, the security of any aircraft or aerodrome or other aviation facility or the safety of the public, passengers or crew members;
 
-- (c) for the purpose of giving immediate effect to any recommendation of any person or organization authorized to investigate an aviation accident or incident.
+- (c) for the purpose of giving immediate effect to any recommendation of any person or organization authorized to investigate an aviation accident or incident;
+
+- (d) to give effect to an international standard; or
+
+- (e) to give effect to an international agreement, convention or arrangement to which Canada is a party.
 
 **Authorized deputy may make interim order**
 
-(1.1) The Minister may authorize, subject to any restrictions or conditions that the Minister may specify, his or her deputy to make, for any reason referred to in any of paragraphs (1)(a) to (c), an interim order that contains any provision that may be contained in a regulation made under this Part.
+(1.1) The Minister may authorize, subject to any restrictions or conditions that the Minister may specify, their deputy to make, for any reason referred to in any of paragraphs (1)(a) to (e), an interim order that contains any provision that may be contained in a regulation made under this Part.
 
 **Consultation**
 
 (1.2) Before making an interim order, the Minister or deputy, as the case may be, must consult with any person or organization that the Minister or deputy considers appropriate in the circumstances.
 
-**Coming into effect**
+**Cessation of effect**
 
-(2) An interim order has effect from the day on which it is made, as if it were a regulation made under this Part, and ceases to have effect fourteen days after it is made unless it is approved by the Governor in Council within that fourteen day period.
+(2) An interim order has effect from the day on which it is made, as if it were a regulation made under this Part, and ceases to have effect one year after the day on which it is made unless it is approved by the Governor in Council within that one-year period.
 
 **Recommendation by Minister**
 
@@ -1390,7 +1607,7 @@ A certificate purporting to be signed by the Minister of National Defence or the
 
 - (a) where such a regulation is made, on the day on which the regulation comes into force; and
 
-- (b) where no such regulation is made, one year after the day on which the interim order is made.
+- (b) where no such regulation is made, three years after the day on which the interim order is made.
 
 **Publication in *Canada Gazette***
 
@@ -1408,6 +1625,7 @@ A certificate purporting to be signed by the Minister of National Defence or the
 <summary>Historical Note</summary>
 
 - 1992, c. 4, s. 13; 2004, c. 15, s. 11; 2015, c. 3, s. 4(F)
+- 2026, c. 3, s. 476
 
 </details>
 
@@ -1738,7 +1956,7 @@ the Minister shall, by personal service or by registered or certified mail sent 
 
 ### 7.21 Default in payment
 
-(1) The Minister may suspend, or refuse to issue, amend or renew, a Canadian aviation document if a certificate under section 7.92, paragraph 8(b) or subsection 8.1(4) has been issued to the Minister in respect of the applicant for, or the holder of, the document or in respect of the owner or operator of an aircraft, aerodrome, airport or other facility to which the document relates.
+(1) The Minister may suspend, or refuse to issue, amend or renew, a Canadian aviation document if a certificate under section 8.11 has been issued to the Minister in respect of the applicant for, or the holder of, the document or in respect of the owner or operator of an aircraft, aerodrome, airport or other facility to which the document relates.
 
 **Notice**
 
@@ -1748,6 +1966,7 @@ the Minister shall, by personal service or by registered or certified mail sent 
 <summary>Historical Note</summary>
 
 - 2001, c. 29, s. 38
+- 2026, c. 3, s. 477
 
 </details>
 
@@ -1765,6 +1984,8 @@ the Minister shall, by personal service or by registered or certified mail sent 
 
 - (d) wilfully obstruct any person who is performing duties under this Part;
 
+- (d.1) except as authorized under this Part and subject to subsection (1.1), intentionally interfere with the operation of a remotely piloted aircraft system, or with the performance of the duties of any crew member of a remotely piloted aircraft system, while the system is powered on;
+
 - (e) except as authorized under this Part, wilfully operate or otherwise deal with an aircraft that has been detained under this Part;
 
 - (f) wilfully do any act or thing in respect of which a Canadian aviation document is required except under and in accordance with the required document; or
@@ -1772,6 +1993,10 @@ the Minister shall, by personal service or by registered or certified mail sent 
 - (g) wilfully do any act or thing in respect of which a Canadian aviation document is required where
   - (i) the document that has been issued in respect of that act or thing is suspended, or
   - (ii) an order referred to in subsection 7.5(1) prohibits the person from doing that act or thing.
+
+**Exception — authorized activities**
+
+(1.1) Paragraph (1)(d.1) does not apply to a person who is carrying out activities that they are authorized to carry out for the purpose of defence.
 
 **Contravention of subsection (1)**
 
@@ -1785,21 +2010,19 @@ the Minister shall, by personal service or by registered or certified mail sent 
 
 (3) Except as otherwise provided by this Part, every person who contravenes a provision of this Part or any regulation, notice, order, security measure or emergency direction made under this Part is guilty of an offence punishable on summary conviction.
 
-**Contravention of subsection 4.81(1)**
+(3.1) [Repealed, 2026, c. 3, s. 478]
 
-(3.1) Despite subsections (4) and (5), every air carrier or operator of an aviation reservation system who fails to comply with a requirement under subsection 4.81(1) or 4.82(4) or (5) is guilty of an offence punishable on summary conviction and liable to a fine of not more than $50,000.
+**Punishment — individuals**
 
-**Punishment, individuals**
+(4) An individual who is convicted of an offence under this Part punishable on summary conviction is liable to a fine not exceeding $150,000 and, in the case of an offence referred to in subsection (1), to imprisonment for a term not exceeding one year or to both fine and imprisonment.
 
-(4) An individual who is convicted of an offence under this Part punishable on summary conviction is liable to a fine not exceeding five thousand dollars and, in the case of an offence referred to in subsection (1), to imprisonment for a term not exceeding one year or to both fine and imprisonment.
+**Punishment — corporations**
 
-**Punishment, corporations**
-
-(5) A corporation that is convicted of an offence under this Part punishable on summary conviction is liable to a fine not exceeding twenty-five thousand dollars.
+(5) A corporation that is convicted of an offence under this Part punishable on summary conviction is liable to a fine not exceeding $1,500,000.
 
 **Punishment — ANS Corporation**
 
-(5.1) Notwithstanding subsection (5), where the ANS Corporation is convicted of contravening an order made under subsection 4.91(1), the ANS Corporation is liable to a fine not exceeding $25,000 for each day or part of a day the offence continues.
+(5.1) Despite subsection (5), if the ANS Corporation is convicted of contravening an order made under subsection 4.91(1), the ANS Corporation is liable to a fine not exceeding $1,500,000 for each day or part of a day the offence continues.
 
 **Punishment, subsequent offences**
 
@@ -1809,9 +2032,7 @@ the Minister shall, by personal service or by registered or certified mail sent 
 
 (7) Where a person is convicted of an offence under this Part punishable on summary conviction, no imprisonment may be imposed as punishment for the offence or in default of payment of any fine imposed as punishment unless the offence is an offence referred to in subsection (1).
 
-**Idem**
-
-(7.1) Where a person is proceeded against under section 8.4 and is convicted of an offence under this Part, no imprisonment may be imposed as punishment for the offence or in default of payment of any fine imposed as punishment in relation to the offence.
+(7.1) [Repealed, 2026, c. 3, s. 478]
 
 **Recovery of fines**
 
@@ -1825,6 +2046,7 @@ the Minister shall, by personal service or by registered or certified mail sent 
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 16; 1996, c. 20, s. 103; 2004, c. 15, s. 15
+- 2026, c. 3, s. 478
 
 </details>
 
@@ -1921,6 +2143,21 @@ the applicant is entitled to an order by the judge declaring that the applicant�
 
 </details>
 
+### 7.42 Authorization — interference
+
+(1) The Minister may, on any terms that the Minister considers appropriate, authorize any person or class of persons to interfere with the operation of a remotely piloted aircraft system or with the performance of the duties of any crew member of a remotely piloted aircraft system if the issuance of authorization is, in the Minister’s opinion, in the public interest or necessary for aviation safety or security.
+
+**Suspension, cancellation or amendment**
+
+(2) The Minister may suspend, cancel or amend an authorization if the suspension, cancellation or amendment is, in the Minister’s opinion, in the public interest or necessary for aviation safety or security.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 479
+
+</details>
+
 ### 7.5 Prohibition by court
 
 (1) Where a person is convicted of an offence under this Part, the court may, in addition to any other punishment it may impose, make an order
@@ -1938,40 +2175,233 @@ the applicant is entitled to an order by the judge declaring that the applicant�
 
 </details>
 
-### Procedure Pertaining to Certain Contraventions
+### 7.51 Vicarious liability — owners of aircraft
+
+If a person may be charged with and found guilty of an offence under this Part relating to an aircraft, the registered owner of the aircraft may be charged with and found guilty of the offence — whether or not the person is identified or prosecuted for the offence — unless, at the time of the offence, the aircraft was in the possession of a person other than the owner without the owner’s consent.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 480
+
+</details>
+
+### 7.52 Vicarious liability — operators of aircraft
+
+If a person may be charged with and found guilty of an offence under this Part relating to an aircraft, the operator of the aircraft may be charged with and found guilty of the offence — whether or not the person is identified or prosecuted for the offence — unless, at the time of the offence, the aircraft was in the possession of a person other than the operator without the operator’s consent.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 480
+
+</details>
+
+### 7.53 Vicarious liability — pilots-in-command
+
+If a crew member may be charged with and found guilty of an offence under this Part relating to an aircraft, the pilot-in-command of the aircraft may be charged with and found guilty of the offence — whether or not the crew member is identified or prosecuted for the offence — unless the offence was committed without the consent of the pilot-in-command.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 480
+
+</details>
+
+### 7.54 Proof of offence
+
+In a prosecution of any of the following persons for an offence under this Part, it is sufficient proof of the offence to establish that the act or omission that constitutes the offence was committed by an employee or agent or mandatary of the person, whether or not the employee or agent or mandatary is identified or prosecuted for the offence:
+
+- (a) the registered owner of an aircraft;
+
+- (b) the operator of an aircraft;
+
+- (c) the operator of an aerodrome or other aviation facility;
+
+- (d) an air traffic service provider;
+
+- (e) an organization that holds a Canadian aviation document authorizing the maintenance of an aeronautical product or the provision of a maintenance service.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 480
+
+</details>
+
+### 7.55 Exceptions
+
+Sections 7.51 to 7.54 do not apply to an offence relating to a contravention of subsection 7.3(1) or 7.41(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 480
+
+</details>
+
+### 7.56 Due diligence defence
+
+(1) A person is not to be found guilty of an offence under this Part if they establish that they exercised all due diligence to prevent the commission of the offence.
+
+**Exceptions**
+
+(2) Subsection (1) does not apply to an offence relating to a contravention of subsection 7.3(1) or 7.41(1).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 480
+
+</details>
+
+### Administrative Monetary Penalties
 
 ### 7.6 Designation of provisions
 
 (1) The Governor in Council may, by regulation,
 
-- (a) designate any provision of this Part or of any regulation, notice, order or security measure made under this Part, or any provision of the *Secure Air Travel Act* or of any regulation or direction made under that Act, in this section and in sections 7.7 to 8.2 referred to as a “designated provision”, as a provision the contravention of which may be dealt with under and in accordance with the procedure set out in sections 7.7 to 8.2;
+- (a) designate as a provision the contravention of which may be proceeded with as a violation in accordance with sections 7.61 to 8.2, any provision of this Part or of any regulation, notice, order or security measure made under this Part, or any provision of the *Secure Air Travel Act* or of any regulation or direction made under that Act; and
 
-- (a.1) if subsection 4.81(1) or 4.82(4) or (5) is a designated provision, prescribe the maximum amount payable in respect of a contravention of that provision, which amount shall not exceed $50,000; and
+- (a.1) [Repealed, 2026, c. 3, s. 481]
 
-- (b) prescribe, in respect of any other designated provision, the maximum amount payable in respect of a contravention of that provision, which amount shall not exceed
-  - (i) $5,000, in the case of an individual, and
-  - (ii) $25,000, in the case of a corporation.
+- (b) prescribe the maximum amount payable for each violation, not to exceed
+  - (i) $150,000, in the case of an individual, and
+  - (ii) $1,500,000, in the case of a corporation.
 
-**Non-application of summary conviction procedure**
-
-(2) A person who contravenes a designated provision is guilty of an offence and liable to the punishment imposed in accordance with sections 7.7 to 8.2 and no proceedings against the person shall be taken by way of summary conviction.
+(2) [Repealed, 2026, c. 3, s. 481]
 
 <details>
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 19; 2004, c. 15, s. 18; 2015, c. 20, s. 12
+- 2026, c. 3, s. 481
 
 </details>
 
-### 7.7 Notice of assessment of monetary penalty
+### 7.61 Violation
 
-(1) If the Minister believes on reasonable grounds that a person has contravened a designated provision, the Minister may decide to assess a monetary penalty in respect of the alleged contravention, in which case the Minister shall, by personal service or by registered or certified mail sent to the person at their latest known address, notify the person of his or her decision.
+(1) Every person who contravenes a provision designated under paragraph 7.6(1)(a) commits a violation and is liable to a penalty not exceeding the maximum amount prescribed under paragraph 7.6(1)(b).
+
+**Continuing violation**
+
+(2) A violation that is committed or continued on more than one flight or segment of a flight constitutes a separate violation for each flight or segment of a flight on which the violation is committed or continued.
+
+**Manner of proceeding**
+
+(3) If a contravention of a provision designated under paragraph 7.6(1)(a) may be proceeded with as a violation or as an offence, proceeding with it in one manner precludes proceeding in the other.
+
+**Nature of violation**
+
+(4) For greater certainty, a violation is not an offence and, accordingly, section 126 of the *Criminal Code* does not apply in respect of a violation.
+
+**Due diligence defence**
+
+(5) A person is not to be found liable for a violation if they establish that they exercised all due diligence to prevent its commission.
+
+**Vicarious liability — owners of aircraft**
+
+(6) If a person may be proceeded against under this Part for a violation relating to an aircraft, the registered owner of the aircraft may be proceeded against for the violation — whether or not the person is identified or proceeded against for the violation — unless, at the time of the violation, the aircraft was in the possession of a person other than the owner without the owner’s consent.
+
+**Vicarious liability — operators of aircraft**
+
+(7) If a person may be proceeded against under this Part for a violation relating to an aircraft, the operator of the aircraft may be proceeded against for the violation — whether or not the person is identified or proceeded against for the violation — unless, at the time of the violation, the aircraft was in the possession of a person other than the operator without the operator’s consent.
+
+**Vicarious liability — pilots-in-command**
+
+(8) If a crew member may be proceeded against under this Part for a violation relating to an aircraft, the pilot-in-command of the aircraft may be proceeded against for the violation — whether or not the crew member is identified or proceeded against for the violation — unless the violation was committed without the consent of the pilot-in-command.
+
+**Proof of violation**
+
+(9) In any proceedings under this Part against any of the following persons for a violation, it is sufficient proof of the violation to establish that the act or omission that constitutes the violation was committed by an employee or agent or mandatary of the person, whether or not the employee or agent or mandatary is identified or proceeded against for the violation:
+
+- (a) the registered owner of an aircraft;
+
+- (b) the operator of an aircraft;
+
+- (c) the operator of an aerodrome or other aviation facility;
+
+- (d) an air traffic service provider;
+
+- (e) an organization that holds a Canadian aviation document authorizing the maintenance of a aeronautical product or the provision of a maintenance service.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 482
+
+</details>
+
+### 7.62 Assurance of compliance — no notice served
+
+(1) If the Minister has reasonable grounds to believe that a person who has not been served with a notice of violation under section 7.7 has committed a violation, the Minister may enter into an assurance of compliance with the person that
+
+- (a) identifies the violation and provides that the person will comply with the provision to which the violation relates within the period and subject to the terms and conditions specified in the assurance;
+
+- (b) sets out the amount and form of any security that, pending compliance with the assurance, is to be deposited with the Minister; and
+
+- (c) sets out the penalty that the person would have been liable to pay for the violation if the assurance had not been entered into.
+
+**Extension of period**
+
+(2) The Minister may extend the period specified under paragraph (1)(a) if the Minister is satisfied that the person is unable to comply with the assurance of compliance for reasons beyond the person’s control.
+
+**Deemed violation**
+
+(3) A person who enters into an assurance of compliance is deemed to have committed the violation in respect of which the assurance was entered into, unless they request a review under subsection (4).
+
+**Request for review**
+
+(4) A person who enters into an assurance of compliance may, within 48 hours after the assurance is signed, unless a notice of default has been served under subsection (6), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review of the facts of the violation and the amount of the penalty is deemed to have been requested under section 7.91.
+
+**Notice of compliance**
+
+(5) If the Minister is satisfied that a person has complied with an assurance of compliance, the Minister shall cause a notice to that effect to be served on the person and, on the service of the notice,
+
+- (a) no further proceedings may be taken against the person with respect to the violation in respect of which the assurance was entered into; and
+
+- (b) any security deposited under paragraph (1)(b) shall be returned to the person.
+
+**Notice of default**
+
+(6) If the Minister is of the opinion that a person has not complied with an assurance of compliance, the Minister shall cause a notice of default to be served on the person to the effect that
+
+- (a) the person is liable to pay, within the time and in the manner specified in the notice of default, twice the amount of the penalty set out in the assurance without taking into account the limit specified in paragraph 7.6(1)(b); or
+
+- (b) any security deposited under paragraph (1)(b) is forfeited to His Majesty in right of Canada.
+
+**Contents of notice**
+
+(7) The notice of default shall indicate the date, which shall be 30 days after the day on which the notice is served, on or before which a request for a review may be filed and the address where the request may be filed and shall include the particulars concerning the procedure for requesting a review.
+
+**No set-off or compensation**
+
+(8) On the service of a notice of default, the person served has no right of set-off or compensation against any amount that they spent under the assurance of compliance.
+
+**Return of security**
+
+(9) Any security deposited under subsection (1) shall be returned to the person if
+
+- (a) a notice is served under subsection (6) and the person pays double the amount of the penalty set out in the assurance of compliance; or
+
+- (b) a member determines under section 8 or an appeal panel decides under section 8.1 that the person has complied with the assurance.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 482
+
+</details>
+
+### 7.7 Notice of violation
+
+(1) If the Minister believes on reasonable grounds that a person has committed a violation, the Minister may issue a notice of violation in respect of the alleged contravention and shall cause it to be served on the person by personal service or by registered or certified mail sent to the person at their latest known address.
 
 **Contents of notice**
 
 (2) A notice under subsection (1) shall be in a form prescribed by regulation of the Governor in Council and shall, in addition to any other information that may be prescribed, indicate
 
-- (a) the designated provision that the Minister believes has been contravened;
+- (a) the violation;
 
 - (b) subject to any regulations made under paragraph 7.6(1)(b), the amount that is determined by the Minister, in accordance with any guidelines that the Minister may make for the purpose, to be the amount that must be paid to the Minister as the penalty in the event that the person does not wish to appear before a member of the Tribunal assigned to conduct a review to make representations in respect of the alleged contravention; and
 
@@ -1981,6 +2411,7 @@ the applicant is entitled to an order by the judge declaring that the applicant�
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 20; 2001, c. 29, s. 39
+- 2026, c. 3, s. 483
 
 </details>
 
@@ -1992,17 +2423,96 @@ A person who has been served with or sent a notice under subsection 7.7(1) must 
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 2001, c. 29, s. 39
+- 2026, c. 3, s. 484(F)
 
 </details>
 
 ### 7.9 Payment of specified amount precludes further proceedings
 
-If a person who is served with or sent a notice under subsection 7.7(1) pays the amount specified in the notice in accordance with the requirements set out in the notice, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the contravention by that person of the designated provision and no further proceedings under this Part shall be taken against the person in respect of that contravention.
+If a person who is served with or sent a notice under subsection 7.7(1) pays the amount specified in the notice in accordance with the requirements set out in the notice, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the violation and no further proceedings under this Part shall be taken against the person in respect of that violation.
 
 <details>
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 1, s. 5; 2001, c. 29, s. 39
+- 2026, c. 3, s. 485
+
+</details>
+
+### 7.901 Request for compliance agreement — notice served
+
+Instead of paying the penalty set out in the notice of violation, the person served with the notice may, within the time and in the manner specified in the notice, request to enter into a compliance agreement with the Minister under section 7.902 that ensures the person’s compliance with the provision to which the violation relates.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 485
+
+</details>
+
+### 7.902 Compliance agreement — notice served
+
+(1) The Minister may, on application made under section 7.901, enter into a compliance agreement with a person who has been served with a notice of violation on any terms and conditions that are satisfactory to the Minister. The terms and conditions may
+
+- (a) include a provision for the deposit of reasonable security, in a form and amount satisfactory to the Minister, as a guarantee that the person will comply with the compliance agreement; and
+
+- (b) provide for the reduction, in whole or in part, of the penalty for the violation.
+
+**Deemed violation**
+
+(2) A person who enters into a compliance agreement with the Minister under subsection (1) is deemed to have committed the violation in respect of which the agreement was entered into.
+
+**Notice of compliance**
+
+(3) If the Minister is satisfied that a person has complied with a compliance agreement, the Minister shall cause a notice to that effect to be served on the person, at which time
+
+- (a) the proceedings commenced in respect of the violation are ended; and
+
+- (b) any security deposited under paragraph (1)(a) shall be returned to the person.
+
+**Notice of default**
+
+(4) If the Minister is of the opinion that a person has not complied with a compliance agreement, the Minister shall cause a notice of default to be served on the person to the effect that
+
+- (a) instead of being liable to pay the amount of the penalty set out in the notice of violation, the person is liable to pay, within the time and in the manner specified in the notice of violation, twice the amount of that penalty, without taking into account the limits specified in paragraph 7.6(1)(b); or
+
+- (b) any security deposited under paragraph (1)(a) is forfeited to His Majesty in right of Canada.
+
+**Effect of notice of default**
+
+(5) On the service of a notice of default, the person served has no right of set-off or compensation against any amount that they spent under the compliance agreement and
+
+- (a) the person is liable to pay the amount set out in the notice of default within the time and in the manner specified in the notice of violation; or
+
+- (b) if the notice provides for the forfeiture of the security deposited under the compliance agreement, that security is forfeited to His Majesty in right of Canada and the proceedings commenced in respect of the violation are ended.
+
+**Effect of payment**
+
+(6) If a person served with a notice of default pays the amount set out in the notice of default within the time and in the manner specified in the notice of violation, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the violation and no further proceedings under this Part shall be taken against the person in respect of that violation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 485
+
+</details>
+
+### 7.903 Refusal to enter into compliance agreement
+
+(1) If the Minister refuses to enter into a compliance agreement requested under section 7.901, the person who made the request may, within the time specified by the Minister and in the manner specified in the notice of violation,
+
+- (a) pay the amount of the penalty set out in the notice of violation; or
+
+- (b) file a request for a review under subsection 7.91(1).
+
+**Effect of payment**
+
+(2) If a person pays the amount set out in the notice of violation within the time specified by the Minister and in the manner specified in the notice of violation, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the violation and no further proceedings under this Part shall be taken against the person in respect of that violation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 485
 
 </details>
 
@@ -2010,9 +2520,13 @@ If a person who is served with or sent a notice under subsection 7.7(1) pays the
 
 (1) A person who is served with or sent a notice under subsection 7.7(1) and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice.
 
+**Request for review of compliance**
+
+(1.1) A person who is served with a notice of default under subsection 7.62(6) and who wishes to have the Minister’s decision made under that subsection reviewed shall, on or before the date specified in the notice — or within any further time that the Tribunal on application may allow — file a written request for a review with the Tribunal.
+
 **Time and place for review**
 
-(2) On receipt of a request filed under subsection (1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing.
+(2) On receipt of a request, the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing.
 
 **Review procedure**
 
@@ -2020,42 +2534,53 @@ If a person who is served with or sent a notice under subsection 7.7(1) pays the
 
 **Burden of proof**
 
-(4) The burden of establishing that a person has contravened a designated provision is on the Minister.
+(4) The burden of establishing that a person has committed a violation or has not complied with the assurance of compliance referred to in the notice of default is on the Minister.
 
 **Person not compelled to testify**
 
-(5) A person who is alleged to have contravened a designated provision is not required, and shall not be compelled, to give any evidence or testimony in the matter.
+(5) A person who is alleged to have committed a violation is not required, and shall not be compelled, to give any evidence or testimony in the matter.
+
+**Certain defences not available**
+
+(6) Despite subsection 7.61(5), for the purposes of a request for review under subsection (1.1) a person does not have a defence by reason that the person exercised all due diligence to comply with the assurance of compliance.
 
 <details>
 <summary>Historical Note</summary>
 
 - 2001, c. 29, s. 39
+- 2026, c. 3, s. 486
 
 </details>
 
-### 7.92 Certificate
+### 7.92 Failure to pay
 
-If a person fails to pay the amount of the penalty specified in a notice under subsection 7.7(1) within the time specified in the notice and does not file a request for a review under subsection 7.91(1), the person is deemed to have committed the contravention alleged in the notice, and the Minister may obtain from the Tribunal a certificate in a form prescribed by the Governor in Council that indicates the amount of the penalty specified in the notice.
+A person who fails to pay the amount of the penalty specified in a notice of violation within the specified time and who does not file a request for a review is deemed to have committed the violation alleged in the notice.
 
 <details>
 <summary>Historical Note</summary>
 
 - 2001, c. 29, s. 39
+- 2026, c. 3, s. 487
 
 </details>
 
 ### 8 Determination by Tribunal member
 
-If, at the conclusion of a review under section 7.91, the member of the Tribunal who conducts the review determines that
+At the conclusion of a review, the member of the Tribunal who conducts the review shall without delay inform the Minister and the person alleged to have committed a violation
 
-- (a) the person has not contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall forthwith inform the person and the Minister of the determination and, subject to section 8.1, no further proceedings under this Part shall be taken against the person in respect of the alleged contravention; or
+- (a) that the person has not committed a violation, in which case, subject to section 8.1, no further proceedings under this Part shall be taken against the person in respect of the alleged violation;
 
-- (b) the person has contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall forthwith inform the person and the Minister of the determination and, subject to any regulations made under paragraph 7.6(1)(b), of the amount determined by the member of the Tribunal to be payable by the person in respect of the contravention and, where the amount is not paid to the Tribunal by or on behalf of the person within such time as the member of the Tribunal may allow, the member of the Tribunal shall issue to the Minister a certificate in such form as the Governor in Council may by regulation prescribe, setting out the amount required to be paid by the person.
+- (b) that the person has committed a violation and, subject to any regulations made under paragraph 7.6(1)(b), of the amount that must be paid to the Tribunal by or on behalf of the person and the time within which it must be paid;
+
+- (c) that the person has complied with the assurance of compliance, in which case, subject to section 8.1, no further proceedings under this Part shall be taken against the person in respect of the alleged violation; or
+
+- (d) that the person has not complied with the assurance of compliance, in which case, the member confirms the decision made by the Minister under subsection 7.62(6).
 
 <details>
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. A-2, s. 8; R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 21; 2001, c. 29, s. 40(E)
+- 2026, c. 3, s. 488
 
 </details>
 
@@ -2069,22 +2594,44 @@ If, at the conclusion of a review under section 7.91, the member of the Tribunal
 
 **Disposition of appeal**
 
-(3) The appeal panel of the Tribunal assigned to hear the appeal may dispose of the appeal by dismissing it or allowing it and, in allowing the appeal, the panel may substitute its decision for the determination appealed against.
+(3) The appeal panel of the Tribunal assigned to hear an appeal may
 
-**Certificate**
+- (a) in the case of a determination made under paragraph 8(a) or (b), dismiss the appeal or allow the appeal and, subject to any regulations made under paragraph 7.6(1)(b), substitute its own decision; or
 
-(4) Where the appeal panel finds on an appeal that a person has contravened the designated provision, the panel shall without delay inform the person of the finding and, subject to any regulations made under paragraph 7.6(1)(b), of the amount determined by the panel to be payable by the person in respect of the contravention and, where the amount is not paid to the Tribunal by or on behalf of the person within the time allowed by the Tribunal, the Tribunal shall issue to the Minister a certificate in a form prescribed by regulation of the Governor in Council, setting out the amount required to be paid by the person.
+- (b) in the case of a determination made under paragraph 8(c) or (d), dismiss the appeal or allow the appeal and substitute its own decision.
+
+**Finding of violation**
+
+(4) After making its decision, the appeal panel shall inform the person and the Minister of its decision without delay and specify the period within which any amount determined by the appeal panel to be payable to the Tribunal is to be paid.
 
 <details>
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 22; 2001, c. 29, s. 41
+- 2026, c. 3, s. 489
+
+</details>
+
+### 8.11 Certificate
+
+The Minister may obtain from the Tribunal or the member, as the case may be, a certificate in the form prescribed by the Governor in Council setting out the amount of the penalty required to be paid by a person who fails, within the time required,
+
+- (a) to pay the amount of a penalty set out in a notice of violation, or in a notice of default served under subsection 7.62(6) or 7.902(4), or to file a request for a review under section 7.91;
+
+- (b) to pay an amount set out in a determination made under paragraph 8(b) or in a decision confirmed under paragraph 8(d) or file an appeal under section 8.1; or
+
+- (c) to pay an amount determined under subsection 8.1(4).
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 490
 
 </details>
 
 ### 8.2 Registration of certificate
 
-(1) If the time limit for the payment of an amount determined by the Minister in a notice under subsection 7.7(1) has expired, the time limit for the request for a review under subsection 7.91(1) has expired, the time limit for an appeal under subsection 8.1(1) has expired, or an appeal taken under section 8.1 has been disposed of, on production in any superior court, a certificate issued under section 7.92, paragraph 8(b) or subsection 8.1(4) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
+(1) On production in any superior court, a certificate issued under section 8.11 shall be registered in the court and, when so registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by His Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
 
 **Recovery of costs and charges**
 
@@ -2098,6 +2645,7 @@ If, at the conclusion of a review under section 7.91, the member of the Tribunal
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 2001, c. 29, s. 42
+- 2026, c. 3, s. 491
 
 </details>
 
@@ -2128,41 +2676,15 @@ If, at the conclusion of a review under section 7.91, the member of the Tribunal
 
 </details>
 
-### Enforcement
+### Admissibility of Evidence
 
-### 8.4 Owner of aircraft may be found liable
+### 8.4
 
-(1) The registered owner of an aircraft may be proceeded against in respect of and found to have committed an offence under this Part in relation to the aircraft for which another person is subject to be proceeded against unless, at the time of the offence, the aircraft was in the possession of a person other than the owner without the owner’s consent and, where found to have committed the offence, the owner is liable to the penalty provided as punishment therefor.
+[Repealed, 2026, c. 3, s. 492]
 
-**Operator of aircraft may be found liable**
+### 8.5
 
-(2) The operator of an aircraft may be proceeded against in respect of and found to have committed an offence under this Part in relation to the aircraft for which another person is subject to be proceeded against unless, at the time of the offence, the aircraft was in the possession of a person other than the operator without the operator’s consent and, where found to have committed the offence, the operator is liable to the penalty provided as punishment therefor.
-
-**Pilot-in-command may be found liable**
-
-(3) The pilot-in-command of an aircraft may be proceeded against in respect of and found to have committed an offence under this Part in relation to the aircraft for which another person is subject to be proceeded against unless the offence was committed without the consent of the pilot-in-command and, where found to have committed the offence, the pilot-in-command is liable to the penalty provided as punishment therefor.
-
-**Operator of aerodrome, etc., may be found liable**
-
-(4) The operator of an aerodrome or other aviation facility may be proceeded against in respect of and found to have committed an offence under this Part in relation to the aerodrome or facility for which another person is subject to be proceeded against unless the offence was committed without the consent of the operator of the aerodrome or facility and, where found to have committed the offence, the operator of the aerodrome or facility is liable to the penalty provided as punishment therefor.
-
-<details>
-<summary>Historical Note</summary>
-
-- R.S., 1985, c. 33 (1st Supp.), s. 1
-
-</details>
-
-### 8.5 Defence
-
-No person shall be found to have contravened a provision of this Part or any regulation, notice, order, security measure or emergency direction made under this Part if the person exercised all due diligence to prevent the contravention.
-
-<details>
-<summary>Historical Note</summary>
-
-- R.S., 1985, c. 33 (1st Supp.), s. 1; 2004, c. 15, s. 20
-
-</details>
+[Repealed, 2026, c. 3, s. 492]
 
 ### 8.6 Admissibility of evidence
 
@@ -2174,6 +2696,8 @@ Evidence relating to the presence or concentration of alcohol or a drug in a sam
 - R.S., 1985, c. 33 (1st Supp.), s. 1; 1992, c. 1, s. 3; 2008, c. 6, s. 55; 2018, c. 21, s. 39
 
 </details>
+
+### Powers to Enter, Seize and Detain
 
 ### 8.7 Powers to enter, seize and detain
 
@@ -2553,7 +3077,7 @@ The Minister may authorize any person or class of persons to exercise or perform
 
 - (a) is designated as an observer by the minister responsible for a department that has a direct interest in the subject matter of the investigation;
 
-- (b) has observer status or is an accredited representative or an adviser to an accredited representative, under an international agreement or convention relating to transportation to which Canada is a party; or
+- (b) has observer status or is an accredited representative or an adviser to an accredited representative, under an international agreement, convention or arrangement relating to transportation to which Canada is a party; or
 
 - (c) is invited by the Authority to attend as an observer because, in the Authority’s opinion, the person has a direct interest in the subject matter of the investigation and is likely to contribute to achieving its object.
 
@@ -2565,6 +3089,7 @@ The Minister may authorize any person or class of persons to exercise or perform
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. A-2, s. 17; R.S., 1985, c. 28 (3rd Supp.), s. 276; 2014, c. 29, s. 19
+- 2026, c. 3, s. 494
 
 </details>
 
@@ -3160,6 +3685,18 @@ His Excellency the Governor General in Council, on the recommendation of the Pri
 ### 25 Existing military investigations
 
 If, on the coming into force of Part II of the *Aeronautics Act* (referred to in this section as “the Act”), as enacted by section 19 of this Act, an investigation by or under the authority of the Minister of National Defence of an accident or incident relating to aeronautics that would not have been considered a military-civilian occurrence, as defined in that Part, has already begun, or one has been completed but no report on it has been provided to that Minister, then the following provisions apply on the coming into force of that Part: subsections 18(1) to (9) of the Act, the provisions of sections 22 to 24.1 of the Act relating to on-board recordings, communication records and statements, as defined in sections 22, 24 and 24.1 of the Act, respectively, and the provisions of section 24.2 of the Act relating to reporting by civilians.
+
+### — 2026, c. 3, s. 495
+
+### 495 Aviation security regulations
+
+Regulations described in paragraph 4.71(2)(k.4) of the *Aeronautics Act* may be made under subsection 4.71(1) of that Act in relation to a system, process, procedure, program, plan or document that a person established, developed or otherwise has in accordance with a regulation that was made under that subsection before the day on which this section comes into force.
+
+### — 2026, c. 3, s. 496
+
+### 496 Aviation safety regulations
+
+Regulations described in paragraph 4.901(e) of the *Aeronautics Act* may be made under section 4.9 of that Act in relation to a system, process, procedure, program, plan or document that a person established, developed or otherwise has in accordance with a regulation that was made under that section before the day on which this section comes into force.
 
 
 ## AMENDMENTS NOT IN FORCE

@@ -1,6 +1,6 @@
 # Règlements fédéraux
 
-_4845 documents_
+_4864 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -8,6 +8,7 @@ _4845 documents_
 | 2018, ch. 12, art. 187 | [2018-ch.-12-art.-187-DORS-2018-12187](2018-ch.-12-art.-187-DORS-2018-12187.md) | Règlement sur la redevance sur les combustibles |
 | 2022, ch. 19, art. 116 | [2022-ch.-19-art.-116-DORS-2022-19116](2022-ch.-19-art.-116-DORS-2022-19116.md) | Règlement sur la taxe sur les logements sous-utilisés |
 | 2024, ch. 15, art. 97 | [2024-ch.-15-art.-97-DORS-2024-1597](2024-ch.-15-art.-97-DORS-2024-1597.md) | Règlement sur la taxe sur les services numériques |
+| 2026, ch. 3, art. 175 | [2026-ch.-3-art.-175-DORS-2026-3175](2026-ch.-3-art.-175-DORS-2026-3175.md) | Règlement sur la taxe sur certains biens de luxe |
 | C.P. 1945-7421 | [C.P.-1945-7421-TR-45-7421](C.P.-1945-7421-TR-45-7421.md) | Décret sur le Fonds monétaire international et la Banque internationale pour la reconstruction et le développement |
 | C.R.C. 1955, p. 2802 | [Règlement de la Caisse d’épargne postale](C.R.C.-1955-p.-2802-règlement-de-la-caisse-dépargne-postale.md) |  |
 | C.R.C., ch. 10 | [Règlement sur l’indemnisation en cas d’accident d’aviation](C.R.C.-ch.-10-règlement-sur-lindemnisation-en-cas-daccident-daviation.md) | Règlement prévoyant une indemnisation en cas de blessures corporelles ou de décès résultant de vols entrepris dans l’exercice de fonctions |
@@ -2217,6 +2218,11 @@ _4845 documents_
 | DORS/2026-34 | [DORS-2026-34-DORS-2026-34](DORS-2026-34-DORS-2026-34.md) | Décret de remise de la surtaxe sur les marchandises dérivées de l’acier |
 | DORS/2026-4 | [DORS-2026-4-DORS-2026-4](DORS-2026-4-DORS-2026-4.md) | Arrêté visant l’habitat essentiel du méné à grandes écailles (Macrhybopsis storeriana) populations des Grands Lacs et du haut Saint-Laurent |
 | DORS/2026-48 | [DORS-2026-48-DORS-2026-48](DORS-2026-48-DORS-2026-48.md) | Décret prolongeant la période de validité du Règlement sur le blocage des biens de dirigeants étrangers corrompus (Tunisie) |
+| DORS/2026-56 | [DORS-2026-56-DORS-2026-56](DORS-2026-56-DORS-2026-56.md) | Arrêté visant l’habitat essentiel du méné des plaines (Hybognathus placitus) |
+| DORS/2026-57 | [DORS-2026-57-DORS-2026-57](DORS-2026-57-DORS-2026-57.md) | Arrêté sur la zone de protection marine de Qikiqtait |
+| DORS/2026-58 | [DORS-2026-58-DORS-2026-58](DORS-2026-58-DORS-2026-58.md) | Arrêté sur la zone de protection marine de Sarvarjuaq |
+| DORS/2026-67 | [DORS-2026-67-DORS-2026-67](DORS-2026-67-DORS-2026-67.md) | Proclamation désignant la République des Philippines à titre d’État désigné pour l’application de la Loi sur les forces étrangères présentes au canada |
+| DORS/2026-68 | [DORS-2026-68-DORS-2026-68](DORS-2026-68-DORS-2026-68.md) | Règlement sur le Collège des consultants en immigration et en citoyenneté |
 | DORS/49-42 | [Règlements concernant le paiement de frais scolaires et des frais de transport des enfants de certains employés de l’État](DORS-49-42-règlements-concernant-le-paiement-de-frais-scolaires-et-des-frais-de-transport-d.md) |  |
 | DORS/51-84 | [DORS-51-84-DORS-51-84](DORS-51-84-DORS-51-84.md) | Application de la Loi sur les pensions des services de défense au contingent spécial |
 | DORS/54-578 | [Règlements sur les réclamations de guerre](DORS-54-578-règlements-sur-les-réclamations-de-guerre.md) |  |
@@ -4412,6 +4418,7 @@ _4845 documents_
 | TR/2025-54 | [TR-2025-54-TR-2025-54](TR-2025-54-TR-2025-54.md) | Décret chargeant le leader du gouvernement à la Chambre des communes de l’application de la Loi de 1994 sur la suspension de la révision des limites des circonscriptions électorales |
 | TR/2025-55 | [TR-2025-55-TR-2025-55](TR-2025-55-TR-2025-55.md) | Décret chargeant le leader du gouvernement à la Chambre des communes de l’application de la Loi sur la révision des limites des circonscriptions électorales |
 | TR/2025-60 | [TR-2025-60-TR-2025-60](TR-2025-60-TR-2025-60.md) | Décret de remise de la surtaxe des États-Unis (véhicules automobiles, 2025) |
+| TR/2025-7 | [TR-2025-7-TR-2025-7](TR-2025-7-TR-2025-7.md) | Décret de remise des frais payés ou à payer pour l’acquisition du statut de résident permanent (Afghanistan) |
 | TR/2025-74 | [TR-2025-74-TR-2025-74](TR-2025-74-TR-2025-74.md) | Décret désignant le ministère de la Sécurité publique et de la Protection civile pour fournir un soutien au ministre de la Gestion des urgences et de la Résilience des communautés |
 | TR/2025-75 | [TR-2025-75-TR-2025-75](TR-2025-75-TR-2025-75.md) | Décret désignant le ministère de l’Industrie et le ministère du Patrimoine canadien pour fournir un soutien au ministre de l’Intelligence artificielle et de l’Innovation numérique |
 | TR/2025-76 | [TR-2025-76-TR-2025-76](TR-2025-76-TR-2025-76.md) | Décret transférant du ministre de l’Industrie au ministre de l’Emploi et du Développement social les attributions à l’égard de l’Agence fédérale de développement économique pour le Nord de l’Ontario |
@@ -4430,8 +4437,19 @@ _4845 documents_
 | TR/2025-92 | [TR-2025-92-TR-2025-92](TR-2025-92-TR-2025-92.md) | Décret nommant le ministre de l’Infrastructure et des Collectivités à titre de ministre de tutelle de la Société immobilière du Canada Limitée pour l’application de la Loi sur la gestion des finances publiques |
 | TR/2025-96 | [TR-2025-96-TR-2025-96](TR-2025-96-TR-2025-96.md) | Décret transférant du ministère des Pêches et des Océans au ministère de la Défense nationale la responsabilité à l’égard de la Garde côtière canadienne et du Groupe des services de soutien de la Garde côtière canadienne |
 | TR/2026-1 | [TR-2026-1-TR-2026-1](TR-2026-1-TR-2026-1.md) | Décret de remise de certains droits prévus par le Règlement sur les droits pour les services de passeports et autres documents de voyage |
+| TR/2026-10 | [TR-2026-10-TR-2026-10](TR-2026-10-TR-2026-10.md) | Décret de remise n^o^ 1 des frais payés ou à payer pour l’examen d’une demande de statut de résident permanent (considérations d’ordre humanitaire) |
+| TR/2026-11 | [TR-2026-11-TR-2026-11](TR-2026-11-TR-2026-11.md) | Décret de remise n^o^ 2 des frais payés ou à payer pour l’examen d’une demande de statut de résident permanent (considérations d’ordre humanitaire) |
+| TR/2026-12 | [TR-2026-12-TR-2026-12](TR-2026-12-TR-2026-12.md) | Décret de remise des sommes correspondant au rajustement de certains droits prévus par le Règlement sur les droits pour les services de passeports et autres documents de voyage |
+| TR/2026-13 | [TR-2026-13-TR-2026-13](TR-2026-13-TR-2026-13.md) | Décret de remise de la surtaxe des États-Unis (véhicules automobiles, 2026) |
+| TR/2026-15 | [TR-2026-15-TR-2026-15](TR-2026-15-TR-2026-15.md) | Décret désignant le ministre de l’Emploi et du Développement social à titre de ministre chargé de l’application de la Loi canadienne sur les emplois durables |
+| TR/2026-16 | [TR-2026-16-TR-2026-16](TR-2026-16-TR-2026-16.md) | Décret désignant le ministre des Ressources naturelles à titre de ministre responsable visé par la Loi canadienne sur les emplois durables |
+| TR/2026-17 | [TR-2026-17-TR-2026-17](TR-2026-17-TR-2026-17.md) | Décret transférant du ministère des Ressources naturelles au ministère de l’Emploi et du Développement social la responsabilité à l’égard du Secrétariat pour des emplois durables |
 | TR/2026-2 | [TR-2026-2-TR-2026-2](TR-2026-2-TR-2026-2.md) | Décret de remise visant les droits à payer pour les services consulaires (normes de rendement) |
 | TR/2026-3 | [TR-2026-3-TR-2026-3](TR-2026-3-TR-2026-3.md) | Décret accusant réception des évaluations faites conformément au paragraphe 23(1) de la Loi sur les espèces en péril (martre d’Amérique, population de Terre-Neuve, et six autres espèces sauvages) |
+| TR/2026-5 | [TR-2026-5-TR-2026-5](TR-2026-5-TR-2026-5.md) | Décret transférant du ministère des Transports au ministère de la Défense nationale la responsabilité à l’égard de la Direction générale des services des aéronefs |
+| TR/2026-7 | [TR-2026-7-TR-2026-7](TR-2026-7-TR-2026-7.md) | Décret de remise des frais payés ou à payer pour l’acquisition du statut de résident permanent (Afghanistan) |
+| TR/2026-8 | [TR-2026-8-TR-2026-8](TR-2026-8-TR-2026-8.md) | Décret de remise des frais payés ou à payer pour l’acquisition du statut de résident permanent et pour l’examen d’une demande de parrainage relative aux regroupements familiaux (Soudan) |
+| TR/2026-9 | [TR-2026-9-TR-2026-9](TR-2026-9-TR-2026-9.md) | Décret de remise des frais payés ou à payer pour l’acquisition du statut de résident permanent (certains ressortissants étrangers) |
 | TR/76-31 | [Décret sur les indemnités relatives au gel des tarifs ferroviaires](TR-76-31-décret-sur-les-indemnités-relatives-au-gel-des-tarifs-ferroviaires.md) | Décret approuvant les conditions concernant les indemnités allouées aux compagnies de location de véhicules de transport routier, aux compagnies ferroviaires indépendantes ainsi qu’aux compagnies de transport par eau |
 | TR/76-44 | [TR-76-44-TR-76-44](TR-76-44-TR-76-44.md) | Désignation du Bureau de la coordonnatrice de la situation de la femme comme ministère, le ministre de la Santé nationale et du Bien-être social comme ministre compétent et la coordonnatrice comme sous-chef |
 | TR/77-174 | [TR-77-174-TR-77-174](TR-77-174-TR-77-174.md) | Règles de la Cour d’appel de l’Alberta concernant les appels en matière criminelle |
@@ -4735,6 +4753,7 @@ _4845 documents_
 | TR/94-34 | [TR-94-34-TR-94-34](TR-94-34-TR-94-34.md) | Décret ordonnant que certains documents ne soient plus préparés |
 | TR/94-39 | [Décret de remise des droits pour le recouvrement des coûts de la Commission de contrôle de l’énergie atomique](TR-94-39-décret-de-remise-des-droits-pour-le-recouvrement-des-coûts-de-la-commission-de-c.md) | Décret concernant la remise d’une partie des droits acquittés relativement à certaines activités autorisées par permis aux termes de la Loi sur le contrôle de l’énergie atomique |
 | TR/94-4 | [TR-94-4-TR-94-4](TR-94-4-TR-94-4.md) | Proclamation avisant l’entrée en vigueur le 1^er^ janvier 1994 de l’Accord sur la sécurité sociale entre Jersey, Guernesey et le Canada |
+| TR/94-47 | [TR-94-47-TR-94-47](TR-94-47-TR-94-47.md) | Décret de remise visant les droits fonciers issus de traités (Saskatchewan) |
 | TR/94-47 | [Décret de remise visant les droits fonciers issus de traités (Saskatchewan)](TR-94-47-décret-de-remise-visant-les-droits-fonciers-issus-de-traités-saskatchewan.md) | Décret concernant la remise de la taxe sur les produits et services payée ou payable par certaines bandes indiennes à l’égard des terres achetées aux termes de certains accords sur les droits fonciers issus de traités |
 | TR/94-5 | [TR-94-5-TR-94-5](TR-94-5-TR-94-5.md) | Proclamation avisant l’entrée en vigueur le 1^er^ janvier 1994 de l’Accord sur la sécurité sociale entre le Canada et Antigua et Barbuda |
 | TR/94-56 | [TR-94-56-TR-94-56](TR-94-56-TR-94-56.md) | Arrêté autorisant le ministre des Transports à fixer le prix à payer (communications navire-terre) |

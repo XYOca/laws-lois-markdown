@@ -1197,6 +1197,8 @@ The portion of the cost of any benefit, service or care mentioned herein that is
   bears to
   - (ii) the same income factor that was effective on July 1 of the preceding year.
 
+(4.1) In paragraph (4)(a), **province** means Ontario, Quebec, Nova Scotia, New Brunswick, Manitoba, British Columbia, Prince Edward Island, Saskatchewan, Alberta or Newfoundland and Labrador.
+
 (5) The client’s income for a month is the total of all amounts that are subtracted from the income factor in computing the client’s allowance payable for that month under subsection 4(3), (6), (6.1) or (8), as the case may be, of the *War Veterans Allowance Act*, or that would be so subtracted if the client were a recipient under that Act.
 
 (6) The client’s personal and family exemption amount for any of the 12 months following September 30 of a year is the sum of the following amounts:
@@ -1229,6 +1231,7 @@ The portion of the cost of any benefit, service or care mentioned herein that is
 - SOR/98-386, s. 15; SOR/2001-157, s. 12; SOR/2001-326, ss. 12, 14; SOR/2003-362, s. 11; SOR/2006-50, s. 82; SOR/2012-289, s. 12; SOR/2016-31, s. 11
 - SOR/2018-177, s. 22
 - SOR/2022-69, s. 16
+- 2026, c. 3, s. 374
 
 </details>
 
@@ -1373,3 +1376,9 @@ The *Veterans Health Care Regulations*, as they read immediately before the comi
 ### 16.
 
 Section 15 of the *Veterans Health Care Regulations*, as it read immediately before the day on which these Regulations come into force, continues to apply in respect of any contribution arrangement in effect on that day until the earlier of the day on which the arrangement expires and December 31, 2013.
+
+### — 2026, c. 3, s. 373
+
+### 373
+
+For the period beginning on April 1, 1993 and ending on July 15, 1998, the term “province” in paragraph 20(5)(a), subparagraph 20(6)(b)(i) and paragraphs 23(5)(a) and (6)(a) of the *Veterans Health Care Regulations* is deemed to have referred only to Ontario, Quebec, Nova Scotia, New Brunswick, Manitoba, British Columbia, Prince Edward Island, Saskatchewan, Alberta or Newfoundland and Labrador.

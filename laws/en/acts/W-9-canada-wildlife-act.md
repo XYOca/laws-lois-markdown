@@ -30,9 +30,11 @@ This Act may be cited as the *Canada Wildlife Act*.
 
 (1) In this Act,
 
-**Chief Review Officer** means the review officer appointed as Chief Review Officer under subsection 244(1) of the *Canadian Environmental Protection Act, 1999* and includes any review officer designated under subsection 244(3) of that Act to perform the functions of the Chief Review Officer; (**réviseur-chef**)
+**Chief Review Officer**[Repealed, 2026, c. 3, s. 527]
 
 **conveyance** means a vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods; (**moyen de transport**)
+
+**Environmental Protection Tribunal of Canada** means the Environmental Protection Tribunal of Canada established by subsection 243(1) of the *Canadian Environmental Protection Act, 1999*; (**Tribunal de la protection de l’environnement du Canada**)
 
 **Minister** means the Minister of the Environment or, in respect of any matter related to the Northern Pipeline referred to in the *Northern Pipeline Act*, the member of the Queen’s Privy Council for Canada designated as the Minister for the purposes of that Act; (**ministre**)
 
@@ -67,6 +69,7 @@ This Act may be cited as the *Canada Wildlife Act*.
 
 - R.S., 1985, c. W-9, s. 2; 1994, c. 23, s. 4; 2004, c. 25, s. 114(F); 2009, c. 14, s. 41
 - 2024, c. 30, s. 5
+- 2026, c. 3, s. 527
 
 </details>
 
@@ -498,7 +501,7 @@ For the purpose of sections 11.7 to 11.97 **order** means a compliance order iss
 
 - (f) subject to subsection (4), the duration of the order;
 
-- (g) a statement that a request for a review may be made to the Chief Review Officer; and
+- (g) a statement that a request for a review may be made to the Environmental Protection Tribunal of Canada; and
 
 - (h) the period within which a request for a review may be made.
 
@@ -518,6 +521,7 @@ For the purpose of sections 11.7 to 11.97 **order** means a compliance order iss
 <summary>Historical Note</summary>
 
 - 2009, c. 14, s. 46; 2017, c. 26, s. 63(E)
+- 2026, c. 3, s. 548
 
 </details>
 
@@ -628,22 +632,24 @@ For the purpose of sections 11.7 to 11.97 **order** means a compliance order iss
 
 ### 11.94 Request for review
 
-(1) Any person to whom an order is directed may, by notice in writing given to the Chief Review Officer within 30 days after the day on which the person receives a copy of the written order or after the oral order is given, make a request to the Chief Review Officer for a review of the order.
+(1) Any person to whom an order is directed may, by notice in writing given to the Environmental Protection Tribunal of Canada within 30 days after the day on which the person receives a copy of the written order or after the oral order is given, make a request to the Environmental Protection Tribunal of Canada for a review of the order.
 
 **Extension of period for request**
 
-(2) The Chief Review Officer may extend the period within which a request for a review may be made if, in his or her opinion, it is in the public interest to do so.
+(2) The Chairperson of the Environmental Protection Tribunal of Canada, or any member of the Tribunal that they may designate, may extend the period within which a request for a review may be made if, in their opinion, it is in the public interest to do so.
 
 <details>
 <summary>Historical Note</summary>
 
 - 2009, c. 14, s. 46
+- 2026, c. 3, s. 528
+- 2026, c. 3, s. 548
 
 </details>
 
 ### 11.95 Variation or cancellation of order
 
-(1) At any time before a notice requesting a review of an order is received by the Chief Review Officer, the wildlife officer may, after giving reasonable notice,
+(1) At any time before the Environmental Protection Tribunal of Canada receives a notice requesting a review of an order, the wildlife officer may, after giving reasonable notice,
 
 - (a) amend or suspend a term or condition of the order, or add a term or condition to, or delete a term or condition from, the order;
 
@@ -675,6 +681,7 @@ For the purpose of sections 11.7 to 11.97 **order** means a compliance order iss
 <summary>Historical Note</summary>
 
 - 2009, c. 14, s. 46
+- 2026, c. 3, s. 529
 
 </details>
 

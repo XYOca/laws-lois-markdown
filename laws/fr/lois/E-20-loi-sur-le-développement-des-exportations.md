@@ -629,7 +629,7 @@ L’article 83 de la *Loi sur l’évaluation d’impact* ne s’applique pas da
 
 - b) ils sont destinés aux poursuites intentées en vertu de la présente loi ou de toute autre loi fédérale;
 
-- c) ils sont destinés au ministre du Revenu national uniquement pour l’administration ou l’application de la *Loi sur la taxe d’accise*, de la *Loi de l’impôt sur le revenu*, de la *Loi sur la taxe sur certains biens de luxe*, de la *Loi sur la taxe sur les services numériques* ou de la *Loi sur l’impôt minimum mondial*;
+- c) ils sont destinés au ministre du Revenu national uniquement pour l’administration ou l’application de la *Loi sur la taxe d’accise*, de la *Loi de l’impôt sur le revenu*, de la *Loi sur la taxe sur certains biens de luxe* ou de la *Loi sur l’impôt minimum mondial*;
 
 - d) ils sont communiqués avec le consentement écrit de la personne à laquelle ils se rapportent.
 
@@ -641,6 +641,7 @@ L’article 83 de la *Loi sur l’évaluation d’impact* ne s’applique pas da
 - 2024, ch. 15, art. 107
 - 2024, ch. 17, art. 91
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 138
 
 </details>
 

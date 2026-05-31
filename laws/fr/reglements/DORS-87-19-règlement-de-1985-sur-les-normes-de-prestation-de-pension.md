@@ -2659,3 +2659,24 @@ La mention de « passif non capitalisé » dans le présent règlement vaut me
 ### 30.
 
 Le présent règlement ne s’applique pas au régime capitalisé en application du *Règlement sur la capitalisation du déficit de solvabilité du régime de retraite de la Presse canadienne*.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — DORS/2026-62, art. 1
+
+### 1
+
+Le titre intégral du *Règlement de 1985 sur les normes de prestation de pension*[^] est remplacé par ce qui suit :
+
+### — DORS/2026-62, art. 2
+
+### 2
+
+L’article 1 du même règlement et l’intertitre le précédant sont abrogés.
+
+### — DORS/2026-62, art. 3
+
+### 3
+
+Le même règlement est modifié par adjonction, après l’article 10, de ce qui suit :

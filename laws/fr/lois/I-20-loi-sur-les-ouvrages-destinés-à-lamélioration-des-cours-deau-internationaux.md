@@ -42,12 +42,15 @@ Les définitions qui suivent s’appliquent à la présente loi.
   - a) d’une part, à augmenter, diminuer ou changer le débit naturel du cours d’eau international;
   - b) d’autre part, à déranger, modifier ou influencer l’utilisation effective ou virtuelle du cours d’eau international hors du Canada. (**international river improvement**)
 
-**réviseur-chef** Réviseur nommé à titre de réviseur-chef en vertu du paragraphe 244(1) de la *Loi canadienne sur la protection de l’environnement (1999)* ainsi que tout réviseur désigné en application du paragraphe 244(3) de cette loi pour exercer les fonctions de réviseur-chef.  (**Chief Review Officer**)
+**réviseur-chef**[Abrogée, 2026, ch. 3, art. 523]
+
+**Tribunal de la protection de l’environnement du Canada** Le Tribunal de la protection de l’environnement du Canada, constitué par le paragraphe 243(1) de la *Loi canadienne sur la protection de l’environnement (1999)*. (**Environmental Protection Tribunal of Canada**)
 
 <details>
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. I-20, art. 2; 2009, ch. 14, art. 89; 2013, ch. 12, art. 13
+- 2026, ch. 3, art. 523
 
 </details>
 
@@ -458,7 +461,7 @@ Pour l’application des articles 21 à 30, **ordre** s’entend de l’ordre do
 
 - f) sous réserve du paragraphe (4), la durée de sa validité;
 
-- g) le fait qu’une révision peut être demandée au réviseur-chef;
+- g) le fait qu’une révision peut être demandée au Tribunal de la protection de l’environnement du Canada;
 
 - h) le délai pour faire la demande de révision.
 
@@ -478,6 +481,7 @@ Pour l’application des articles 21 à 30, **ordre** s’entend de l’ordre do
 <summary>Historical Note</summary>
 
 - 2009, ch. 14, art. 93; 2017, ch. 26, art. 63(A)
+- 2026, ch. 3, art. 548
 
 </details>
 
@@ -584,22 +588,24 @@ Pour l’application des articles 21 à 30, **ordre** s’entend de l’ordre do
 
 ### 27 Demande de révision
 
-(1) Toute personne à qui l’ordre est adressé peut en demander la révision au réviseur-chef par avis écrit dans les trente jours suivant la date où elle en reçoit la copie ou celle où il lui est donné oralement.
+(1) Toute personne à qui l’ordre est adressé peut en demander la révision au Tribunal de la protection de l’environnement du Canada par avis écrit dans les trente jours suivant la date où elle en reçoit la copie ou celle où il lui est donné oralement.
 
 **Prorogation du délai pour faire la demande**
 
-(2) Le réviseur-chef peut proroger le délai dans lequel la demande de révision peut être faite s’il estime qu’il est dans l’intérêt public de le faire.
+(2) Le président du Tribunal de la protection de l’environnement du Canada ou le membre du Tribunal qu’il désigne peut proroger le délai dans lequel la demande de révision peut être faite s’il estime qu’il est dans l’intérêt public de le faire.
 
 <details>
 <summary>Historical Note</summary>
 
 - 2009, ch. 14, art. 93
+- 2026, ch. 3, art. 524
+- 2026, ch. 3, art. 548
 
 </details>
 
 ### 28 Modification de l’ordre
 
-(1) Tant que le réviseur-chef n’est pas saisi d’une demande de révision de l’ordre, l’agent de l’autorité peut, pourvu qu’il donne un préavis suffisant, prendre les mesures suivantes :
+(1) Tant que le Tribunal de la protection de l’environnement du Canada n’est pas saisi d’une demande de révision de l’ordre, l’agent de l’autorité peut, pourvu qu’il donne un préavis suffisant, prendre les mesures suivantes :
 
 - a) modifier, suspendre ou supprimer une condition de l’ordre ou y en ajouter une;
 
@@ -627,6 +633,7 @@ Pour l’application des articles 21 à 30, **ordre** s’entend de l’ordre do
 <summary>Historical Note</summary>
 
 - 2009, ch. 14, art. 93
+- 2026, ch. 3, art. 525
 
 </details>
 

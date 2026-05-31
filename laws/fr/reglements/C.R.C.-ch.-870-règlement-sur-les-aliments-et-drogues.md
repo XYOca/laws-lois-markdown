@@ -28817,3 +28817,9 @@ L’article 6 du tableau II de l’article C.01A.008 du même règlement est rem
 (1) Le passage de l’article C.09.001 de la version française du même règlement précédant l’alinéa a) est remplacé par ce qui suit :
 
 (2) Les alinéas C.09.001a) et b) du même règlement sont remplacés par ce qui suit :
+
+### — DORS/2026-72, art. 1
+
+### 1
+
+La partie III de l’annexe de la partie J du *Règlement sur les aliments et drogues*[^] est modifiée par adjonction de ce qui suit :

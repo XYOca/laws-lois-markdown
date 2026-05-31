@@ -1451,3 +1451,18 @@ Tout premier règlement pris en vertu des articles 3, 6 ou 12 de la *Loi sur les
 ### 22 Liste des pays désignés (armes automatiques)
 
 Les pays figurant sur la liste des pays désignés (armes automatiques), au sens du paragraphe 2(1) de la *Loi sur les licences d’exportation et d’importation*, avant la date d’entrée en vigueur de l’article 5 de la présente loi, sont réputés, à cette date, y avoir été inscrits en vertu de l’article 4.1 de la *Loi sur les licences d’exportation et d’importation*, tel qu’il a été édicté par cet article 5.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 3, art. 460
+
+### 460
+
+Le paragraphe 3(1) de la *Loi sur les licences d’exportation et d’importation* est modifié par adjonction, après l’alinéa g), de ce qui suit :
+
+### — 2026, ch. 3, art. 461
+
+### 461
+
+Le paragraphe 5(1) de la même loi est modifié par adjonction, après l’alinéa f), de ce qui suit :

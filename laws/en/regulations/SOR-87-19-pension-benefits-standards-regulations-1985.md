@@ -2660,3 +2660,24 @@ A reference to an “unfunded liability” in these Regulations includes a refer
 ### 30.
 
 These Regulations do not apply to a plan to which the *Canadian Press Pension Plan Solvency Deficiency Funding Regulations* apply.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — SOR/2026-62, s. 1
+
+### 1
+
+The long title of the *Pension Benefits Standards Regulations, 1985*[^] is replaced by the following:
+
+### — SOR/2026-62, s. 2
+
+### 2
+
+Section 1 of the Regulations and the heading before it are repealed.
+
+### — SOR/2026-62, s. 3
+
+### 3
+
+The Regulations are amended by adding the following after section 10:

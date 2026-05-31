@@ -4982,24 +4982,3 @@ Pour l’application des dispositions de la *Loi sur les douanes* et de la *Loi 
 ### 67
 
 Pour l’application des dispositions de la *Loi sur les douanes* et de la *Loi sur l’accise* qui prévoient le paiement d’intérêts, ou l’obligation d’en payer, relativement à une somme, cette somme est déterminée et les intérêts sont calculés comme si les articles 44 et 58 à 63 et les paragraphes 64(1) et 65(1) avaient été sanctionnés le 23 mars 2017.
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-### — 2024, ch. 17, par. 114(2)
-
-### 114
-
-(2) Aux alinéas 1a) à c) de la partie II.1 de l’annexe de la même loi, modifiés par le paragraphe (1), « 5 % » est remplacé par « 10 % ».
-
-### — 2024, ch. 17, par. 115(2)
-
-### 115
-
-(2) Aux alinéas 2a) à c) de la partie II.1 de l’annexe de la même loi, modifiés par le paragraphe (1), « 10 % » est remplacé par « 20 % ».
-
-### — 2024, ch. 17, par. 116(2)
-
-### 116
-
-(2) Aux alinéas 3a) à c) de la partie II.1 de l’annexe de la même loi, modifiés par le paragraphe (1), « 20 % » est remplacé par « 40 % ».

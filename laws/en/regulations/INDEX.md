@@ -1,6 +1,6 @@
 # Federal Regulations
 
-_4845 documents_
+_4864 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -8,6 +8,7 @@ _4845 documents_
 | 2018, c. 12, s. 187 | [2018-c.-12-s.-187-SOR-2018-12187](2018-c.-12-s.-187-SOR-2018-12187.md) | Fuel Charge Regulations |
 | 2022, c. 19, s. 116 | [2022-c.-19-s.-116-SOR-2022-19116](2022-c.-19-s.-116-SOR-2022-19116.md) | Underused Housing Tax Regulations |
 | 2024, c. 15, s. 97 | [2024-c.-15-s.-97-SOR-2024-1597](2024-c.-15-s.-97-SOR-2024-1597.md) | Digital Services Tax Regulations |
+| 2026, c. 3, s. 175 | [2026-c.-3-s.-175-SOR-2026-3175](2026-c.-3-s.-175-SOR-2026-3175.md) | Select Luxury Items Tax Regulations |
 | C.R.C. 1955, p. 2561 | [Post Office Savings Bank Regulations](C.R.C.-1955-p.-2561-post-office-savings-bank-regulations.md) | The Post Office Savings Bank Regulations |
 | C.R.C., c. 10 | [Flying Accidents Compensation Regulations](C.R.C.-c.-10-flying-accidents-compensation-regulations.md) | Regulations Prescribing Compensation for Bodily Injury or Death Resulting from Flights Undertaken in the Course of Duty |
 | C.R.C., c. 100 | [Ottawa International Airport Zoning Regulations](C.R.C.-c.-100-ottawa-international-airport-zoning-regulations.md) | Regulations Respecting Zoning at Ottawa International Airport |
@@ -1371,6 +1372,7 @@ _4845 documents_
 | SI/2025-54 | [SI-2025-54-SI-2025-54](SI-2025-54-SI-2025-54.md) | Order Designating the Leader of the Government in the House of Commons as the Minister for the Purposes of the Electoral Boundaries Readjustment Suspension Act, 1994 |
 | SI/2025-55 | [SI-2025-55-SI-2025-55](SI-2025-55-SI-2025-55.md) | Order Designating the Leader of the Government in the House of Commons as the Minister for the Purposes of the Electoral Boundaries Readjustment Act |
 | SI/2025-60 | [SI-2025-60-SI-2025-60](SI-2025-60-SI-2025-60.md) | United States Surtax Remission Order (Motor Vehicles 2025) |
+| SI/2025-7 | [SI-2025-7-SI-2025-7](SI-2025-7-SI-2025-7.md) | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Afghanistan) Remission Order |
 | SI/2025-74 | [SI-2025-74-SI-2025-74](SI-2025-74-SI-2025-74.md) | Order Designating the Department of Public Safety and Emergency Preparedness to Provide Support to the Minister of Emergency Management and Community Resilience |
 | SI/2025-75 | [SI-2025-75-SI-2025-75](SI-2025-75-SI-2025-75.md) | Order Designating the Department of Industry and the Department of Canadian Heritage to Provide Support to the Minister of Artificial Intelligence and Digital Innovation |
 | SI/2025-76 | [SI-2025-76-SI-2025-76](SI-2025-76-SI-2025-76.md) | Order Transferring from the Minister of Industry to the Minister of Employment and Social Development the Powers, Duties and Functions in Relation to the Federal Economic Development Agency for Northern Ontario |
@@ -1389,8 +1391,19 @@ _4845 documents_
 | SI/2025-92 | [SI-2025-92-SI-2025-92](SI-2025-92-SI-2025-92.md) | Order Designating the Minister of Infrastructure and Communities as the Appropriate Minister for the Canada Lands Company Limited for the Purposes of the Financial Administration Act |
 | SI/2025-96 | [SI-2025-96-SI-2025-96](SI-2025-96-SI-2025-96.md) | Order Transferring from the Department of Fisheries and Oceans to the Department of National Defence the Control and Supervision of the Canadian Coast Guard and the Canadian Coast Guard Support Services Group |
 | SI/2026-1 | [SI-2026-1-SI-2026-1](SI-2026-1-SI-2026-1.md) | Remission Order for Certain Fees Under the Passport and Other Travel Document Services Fees Regulations |
+| SI/2026-10 | [SI-2026-10-SI-2026-10](SI-2026-10-SI-2026-10.md) | Fees Paid or Payable for the Processing of an Application for Permanent Resident Status (Humanitarian and Compassionate Considerations) Remission Order, No. 1 |
+| SI/2026-11 | [SI-2026-11-SI-2026-11](SI-2026-11-SI-2026-11.md) | Fees Paid or Payable for the Processing of an Application for Permanent Resident Status (Humanitarian and Compassionate Considerations) Remission Order, No. 2 |
+| SI/2026-12 | [SI-2026-12-SI-2026-12](SI-2026-12-SI-2026-12.md) | Adjustment of Certain Fees Under the Passport and Other Travel Document Services Fees Regulations Remission Order |
+| SI/2026-13 | [SI-2026-13-SI-2026-13](SI-2026-13-SI-2026-13.md) | United States Surtax Remission Order (Motor Vehicles 2026) |
+| SI/2026-15 | [SI-2026-15-SI-2026-15](SI-2026-15-SI-2026-15.md) | Order Designating the Minister of Employment and Social Development to be the Minister for the Purposes of the Canadian Sustainable Jobs Act |
+| SI/2026-16 | [SI-2026-16-SI-2026-16](SI-2026-16-SI-2026-16.md) | Order Designating the Minister of Natural Resources to be a Specified Minister for the Purposes of the Canadian Sustainable Jobs Act |
+| SI/2026-17 | [SI-2026-17-SI-2026-17](SI-2026-17-SI-2026-17.md) | Order Transferring from the Department of Natural Resources to the Department of Employment and Social Development the Control and Supervision of the Sustainable Jobs Secretariat |
 | SI/2026-2 | [SI-2026-2-SI-2026-2](SI-2026-2-SI-2026-2.md) | Consular Services Fees (Performance Standards) Remission Order |
 | SI/2026-3 | [SI-2026-3-SI-2026-3](SI-2026-3-SI-2026-3.md) | Order Acknowledging Receipt of the Assessments Done Under Subsection 23(1) of the Species at Risk Act (American Marten, Newfoundland Population and Six Other Wildlife Species) |
+| SI/2026-5 | [SI-2026-5-SI-2026-5](SI-2026-5-SI-2026-5.md) | Order Transferring from the Department of Transport to the Department of National Defence the Control and Supervision of the Aircraft Services Directorate |
+| SI/2026-7 | [SI-2026-7-SI-2026-7](SI-2026-7-SI-2026-7.md) | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Afghanistan) Remission Order |
+| SI/2026-8 | [SI-2026-8-SI-2026-8](SI-2026-8-SI-2026-8.md) | Fees Paid or Payable for the Acquisition of Permanent Resident Status and for the Processing of a Sponsorship Application for Family Classes (Sudan) Remission Order |
+| SI/2026-9 | [SI-2026-9-SI-2026-9](SI-2026-9-SI-2026-9.md) | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Certain Foreign Nationals) Remission Order |
 | SI/76-31 | [Rail Rate Freeze Compensatory Payments Order](SI-76-31-rail-rate-freeze-compensatory-payments-order.md) | Order Prescribing Terms and Conditions Respecting Compensatory Payments for For-Hire Highway Transportation Companies, Non-Federally Regulated Railway Companies and Water Transportation Companies |
 | SI/76-44 | [SI-76-44-SI-76-44](SI-76-44-SI-76-44.md) | Designating the Office of the Co-ordinator, Status of Women as a Department, the Minister of National Health and Welfare as Appropriate Minister and the Co-ordinator as Deputy Head |
 | SI/77-174 | [SI-77-174-SI-77-174](SI-77-174-SI-77-174.md) | Rules of the Court of Appeal of Alberta as to Criminal Appeals |
@@ -1694,6 +1707,7 @@ _4845 documents_
 | SI/94-34 | [SI-94-34-SI-94-34](SI-94-34-SI-94-34.md) | Order Directing that Certain Documents be Discontinued |
 | SI/94-39 | [Atomic Energy Control Board Cost Recovery Fees Remission Order](SI-94-39-atomic-energy-control-board-cost-recovery-fees-remission-order.md) | Order Respecting the Remission of a Portion of Certain Fees Paid in Respect of Certain Licensed Activities Under the Atomic Energy Control Act |
 | SI/94-4 | [SI-94-4-SI-94-4](SI-94-4-SI-94-4.md) | Proclamation Declaring the Agreement on Social Security Between Jersey, Guernsey and Canada in Force January 1, 1994 |
+| SI/94-47 | [SI-94-47-SI-94-47](SI-94-47-SI-94-47.md) | Treaty Land Entitlement (Saskatchewan) Remission Order |
 | SI/94-47 | [Treaty Land Entitlement (Saskatchewan) Remission Order](SI-94-47-treaty-land-entitlement-saskatchewan-remission-order.md) | Order Respecting the Remission of the Goods and Services Tax Paid or Payable by Certain Indian Bands in Respect of Land Purchased Pursuant to Certain Treaty Land Entitlement Agreements |
 | SI/94-5 | [SI-94-5-SI-94-5](SI-94-5-SI-94-5.md) | Proclamation Declaring the Agreement on Social Security Between Canada and Antigua and Barbuda in Force January 1, 1994 |
 | SI/94-56 | [SI-94-56-SI-94-56](SI-94-56-SI-94-56.md) | Order Authorizing the Minister of Transport to Prescribe Fees (Ship/Shore Communications Services) |
@@ -3445,6 +3459,11 @@ _4845 documents_
 | SOR/2026-34 | [SOR-2026-34-SOR-2026-34](SOR-2026-34-SOR-2026-34.md) | Steel Derivative Goods Surtax Remission Order |
 | SOR/2026-4 | [SOR-2026-4-SOR-2026-4](SOR-2026-4-SOR-2026-4.md) | Critical Habitat of the Silver Chub (Macrhybopsis storeriana) Great Lakes – Upper St. Lawrence Populations Order |
 | SOR/2026-48 | [SOR-2026-48-SOR-2026-48](SOR-2026-48-SOR-2026-48.md) | Order Extending the Application of the Freezing Assets of Corrupt Foreign Officials (Tunisia) Regulations |
+| SOR/2026-56 | [SOR-2026-56-SOR-2026-56](SOR-2026-56-SOR-2026-56.md) | Critical Habitat of the Plains Minnow (Hybognathus placitus) Order |
+| SOR/2026-57 | [SOR-2026-57-SOR-2026-57](SOR-2026-57-SOR-2026-57.md) | Order Designating the Qikiqtait Marine Protected Area |
+| SOR/2026-58 | [SOR-2026-58-SOR-2026-58](SOR-2026-58-SOR-2026-58.md) | Order Designating the Sarvarjuaq Marine Protected Area |
+| SOR/2026-67 | [SOR-2026-67-SOR-2026-67](SOR-2026-67-SOR-2026-67.md) | Proclamation Designating the Republic of the Philippines as a Designated State for the Purposes of the Visiting Forces Act |
+| SOR/2026-68 | [SOR-2026-68-SOR-2026-68](SOR-2026-68-SOR-2026-68.md) | College of Immigration and Citizenship Consultants Regulations |
 | SOR/49-42 | [Regulations re school fees and transportation costs for children of certain Government employees](SOR-49-42-regulations-re-school-fees-and-transportation-costs-for-children-of-certain-gove.md) | Regulations Governing Payment of School Fees and Transportation Costs Re Children of Certain Employees of the Government of Canada |
 | SOR/51-84 | [SOR-51-84-SOR-51-84](SOR-51-84-SOR-51-84.md) | Application of Defence Services Pension Act to Special Force |
 | SOR/54-578 | [War Claims Regulations](SOR-54-578-war-claims-regulations.md) |  |

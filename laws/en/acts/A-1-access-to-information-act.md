@@ -3844,7 +3844,7 @@ This Act is binding on Her Majesty in right of Canada.
 
 | Act | Provision |
 | --- | --- |
-| Aeronautics ActLoi sur l’aéronautique | subsections 4.79(1), 6.5(5), 22(2) and 24.2(4) |
+| Aeronautics ActLoi sur l’aéronautique | subsection 4.79(1), section 5.32 and subsections 6.5(5), 22(2) and 24.2(4) |
 | Anti-Inflation Act, S.C. 1974-75-76, c. 75Loi anti-inflation, S.C. 1974-75-76, ch. 75 | section 14 |
 | Broadcasting ActLoi sur la radiodiffusion | subsection 25.3(2) |
 | Business Development Bank of Canada ActLoi sur la Banque de développement du Canada | section 37 |
@@ -3866,13 +3866,13 @@ This Act is binding on Her Majesty in right of Canada.
 | Canadian Security Intelligence Service ActLoi sur le Service canadien du renseignement de sécurité | sections 18 and 18.1 |
 | Canadian Transportation Accident Investigation and Safety Board ActLoi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports | subsections 28(2) and 31(4) |
 | Competition ActLoi sur la concurrence | subsections 29(1), 29.1(5) and 29.2(5) |
+| Consumer-Driven Banking ActLoi sur les services bancaires axés sur les consommateurs | sections 131 and 132 |
 | Corporations and Labour Unions Returns ActLoi sur les déclarations des personnes morales et des syndicats | section 18 |
 | Criminal CodeCode criminel | sections 187, 193 and 487.3 |
 | Criminal Records ActLoi sur le casier judiciaire | subsection 6(2) and section 9 |
 | Customs ActLoi sur les douanes | sections 107 and 107.1 |
 | Defence Production ActLoi sur la production de défense | section 30 |
 | Department of Industry ActLoi sur le ministère de l’Industrie | subsection 16(2) |
-| Digital Services Tax ActLoi sur la taxe sur les services numériques | section 108 |
 | DNA Identification ActLoi sur l’identification par les empreintes génétiques | section 6.6 |
 | Energy Administration ActLoi sur l’administration de l’énergie | section 98 |
 | Energy Efficiency ActLoi sur l’efficacité énergétique | section 23 |
@@ -3886,6 +3886,7 @@ This Act is binding on Her Majesty in right of Canada.
 | Global Minimum Tax ActLoi sur l’impôt minimum mondial | section 121 |
 | Greenhouse Gas Pollution Pricing ActLoi sur la tarification de la pollution causée par les gaz à effet de serre | section 107 and subsection 255(3) |
 | Hazardous Products ActLoi sur les produits dangereux | section 12 |
+| High Speed-Rail Network ActLoi sur le réseau ferroviaire à grande vitesse | subsections 25(1) and (2) |
 | Impact Assessment ActLoi sur l’évaluation d’impact | section 30, subsections 53(4) and (5), section 57 and subsections 119(1) and (2) and 141(4) |
 | Income Tax ActLoi de l’impôt sur le revenu | section 241 |
 | Industrial Design ActLoi sur les dessins industriels | subsections 8.3(2) and (5) |
@@ -3900,7 +3901,7 @@ This Act is binding on Her Majesty in right of Canada.
 | Patent ActLoi sur les brevets | section 10, subsection 20(7), and sections 87 and 88 |
 | Personal Information Protection and Electronic Documents ActLoi sur la protection des renseignements personnels et les documents électroniques | subsection 20(1.1) |
 | Petroleum Incentives Program ActLoi sur le programme d’encouragement du secteur pétrolier | section 17 |
-| Proceeds of Crime (Money Laundering) and Terrorist Financing ActLoi sur le recyclage des produits de la criminalité et le financement des activités terroristes | paragraphs 55(1)(a), (d) and (e) |
+| Proceeds of Crime (Money Laundering) and Terrorist Financing ActLoi sur le recyclage des produits de la criminalité et le financement des activités terroristes | subsection 9.11(1) and paragraphs 55(1)(a), (d) and (e) |
 | Railway Safety ActLoi sur la sécurité ferroviaire | subsection 39.2(1) |
 | Royal Canadian Mounted Police ActLoi sur la Gendarmerie royale du Canada | subsection 45.47(1) |
 | Select Luxury Items Tax ActLoi sur la taxe sur certains biens de luxe | section 91 |
@@ -3935,6 +3936,11 @@ This Act is binding on Her Majesty in right of Canada.
 - 2024, c. 17, s. 82
 - 2024, c. 20, s. 214
 - 2024, c. 20, s. 216
+- 2026, c. 3, s. 129
+- 2026, c. 3, s. 193
+- 2026, c. 3, s. 225
+- 2026, c. 3, s. 497
+- 2026, c. 3, s. 586
 
 </details>
 
@@ -4178,3 +4184,19 @@ and the corresponding reference to “subsection 45.47(1)”.
 Schedule II to the Act is amended by adding, in alphabetical order, a reference to
 
 and a corresponding reference to “subsection 25(1)”.
+
+### — 2026, c. 3, s. 387
+
+### 387
+
+Schedule II to the *Access to Information Act* is amended by adding, in alphabetical order, a reference to
+
+and a corresponding reference to “section 21”.
+
+### — 2026, c. 3, s. 601
+
+### 601
+
+Schedule II to the *Access to Information Act* is amended by adding, in alphabetical order, a reference to
+
+and a corresponding reference to “sections 55 and 56”.

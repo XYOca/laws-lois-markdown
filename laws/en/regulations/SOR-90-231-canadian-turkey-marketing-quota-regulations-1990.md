@@ -147,15 +147,15 @@ A Commodity Board shall provide the Agency with such information concerning fede
 |  | Column 1 | Column 2 |
 | Item | Province | Pounds of Turkey |
 | --- | --- | --- |
-| 1 | Ontario | 173,643,800 |
-| 2 | Quebec | 71,251,997 |
-| 3 | Nova Scotia | 9,283,405 |
-| 4 | New Brunswick | 7,381,943 |
-| 5 | Manitoba | 28,445,317 |
-| 6 | British Columbia | 40,322,180 |
-| 7 | Saskatchewan | 11,164,813 |
-| 8 | Alberta | 30,458,445 |
-| TOTAL |  | 371,951,900 |
+| 1 | Ontario | 186,650,107 |
+| 2 | Quebec | 77,802,532 |
+| 3 | Nova Scotia | 9,603,025 |
+| 4 | New Brunswick | 7,649,728 |
+| 5 | Manitoba | 30,774,752 |
+| 6 | British Columbia | 41,774,616 |
+| 7 | Saskatchewan | 11,443,438 |
+| 8 | Alberta | 31,505,925 |
+| TOTAL |  | 397,204,123 |
 
 <details>
 <summary>Historical Note</summary>
@@ -182,5 +182,6 @@ A Commodity Board shall provide the Agency with such information concerning fede
 - SOR/2025-187, s. 1
 - SOR/2025-249, s. 1
 - SOR/2026-3, s. 1
+- SOR/2026-65, s. 1
 
 </details>

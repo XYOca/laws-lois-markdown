@@ -19557,7 +19557,7 @@ Il est entendu que, sous réserve de l’article 241 de la *Loi de l’impôt su
 
 - b) désignation de la personne visée par les renseignements ou les documents demandés;
 
-- c) désignation du genre de renseignements ou de documents — livre, dossier, texte, rapport ou autre document — qu’a obtenus le ministre du Revenu national — ou qui ont été obtenus en son nom — dans le cadre de l’application de la partie IX de la *Loi sur la taxe d’accise*, de la *Loi de l’impôt sur le revenu*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe*, de la *Loi sur la taxe sur les services numériques* ou de la *Loi sur l’impôt minimum mondial* et dont la communication ou l’examen est demandé;
+- c) désignation du genre de renseignements ou de documents — livre, dossier, texte, rapport ou autre document — qu’a obtenus le ministre du Revenu national — ou qui ont été obtenus en son nom — dans le cadre de l’application de la partie IX de la *Loi sur la taxe d’accise*, de la *Loi de l’impôt sur le revenu*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe* ou de la *Loi sur l’impôt minimum mondial* et dont la communication ou l’examen est demandé;
 
 - d) les faits à l’origine des motifs raisonnables de croire que la personne mentionnée à l’alinéa b) a commis une infraction visée au paragraphe (1.1) — ou en a bénéficié — et que les renseignements ou documents demandés ont vraisemblablement une valeur importante, en soi ou avec d’autres éléments, pour l’enquête mentionnée dans la demande.
 
@@ -19648,6 +19648,7 @@ L’ordonnance est valide pour la période que précise le juge; elle ne peut to
 - 2024, ch. 17, art. 84
 - 2024, ch. 17, art. 111
 - 2024, ch. 17, art. 372(F)
+- 2026, ch. 3, art. 131
 
 </details>
 

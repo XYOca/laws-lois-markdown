@@ -4386,7 +4386,7 @@ Lorsqu’il est difficile, en raison des circonstances, de déterminer le montan
 
 ### 77 Restriction
 
-Un montant n’est remboursé à une personne, et un crédit ne lui est accordé, en vertu de la présente loi qu’une fois présentés au ministre l’ensemble des déclarations et autres registres dont il a connaissance et qui sont à produire en vertu de la *Loi sur la taxe d’accise*, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe*, de la *Loi sur la taxe sur les services numériques* et de la *Loi sur l’impôt minimum mondial*.
+Un montant n’est remboursé à une personne, et un crédit ne lui est accordé, en vertu de la présente loi qu’une fois présentés au ministre l’ensemble des déclarations et autres registres dont il a connaissance et qui sont à produire en vertu de la *Loi sur la taxe d’accise*, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe* et de la *Loi sur l’impôt minimum mondial*.
 
 <details>
 <summary>Historical Note</summary>
@@ -4399,6 +4399,7 @@ Un montant n’est remboursé à une personne, et un crédit ne lui est accordé
 - 2024, ch. 15, art. 101
 - 2024, ch. 17, art. 85
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 132
 
 </details>
 
@@ -12638,7 +12639,7 @@ Bla fraction de taxe de la valeur du bon.
 
 **Rachat**
 
-(5) Pour l’application de la présente partie, lorsqu’un fournisseur qui est un inscrit accepte, en contrepartie, même partielle, de la fourniture taxable d’un bien ou d’un service, un bon qui est échangeable contre le bien ou le service ou qui permet à l’acquéreur de bénéficier d’une réduction ou d’un rabais sur le prix du bien ou du service, et qu’une autre personne verse dans le cadre de ses activités commerciales un montant au fournisseur pour racheter le bon, les règles suivantes s’appliquent :
+(5) Pour l’application de la présente partie, lorsqu’un fournisseur qui est un inscrit accepte, en contrepartie, même partielle, de la fourniture taxable d’un bien ou d’un service, un bon qui est échangeable contre le bien ou le service ou qui permet à l’acquéreur de bénéficier d’une réduction ou d’un rabais sur le prix du bien ou du service, et qu’une autre personne verse exclusivement dans le cadre de ses activités commerciales un montant au fournisseur pour racheter le bon, les règles suivantes s’appliquent :
 
 - a) le montant est réputé ne pas être la contrepartie d’une fourniture;
 
@@ -12646,11 +12647,20 @@ Bla fraction de taxe de la valeur du bon.
 
 - c) lorsque la fourniture n’est pas une fourniture détaxée et que le bon permet à l’acquéreur de bénéficier d’une réduction sur le prix du bien ou du service égale au montant fixe indiqué sur le bon (appelé « valeur du bon » au présent alinéa), l’autre personne, si elle est un inscrit (sauf un inscrit visé par règlement pour l’application du paragraphe 188(5)) au moment du versement, peut demander, pour sa période de déclaration qui comprend ce moment, un crédit de taxe sur les intrants égal à la fraction de taxe de la valeur du bon, sauf si tout ou partie de cette valeur représente le montant d’un redressement, d’un remboursement ou d’un crédit auquel s’applique le paragraphe 232(3).
 
+**Rachat – activités commerciales**
+
+(6) Pour l’application du paragraphe (5), un versement est effectué par une personne exclusivement dans le cadre de ses activités commerciales seulement si, selon le cas :
+
+- a) la personne n’est pas une institution financière et la totalité ou la presque totalité des activités dans le cadre desquelles le versement est effectué sont des activités commerciales;
+
+- b) la personne est une institution financière et la totalité des activités dans le cadre desquelles le versement est effectué sont des activités commerciales.
+
 <details>
 <summary>Historical Note</summary>
 
 - [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.]
 - 1990, ch. 45, art. 12; 1993, ch. 27, art. 46; 1994, ch. 9, art. 10; 1997, ch. 10, art. 174; 2000, ch. 30, art. 33; 2006, ch. 4, art. 7
+- 2026, ch. 3, art. 159
 
 </details>
 
@@ -13686,7 +13696,7 @@ les présomptions suivantes s’appliquent jusqu’à ce que l’immeuble soit f
 
 **Achèvement des travaux**
 
-(9) Pour l’application du présent article, la construction ou les rénovations majeures d’un immeuble d’habitation à logements multiples ou d’un immeuble d’habitation en copropriété, ou la construction d’une adjonction à un immeuble d’habitation à logements multiples, sont réputées être achevées en grande partie au plus tard le jour où la totalité, ou presque, des logements de l’immeuble ou de l’adjonction sont occupés après le début des travaux.
+(9) Pour l’application du présent article, du paragraphe 256.2(3.1) et du *Règlement sur les immeubles (TPS/TVH)*, la construction ou les rénovations majeures d’un immeuble d’habitation à logements multiples ou d’un immeuble d’habitation en copropriété, ou la construction d’une adjonction à un immeuble d’habitation à logements multiples, sont réputées être achevées en grande partie au plus tard le jour où la totalité, ou presque, des habitations de l’immeuble ou de l’adjonction sont occupées après le début des travaux.
 
 **Transfert de possession attribué au constructeur**
 
@@ -13705,6 +13715,7 @@ le constructeur est réputé, au moment de ce transfert, transférer la possessi
 
 - [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.]
 - 1990, ch. 45, art. 12; 1993, ch. 27, art. 56 et 204(F); 1997, ch. 10, art. 37; 2000, ch. 12, art. 113, ch. 30, art. 40; 2008, ch. 28, art. 73
+- 2026, ch. 3, art. 160
 
 </details>
 
@@ -17313,7 +17324,7 @@ Ble montant qu’elle demande à titre de remboursement de taxe nette provisoire
 
 **Restriction**
 
-(2) Le remboursement de taxe nette pour la période de déclaration d’une personne ne lui est versé en vertu du paragraphe (1) à un moment donné que si toutes les déclarations dont le ministre a connaissance et que la personne avait à produire au plus tard à ce moment en application de la présente loi, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe*, de la *Loi sur la taxe sur les services numériques* et de la *Loi sur l’impôt minimum mondial* ont été présentées au ministre.
+(2) Le remboursement de taxe nette pour la période de déclaration d’une personne ne lui est versé en vertu du paragraphe (1) à un moment donné que si toutes les déclarations dont le ministre a connaissance et que la personne avait à produire au plus tard à ce moment en application de la présente loi, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe* et de la *Loi sur l’impôt minimum mondial* ont été présentées au ministre.
 
 **Restriction**
 
@@ -17336,6 +17347,7 @@ Ble montant qu’elle demande à titre de remboursement de taxe nette provisoire
 - 2024, ch. 15, art. 102
 - 2024, ch. 17, art. 86
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 133
 
 </details>
 
@@ -17345,7 +17357,7 @@ Ble montant qu’elle demande à titre de remboursement de taxe nette provisoire
 
 **Restriction**
 
-(2) Un montant payé au titre de la taxe nette d’une personne pour sa période de déclaration ne lui est remboursé en vertu du paragraphe (1) à un moment donné que si toutes les déclarations dont le ministre a connaissance et que la personne avait à produire au plus tard à ce moment en application de la présente loi, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe*, de la *Loi sur la taxe sur les services numériques* et de la *Loi sur l’impôt minimum mondial* ont été présentées au ministre.
+(2) Un montant payé au titre de la taxe nette d’une personne pour sa période de déclaration ne lui est remboursé en vertu du paragraphe (1) à un moment donné que si toutes les déclarations dont le ministre a connaissance et que la personne avait à produire au plus tard à ce moment en application de la présente loi, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe* et de la *Loi sur l’impôt minimum mondial* ont été présentées au ministre.
 
 **Intérêts sur remboursement**
 
@@ -17364,6 +17376,7 @@ Ble montant qu’elle demande à titre de remboursement de taxe nette provisoire
 - 2024, ch. 15, art. 103
 - 2024, ch. 17, art. 87
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 134
 
 </details>
 
@@ -18290,7 +18303,7 @@ Dle nombre de jours de la période qui commence le premier jour de la première 
 - c) au moment où la demande est présentée au ministre, les faits suivants se vérifient :
   - (i) nulle désignation de période de déclaration de l’inscrit se terminant au cours de l’exercice n’a été supprimée,
   - (ii) les montants à verser par l’inscrit en application de la présente partie relativement à ses périodes de déclaration ou à des fournitures d’immeubles acquis par lui ainsi que les montants payables par lui en vertu de cette partie au titre des pénalités, intérêts, acomptes provisionnels de taxe ou montants de restitution relativement à ces périodes ont été versés ou payés,
-  - (iii) les montants à verser ou à payer par l’inscrit avant ce moment en conformité avec la présente loi, sauf la présente partie, les articles 21 et 33 du *Régime de pensions du Canada*, la *Loi sur l’accise*, la *Loi sur les douanes*, la *Loi de l’impôt sur le revenu*, l’article 82 et la partie VII de la *Loi sur l’assurance-emploi*, le *Tarif des douanes*, la *Loi de 2001 sur l’accise*, la *Loi sur la taxe sur les logements sous-utilisés*, la *Loi sur la taxe sur certains biens de luxe*, la *Loi sur la taxe sur les services numériques* et la *Loi sur l’impôt minimum mondial* ont été versés ou payés,
+  - (iii) les montants à verser ou à payer par l’inscrit avant ce moment en conformité avec la présente loi, sauf la présente partie, les articles 21 et 33 du *Régime de pensions du Canada*, la *Loi sur l’accise*, la *Loi sur les douanes*, la *Loi de l’impôt sur le revenu*, l’article 82 et la partie VII de la *Loi sur l’assurance-emploi*, le *Tarif des douanes*, la *Loi de 2001 sur l’accise*, la *Loi sur la taxe sur les logements sous-utilisés*, la *Loi sur la taxe sur certains biens de luxe* et la *Loi sur l’impôt minimum mondial* ont été versés ou payés,
   - (iv) les déclarations que l’inscrit est tenu, aux termes de la présente partie, de présenter au ministre avant ce moment l’ont été.
 
 **Effet**
@@ -18340,6 +18353,7 @@ Dle nombre de jours de la période qui commence le premier jour de la première 
 - 2024, ch. 15, art. 104
 - 2024, ch. 17, art. 88
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 135
 
 </details>
 
@@ -19735,13 +19749,17 @@ Ble total des autres montants remboursables et des crédits de taxe sur les intr
 
 (2) La mention d’un bail au présent article vaut mention d’un bail, d’une licence ou d’un accord semblable.
 
+**Logements construits spécialement pour la location – résidences étudiantes**
+
+(2.01) Pour l’application du présent article et du *Règlement sur les immeubles (TPS/TVH)* (à l’exception des dispositions visées par règlement) relativement à une fourniture taxable d’un bien qui est un immeuble d’habitation ou une adjonction à un tel immeuble, si la fourniture taxable et le bien satisfont aux conditions visées aux alinéas (3.1)a) ou b), la division a)(iii)(A) de la définition de **habitation admissible** au paragraphe (1) est réputée avoir le libellé suivant :
+
 **Logements construits spécialement pour la location — coopérative d’habitation**
 
 (2.1) Pour l’application des paragraphes (3) et (5) et de l’article 255 relativement à une fourniture taxable d’un bien visé par règlement pour l’application du paragraphe (3.1) à une personne qui est une coopérative d’habitation, si la fourniture taxable et le bien satisfont aux conditions visées aux alinéas (3.1)a) ou b) et si les conditions visées par règlement sont réunies, la personne est réputée ne pas être une coopérative d’habitation relativement à la fourniture taxable.
 
 **Remboursement pour fonds et bâtiment loués à des fins résidentielles**
 
-(3) Sous réserve des paragraphes (3.1), (7) et (8), le ministre rembourse une personne (sauf une coopérative d’habitation) dans le cas où, à la fois :
+(3) Sous réserve des paragraphes (3.1) à (3.4), (7) et (8), le ministre rembourse une personne (sauf une coopérative d’habitation) dans le cas où, à la fois :
 
 - a) la personne, selon le cas :
   - (i) est l’acquéreur de la fourniture taxable par vente (appelée « achat auprès du fournisseur » au présent paragraphe), effectuée par une autre personne, d’un immeuble d’habitation ou d’un droit dans un tel immeuble, mais n’est pas le constructeur de l’immeuble,
@@ -19774,6 +19792,32 @@ B350 000 $ ou, s’il est plus élevé, le montant suivant :(i)si l’habitat
 **Montant — logements construits spécialement pour la location**
 
 (3.2) Si le paragraphe (3.1) s’applique, le montant du remboursement prévu au paragraphe (3) est déterminé comme si la première formule figurant au paragraphe (3) et les éléments de cette formule étaient remplacés par ce qui suit :
+
+**Logements construits spécialement pour la location – résidences étudiantes**
+
+(3.3) Les règles énoncées au paragraphe (3.4) s’appliquent relativement à la construction ou aux rénovations majeures d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples si les conditions ci-après sont remplies :
+
+- a) le constructeur de l’immeuble d’habitation ou de l’adjonction est une université, un collège public ou une administration scolaire;
+
+- b) la construction ou les rénovations majeures de l’immeuble d’habitation ou de l’adjonction sont effectuées principalement pour loger les étudiants qui fréquentent l’université, le collège public ou une école de l’administration scolaire;
+
+- c) le constructeur serait réputé par l’article 191, en l’absence du paragraphe 191(6), avoir effectué et reçu, à un moment donné, une fourniture taxable par vente de l’immeuble d’habitation ou de l’adjonction;
+
+- d) relativement à la fourniture taxable visée à l’alinéa c) qui serait réputée par l’article 191, en l’absence du paragraphe 191(6), avoir été effectuée et reçue par le constructeur, il s’avère, à la fois :
+  - (i) que l’immeuble d’habitation ou l’adjonction est un bien visé par règlement pour l’application du paragraphe (3.1), déterminé comme si l’achat présumé visé au sous-alinéa (3)a)(ii) était la fourniture taxable et le moment donné visé à l’alinéa (3)b) était le moment donné visé à l’alinéa c),
+  - (ii) que la fourniture taxable et l’immeuble d’habitation ou l’adjonction remplissent les conditions visées par règlement pour l’application du paragraphe (3.1) et les conditions visées aux alinéas (3.1)a) ou b).
+
+**Montant du remboursement – résidences étudiantes**
+
+(3.4) Si les conditions énoncées au paragraphe (3.3) sont remplies relativement à la construction ou aux rénovations majeures d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples, pour l’application du paragraphe (3) relativement à la construction ou aux rénovations majeures de l’immeuble d’habitation ou de l’adjonction, les règles ci-après s’appliquent :
+
+- a) les conditions prévues au sous-alinéa (3)a)(ii) et aux alinéas (3)b) à d) sont réputées être réunies au moment donné visé à l’alinéa (3.3)c);
+
+- b) l’achat présumé visé au sous-alinéa (3)a)(ii) est réputé être la fourniture taxable visée à l’alinéa (3.3)c) qui serait réputée par l’article 191, en l’absence du paragraphe 191(6), avoir été effectuée et reçue par le constructeur de l’immeuble d’habitation ou de l’adjonction;
+
+- c) le moment donné visé à l’alinéa (3)b) est réputé être le moment donné visé à l’alinéa (3.3)c);
+
+- d) malgré les paragraphes (3.1) et (3.2), le montant du remboursement prévu au paragraphe (3) relativement à la construction ou aux rénovations majeures de l’immeuble d’habitation ou de l’adjonction est déterminé comme si la première formule figurant au paragraphe (3) et les éléments de cette formule étaient remplacés par ce qui suit :
 
 **Remboursement pour vente de bâtiment et location de fonds**
 
@@ -19864,6 +19908,7 @@ B87 500 $ ou, s’il est plus élevé, le montant suivant :(i)s’il s’agit
 - a) la personne en fait la demande dans les deux ans suivant la fin du mois ci-après :
   - (i) dans le cas du remboursement prévu au paragraphe (5), le mois où elle effectue la fourniture exonérée visée au sous-alinéa (5)a)(ii),
   - (ii) dans le cas du remboursement prévu au paragraphe (6), le mois au cours duquel la taxe visée à ce paragraphe est réputée avoir été payée par elle,
+  - (ii.1) dans le cas d’un remboursement prévu au paragraphe (3) relativement à la construction ou aux rénovations majeures d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples et dont le montant est déterminé en vertu du paragraphe (3.4), le mois qui comprend le moment donné visé à l’alinéa (3.3)c) relativement à la construction ou aux rénovations de l’immeuble d’habitation ou de l’adjonction,
   - (iii) en ce qui concerne les autres remboursements pour habitation, le mois où la taxe devient payable par elle pour la première fois, ou est réputée avoir été payée par elle pour la première fois, relativement à l’habitation ou à un droit y afférent, ou relativement à l’immeuble d’habitation ou à l’adjonction dans lequel elle est située, ou à un droit dans cet immeuble ou cette adjonction;
 
 - b) dans le cas où le remboursement fait suite à une fourniture taxable que la personne a reçue d’une autre personne, la personne a payé la totalité de la taxe payable relativement à cette fourniture;
@@ -19908,6 +19953,7 @@ B87 500 $ ou, s’il est plus élevé, le montant suivant :(i)s’il s’agit
 - 2023, ch. 31, art. 2
 - 2024, ch. 15, art. 143
 - 2026, ch. 2, art. 8
+- 2026, ch. 3, art. 161
 
 </details>
 
@@ -22024,7 +22070,7 @@ Le remboursement d’un montant en application des paragraphes 215.1(1) ou (2), 
 
 ### 263.02 Restriction
 
-Le montant d’un remboursement prévu par la présente partie n’est versé à une personne à un moment donné que si toutes les déclarations dont le ministre a connaissance et que la personne avait à produire au plus tard à ce moment en application de la présente loi, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe*, de la *Loi sur la taxe sur les services numériques* et de la *Loi sur l’impôt minimum mondial* ont été présentées au ministre.
+Le montant d’un remboursement prévu par la présente partie n’est versé à une personne à un moment donné que si toutes les déclarations dont le ministre a connaissance et que la personne avait à produire au plus tard à ce moment en application de la présente loi, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe* et de la *Loi sur l’impôt minimum mondial* ont été présentées au ministre.
 
 <details>
 <summary>Historical Note</summary>
@@ -22037,6 +22083,7 @@ Le montant d’un remboursement prévu par la présente partie n’est versé à
 - 2024, ch. 15, art. 105
 - 2024, ch. 17, art. 89
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 136
 
 </details>
 
@@ -24330,11 +24377,12 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
   - (iii) à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution d’une loi provinciale qui prévoit l’imposition ou la perception d’un impôt, d’une taxe ou d’un droit, qui prévoit que les mentions du prix ou de la contrepartie de biens ou de services comprennent la taxe prévue par la présente loi ou qui permet de rembourser à des personnes des sommes payées ou payables par elles au titre d’une taxe prévue par la présente loi,
   - (iv) à un fonctionnaire provincial, mais uniquement en vue de la formulation ou de l’évaluation de la politique fiscale,
   - (iv.1) à une personne autorisée par le conseil d’une bande dont le nom figure à l’annexe de la *Loi d’exécution du budget de 2000*, mais uniquement en vue de la formulation, de l’évaluation et de la mise à exécution de la politique fiscale relative à une taxe que le conseil de la bande peut imposer par un règlement administratif pris en vertu du paragraphe 24(1) de cette loi,
-  - (iv.2) à une personne autorisée par le corps dirigeant d’une première nation dont le nom figure à l’annexe de la *Loi sur la taxe sur les produits et services des premières nations*, mais uniquement en vue de la formulation, de l’évaluation ou de la mise à exécution de la politique fiscale relative à une taxe visée par cette loi,
+  - (iv.2) à une personne autorisée par le corps dirigeant d’une première nation dont le nom figure à une annexe de la *Loi sur la taxe sur les produits et services des premières nations*, mais uniquement en vue de la formulation, de l’évaluation ou de la mise à exécution de la politique fiscale relative à une taxe visée par cette loi,
   - (iv.3) à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution de la *Loi canadienne sur l’épargne-études* ou d’un **programme provincial désigné** au sens du paragraphe 146.1(1) de la *Loi de l’impôt sur le revenu*,
   - (iv.4) à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution de la *Loi canadienne sur l’épargne-invalidité* ou d’un **programme provincial désigné** au sens du paragraphe 146.4(1) de la *Loi de l’impôt sur le revenu*,
   - (v) à un fonctionnaire d’un ministère ou organisme fédéral ou provincial, quant aux nom, adresse, numéro de téléphone et profession d’une personne et à la taille et au genre de son entreprise, mais uniquement en vue de permettre à ce ministère ou à cet organisme de recueillir des données statistiques pour la recherche et l’analyse,
   - (v.1) à un fonctionnaire du ministère de l’Emploi et du Développement social, mais uniquement en vue de l’application ou de l’exécution d’un programme établi sous le régime de la *Loi sur le ministère de l’Emploi et du Développement social* relativement à des enfants décédés ou disparus par suite d’une infraction, avérée ou probable, prévue au *Code criminel*,
+  - (v.2) à un fonctionnaire du ministère de l’Emploi et du Développement social, mais uniquement en vue de l’application ou de l’exécution du *Code canadien du travail* relativement à la classification erronée des employés,
   - (vi) à un fonctionnaire, mais uniquement en vue de procéder, par voie de compensation, à la retenue, sur toute somme due par Sa Majesté du chef du Canada, de tout montant égal à une créance :
     - (A) soit de Sa Majesté du chef du Canada,
     - (B) soit de Sa Majesté du chef d’une province s’il s’agit de taxes ou d’impôts provinciaux visés par une entente entre le Canada et la province en vertu de laquelle le Canada est autorisé à percevoir les impôts ou taxes payables à la province,
@@ -24488,6 +24536,8 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 - 2023, ch. 14, art. 4
 - 2023, ch. 26, art. 83
 - 2024, ch. 15, art. 71
+- 2026, ch. 3, art. 97
+- 2026, ch. 3, art. 189
 
 </details>
 
@@ -24606,7 +24656,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 
 **Restriction**
 
-(7) Un montant prévu au présent article n’est remboursé à une personne à un moment donné que si toutes les déclarations dont le ministre a connaissance et que la personne avait à produire au plus tard à ce moment en application de la présente loi, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe*, de la *Loi sur la taxe sur les services numériques* et de la *Loi sur l’impôt minimum mondial* ont été présentées au ministre.
+(7) Un montant prévu au présent article n’est remboursé à une personne à un moment donné que si toutes les déclarations dont le ministre a connaissance et que la personne avait à produire au plus tard à ce moment en application de la présente loi, de la *Loi de l’impôt sur le revenu*, de la *Loi sur le droit pour la sécurité des passagers du transport aérien*, de la *Loi de 2001 sur l’accise*, de la *Loi sur la taxe sur les logements sous-utilisés*, de la *Loi sur la taxe sur certains biens de luxe* et de la *Loi sur l’impôt minimum mondial* ont été présentées au ministre.
 
 **Paiement en trop de taxe nette**
 
@@ -24627,6 +24677,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 - 2024, ch. 15, art. 106
 - 2024, ch. 17, art. 90
 - 2024, ch. 17, art. 111
+- 2026, ch. 3, art. 137
 
 </details>
 
@@ -27616,6 +27667,8 @@ Détersifs à lessive.
 - 1990, ch. 45, art. 18; 1993, ch. 27, art. 147 à 177; 1994, ch. 9, art. 25 à 28 et 35(F); 1997, ch. 10, art. 85 à 117 et 243 à 252; 1999, ch. 31, art. 234; 2000, ch. 12, art. 113, ch. 30, art. 109 à 122, ch. 34, art. 94(F); 2001, ch. 15, art. 21 à 28; 2003, ch. 15, art. 64 et 65; 2004, ch. 22, art. 40 à 44; 2007, ch. 18, art. 52 à 56, ch. 29, art. 50 et 51; 2008, ch. 28, art. 78 à 84; 2010, ch. 12, art. 83 à 87; 2012, ch. 19, art. 29 et 30; 2013, ch. 33, art. 47 à 50, ch. 40, art. 124; 2014, ch. 20, art. 52 à 60; 2016, ch. 7, art. 68; 2017, ch. 33, art. 153, 154(F), 155 et 156(F); 2018, ch. 12, art. 96
 - 2019, ch. 29, art. 75
 - 2024, ch. 15, art. 137
+- 2026, ch. 3, art. 162
+- 2026, ch. 3, art. 163
 
 </details>
 
@@ -27984,3 +28037,13 @@ Lorsqu’une fourniture est effectuée entre une personne et une personne morale
 
 
 (6) Malgré l’article 298 de la même loi, le ministre du Revenu national peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire à l’égard de tout montant relatif à l’alinéa r.6) de la définition de **service financier** au paragraphe 123(1) de la même loi, modifiée par le paragraphe (1), au plus tard le dernier en date du jour qui suit d’un an la date de sanction de la législation donnant effet au paragraphe (1) et le dernier jour de la période où il est permis par ailleurs, aux termes de cet article, d’établir la cotisation, la nouvelle cotisation ou la cotisation supplémentaire.
+
+### — 2026, ch. 3, par. 161(7)
+
+
+(7) Si une personne a droit à un remboursement prévu au paragraphe 256.2(3) de la même loi (modifié par le paragraphe (2)) relativement à la construction ou aux rénovations majeures d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples, ou y aurait droit en l’absence de l’alinéa 256.2(7)a) de la même loi (modifié par le paragraphe (5)), si la construction ou les rénovations sont achevées en grande partie avant la date de sanction de la présente loi et si le montant du remboursement est déterminé en vertu du paragraphe 256.2(3.4) de la même loi (édicté par le paragraphe (4)), le remboursement peut, malgré l’alinéa 256.2(7)a) de la même loi (modifié par le paragraphe (5)), être versé à la personne si celle-ci présente une demande de remboursement avant le deuxième anniversaire de la date de cette sanction.
+
+### — 2026, ch. 3, par. 161(8)
+
+
+(8) Si une personne a droit à un remboursement prévu au paragraphe 256.2(3) de la même loi (modifié par le paragraphe (2)) relativement à la construction ou aux rénovations majeures d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples, ou y aurait droit en l’absence de l’alinéa 256.2(7)a) de la même loi (modifié par le paragraphe (5)), si la construction ou les rénovations sont achevées en grande partie avant la date de sanction de la présente loi, si le montant du remboursement est déterminé en vertu du paragraphe 256.2(3.2) de la même loi (modifié par le paragraphe (3)) et si le remboursement est relatif à une fourniture taxable visée au paragraphe 256.2(2.1) de la même loi, le remboursement peut, malgré l’alinéa 256.2(7)a) de la même loi (modifié par le paragraphe (5)), être versé à la personne si celle-ci présente une demande de remboursement avant le deuxième anniversaire de la date de cette sanction.

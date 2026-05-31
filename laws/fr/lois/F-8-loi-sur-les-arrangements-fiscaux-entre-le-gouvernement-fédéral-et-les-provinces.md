@@ -54,7 +54,7 @@ type: "act"
 
 **prescrit** Prescrit par règlement pris par le gouverneur en conseil en application de l’article 40. (**prescribed**)
 
-**texte législatif autochtone** S’entend au sens des paragraphes 11(1) ou 12(1) de la *Loi sur la taxe sur les produits et services des premières nations*. (**First Nation law**)
+**texte législatif autochtone** S’entend au sens des paragraphes 11(1), 12(1), 39(1) ou 40(1) de la *Loi sur la taxe sur les produits et services des premières nations*. (**First Nation law**)
 
 **Définition de **province****
 
@@ -77,6 +77,7 @@ type: "act"
 
 - L.R. (1985), ch. F-8, art. 2; L.R. (1985), ch. 11 (3^e^ suppl.), art. 1; 1992, ch. 10, art. 1; 1993, ch. 28, art. 78; 1995, ch. 17, art. 46; 1996, ch. 18, art. 48; 1997, ch. 10, art. 261; 1998, ch. 21, art. 76; 1999, ch. 26, art. 2 et 12; 2002, ch. 7, art. 170; 2007, ch. 29, art. 61; 2013, ch. 34, art. 417; 2017, ch. 33, art. 169; 2018, ch. 12, art. 119(F) et 214
 - 2022, ch. 10, art. 83
+- 2026, ch. 3, art. 190
 
 </details>
 
@@ -3327,3 +3328,12 @@ Les dispositions de la *Loi sur les arrangements fiscaux entre le gouvernement f
 ### 251 Continuation
 
 Les dispositions des parties I et I.1 de la *Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces* et des règlements pris en vertu de cette loi, dans leur version antérieure à la date de sanction de la présente loi, continuent de s’appliquer aux exercices se terminant avant le 1^er^ avril 2024.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 3, art. 565
+
+### 565
+
+L’annexe I de la *Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces* est modifiée par suppression de ce qui suit :

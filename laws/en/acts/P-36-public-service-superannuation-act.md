@@ -908,6 +908,7 @@ However, the total amount of the allowances paid under paragraph (b) shall not e
     - (A) a deferred annuity,
     - (B) if at the time he or she ceases to be so employed he or she has reached fifty years of age and has to his or her credit not less than twenty-five years of pensionable service, an annual allowance, payable immediately on his or her exercising his or her option, equal to the amount of the deferred annuity referred to in clause (A) reduced by the product obtained by multiplying five per cent of the amount of that annuity by
     - (C) if at the time he or she ceases to be so employed he or she has reached fifty-five years of age, has been employed in the public service for a period of or for periods totalling at least ten years and does not voluntarily retire from the public service, an annual allowance, payable immediately on his or her so ceasing to be employed, equal to the amount of the deferred annuity referred to in clause (A) reduced by the product obtained by multiplying
+    - (C.1) subject to subsection (1.1), if at the time the contributor exercises their option under this clause a workforce reduction initiative is in effect, and if at the time they cease to be so employed they have reached 50 years of age and have been employed in the public service for a period of or for periods totalling at least 10 years, an annual allowance, payable immediately on their so ceasing to be employed, equal to the amount of the deferred annuity referred to in clause (A), or
     - (D) an annual allowance, payable
 
 - (d) if he becomes disabled, not having reached sixty years of age but having become entitled to
@@ -915,6 +916,14 @@ However, the total amount of the allowances paid under paragraph (b) shall not e
   - (ii) an annual allowance, he ceases to be entitled to that annual allowance and becomes entitled to an immediate annuity, which shall be adjusted in accordance with the regulations to take into account the amount of the annual allowance he has received.
 
 - (e) [Repealed, 1999, c. 34, s. 65]
+
+**Limitation on entitlement to annual allowance**
+
+(1.1) A contributor is not entitled to an annual allowance under clause (1)(c)(ii)(C.1) unless the Treasury Board approves their entitlement to it based on the criteria that it establishes and the contributor ceases to be employed in the public service during the period that begins on the day on which this subsection comes into force and ends on the 300th day after that day.
+
+**Limitation on approval**
+
+(1.2) The Treasury Board is not authorized to approve entitlement to an annual allowance referred to in clause (1)(c)(ii)(C.1) after the 120th day after the day on which this subsection comes into force.
 
 **Allowance to survivor and children**
 
@@ -952,6 +961,7 @@ that is within a period of two years immediately before the contributor’s reti
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. P-36, s. 13; 1996, c. 18, s. 30; 1999, c. 34, s. 65; 2003, c. 22, s. 225(E); 2012, c. 31, s. 485
+- 2026, c. 3, s. 217
 
 </details>
 
@@ -971,11 +981,20 @@ that is within a period of two years immediately before the contributor’s reti
     - (A) a deferred annuity,
     - (B) if at the time he or she ceases to be so employed, he or she has reached 55 years of age and has to his or her credit not less than 25 years of pensionable service, an annual allowance, payable immediately on his or her exercising his or her option, equal to the amount of the deferred annuity referred to in clause (A) reduced by the product obtained by multiplying 5% of the amount of that annuity by
     - (C) if at the time he or she ceases to be so employed, he or she has reached 60 years of age, has been employed in the public service for a period of or for periods totalling at least 10 years and does not voluntarily retire from the public service, an annual allowance, payable immediately on his or her so ceasing to be employed, equal to the amount of the deferred annuity referred to in clause (A) reduced by the product obtained by multiplying
+    - (C.1) subject to subsection (1.1), if at the time the contributor exercises their option under this clause a workforce reduction initiative is in effect, and if at the time they cease to be so employed they have reached 55 years of age and have been employed in the public service for a period of or for periods totalling at least 10 years, an annual allowance, payable immediately on their so ceasing to be employed, equal to the amount of the deferred annuity referred to in clause (A), or
     - (D) an annual allowance, payable
 
 - (d) if he or she becomes disabled, not having reached 65 years of age but having become entitled to
   - (i) a deferred annuity, he or she ceases to be entitled to that deferred annuity and becomes entitled to an immediate annuity, or
   - (ii) an annual allowance, he or she ceases to be entitled to that annual allowance and becomes entitled to an immediate annuity, which shall be adjusted in accordance with the regulations to take into account the amount of the annual allowance he or she has received.
+
+**Limitation on entitlement to annual allowance**
+
+(1.1) A contributor is not entitled to an annual allowance under clause (1)(c)(ii)(C.1) unless the Treasury Board approves their entitlement to it based on the criteria that it establishes and the contributor ceases to be employed in the public service during the period that begins on the day on which this subsection comes into force and ends on the 300th day after that day.
+
+**Limitation on approval**
+
+(1.2) The Treasury Board is not authorized to approve entitlement to an annual allowance referred to in clause (1)(c)(ii)(C.1) after the 120th day after the day on which this subsection comes into force.
 
 **Allowance to survivor and children**
 
@@ -1011,6 +1030,7 @@ that is within a period of two years immediately before his or her retirement fr
 <summary>Historical Note</summary>
 
 - 2012, c. 31, s. 486
+- 2026, c. 3, s. 218
 
 </details>
 
@@ -2510,6 +2530,28 @@ shall be paid out of the Superannuation Account or the Public Service Pension Fu
 
 </details>
 
+### 44.21 Payment — waiver of reductions
+
+Despite subsection 43(1) of this Act and section 21 of the *Special Retirement Arrangements Act*, the amount of the reduction provided for by clause 13(1)(c)(ii)(C) or 13.001(1)(c)(ii)(C) that, under either of those clauses, is waived by the Treasury Board during the period that begins on the day on which this section comes into force and ends on the 300th day after that day, is to be charged to the Public Service Pension Fund and paid out of the assets of the Public Sector Pension Investment Board.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 219
+
+</details>
+
+### 44.22 Payment — difference in amounts
+
+Despite subsection 43(1) of this Act and section 21 of the *Special Retirement Arrangements Act*, the difference between the amount of the annual allowance that is payable to a contributor under clause 13(1)(c)(ii)(C.1) or 13.001(1)(c)(ii)(C.1) — and the amount of the annual allowance that would have been payable to them had they exercised an option under clause 13(1)(c)(ii)(B), (C) or (D) or 13.001(1)(c)(ii)(B), (C) or (D) and ceased to be employed in the public service at the same time as they in fact ceased to be so employed — is to be charged to the Public Service Pension Fund and paid out of the assets of the Public Sector Pension Investment Board.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 219
+
+</details>
+
 ### 44.3 Amounts to be paid on basis of actuarial valuation report
 
 (1) Following the laying before Parliament of any actuarial valuation report pursuant to section 45 that relates to the state of the Public Service Pension Fund, there shall be paid into that Fund, at the time and in the manner set out in subsection (2), the amount that in the opinion of the Minister will, at the end of the fifteenth fiscal year following the tabling of that report or at the end of a shorter period that the Minister may determine, together with the amount that the Minister estimates will be to the credit of the Public Service Pension Fund at that time, meet the cost of the benefits payable under this Part and Part III in respect of pensionable service that comes to the credit of contributors on or after April 1, 2000.
@@ -3394,6 +3436,7 @@ The Minister may use electronic means to create, communicate, make available, co
 - SOR/2019-301, s. 2
 - 2024, c. 15, s. 215
 - 2024, c. 33, s. 18
+- 2026, c. 3, s. 526
 
 </details>
 
@@ -3516,3 +3559,55 @@ Part II of Schedule I to the *Public Service Superannuation Act* is amended by a
 ### 112 Terminology change — English version
 
 Unless the context requires otherwise, every reference to “Force” is replaced by a reference to “RCMP” in the English version of every Act of Parliament and the English version of every order, regulation or other instrument made under an Act of Parliament.
+
+### — 2026, c. 3, s. 210
+
+### 210
+
+The heading before section 24.1 and sections 24.1 and 24.2 of the *Public Service Superannuation Act* are replaced by the following:
+
+### — 2026, c. 3, s. 211
+
+### 211
+
+Subsection 24.4(1) of the Act is replaced by the following:
+
+### — 2026, c. 3, s. 212
+
+### 212
+
+Section 24.6 of the Act is replaced by the following:
+
+### — 2026, c. 3, s. 213
+
+### 213
+
+(1) Paragraphs 42.1(1)(m) to (q) of the Act are replaced by the following:
+
+(2) Paragraph 42.1(1)(t) of the Act is replaced by the following:
+
+### — 2026, c. 3, s. 214
+
+### 214
+
+(1) The portion of the definition **recipient** in section 64 of the Act before paragraph (a) is replaced by the following:
+
+(2) The portion of paragraph (c) of the definition **recipient** in section 64 of the Act before subparagraph (i) is replaced by the following:
+
+### — 2026, c. 3, s. 215
+
+### 215
+
+Subsection 69(4) of the Act is replaced by the following:
+
+### — 2026, c. 3, s. 220
+
+### 220
+
+The Act is amended by adding the following after section 46:
+
+### — 2026, c. 3, s. 568
+
+### 568
+
+Part III of Schedule I to the *Public Service Superannuation Act* is amended by adding the following in alphabetical order:

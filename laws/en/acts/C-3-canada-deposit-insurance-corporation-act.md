@@ -694,15 +694,9 @@ The Corporation shall insure each deposit with a member institution except
 
 **Duty to insure certain pre-existing deposits**
 
-(2) Despite paragraph 12(c) and subsection 3(1.1) of the schedule, but subject to the other provisions of this Act, if a pre-existing deposit is held by a federal credit union that is a member institution and all or a portion of the pre-existing deposit would have been guaranteed or insured under the law of a province if the local cooperative credit society had not been continued as a federal credit union, the Corporation shall insure the pre-existing deposit during the transition period up to the amount that would have been guaranteed or insured under the law of that province.
+(2) Despite paragraph 12(c) and subsection 4(2) of the schedule, but subject to the other provisions of this Act, if a pre-existing deposit is held by a federal credit union that is a member institution and all or a portion of the pre-existing deposit would have been guaranteed or insured under the law of a province if the local cooperative credit society had not been continued as a federal credit union, the Corporation must insure the pre-existing deposit during the transition period up to the amount that would have been guaranteed or insured under the law of that province.
 
-**Duty to insure certain pre-existing deposits repayable on a fixed day**
-
-(3) Despite paragraph 2(2)(a) of the schedule, the Corporation shall insure a pre-existing deposit during the transition period if the deposit is held by a federal credit union that is a member institution and
-
-- (a) is repayable on a fixed day that is more than five years after the deposit was made with the local cooperative credit society that was continued as a federal credit union; and
-
-- (b) would have been guaranteed or insured under the law of a province if the local cooperative credit society had not been continued as a federal credit union.
+(3) [Repealed, 2026, c. 3, s. 337]
 
 **Deemed separate deposit**
 
@@ -716,12 +710,13 @@ The Corporation shall insure each deposit with a member institution except
 <summary>Historical Note</summary>
 
 - 2010, c. 12, s. 2098; 2018, c. 27, s. 159
+- 2026, c. 3, s. 337
 
 </details>
 
 ### 13 Deposits with amalgamating institutions
 
-(1) When a person has deposits with two or more member institutions that amalgamate and continue in operation as one member institution, in this section referred to as the “amalgamated institution”, a deposit of that person with an amalgamating institution on the day on which the amalgamated institution is formed, less any withdrawals from the deposit, shall, for the purposes of deposit insurance with the Corporation, be deemed to be and continue to be separate from any deposit of that person on that day with the other amalgamating institution or institutions that become part of the amalgamated institution for a period of two years or, in the case of a term deposit with a remaining term exceeding two years, to the maturity of the term deposit.
+(1) If a person has deposits with two or more member institutions — including member institutions insured under section 12.1 — that amalgamate and continue in operation as one member institution, in this section referred to as the “amalgamated institution”, a deposit of that person with an amalgamating institution on the day on which the amalgamated institution is formed, less any withdrawals from the deposit, shall, for the purposes of deposit insurance with the Corporation, be deemed to be and continue to be separate from any deposit of that person on that day with the other amalgamating institution or institutions that become part of the amalgamated institution for a period of two years or, in the case of a term deposit with a remaining term exceeding two years, to the maturity of the term deposit.
 
 **Deposits with amalgamated institution**
 
@@ -747,6 +742,7 @@ The Corporation shall insure each deposit with a member institution except
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. C-3, s. 13; 1992, c. 26, s. 5; 1996, c. 6, s. 25; 2005, c. 30, s. 102; 2010, c. 12, s. 2099; 2018, c. 27, s. 160
+- 2026, c. 3, s. 339
 
 </details>
 
@@ -982,6 +978,17 @@ A premium assessed by the Corporation against a member institution for the purpo
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. C-3, s. 17; R.S., 1985, c. 18 (3rd Supp.), s. 54; 1991, c. 45, s. 543; 2005, c. 30, s. 104; 2007, c. 6, s. 404; 2012, c. 5, s. 190
+
+</details>
+
+### 17.01 Insurance of amalgamating institutions
+
+Despite section 17, the Corporation must, in the manner and to the extent provided in this Act and the by-laws, insure the deposits held by a federal credit union that was a local cooperative credit society prior to the issuance of the letters patent in respect of its continuation for the purposes of amalgamation.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 340
 
 </details>
 
@@ -3916,3 +3923,27 @@ Section 39.26 of the Act is replaced by the following:
 ### 131
 
 Subsection 39.28(2) of the Act is replaced by the following:
+
+### — 2026, c. 3, s. 338
+
+### 338
+
+The Act is amended by adding the following after section 12.1:
+
+### — 2026, c. 3, s. 339(2)
+
+### 339
+
+(2) Section 13 of the Act is amended by adding the following after subsection (5):
+
+### — 2026, c. 3, s. 341
+
+### 341
+
+The Act is amended by adding the following after section 23:
+
+### — 2026, c. 3, s. 342
+
+### 342
+
+The schedule to the Act is amended by replacing the references after the heading “SCHEDULE” with the following:

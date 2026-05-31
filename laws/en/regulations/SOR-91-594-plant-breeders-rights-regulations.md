@@ -70,16 +70,13 @@ For the purposes of paragraph 4(2)(a) of the Act, the following criteria shall 
 
 (1) [Repealed, SOR/2012-286, s. 43]
 
-(2) In the case of a new variety of a category set out in Schedule I, with respect to the requirements concerning a sale or the concurrence in a sale outside Canada, the period referred to in paragraph 7(1)(c) of the Act shall commence
-
-- (a) six years before the date of receipt by the Commissioner of the application for the grant of plant breeders’ rights respecting the new variety of woody plants, including their rootstocks; and
-
-- (b) four years before the date of receipt by the Commissioner of the application for the grant of plant breeders’ rights respecting the new variety of any other category.
+(2) [Repealed, SOR/2026-74, s. 1]
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/93-87, s. 1; SOR/94-750, s. 4; SOR/98-582, s. 2; SOR/2012-286, s. 43
+- SOR/2026-74, s. 1
 
 </details>
 
@@ -108,12 +105,13 @@ The petition referred to in paragraph 26(2)(b) of the Act shall be presented wi
 
 ### 12
 
-An assignee shall comply with the requirements of subsection 31(1) of the Act and section 26 of the Regulations within 30 days after the date of the assignment of the plant breeders’ rights.
+An assignee shall comply with the requirements of subsection 31(1) of the Act and section 26 of these Regulations within one year after the day on which the plant breeders’ rights are assigned.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/94-750, s. 5
+- SOR/2026-74, s. 2
 
 </details>
 
@@ -175,11 +173,11 @@ Any objection to a change of denomination published in the *Canada Gazette* purs
 
 - (e) the proposed denomination;
 
-- (f) whether an application for a protective direction is included;
+- (f) [Repealed, SOR/2026-74, s. 3]
 
 - (g) a description of the plant variety;
 
-- (h) a statement that the plant variety is a sufficiently homogeneous variety within the meaning of subsection 4(3) of the Act and is stable;
+- (h) a statement that the plant variety is a **sufficiently homogeneous variety** as defined in subsection 4(4) of the Act and is stable;
 
 - (i) the manner in which the plant variety was originated;
 
@@ -193,7 +191,16 @@ Any objection to a change of denomination published in the *Canada Gazette* purs
 
 - (n) the manner in which the propagating material will be maintained.
 
-(2) In an application referred to in subsection (1), the applicant shall include a representative reference sample of viable propagating material of the plant variety that is the subject of the application.
+(2) At the time of filing the application, the applicant shall submit to the Commissioner a representative reference sample of viable propagating material of the plant variety that is the subject of the application if one is available.
+
+(3) If the applicant establishes to the satisfaction of the Commissioner that such a sample was unavailable at the time of filing the application, the applicant shall, as directed by the Commissioner, submit the sample at a later time, but before the grant of plant breeders’ rights.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-74, s. 3
+
+</details>
 
 ### 20
 
@@ -201,7 +208,14 @@ An application referred to in subsection 19(1) shall be supported by
 
 - (a) the results of comparative tests and trials to demonstrate that the plant variety is a new variety; and
 
-- (b) photographs and a detailed description of the plant variety that illustrate that the plant variety is clearly distinguishable pursuant to paragraph 4(2)(a) of the Act.
+- (b) photographs and a detailed description of the plant variety that illustrate that the plant variety is clearly distinguishable in accordance with paragraph 4(2)(b) of the Act.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-74, s. 4
+
+</details>
 
 ### 21
 
@@ -251,7 +265,7 @@ A change of denomination comes into effect on the date on which it is approved b
 
 ### 26
 
-Where the holder of plant breeders’ rights assigns the rights, an assignee shall, for the purposes of subsection 31(1) of the Act, provide the Commissioner in writing with the following particulars:
+If the holder of plant breeders’ rights assigns them, the assignee shall, for the purposes of subsection 31(1) of the Act, provide the Commissioner, in a format accessible to the Commissioner, with the following information:
 
 - (a) the name and address of the previous holder;
 
@@ -259,7 +273,7 @@ Where the holder of plant breeders’ rights assigns the rights, an assignee sha
 
 - (c) the plant breeder’s rights certificate number;
 
-- (d) a letter of assignment signed by both the holder and the assignee, each in the presence of a witness; and
+- (d) a letter of assignment signed by both the holder and the assignee; and
 
 - (e) the effective date of the assignment.
 
@@ -267,6 +281,7 @@ Where the holder of plant breeders’ rights assigns the rights, an assignee sha
 <summary>Historical Note</summary>
 
 - SOR/94-750, s. 11
+- SOR/2026-74, s. 5
 
 </details>
 
@@ -299,7 +314,14 @@ Where the applicant makes the request referred to in paragraph 19(1)(m), the Co
 
 ### 29
 
-The fees and charges payable for the purposes of the Act and these Regulations are as set out in Schedule II and are payable, in Canadian dollars, to the Commissioner.
+The fees and charges payable for the purposes of the Act and these Regulations are set out in Schedule II and are payable, in Canadian dollars, to the Receiver General for Canada.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-74, s. 6
+
+</details>
 
 ### 30
 
@@ -314,13 +336,64 @@ The fees and charges payable for the purposes of the Act and these Regulations a
 
 </details>
 
+## Non-Application of Farmers’ Privilege
+
+### 31
+
+The exception set out in subsection 5.3(2) of the Act does not apply to the following classes of plant varieties:
+
+- (a) fruit, ornamental and vegetable plants;
+
+- (b) plants reproduced through vegetative propagation; and
+
+- (c) hybrids and parental varieties used in hybrid varieties.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-74, s. 7
+
+</details>
+
+## Term of Protection
+
+### 32
+
+For the purposes of subsection 6(1) of the Act, the term of the grant of plant breeders’ rights is 25 years, subject to earlier termination under the Act, with respect to a certificate that is issued after the day on which these Regulations come into force for any of the following categories:
+
+- (a) potato;
+
+- (b) asparagus;
+
+- (c) woody plant species.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-74, s. 7
+
+</details>
+
+## Sale of New Variety
+
+### 33
+
+For the purposes of subsection 4(3) of the Act, a sale does not include advertising or any exposure that is not for a consideration.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-74, s. 7
+
+</details>
+
 > Whereas, pursuant to subsection 75(2) of the *Plant Breeders’ Rights Act*[^], a copy, of the proposed *Regulations respecting plant breeders’ rights*, substantially in the form annexed hereto, was published in the *Canada Gazette* Part I on July 20, 1991;
 
 
 
 ## SCHEDULE I
 
-(Section 3 and subsection 7(2))
+(Section 3)
 
 | Item | Column I | Column II |
 | Common Name | Botanical Name |  |
@@ -370,6 +443,7 @@ The fees and charges payable for the purposes of the Act and these Regulations a
 <summary>Historical Note</summary>
 
 - SOR/93-87, s. 3; SOR/94-750, ss. 14(F) to 17(F), 18, 19; SOR/98-582, s. 3; SOR/2012-286, s. 45
+- SOR/2026-74, s. 8
 
 </details>
 
@@ -382,7 +456,7 @@ The fees and charges payable for the purposes of the Act and these Regulations a
 | Service | Fees or charges |  |
 | --- | --- | --- |
 | 1 | Filing, pursuant to subsection 9(1) of the Act, of an application for plant breeder’s rights  ... | $250 |
-| 2 | Filing, pursuant to subsection 19(1) of the Act, of an application for a protective direction  ... | 50 |
+| 2 | [Repealed, SOR/2026-74, s. 9] |  |
 | 3 | Claim, pursuant to paragraph 11(1)(b) of the Act, respecting priority based on a preceding application made in a country of the Union or an agreement country  ... | 50 |
 | 4 | Examination, pursuant to subsection 23(1) and paragraph 75(1)(a) of the Act, of an application for grant of plant breeder’s rights  ... | 750 |
 | 5 | Registration of grant of plant breeder’s rights pursuant to subsection 27(3) of the Act  ... | 500 |
@@ -393,13 +467,16 @@ The fees and charges payable for the purposes of the Act and these Regulations a
 | 10 | Annual fee, pursuant to subsection 6(2) of the Act  ... | 300 |
 | 11 | Processing of application for compulsory licence, pursuant to subsection 32(1) and paragraph 75(1)(a) of the Act  ... | 250 |
 | 12 | Issuance, pursuant to subsection 27(5) of the Act, of certified copy of lost or destroyed certificate of grant of plant breeder’s rights  ... | 50 |
-| 13 | Public inspection of the register and the index referred to in subsection 67(2) of the Act, including any documents that, in the opinion of the Commissioner, should be open for public inspection, at the Plant Breeders’ Rights Office  ... | 5 |
+| 13 | [Repealed, SOR/2026-74, s. 10] |  |
 | 14 | Copies of documents or certificates with regard to an entry in the register or index referred to in subsection 67(2) of the Act, including any documents that, in the opinion of the Commissioner, should be open for public inspection and obtained from the Plant Breeders’ Rights Office  ... | 0.50/page |
-| 15 | [Repealed, SOR/2012-286, s. 46] |  |
+| 15 | Filing, under subsection 9(1) of the Act and by means of the International Union for the Protection of New Varieties of Plants (UPOV) PRISMA application tool, of an application to the Commissioner for grant of plant breeders’ rights ... | 152.32 |
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/94-750, s. 20; SOR/2012-286, s. 46
+- SOR/2026-74, s. 9
+- SOR/2026-74, s. 10
+- SOR/2026-74, s. 11
 
 </details>

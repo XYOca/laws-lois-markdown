@@ -147,15 +147,15 @@ L’Office de commercialisation fournit à l’Office tout renseignement que cel
 |  | Colonne 1 | Colonne 2 |
 | Article | Province | Livres de dindon |
 | --- | --- | --- |
-| 1 | Ontario | 173 643 800 |
-| 2 | Québec | 71 251 997 |
-| 3 | Nouvelle-Écosse | 9 283 405 |
-| 4 | Nouveau-Brunswick | 7 381 943 |
-| 5 | Manitoba | 28 445 317 |
-| 6 | Colombie-Britannique | 40 322 180 |
-| 7 | Saskatchewan | 11 164 813 |
-| 8 | Alberta | 30 458 445 |
-| TOTAL |  | 371 951 900 |
+| 1 | Ontario | 186 650 107 |
+| 2 | Québec | 77 802 532 |
+| 3 | Nouvelle-Écosse | 9 603 025 |
+| 4 | Nouveau-Brunswick | 7 649 728 |
+| 5 | Manitoba | 30 774 752 |
+| 6 | Colombie-Britannique | 41 774 616 |
+| 7 | Saskatchewan | 11 443 438 |
+| 8 | Alberta | 31 505 925 |
+| TOTAL |  | 397 204 123 |
 
 <details>
 <summary>Historical Note</summary>
@@ -182,5 +182,6 @@ L’Office de commercialisation fournit à l’Office tout renseignement que cel
 - DORS/2025-187, art. 1
 - DORS/2025-249, art. 1
 - DORS/2026-3, art. 1
+- DORS/2026-65, art. 1
 
 </details>

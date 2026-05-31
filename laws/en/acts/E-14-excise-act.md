@@ -5000,24 +5000,3 @@ For the purposes of applying the provisions of the *Customs Act* and the *Excise
 ### 67
 
 For the purposes of applying the provisions of the *Customs Act* and the *Excise Act* that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount is to be determined and interest is to be computed on it as though sections 44 and 58 to 63 and subsections 64(1) and 65(1) had been assented to on March 23, 2017.
-
-
-## AMENDMENTS NOT IN FORCE
-
-### — 2024, c. 17, s. 114(2)
-
-### 114
-
-(2) Paragraphs 1(a) to (c) of Part II.1 of the schedule to the Act, as amended by subsection (1), are amended by replacing “5%” with “10%”.
-
-### — 2024, c. 17, s. 115(2)
-
-### 115
-
-(2) Paragraphs 2(a) to (c) of Part II.1 of the schedule to the Act, as amended by subsection (1), are amended by replacing “10%” with “20%”.
-
-### — 2024, c. 17, s. 116(2)
-
-### 116
-
-(2) Paragraphs 3(a) to (c) of Part II.1 of the schedule to the Act, as amended by subsection (1), are amended by replacing “20%” with “40%”.

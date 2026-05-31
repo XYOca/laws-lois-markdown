@@ -28814,3 +28814,9 @@ Item 6 of Table II to section C.01A.008 of the Regulations is replaced by the fo
 (1) The portion of section C.09.001 of the French version of the Regulations before paragraph (a) is replaced by the following:
 
 (2) Paragraphs C.09.001(a) and (b) of the Regulations are replaced by the following:
+
+### — SOR/2026-72, s. 1
+
+### 1
+
+Part III of the schedule to Part J of the *Food and Drug Regulations*[^] is amended by adding the following:

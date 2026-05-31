@@ -1350,3 +1350,32 @@ Paragraph 19(1)(j) and section 39 shall come into force on a day to be fixed by 
 
 
 
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 3, s. 195
+
+### 195
+
+The definition **library material** in subsection 2(1) of the *Canada Post Corporation Act* is repealed.
+
+### — 2026, c. 3, s. 196
+
+### 196
+
+The Act is amended by adding the following after section 16:
+
+### — 2026, c. 3, s. 197
+
+### 197
+
+(1) Paragraphs 19(1)(d) to (g.1) of the Act are repealed.
+
+(2) Subsections 19(2) and (3) of the Act are repealed.
+
+### — 2026, c. 3, s. 198
+
+### 198
+
+Sections 21 to 21.2 of the Act are repealed.

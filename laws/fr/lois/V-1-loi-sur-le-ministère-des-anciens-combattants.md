@@ -162,6 +162,21 @@ Le gouverneur en conseil peut prendre des règlements :
 
 </details>
 
+### 5.01 *Règlement sur les soins de santé pour anciens combattants*
+
+(1) Le gouverneur en conseil peut prendre des règlements définissant le terme « province » pour l’application de toute disposition du *Règlement sur les soins de santé pour anciens combattants*.
+
+**Rétroactivité**
+
+(2) Les règlements pris en vertu du paragraphe (1) peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 3, art. 372
+
+</details>
+
 ### 5.1
 
 (1) à (3) [Abrogés avant d’entrer en vigueur, 2008, ch. 20, art. 3]

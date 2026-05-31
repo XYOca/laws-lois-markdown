@@ -912,8 +912,8 @@ La Cour fédérale a compétence, en première instance, pour toute question res
 
 - g) le gouverneur en conseil, quand il prend un décret en vertu du paragraphe 186(1) de la *Loi sur la Régie canadienne de l’énergie*;
 
-- g.1) la division d’appel du Tribunal de la sécurité sociale, constitué par l’article 44 de la *Loi sur le ministère de l’Emploi et du Développement social*, sauf dans le cas d’une décision qui est rendue au titre du paragraphe 57(2) ou de l’article 58.2 de cette loi ou qui vise un appel concernant une décision relative au délai supplémentaire visé, selon le cas :
-  - (i) au paragraphe 52(2) de cette loi,
+- g.1) la division d’appel du Tribunal de la sécurité sociale, constitué par l’article 44 de la *Loi sur le ministère de l’Emploi et du Développement social*, sauf dans le cas d’une décision qui est rendue au titre des paragraphes 54.2(2) ou 57(2) ou de l’article 58.2 de cette loi ou qui vise un appel concernant une décision relative au délai supplémentaire visée, selon le cas :
+  - (i) aux paragraphes 43.11(2) ou 52(2) de cette loi,
   - (ii) à l’article 81 du *Régime de pensions du Canada*,
   - (iii) à l’article 27.1 de la *Loi sur la sécurité de la vieillesse*,
   - (iv) à l’article 112 de la *Loi sur l’assurance-emploi*,
@@ -957,7 +957,9 @@ La Cour fédérale a compétence, en première instance, pour toute question res
 - L.R. (1985), ch. F-7, art. 28; L.R. (1985), ch. 30 (2^e^ suppl.), art. 61; 1990, ch. 8, art. 8; 1992, ch. 26, art. 17, ch. 33, art. 69, ch. 49, art. 128; 1993, ch. 34, art. 70; 1996, ch. 10, art. 229, ch. 23, art. 187; 1998, ch. 26, art. 73; 1999, ch. 31, art. 92(A); 2002, ch. 8, art. 35; 2003, ch. 22, art. 167(A) et 262; 2005, ch. 46, art. 56.1; 2006, ch. 9, art. 6 et 222; 2008, ch. 22, art. 46; 2012, ch. 19, art. 110, 272 et 572, ch. 24, art. 86; 2013, ch. 40, art. 236 et 439; 2014, ch. 20, art. 236; 2017, ch. 9, art. 43 et 55
 - 2019, ch. 28, art. 102
 - 2021, ch. 23, art. 237
+- 2023, ch. 26, art. 656
 - 2024, ch. 17, art. 408
+- 2024, ch. 17, art. 412
 
 </details>
 
@@ -1853,18 +1855,3 @@ Il est entendu que la Cour fédérale a compétence pour connaître des demandes
 ### 372 Protonotaires
 
 Il est entendu que les personnes qui, immédiatement avant la date d’entrée en vigueur du présent article, occupent un poste de protonotaire de la Cour fédérale, de protonotaire surnuméraire de la Cour fédérale, de protonotaire de la Cour canadienne de l’impôt ou de protonotaire surnuméraire de la Cour canadienne de l’impôt restent respectivement en fonction à titre de juge adjoint de la Cour fédérale, de juge adjoint surnuméraire de la Cour fédérale, de juge adjoint de la Cour canadienne de l’impôt ou de juge adjoint surnuméraire de la Cour canadienne de l’impôt.
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-### — 2023, ch. 26, art. 656
-
-### 656
-
-L’alinéa 28(1)g.1) de la *Loi sur les Cours fédérales* est remplacé par ce qui suit :
-
-### — 2024, ch. 17, art. 412
-
-### 412 2023, ch. 26
-
-Dès le premier jour où l’article 656 de la *Loi n^o^ 1 d’exécution du budget de 2023* et l’article 408 de la présente loi sont tous deux en vigueur, l’alinéa 28(1)g.1) de la *Loi sur les Cours fédérales* est remplacé par ce qui suit :

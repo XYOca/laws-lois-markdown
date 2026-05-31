@@ -230,7 +230,7 @@ The yearly salaries of the judges of the Court of Appeal for Ontario and of the 
 
 - (a) the Chief Justice and the Associate Chief Justice of Ontario, $371,400 each;
 
-- (b) the 14 Justices of Appeal, $338,800 each;
+- (b) the 16 Justices of Appeal, $338,800 each;
 
 - (c) the Chief Justice and the Associate Chief Justice of the Superior Court of Justice, $371,400 each; and
 
@@ -242,6 +242,7 @@ The yearly salaries of the judges of the Court of Appeal for Ontario and of the 
 - R.S., 1985, c. J-1, s. 12; R.S., 1985, c. 41 (1st Supp.), s. 2, c. 50 (1st Supp.), s. 4, c. 39 (3rd Supp.), s. 1; 1990, c. 17, s. 29; 1998, c. 30, s. 2; 2001, c. 7, s. 4; 2006, c. 11, s. 1; 2012, c. 31, s. 210; 2017, c. 20, s. 200; 2018, c. 12, s. 298
 - 2021, c. 23, s. 255
 - 2022, c. 10, s. 341
+- 2026, c. 3, s. 500
 
 </details>
 
@@ -487,13 +488,13 @@ A salary referred to in any of sections 9 to 22 that is not a multiple of one hu
 
 - (a) 16, in the case of judges appointed to appeal courts in the provinces; and
 
-- (b) 79, in the case of judges appointed to superior courts in the provinces other than appeal courts.
+- (b) 69, in the case of judges appointed to superior courts in the provinces other than appeal courts.
 
 - (c) [Repealed, 1992, c. 51, s. 7]
 
 **Unified family courts**
 
-(4) For the purposes of assisting the establishment of unified family courts in the provinces, a further number of salaries not greater than 58 at any one time may be paid in the case of judges appointed to courts described in paragraph (3)(b)
+(4) For the purposes of assisting the establishment of unified family courts in the provinces, a further number of salaries not greater than 66 at any one time may be paid in the case of judges appointed to courts described in paragraph (3)(b)
 
 - (a) where the court has the jurisdiction of a unified family court; or
 
@@ -513,6 +514,7 @@ A salary referred to in any of sections 9 to 22 that is not a multiple of one hu
 - R.S., 1985, c. J-1, s. 24; R.S., 1985, c. 41 (1st Supp.), s. 10, c. 27 (2nd Supp.), s. 3; 1989, c. 8, s. 9; 1992, c. 51, s. 7; 1996, c. 30, s. 1; 1998, c. 30, s. 3; 2006, c. 11, s. 3; 2008, c. 26, s. 1; 2015, c. 3, s. 126; 2017, c. 20, s. 211
 - 2018, c. 12, s. 300
 - 2024, c. 17, s. 320
+- 2026, c. 3, s. 501
 
 </details>
 

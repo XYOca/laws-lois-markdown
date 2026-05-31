@@ -643,3 +643,187 @@ L’Office transmet un exemplaire du rapport annuel qu’il établit en conformi
 - S.R., ch. F-13, ann.; DORS/71-348
 
 </details>
+
+
+## DISPOSITIONS CONNEXES
+
+### — 2026, ch. 3, art. 553
+
+### 553 Définitions
+
+Les définitions qui suivent s’appliquent à la présente section.
+
+**ministre** Le membre du Conseil privé du Roi pour le Canada chargé de l’application de la *Loi sur la commercialisation du poisson d’eau douce*. (**Minister**)
+
+**Office** L’Office de commercialisation du poisson d’eau douce constitué par le paragraphe 3(1) de la *Loi sur la commercialisation du poisson d’eau douce*. (**Corporation**)
+
+### — 2026, ch. 3, art. 554
+
+### 554 Objet
+
+La présente section a pour objet d’autoriser la prise de mesures diverses visant le dessaisissement et la dissolution de tout ou partie de l’Office.
+
+### — 2026, ch. 3, art. 555
+
+### 555 Pouvoirs du ministre
+
+(1) Le ministre peut, avec l’approbation du gouverneur en conseil et aux conditions que celui-ci estime indiquées, prendre l’une ou plusieurs des mesures suivantes :
+
+- a) disposer, notamment par vente, de tout ou partie des biens de l’Office;
+
+- b) faire apporter une adjonction ou toute autre modification importante aux buts pour lesquels l’Office a été constitué ou aux restrictions à l’égard des activités commerciales et autres qu’il peut exercer;
+
+- c) faire fusionner l’Office;
+
+- d) faire dissoudre l’Office;
+
+- e) faire constituer une personne morale dont les titres seraient détenus, au moment de la constitution, par Sa Majesté du chef du Canada, pour son compte ou en fiducie ou en fidéicommis pour elle et disposer, notamment par vente, de tout ou partie de ces titres;
+
+- f) faire constituer toute autre entité dont les titres seraient détenus, au moment de la constitution, par Sa Majesté du chef du Canada, pour son compte ou en fiducie ou en fidéicommis pour elle et disposer, notamment par vente, de tout ou partie de ces titres;
+
+- g) acquérir des titres d’une personne morale ou de toute autre entité qui, au moment de l’acquisition, seraient détenus par Sa Majesté du chef du Canada, pour son compte ou en fiducie ou en fidéicommis pour elle et disposer, notamment par vente, de tout ou partie de ces titres.
+
+**Pouvoirs additionnels**
+
+(2) Le ministre peut prendre ou faire prendre toute mesure liée à la réalisation de celles prises au titre du paragraphe (1).
+
+**Précision : nomination d’un liquidateur**
+
+(3) Il est entendu que, s’il le considère indiqué pour l’application de la présente section, le ministre peut nommer un liquidateur à titre amovible pour que celui-ci procède à l’administration du dessaisissement et à la dissolution de l’Office.
+
+**Attributions**
+
+(4) Dès la nomination d’un liquidateur, le président du conseil d’administration de l’Office, le président de l’Office et les autres administrateurs de l’Office cessent d’exercer leur charge respective et le liquidateur peut alors exercer toutes les attributions de l’Office.
+
+**Partie X de la *Loi sur la gestion des finances publiques***
+
+(5) Le gouverneur en conseil peut, par décret, déclarer que telles dispositions de la partie X de la *Loi sur la gestion des finances publiques* ne s’appliquent pas à une personne morale visée à l’alinéa (1)e) ou à une entité visée à l’alinéa (1)f) qui est une personne morale.
+
+### — 2026, ch. 3, art. 556
+
+### 556 Pouvoirs
+
+(1) Avec l’approbation du gouverneur en conseil et aux conditions que celui-ci estime indiquées, l’Office, toute personne morale visée à l’alinéa 555(1)e), toute entité visée à l’alinéa 555(1)f) ou toute entité qui appartient à cent pour cent à l’un de ceux-ci, ou est détenue ou est contrôlée, même indirectement, à cent pour cent par l’un de ceux-ci, peut prendre l’une ou plusieurs des mesures suivantes :
+
+- a) disposer, notamment par vente, de tout ou partie de ses biens;
+
+- b) disposer, notamment par vente, de tout ou partie de ses obligations;
+
+- c) émettre des titres et disposer, notamment par vente, de tout ou partie de ceux-ci;
+
+- d) restructurer son capital;
+
+- e) acquérir des biens d’une personne morale ou de toute autre entité;
+
+- f) faire apporter une adjonction ou toute autre modification importante aux buts pour lesquels il a été constitué ou aux restrictions à l’égard des activités commerciales et autres qu’il peut exercer;
+
+- g) faire constituer une personne morale dont des titres seraient détenus, au moment de la constitution, par lui, pour son compte ou en fiducie ou en fidéicommis pour lui;
+
+- h) faire constituer toute autre entité dont des titres seraient détenus, au moment de la constitution, par lui, pour son compte ou en fiducie ou en fidéicommis pour lui;
+
+- i) acquérir des titres d’une personne morale ou de toute autre entité qui, au moment de l’acquisition, seraient détenus par lui, pour son compte ou en fiducie ou en fidéicommis pour lui;
+
+- j) disposer, notamment par vente, de tout ou partie des titres d’une personne morale ou de toute autre entité qui sont détenus par lui, pour son compte ou en fiducie ou en fidéicommis pour lui;
+
+- k) faire faire sa fusion;
+
+- l) faire faire sa dissolution;
+
+- m) prendre toute mesure liée à la réalisation de celles prises aux alinéas a) à l).
+
+**Décret**
+
+(2) Sur recommandation du ministre, le gouverneur en conseil peut ordonner par décret, aux conditions qu’il estime indiquées, à l’Office, à une personne morale visée à l’alinéa 555(1)e) ou à toute autre entité visée à l’alinéa 555(1)f) de prendre toute mesure visée au paragraphe (1) ou de faire prendre une telle mesure par l’une des entités qui appartient à cent pour cent à l’un de ceux-ci, ou est détenue ou est contrôlée, même indirectement, à cent pour cent par l’un de ceux-ci.
+
+**Conformité aux décrets**
+
+(3) Les administrateurs de l’Office ou de la personne morale visée à l’alinéa 555(1)e) et les personnes agissant en cette qualité relativement à toute autre entité visée à l’alinéa 555(1)f) sont tenus de se conformer aux décrets du gouverneur en conseil.
+
+**Intérêt**
+
+(4) En se conformant avec les décrets, ils sont réputés agir au mieux des intérêts de l’Office, de la personne morale ou de l’entité.
+
+**Avis**
+
+(5) Dès que possible après avoir exécuté tout décret et pris toute mesure connexe requise, l’Office, la personne morale ou l’entité, selon le cas, en avise le ministre.
+
+**Non-application de la *Loi sur les textes réglementaires***
+
+(6) La *Loi sur les textes réglementaires* ne s’applique pas aux décrets pris en vertu du paragraphe (2).
+
+### — 2026, ch. 3, art. 557
+
+### 557 Dépôt devant le Parlement
+
+(1) Le ministre fait déposer le texte de tout décret pris en vertu du paragraphe 556(2) devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la date de leur prise.
+
+**Exception : renseignements nuisibles**
+
+(2) Si le ministre est d’avis que la publication de renseignements contenus dans un décret nuirait aux intérêts commerciaux du Canada, de l’Office, ou de toute personne morale ou entité qui y est visée, il en fait déposer le texte devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la date où il est avisé de son exécution.
+
+**Consultation**
+
+(3) Lorsqu’il détermine si la publication des renseignements contenus dans le décret est préjudiciable, le ministre consulte le conseil d’administration de l’Office ou de la personne morale ou, s’agissant de toute autre entité, la ou les personnes agissant en qualité d’administrateur.
+
+### — 2026, ch. 3, art. 558
+
+### 558 Transfert : biens, droits ou intérêts
+
+Sous réserve des articles 559 et 560, au moment de la dissolution de l’Office, le gouverneur en conseil peut, sur recommandation du ministre et aux conditions qu’il estime indiquées, transférer ou faire transférer à un ministre, à un ministère ou un organisme fédéral la responsabilité et la gestion des biens, des droits ou intérêts que détient l’Office.
+
+### — 2026, ch. 3, art. 559
+
+### 559 Affectation des biens
+
+(1) Les biens de l’Office sont employés à l’acquittement de ses dettes et obligations ainsi que des charges, dépenses et autres frais occasionnés par son dessaisissement et sa dissolution.
+
+**Frais de dessaisissement et de dissolution**
+
+(2) Les charges, dépenses et autres frais occasionnés par son dessaisissement et sa dissolution ont la priorité sur toutes autres créances.
+
+### — 2026, ch. 3, art. 560
+
+### 560 Surplus
+
+(1) Tout surplus qui reste après l’acquittement des dettes et obligations de l’Office ainsi que des charges, dépenses et autres frais occasionnés par son dessaisissement et sa dissolution appartient à Sa Majesté du chef du Canada.
+
+**Dettes et engagements non acquittés**
+
+(2) Toute dette ou toute obligation qui n’est pas acquittée à sa dissolution devient, à cette date, une dette ou une obligation de Sa Majesté du chef du Canada.
+
+### — 2026, ch. 3, art. 562
+
+### 562 Référence à l’Office
+
+Sauf indication contraire du contexte, toute mention de l’Office dans les contrats, actes ou autres documents que celui-ci a signés en son propre nom vaut mention de Sa Majesté du chef du Canada à compter de la date de dissolution de l’Office.
+
+### — 2026, ch. 3, art. 563
+
+### 563 Procédures judiciaires nouvelles
+
+(1) Les procédures judiciaires relatives aux obligations contractées ou aux engagements pris par l’Office à l’égard de son dessaisissement ou de sa dissolution peuvent être intentées contre Sa Majesté du chef du Canada devant la juridiction qui aurait eu compétence pour connaître des procédures intentées contre l’Office.
+
+**Procédures judiciaires en cours**
+
+(2) Sa Majesté du chef du Canada prend la suite de l’Office, au même titre et dans les mêmes conditions que celui-ci, comme partie dans les procédures judiciaires en cours lors de la dissolution de l’Office.
+
+### — 2026, ch. 3, art. 564
+
+### 564 Absence de droit à réclamation
+
+Malgré les dispositions de tout contrat, accord ou décret, les personnes nommées à titre de membre du conseil d’administration de l’Office n’ont aucun droit à une compensation, à des dommages-intérêts, à une indemnité ou à toute autre forme de dédommagement de Sa Majesté du chef du Canada ou de ses employés ou mandataires parce que leur mandat a pris fin ou en raison de l’abolition de leur poste par application de la présente section.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 3, art. 561
+
+### 561 Dissolution
+
+L’Office est dissous.
+
+### — 2026, ch. 3, art. 569
+
+### 569 Abrogation
+
+La *Loi sur la commercialisation du poisson d’eau douce*, chapitre F-13 des Lois révisées du Canada (1985), est abrogée.

@@ -167,6 +167,21 @@ The Governor in Council may make regulations
 
 </details>
 
+### 5.01 *Veterans Health Care Regulations*
+
+(1) The Governor in Council may make regulations defining “province” for the purposes of any provision of the *Veterans Health Care Regulations*.
+
+**Retroactive effect**
+
+(2) Regulations made under subsection (1) may, if they so provide, have retroactive effect.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 3, s. 372
+
+</details>
+
 ### 5.1
 
 (1) to (3) [Repealed before coming into force, 2008, c. 20, s. 3]

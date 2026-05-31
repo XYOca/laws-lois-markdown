@@ -6630,11 +6630,12 @@ In this Part, **court** means a court having jurisdiction in the place where the
 
 (1) Subject to subsections (2) and (3), the Director may
 
-- (a) dissolve a corporation by issuing a certificate of dissolution under this section if the corporation
-  - (i) has not commenced business within three years after the date shown in its certificate of incorporation,
-  - (ii) has not carried on its business for three consecutive years,
-  - (iii) is in default for a period of one year in sending to the Director any fee or any notice, document or other information required by this Act, or
-  - (iv) does not have any directors or is in the situation described in subsection 109(4); or
+- (a) dissolve a corporation by issuing a certificate of dissolution under this section on the grounds that
+  - (i) the corporation has not commenced business within three years after the date shown in its certificate of incorporation,
+  - (ii) the corporation has not carried on its business for three consecutive years,
+  - (iii) the corporation is in default for a period of one year in sending to the Director any fee or any notice, document or other information required by this Act,
+  - (iv) the corporation does not have any directors or is in the situation described in subsection 109(4), or
+  - (v) the Director is notified by the Minister of Public Safety and Emergency Preparedness that the corporation is a **listed entity** as defined in subsection 83.01(1) of the *Criminal Code*; or
 
 - (b) apply to a court for an order dissolving the corporation, in which case section 217 applies.
 
@@ -6646,9 +6647,13 @@ In this Part, **court** means a court having jurisdiction in the place where the
 
 - (b) published notice of that decision in a publication generally available to the public.
 
+**Exception — listed entities**
+
+(2.1) Subsection (2) does not apply if the ground, or one of the grounds, for issuing a certificate of dissolution is the ground set out in subparagraph (1)(a)(v).
+
 **Certificate of dissolution**
 
-(3) Unless cause to the contrary has been shown or an order has been made by a court under section 246, the Director may, after the expiration of the period referred to in subsection (2), issue a certificate of dissolution in the form that the Director fixes.
+(3) Unless cause to the contrary has been shown or an order has been made by a court under section 246, the Director may issue a certificate of dissolution in the form that the Director fixes. However, if subsection (2) applies, the certificate is not to be issued until after the end of the period referred to in that subsection.
 
 **Payment of incorporation fee or sending of information**
 
@@ -6663,6 +6668,7 @@ In this Part, **court** means a court having jurisdiction in the place where the
 
 - R.S., 1985, c. C-44, s. 212; 1994, c. 24, s. 25; 2001, c. 14, ss. 105, 135(E); 2018, c. 8, s. 29(F)
 - 2023, c. 29, s. 6
+- 2026, c. 3, s. 589
 
 </details>
 

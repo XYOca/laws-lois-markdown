@@ -19785,7 +19785,7 @@ For greater certainty but subject to section 241 of the *Income Tax Act*, a pers
 
 - (b) the person in relation to whom the information or documents referred to in paragraph (c) are required;
 
-- (c) the type of information or book, record, writing, return or other document obtained by or on behalf of the Minister of National Revenue for the purposes of Part IX of the *Excise Tax Act*, the *Income Tax Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act*, the *Digital Services Tax Act* or the *Global Minimum Tax Act* to which access is sought or that is proposed to be examined or communicated; and
+- (c) the type of information or book, record, writing, return or other document obtained by or on behalf of the Minister of National Revenue for the purposes of Part IX of the *Excise Tax Act*, the *Income Tax Act*, the *Excise Act, 2001*, the *Underused Housing Tax Act*, the *Select Luxury Items Tax Act* or the *Global Minimum Tax Act* to which access is sought or that is proposed to be examined or communicated; and
 
 - (d) the facts relied on to justify the belief, on reasonable grounds, that the person referred to in paragraph (b) has committed or benefited from the commission of any of the offences referred to in subsection (1.1) and that the information or documents referred to in paragraph (c) are likely to be of substantial value, whether alone or together with other material, to the investigation for the purposes of which the application is made.
 
@@ -19886,6 +19886,7 @@ within such period after the expiration of seven clear days following the servic
 - 2024, c. 17, s. 84
 - 2024, c. 17, s. 111
 - 2024, c. 17, s. 372(F)
+- 2026, c. 3, s. 131
 
 </details>
 

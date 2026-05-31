@@ -2917,12 +2917,16 @@ A collection, compilation, analysis, abstract or other record or report of stati
 
 - (b.1) makes a representation to the public in the form of a statement, warranty or guarantee of a product’s benefits for protecting or restoring the environment or mitigating the environmental, social and ecological causes or effects of climate change that is not based on an adequate and proper test, the proof of which lies on the person making the representation;
 
-- (b.2) makes a representation to the public with respect to the benefits of a business or business activity for protecting or restoring the environment or mitigating the environmental and ecological causes or effects of climate change that is not based on adequate and proper substantiation in accordance with internationally recognized methodology, the proof of which lies on the person making the representation; or
+- (b.2) makes a representation to the public with respect to the benefits of a business or business activity for protecting or restoring the environment or mitigating the environmental and ecological causes or effects of climate change that is not based on adequate and proper substantiation, the proof of which lies on the person making the representation; or
 
 - (c) makes a representation to the public in a form that purports to be
   - (i) a warranty or guarantee of a product, or
   - (ii) a promise to replace, maintain or repair an article or any part thereof or to repeat or continue a service until it has achieved a specified result,
   if the form of purported warranty or guarantee or promise is materially misleading or if there is no reasonable prospect that it will be carried out.
+
+**Non-application of paragraph (1)(b.2)**
+
+(1.01) Paragraph (1)(b.2) does not apply for the purposes of an application made under this Part by a person granted leave under section 103.1.
 
 **Drip pricing**
 
@@ -2964,6 +2968,7 @@ A collection, compilation, analysis, abstract or other record or report of stati
 - 1999, c. 2, s. 22; 2009, c. 2, s. 422
 - 2022, c. 10, s. 259
 - 2024, c. 15, s. 236
+- 2026, c. 3, s. 597
 
 </details>
 
@@ -4852,6 +4857,10 @@ Where the Commissioner issues a certificate under section 102, the Commissioner 
 
 (6.1) The Tribunal may grant leave to make an application under section 74.1 if it is satisfied that it is in the public interest to do so.
 
+**Refusing leave — section 74.1**
+
+(6.2) However, the Tribunal is not to consider an application for leave in respect of an application under section 74.1 that is made on the basis of paragraph 74.01(1)(b.2).
+
 **Granting leave — sections 75, 77, 79 or 90.1**
 
 (7) The Tribunal may grant leave to make an application under section 75, 77, 79 or 90.1 if it has reason to believe that the applicant is directly and substantially affected in the whole or part of the applicant’s business by any conduct referred to in one of those sections that could be subject to an order under that section or if it is satisfied that it is in the public interest to do so.
@@ -4890,6 +4899,7 @@ Where the Commissioner issues a certificate under section 102, the Commissioner 
 - 2002, c. 16, s. 12; 2009, c. 2, s. 431
 - 2022, c. 10, s. 266
 - 2024, c. 15, s. 254
+- 2026, c. 3, s. 598
 
 </details>
 

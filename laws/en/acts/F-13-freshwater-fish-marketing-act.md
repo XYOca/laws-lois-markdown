@@ -645,3 +645,187 @@ The Corporation shall submit a copy of each annual report of the Corporation pre
 - R.S., c. F-13, Sch.; SOR/71-348
 
 </details>
+
+
+## RELATED PROVISIONS
+
+### — 2026, c. 3, s. 553
+
+### 553 Definitions
+
+The following definitions apply in this Division.
+
+**Corporation** means the Freshwater Fish Marketing Corporation established by subsection 3(1) of the *Freshwater Fish Marketing Act*. (**Office**)
+
+**Minister** means the member of the King’s Privy Council for Canada designated as Minister for the purposes of the *Freshwater Fish Marketing Act*. (**ministre**)
+
+### — 2026, c. 3, s. 554
+
+### 554 Purpose
+
+The purpose of this Division is to authorize the taking of various measures for the divestiture and dissolution of all or any part of the Corporation.
+
+### — 2026, c. 3, s. 555
+
+### 555 Powers of Minister
+
+(1) The Minister may, with the approval of the Governor in Council and on any terms that the Governor in Council considers appropriate, take any of the following measures:
+
+- (a) sell or otherwise dispose of some or all of the property of the Corporation;
+
+- (b) procure an addition to, or other material change in, the objects or purposes for which the Corporation is incorporated or the restrictions on the businesses or activities that it may carry on;
+
+- (c) procure the amalgamation of the Corporation;
+
+- (d) procure the dissolution of the Corporation;
+
+- (e) procure the incorporation of a corporation whose securities, on incorporation, would be held by, on behalf of or in trust for His Majesty in right of Canada and sell or otherwise dispose of some or all of those securities;
+
+- (f) procure the formation of any other entity whose securities, on formation, would be held by, on behalf of or in trust for His Majesty in right of Canada and sell or otherwise dispose of some or all of those securities; or
+
+- (g) acquire securities of a corporation or of any other entity that, on acquisition, would be held by, on behalf of or in trust for His Majesty in right of Canada and sell or otherwise dispose of some or all of those securities.
+
+**Additional powers**
+
+(2) The Minister may do anything or cause anything to be done that is necessary for, or incidental to, a measure taken under subsection (1).
+
+**For greater certainty**
+
+(3) For greater certainty, if the Minister considers it appropriate to carry out the purposes of this Division, the Minister may appoint a liquidator, who is to hold office during pleasure, to administer the divestiture and dissolution of the Corporation.
+
+**Powers, duties and functions**
+
+(4) On appointment of a liquidator, the Chairperson of the Board of Directors of the Corporation, the President of the Corporation and the other directors of the Corporation cease to hold their respective offices and the liquidator may exercise all of the powers and perform all the duties and functions of the Corporation.
+
+**Part X of *Financial Administration Act***
+
+(5) The Governor in Council may, by order, declare that any provision of Part X of the *Financial Administration Act* does not apply to a corporation referred to in paragraph (1)(e) or to another entity referred to in paragraph (1)(f) that is a corporation.
+
+### — 2026, c. 3, s. 556
+
+### 556 Powers
+
+(1) The Corporation, any corporation referred to in paragraph 555(1)(e) or any other entity referred to in paragraph 555(1)(f) — or any entity that is wholly owned, or wholly held or controlled, directly or indirectly, by the Corporation, the corporation or the other entity — may, with the approval of the Governor in Council and on any terms that the Governor in Council considers appropriate, take any of the following measures:
+
+- (a) sell or otherwise dispose of some or all of its property;
+
+- (b) sell or otherwise dispose of some or all of its liabilities;
+
+- (c) issue securities and sell or otherwise dispose of some or all of those securities;
+
+- (d) reorganize its capital structure;
+
+- (e) acquire the property of a corporation or any other entity;
+
+- (f) procure an addition to, or other material change in, the objects or purposes for which it is incorporated or formed or the restrictions on the businesses or activities that it may carry on;
+
+- (g) procure the incorporation of a corporation whose securities, on incorporation, would be held by, on behalf of or in trust for it;
+
+- (h) procure the formation of any other entity whose securities, on formation, would be held by, on behalf of or in trust for it;
+
+- (i) acquire securities of a corporation or any other entity that, on acquisition, would be held by, on behalf of or in trust for it;
+
+- (j) sell or otherwise dispose of some or all of the securities of a corporation or any other entity that are held by, on behalf of or in trust for it;
+
+- (k) procure its amalgamation;
+
+- (l) procure its dissolution; or
+
+- (m) do anything that is necessary for, or incidental to, a measure taken under any of paragraphs (a) to (l).
+
+**Order in council**
+
+(2) The Governor in Council may, on the recommendation of the Minister and on any terms that the Governor in Council considers appropriate, by order, direct the Corporation, any corporation referred to in paragraph 555(1)(e) or any other entity referred to in paragraph 555(1)(f) — or any entity that is wholly owned, or wholly held or controlled, directly or indirectly, by the Corporation, the corporation or the other entity — to take, or cause any wholly-owned or wholly held or controlled entity of the Corporation, the corporation or the other entity to take a measure referred to in subsection (1).
+
+**Compliance with order**
+
+(3) The directors of the Corporation or the corporation referred to in paragraph 555(1)(e) or any persons acting in a similar capacity with respect to the other entity referred to in paragraph 555(1)(f) must comply with an order made under subsection (2).
+
+**Best interests**
+
+(4) Compliance with an order made under subsection (2) is deemed to be in the best interests of the Corporation, the corporation or the other entity.
+
+**Notification of implementation**
+
+(5) As soon as feasible after the Corporation, corporation or entity implements an order and completes any actions that are required to be taken in connection with that implementation, it must notify the Minister that it has done so.
+
+**Non-application of *Statutory Instruments Act***
+
+(6) The *Statutory Instruments Act* does not apply to an order made under subsection (2).
+
+### — 2026, c. 3, s. 557
+
+### 557 Tabling in Parliament
+
+(1) The Minister is to cause a copy of an order made under subsection 556(2) to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the order is made.
+
+**Exception — detrimental information**
+
+(2) However, if the Minister is of the opinion that publishing information contained in the order would be detrimental to the commercial interests of Canada, of the Corporation or of any corporation or entity referred to in the order, the Minister is to cause a copy of the order to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister is notified that the order has been implemented.
+
+**Consultation**
+
+(3) Before the Minister forms an opinion as to whether publishing information contained in the order would be detrimental, the Minister must consult the Board of Directors of the Corporation or of the corporation or the person or group of persons acting in a similar capacity with respect to the other entity.
+
+### — 2026, c. 3, s. 558
+
+### 558 Transfer — property, rights or interests
+
+Subject to sections 559 and 560, on the day on which the Corporation is dissolved, the Governor in Council may, on the recommendation of the Minister and on any terms that the Governor in Council considers appropriate, transfer, or direct to be transferred, the control, management and administration of any property, rights or interests held by the Corporation to any Minister, department or agency of the Government of Canada.
+
+### — 2026, c. 3, s. 559
+
+### 559 Distribution of property
+
+(1) The property of the Corporation is to be applied in satisfaction of its debts and liabilities, and of the charges, costs and expenses incurred in respect of its divestiture and dissolution.
+
+**Expenses — divestiture and dissolution**
+
+(2) All charges, costs and expenses incurred in respect of the divestiture and dissolution of the Corporation are payable out of the property of the Corporation in priority to all other claims.
+
+### — 2026, c. 3, s. 560
+
+### 560 Surplus
+
+(1) Any surplus that remains after the satisfaction of the debts and liabilities of the Corporation and the charges, costs and expenses incurred in respect of its divestiture and dissolution belongs to His Majesty in right of Canada.
+
+**Unsatisfied debts and liabilities**
+
+(2) Any debts and liabilities of the Corporation that remain unsatisfied on the day on which the Corporation is dissolved become the debts and liabilities of His Majesty in right of Canada.
+
+### — 2026, c. 3, s. 562
+
+### 562 Reference to Corporation
+
+On or after the day on which the Corporation is dissolved, every reference to the Corporation in any contract, instrument, act or other document executed or signed by the Corporation in its own name is to be read, unless the context otherwise requires, as a reference to His Majesty in right of Canada.
+
+### — 2026, c. 3, s. 563
+
+### 563 Commencement of legal proceedings
+
+(1) Any action, suit or other legal proceeding in respect of an obligation or liability incurred by the Corporation in respect of its divestiture or dissolution may be brought against His Majesty in right of Canada in any court that would have had jurisdiction if the action, suit or other legal proceeding had been brought against the Corporation.
+
+**Continuation of legal proceedings**
+
+(2) Any action, suit or other legal proceeding to which the Corporation is party that is pending in any court on the day on which the Corporation is dissolved may be continued by or against His Majesty in right of Canada in like manner and to the same extent as it could have been continued by or against the Corporation.
+
+### — 2026, c. 3, s. 564
+
+### 564 No compensation
+
+Despite the provisions of any contract, agreement or order in council, no person who is appointed to hold office as a member of the Board of Directors of the Corporation has any right to any compensation, damages, indemnity or other form of relief from His Majesty in right of Canada or from any employee or agent of His Majesty for ceasing to hold that office or for the abolition of that office, by the operation of this Division.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 3, s. 561
+
+### 561 Dissolution
+
+The Corporation is dissolved.
+
+### — 2026, c. 3, s. 569
+
+### 569 Repeal
+
+The *Freshwater Fish Marketing Act*, chapter F-13 of the Revised Statutes of Canada, 1985, is repealed.

@@ -6567,11 +6567,12 @@ Dans la présente partie, **tribunal** désigne le tribunal compétent du ressor
 
 (1) Sous réserve des paragraphes (2) et (3), le directeur peut :
 
-- a) soit dissoudre, par la délivrance du certificat de dissolution prévu au présent article, toute société qui, selon le cas :
-  - (i) n’a pas commencé ses opérations dans les trois ans suivant la date figurant sur son certificat de constitution,
-  - (ii) n’a pas exercé ses activités commerciales pendant trois ans consécutifs,
-  - (iii) omet, pendant un délai d’un an, d’envoyer au directeur les droits ou les avis, documents ou autres renseignements exigés par la présente loi,
-  - (iv) est sans administrateur ou se trouve dans la situation visée au paragraphe 109(4);
+- a) soit dissoudre, par la délivrance du certificat de dissolution prévu au présent article, toute société pour l’un des motifs suivants :
+  - (i) la société n’a pas commencé ses opérations dans les trois ans suivant la date figurant sur son certificat de constitution,
+  - (ii) elle n’a pas exercé ses activités commerciales pendant trois ans consécutifs,
+  - (iii) elle omet, pendant un délai d’un an, d’envoyer au directeur les droits ou les avis, documents ou autres renseignements exigés par la présente loi,
+  - (iv) elle est sans administrateur ou se trouve dans la situation visée au paragraphe 109(4),
+  - (v) le ministre de la Sécurité publique et de la Protection civile avise le directeur que la société est une **entité inscrite** au sens du paragraphe 83.01(1) du *Code criminel*;
 
 - b) soit demander au tribunal sa dissolution par voie d’ordonnance, auquel cas l’article 217 s’applique.
 
@@ -6583,9 +6584,13 @@ Dans la présente partie, **tribunal** désigne le tribunal compétent du ressor
 
 - b) d’avoir publié un avis de son intention dans une publication destinée au grand public.
 
+**Exception : entités inscrites**
+
+(2.1) Le paragraphe (2) ne s’applique pas si le motif, ou l’un des motifs, de la délivrance du certificat de dissolution est celui qui est énoncé au sous-alinéa (1)a)(v).
+
 **Certificat de dissolution**
 
-(3) En l’absence d’opposition justifiée ou d’ordonnance rendue en vertu de l’article 246, le directeur peut, à l’expiration du délai visé au paragraphe (2), délivrer le certificat de dissolution en la forme établie par lui.
+(3) En l’absence d’opposition justifiée ou d’ordonnance rendue en vertu de l’article 246, le directeur peut délivrer le certificat de dissolution en la forme qu’il a établie. Il ne peut toutefois le délivrer qu’après l’expiration du délai visé au paragraphe (2), si ce paragraphe s’applique.
 
 **Paiement des droits de constitution ou remise de renseignements**
 
@@ -6600,6 +6605,7 @@ Dans la présente partie, **tribunal** désigne le tribunal compétent du ressor
 
 - L.R. (1985), ch. C-44, art. 212; 1994, ch. 24, art. 25; 2001, ch. 14, art. 105 et 135(A); 2018, ch. 8, art. 29(F)
 - 2023, ch. 29, art. 6
+- 2026, ch. 3, art. 589
 
 </details>
 

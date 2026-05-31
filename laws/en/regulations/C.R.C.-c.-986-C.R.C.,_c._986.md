@@ -1186,3 +1186,45 @@ A prescribed circumstance for the purposes of paragraph 251.01(3)(b) of the Act 
 ### 9
 
 (1) Schedule II to the Regulations is amended by adding the following after “Maternity leave”:
+
+### — SOR/2026-75, s. 1
+
+### 1
+
+The *Canada Labour Standards Regulations*[^] are amended by adding the following after section 11.1:
+
+### — SOR/2026-75, s. 2
+
+### 2
+
+The Regulations are amended by adding the following after section 16:
+
+### — SOR/2026-75, s. 3
+
+### 3
+
+Subsection 24(2) of the Regulations is amended by adding the following after paragraph (f):
+
+### — SOR/2026-75, s. 4
+
+### 4
+
+Schedule II to the Regulations is amended by replacing “Equal wages” with “Equal treatment”.
+
+### — SOR/2026-75, s. 5
+
+### 5
+
+Schedule II to the Regulations is amended by adding the following after “Multi-employer employment”:
+
+### — SOR/2026-75, s. 6
+
+### 6
+
+Schedule II to the Regulations is amended by replacing “Sick leave” with “Medical leave”.
+
+### — SOR/2026-75, s. 7
+
+### 7
+
+Schedule II to the Regulations is amended by replacing “*https://www.canada.ca/en/employment-social-development/programs/employment-standards/federal-standards.html*” with “*https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards.html*”.

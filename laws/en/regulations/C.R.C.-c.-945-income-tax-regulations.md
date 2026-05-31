@@ -1090,9 +1090,9 @@ Every institution that is a **designated educational institution** (as defined i
 
 ### 204.2
 
-(1) For the purposes of subsection 150(1) of the Act, every person having the control of, or receiving income, gains or profits in a fiduciary capacity, or in a capacity analogous to a fiduciary capacity, shall provide information in respect of a trust, unless the trust is subject to one of the exceptions listed in paragraphs 150(1.2)(a) to (o) of the Act, that includes the name, address, date of birth (in the case of an individual other than a trust), jurisdiction of residence and **TIN** (as defined in subsection 270(1) of the Act) for each person who, in the year,
+(1) Every trust, other than a trust described in any of paragraphs 150(1.2)(a) to (r) of the Act, that is required to file a return of income under subsection 150(1) of the Act, shall provide information that includes the name, address, date of birth (in the case of an individual other than a trust), jurisdiction of residence and **TIN** (as defined in subsection 270(1) of the Act) for each person or partnership who, in the year,
 
-- (a) is a trustee, beneficiary (subject to subsection (2)) or **settlor** (as defined in subsection 17(15) of the Act) of the trust; or
+- (a) is a trustee, beneficiary (subject to subsection (2)) or settlor of the trust; or
 
 - (b) has the ability (through the terms of the trust or a related agreement) to exert influence over trustee decisions regarding the appointment of income or capital of the trust.
 
@@ -1102,15 +1102,22 @@ Every institution that is a **designated educational institution** (as defined i
 
 - (b) in respect of a trust, the beneficiaries of which are all of the members of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the *Constitution Act, 1982*, or an identifiable class of the members of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the *Constitution Act, 1982*, the person making the return provides a sufficiently detailed description of the class of beneficiaries to determine with certainty whether any particular person is a member of that class of beneficiaries;
 
-- (c) in respect of a trust that is not described in paragraph 150(1.2)(h) of the Act but which has one or more classes of units that are listed on a designated stock exchange, the person making the return provides the required information regarding the beneficiaries of those classes of units that are not listed on a designated stock exchange; and
+- (b.1) the trustee of the trust is a public guardian and trustee authorized under a law of Canada or a Province who, as trustee, who is acting in their capacity as public guardian and trustee, including acting as trustee of a trust pursuant to an order of a court;
 
-- (d) in respect of beneficiaries not described in paragraphs (a) to (c), the person making the return provides sufficiently detailed information to determine with certainty whether any particular person is a beneficiary of the trust.
+- (c) in respect of a trust that is not described in paragraph 150(1.2)(h) of the Act but which has one or more classes of units that are listed on a designated stock exchange, the person making the return provides the required information regarding the beneficiaries of those classes of units that are not listed on a designated stock exchange;
+
+- (d) in respect of beneficiaries not described in paragraphs (a) to (c), the person making the return provides sufficiently detailed information to determine with certainty whether any particular person is a beneficiary of the trust; and
+
+- (e) in respect of a trust that is an alter ego trust or a joint spousal or common-law partner trust, the person making the return provides the required information regarding the beneficiaries of the trust, other than those beneficiaries who are beneficiaries under the trust solely because of a right of the person to receive any of the trust’s income or capital, if under that right the person may so receive that income or capital only on or after the death after that time of an individual.
+
+(3) For the purpose of subsection (1), a **settlor** of a trust at any time means any person or partnership that has directly or indirectly, in any manner whatever, transferred property to the trust at or before that time, other than a transfer made by the person or partnership to the trust for fair market value consideration or pursuant to a legal obligation to make the transfer.
 
 <details>
 <summary>Historical Note</summary>
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - 2022, c. 19, s. 72
+- 2026, c. 3, s. 100
 
 </details>
 
@@ -3452,9 +3459,11 @@ For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are
 
 - (a) section 21 of the Act;
 
-- (b) subsections 13(4), (7.4) and (29), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 91(1.4), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3), 251.2(6) and 256(9) of the Act;
+- (b) subsections 13(4), (7.4) and (29), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 91(1.4), 93.4(2) to (5), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3), 251.2(6) and 256(9) of the Act;
 
-- (c) paragraphs 12(2.2)(b), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act;
+- (c) paragraphs 12(2.2)(b), (e) of the definition **excluded interest** and (b) of the definition **specified pre-regime loss** in subsection 18.2(1), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 84.1(2.31)(h) and (2.32)(i), 86.1(2)(f), 110.61(1)(e), 110.62(1)(e) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act;
+
+- (c.1) subclause 95(2)(f.11)(ii)(E)(III) of the Act; and
 
 - (d) subsections 1103(1), (2) and (2d) and 5907(2.1) of these Regulations.
 
@@ -3463,6 +3472,7 @@ For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1; 2013, c. 34, s. 382, c. 40, s. 98; 2016, c. 12, s. 76; 2017, c. 33, s. 89
+- 2026, c. 3, s. 101
 
 </details>
 
@@ -3931,67 +3941,13 @@ and the product obtained under paragraph (d) is the amount by which the amount r
 
 ## Elections in Respect of Deceased Taxpayers
 
-### Property Dispositions
-
 ### 1000
 
-(1) Any election under subsection 164(6) of the Act shall be made by the legal representative of a deceased taxpayer by filing with the Minister the following documents:
-
-- (a) a letter from the legal representative specifying
-  - (i) the part of the one or more capital losses from the disposition of properties, if any, under paragraph 164(6)(c) of the Act, and
-  - (ii) the part of the amount, if any, under paragraph 164(6)(d) of the Act
-  in respect of which the election is made;
-
-- (b) where an amount is specified under subparagraph (a)(i), a schedule of the capital losses and capital gains referred to in paragraph 164(6)(a) of the Act;
-
-- (c) where an amount is specified under subparagraph (a)(ii),
-  - (i) a schedule of the amounts of undepreciated capital cost described in paragraph 164(6)(b) of the Act,
-  - (ii) a statement of the amount that, but for subsection 164(6) of the Act, would be the non-capital loss of the estate for its first taxation year, and
-  - (iii) a statement of the amount that, but for subsection 164(6) of the Act, would be the farm loss of the estate for its first taxation year.
-
-- (d) and (e) [Repealed, SOR/88-165, s. 5]
-
-(2) The documents referred to in subsection (1) shall be filed not later than the day that is the later of
-
-- (a) the last day provided by the Act for the filing of a return that the legal representative of a deceased taxpayer is required or has elected to file under the Act in respect of the income of that deceased taxpayer for the taxation year in which he died; and
-
-- (b) the day the return of the income for the first taxation year of the deceased taxpayer’s estate is required to be filed under paragraph 150(1)(c) of the Act.
-
-<details>
-<summary>Historical Note</summary>
-
-- [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
-- SOR/85-696, s. 1; SOR/88-165, s. 5
-
-</details>
-
-### Realization of Options
+[Repealed, 2026, c. 3, s. 102]
 
 ### 1000.1
 
-(1) An election under subsection 164(6.1) of the Act shall be made by the legal representative of a deceased taxpayer by filing with the Minister a letter from the legal representative setting out the following:
-
-- (a) the amount of the benefit referred to in subparagraph 164(6.1)(a)(i) of the Act;
-
-- (b) the value of the right, and the amount paid for the right, referred to in subparagraph 164(6.1)(a)(ii) of the Act;
-
-- (c) the deducted amount, referred to in subparagraph 164(6.1)(a)(iii) of the Act; and
-
-- (d) the amount of the loss referred to in paragraph 164(6.1)(b) of the Act.
-
-(2) The letter shall be filed not later than the day that is the later of
-
-- (a) the last day provided by the Act for the filing of a return that the legal representative of a deceased taxpayer is required or has elected to file under the Act in respect of the income of that deceased taxpayer for the taxation year in which he or she died, and
-
-- (b) the day the return of the income for the first taxation year of the deceased taxpayer’s estate is required to be filed under paragraph 150(1)(c) of the Act.
-
-<details>
-<summary>Historical Note</summary>
-
-- [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
-- SOR/2005-123, s. 4
-
-</details>
+[Repealed, 2026, c. 3, s. 102]
 
 ### Annual Instalments
 
@@ -4100,17 +4056,20 @@ Any election by a deceased taxpayer’s legal representative under subsection 15
   - (i) the income for the taxation year from the taxpayer’s eligible liquefaction activities in respect of the eligible liquefaction facility (taking into consideration any deduction under paragraph (yb) and before making any deduction under this paragraph), and
   - (ii) 6% of the undepreciated capital cost to the taxpayer of property of that separate class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
 
+- (a.4) if a separate class is prescribed by subsection 1101(1ac.1) for a property of a taxpayer that is a new purpose-built residential rental throughout the taxation year, such amount as the taxpayer may claim not exceeding six per cent of the undepreciated capital cost to the taxpayer of the property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
+
 - (b) such amount as the taxpayer may claim in respect of the capital cost to the taxpayer of property of Class 13 in Schedule II, not exceeding
   - (i) if the capital cost of the property was incurred in the taxation year and after November 12, 1981,
-    - (A) if the property is an accelerated investment incentive property and the capital cost of the property was incurred before 2024, the lesser of
-    - (B) if the property is not an accelerated investment incentive property and is not described in any of subparagraphs (b)(iii) to (v) of the description of F in subsection (2), 50 per cent of the amount for the year calculated in accordance with Schedule III, and
+    - (A) if the property is either an accelerated investment incentive property and the capital cost of the property was incurred before 2024, or a reaccelerated investment incentive property and the capital cost of the property was incurred before 2030, the lesser of
+    - (B) if the property is neither an accelerated investment incentive property nor a reaccelerated investment incentive property and is not described in any of subparagraphs (b)(iii) to (v) of the description of F in subsection (2), 50 per cent of the amount for the year calculated in accordance with Schedule III, and
   - (ii) in any other case, the amount for the year calculated in accordance with Schedule III,
   and, for the purposes of this paragraph and Schedule III, the capital cost to a taxpayer of a property shall be deemed to have been incurred at the time at which the property became available for use by the taxpayer;
 
 - (c) such amount as he may claim in respect of property of Class 14 in Schedule II not exceeding the lesser of
   - (i) the total of
-    - (A) the aggregate of the amounts for the year obtained by apportioning the capital cost to the taxpayer of each property over the life of the property remaining at the time the cost was incurred, and
+    - (A) the aggregate of the amounts for the year obtained by apportioning the capital cost to the taxpayer of each property over the life of the property remaining at the time the cost was incurred,
     - (B) if the property is accelerated investment incentive property, the portion of the amount determined under clause (A) that is in respect of the property multiplied by
+    - (C) if the property is reaccelerated investment incentive property, the portion of the amount determined under clause (A) that is in respect of the property multiplied by
   - (ii) the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;
 
 - (c.1) for a taxation year that ends before 2027, such additional amount as the taxpayer may claim in respect of property of Class 14.1 of Schedule II not exceeding
@@ -4212,7 +4171,7 @@ Any election by a deceased taxpayer’s legal representative under subsection 15
   - (iii) a property that has been constituted a prescribed class by subsection 24(2) of Chapter 91 of the Statutes of Canada, 1966-67,
   not exceeding the lesser of
   - (iv) the capital cost of the property to the taxpayer multiplied by
-    - (A) 50 per cent, in the case of an accelerated investment incentive property acquired in the year and before 2024,
+    - (A) 50 per cent, in the case of an accelerated investment incentive property acquired in the year and before 2024 or a reaccelerated investment incentive property acquired in the year and before 2030,
     - (B) 16 2/3 per cent, in the case of property acquired in the year, other than
     - (C) 33 1/3 per cent, in any other case, and
   - (v) the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under this paragraph for the taxation year) of property of the class,
@@ -4480,11 +4439,13 @@ the following rules apply:
 (2) The amount that a taxpayer may deduct for a taxation year under subsection (1) in respect of property of a class in Schedule II is to be determined as if the undepreciated capital cost to the taxpayer at the end of the taxation year (before making any deduction under subsection (1) for the taxation year) of property of the class were adjusted by adding the positive or negative amount determined by the formula
 
 ```
-A(B) − 0.5(C)
+A(B) + A.1(B.1) − 0.5(C)
 where
-Ais, in respect of property of the class that became available for use by the taxpayer in the taxation year and that is accelerated investment incentive property or property included in any of Classes 54 to 56,(a)if the property is not included in paragraph (1)(v) or in any of Classes 12, 13, 14, 15, 43.1, 43.2, 53, 54, 55, 56, 59 or in Class 43 in the circumstances described in paragraph (d),(b)if the class is Class 43.1,(i)2 1/3, for property that became available for use by the taxpayer before 2024,(ii)1 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)5/6, for property that became available for use by the taxpayer after 2025,(c)if the class is Class 43.2,(i)1, for property that became available for use by the taxpayer before 2024,(ii)1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)1/10, for property that became available for use by the taxpayer after 2025,(d)if the property is included in Class 53 or — for property acquired after 2025 — is included in Class 43 and would have been included in Class 53 if it had been acquired in 2025,(i)1, for property that became available for use by the taxpayer before 2024,(ii)1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)5/6, for property included in Class 43 that became available for use by the taxpayer after 2025, and(iv)1/10, for property included in Class 53 that became available for use by the taxpayer after 2025,(e)if the class is Class 54 or Class 56,(i)2 1/3, for property that became available for use by the taxpayer before 2024,(ii)1 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)5/6, for property that became available for use by the taxpayer after 2025,(f)if the class is Class 55,(i)1 1/2, for property that became available for use by the taxpayer before 2024,(ii)7/8, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)3/8, for property that became available for use by the taxpayer after 2025, and(g)in any other case, nil;
-Bis the amount determined, in respect of the class, by the formulaD − EwhereDis the total of all amounts, if any, each of which is an amount included in the description of A in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property of the class that became available for use by the taxpayer in the taxation year and that is accelerated investment incentive property or property included in any of Classes 54 to 56, andEis the amount, if any, by which the amount determined for G exceeds the amount determined for F in the description of C; and
-Cis the amount determined, in respect of the class, by the formulaF − GwhereFis the total of all amounts each of which(a)is an amount added to the undepreciated capital cost to the taxpayer of property of the class(i)because of element A in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property (other than accelerated investment incentive property) that was acquired, or became available for use, by the taxpayer in the taxation year, or(ii)because of element C or D in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of an amount that was repaid in the taxation year, and(b)is not in respect of(i)property included in paragraph (1)(v), in paragraph (w) of Class 10 or in any of paragraphs (a) to (c), (e) to (i), (k), (l) and (p) to (s) of Class 12,(ii)property included in any of Classes 13, 14, 15, 23, 24, 27, 29, 34, 52 and 54 to 56,(iii)where the taxpayer was a corporation described in subsection (16) throughout the taxation year, property that was specified leasing property of the taxpayer at that time,(iv)property that was deemed to have been acquired by the taxpayer in a preceding taxation year by reason of the application of paragraph 16.1(1)(b) of the Act in respect of a lease to which the property was subject immediately before the time at which the taxpayer last acquired the property, or(v)property considered to have become available for use by the taxpayer in the taxation year by reason of paragraph 13(27)(b) or (28)(c) of the Act, andGis the total of all amounts each of which is an amount deducted from the undepreciated capital cost to the taxpayer of property of the class(a)because of element F or G in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property disposed of in the taxation year, or(b)because of element J in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of an amount the taxpayer received or was entitled to receive in the taxation year.
+Ais, in respect of property of the class that became available for use by the taxpayer in the taxation year and that is accelerated investment incentive property or property acquired before 2025 that is included in any of Classes 54 to 56,(a)if the property is not included in paragraph (1)(v) or in any of Classes 12, 13, 14, 15, 43.1, 43.2, 53, 54, 55, 56 and 59 or in Class 43 in the circumstances described in paragraph (d),(i)1/2, for property that became available for use by the taxpayer before 2024, and(ii)nil, for property that became available for use by the taxpayer after 2023 (other than property referred to in any of paragraphs (c.1) to (c.3)),(b)if the class is Class 43.1,(i)2 1/3, for property that became available for use by the taxpayer before 2024,(ii)1 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)5/6, for property that became available for use by the taxpayer after 2025,(c)if the class is Class 43.2,(i)1, for property that became available for use by the taxpayer before 2024,(ii)1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)1/10, for property that became available for use by the taxpayer after 2025,(c.1)if the class is Class 44,(i)3, for property that was acquired and became available for use by the taxpayer after April 15, 2024 and before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(c.2)if the class is Class 46,(i)2 1/3, for property that was acquired and became available for use by the taxpayer after April 15, 2024 and before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(c.3)if the class is Class 50,(i)9/11, for property that was acquired and became available for use by the taxpayer after April 15, 2024 and before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(d)if the property is included in Class 53 or — for property acquired after 2025 — is included in Class 43 and would have been included in Class 53 if it had been acquired in 2025,(i)1, for property that became available for use by the taxpayer before 2024,(ii)1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)5/6, for property included in Class 43 that became available for use by the taxpayer after 2025, and(iv)1/10, for property included in Class 53 that became available for use by the taxpayer after 2025,(e)if the class is Class 54 or Class 56,(i)2 1/3, for property that became available for use by the taxpayer before 2024,(ii)1 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)5/6, for property that became available for use by the taxpayer after 2025,(f)if the class is Class 55,(i)1 1/2, for property that became available for use by the taxpayer before 2024,(ii)7/8, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)3/8, for property that became available for use by the taxpayer after 2025, and(g)in any other case, nil;
+A.1is, in respect of property of the class that became available for use by the taxpayer in the taxation year and that is reaccelerated investment incentive property or property acquired after 2024 that is included in any of Classes 54 to 56,(a)if the property is not included in paragraph (1)(v) or in any of Classes 12, 13, 14, 15, 43.1, 44, 46, 50, 53, 54, 55, 56 and 59 or in Class 43 in the circumstances described in paragraph (f),(i)1/2, for property that became available for use by the taxpayer before 2030, and(ii)nil, for property that became available for use by the taxpayer after 2029,(b)if the class is Class 43.1,(i)2 1/3, for property that became available for use by the taxpayer before 2030,(ii)1 1/2, for property that became available for use by the taxpayer in 2030 or 2031, and(iii)5/6, for property that became available for use by the taxpayer after 2031,(c)if the class is Class 44,(i)3, for property that became available for use by the taxpayer before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(d)if the class is Class 46,(i)2 1/3, for property that became available for use by the taxpayer before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(e)if the class is Class 50,(i)9/11, for property that became available for use by the taxpayer before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(f)if the property is included in Class 53 or — for property acquired after 2025 — is included in Class 43 and would have been included in Class 53 if it had been acquired in 2025,(i)1, for property included in Class 53,(ii)2 1/3, for property included in Class 43 that became available for use by the taxpayer before 2030,(iii)1 1/2, for property included in Class 43 that became available for use by the taxpayer in 2030 or 2031,(iv)5/6, for property included in Class 43 that became available for use by the taxpayer after 2031,(g)if the class is Class 54 or Class 56,(i)2 1/3, for property that became available for use by the taxpayer before 2030,(ii)1 1/2, for property that became available for use by the taxpayer in 2030 or 2031, and(iii)5/6, for property that became available for use by the taxpayer after 2031,(h)if the class is Class 55,(i)1 1/2, for property that became available for use by the taxpayer before 2030,(ii)7/8, for property that became available for use by the taxpayer in 2030 or 2031, and(iii)3/8, for property that became available for use by the taxpayer after 2031, and(i)in any other case, nil;
+Bis the amount determined, in respect of the class, by the formulaD − EwhereDis the total of all amounts, if any, each of which is an amount included in the description of A in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property of the class that became available for use by the taxpayer in the taxation year and that is accelerated investment incentive property or property acquired before 2025 that is included in any of Classes 54 to 56, andEis the amount, if any, by which the amount determined for G exceeds the amount determined for F in the description of C;
+B.1is the amount determined, in respect of the class, by the formulaD.1 − E.1whereD.1is the total of all amounts, if any, each of which is an amount included in the description of A in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property of the class that became available for use by the taxpayer in the taxation year and that is reaccelerated investment incentive property or property acquired after 2024 that is included in any of classes 54 to 56, andE.1is the amount, if any, by which the amount determined for G exceeds the amount determined for F; and
+Cis the amount determined, in respect of the class, by the formulaF − GwhereFis the total of all amounts each of which(a)is an amount added to the undepreciated capital cost to the taxpayer of property of the class(i)because of element A in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property (other than accelerated investment incentive property or reaccelerated investment incentive property) that was acquired, or became available for use, by the taxpayer in the taxation year, or(ii)because of element C or D in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of an amount that was repaid in the taxation year, and(b)is not in respect of(i)property included in paragraph (1)(v), in paragraph (w) of Class 10 or in any of paragraphs (a) to (c), (e) to (i), (k), (l) and (p) to (s) of Class 12,(ii)property included in any of Classes 13, 14, 15, 23, 24, 27, 29, 34, 52 and 54 to 56,(iii)where the taxpayer was a corporation described in subsection (16) throughout the taxation year, property that was specified leasing property of the taxpayer at that time,(iv)property that was deemed to have been acquired by the taxpayer in a preceding taxation year by reason of the application of paragraph 16.1(1)(b) of the Act in respect of a lease to which the property was subject immediately before the time at which the taxpayer last acquired the property, or(v)property considered to have become available for use by the taxpayer in the taxation year by reason of paragraph 13(27)(b) or (28)(c) of the Act, andGis the total of all amounts each of which is an amount deducted from the undepreciated capital cost to the taxpayer of property of the class(a)because of element F or G in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property disposed of in the taxation year, or(b)because of element J in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of an amount the taxpayer received or was entitled to receive in the taxation year.
 ```
 
 
@@ -4516,6 +4477,46 @@ Dis the amount that would be determined for D in subsection (2) if the only prop
 ```
 
 
+**Straddle years — reaccelerated investment incentive property**
+
+(2.011) For the purposes of subsection (2),
+
+- (a) if a taxation year begins in 2029 and ends in 2030, the factor determined for A.1 in subsection (2) (other than for the purposes of paragraphs (c), (d) and (e) of the description of A.1 in subsection (2)) is to be replaced by the factor determined by the formula
+
+```
+(A(B) + C(D))/(B + D)
+where
+Ais the factor otherwise determined for A.1 in subsection (2) for 2029,
+Bis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2029,
+Cis the factor otherwise determined for A.1 in subsection (2) for 2030, and
+Dis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2030;
+```
+
+
+- (b) for the purposes of paragraphs (c), (d) and (e) of the description of A.1 in subsection (2), if a taxation year begins in 2026 and ends in 2027, the factor determined for A.1 in subsection (2) is to be replaced by the factor determined by the formula
+
+```
+(A(B) + C(D))/(B + D)
+where
+Ais the factor otherwise determined for A.1 in subsection (2) for 2026,
+Bis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2026,
+Cis the factor otherwise determined for A.1 in subsection (2) for 2027, and
+Dis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2027; and
+```
+
+
+- (c) if a taxation year begins in 2031 and ends in 2032, the factor determined for A.1 in subsection (2) is to be replaced by the factor determined by the formula
+
+```
+(A(B) + C(D))/(B + D)
+where
+Ais the factor otherwise determined for A.1 in subsection (2) for 2031,
+Bis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2031,
+Cis the factor otherwise determined for A.1 in subsection (2) for 2032, and
+Dis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2032.
+```
+
+
 **Expenditures excluded from element D**
 
 (2.02) For the purposes of subsection (2), in respect of property of a class in Schedule II that is accelerated investment incentive property of a taxpayer solely because of subparagraph 1104(4)(b)(i),
@@ -4528,6 +4529,19 @@ Dis the amount that would be determined for D in subsection (2) if the only prop
   - (ii) if the amounts are incurred after November 20, 2018 and amounts are deemed to have been deducted under paragraph 20(1)(a) or subsection 20(16), in respect of those amounts incurred, under paragraph 1104(4.1)(b); and
 
 - (b) any amount excluded from the amount determined for D in subsection (2) in respect of the class because of paragraph (a) is to be included in determining the amount for F in subsection (2) in respect of the class, unless no amount in respect of the property would be so included if the property were not accelerated investment incentive property of the taxpayer.
+
+**Expenditures excluded from D.1**
+
+(2.021) For the purposes of subsection (2), in respect of property of a class in Schedule II that is reaccelerated investment incentive property of a taxpayer solely because of subparagraph 1104(4.01)(b)(i),
+
+- (a) amounts incurred by any person or partnership in respect of the property are not to be included in determining the amount for D.1 in subsection (2) in respect of the class
+  - (i) if the amounts are incurred before 2025, unless
+    - (A) the property was acquired after 2024 by a person or partnership from another person or partnership (referred to in this subparagraph as the “transferee” and the “transferor”, respectively),
+    - (B) the transferee was either
+    - (C) the transferor
+  - (ii) if the amounts are incurred after 2024 and amounts are deemed to have been deducted under paragraph 20(1)(a) or subsection 20(16) of the Act, in respect of those amounts incurred, under paragraph 1104(4.11)(b); and
+
+- (b) any amount excluded from the amount determined for D.1 in subsection (2) in respect of the class because of paragraph (a) is to be included in determining the amount for F in subsection (2) in respect of the class, unless no amount in respect of the property would be so included if the property were not reaccelerated investment incentive property of the taxpayer.
 
 (2.1) Where a taxpayer has, after November 12, 1981 and before 1983, acquired or incurred a capital cost in respect of a property of a class in Schedule II and
 
@@ -4910,6 +4924,8 @@ that would otherwise be specified energy property of the taxpayer shall be deeme
 - 2022, c. 10, s. 34
 - 2024, c. 15, s. 79
 - SOR/2024-231, s. 5
+- 2026, c. 3, s. 103
+- 2026, c. 3, s. 123(F)
 
 </details>
 
@@ -4979,6 +4995,8 @@ a separate class is hereby prescribed for all properties each of which
 
 erection of which building was commenced by the taxpayer before 1972 or pursuant to an agreement in writing entered into by the taxpayer before 1972.
 
+(1ac.1) For the purposes of this Part, each property of a taxpayer that is a new purpose-built residential rental is prescribed to be a separate class of property.
+
 (1ad) Notwithstanding subsection (1ac), a rental property acquired by a taxpayer
 
 - (a) in the course of a reorganization in respect of which, if a dividend were received by a corporation in the course of the reorganization, subsection 55(2) of the Act would not be applicable to the dividend by reason of the application of paragraph 55(3)(b) of the Act, or
@@ -5036,6 +5054,8 @@ if those Orders in Council were applicable to the taxation year, a separate clas
 - (b) after May 22, 1979 and designed principally for the purpose of determining the existence, location, extent or quality of mineral resources.
 
 (2c) Subsections (2a) and (2b) do not apply to a vessel, nor to the furniture, fittings, radio communications equipment and other equipment attached to the vessel, if a structured financing facility relating to any such property has been agreed to by the Minister of Industry under the *Department of Industry Act*.
+
+(2d) A separate class is prescribed for each vessel of a taxpayer described in Class 7 in Schedule II, including the furniture, fittings, radiocommunication equipment and other equipment attached to the vessel, that has been used by the taxpayer to earn income that would not be included in computing the income of the taxpayer because of paragraph 81(1)(c.1) of the Act.
 
 (3) For the purposes of this Part and Schedules IV and VI, each property of a taxpayer that is
 
@@ -5258,6 +5278,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F); SOR/2011-9, s. 2; 2013, c. 34, s. 384, c. 40, 101; SOR/2015-117, s. 2
+- 2026, c. 3, s. 104
 
 </details>
 
@@ -5294,9 +5315,11 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 - (i) that was deemed by section 18 of the *Income Tax Act*, as enacted by the Statutes of Canada, 1958, Chapter 32, subsection 8(1), to have been acquired by the taxpayer and that did not vest in the taxpayer before the 1963 taxation year;
 
-- (j) of a life insurer, that is property used by it in, or held by it in the course of, carrying on an insurance business outside Canada; or
+- (j) of a life insurer, that is property used by it in, or held by it in the course of, carrying on an insurance business outside Canada;
 
-- (k) that is linefill in a pipeline.
+- (k) that is linefill in a pipeline; or
+
+- (l) referred to in paragraph 81(1)(c.3) of the Act.
 
 (1a) Where the taxpayer is a member of a partnership, the classes of property described in this Part and in Schedule II shall be deemed not to include any property that is an interest of the taxpayer in depreciable property that is partnership property of the partnership.
 
@@ -5494,11 +5517,11 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 
 (20) For the purposes of subsections 1100(2.2) and (19), 1101(lad) and 1102(14) (in this subsection referred to as the “relevant subsections”), where, but for this subsection, a taxpayer would be considered to be dealing not at arm’s length with another person as a result of a transaction or series of transactions the principal purpose of which may reasonably be considered to have been to cause one or more of the relevant subsections to apply in respect of the acquisition of a property, the taxpayer shall be considered to be dealing at arm’s length with the other person in respect of the acquisition of that property.
 
-(20.1) For the purposes of subsections 1100(0.3) and (2.02) and 1104(3.1) and (4), a particular person or partnership and another person or partnership shall be considered not to be dealing at arm’s length with each other in respect of the acquisition or ownership of a property if, in the absence of this subsection, they would be considered to be dealing at arm’s length with each other and it may reasonably be considered that the principal purpose of any transaction or event, or a series of transactions or events, is to cause
+(20.1) For the purposes of subsections 1100(0.3), (2.02) and (2.021) and 1104(3.1), (4) and (4.01), a particular person or partnership and another person or partnership shall be considered not to be dealing at arm’s length with each other in respect of the acquisition or ownership of a property if, in the absence of this subsection, they would be considered to be dealing at arm’s length with each other and it may reasonably be considered that the principal purpose of any transaction or event, or a series of transactions or events, is to cause
 
-- (a) the property to qualify as accelerated investment incentive property or immediate expensing property; or
+- (a) the property to qualify as accelerated investment incentive property, reaccelerated investment incentive property or immediate expensing property; or
 
-- (b) the particular person or partnership and the other person or partnership to satisfy the condition in subclause 1100(2.02)(a)(i)(C)(I) or subparagraph 1100(0.3)(c)(i).
+- (b) the particular person or partnership and the other person or partnership to satisfy the condition in subparagraph 1100(0.3)(c)(i) or subclause 1100(2.02)(a)(i)(C)(I) or (2.021)(a)(i)(C)(I).
 
 (21) Where a taxpayer has acquired a property described in Class 43.1 of Schedule II in circumstances in which clauses (b)(iii)(A) and (B) or (e)(iii)(A) and (B) of that class apply,
 
@@ -5532,6 +5555,7 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 - 2019, c. 29, s. 53
 - 2021, c. 23, s. 85
 - 2022, c. 10, s. 35
+- 2026, c. 3, s. 105
 
 </details>
 
@@ -5739,6 +5763,12 @@ but does not include
   - (c) instructs the equipment to read and select, alter or store data from an external medium such as a card, disk or tape, and
   - (d) depends upon the characteristics of the data being processed to determine the sequence of its execution; (**matériel électronique universel de traitement de l’information**)
 
+**new purpose-built residential rental** means a purpose-built residential rental that
+  - (a) was
+    - (i) built for use as a purpose-built residential rental if construction began after April 15, 2024 and before 2031, or
+    - (ii) previously a building, or part of a building, used as a commercial property that was substantially renovated for use as a purpose-built residential rental if the renovations began after April 15, 2024 and before 2031, and
+  - (b) becomes available for use before 2036; (**nouvel ensemble résidentiel construit spécialement pour la location**)
+
 **oil sands project** of a taxpayer means an undertaking by the taxpayer for the extraction of tar sands from a mineral resource owned by the taxpayer, which undertaking may include the processing of the tar sands to a stage that is not beyond the crude oil stage or its equivalent; (**projet de sables bitumineux**)
 
 **oil sands property** of a taxpayer means property acquired by the taxpayer for the purpose of earning income from an oil sands project of the taxpayer; (**bien de sables bitumineux**)
@@ -5754,7 +5784,15 @@ but does not include
   - (f) building roads, and
   - (g) entering into contracts; (**travaux préliminaires**)
 
+**purpose-built residential rental** means a building or a part of a building situated in Canada
+  - (a) that contains
+    - (i) four or more residential rental units at least four of which contain private kitchen facilities, a private bath and a private living area, or
+    - (ii) 10 or more residential rental units, and
+  - (b) in which all or substantially all the residential rental units are rented or offered for rent for continuous periods of not less than 28 consecutive days; (**ensemble résidentiel construit spécialement pour la location**)
+
 **railway system** includes a railway owned or operated by a common carrier, together with all buildings, rolling stock, equipment and other properties pertaining thereto, but does not include a tramway; (**réseau de chemin de fer**)
+
+**residential rental unit** means a housing unit used or intended for use as a rented residential premises that is not provided to the travelling or vacationing public; (**logement locatif**)
 
 **specified development phase** of a taxpayer’s oil sands project means a bitumen development phase or an upgrading development phase of the oil sands project which can reasonably be expected to result in a planned level of average daily output (where that output is bitumen or a similar product in the case of a bitumen development phase, or synthetic crude oil or a similar product in the case of an upgrading development phase), and in respect of which phase,
   - (a) not including any preliminary work activity, one or more designated assets was, before March 19, 2007,
@@ -5874,7 +5912,19 @@ and includes a right or licence to use such a combination of computer programs a
 
 (4) For the purposes of this Part and Schedules II to VI, **accelerated investment incentive property** means property of a taxpayer (other than property included in any of Classes 54 to 56) that
 
-- (a) is acquired by the taxpayer after November 20, 2018 and becomes available for use before 2028; and
+- (a) is acquired by the taxpayer after November 20, 2018 and before 2025 and becomes available for use before 2028; and
+
+- (b) meets either of the following conditions:
+  - (i) the property is not a property in respect of which an amount has been deducted under paragraph 20(1)(a) or subsection 20(16) of the Act by any person or partnership for a taxation year ending before the time the property was acquired by the taxpayer, or
+  - (ii) the property was not
+    - (A) acquired in circumstances where
+    - (B) previously owned or acquired by the taxpayer or by a person or partnership with which the taxpayer did not deal at arm’s length at any time when the property was owned or acquired by the person or partnership.
+
+**Definition of **reaccelerated investment incentive property****
+
+(4.01) For the purposes of this Part and Schedules II to VI, **reaccelerated investment incentive property** means property of a taxpayer (other than property included in any of Classes 54 to 56) that
+
+- (a) is acquired by the taxpayer after 2024 and becomes available for use before 2034; and
 
 - (b) meets either of the following conditions:
   - (i) the property is not a property in respect of which an amount has been deducted under paragraph 20(1)(a) or subsection 20(16) of the Act by any person or partnership for a taxation year ending before the time the property was acquired by the taxpayer, or
@@ -5889,6 +5939,14 @@ and includes a right or licence to use such a combination of computer programs a
 - (a) incurred before November 21, 2018; or
 
 - (b) incurred after November 20, 2018, if any portion of the single property is considered to have become available for use before the time the single property is first used for the purpose of earning income.
+
+**Deemed separate properties**
+
+(4.11) For the purpose of subparagraph (4.01)(b)(i), if the capital cost to a taxpayer of a depreciable property (referred to in this subsection as the “single property”) includes amounts incurred at different times, then amounts deducted under paragraph 20(1)(a) or subsection 20(16) of the Act in respect of the single property are deemed to have been deducted in respect of a separate property that is not part of the single property to the extent the deducted amounts can reasonably be considered to be in respect of amounts
+
+- (a) incurred before 2025; or
+
+- (b) incurred after 2024, if any portion of the single property is considered to have become available for use before the time the single property is first used for the purpose of earning income.
 
 (5) For the purposes of paragraphs 1100(1)(w) to (ya.2), subsections 1101(4a) to (4h) and Classes 10, 28 and 41 to 41.2 of Schedule II, a taxpayer’s **income from a mine**, or any expression referring to a taxpayer’s income from a mine, includes income reasonably attributable to
 
@@ -6052,9 +6110,19 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 **district energy system** means a system that is used primarily to provide heating or cooling by continuously circulating, from a central generation unit to one or more buildings through a system of interconnected pipes, an energy transfer medium that is heated or cooled using thermal energy. (**réseau énergétique de quartier**)
 
+**eligible electrical generation equipment** means property that is electrical generating equipment described in
+  - (a) subparagraph (d)(iii.1), (v), (vi), (vii), (xiv) or (xix) of Class 43.1 in Schedule II; or
+  - (b) subparagraph (e)(i) or (iii) of the definition **clean electricity property** in subsection 127.491(1) of the Act. (**matériel générateur d’électricité admissible**)
+
 **eligible landfill site** means a landfill site that is situated in Canada, or a former landfill site that is situated in Canada, and, if a permit or licence in respect of the site is or was required under any law of Canada or of a province, for which the permit or licence has been issued. (**site d’enfouissement admissible**)
 
 **eligible sewage treatment facility** means a sewage treatment facility that is situated in Canada and for which a permit or licence is issued under any law of Canada or of a province. (**installation admissible de traitement des eaux usées**)
+
+**eligible transmission equipment** means property (other than a building) that is transmission equipment of a taxpayer where
+  - (a) the transmission equipment is used in connection with eligible electrical generation equipment of the taxpayer; and
+  - (b) on annual basis
+    - (i) more than 75% of the electrical energy generated by the eligible electrical generation equipment is transmitted by the transmission equipment, and
+    - (ii) more than 75% of the electrical energy transmitted by the transmission equipment is generated by the eligible electrical generation equipment. (**matériel de transmission admissible**)
 
 **eligible waste fuel** means biogas, bio-oil, digester gas, landfill gas, municipal waste, plant residue, pulp and paper waste and wood waste. (**combustible résiduaire admissible**)
 
@@ -6111,7 +6179,7 @@ and a certificate that has been so revoked shall be void from the time of its is
   - (a) be vented to the atmosphere or transferred to a liquid; and
   - (b) not be used for a useful purpose. (**déchets thermiques**)
 
-**transmission equipment** means equipment used to transmit more than 75 per cent of the annual electrical energy generated by electrical generating equipment, but does not include a building. (**matériel de transmission**)
+**transmission equipment** means equipment used to transmit electrical energy. (**matériel de transmission**)
 
 **wood waste** includes scrap wood, sawdust, wood chips, bark, limbs, saw-ends and hog fuel, but does not include spent pulping liquor and any waste that no longer has the physical or chemical properties of wood. (**déchets de bois**)
 
@@ -6121,7 +6189,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 - (a) the property would reasonably be considered to be part of the taxpayer’s system were the property owned by the taxpayer;
 
-- (b) the property utilizes steam obtained from the taxpayer’s system primarily in an industrial process (other than the generation of electrical energy);
+- (b) the property utilizes heat obtained from the taxpayer’s system;
 
 - (c) the operation of the property is necessary for the taxpayer’s system to operate in the manner required by paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be; and
 
@@ -6129,18 +6197,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 (16) For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
 
-(17) A property that would otherwise be eligible for inclusion in Class 43.1 or Class 43.2 in Schedule II by a taxpayer is deemed not to be eligible for inclusion in either of those classes if
-
-- (a) the property is
-  - (i) included in Class 43.1 because of its subparagraph (c)(i), or
-  - (ii) described in
-    - (A) any of subparagraphs (d)(vii) to (ix), (xi), (xiii), (xiv), (xvi), (xvii) and (xix) to (xxii) of Class 43.1, or
-    - (B) paragraph (a) of Class 43.2; and
-
-- (b) at the time the property becomes available for use by the taxpayer, the taxpayer has not satisfied the requirements of all environmental laws, by-laws and regulations
-  - (i) of Canada, a province or a municipality in Canada, or
-  - (ii) of a municipal or public body performing a function of government in Canada
-  applicable in respect of the property.
+(17) A property that would otherwise be eligible for inclusion in Class 43.1 or Class 43.2 in Schedule II by a taxpayer is deemed not to be eligible for inclusion in either of those classes if, at the time the property becomes available for use, there is substantial non-compliance by the taxpayer with the requirements of any environmental law, by-law or regulation of Canada, a province, a municipality, or a municipal or public body performing a function of government in Canada that is applicable in respect of the property.
 
 (18) For the purposes of paragraphs 1100(1)(a.3) and (yb), a taxpayer’s income for a taxation year from eligible liquefaction activities in respect of an eligible liquefaction facility of the taxpayer is determined as if
 
@@ -6162,6 +6219,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 - 2022, c. 10, s. 36
 - 2022, c. 10, s. 37
 - 2022, c. 10, s. 38
+- 2026, c. 3, s. 106
 
 </details>
 
@@ -7614,7 +7672,7 @@ Any election by an individual under paragraph 48(1)(a) of the Act shall be made 
 (3) For the purposes of paragraphs (1)(a) and (2)(a), the amount determined under this subsection in respect of an insurer for a taxation year is the positive or negative amount determined by the formula
 
 ```
-A + B + (0.95 × C) − (0.9 × D) + E + F + G − (H − (0.9 × I))
+A + B + (0.95 × C) − (0.9 × D) + E + F + G − [H − (0.9 × I) − (0.05 × J)]
 where
 Ais the total of all amounts each of which is the liability for remaining coverage for a group of insurance contracts of the insurer at the end of the year other than a group of life insurance contracts;
 Bis the total of all amounts each of which is an amount, in respect of a group of insurance contracts of the insurer at the end of the year other than a group of life insurance contracts, that is(a)the liability for incurred claims for the group, if no portion of the liability for incurred claims is in respect of insurance policies other than insurance policies in respect of which(i)a claim that was incurred before the end of the year has been reported to the insurer before the end of the year,(ii)the claim is in respect of damages for personal injury or death, and(iii)the insurer has agreed to a structured settlement of the claim, and(b)in any other case, the amount that would be the liability for incurred claims for the group if the liability for incurred claims were determined excluding insurance policies other than insurance policies that meet the conditions in subparagraphs (a)(i) to (iii);
@@ -7623,8 +7681,9 @@ Dis the total of all amounts each of which is the contractual service margin for
 Eis an amount in respect of policies that insure a fidelity risk, a surety risk, a nuclear risk or a risk related to a financial loss of a lender on a loan made on the security of real property, equal to the lesser of(a)the total of the reported reserves of the insurer at the end of the year in respect of such risks (other than an amount included under the description of A, B, C, D or F), and(b)a reasonable amount as a reserve determined as at the end of the year in respect of such risks (other than an amount included under the description of A, B, C, D or F);
 Fis the amount of a guarantee fund at the end of the year provided for under an agreement in writing between the insurer and His Majesty in right of Canada under which His Majesty has agreed to guarantee the obligations of the insurer under a policy that insures a risk related to a financial loss of a lender on a loan made on the security of real property;
 Gis an amount in respect of policies that insure earthquake risks in Canada equal to the lesser of(a)the portion of the reported reserve of the insurer at the end of the year in respect of those risks that is attributable to accumulations from premiums in respect of those risks (other than an amount included under the description of A, B, C, D, E or F), and(b)a reasonable amount as a reserve determined at the end of the year in respect of those risks (other than an amount included under the description of A, B, C, D, E or F);
-His the total of all amounts each of which is an amount, in respect of a group of reinsurance contracts held by the insurer at the end of the year, that is(a)if no portion of the reinsurance contract held amount for the group is in respect of the reinsurance of a risk under life insurance policies, the reinsurance contract held amount for the group, and(b)in any other case, the amount that would be the reinsurance contract held amount for the group if the amount were determined excluding any portion of that amount that is in respect of the reinsurance of a risk under life insurance policies; and
-Iis the total of all amounts each of which is the amount, in respect of a group of reinsurance contracts held by the insurer at the end of the year, that is(a)if no portion of the contractual service margin for the group is in respect of the reinsurance of a risk under a policy other than a policy described in paragraph (a) of the description of D, or a policy in respect of insurance described in paragraph (b) or (c) of the description of D, the contractual service margin for the group, and(b)in any other case, the amount that would be the contractual service margin for the group if the contractual service margin were determined excluding any portion of the contractual service margin other than that portion that is in respect of the reinsurance of a risk under a policy described in paragraph (a) of the description of D, and a policy in respect of insurance described in paragraph (b) or (c) of the description of D.
+His the total of all amounts each of which is an amount, in respect of a group of reinsurance contracts held by the insurer at the end of the year, that is(a)if no portion of the reinsurance contract held amount for the group is in respect of the reinsurance of a risk under life insurance policies, the reinsurance contract held amount for the group, and(b)in any other case, the amount that would be the reinsurance contract held amount for the group if the amount were determined excluding any portion of that amount that is in respect of the reinsurance of a risk under life insurance policies;
+Iis the total of all amounts each of which is the amount, in respect of a group of reinsurance contracts held by the insurer at the end of the year, that is(a)if no portion of the contractual service margin for the group is in respect of the reinsurance of a risk under a policy other than a policy described in paragraph (a) of the description of D, or a policy in respect of insurance described in paragraph (b) or (c) of the description of D, the contractual service margin for the group, and(b)in any other case, the amount that would be the contractual service margin for the group if the contractual service margin were determined excluding any portion of the contractual service margin other than that portion that is in respect of the reinsurance of a risk under a policy described in paragraph (a) of the description of D, and a policy in respect of insurance described in paragraph (b) or (c) of the description of D; and
+Jis the reinsurance contract held amount in respect of a group of reinsurance contracts that is included in the description of H and that is in respect of a liability for incurred claims in respect of a group of insurance contracts that is included in the description of C.
 ```
 
 
@@ -7638,6 +7697,7 @@ Iis the total of all amounts each of which is the amount, in respect of a group 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/79-425, s. 1; SOR/80-419, s. 1; SOR/88-165, s. 8; SOR/90-661, s. 2; SOR/92-681, s. 3(F); SOR/94-297, s. 1; SOR/94-415, s. 4; SOR/94-686, ss. 56(F), 57(F), 81(F); SOR/96-443, s. 1; SOR/99-269, ss. 1, 2; SOR/2002-123, ss. 3, 4
 - 2022, c. 19, s. 78
+- 2026, c. 3, s. 107
 
 </details>
 
@@ -10222,9 +10282,12 @@ For the purposes of the definition **qualified expenditure** in subsection 127(9
     - (H) a fine or penalty, or
   - (ii) the maintenance and upkeep of premises, facilities or equipment to the extent that such expenditure is not attributable to the prosecution of scientific research;
 
-- (b) an expenditure incurred by a taxpayer in respect of
-  - (i) the acquisition of property that is qualified property or qualified resource property within the meaning assigned by subsection 127(9) of the Act, or
-  - (ii) the acquisition of property that has been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer;
+- (b) an expenditure of a capital nature incurred by a taxpayer in respect of
+  - (i) the acquisition of property, except any such expenditure that at the time it was incurred
+    - (A) was for **first term shared-use-equipment** or **second term shared-use-equipment** (as those terms are defined in subsection 127(9) of the Act), or
+    - (B) was for the provision of premises, facilities or equipment if, at the time of the acquisition of the premises, facilities or equipment, it was intended
+  - (ii) the acquisition of property that is **qualified property** as defined in subsection 127(9) of the Act, or
+  - (iii) the acquisition of property that has been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer;
 
 - (c) an expenditure made to acquire rights in, or arising out of, scientific research and experimental development;
 
@@ -10243,20 +10306,30 @@ For the purposes of the definition **qualified expenditure** in subsection 127(9
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/78-749, s. 3; SOR/86-488, s. 3; SOR/86-1136, ss. 3, 6; SOR/88-165, s. 15; SOR/94-140, s. 5; SOR/94-686, ss. 53(F), 63(F), 79(F); SOR/95-63, s. 2; 2012, c. 31, s. 63
+- 2026, c. 3, s. 108
 
 </details>
 
 ### Special-Purpose Buildings
 
-### 2903
+### 2903 Special-purpose buildings
 
-[Repealed, 2012, c. 31, s. 64]
+For the purposes of this Part and paragraph 37(8)(e) of the Act, a special-purpose building is a building the working areas of which are designed and constructed to have a displacement in any direction of not more than 0.02 µm (micrometres) and to have, per 0.028 cubic metre of interior airspace,
+
+- (a) not more than 350 airborne particles of a size less than or equal to 0.1 µm (micrometres) in diameter and no airborne particles of a size greater than 0.1 µm (micrometres) in diameter,
+
+- (b) not more than 75 airborne particles of a size less than or equal to 0.2 µm (micrometres) in diameter and no airborne particles of a size greater than 0.2 µm (micrometres) in diameter,
+
+- (c) not more than 30 airborne particles of a size less than or equal to 0.3 µm (micrometres) in diameter and no airborne particles of a size greater than 0.3 µm (micrometres) in diameter, or
+
+- (d) not more than 10 airborne particles of a size less than or equal to 0.5 µm (micrometres) in diameter and no airborne particles of a size greater than 0.5 µm (micrometres) in diameter.
 
 <details>
 <summary>Historical Note</summary>
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/91-602, s. 1; SOR/95-63, s. 3; 2012, c. 31, s. 64
+- 2026, c. 3, s. 109
 
 </details>
 
@@ -10314,7 +10387,7 @@ For the purposes of the definition **qualified expenditure** in subsection 127(9
   - (iv) payment of that amount is to be made in a foreign currency or is to be determined by reference to its value in a foreign currency and it may reasonably be considered, having regard to the history of the exchange rate between the foreign currency and Canadian currency, that the total of all such payments, when converted to Canadian currency at the exchange rate expected to prevail at the date on which each such payment would be required to be made, will be substantially less than that total would be if each such payment was converted to Canadian currency at the time that each such payment became owing;
 
 - (b) that the purchaser or a person with whom the purchaser does not deal at arm’s length is entitled at any time to, directly or indirectly, receive or have available
-  - (i) as a form of assistance from a government, municipality or other public authority, whether as a grant, a subsidy, a forgivable loan, a deduction from tax (other than an amount described in clause (b)(i)(B) of the definition **tax shelter** in subsection 237.1(1) of the Act) or an investment allowance, or as any other form of assistance, or
+  - (i) as a form of assistance from a government, municipality or other public authority, whether as a grant, a subsidy, a forgivable loan, a deduction from tax (other than an amount described in clause (b)(i)(B) of the definition **tax shelter** in subsection 237.1(1) of the Act) or an investment allowance, or as any other form of assistance, other than an **excluded loan** as defined in subsection 12(11) of the Act, or
   - (ii) by reason of a revenue guarantee or other agreement in respect of which revenue may be earned by the purchaser or a person with whom the purchaser does not deal at arm’s length, to the extent that the revenue guarantee or other agreement may reasonably be considered to ensure that the purchaser or person will receive a return of all or a portion of the purchaser’s outlays in respect of the interest;
 
 - (c) that is the proceeds of disposition to which the purchaser may be entitled by way of an agreement or other arrangement under which the purchaser has a right, either absolutely or contingently, to dispose of the interest (otherwise than as a consequence of the purchaser’s death), including the fair market value of any property that the agreement or arrangement provides for the acquisition of in exchange for all or any part of the interest; and
@@ -10344,13 +10417,16 @@ For the purposes of the definition **qualified expenditure** in subsection 127(9
     - (B) at least 90% of the value of all interests in which are held by limited partners (within the meaning assigned by subsection 96(2.4) of the Act) that are corporations, and
     - (C) the principal business of each such limited partner is related to the principal business of the partnership,
 
-- (c) of a corporation where the amount is a bona fide business loan made to the corporation for the purpose of financing a business that the corporation operates and the loan is made under a loan program of the Government of Canada or of a province the purpose of which is to extend financing to small- and medium-sized Canadian businesses.
+- (c) of a corporation where the amount is a bona fide business loan made to the corporation for the purpose of financing a business that the corporation operates and the loan is made under a loan program of the Government of Canada or of a province the purpose of which is to extend financing to small- and medium-sized Canadian businesses, or
+
+- (d) where the amount is an **excluded loan** as defined in subsection 12(11) of the Act.
 
 <details>
 <summary>Historical Note</summary>
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/2011-188, s. 16
+- 2026, c. 3, s. 110
 
 </details>
 
@@ -13085,7 +13161,9 @@ For the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is p
 
 - (z.3) standing device designed to be used by an individual who has a severe mobility impairment to undertake standing therapy; or
 
-- (z.4) pressure pulse therapy device designed to be used by an individual who has a balance disorder.
+- (z.4) pressure pulse therapy device designed to be used by an individual who has a balance disorder;
+
+- (z.5) navigation device for low vision for an individual who has a vision impairment.
 
 <details>
 <summary>Historical Note</summary>
@@ -13093,6 +13171,7 @@ For the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is p
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/80-948, s. 1; SOR/85-696, s. 17; SOR/87-716, s. 1; SOR/90-809, s. 1; SOR/94-189, s. 1; SOR/99-387, s. 1; SOR/2001-4, s. 1; SOR/2007-212, s. 3; 2009, c. 2, s. 109; 2012, c. 19, s. 18
 - SOR/2024-231, s. 13(E)
+- 2026, c. 3, s. 111
 
 </details>
 
@@ -14516,6 +14595,7 @@ exceeds
 - SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112; 2013, c. 34, ss. 46, 85, 401; 2014, c. 39, s. 88; 2017, c. 33, s. 97; 2018, c. 27, s. 39
 - 2024, c. 15, s. 83
 - SOR/2024-231, s. 14
+- 2026, c. 3, s. 112
 
 </details>
 
@@ -17324,7 +17404,7 @@ For the purposes of subsection 13(18.1), the definition **Canadian renewable and
 
 ### 8201
 
-For the purposes of subsection 16.1(1), the definition **outstanding debts to specified non-residents** in subsection 18(5), subsections 100(1.3) and 112(2), the definition **qualified Canadian transit organization** in subsection 118.02(1), subsections 125.4(1) and 125.5(1), the definition **taxable supplier** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), section 233.8, the definitions **Canadian banking business** and **tax-indifferent investor** in subsection 248(1) and paragraph 260(5)(a) of the Act, a **permanent establishment** of a person or partnership (either of whom is referred to in this section as the person) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
+For the purposes of subsection 16.1(1), the definition **outstanding debts to specified non-residents** in subsection 18(5), subsections 100(1.3), 112(2), 125.4(1) and 125.5(1), the definition **taxable supplier** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), section 233.8, the definition **Canadian banking business** in subsection 248(1) and paragraph 260(5)(a) of the Act, a **permanent establishment** of a person or partnership (either of whom is referred to in this section as the “person”) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
 
 - (a) where the person carries on business through an employee or agent, established in a particular place, who has general authority to contract for the person or who has a stock of merchandise owned by the person from which the employee or agent regularly fills orders, the person shall be deemed to have a permanent establishment at that place,
 
@@ -17343,6 +17423,7 @@ except that, where the person is resident in a country with which the Government
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15; SOR/2010-93, s. 25; 2012, c. 31, s. 68; 2013, c. 34, ss. 49, 427; 2016, c. 7, s. 58, c. 12, s. 82
+- 2026, c. 3, s. 113
 
 </details>
 
@@ -19956,9 +20037,11 @@ the following rules apply:
 
 (13) Notwithstanding subsection (3),
 
-- (a) for the purposes of the condition in paragraph (3)(b) as it applies in respect of benefits provided under the pension plan established by the *Public Service Superannuation Act*, the reference to “any other registered pension plan” in subparagraph (3)(b)(ii) does not include the pension plans established by the *Canadian Forces Superannuation Act* and the *Royal Canadian Mounted Police Superannuation Act*; and
+- (a) for the purposes of the condition in paragraph (3)(b) as it applies in respect of benefits provided under the pension plan established by the *Public Service Superannuation Act*, the reference to “any other registered pension plan” in subparagraph (3)(b)(ii) does not include the pension plans established by the *Canadian Forces Superannuation Act* and the *Royal Canadian Mounted Police Superannuation Act*;
 
-- (b) the condition in paragraph (3)(c) does not apply in respect of benefits provided under the pension plan established by the *Canadian Forces Superannuation Act*.
+- (b) the condition in paragraph (3)(c) does not apply in respect of benefits provided under the pension plan established by the *Canadian Forces Superannuation Act*; and
+
+- (c) the conditions in section 8303, paragraph (3)(c) and section 8504 do not apply in respect of benefits provided to a member under the pension plan established by the *Public Service Superannuation Act* if the benefits arise as a result of a waiver granted by the Treasury Board, before 2028, of any early retirement reductions in respect of the member that would otherwise apply under that Act or under the *Retirement Compensation Arrangements Regulations, No. 1*.
 
 (14) Where
 
@@ -20075,6 +20158,7 @@ the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revoc
 - SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; 2007, c. 29, s. 35, c. 35, s. 83; SOR/2007-116, s. 16(F); 2011, c. 24, 96; 2017, c. 33, s. 102
 - 2021, c. 23, s. 89
 - SOR/2024-231, s. 27
+- 2026, c. 3, s. 221
 
 </details>
 
@@ -21318,11 +21402,14 @@ paragraph (5)(g) applies as if
 
 the amount of the individual’s lifetime retirement benefits under the particular provision commuted in connection with the transfer is the amount that would be determined under subsection (4) if the benefits provided under the other provision were provided under the particular provision.
 
+(8) For the purposes of this section, if subsection 147.4(5) of the Act deems an amount to be transferred under a **defined benefit provision** (as defined in subsection 147.1(1) of the Act) of a registered pension plan, the benefits payable under the annuity contract are deemed to be benefits payable under the provision.
+
 <details>
 <summary>Historical Note</summary>
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/92-51, s. 7; SOR/99-9, s. 26; SOR/2001-188, s. 12; 2011, c. 24, s. 97; 2014, c. 20, s. 36; 2017, c. 33, s. 103
+- 2026, c. 3, s. 114
 
 </details>
 
@@ -21901,11 +21988,20 @@ For the purposes of paragraph (e) of the definition **financial institution** in
   - (ii) the corporation is not controlled, directly or indirectly in any manner whatever, by any person that is not a credit union, and
   - (iii) the corporation would not be controlled by a person that is not a credit union if each share of the corporation that is not owned at any time in the holding period by a credit union were owned, at that time, by the person.
 
+(4) For the purpose of subsection (3), if a partnership, at a particular time, owns or holds shares of a corporation (or is deemed under this subsection to own or hold shares of a corporation) that have a fair market value of at least 50% of all the issued shares of the corporation,
+
+- (a) the partnership is deemed not to exist at that time; and
+
+- (b) each member of the partnership is deemed to own or hold at that time that proportion of shares of any class of the capital stock of the corporation that are property of the partnership at that time, that the fair market value of the member’s interest in the partnership is of the fair market value of all interests in the partnership at that time.
+
+(5) For the purpose of paragraph (3)(b), a subsidiary wholly-owned corporation of a credit union is deemed to be a credit union.
+
 <details>
 <summary>Historical Note</summary>
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - 2009, c. 2, s. 118
+- 2026, c. 3, s. 115
 
 </details>
 
@@ -22934,7 +23030,10 @@ For the purposes of paragraph 1100(1)(f), the amount that may be deducted in com
 - (a) an amount equal to
   - (i) if the property is an accelerated investment incentive property acquired in the year,
     - (A) if the property is acquired before 2024, 1.5 times an amount computed on the basis of a rate per cord, board foot or cubic metre cut in the taxation year, and
-    - (B) if the property is acquired after 2023, 1.25 times an amount computed on the basis of a rate per cord, board foot or cubic metre cut in the taxation year, and
+    - (B) if the property is acquired after 2023, 1.25 times an amount computed on the basis of a rate per cord, board foot or cubic metre cut in the taxation year,
+  - (i.1) if the property is a reaccelerated investment incentive property acquired in the year,
+    - (A) if the property is acquired before 2030, 1.5 times an amount computed on the basis of a rate per cord, board foot or cubic metre cut in the taxation year, and
+    - (B) if the property is acquired after 2029, 1.25 times an amount computed on the basis of a rate per cord, board foot or cubic metre cut in the taxation year, and
   - (ii) in any other case, an amount computed on the basis of a rate per cord, board foot or cubic metre cut in the taxation year, and
 
 - (b) the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under section 1100 for the taxation year) of property of that class.
@@ -22960,6 +23059,7 @@ Where a part of the property of the class is used in connection with one timber 
 - SOR/86-1092, s. 22(F); SOR/94-140, ss. 30, 31
 - 2019, c. 29, s. 64
 - 2019, c. 29, s. 65
+- 2026, c. 3, s. 120
 
 </details>
 
@@ -22983,7 +23083,7 @@ If the taxpayer has not been granted an allowance in respect of the mine or righ
 ```
 A(B – C)/D
 where
-Ais(a)1.5, if the property is an accelerated investment incentive property acquired before 2024,(b)1.25, if the property is an accelerated investment incentive property acquired after 2023, and(c)1, in any other case;
+Ais(a)1.5, if the property is an accelerated investment incentive property acquired before 2024 or a reaccelerated investment incentive property acquired before 2030,(b)1.25, if the property is an accelerated investment incentive property acquired after 2023 or a reaccelerated investment incentive property acquired after 2029, and(c)1, in any other case;
 Bis the capital cost of the mine or right to the taxpayer;
 Cis the residual value, if any, of the mine or right; and
 Dis(a)if the taxpayer has acquired a right to remove only a specified number of units, the specified number of units of material that the taxpayer acquired a right to remove, and(b)in any other case, the number of units of commercially mineable material estimated as being in the mine when the mine or right was acquired.
@@ -23021,6 +23121,7 @@ In this Schedule, **residual value** means the estimated value of the property i
 - SOR/86-1092, s. 23(F)
 - 2019, c. 29, s. 66
 - 2019, c. 29, s. 67
+- 2026, c. 3, s. 121
 
 </details>
 
@@ -23048,7 +23149,7 @@ If the taxpayer has not been granted an allowance in respect of the limit or rig
 ```
 A(B – (C +D))/E
 where
-Ais(a)1.5, if the property is an accelerated investment incentive property acquired before 2024,(b)1.25, if the property is an accelerated investment incentive property acquired after 2023, and(c)1, in any other case;
+Ais(a)1.5, if the property is an accelerated investment incentive property acquired before 2024 or a reaccelerated investment incentive property acquired before 2030,(b)1.25, if the property is an accelerated investment incentive property acquired after 2023 or a reaccelerated investment incentive property acquired after 2029, and(c)1, in any other case;
 Bis the capital cost of the mine or right to the taxpayer;
 Cis the residual value of the timber limit;
 Dis the total of all amounts expended by the taxpayer after the commencement of the taxpayer’s 1949 taxation year that are included in the capital cost to the taxpayer of the timber limit or right, for surveys, cruises or preparation of prints, maps or plans for the purpose of obtaining a licence or right to cut timber; and
@@ -23088,6 +23189,7 @@ In this Schedule, **residual value** means the estimated value of the property i
 - SOR/86-1092, s. 24(F); SOR/94-140, ss. 32 to 34
 - 2019, c. 29, s. 68
 - 2019, c. 29, s. 69
+- 2026, c. 3, s. 122
 
 </details>
 
@@ -26209,3 +26311,18 @@ In this Schedule, **residual value** means the estimated value of the property i
 
 
 ## SCHEDULES IX AND X
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 3, s. 98(1)
+
+### 98
+
+(1) Subparagraph (j.1)(i) of the definition **remuneration** in subsection 100(1) of the *Income Tax Regulations* is replaced by the following:
+
+### — 2026, c. 3, s. 99(1)
+
+### 99
+
+(1) Paragraph 103(6)(d.1) of the Regulations is replaced by the following:

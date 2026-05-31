@@ -42,7 +42,7 @@ This Act may be cited as the *Federal-Provincial Fiscal Arrangements Act*.
 
 **coordinated vaping product taxation agreement** means an agreement or arrangement entered into by the Minister on behalf of the Government of Canada under Part III.3, including any amendments or variations to the agreement or arrangement made in accordance with that Part; (**accord de coordination de la taxation des produits de vapotage**)
 
-**First Nation law** has the meaning assigned by subsection 11(1) or 12(1) of the *First Nations Goods and Services Tax Act*; (**texte législatif autochtone**)
+**First Nation law** has the meaning assigned by subsection 11(1), 12(1), 39(1) or 40(1) of the *First Nations Goods and Services Tax Act*; (**texte législatif autochtone**)
 
 **fiscal year** means the period beginning on April 1 in one year and ending on March 31 in the next year; (**exercice**)
 
@@ -77,6 +77,7 @@ This Act may be cited as the *Federal-Provincial Fiscal Arrangements Act*.
 
 - R.S., 1985, c. F-8, s. 2; R.S., 1985, c. 11 (3rd Supp.), s. 1; 1992, c. 10, s. 1; 1993, c. 28, s. 78; 1995, c. 17, s. 46; 1996, c. 18, s. 48; 1997, c. 10, s. 261; 1998, c. 21, s. 76; 1999, c. 26, ss. 2, 12; 2002, c. 7, s. 170; 2007, c. 29, s. 61; 2013, c. 34, s. 417; 2017, c. 33, s. 169; 2018, c. 12, ss. 119(F), 214
 - 2022, c. 10, s. 83
+- 2026, c. 3, s. 190
 
 </details>
 
@@ -3357,3 +3358,12 @@ The provisions of the *Federal-Provincial Fiscal Arrangements Act* enacted by se
 ### 251 Continuation
 
 The provisions of Parts I and I.1 of the *Federal-Provincial Fiscal Arrangements Act* — and of any regulations made under that Act — as they read immediately before the day on which this Act receives royal assent continue to apply to fiscal years that end before April 1, 2024.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 3, s. 565
+
+### 565
+
+Schedule I to the *Federal-Provincial Fiscal Arrangements Act* is amended by deleting the following:
