@@ -159,19 +159,3 @@ In addition to the requirement of section 17, for the purpose of justifying a d
 
 ## RELATED PROVISIONS
 
-### — 2009, c. 2, s. 396(3)
-
-### 396 Powers of Board
-
-(3) The Board has, in relation to a complaint referred to it, in addition to the powers conferred on it under the *Public Service Labour Relations Act*, the power to interpret and apply sections 7, 10 and 11 of the *Canadian Human Rights Act*, and the *Equal Wages Guidelines, 1986*, in respect of employees, even after the coming into force of section 399.
-
-### — 2009, c. 2, par. 397(2)(b)
-
-
-**Powers of Tribunal**
-
-(2) If section 399 is in force when the Canadian Human Rights Tribunal inquires into a complaint referred to in subsection (1),
-
--  ...
-
-- (b) complaints referred to in paragraph (1)(b) shall be dealt with as if section 11 of the *Canadian Human Rights Act* and the *Equal Wage Guidelines, 1986* still applied to those employees.

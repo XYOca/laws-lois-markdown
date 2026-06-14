@@ -6091,3 +6091,9 @@ ainsi que de la mention « Président », dans la colonne II, en regard de c
 ### 566
 
 La partie I de l’annexe III de la *Loi sur la gestion des finances publiques* est modifiée par suppression de ce qui suit :
+
+### — 2026, ch. 7, art. 1
+
+### 1 2018, ch. 23, art. 16
+
+Dans l’annexe VII de la *Loi sur la gestion des finances publiques*, la mention de « Accord de partenariat transpacifique global et progressiste entre le Canada, l’Australie, le Brunéi, le Chili, le Japon, la Malaisie, le Mexique, la Nouvelle-Zélande, le Pérou, Singapour et le Vietnam, fait à Santiago le 8 mars 2018. » est remplacée par ce qui suit :

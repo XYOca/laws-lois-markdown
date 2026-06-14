@@ -6175,3 +6175,15 @@ and a corresponding reference in column II to ‘‘Chairperson’’.
 ### 566
 
 Part I of Schedule III to the *Financial Administration Act* is amended by deleting the following:
+
+### — 2026, c. 7, s. 1
+
+### 1 2018, c. 23, s. 16
+
+Schedule VII to the *Financial Administration Act* is amended by replacing “Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam, done at Santiago on March 8, 2018.” with the following:
+
+### — 2026, c. 8, s. 16
+
+### 16
+
+Schedule VII to the *Financial Administration Act* is amended by adding the following in alphabetical order:

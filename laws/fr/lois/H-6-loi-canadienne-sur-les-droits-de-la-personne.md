@@ -1977,76 +1977,6 @@ Malgré l’article 1, les actes ou omissions du gouvernement d’une première 
 
 Le gouvernement du Canada, de concert avec les organismes compétents représentant les peuples des Premières Nations du Canada, entreprend au cours de la période visée à l’article 3 une étude visant à définir l’ampleur des préparatifs, des capacités et des ressources fiscales et humaines nécessaires pour que les collectivités et les organismes des Premières Nations se conforment à la *Loi canadienne sur les droits de la personne*. Le gouvernement du Canada présente un rapport des conclusions de l’étude aux deux chambres du Parlement avant la fin de cette période.
 
-### — 2009, ch. 2, art. 395
-
-### 395 Terminologie
-
-Sauf indication contraire du contexte, les termes des articles 396 et 397 s’entendent au sens de la *Loi sur l’équité dans la rémunération du secteur public*.
-
-### — 2009, ch. 2, art. 396, modifié par 2018, ch. 27, par. 431(1) à (3)
-
-### 396 Plaintes devant la Commission canadienne des droits de la personne
-
-(1) Les plaintes ci-après qui concernent des employés et dont la Commission canadienne des droits de la personne est saisie à la date de sanction de la présente loi, ou qui ont été déposées devant elle pendant la période commençant à cette date et se terminant à la date d’entrée en vigueur du paragraphe 425(1) de la *Loi n^o^ 2 d’exécution du budget de 2018*, sont, malgré l’article 44 de la *Loi canadienne sur les droits de la personne*, renvoyées sans délai par la Commission canadienne des droits de la personne devant la Commission :
-
-- a) les plaintes fondées sur les articles 7 ou 10 de cette loi, dans le cas où celles-ci portent sur la disparité salariale entre les hommes et les femmes instaurée ou pratiquée par l’employeur;
-
-- b) les plaintes fondées sur l’article 11 de la même loi.
-
-**Application du présent article**
-
-(2) La Commission statue sur les plaintes conformément au présent article.
-
-**Pouvoirs de la Commission**
-
-(3) La Commission dispose, pour statuer sur les plaintes, en plus des pouvoirs que lui confère la *Loi sur les relations de travail dans le secteur public fédéral*, du pouvoir d’interpréter et d’appliquer les articles 7, 10 et 11 de la *Loi canadienne sur les droits de la personne* et l’*Ordonnance de 1986 sur la parité salariale*, même après l’entrée en vigueur du paragraphe 425(1) de la *Loi n^o^ 2 d’exécution du budget de 2018*.
-
-**Examen sommaire**
-
-(4) La Commission procède à un examen sommaire de la plainte et la renvoie à l’employeur qui en fait l’objet ou à celui-ci et à l’agent négociateur des employés qui l’ont déposée, selon ce qu’elle estime indiqué, à moins qu’elle ne l’estime irrecevable pour le motif qu’elle est futile ou vexatoire ou entachée de mauvaise foi.
-
-**Assistance**
-
-(5) La Commission peut aider l’employeur ou l’employeur et l’agent négociateur, selon le cas, à qui elle a renvoyé la plainte au titre du paragraphe (4) à régler les questions en litige de la façon qu’elle juge indiquée.
-
-**Audition**
-
-(6) Si l’employeur ou l’employeur et l’agent négociateur, selon le cas, ne règlent pas les questions en litige dans les cent quatre-vingts jours suivant la date à laquelle la plainte leur a été renvoyée ou dans le délai supérieur précisé par la Commission, celle-ci fixe une date pour l’audition de la plainte.
-
-**Procédure**
-
-(7) La Commission établit sa propre procédure; elle est toutefois tenue de donner à l’employeur ou à l’employeur et à l’agent négociateur, selon le cas, toute possibilité de lui présenter des éléments de preuve et leurs arguments.
-
-**Décision de la Commission**
-
-(8) La Commission rend une décision écrite et motivée sur la plainte et en envoie copie à l’employeur ou à l’employeur et à l’agent négociateur, selon le cas, et aux employés.
-
-**Réserve**
-
-(9) La Commission peut, à l’égard des plaintes visées au présent article, rendre toute ordonnance que le membre instructeur est habilité à rendre au titre de l’article 53 de la *Loi canadienne sur les droits de la personne* mais elle ne peut accorder de réparation pécuniaire que sous la forme d’une somme forfaitaire et que pour une période antérieure à l’entrée en vigueur du paragraphe 425(1) de la *Loi n^o^ 2 d’exécution du budget de 2018*.
-
-### — 2009, ch. 2, art. 397
-
-### 397 Plaintes devant le Tribunal canadien des droits de la personne
-
-(1) Sous réserve des paragraphes (2) et (3), le Tribunal canadien des droits de la personne instruit les plaintes ci-après qui concernent des employés et dont il est saisi à la date de sanction de la présente loi :
-
-- a) les plaintes fondées sur les articles 7 ou 10 de la *Loi canadienne sur les droits de la personne*, dans le cas où celles-ci portent sur la disparité salariale entre les hommes et les femmes instaurée ou pratiquée par l’employeur;
-
-- b) les plaintes fondées sur l’article 11 de cette loi.
-
-**Pouvoirs du Tribunal**
-
-(2) Si l’article 399 est en vigueur au moment de l’instruction :
-
-- a) il est statué sur les plaintes visées à l’alinéa (1)a) comme si les articles 7 et 10 de la *Loi canadienne sur les droits de la personne* s’appliquaient toujours aux employés;
-
-- b) il est statué sur les plaintes visées à l’alinéa (1)b) comme si l’article 11 de cette loi et l’*Ordonnance de 1986 sur la parité salariale* s’appliquaient toujours aux employés.
-
-**Réserve**
-
-(3) Le Tribunal canadien des droits de la personne ne peut accorder de réparation pécuniaire à l’égard des plaintes visées au paragraphe (1) que sous la forme d’une somme forfaitaire et que pour une période antérieure à l’entrée en vigueur de l’article 394.
-
 ### — 2012, ch. 1, al. 165a)
 
 ### 165 Mention : autres lois
@@ -2063,24 +1993,6 @@ La *Loi canadienne sur les droits de la personne*, dans sa version antérieure �
 
 
 ## MODIFICATIONS NON EN VIGUEUR
-
-### — 2018, ch. 27, art. 430
-
-### 430
-
-L’article 395 de la même loi est abrogé.
-
-### — 2018, ch. 27, par. 431(4)
-
-### 431
-
-(4) L’article 396 de la même loi est abrogé.
-
-### — 2018, ch. 27, art. 432
-
-### 432
-
-Les articles 397 à 399 de la même loi sont abrogés.
 
 ### — 2023, ch. 26, art. 178
 

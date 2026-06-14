@@ -1,6 +1,6 @@
 # Lois fédérales
 
-_963 documents_
+_964 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -267,6 +267,7 @@ _963 documents_
 | C-6.1 | [Loi sur le financement des soins de santé ainsi que du développement de la petite enfance et d’autres services sociaux au Canada](C-6.1-loi-sur-le-financement-des-soins-de-santé-ainsi-que-du-développement-de-la-petit.md) | Loi concernant l’octroi d’une aide financière supplémentaire pour les services de santé, les appareils médicaux et les techniques de communication et d’information en matière de santé, le développement de la petite enfance et d’autres services sociaux et modifiant la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces |
 | C-6.10 | [Loi sur la croissance économique et la prospérité — Canada-Honduras](C-6.10-loi-sur-la-croissance-économique-et-la-prospérité-canada-honduras.md) | Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République du Honduras, de l’Accord de coopération dans le domaine de l’environnement entre le Canada et la République du Honduras et de l’Accord de coopération dans le domaine du travail entre le Canada et la République du Honduras |
 | C-6.15 | [Loi de 2013 sur l’accord fiscal Canada-Hong Kong](C-6.15-loi-de-2013-sur-laccord-fiscal-canada-hong-kong.md) |  |
+| C-6.16 | [Loi de mise en oeuvre de l’Accord de partenariat économique global entre le Canada et l’Indonésie](C-6.16-loi-de-mise-en-oeuvre-de-laccord-de-partenariat-économique-global-entre-le-canad.md) | Loi portant mise en oeuvre de l’Accord de partenariat économique global entre le Canada et l’Indonésie |
 | C-6.18 | [Loi sur la Banque de l’infrastructure du Canada](C-6.18-loi-sur-la-banque-de-linfrastructure-du-canada.md) | Loi constituant la Banque de l’infrastructure du Canada |
 | C-6.19 | [Loi sur la Corporation d’innovation du Canada](C-6.19-loi-sur-la-corporation-dinnovation-du-canada.md) | Loi concernant la Corporation d’innovation du Canada |
 | C-6.2 | [Loi autorisant l’aliénation de Canadair Limitée](C-6.2-loi-autorisant-laliénation-de-canadair-limitée.md) | Loi autorisant l’aliénation de Canadair Limitée et prévoyant des mesures connexes |

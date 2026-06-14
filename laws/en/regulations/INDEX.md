@@ -1,6 +1,6 @@
 # Federal Regulations
 
-_4864 documents_
+_4870 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -1316,6 +1316,7 @@ _4864 documents_
 | SI/2024-67 | [SI-2024-67-SI-2024-67](SI-2024-67-SI-2024-67.md) | Certain Fees in Respect of the Issuance of Temporary Resident Visas for Certain Extended Family (Crisis in Gaza) Remission Order |
 | SI/2024-7 | [SI-2024-7-SI-2024-7](SI-2024-7-SI-2024-7.md) | Locally Engaged Staff Exclusion Approval Order |
 | SI/2025-103 | [SI-2025-103-.xml](SI-2025-103-.xml.md) | Remission Order in respect of Canadian Dental Care Plan Eligibility Issues |
+| SI/2025-103 | [SI-2025-103-SI-2025-103](SI-2025-103-SI-2025-103.md) | Remission Order in respect of Canadian Dental Care Plan Eligibility Issues |
 | SI/2025-109 | [SI-2025-109-SI-2025-109](SI-2025-109-SI-2025-109.md) | Order Acknowledging Receipt of the Assessment Done Under Subsection 23(1) of the Species at Risk Act (American Eel) |
 | SI/2025-110 | [SI-2025-110-SI-2025-110](SI-2025-110-SI-2025-110.md) | List of Wildlife Species at Risk (Decision Not to Add Certain Species) Order (American Eel) |
 | SI/2025-111 | [SI-2025-111-SI-2025-111](SI-2025-111-SI-2025-111.md) | Order Accepting the Recommendation of the Minister Regarding the List of Entities |
@@ -1399,6 +1400,8 @@ _4864 documents_
 | SI/2026-16 | [SI-2026-16-SI-2026-16](SI-2026-16-SI-2026-16.md) | Order Designating the Minister of Natural Resources to be a Specified Minister for the Purposes of the Canadian Sustainable Jobs Act |
 | SI/2026-17 | [SI-2026-17-SI-2026-17](SI-2026-17-SI-2026-17.md) | Order Transferring from the Department of Natural Resources to the Department of Employment and Social Development the Control and Supervision of the Sustainable Jobs Secretariat |
 | SI/2026-2 | [SI-2026-2-SI-2026-2](SI-2026-2-SI-2026-2.md) | Consular Services Fees (Performance Standards) Remission Order |
+| SI/2026-22 | [SI-2026-22-SI-2026-22](SI-2026-22-SI-2026-22.md) | Order Transferring to the Department of Public Works and Government Services the Control and Supervision of Certain Portions of the Federal Public Administration |
+| SI/2026-23 | [SI-2026-23-SI-2026-23](SI-2026-23-SI-2026-23.md) | Order in Council Directing that the Annual Report of the Canadian Accessibility Standards Development Organization Be Discontinued |
 | SI/2026-3 | [SI-2026-3-SI-2026-3](SI-2026-3-SI-2026-3.md) | Order Acknowledging Receipt of the Assessments Done Under Subsection 23(1) of the Species at Risk Act (American Marten, Newfoundland Population and Six Other Wildlife Species) |
 | SI/2026-5 | [SI-2026-5-SI-2026-5](SI-2026-5-SI-2026-5.md) | Order Transferring from the Department of Transport to the Department of National Defence the Control and Supervision of the Aircraft Services Directorate |
 | SI/2026-7 | [SI-2026-7-SI-2026-7](SI-2026-7-SI-2026-7.md) | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Afghanistan) Remission Order |
@@ -3464,6 +3467,9 @@ _4864 documents_
 | SOR/2026-58 | [SOR-2026-58-SOR-2026-58](SOR-2026-58-SOR-2026-58.md) | Order Designating the Sarvarjuaq Marine Protected Area |
 | SOR/2026-67 | [SOR-2026-67-SOR-2026-67](SOR-2026-67-SOR-2026-67.md) | Proclamation Designating the Republic of the Philippines as a Designated State for the Purposes of the Visiting Forces Act |
 | SOR/2026-68 | [SOR-2026-68-SOR-2026-68](SOR-2026-68-SOR-2026-68.md) | College of Immigration and Citizenship Consultants Regulations |
+| SOR/2026-78 | [SOR-2026-78-SOR-2026-78](SOR-2026-78-SOR-2026-78.md) | Critical Habitat of the Channel Darter (Percina copelandi) Lake Erie Populations Order |
+| SOR/2026-79 | [SOR-2026-79-SOR-2026-79](SOR-2026-79-SOR-2026-79.md) | Critical Habitat of the Channel Darter (Percina copelandi) Lake Ontario Populations Order |
+| SOR/2026-88 | [SOR-2026-88-SOR-2026-88](SOR-2026-88-SOR-2026-88.md) | Maintenance and Repair of Ontario Municipal Drains Regulations |
 | SOR/49-42 | [Regulations re school fees and transportation costs for children of certain Government employees](SOR-49-42-regulations-re-school-fees-and-transportation-costs-for-children-of-certain-gove.md) | Regulations Governing Payment of School Fees and Transportation Costs Re Children of Certain Employees of the Government of Canada |
 | SOR/51-84 | [SOR-51-84-SOR-51-84](SOR-51-84-SOR-51-84.md) | Application of Defence Services Pension Act to Special Force |
 | SOR/54-578 | [War Claims Regulations](SOR-54-578-war-claims-regulations.md) |  |

@@ -2001,76 +2001,6 @@ Despite section 1, an act or omission by any First Nation government, including 
 
 The Government of Canada, together with the appropriate organizations representing the First Nations peoples of Canada, shall, within the period referred to in section 3, undertake a study to identify the extent of the preparation, capacity and fiscal and human resources that will be required in order for First Nations communities and organizations to comply with the *Canadian Human Rights Act*. The Government of Canada shall report to both Houses of Parliament on the findings of that study before the expiration of the period referred to in section 3.
 
-### — 2009, c. 2, s. 395
-
-### 395 Interpretation
-
-Unless the context otherwise requires, words and expressions used in sections 396 and 397 have the same meaning as in the *Public Sector Equitable Compensation Act*.
-
-### — 2009, c. 2, s. 396, as amended by 2018, c. 27, ss. 431(1) to (3)
-
-### 396 Complaints before Canadian Human Rights Commission
-
-(1) The following complaints with respect to employees that are before the Canadian Human Rights Commission on the day on which this Act receives royal assent, or that are filed with that Commission during the period beginning on that day and ending on the day on which subsection 425 (1) of the *Budget Implementation Act, 2018, No. 2* comes into force, shall, despite section 44 of the *Canadian Human Rights Act*, without delay, be referred by the Commission to the Board:
-
-- (a) complaints based on section 7 or 10 of the *Canadian Human Rights Act*, if the complaint is in respect of the employer establishing or maintaining differences in wages between male and female employees; and
-
-- (b) complaints based on section 11 of the *Canadian Human Rights Act*.
-
-**Application of this section**
-
-(2) The complaints referred to in subsection (1) shall be dealt with by the Board as required by this section.
-
-**Powers of Board**
-
-(3) The Board has, in relation to a complaint referred to it, in addition to the powers conferred on it under the *Federal Public Sector Labour Relations Act*, the power to interpret and apply sections 7, 10 and 11 of the *Canadian Human Rights Act*, and the *Equal Wages Guidelines, 1986*, in respect of employees, even after the coming into force of subsection 425 (1) of the *Budget Implementation Act 2018, No. 2*.
-
-**Summary examination**
-
-(4) The Board shall review the complaint in a summary way and shall refer it to the employer that is the subject of the complaint, or to the employer that is the subject of the complaint and the bargaining agent of the employees who filed the complaint, as the Board considers appropriate, unless it appears to the Board that the complaint is trivial, frivolous or vexatious or was made in bad faith.
-
-**Power to assist**
-
-(5) If the Board refers a complaint under subsection (4) to an employer, or to an employer and a bargaining agent, it may assist them in resolving any matters relating to the complaint by any means that it considers appropriate.
-
-**Hearing**
-
-(6) If the employer, or the employer and the bargaining agent, as the case may be, do not resolve the matters relating to the complaint within 180 days after the complaint is referred to them, or any longer period or periods that may be authorized by the Board, the Board shall schedule a hearing.
-
-**Procedure**
-
-(7) The Board shall determine its own procedure but shall give full opportunity to the employer, or the employer and the bargaining agent, as the case may be, to present evidence and make submissions to it.
-
-**Decision**
-
-(8) The Board shall make a decision in writing in respect of the complaint and send a copy of its decision with the reasons for it to the employer, or the employer and the bargaining agent, as the case may be.
-
-**Restriction**
-
-(9) The Board has, in relation to complaints referred to in this section, the power to make any order that a member or panel may make under section 53 of the *Canadian Human Rights Act*, except that no monetary remedy may be granted by the Board in respect of the complaint other than a lump sum payment, and the payment may be only in respect of a period that ends on or before the day on which subsection 425 (1) of the *Budget Implementation Act, 2018, No. 2* comes into force.
-
-### — 2009, c. 2, s. 397
-
-### 397 Complaints before Canadian Human Rights Tribunal
-
-(1) Subject to subsections (2) and (3), the Canadian Human Rights Tribunal shall inquire into the following complaints with respect to employees that are before it on the day on which this Act receives royal assent:
-
-- (a) complaints based on section 7 or 10 of the *Canadian Human Rights Act*, if the complaint is in respect of the employer establishing or maintaining differences in wages between male and female employees; and
-
-- (b) complaints based on section 11 of the *Canadian Human Rights Act*.
-
-**Powers of Tribunal**
-
-(2) If section 399 is in force when the Canadian Human Rights Tribunal inquires into a complaint referred to in subsection (1),
-
-- (a) complaints referred to in paragraph (1)(a) shall be dealt with as if sections 7 and 10 of the *Canadian Human Rights Act* still applied to those employees; and
-
-- (b) complaints referred to in paragraph (1)(b) shall be dealt with as if section 11 of the *Canadian Human Rights Act* and the *Equal Wage Guidelines, 1986* still applied to those employees.
-
-**Limitation**
-
-(3) No monetary remedy may be granted by the Canadian Human Rights Tribunal in respect of a complaint referred to in subsection (1) other than a lump sum payment, and the payment may only be in respect of a period that ends on or before the day on which section 394 comes into force.
-
 ### — 2012, c. 1, par. 165(a)
 
 ### 165 Pardons in effect — references in other legislation
@@ -2087,24 +2017,6 @@ The *Canadian Human Rights Act*, as it read immediately before the day on which 
 
 
 ## AMENDMENTS NOT IN FORCE
-
-### — 2018, c. 27, s. 430
-
-### 430
-
-Section 395 of the Act is repealed.
-
-### — 2018, c. 27, s. 431(4)
-
-### 431
-
-(4) Section 396 of the Act is repealed.
-
-### — 2018, c. 27, s. 432
-
-### 432
-
-Sections 397 to 399 of the Act are repealed.
 
 ### — 2023, c. 26, s. 178
 

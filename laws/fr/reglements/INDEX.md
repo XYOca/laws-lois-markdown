@@ -1,6 +1,6 @@
 # Règlements fédéraux
 
-_4864 documents_
+_4870 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -2223,6 +2223,9 @@ _4864 documents_
 | DORS/2026-58 | [DORS-2026-58-DORS-2026-58](DORS-2026-58-DORS-2026-58.md) | Arrêté sur la zone de protection marine de Sarvarjuaq |
 | DORS/2026-67 | [DORS-2026-67-DORS-2026-67](DORS-2026-67-DORS-2026-67.md) | Proclamation désignant la République des Philippines à titre d’État désigné pour l’application de la Loi sur les forces étrangères présentes au canada |
 | DORS/2026-68 | [DORS-2026-68-DORS-2026-68](DORS-2026-68-DORS-2026-68.md) | Règlement sur le Collège des consultants en immigration et en citoyenneté |
+| DORS/2026-78 | [DORS-2026-78-DORS-2026-78](DORS-2026-78-DORS-2026-78.md) | Arrêté visant l’habitat essentiel du fouille-roche gris (Percina copelandi) populations du lac Érié |
+| DORS/2026-79 | [DORS-2026-79-DORS-2026-79](DORS-2026-79-DORS-2026-79.md) | Arrêté visant l’habitat essentiel du fouille-roche gris Percina copelandi populations du lac Ontario |
+| DORS/2026-88 | [DORS-2026-88-DORS-2026-88](DORS-2026-88-DORS-2026-88.md) | Règlement visant l’entretien et la réparation des drains municipaux de l’Ontario |
 | DORS/49-42 | [Règlements concernant le paiement de frais scolaires et des frais de transport des enfants de certains employés de l’État](DORS-49-42-règlements-concernant-le-paiement-de-frais-scolaires-et-des-frais-de-transport-d.md) |  |
 | DORS/51-84 | [DORS-51-84-DORS-51-84](DORS-51-84-DORS-51-84.md) | Application de la Loi sur les pensions des services de défense au contingent spécial |
 | DORS/54-578 | [Règlements sur les réclamations de guerre](DORS-54-578-règlements-sur-les-réclamations-de-guerre.md) |  |
@@ -4362,6 +4365,7 @@ _4864 documents_
 | TR/2024-67 | [TR-2024-67-TR-2024-67](TR-2024-67-TR-2024-67.md) | Décret de remise visant certains frais relatifs à la délivrance de visas de résident temporaire à certains membres de la famille élargie (crise à Gaza) |
 | TR/2024-7 | [TR-2024-7-TR-2024-7](TR-2024-7-TR-2024-7.md) | Décret agréant l’exemption du personnel embauché sur place |
 | TR/2025-103 | [TR-2025-103-.xml](TR-2025-103-.xml.md) | Décret de remise visant des questions d’admissibilité au Régime canadien de soins dentaires |
+| TR/2025-103 | [TR-2025-103-TR-2025-103](TR-2025-103-TR-2025-103.md) | Décret de remise visant des questions d’admissibilité au Régime canadien de soins dentaires |
 | TR/2025-109 | [TR-2025-109-TR-2025-109](TR-2025-109-TR-2025-109.md) | Décret accusant réception de l’évaluation faite conformément au paragraphe 23(1) de la Loi sur les espèces en péril (anguille d’Amérique) |
 | TR/2025-110 | [TR-2025-110-TR-2025-110](TR-2025-110-TR-2025-110.md) | Décret concernant la Liste des espèces en péril (décision de ne pas inscrire certaines espèces) (anguille d’Amérique) |
 | TR/2025-111 | [TR-2025-111-TR-2025-111](TR-2025-111-TR-2025-111.md) | Décret acceptant la recommandation du ministre concernant la liste d’entités |
@@ -4445,6 +4449,8 @@ _4864 documents_
 | TR/2026-16 | [TR-2026-16-TR-2026-16](TR-2026-16-TR-2026-16.md) | Décret désignant le ministre des Ressources naturelles à titre de ministre responsable visé par la Loi canadienne sur les emplois durables |
 | TR/2026-17 | [TR-2026-17-TR-2026-17](TR-2026-17-TR-2026-17.md) | Décret transférant du ministère des Ressources naturelles au ministère de l’Emploi et du Développement social la responsabilité à l’égard du Secrétariat pour des emplois durables |
 | TR/2026-2 | [TR-2026-2-TR-2026-2](TR-2026-2-TR-2026-2.md) | Décret de remise visant les droits à payer pour les services consulaires (normes de rendement) |
+| TR/2026-22 | [TR-2026-22-TR-2026-22](TR-2026-22-TR-2026-22.md) | Décret transférant au ministère des Travaux publics et des Services gouvernementaux la responsabilité à l’égard de certains secteurs de l’administration publique fédérale |
+| TR/2026-23 | [TR-2026-23-TR-2026-23](TR-2026-23-TR-2026-23.md) | Décret ordonnant que le rapport annuel de l’Organisation canadienne d’élaboration de normes d’accessibilité ne soit plus préparé |
 | TR/2026-3 | [TR-2026-3-TR-2026-3](TR-2026-3-TR-2026-3.md) | Décret accusant réception des évaluations faites conformément au paragraphe 23(1) de la Loi sur les espèces en péril (martre d’Amérique, population de Terre-Neuve, et six autres espèces sauvages) |
 | TR/2026-5 | [TR-2026-5-TR-2026-5](TR-2026-5-TR-2026-5.md) | Décret transférant du ministère des Transports au ministère de la Défense nationale la responsabilité à l’égard de la Direction générale des services des aéronefs |
 | TR/2026-7 | [TR-2026-7-TR-2026-7](TR-2026-7-TR-2026-7.md) | Décret de remise des frais payés ou à payer pour l’acquisition du statut de résident permanent (Afghanistan) |

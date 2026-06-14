@@ -161,19 +161,3 @@ Outre les exigences de l’article 17, l’employeur qui entend justifier une d
 
 ## DISPOSITIONS CONNEXES
 
-### — 2009, ch. 2, par. 396(3)
-
-### 396 Pouvoirs de la Commission
-
-(3) La Commission dispose, pour statuer sur les plaintes, en plus des pouvoirs que lui confère la *Loi sur les relations de travail dans la fonction publique*, du pouvoir d’interpréter et d’appliquer les articles 7, 10 et 11 de la *Loi canadienne sur les droits de la personne* et l’*Ordonnance de 1986 sur la parité salariale*, même après l’entrée en vigueur de l’article 399.
-
-### — 2009, ch. 2, al. 397(2)b)
-
-
-**Pouvoirs du Tribunal**
-
-(2) Si l’article 399 est en vigueur au moment de l’instruction :
-
--  ...
-
-- b) il est statué sur les plaintes visées à l’alinéa (1)b) comme si l’article 11 de cette loi et l’*Ordonnance de 1986 sur la parité salariale* s’appliquaient toujours aux employés.
