@@ -138,12 +138,12 @@ will not exceed the number of broiler hatching eggs set out in Column I of the s
 |  |  | Column I | Column II |
 | Item | Province | Interprovincial and Intraprovincial Trade | Export Trade |
 | --- | --- | --- | --- |
-| 1 | Ontario | 298,089,211 | 0 |
-| 2 | Quebec | 243,257,816 | 0 |
-| 3 | Manitoba | 38,508,100 | 0 |
-| 4 | British Columbia | 135,528,087 | 0 |
-| 5 | Saskatchewan | 33,472,262 | 0 |
-| 6 | Alberta | 105,055,112 | 0 |
+| 1 | Ontario | 316,747,951 | 0 |
+| 2 | Quebec | 255,441,549 | 0 |
+| 3 | Manitoba | 41,081,528 | 0 |
+| 4 | British Columbia | 144,806,659 | 0 |
+| 5 | Saskatchewan | 35,387,536 | 0 |
+| 6 | Alberta | 112,597,072 | 0 |
 
 <details>
 <summary>Historical Note</summary>
@@ -170,5 +170,7 @@ will not exceed the number of broiler hatching eggs set out in Column I of the s
 - SOR/2025-133, s. 1
 - SOR/2025-191, s. 1
 - SOR/2026-8, s. 1
+- SOR/2026-103, s. 1
+- SOR/2026-104, s. 1
 
 </details>

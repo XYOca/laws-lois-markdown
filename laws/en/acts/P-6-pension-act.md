@@ -2578,11 +2578,13 @@ against Her Majesty, or against any officer, servant or agent of Her Majesty, in
 | January 1, 2023 | 3,215.80 |
 | January 1, 2024 | 3,357.30 |
 | January 1, 2025 | 3,444.59 |
+| January 1, 2026 | 3,513.48 |
 
 <details>
 <summary>Historical Note</summary>
 
 - 2026, c. 3, s. 370
+- SOR/2026-99, s. 1
 
 </details>
 

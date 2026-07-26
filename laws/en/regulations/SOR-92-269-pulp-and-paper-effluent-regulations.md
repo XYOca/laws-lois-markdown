@@ -1363,8 +1363,9 @@ The following definitions apply in this Schedule.
 - (a) in the case of an invertebrate species, *Biological Test Method: Fertilization Assay Using Echinoids (Sea Urchins and Sand Dollars)* (Report EPS 1/RM/27), December 1992, published by the federal Department of the Environment; and
 
 - (b) in the case of algal species, one of the following test methodologies, as applicable, namely,
-  - (i) *Short-term Methods for Estimating the Chronic Toxicity of Effluents and Receiving Waters to Marine and Estuarine Organisms* (Third Edition) (Reference Method EPA/821/R/02–014), October 2002, published by the U.S. Environmental Protection Agency, or
-  - (ii) *Short-term Methods for Estimating the Chronic Toxicity of Effluent and Receiving Waters to West Coast Marine and Estuarine Organisms* (First Edition) (Reference Method EPA/600/R-95-136), August 1995, published by the U.S. Environmental Protection Agency.
+  - (i) *Short-term Methods for Estimating the Chronic Toxicity of Effluents and Receiving Waters to Marine and Estuarine Organisms* (Third Edition) (Reference Method EPA/821/R/02–014), October 2002, published by the U.S. Environmental Protection Agency,
+  - (ii) *Short-term Methods for Estimating the Chronic Toxicity of Effluent and Receiving Waters to West Coast Marine and Estuarine Organisms* (First Edition) (Reference Method EPA/600/R-95-136), August 1995, published by the U.S. Environmental Protection Agency, or
+  - (iii) *Canadian add-on procedure to ISO 10710: Test for determining growth inhibition using the macroalgae, Ceramium tenuicorne* (Report STB 1/RM/63), March 2025, published by the federal Department of the Environment.
 
 ### Biological Monitoring Studies
 
@@ -1553,6 +1554,7 @@ The data collected during the biological monitoring studies shall be used
 <summary>Historical Note</summary>
 
 - SOR/2004-109, s. 30; SOR/2008-239, ss. 11 to 16; SOR/2011-38, s. 1(F); SOR/2012-140, ss. 28, 29
+- SOR/2026-107, s. 1
 
 </details>
 

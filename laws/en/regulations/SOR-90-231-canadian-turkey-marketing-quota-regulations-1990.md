@@ -185,3 +185,12 @@ A Commodity Board shall provide the Agency with such information concerning fede
 - SOR/2026-65, s. 1
 
 </details>
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — SOR/2026-105, s. 1
+
+### 1
+
+The schedule to the *Canadian Turkey Marketing Quota Regulations, 1990*[^] is replaced by the schedule set out in the schedule to these Regulations.

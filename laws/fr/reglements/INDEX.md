@@ -1,6 +1,6 @@
 # Règlements fédéraux
 
-_4870 documents_
+_4878 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -2215,6 +2215,11 @@ _4870 documents_
 | DORS/2025-93 | [DORS-2025-93-DORS-2025-93](DORS-2025-93-DORS-2025-93.md) | Arrêté établissant des règles supplémentaires visant la vente de produits de santé naturels contenant de l’éphédrine ou de la pseudoéphédrine |
 | DORS/2025-94 | [DORS-2025-94-DORS-2025-94](DORS-2025-94-DORS-2025-94.md) | Arrêté d’exemption visant les exigences d’étiquetage de certains produits de santé naturels |
 | DORS/2025-95 | [DORS-2025-95-DORS-2025-95](DORS-2025-95-DORS-2025-95.md) | Décret imposant une surtaxe aux États-Unis (acier et aluminium, 2025) |
+| DORS/2026-108 | [DORS-2026-108-DORS-2026-108](DORS-2026-108-DORS-2026-108.md) | Décret de remise des droits antidumping sur le sucre raffiné (2026) |
+| DORS/2026-111 | [DORS-2026-111-DORS-2026-111](DORS-2026-111-DORS-2026-111.md) | Décret d’exemption de l’application des articles 22 et 23 de la Loi sur les eaux navigables canadiennes à l’égard de certaines eaux navigables situées à Terre-Neuve-et-Labrador |
+| DORS/2026-124 | [DORS-2026-124-DORS-2026-124](DORS-2026-124-DORS-2026-124.md) | Règlement sur les règles d’origine (APÉGCI) |
+| DORS/2026-125 | [DORS-2026-125-DORS-2026-125](DORS-2026-125-DORS-2026-125.md) | Règlement sur les règles d’origine des marchandises occasionnelles (APÉGCI) |
+| DORS/2026-126 | [DORS-2026-126-DORS-2026-126](DORS-2026-126-DORS-2026-126.md) | Règlement sur la préférence tarifaire (APÉGCI) |
 | DORS/2026-34 | [DORS-2026-34-DORS-2026-34](DORS-2026-34-DORS-2026-34.md) | Décret de remise de la surtaxe sur les marchandises dérivées de l’acier |
 | DORS/2026-4 | [DORS-2026-4-DORS-2026-4](DORS-2026-4-DORS-2026-4.md) | Arrêté visant l’habitat essentiel du méné à grandes écailles (Macrhybopsis storeriana) populations des Grands Lacs et du haut Saint-Laurent |
 | DORS/2026-48 | [DORS-2026-48-DORS-2026-48](DORS-2026-48-DORS-2026-48.md) | Décret prolongeant la période de validité du Règlement sur le blocage des biens de dirigeants étrangers corrompus (Tunisie) |
@@ -4451,6 +4456,9 @@ _4870 documents_
 | TR/2026-2 | [TR-2026-2-TR-2026-2](TR-2026-2-TR-2026-2.md) | Décret de remise visant les droits à payer pour les services consulaires (normes de rendement) |
 | TR/2026-22 | [TR-2026-22-TR-2026-22](TR-2026-22-TR-2026-22.md) | Décret transférant au ministère des Travaux publics et des Services gouvernementaux la responsabilité à l’égard de certains secteurs de l’administration publique fédérale |
 | TR/2026-23 | [TR-2026-23-TR-2026-23](TR-2026-23-TR-2026-23.md) | Décret ordonnant que le rapport annuel de l’Organisation canadienne d’élaboration de normes d’accessibilité ne soit plus préparé |
+| TR/2026-27 | [TR-2026-27-TR-2026-27](TR-2026-27-TR-2026-27.md) | Décret de remise visant les épidémies de tuberculose bovine (2016-2017 et 2019) |
+| TR/2026-28 | [TR-2026-28-TR-2026-28](TR-2026-28-TR-2026-28.md) | Décret de remise visant certains droits prévus par le Règlement sur les droits pour les services de passeports et autres documents de voyage (du 31 mars 2026 au 29 avril 2026) |
+| TR/2026-29 | [TR-2026-29-TR-2026-29](TR-2026-29-TR-2026-29.md) | Proclamation de Son Excellence la très honorable Louise Arbour annonçant qu’elle assume les attributions de gouverneure générale et commandante en chef du Canada |
 | TR/2026-3 | [TR-2026-3-TR-2026-3](TR-2026-3-TR-2026-3.md) | Décret accusant réception des évaluations faites conformément au paragraphe 23(1) de la Loi sur les espèces en péril (martre d’Amérique, population de Terre-Neuve, et six autres espèces sauvages) |
 | TR/2026-5 | [TR-2026-5-TR-2026-5](TR-2026-5-TR-2026-5.md) | Décret transférant du ministère des Transports au ministère de la Défense nationale la responsabilité à l’égard de la Direction générale des services des aéronefs |
 | TR/2026-7 | [TR-2026-7-TR-2026-7](TR-2026-7-TR-2026-7.md) | Décret de remise des frais payés ou à payer pour l’acquisition du statut de résident permanent (Afghanistan) |

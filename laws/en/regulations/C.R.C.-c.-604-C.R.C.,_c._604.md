@@ -1120,3 +1120,15 @@ Goods that are classified under heading No. 98.04 or 98.26 in the List of Tarif
 ### 2
 
 Item 82 of the List is repealed.
+
+### — SOR/2026-120, s. 1
+
+### 1
+
+Subsection 82(1) of the *Import Control List*[^] is replaced by the following:
+
+### — SOR/2026-120, s. 2
+
+### 2
+
+Item 82 of the List is repealed.

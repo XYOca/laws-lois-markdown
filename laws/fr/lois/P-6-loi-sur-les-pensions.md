@@ -2098,9 +2098,7 @@ Le gouverneur en conseil peut prendre des règlements pour l’application de l�
 <details>
 <summary>Historical Note</summary>
 
-- 2000, ch. 34, art. 40;
-- 2003, ch. 12, art. 3;
-- 2005, ch. 21, art. 108;
+- 2000, ch. 34, art. 40; 2003, ch. 12, art. 3; 2005, ch. 21, art. 108
 - 2026, ch. 3, art. 366
 
 </details>
@@ -2116,8 +2114,7 @@ Le gouverneur en conseil peut, par règlement, modifier l’annexe IV :
 <details>
 <summary>Historical Note</summary>
 
-- 2003, ch. 12, art. 3;
-- 2005, ch. 21, art. 108;
+- 2003, ch. 12, art. 3; 2005, ch. 21, art. 108
 - 2026, ch. 3, art. 366
 
 </details>
@@ -2129,8 +2126,7 @@ Les règlements pris en vertu de l’article 91 pour l’application de l’arti
 <details>
 <summary>Historical Note</summary>
 
-- 2003, ch. 12, art. 3;
-- 2005, ch. 21, art. 108;
+- 2003, ch. 12, art. 3; 2005, ch. 21, art. 108
 - 2026, ch. 3, art. 366
 
 </details>
@@ -2422,11 +2418,13 @@ Sont soustraits à toute forme de poursuite les actes accomplis et les énonciat
 | 1^er^ janvier 2023 | 3 215,80 |
 | 1^er^ janvier 2024 | 3 357,30 |
 | 1^er^ janvier 2025 | 3 444,59 |
+| 1^er^ janvier 2026 | 3 513,48 |
 
 <details>
 <summary>Historical Note</summary>
 
 - 2026, ch. 3, art. 370
+- DORS/2026-99, art. 1
 
 </details>
 

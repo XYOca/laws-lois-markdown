@@ -1,6 +1,6 @@
 # Federal Regulations
 
-_4870 documents_
+_4878 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -1402,6 +1402,9 @@ _4870 documents_
 | SI/2026-2 | [SI-2026-2-SI-2026-2](SI-2026-2-SI-2026-2.md) | Consular Services Fees (Performance Standards) Remission Order |
 | SI/2026-22 | [SI-2026-22-SI-2026-22](SI-2026-22-SI-2026-22.md) | Order Transferring to the Department of Public Works and Government Services the Control and Supervision of Certain Portions of the Federal Public Administration |
 | SI/2026-23 | [SI-2026-23-SI-2026-23](SI-2026-23-SI-2026-23.md) | Order in Council Directing that the Annual Report of the Canadian Accessibility Standards Development Organization Be Discontinued |
+| SI/2026-27 | [SI-2026-27-SI-2026-27](SI-2026-27-SI-2026-27.md) | Remission Order in Respect of the 2016–2017 and 2019 Bovine Tuberculosis Outbreaks |
+| SI/2026-28 | [SI-2026-28-SI-2026-28](SI-2026-28-SI-2026-28.md) | Remission Order for Certain Fees Under the Passport and Other Travel Document Services Fees Regulations (March 31, 2026 to April 29, 2026) |
+| SI/2026-29 | [SI-2026-29-SI-2026-29](SI-2026-29-SI-2026-29.md) | Proclamation by the right Honourable Louise Arbour announcing the assumption of the powers and functions of Governor General and commander-in-chief of canada |
 | SI/2026-3 | [SI-2026-3-SI-2026-3](SI-2026-3-SI-2026-3.md) | Order Acknowledging Receipt of the Assessments Done Under Subsection 23(1) of the Species at Risk Act (American Marten, Newfoundland Population and Six Other Wildlife Species) |
 | SI/2026-5 | [SI-2026-5-SI-2026-5](SI-2026-5-SI-2026-5.md) | Order Transferring from the Department of Transport to the Department of National Defence the Control and Supervision of the Aircraft Services Directorate |
 | SI/2026-7 | [SI-2026-7-SI-2026-7](SI-2026-7-SI-2026-7.md) | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Afghanistan) Remission Order |
@@ -3459,6 +3462,11 @@ _4870 documents_
 | SOR/2025-93 | [SOR-2025-93-SOR-2025-93](SOR-2025-93-SOR-2025-93.md) | Order Establishing Supplementary Rules Respecting the Sale of Natural Health Products Containing Ephedrine or Pseudoephedrine |
 | SOR/2025-94 | [SOR-2025-94-SOR-2025-94](SOR-2025-94-SOR-2025-94.md) | Exemption Order in Respect of Labelling Requirements for Certain Natural Health Products |
 | SOR/2025-95 | [SOR-2025-95-SOR-2025-95](SOR-2025-95-SOR-2025-95.md) | United States Surtax Order (Steel and Aluminum 2025) |
+| SOR/2026-108 | [SOR-2026-108-SOR-2026-108](SOR-2026-108-SOR-2026-108.md) | Refined Sugar Anti-dumping Duty Remission Order, 2026 |
+| SOR/2026-111 | [SOR-2026-111-SOR-2026-111](SOR-2026-111-SOR-2026-111.md) | Order Exempting Certain Navigable Waters Located in Newfoundland and Labrador from the Application of Sections 22 and 23 of the Canadian Navigable Waters Act |
+| SOR/2026-124 | [SOR-2026-124-SOR-2026-124](SOR-2026-124-SOR-2026-124.md) | CICEPA Rules of Origin Regulations |
+| SOR/2026-125 | [SOR-2026-125-SOR-2026-125](SOR-2026-125-SOR-2026-125.md) | CICEPA Rules of Origin for Casual Goods Regulations |
+| SOR/2026-126 | [SOR-2026-126-SOR-2026-126](SOR-2026-126-SOR-2026-126.md) | CICEPA Tariff Preference Regulations |
 | SOR/2026-34 | [SOR-2026-34-SOR-2026-34](SOR-2026-34-SOR-2026-34.md) | Steel Derivative Goods Surtax Remission Order |
 | SOR/2026-4 | [SOR-2026-4-SOR-2026-4](SOR-2026-4-SOR-2026-4.md) | Critical Habitat of the Silver Chub (Macrhybopsis storeriana) Great Lakes – Upper St. Lawrence Populations Order |
 | SOR/2026-48 | [SOR-2026-48-SOR-2026-48](SOR-2026-48-SOR-2026-48.md) | Order Extending the Application of the Freezing Assets of Corrupt Foreign Officials (Tunisia) Regulations |

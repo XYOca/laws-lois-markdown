@@ -1358,7 +1358,8 @@ Les définitions qui suivent s’appliquent à la présente annexe.
 
 - b) dans le cas d’une espèce d’algues :
   - (i) soit la méthode intitulée *Short-term Methods for Estimating the Chronic Toxicity of Effluents and Receiving Waters to Marine and Estuarine Organisms* (Third Edition) (Méthode de référence EPA/821/R/02–014), publiée en octobre 2002 par l’Environmental Protection Agency des États-Unis,
-  - (ii) soit la méthode intitulée *Short-term Methods for Estimating the Chronic Toxicity of Effluent and Receiving Waters to West Coast Marine and Estuarine Organisms* (First Edition) (Méthode de référence EPA/600/R-95-136), publiée en août 1995 par l’Environmental Protection Agency des États-Unis.
+  - (ii) soit la méthode intitulée *Short-term Methods for Estimating the Chronic Toxicity of Effluent and Receiving Waters to West Coast Marine and Estuarine Organisms* (First Edition) (Méthode de référence EPA/600/R-95-136), publiée en août 1995 par l’Environmental Protection Agency des États-Unis,
+  - (iii) soit la méthode intitulée *Protocole canadien complémentaire à la norme ISO 10710 : Essai visant à mesurer l’inhibition de la croissance de la macroalgue, Ceramium tenuicorne* (Rapport DGST 1/RM/63), publiée en mars 2025 par le ministère de l’Environnement du Canada.
 
 ### Études de suivi biologique
 
@@ -1547,6 +1548,7 @@ Les données des études de suivi biologique doivent être utilisées :
 <summary>Historical Note</summary>
 
 - DORS/2004-109, art. 30; DORS/2008-239, art. 11 à 16; DORS/2011-38, art. 1(F); DORS/2012-140, art. 28 et 29
+- DORS/2026-107, art. 1
 
 </details>
 

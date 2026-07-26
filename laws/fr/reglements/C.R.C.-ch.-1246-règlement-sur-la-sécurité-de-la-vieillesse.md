@@ -169,30 +169,34 @@ Lorsque le montant de la pension partielle visé au paragraphe 3(3) de la Loi, m
 
 ### 8
 
-(1) Lorsque le montant de la pleine pension ou du supplément mensuel est rajusté trimestriellement conformément aux paragraphes 7(2) ou 12(2) de la Loi :
+(1) Lorsque le montant d’une prestation est rajusté trimestriellement conformément aux paragraphes 7(2), 12(2), 12.1(3), 22(4.2) ou 22.1(4) de la Loi :
 
-- a) le produit suivant doit être arrondi à un cent près conformément au paragraphe (2) :
-  - (i) le produit de la multiplication de la mensualité visée à l’alinéa 7(2)a) de la Loi par la fraction visée à l’alinéa 7(2)b) de la Loi,
-  - (ii) le produit de la multiplication du montant visé à l’alinéa 12(2)a) de la Loi par la fraction visée à l’alinéa 12(2)b) de la Loi;
+- a) est arrondi à un cent près, conformément au paragraphe (2), le produit obtenu par multiplication, selon le cas :
+  - (i) de la mensualité visée à l’alinéa 7(2)a) de la Loi par la fraction visée à l’alinéa 7(2)b) de la Loi,
+  - (ii) du montant visé à l’alinéa 12(2)a) de la Loi par la fraction visée à l’alinéa 12(2)b) de la Loi,
+  - (iii) de la somme visée à l’alinéa 12.1(3)a) de la Loi par la fraction visée à l’alinéa 12.1(3)b) de la Loi,
+  - (iv) de la valeur visée à l’alinéa 22(4.2)a) de la Loi par la fraction visée à l’alinéa 22(4.2)b) de la Loi,
+  - (v) de la somme visée à l’alinéa 22.1(4)a) de la Loi par la fraction visée à l’alinéa 22.1(4)b) de la Loi;
 
-- b) les proportions mentionnées à l’alinéa a) doivent être exprimées en fractions décimales conformément au paragraphe (3).
+- b) toute fraction visée à l’alinéa a) est exprimée en nombre décimal conformément au paragraphe (3).
 
-(2) Lorsque le produit visé au sous-alinéa (1)a)(i), majoré conformément au paragraphe 7.1(1) de la Loi, le cas échéant, ou le produit visé au sous-alinéa (1)a)(ii) renferme une fraction de dollar exprimée par trois chiffres ou plus :
+(2) Lorsque le produit obtenu conformément au sous-alinéa (1)a)(i), majoré conformément au paragraphe 7.1(1) de la Loi, le cas échéant, ou celui obtenu conformément à l’un des sous-alinéas (1)a)(ii) à (v) renferme une fraction de dollar exprimée par trois décimales ou plus :
 
-- a) si le troisième chiffre est inférieur à 5, ledit chiffre et les chiffres suivants doivent être supprimés; et
+- a) si la troisième décimale est inférieure à 5, cette décimale et celles qui suivent sont supprimées;
 
-- b) si le troisième chiffre est 5 ou supérieur à 5, le deuxième chiffre doit être augmenté de 1 et le troisième chiffre et les chiffres suivants doivent être supprimés.
+- b) si la troisième décimale est égale ou supérieure à 5, la deuxième décimale est augmentée de 1 et la troisième décimale et celles qui suivent sont supprimées.
 
-(3) Lorsque les proportions mentionnées à l’alinéa (1)a) renferment une fraction inférieure à 1, ladite fraction doit être exprimée sous forme de fraction décimale de quatre chiffres après le point décimal, et
+(3) Toute fraction visée à l’alinéa (1)a) qui est exprimée sous forme de nombre décimal composé de quatre décimales après le signe décimal est arrondie comme suit :
 
-- a) lorsque le quatrième chiffre après le point décimal est inférieur à 5, ledit chiffre après le point décimal doit être supprimé; et
+- a) si la quatrième décimale après le signe décimal est inférieure à 5, elle est supprimée;
 
-- b) lorsque le quatrième chiffre après le point décimal est 5 ou supérieur à 5, le troisième chiffre après le point décimal doit être augmenté de 1 et le quatrième chiffre après le point décimal doit être supprimé.
+- b) si la quatrième décimale après le signe décimal est égale ou supérieure à 5, la troisième décimale est augmentée de 1 et la quatrième est supprimée.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/90-813, art. 5; DORS/2013-23, art. 4
+- DORS/2026-129, art. 1
 
 </details>
 

@@ -3848,6 +3848,7 @@ La présente loi lie Sa Majesté du chef du Canada.
 | Loi sur la Banque de l’infrastructure du CanadaCanada Infrastructure Bank Act | article 28 |
 | Loi sur l’Accord entre le Canada et la Nouvelle-Écosse sur la gestion des ressources pétrolières et gazières, S.C. 1984, ch. 29Canada-Nova Scotia Oil and Gas Agreement Act, S.C. 1984, c. 29 | article 53 |
 | Loi sur la concurrenceCompetition Act | paragraphes 29(1), 29.1(5) et 29.2(5) |
+| Loi sur la Corporation de développement des investissements du CanadaCanada Development Investment Corporation Act | article 21 |
 | Loi sur la détermination de la participation et du contrôle canadiensCanadian Ownership and Control Determination Act | article 17 |
 | Loi sur l’administration de l’énergieEnergy Administration Act | article 98 |
 | Loi sur l’aéronautiqueAeronautics Act | paragraphe 4.79(1), article 5.32 et paragraphes 6.5(5), 22(2) et 24.2(4) |
@@ -3922,6 +3923,7 @@ La présente loi lie Sa Majesté du chef du Canada.
 - 2026, ch. 3, art. 129
 - 2026, ch. 3, art. 193
 - 2026, ch. 3, art. 225
+- 2026, ch. 3, art. 387
 - 2026, ch. 3, art. 497
 - 2026, ch. 3, art. 586
 
@@ -4167,14 +4169,6 @@ ainsi que de la mention « paragraphe 45.47(1) » en regard de ce titre de l
 L’annexe II de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
 
 ainsi que de la mention « paragraphe 25(1) » en regard de ce titre de loi.
-
-### — 2026, ch. 3, art. 387
-
-### 387
-
-L’annexe II de la *Loi sur l’accès à l’information* est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
-
-ainsi que de la mention « article 21 » en regard de ce titre de loi.
 
 ### — 2026, ch. 3, art. 601
 

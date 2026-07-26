@@ -606,7 +606,7 @@ Le présent règlement ne s’applique pas à une drogue visée aux alinéas b) 
 **aliment pour bébés** Tout aliment étiqueté ou annoncé comme pouvant être consommé par des bébés; (**infant food**)
 
 **aliment supplémenté** Produit préemballé qui appartient à une catégorie d’aliments figurant à la colonne 1 de la Liste des catégories autorisées d’aliments supplémentés et auquel a été ajouté un ingrédient supplémentaire, à l’exclusion des aliments suivants :
-  - a) les **aliments à usage diététique spécial** au sens de l’article B.24.001 qui sont visés à l’un ou l’autre des alinéas B.24.003(1)f) à f.2) et h) à j), même s’ils sont également des aliments sans gluten visés à l’alinéa B.24.003(1)g);
+  - a) les **aliments à usage diététique spécial** au sens de l’article B.24.001 qui sont visés à l’un des alinéas B.24.003(1)f) à f.2) et h) à j), même s’ils sont également des aliments sans gluten visés à l’alinéa B.24.003(1)g);
   - a.1) les aliments pour bébés;
   - b) les aliments étiquetés ou annoncés comme pouvant être consommés par :
     - (i) [Abrogé, DORS/2024-244, art. 2]
@@ -857,6 +857,7 @@ Sont toutefois exclus :
 - DORS/2022-168, art. 1
 - DORS/2022-169, art. 1
 - DORS/2024-244, art. 2
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -1223,7 +1224,7 @@ Sauf disposition contraire du présent règlement ou du *Règlement sur la salub
 
 - a) elle est encadrée par une bordure ou délimitée par une ou plusieurs lignes continues tracées immédiatement au-dessus, au-dessous ou aux extrémités de la liste, qui sont de la même couleur que celle des caractères utilisés pour indiquer les renseignements visés au paragraphe B.01.008.1(1);
 
-- b) il y a un contraste entre la couleur de fond de la liste et la couleur de fond de la partie adjacente de l’étiquette, exception faite de la partie où figurent l’un ou l’autre des renseignements suivants  :
+- b) il y a un contraste entre la couleur de fond de la liste et la couleur de fond de la partie adjacente de l’étiquette, exception faite de la partie où figure l’un des renseignements suivants  :
   - (i) la **mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés** au sens du paragraphe B.01.010.1(1),
   - (ii) l’énoncé visé au paragraphe B.01.010.4(1),
   - (iii) toute mention visée au paragraphe B.16.016(1),
@@ -1297,6 +1298,7 @@ Sauf disposition contraire du présent règlement ou du *Règlement sur la salub
 - DORS/2022-169, art. 5
 - DORS/2022-197, art. 3
 - DORS/2024-244, art. 7
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -1551,7 +1553,7 @@ Sauf disposition contraire du présent règlement ou du *Règlement sur la salub
 
 - b) un constituant ou est présent dans un constituant et ni le constituant ni l’ingrédient dans lequel il est présent ne figurent dans la liste des ingrédients.
 
-(10) Malgré le paragraphe (8), la source de l’allergène alimentaire ou du gluten n’a pas à figurer entre parenthèses immédiatement à la suite de l’ingrédient ou du constituant, selon le cas, si elle figure à l’un ou l’autre des endroits suivants :
+(10) Malgré le paragraphe (8), la source de l’allergène alimentaire ou du gluten n’a pas à figurer entre parenthèses immédiatement à la suite de l’ingrédient ou du constituant, selon le cas, si elle figure à l’un des endroits suivants :
 
 - a) dans la liste des ingrédients :
   - (i) soit comme partie du nom usuel de l’ingrédient ou du constituant,
@@ -1569,6 +1571,7 @@ Sauf disposition contraire du présent règlement ou du *Règlement sur la salub
 - DORS/2021-46, art. 4(A)
 - DORS/2022-143, art. 10
 - DORS/2022-168, art. 5
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -3004,7 +3007,7 @@ Le symbole nutritionnel est orienté dans le même sens que la plupart des autre
 
 (2.2) Le pourcentage de la valeur quotidienne d’une vitamine ou d’un minéral nutritif qui, aux termes du paragraphe (2), figure dans le tableau de la valeur nutritive d’un produit préemballé est établi sur la base de la teneur en poids de la vitamine ou du minéral nutritif dans le produit, par portion indiquée, une fois la teneur arrondie selon les règles d’écriture applicables prévues à la colonne 4 du tableau du présent article.
 
-(3) Le tableau de la valeur nutritive indique la teneur en acides gras polyinsaturés oméga-6, en polyinsaturés oméga-3 et en monoinsaturés dans l’un ou l’autre des cas suivants :
+(3) Le tableau de la valeur nutritive indique la teneur en acides gras polyinsaturés oméga-6, en polyinsaturés oméga-3 et en monoinsaturés dans l’un des cas suivants :
 
 - a) la teneur en un de ces groupes d’acides gras ou la teneur en acides gras polyinsaturés est indiquée dans le tableau ou sur l’étiquette du produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres;
 
@@ -3070,6 +3073,7 @@ Le symbole nutritionnel est orienté dans le même sens que la plupart des autre
 
 - DORS/2003-11, art. 20; err., Vol. 137, n^o^ 5; DORS/2005-98, art. 2(F); DORS/2016-305, art. 19 et 75(F)
 - DORS/2018-108, art. 395
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -3330,7 +3334,7 @@ Le symbole nutritionnel est orienté dans le même sens que la plupart des autre
 
 - e) d’une façon prévue à l’article B.01.466.
 
-(4) Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement.
+(4) Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte que des renseignements qui doivent figurer dans le tableau aux termes du présent règlement.
 
 (5) Malgré les paragraphes (2) et (3), si le produit préemballé, dont l’étiquette est un autocollant et dont la surface exposée disponible est de 200 cm^2^ ou plus, est vendu uniquement dans l’établissement de détail où il est emballé, le tableau de la valeur nutritive est présenté selon l’une des versions figurant à la colonne 1 des articles 1 à 3 des parties 1 à 3 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
@@ -3388,6 +3392,7 @@ Le symbole nutritionnel est orienté dans le même sens que la plupart des autre
 <summary>Historical Note</summary>
 
 - DORS/2003-11, art. 20; DORS/2016-305, art. 27 et 74
+- DORS/2026-113, art. 1(F)
 
 </details>
 
@@ -3763,7 +3768,7 @@ Le symbole nutritionnel est orienté dans le même sens que la plupart des autre
 
 - e) d’une façon prévue à l’article B.01.466.
 
-(4) Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement.
+(4) Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte que des renseignements qui doivent figurer dans le tableau aux termes du présent règlement.
 
 | Article | Colonne 1 | Colonne 2 |
 | Figure du Répertoire des modèles de TVN (version) | Condition d’utilisation |  |
@@ -3817,6 +3822,7 @@ Le symbole nutritionnel est orienté dans le même sens que la plupart des autre
 <summary>Historical Note</summary>
 
 - DORS/2003-11, art. 20; DORS/2016-305, art. 35 et 74
+- DORS/2026-113, art. 2(F)
 
 </details>
 
@@ -4053,7 +4059,7 @@ Le symbole nutritionnel est orienté dans le même sens que la plupart des autre
 
 ### B.01.467
 
-(1) Malgré l’article A.01.016 et sous réserve du paragraphe (2), l’étiquette de tout produit préemballé dont la surface exposée disponible est de moins de 100 cm^2^ peut ne pas porter le tableau de la valeur nutritive si son recto comporte des indications sur la manière dont l’acheteur ou le consommateur peut obtenir les renseignements qui devraient figurer dans le tableau.
+(1) Malgré l’article A.01.016 et sous réserve du paragraphe (2), l’étiquette de tout produit préemballé dont la surface exposée disponible est de moins de 100 cm^2^ peut ne pas porter le tableau de la valeur nutritive si son recto comporte une indication sur la manière dont l’acheteur ou le consommateur peut obtenir les renseignements qui devraient figurer dans le tableau.
 
 (2) Le paragraphe (1) ne s’applique pas :
 
@@ -4077,13 +4083,13 @@ Le symbole nutritionnel est orienté dans le même sens que la plupart des autre
   - (iii) est en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exigent l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du *Règlement sur la salubrité des aliments au Canada*,
   - (iv) est d’une couleur faisant contraste avec le fond de l’étiquette.
 
-(3) Les indications visées au paragraphe (1) répondent aux critères suivants :
+(3) L’indication visée au paragraphe (1) répond aux critères suivants :
 
-- a) elles sont présentées en caractères d’au moins 8 points;
+- a) elle est présentée en caractères d’au moins 8 points;
 
-- b) elles comportent une adresse postale ou un numéro de téléphone sans frais;
+- b) elle comporte une adresse postale ou un numéro de téléphone sans frais;
 
-- c) elles figurent :
+- c) elle figure :
   - (i) soit en français et en anglais,
   - (ii) soit dans l’une de ces langues, si, conformément aux paragraphes B.01.012(3) ou (7), les renseignements devant être indiqués sur l’étiquette du produit aux termes du présent règlement peuvent l’être uniquement dans la langue en cause et qu’ils y figurent dans celle-ci.
 
@@ -4108,6 +4114,7 @@ Le symbole nutritionnel est orienté dans le même sens que la plupart des autre
 - DORS/2018-108, art. 400
 - DORS/2022-168, art. 15
 - DORS/2024-244, art. 19
+- DORS/2026-113, art. 16(F)
 
 </details>
 
@@ -4610,10 +4617,10 @@ Toute mention ou allégation mentionnée à la colonne 1 du tableau suivant l’
 | --- | --- | --- | --- |
 | 1 | (1)« Une alimentation saine comprenant des aliments à teneur élevée en potassium et pauvres en sodium peut réduire le risque d’hypertension, facteur de risque d’accident cérébrovasculaire et de maladie du coeur. (Nom de l’aliment) ne contient pas de sodium. »(2)« Une alimentation saine comprenant des aliments à teneur élevée en potassium et pauvres en sodium peut réduire le risque d’hypertension, facteur de risque d’accident cérébrovasculaire et de maladie du coeur. (Nom de l’aliment) est pauvre en sodium. »(3)« Une alimentation saine comprenant des aliments à teneur élevée en potassium et pauvres en sodium peut réduire le risque d’hypertension, facteur de risque d’accident cérébrovasculaire et de maladie du coeur. (Nom de l’aliment) est une bonne source de potassium et ne contient pas de sodium. »(4)« Une alimentation saine comprenant des aliments à teneur élevée en potassium et pauvres en sodium peut réduire le risque d’hypertension, facteur de risque d’accident cérébrovasculaire et de maladie du coeur. (Nom de l’aliment) est une bonne source de potassium et est pauvre en sodium. »(5)« Une alimentation saine comprenant des aliments à teneur élevée en potassium et pauvres en sodium peut réduire le risque d’hypertension, facteur de risque d’accident cérébrovasculaire et de maladie du coeur. (Nom de l’aliment) est une source élevée de potassium et ne contient pas de sodium. »(6)« Une alimentation saine comprenant des aliments à teneur élevée en potassium et pauvres en sodium peut réduire le risque d’hypertension, facteur de risque d’accident cérébrovasculaire et de maladie du coeur. (Nom de l’aliment) a une teneur élevée en potassium et est pauvre en sodium. » | L’aliment :a)autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « peu d’énergie » visé à la colonne 1;b)contient au moins 10 % de l’apport nutritionnel recommandé pondéré d’une vitamine ou d’un minéral nutritif, selon le cas :(i)par quantité de référence et portion indiquée,(ii)par portion indiquée, si l’aliment est un repas préemballé;c)répond aux critères mentionnés à la colonne 2 de l’article 19 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1;d)contient au plus 0,5 % d’alcool;e)dont l’étiquette ou l’annonce comporte les mentions ou allégations (1), (3) ou (5) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 31 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « sans sodium ou sans sel » visé à la colonne 1;f)dont l’étiquette ou l’annonce comporte les mentions ou allégations (2), (4) ou (6) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 32 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « faible teneur en sodium ou en sel » visé à la colonne 1;g)dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient 350 mg ou plus de potassium, selon le cas :(i)par quantité de référence et portion indiquée,(ii)par portion indiquée, si l’aliment est un repas préemballé. | Si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en sodium et en potassium par portion indiquée et, le cas échéant, conformément à l’article B.01.602. Toutefois, cette exigence ne s’applique pas si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de gelée de pétrole ou de tout enduit protecteur. |
 | 2 | (1)« Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une bonne source de calcium. »(2)« Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une source élevée de calcium. »(3)« Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une excellente source de calcium. »(4)« Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une source très élevée de calcium. »(5)« Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une excellente source de calcium et de vitamine D. »(6)« Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une source très élevée de calcium et de vitamine D. » | L’aliment :a)autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « peu d’énergie » visé à la colonne 1;b)ne contient pas plus de phosphore, à l’exclusion de celui qui est fourni par le phytate, que de calcium;c)contient au plus 0,5 % d’alcool;d)dont l’étiquette ou l’annonce comporte les mentions ou allégations (1) ou (2) figurant à la colonne 1 du présent article, contient, selon le cas :(i)200 mg ou plus de calcium par quantité de référence et par portion indiquée,(ii)300 mg ou plus de calcium par portion indiquée, si l’aliment est un repas préemballé;e)dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient, selon le cas :(i)275 mg ou plus de calcium par quantité de référence et par portion indiquée,(ii)400 mg ou plus de calcium par portion indiquée, si l’aliment est un repas préemballé;f)dont l’étiquette ou l’annonce comporte les mentions ou allégations (5) ou (6) figurant à la colonne 1 du présent article, contient 1,25 µg ou plus de vitamine D, selon le cas :(i)par quantité de référence et portion indiquée,(ii)par portion indiquée, si l’aliment est un repas préemballé. | (1)Si la mention ou l’allégation figure sur l’étiquette d’un produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, la teneur en vitamine D et en phosphore est indiquée, selon le cas :a)dans le tableau de la valeur nutritive conformément au paragraphe B.01.402(2);b)dans le tableau des renseignements sur les aliments supplémentés conformément au paragraphe B.29.002(1), en ce qui a trait à la nomenclature visée à la colonne 2, à l’unité visée à la colonne 3 et aux règles d’écriture visées à la colonne 4 du tableau de l’article B.29.002, ou au paragraphe B.29.003(3), ou aux deux, selon le cas.(2)Si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en vitamine D, en calcium et en phosphore par portion indiquée et, le cas échéant, conformément à l’article B.01.602. Toutefois, cette exigence ne s’applique pas si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de gelée de pétrole ou de tout enduit protecteur. |
-| 3 | (1)« Une alimentation saine pauvre en graisses saturées et en graisses trans peut réduire le risque de maladie du coeur. (Nom de l’aliment) ne contient pas de graisses saturées ni de graisses trans. »(2)« Une alimentation saine pauvre en graisses saturées et en graisses trans peut réduire le risque de maladie du coeur. (Nom de l’aliment) est pauvre en graisses saturées et en graisses trans. » | L’aliment :a)autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « peu d’énergie » visé à la colonne 1;b)contient au moins 10 % de l’apport nutritionnel recommandé pondéré d’une vitamine ou d’un minéral nutritif, selon le cas :(i)par quantité de référence et portion indiquée,(ii)par portion indiquée, si l’aliment est un repas préemballé;c)contient au plus 100 mg de cholestérol par portion de 100 g de l’aliment;d)contient au plus 0,5 % d’alcool;e)s’il est une graisse ou une huile, répond à l’un ou l’autre des critères suivants :(i)ceux mentionnés à la colonne 2 de l’article 25 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « source d’acides gras polyinsaturés oméga-3 » visé à la colonne 1,(ii)ceux mentionnés à la colonne 2 de l’article 26 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « source d’acides gras polyinsaturés oméga-6 » visé à la colonne 1,(iii)ceux prévus aux sous-alinéas (i) et (ii);f)contient, selon le cas :(i)au plus 480 mg de sodium par quantité de référence, par portion indiquée et, si la quantité de référence est d’au plus 30 g ou 30 mL, par 50 g,(ii)au plus 960 mg de sodium par portion indiquée, si l’aliment est un repas préemballé;g)dont l’étiquette ou l’annonce comporte la mention ou l’allégation (1) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 18 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « sans acides gras saturés » visé à la colonne 1;h)dont l’étiquette ou l’annonce comporte la mention ou l’allégation (2) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 19 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1. | Si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en acides gras saturés et en acides gras *trans* par portion indiquée et, le cas échéant, conformément à l’article B.01.602. Toutefois, cette exigence ne s’applique pas si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de gelée de pétrole ou de tout enduit protecteur. |
+| 3 | (1)« Une alimentation saine pauvre en graisses saturées et en graisses trans peut réduire le risque de maladie du coeur. (Nom de l’aliment) ne contient pas de graisses saturées ni de graisses trans. »(2)« Une alimentation saine pauvre en graisses saturées et en graisses trans peut réduire le risque de maladie du coeur. (Nom de l’aliment) est pauvre en graisses saturées et en graisses trans. » | L’aliment :a)autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « peu d’énergie » visé à la colonne 1;b)contient au moins 10 % de l’apport nutritionnel recommandé pondéré d’une vitamine ou d’un minéral nutritif, selon le cas :(i)par quantité de référence et portion indiquée,(ii)par portion indiquée, si l’aliment est un repas préemballé;c)contient au plus 100 mg de cholestérol par portion de 100 g de l’aliment;d)contient au plus 0,5 % d’alcool;e)s’il est une graisse ou une huile, répond à l’un des critères suivants :(i)ceux mentionnés à la colonne 2 de l’article 25 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « source d’acides gras polyinsaturés oméga-3 » visé à la colonne 1,(ii)ceux mentionnés à la colonne 2 de l’article 26 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « source d’acides gras polyinsaturés oméga-6 » visé à la colonne 1,(iii)ceux prévus aux sous-alinéas (i) et (ii);f)contient, selon le cas :(i)au plus 480 mg de sodium par quantité de référence, par portion indiquée et, si la quantité de référence est d’au plus 30 g ou 30 mL, par 50 g,(ii)au plus 960 mg de sodium par portion indiquée, si l’aliment est un repas préemballé;g)dont l’étiquette ou l’annonce comporte la mention ou l’allégation (1) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 18 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « sans acides gras saturés » visé à la colonne 1;h)dont l’étiquette ou l’annonce comporte la mention ou l’allégation (2) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 19 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1. | Si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en acides gras saturés et en acides gras *trans* par portion indiquée et, le cas échéant, conformément à l’article B.01.602. Toutefois, cette exigence ne s’applique pas si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de gelée de pétrole ou de tout enduit protecteur. |
 | 4 | « Une alimentation saine comportant une grande variété de légumes et de fruits peut aider à réduire le risque de certains types de cancer. » | L’aliment :a)est l’un des aliments ci-après et ne contient pas d’ingrédients autres que des additifs alimentaires figurant à la colonne 1 des Listes des additifs alimentaires autorisés, des agents édulcorants, du sel, des fines herbes, des épices, des assaisonnements et de l’eau :(i)un légume frais, congelé, en conserve ou déshydraté,(ii)un fruit frais, congelé, en conserve ou sec,(iii)un jus de légume ou de fruit,(iv)une combinaison des aliments mentionnés aux sous-alinéas (i) à (iii);b)n’est pas :(i)une pomme de terre, une igname, du manioc, une banane plantain, du maïs, un champignon, une légumineuse mature ou leur jus,(ii)un légume ou un fruit utilisé comme condiment, garniture ou aromatisant, notamment une cerise au marasquin, un fruit glacé ou confit ou de l’oignon en flocons,(iii)une confiture ou une tartinade de type confiture, une marmelade, une conserve de fruit ou une gelée,(iv)une olive;(v)un légume ou fruit en poudre;c)contient au plus 0,5 % d’alcool. |  |
 | 4.1 | « Une alimentation saine comportant une grande variété de légumes et de fruits peut aider à réduire le risque de maladie du coeur. » | L’aliment :a)est l’un des aliments ci-après et ne contient pas d’ingrédients autres que des additifs alimentaires figurant à la colonne 1 des Listes des additifs alimentaires autorisés, du sel, des fines herbes, des épices, des assaisonnements et de l’eau :(i)un légume frais, congelé, en conserve ou déshydraté,(ii)un fruit frais, congelé, en conserve ou sec,(iii)un jus de légumes ou une boisson aux légumes,(iv)une combinaison quelconque des aliments mentionnés aux sous-alinéas (i) à (iii);b)n’est pas ou ne contient pas l’un des aliments suivants :(i)une pomme de terre, une igname, du manioc, une banane plantain, une légumineuse mature ou leur jus,(ii)un légume ou un fruit utilisé comme condiment, garniture ou aromatisant, notamment une cerise au marasquin, un fruit glacé ou confit ou de l’oignon en flocons,(iii)une confiture ou une tartinade de type confiture, une marmelade, une conserve de fruit ou une gelée,(iv)une olive,(v)un jus de fruits ou une boisson aux fruits,(vi)un légume ou fruit en poudre,(vii)une graine d’un fruit connu comme un drupe, notamment une amande, une noix de cajou et de la noix de coco;c)contient au plus 0,5 % d’alcool;d)contient moins de 15 % de la valeur quotidienne de sodium par quantité de référence, par portion indiquée et, si la quantité de référence est d’au plus 30 g ou 30 ml, par 50 g. |  |
-| 5 | (1)« Ne cause pas la carie dentaire. »(2)« Ne favorise pas la carie dentaire. »(3)« Ne favorise pas les caries dentaires. »(4)« Non cariogène. » | L’aliment est une gomme à mâcher, un bonbon dur ou un rafraîchisseur d’haleine qui répond à l’un ou l’autre des critères suivants :a)il ne contient, au total, pas plus de 0,25 % d’amidon, de dextrines, de monosaccharides, de disaccharides, d’oligosaccharides ou d’autres glucides fermentescibles;b)il contient plus de 0,25 % de glucides fermentescibles et il ne réduit pas le pH de la plaque à moins de 5,7 par fermentation bactérienne pendant 30 minutes après avoir été consommé, le pH étant mesuré selon le test « indwelling plaque pH » décrit dans « Identification of Low Caries Risk Dietary Components », Monographs in Oral Science, T.N. Imfeld, Volume 11, 1983. | Si la mention ou l’allégation figure sur l’étiquette d’un produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, la teneur en polyalcools, s’il y en a, est indiquée, selon le cas :a)dans le tableau de la valeur nutritive conformément au paragraphe B.01.402(2);b)dans le tableau des renseignements sur les aliments supplémentés conformément au paragraphe B.29.003(3). |
+| 5 | (1)« Ne cause pas la carie dentaire. »(2)« Ne favorise pas la carie dentaire. »(3)« Ne favorise pas les caries dentaires. »(4)« Non cariogène. » | L’aliment est une gomme à mâcher, un bonbon dur ou un rafraîchisseur d’haleine qui répond à l’un des critères suivants :a)il ne contient, au total, pas plus de 0,25 % d’amidon, de dextrines, de monosaccharides, de disaccharides, d’oligosaccharides ou d’autres glucides fermentescibles;b)il contient plus de 0,25 % de glucides fermentescibles et il ne réduit pas le pH de la plaque à moins de 5,7 par fermentation bactérienne pendant 30 minutes après avoir été consommé, le pH étant mesuré selon le test « indwelling plaque pH » décrit dans « Identification of Low Caries Risk Dietary Components », Monographs in Oral Science, T.N. Imfeld, Volume 11, 1983. | Si la mention ou l’allégation figure sur l’étiquette d’un produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, la teneur en polyalcools, s’il y en a, est indiquée, selon le cas :a)dans le tableau de la valeur nutritive conformément au paragraphe B.01.402(2);b)dans le tableau des renseignements sur les aliments supplémentés conformément au paragraphe B.29.003(3). |
 
 <details>
 <summary>Historical Note</summary>
@@ -4623,6 +4630,7 @@ Toute mention ou allégation mentionnée à la colonne 1 du tableau suivant l’
 - DORS/2022-169, art. 18
 - DORS/2024-244, art. 22
 - DORS/2024-244, art. 156(F)
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -7886,7 +7894,7 @@ Est interdite la vente d’un simili-produit de viande qui rappelle le bacon de 
 
 ### B.15.002
 
-(1) Sous réserve du paragraphe (2), un aliment est falsifié dans l’un ou l’autre des cas suivants :
+(1) Sous réserve du paragraphe (2), un aliment est falsifié dans l’un des cas suivants :
 
 - a) des produits antiparasitaires au sens du paragraphe 2(1) de la *Loi sur les produits antiparasitaires* ou leurs composants ou dérivés, pour lesquels aucune limite maximale de résidus n’a été fixée en vertu des articles 9 ou 10 de cette loi pour l’aliment, sont présents — seuls ou en combinaison — dans l’aliment ou sur sa surface en une quantité supérieure à 0,1 partie par million;
 
@@ -7916,6 +7924,7 @@ Est interdite la vente d’un simili-produit de viande qui rappelle le bacon de 
 <summary>Historical Note</summary>
 
 - DORS/78-404, art. 1; DORS/79-249, art. 1; DORS/81-83, art. 2; DORS/97-313, art. 2; DORS/98-98, art. 1; DORS/2005-67, art. 1; DORS/2008-181, art. 3; DORS/2008-182, art. 2
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -9125,7 +9134,7 @@ Dans ce titre,
 
 - d) un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie et dont la composition répond aux exigences de l’article B.24.303.
 
-(4) Sauf disposition contraire du présent règlement, il est interdit d’étiqueter, d’emballer, de vendre ou d’annoncer un aliment, en le présentant comme étant « diététique » ou « diète » ou d’inclure l’un ou l’autre de ces mots dans sa marque à moins que son étiquette comporte une mention ou une allégation figurant à la colonne 4 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive, conformément à l’article B.01.503, en regard de l’un des sujets ci-après visé à la colonne 1 :
+(4) Sauf disposition contraire du présent règlement, il est interdit d’étiqueter, d’emballer, de vendre ou d’annoncer un aliment, en le présentant comme étant « diététique » ou « diète » ou d’inclure l’un de ces mots dans sa marque à moins que son étiquette comporte une mention ou une allégation figurant à la colonne 4 du Tableau des mentions et des allégations autorisées concernant la teneur nutritive, conformément à l’article B.01.503, en regard de l’un des sujets ci-après visé à la colonne 1 :
 
 - a) « sans énergie », visé à l’article 1;
 
@@ -9143,6 +9152,7 @@ Dans ce titre,
 - DORS/78-64, art. 2; DORS/78-698, art. 5; DORS/84-334, art. 1; DORS/86-178, art. 8(A); DORS/94-35, art. 2; DORS/95-444, art. 1; DORS/95-474, art. 4; DORS/2003-11, art. 21
 - DORS/2021-57, art. 11
 - DORS/2022-168, art. 52
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -10739,7 +10749,7 @@ Les définitions qui suivent s’appliquent au présent titre.
     - (ii) ne présente plus des caractères qui avaient été observés auparavant,
     - (iii) présente un ou plusieurs caractères qui ne se trouvent plus dans les limites prévues pour ce végétal, cet animal ou ce microorganisme. (**novel food**)
 
-**changement majeur** Changement apporté à un aliment à la suite duquel, selon l’expérience du fabricant ou la théorie généralement admise dans le domaine des sciences de la nutrition et de l’alimentation, les propriétés de celui-ci se situent en dehors des variations naturelles acceptables de l’aliment en ce qui a trait à l’un ou l’autre des éléments suivants :
+**changement majeur** Changement apporté à un aliment à la suite duquel, selon l’expérience du fabricant ou la théorie généralement admise dans le domaine des sciences de la nutrition et de l’alimentation, les propriétés de celui-ci se situent en dehors des variations naturelles acceptables de l’aliment en ce qui a trait à l’un des éléments suivants :
   - a) la composition, la structure, la qualité nutritive ou les effets physiologiques généralement reconnus de l’aliment;
   - b) la manière dont l’aliment est métabolisé par le corps humain;
   - c) l’innocuité générale, microbiologique ou chimique de l’aliment. (**major change**)
@@ -10753,6 +10763,7 @@ Les définitions qui suivent s’appliquent au présent titre.
 - DORS/2022-169, art. 20
 - DORS/2024-244, art. 146(F)
 - DORS/2024-244, art. 147(F)
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -10871,7 +10882,7 @@ Les définitions qui suivent s’appliquent au présent titre.
 
 - i) la teneur en toute vitamine ou tout minéral nutritif déclaré comme constituant d’un ingrédient — autre que la farine — de l’aliment supplémenté, ;
 
-- j) la teneur en tout élément nutritif visé à la colonne 1 de l’un ou l’autre des articles 4, 5, 7, 8, 10, 11 et 13 à 15 du tableau du présent article qui ne peut être exprimée par « 0 » au tableau des renseignements sur les aliments supplémentés;
+- j) la teneur en tout élément nutritif visé à la colonne 1 de l’un des articles 4, 5, 7, 8, 10, 11 et 13 à 15 du tableau du présent article qui ne peut être exprimée par « 0 » au tableau des renseignements sur les aliments supplémentés;
 
 - k) la mention « Source négligeable de (désignation de tout élément nutritif omis du tableau des renseignements sur les aliments supplémentés conformément au présent paragraphe) » ou, si l’aliment supplémenté remplit la condition prévue au paragraphe B.29.010(3), la mention « Source négligeable d’autres éléments nutritifs »;
 
@@ -10941,6 +10952,7 @@ Les définitions qui suivent s’appliquent au présent titre.
 <summary>Historical Note</summary>
 
 - DORS/2022-169, art. 21
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -11188,7 +11200,7 @@ Les définitions qui suivent s’appliquent au présent titre.
 
 - e) d’une façon prévue à l’article B.29.017.
 
-(4) Pour l’application du présent article, afin d’établir si une version du tableau des renseignements sur les aliments supplémentés ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible de l’aliment supplémenté, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement.
+(4) Pour l’application du présent article, afin d’établir si une version du tableau des renseignements sur les aliments supplémentés ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible de l’aliment supplémenté, il n’est tenu compte que des renseignements qui doivent figurer dans le tableau aux termes du présent règlement.
 
 (5) Malgré les paragraphes (2) et (3), si le tableau des renseignements sur les aliments supplémentés est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues aux alinéas (3)a) à c) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
@@ -11228,6 +11240,7 @@ Les définitions qui suivent s’appliquent au présent titre.
 <summary>Historical Note</summary>
 
 - DORS/2022-169, art. 21
+- DORS/2026-113, art. 3(F)
 
 </details>
 
@@ -11562,7 +11575,7 @@ Les définitions qui suivent s’appliquent au présent titre.
 
 ### B.29.018
 
-(1) Malgré l’article A.01.016 et sous réserve du paragraphe (2), l’étiquette de tout aliment supplémenté dont la surface exposée disponible est de moins de 100 cm^2^ peut ne pas porter le tableau des renseignements sur les aliments supplémentés si son recto comporte des indications sur la manière dont l’acheteur ou le consommateur peut obtenir les renseignements qui devraient figurer dans le tableau.
+(1) Malgré l’article A.01.016 et sous réserve du paragraphe (2), l’étiquette de tout aliment supplémenté dont la surface exposée disponible est de moins de 100 cm^2^ peut ne pas porter le tableau des renseignements sur les aliments supplémentés si son recto comporte une indication sur la manière dont l’acheteur ou le consommateur peut obtenir les renseignements qui devraient figurer dans le tableau.
 
 (2) Le paragraphe (1) ne s’applique pas :
 
@@ -11594,13 +11607,13 @@ Les définitions qui suivent s’appliquent au présent titre.
 
 - d) l’aliment supplémenté n’en est pas un pour lequel une liste des mises en garde doit figurer sur son étiquette.
 
-(4) Les indications visées au paragraphe (1) répondent aux critères suivants :
+(4) L’indication visée au paragraphe (1) répond aux critères suivants :
 
-- a) elles sont présentées en caractères d’au moins 8 points;
+- a) elle est présentée en caractères d’au moins 8 points;
 
-- b) elles comportent une adresse postale, une adresse de site Web ou un numéro de téléphone sans frais;
+- b) elle comporte une adresse postale, une adresse de site Web ou un numéro de téléphone sans frais;
 
-- c) elles figurent :
+- c) elle figure :
   - (i) soit en français et en anglais,
   - (ii) soit dans l’une de ces langues, si, conformément au paragraphe B.01.012(3), les renseignements devant être indiqués sur l’étiquette de l’aliment supplémenté aux termes du présent règlement peuvent l’être uniquement dans la langue en cause et qu’ils y figurent dans celle-ci.
 
@@ -11621,6 +11634,7 @@ Les définitions qui suivent s’appliquent au présent titre.
 
 - DORS/2022-169, art. 21
 - DORS/2024-244, art. 148
+- DORS/2026-113, art. 16(F)
 
 </details>
 
@@ -11669,7 +11683,7 @@ Si un aliment supplémenté a une surface exposée disponible de moins de 100 c
 
 - a) elle est encadrée par une bordure ou délimitée par une ou plusieurs lignes continues tracées immédiatement au-dessus, au-dessous ou aux extrémités de la liste, qui sont de la même couleur que celle des caractères utilisés pour indiquer les renseignements visés au paragraphe B.01.008.1(1);
 
-- b) il y a un contraste entre la couleur de fond de la liste et la couleur de fond de la partie adjacente de l’étiquette, exception faite de la partie où figurent l’un ou l’autre des renseignements suivants :
+- b) il y a un contraste entre la couleur de fond de la liste et la couleur de fond de la partie adjacente de l’étiquette, exception faite de la partie où figure l’un des renseignements suivants :
   - (i) la liste des ingrédients,
   - (ii) la **mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés** au sens du paragraphe B.01.010.1(1),
   - (iii) l’énoncé visé au paragraphe B.01.010.4(1),
@@ -11694,6 +11708,7 @@ Si un aliment supplémenté a une surface exposée disponible de moins de 100 c
 
 - DORS/2022-169, art. 21
 - DORS/2024-244, art. 149
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -11870,12 +11885,13 @@ Malgré toute disposition du présent règlement, sont interdites, sur l’étiq
 
 - c) toute mention, tout logo, symbole, sceau d’approbation ou toute marque concernant la santé.
 
-(3) Le présent article ne s’applique pas à la marque ou au nom de produit de l’aliment supplémenté.
+(3) Le présent article ne s’applique pas à la marque ou au nom du produit de l’aliment supplémenté.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2022-169, art. 21
+- DORS/2026-113, art. 4(F)
 
 </details>
 
@@ -12539,13 +12555,14 @@ Lorsqu’une loi fédérale ou un de ses règlements fixe une norme de compositi
 
 ### C.01.010
 
-S’il y a lieu de fournir le mode d’emploi approprié et sûr d’une drogue à usage parentéral ou d’une drogue sur ordonnance qui sert au traitement ou à la prophylaxie d’une maladie, d’un désordre ou d’un état physique anormal mentionnés à l’annexe A.1 de la Loi, les étiquettes de la drogue, notamment toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, peuvent faire mention de cette maladie, de ce désordre ou de cet état, et la drogue est exemptée à cet égard de l’application des paragraphes 3(1) et (2) de la Loi.
+S’il y a lieu de fournir le mode d’emploi approprié pour l’utilisation sécuritaire d’une drogue à usage parentéral ou d’une drogue sur ordonnance qui sert au traitement ou à la prophylaxie d’une maladie, d’un désordre ou d’un état physique anormal énumérés à l’annexe A.1 de la Loi, les étiquettes de la drogue, notamment toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, peuvent faire mention de cette maladie, de ce désordre ou de cet état, et la drogue est exemptée à cet égard de l’application des paragraphes 3(1) et (2) de la Loi.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2013-122, art. 6; DORS/2014-158, art. 6; DORS/2017-18, art. 21(F); DORS/2018-69, art. 14(F)
 - DORS/2021-46, art. 10
+- DORS/2026-113, art. 5(F)
 
 </details>
 
@@ -13255,14 +13272,87 @@ Sauf disposition contraire du présent règlement, il est interdit de vendre pou
   - (i) des préparations destinées uniquement à l’usage externe, et
   - (ii) des préparations destinées uniquement aux enfants; et
 
-- c) des directives convenables d’emploi, lorsque la drogue est recommandée pour les enfants, directives qui doivent soit
-  - (i) consister en la déclaration : « POUR ENFANTS : selon les instructions du médecin », ou
-  - (ii) fixer des doses maximums simple et quotidienne qui ne doivent pas dépasser les valeurs données ci-dessous :
+- c) des directives d’emploi appropriées, lorsque la drogue est recommandée pour les enfants, directives qui doivent ：
+  - (i) soit consister en la déclaration : « POUR ENFANTS : selon les instructions du médecin »,
+  - (ii) soit fixer des doses maximales simple et quotidienne qui ne doivent pas dépasser les valeurs données ci-dessous :
+
+| Drogue | Usage externe | Usage interne |  |
+| — | — |  |  |
+| Dose maximum | Dose maximum en milligrammes, sauf indication contraire |  |  |
+| pour cent | Dose simple | Dose quotidienne |  |
+| --- | --- | --- | --- |
+| Acétaminophène  ... | — | 650 | 4,0 g |
+| Acétanilide et dérivés (exception faite de N-acétyl-ρ-aminophénol  ... | — | 65 | 195 |
+| Acide acétylsalicylique  ... | — | 650 | 4,0 g |
+| Acide cyanhydrique (prussique) solution à 2 pour cent  ... | — | 0,062 ml | 0,31 ml |
+| Acide tannique  ... | — | 150 | 1 000 |
+| Aconitine, ses préparations et dérivés  ... | 0,2 | 0,1 | 0,1 |
+| Adonis vernalis  ... | — | 65 | 195 |
+| Amylocaïne, ses sels et dérivés, lorsqu’ils sont vendus ou recommandés pour usage ophtalmique  ... | 0,0 | 0,0 | 0,0 |
+| Antimoine (composés d’)  ... | — | 3,3 | 13 |
+| Atropine, méthylatropine, et leurs sels  ... | 1,0 | 0,13 | 0,44 |
+| Belladone et ses préparations, en alcaloïdes de la belladone  ... | 0,375 | 0,13 | 0,44 |
+| Benzène (benzol)  ... | — | — | — |
+| Benzocaïne  ... | 8,0 | 195 | 585 |
+| Bêta-naphtol  ... | — | 195 | 585 |
+| Bleu de méthylène  ... | — | 130 | 390 |
+| Bromure d’aminoxyde d’hyoscine  ... | 0,5 | 0,325 | 0,975 |
+| Butacaïne, ses sels et dérivés, lorsqu’ils sont vendus ou recommandés pour usage ophtalmique  ... | 0,0 | 0,0 | 0,0 |
+| Cadexomer Iode  ... | 0,0 | 0,0 | 0,0 |
+| Cantharides, cantharidine et leurs préparations, basées sur la cantharidine, à l’exception des vésicatoires  ... | 0,03 | 0,0 | 0,0 |
+| Cantharides, vésicatoires seulement  ... | 0,2 | 0,0 | 0,0 |
+| Chlorate de potassium  ... | — | 325 | 975 |
+| Chlorate de potassium (gargarisme)  ... | 2,5 | — | — |
+| Chlorate de sodium  ... | — | 325 | 975 |
+| Chlorhydrate d’amylocaïne, sauf lorsque vendu ou recommandé pour usage ophtalmique  ... | 1,0 | 0,0 | 0,0 |
+| Chlorhydrate de cinchocaïne, à l’exception des suppositoires  ... | 1,0 | 0,0 | 0,0 |
+| Chlorhydrate de cinchocaïne (suppositoires seulement)  ... | — | 11 | 11 |
+| Chlorobutanol (à toutes les 4 heures au plus)  ... | — | 325 | 975 |
+| Colchicine et ses sels  ... | — | 0,55 | 1,65 |
+| Colchique et ses préparations, en colchicine  ... | — | 0,27 | 0,81 |
+| Cyproheptadine et ses sels, lorsqu’ils sont vendus ou recommandés pour augmenter le poids ... | — | 0,0 | 0,0 |
+| Éphédrine et ses sels  ... | — | 11 | 32,5 |
+| Éphédrine et ses sels (vaporisations)  ... | 1,0 | — | — |
+| Épinéphrine et ses sels (vaporisations)  ... | 1,0 | — | — |
+| Gelséminine (gelsémine) et ses sels (à toutes les 4 heures au plus)  ... | — | 0,55 | 1,65 |
+| Gelsémium et ses préparations, en drogue brute  ... | — | 16,2 | 48,6 |
+| Huile de cèdre  ... | 25,0 | 0,0 | 0,0 |
+| Huile de croton  ... | 10,0 | 0,0 | 0,0 |
+| Hydroquinone  ... | 2,0 | — | — |
+| Hyoscine (scopolamine) et ses sels  ... | 0,5 | 0,325 | 0,975 |
+| Hyoscyamine et ses sels  ... | — | 0,325 | 0,975 |
+| Jusquiame et ses préparations, en alcaloïdes de jusquiame  ... | — | 0,073 | 0,22 |
+| Lobélie et ses préparations, en drogue brute  ... | — | 130 | 390 |
+| Lobéline et ses sels  ... | — | 2,0 | 6,0 |
+| Phénacétine  ... | — | 650 | 1,95 g |
+| Phénazone et ses composés  ... | — | 325 | 975 |
+| Phénol  ... | 2,0 | 32,5 | 260 |
+| Phénylpropanolamine, lorsqu’elle est vendue ou recommandée comme déprimant de l’appétit  ... | — | 0,0 | 0,0 |
+| Phosphore  ... | — | 0,0 | 0,0 |
+| Podophylline  ... | 0,0 | 0,0 | 0,0 |
+| Procaïne et ses sels  ... | — | — | — |
+| Proxymétacaïne, ses sels et dérivés, lorsqu’ils sont vendus ou recommandés pour usage ophtalmique  ... | 0,0 | 0,0 | 0,0 |
+| Salicylamide  ... | — | 975 | 2,925 g |
+| Santonine  ... | — | 65 | 130 |
+| Scille et ses préparations, en drogue brute  ... | — | 32,5 | 97,5 |
+| Sélénium et ses composés  ... | 2,5 | 0,0 | 0,0 |
+| Sodium (fluorure de)  ... | — | 0,1 | 0,1 |
+| Stramoïne et ses préparations, en alcaloïdes de stramoïne  ... | — | 0,16 | 0,65 |
+| Strychnine et ses sels  ... | — | 0,0 | 0,0 |
+| Sulfate de butacaïne, sauf lorsque vendu ou recommandé pour usage ophtalmique  ... | 1,0 | 0,0 | 0,0 |
+| Tétracaïne, ses sels et dérivés lorsqu’ils sont vendus ou recommandés pour usage ophtalmique  ... | 0,0 | 0,0 | 0,0 |
+| Thiocyanates  ... | 0,0 | 0,0 | 0,0 |
+| Uréthane  ... | 0,0 | 0,0 | 0,0 |
+
+Quand des drogues douées de propriétés physiologiques semblables sont en mélange, la dose de chacune doit être réduite proportionnellement.
+
+Les doses exactes peuvent être exprimées en unités métriques ou en unités impériales. Si la dose est exprimée en unités des deux systèmes, l’une des données peut n’être qu’approximative, mais cette valeur approximative doit précéder ou suivre la donnée exacte d’après laquelle le produit sera jugé, et elle doit être indiquée entre parenthèses.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/78-422, art. 1; DORS/80-544, art. 3; DORS/84-145, art. 1; DORS/85-715, art. 3; DORS/85-966, art. 2; DORS/88-94, art. 1; DORS/89-229, art. 2; DORS/89-548, art. 1
+- DORS/2026-113, art. 6
 
 </details>
 
@@ -14380,6 +14470,7 @@ Le pouvoir du ministre de donner un ordre visant une drogue en vertu de l’arti
 <summary>Historical Note</summary>
 
 - DORS/92-131, art. 1; DORS/92-591, art. 2; DORS/94-689, art. 2(A); DORS/95-530, art. 2; DORS/98-423, art. 8; DORS/2011-88, art. 5; DORS/2014-158, art. 9; DORS/2018-69, art. 19(F)
+- DORS/2026-113, art. 7(A)
 
 </details>
 
@@ -14521,32 +14612,17 @@ Est interdite la vente de comprimés de bichlorure de mercure pour usage domesti
 
 [Abrogés, DORS/80-544, art. 6]
 
-#### Aminopyrine et dipyrone
-
 ### C.01.131
 
-Est interdite la vente de l’aminopyrine ou de la dipyrone (dérivé de l’aminopyrine) pour usage oral ou parentéral, à moins que
-
-- a) l’étiquette intérieure ne porte la déclaration suivante :
-
-<details>
-<summary>Historical Note</summary>
-
-- DORS/2018-69, art. 34(F)
-
-</details>
+[Abrogé, DORS/2026-113, art. 8]
 
 ### C.01.132
 
-Est interdit l’envoi, à un médecin praticien, de la documentation publicitaire sur l’aminopyrine ou la dipyrone à moins que les déclarations figurant à l’article C.01.131 ne soient comprises dans cette documentation.
+[Abrogé, DORS/2026-113, art. 8]
 
 ### C.01.133
 
-Les dispositions des articles C.01.131 et C.01.132 ne s’appliquent pas aux préparations renfermant de l’aminopyrine ou de la dipyrone et qui sont
-
-- a) dispensées par un pharmacien d’après une ordonnance; ou
-
-- b) vendues pour usage vétérinaire seulement.
+[Abrogé, DORS/2026-113, art. 8]
 
 #### Sels de potassium enrobés
 
@@ -14558,6 +14634,7 @@ Est interdite la vente de comprimés enrobés contenant des sels de potassium, a
 <summary>Historical Note</summary>
 
 - DORS/2018-69, art. 34(F)
+- DORS/2026-113, art. 9(A)
 
 </details>
 
@@ -14714,12 +14791,13 @@ Les dispositions des articles C.01.433 et C.01.435 ne s’appliquent pas à un m
 
 ### C.01.600
 
-Il est interdit de vendre pour usage vétérinaire une drogue énumérée au tableau des doses limites des drogues pour adultes, sauf une drogue présentée sous une forme impropre à l’usage humain, si les étiquettes intérieure et extérieure de cette drogue ne portent pas toutes deux la mention « Pour usage vétérinaire seulement » ou « Usage vétérinaire seulement ».
+Il est interdit de vendre pour usage vétérinaire une drogue énumérée au tableau des doses limites des drogues pour adultes, sauf une drogue présentée sous une forme qui ne convient pas à l’usage humain, si les étiquettes intérieure et extérieure de cette drogue ne portent pas toutes deux la mention « Pour usage vétérinaire seulement » ou « Usage vétérinaire seulement ».
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/80-543, art. 5
+- DORS/2026-113, art. 10(F)
 
 </details>
 
@@ -14975,7 +15053,7 @@ Lorsque le ministre a des motifs raisonnables de croire qu’un produit de sant�
 
 ### C.01.617
 
-(1) Le ministre peut ordonner au fabricant ou à l’importateur d’un produit de santé animale d’en cesser la vente dans l’un ou l’autre des cas suivants :
+(1) Le ministre peut ordonner au fabricant ou à l’importateur d’un produit de santé animale d’en cesser la vente dans l’un des cas suivants :
 
 - a) le fabricant ou l’importateur n’obtempère pas à la demande visée à l’article C.01.616 dans le délai imparti;
 
@@ -14995,6 +15073,7 @@ Lorsque le ministre a des motifs raisonnables de croire qu’un produit de sant�
 <summary>Historical Note</summary>
 
 - DORS/2017-76, art. 6
+- DORS/2026-113, art. 15(F)
 
 </details>
 
@@ -16177,9 +16256,21 @@ Chaque lot ou lot de fabrication d’une drogue est manufacturé, emballé-étiq
 
 (2) Le distributeur visé à l’alinéa C.01A.003b) et l’importateur fournissent au ministre, sur demande, les résultats des analyses des matières premières et des matériaux d’emballage-étiquetage effectuées pour chaque lot ou lot de fabrication d’une drogue qu’ils distribuent ou importent.
 
-(3) Le manufacturier conserve dans ses locaux les spécifications écrites relatives à ces matières ainsi qu’une preuve satisfaisante des analyses prévues à l’article C.02.009 et les résultats de celles-ci.
+(3) Le manufacturier conserve dans ses locaux les renseignements suivants :
 
-(4) La personne qui emballe une drogue conserve dans ses locaux les spécifications écrites relatives au matériel d’emballage ainsi qu’une preuve satisfaisante des examens ou analyses prévus à l’article C.02.016 et les résultats de ceux-ci.
+- a) les spécifications écrites pour toutes les matières premières;
+
+- b) une preuve attestant que les analyses sur ces matières premières ont été effectuées conformément aux exigences énoncées à l’article C.02.009;
+
+- c) les résultats de ces analyses.
+
+(4) La personne qui emballe une drogue conserve dans ses locaux les renseignements suivants :
+
+- a) les spécifications écrites pour tous les matériels d’emballage;
+
+- b) une preuve attestant que les analyses ou l’examen de ces matériels d’emballage ont été effectués conformément aux exigences énoncées à l’article C.02.016;
+
+- c) les résultats de ces analyses ou de ces examens.
 
 (5) Le manufacturier, l’emballeur-étiqueteur et l’analyste conservent dans leurs locaux au Canada les plans et devis détaillés de chacun des bâtiments au Canada où la drogue est manufacturée, emballée-étiquetée ou analysée ainsi qu’une description de la conception et de la construction de ces bâtiments.
 
@@ -16190,6 +16281,7 @@ Chaque lot ou lot de fabrication d’une drogue est manufacturé, emballé-étiq
 
 - DORS/82-524, art. 3; DORS/89-174, art. 3(F) et 8(F); DORS/97-12, art. 17, 52 et 60; DORS/2013-74, art. 11; DORS/2017-259, art. 15; DORS/2018-69, art. 27
 - DORS/2024-238, art. 20
+- DORS/2026-113, art. 11
 
 </details>
 
@@ -18485,7 +18577,7 @@ Malgré les articles C.01.014, C.08.002, C.08.002.02 et C.08.003, il est interdi
 
 - a) il y est autorisé sous le régime du présent titre;
 
-- b) il se conforme au présent titre et aux articles C.01.015, C.01.036, C.01.037 à C.01.040, C.01.040.2, C.01.064 à C.01.067, C.01.070, C.01.131, C.01.133 à C.01.136 et C.01.435;
+- b) il se conforme au présent titre et aux articles C.01.015, C.01.036, C.01.037 à C.01.040, C.01.040.2, C.01.064 à C.01.067, C.01.070, C.01.134 à C.01.136 et C.01.435;
 
 - c) si la drogue doit être importée, il a un représentant au Canada qui est responsable de la vente de la drogue.
 
@@ -18493,6 +18585,7 @@ Malgré les articles C.01.014, C.08.002, C.08.002.02 et C.08.003, il est interdi
 <summary>Historical Note</summary>
 
 - DORS/2001-203, art. 4; DORS/2011-88, art. 7
+- DORS/2026-113, art. 12
 
 </details>
 
@@ -21702,7 +21795,7 @@ Lorsqu’un **symbole nutritionnel**, au sens du paragraphe B.01.001(1), et une 
 
 ### D.01.006
 
-Est interdite sur l’étiquette ou dans les annonces d’un aliment toute allégation concernant l’action ou les effets d’une vitamine que contient l’aliment, sauf celle indiquant que la vitamine :
+Est interdite sur l’étiquette ou dans l’annonce d’un aliment toute allégation concernant l’action ou les effets d’une vitamine que contient l’aliment, sauf celle indiquant que la vitamine :
 
 - a) contribue au maintien de la santé;
 
@@ -21712,6 +21805,7 @@ Est interdite sur l’étiquette ou dans les annonces d’un aliment toute allé
 <summary>Historical Note</summary>
 
 - DORS/88-559, art. 32
+- DORS/2026-113, art. 13(F)
 
 </details>
 
@@ -21954,7 +22048,7 @@ TABLEAU IIApport nutritionnel recommandé pondéréArticleColonne IColonne IICol
 
 ### D.02.004
 
-Est interdite sur l’étiquette ou dans les annonces d’un aliment toute allégation concernant l’action ou les effets d’un minéral nutritif que contient l’aliment, sauf celle indiquant que le minéral nutritif :
+Est interdite sur l’étiquette ou dans l’annonce d’un aliment toute allégation concernant l’action ou les effets d’un minéral nutritif que contient l’aliment, sauf celle indiquant que le minéral nutritif :
 
 - a) contribue au maintien de la santé;
 
@@ -21964,6 +22058,7 @@ Est interdite sur l’étiquette ou dans les annonces d’un aliment toute allé
 <summary>Historical Note</summary>
 
 - DORS/84-300, art. 61(A); DORS/88-559, art. 34
+- DORS/2026-113, art. 14(F)
 
 </details>
 
@@ -28818,8 +28913,204 @@ L’article 6 du tableau II de l’article C.01A.008 du même règlement est rem
 
 (2) Les alinéas C.09.001a) et b) du même règlement sont remplacés par ce qui suit :
 
-### — DORS/2026-72, art. 1
+### — DORS/2026-96, art. 1
 
 ### 1
 
-La partie III de l’annexe de la partie J du *Règlement sur les aliments et drogues*[^] est modifiée par adjonction de ce qui suit :
+(1) La définition de **cesser**, au paragraphe C.01.001(1) du *Règlement sur les aliments et drogues*[^], est remplacée par ce qui suit :
+
+(2) Le paragraphe C.01.001(1) du même règlement est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+### — DORS/2026-96, art. 2
+
+### 2
+
+L’article C.01.014.7 du même règlement devient le paragraphe C.01.014.7(1) et est modifié par adjonction de ce qui suit :
+
+### — DORS/2026-96, art. 3
+
+### 3
+
+L’article C.01.014.71 du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 4
+
+### 4
+
+L’article C.01.014.8 du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 5
+
+### 5
+
+(1) Le passage du paragraphe C.01.014.9(1) du même règlement précédant l’alinéa b) est remplacé par ce qui suit :
+
+(2) L’alinéa C.01.014.9(2)b) de la version anglaise du même règlement est remplacé par ce qui suit :
+
+(3) Les paragraphes C.01.014.9(3) et (4) du même règlement sont remplacés par ce qui suit :
+
+### — DORS/2026-96, art. 6
+
+### 6
+
+(1) Le passage du paragraphe C.01.014.10(1) du même règlement précédant l’alinéa b) est remplacé par ce qui suit :
+
+(2) Les alinéas C.01.014.91(2)a) et b) du même règlement sont remplacés par ce qui suit :
+
+(3) Le paragraphe C.01.014.91(3) du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 7
+
+### 7
+
+L’article C.01.014.11 du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 8
+
+### 8
+
+(1) Le passage du paragraphe C.01.014.12(1) du même règlement précédant l’alinéa a) est remplacé par ce qui suit :
+
+(2) Le paragraphe C.01.014.93(1) du même règlement est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+(3) Le sous-alinéa C.01.014.93(1)b)(iv) du même règlement est remplacé par ce qui suit :
+
+(4) Le paragraphe C.01.014.93(2) du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 9
+
+### 9
+
+L’article C.01.014.13 du même règlement devient l’article C.01.014.94.
+
+### — DORS/2026-96, art. 10
+
+### 10
+
+Le paragraphe C.01.014.14(1) du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 11
+
+### 11
+
+L’alinéa C.01.020.1(2)c) du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 12
+
+### 12
+
+Le même règlement est modifié par adjonction, avant l’article C.10.001, de ce qui suit :
+
+### — DORS/2026-96, art. 13
+
+### 13
+
+L’alinéa C.10.001(2)b) du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 14
+
+### 14
+
+Le même règlement est modifié par adjonction, après l’article C.10.003, de ce qui suit :
+
+### — DORS/2026-96, art. 15
+
+### 15
+
+(1) Le passage du paragraphe C.10.004(1) du même règlement précédant la première définition est remplacé par ce qui suit :
+
+(2) La définition de **drogue**, au paragraphe C.10.004(1) du même règlement, est abrogée.
+
+(3) La définition de **drogue désignée**, au paragraphe C.10.004(1) du même règlement, est remplacée par ce qui suit :
+
+(4) Le paragraphe C.10.004(1) du même règlement est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+(5) Le paragraphe C.10.004(2) du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 16
+
+### 16
+
+L’article C.10.005 du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 17
+
+### 17
+
+(1) Le passage du paragraphe C.10.006(1) du même règlement précédant le sous-alinéa a)(i) est remplacé par ce qui suit :
+
+(2) L’alinéa C.10.006(1)b) du même règlement est remplacé par ce qui suit :
+
+(3) Le passage de l’alinéa C.10.006(1)d) du même règlement précédant le sous-alinéa (i) est remplacé par ce qui suit :
+
+(4) Les sous-alinéas C.10.006(1)d)(iii) et (iv) du même règlement sont remplacés par ce qui suit :
+
+(5) Les alinéas C.10.006(1)e) à g) du même règlement sont remplacés par ce qui suit :
+
+(6) Le paragraphe C.10.006(2) du même règlement est abrogé.
+
+### — DORS/2026-96, art. 18
+
+### 18
+
+L’article C.10.007 du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 19
+
+### 19
+
+(1) Le passage du paragraphe C.10.008(1) du même règlement précédant l’alinéa b) est remplacé par ce qui suit :
+
+(2) Le sous-alinéa C.10.008(1)b)(i) du même règlement est remplacé par ce qui suit :
+
+(3) Le sous-alinéa C.10.008(1)b)(iii) du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 20
+
+### 20
+
+(1) Le paragraphe C.10.009(1) du même règlement est remplacé par ce qui suit :
+
+(2) Le sous-alinéa C.10.009(2)b)(i) du même règlement est remplacé par ce qui suit :
+
+(3) Le paragraphe C.10.009(3) du même règlement est remplacé par ce qui suit :
+
+(4) Le paragraphe C.10.009(6) du même règlement est abrogé.
+
+### — DORS/2026-96, art. 21
+
+### 21
+
+Le paragraphe C.10.010(3) du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 22
+
+### 22
+
+Le même règlement est modifié par adjonction, après l’article C.10.010, de ce qui suit :
+
+### — DORS/2026-96, art. 23
+
+### 23
+
+Le paragraphe C.10.011(2) du même règlement est remplacé par ce qui suit :
+
+### — DORS/2026-96, art. 24
+
+### 24
+
+Le même règlement est modifié par adjonction, après l’article C.10.011, de ce qui suit :
+
+### — DORS/2026-96, art. 25
+
+### 25
+
+Dans les passages ci-après du même règlement, « drogue désignée » est remplacé par « drogue » :
+
+- a) le sous-alinéa C.10.006(1)a)(ii);
+
+- b) le passage du sous-alinéa C.10.006(1)a)(iii) précédant la division (A);
+
+- c) les sous-alinéas C.10.006(1)a)(v) et (vi);
+
+- d) l’alinéa C.10.006(1)c).

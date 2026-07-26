@@ -185,3 +185,12 @@ L’Office de commercialisation fournit à l’Office tout renseignement que cel
 - DORS/2026-65, art. 1
 
 </details>
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — DORS/2026-105, art. 1
+
+### 1
+
+L’annexe du *Règlement canadien sur le contingentement de la commercialisation du dindon (1990)*[^] est remplacée par l’annexe figurant à l’annexe du présent règlement.

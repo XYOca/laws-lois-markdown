@@ -3850,6 +3850,7 @@ This Act is binding on Her Majesty in right of Canada.
 | Business Development Bank of Canada ActLoi sur la Banque de développement du Canada | section 37 |
 | Canada Business Corporations ActLoi canadienne sur les sociétés par actions | subsection 266.1(1) |
 | Canada Deposit Insurance Corporation ActLoi sur la Société d’assurance-dépôts du Canada | subsection 45.3(1) |
+| Canada Development Investment Corporation ActLoi sur la Corporation de développement des investissements du Canada | section 21 |
 | Canada Elections ActLoi électorale du Canada | section 540 |
 | Canada Infrastructure Bank ActLoi sur la Banque de l’infrastructure du Canada | section 28 |
 | Canada Labour CodeCode canadien du travail | subsection 144(3) |
@@ -3939,6 +3940,7 @@ This Act is binding on Her Majesty in right of Canada.
 - 2026, c. 3, s. 129
 - 2026, c. 3, s. 193
 - 2026, c. 3, s. 225
+- 2026, c. 3, s. 387
 - 2026, c. 3, s. 497
 - 2026, c. 3, s. 586
 
@@ -4184,14 +4186,6 @@ and the corresponding reference to “subsection 45.47(1)”.
 Schedule II to the Act is amended by adding, in alphabetical order, a reference to
 
 and a corresponding reference to “subsection 25(1)”.
-
-### — 2026, c. 3, s. 387
-
-### 387
-
-Schedule II to the *Access to Information Act* is amended by adding, in alphabetical order, a reference to
-
-and a corresponding reference to “section 21”.
 
 ### — 2026, c. 3, s. 601
 

@@ -855,6 +855,7 @@ but does not include
 - SOR/2022-168, s. 1
 - SOR/2022-169, s. 1
 - SOR/2024-244, s. 2
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -1295,6 +1296,7 @@ Except as otherwise provided in these Regulations or in the *Safe Food for Canad
 - SOR/2022-169, s. 5
 - SOR/2022-197, s. 3
 - SOR/2024-244, s. 7
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -1567,6 +1569,7 @@ Except as otherwise provided in these Regulations or in the *Safe Food for Canad
 - SOR/2021-46, s. 4(E)
 - SOR/2022-143, s. 10
 - SOR/2022-168, s. 5
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -3068,6 +3071,7 @@ A nutrition symbol must be oriented in the same manner as most of the other info
 
 - SOR/2003-11, s. 20; err., Vol. 137, No. 5; SOR/2005-98, s. 2(F); SOR/2016-305, ss. 19, 75(F)
 - SOR/2018-108, s. 395
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -3386,6 +3390,7 @@ A nutrition symbol must be oriented in the same manner as most of the other info
 <summary>Historical Note</summary>
 
 - SOR/2003-11, s. 20; SOR/2016-305, ss. 27, 74
+- SOR/2026-113, s. 1(F)
 
 </details>
 
@@ -3815,6 +3820,7 @@ A nutrition symbol must be oriented in the same manner as most of the other info
 <summary>Historical Note</summary>
 
 - SOR/2003-11, s. 20; SOR/2016-305, ss. 35, 74
+- SOR/2026-113, s. 2(F)
 
 </details>
 
@@ -4109,6 +4115,7 @@ A nutrition symbol must be oriented in the same manner as most of the other info
 - SOR/2018-108, s. 400
 - SOR/2022-168, s. 15
 - SOR/2024-244, s. 19
+- SOR/2026-113, s. 16(F)
 
 </details>
 
@@ -4624,6 +4631,7 @@ A statement or claim set out in column 1 of the table following section B.01.603
 - SOR/2022-169, s. 18
 - SOR/2024-244, s. 22
 - SOR/2024-244, s. 156(F)
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -7915,6 +7923,7 @@ No person shall sell a simulated meat product that resembles side bacon, unless 
 <summary>Historical Note</summary>
 
 - SOR/78-404, s. 1; SOR/79-249, s. 1; SOR/81-83, s. 2; SOR/97-313, s. 2; SOR/98-98, s. 1; SOR/2005-67, s. 1; SOR/2008-181, s. 3; SOR/2008-182, s. 2
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -9140,6 +9149,7 @@ In this Division,
 - SOR/78-64, s. 2; SOR/78-698, s. 5; SOR/84-334, s. 1; SOR/86-178, s. 8(E); SOR/94-35, s. 2; SOR/95-444, s. 1; SOR/95-474, s. 4; SOR/2003-11, s. 21
 - SOR/2021-57, s. 11
 - SOR/2022-168, s. 52
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -10749,6 +10759,7 @@ The definitions in this section apply in this Division.
 - SOR/2022-169, s. 20
 - SOR/2024-244, s. 146(F)
 - SOR/2024-244, s. 147(F)
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -10937,6 +10948,7 @@ The definitions in this section apply in this Division.
 <summary>Historical Note</summary>
 
 - SOR/2022-169, s. 21
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -11224,6 +11236,7 @@ The definitions in this section apply in this Division.
 <summary>Historical Note</summary>
 
 - SOR/2022-169, s. 21
+- SOR/2026-113, s. 3(F)
 
 </details>
 
@@ -11617,6 +11630,7 @@ The definitions in this section apply in this Division.
 
 - SOR/2022-169, s. 21
 - SOR/2024-244, s. 148
+- SOR/2026-113, s. 16(F)
 
 </details>
 
@@ -11690,6 +11704,7 @@ If a supplemented food has an available display surface of less than 100 cm^2^ 
 
 - SOR/2022-169, s. 21
 - SOR/2024-244, s. 149
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -11872,6 +11887,7 @@ Despite anything in these Regulations, if a supplemented food is required to sho
 <summary>Historical Note</summary>
 
 - SOR/2022-169, s. 21
+- SOR/2026-113, s. 4(F)
 
 </details>
 
@@ -12542,6 +12558,7 @@ If it is necessary to provide adequate directions for the safe use of a parenter
 
 - SOR/2013-122, s. 6; SOR/2014-158, s. 6; SOR/2017-18, s. 21(F); SOR/2018-69, s. 14(F)
 - SOR/2021-46, s. 10
+- SOR/2026-113, s. 5(F)
 
 </details>
 
@@ -13253,12 +13270,89 @@ Except as provided in these Regulations, no person shall sell a drug for human u
 
 - (c) adequate directions for use when the drug is recommended for children which shall be either
   - (i) the statement “CHILDREN: As directed by the physician”, or
-  - (ii) a suitable reduced maximum single and daily dose which shall not exceed the following:
+  - (ii) reduced maximum single and daily doses which shall not exceed the following:
+
+| Item | External Use | Internal Use |  |
+| — | — |  |  |
+| Maximum Limit | Maximum Dosage Unless otherwise stated, doses are in milligrams |  |  |
+| Per cent | Single | Daily |  |
+| --- | --- | --- | --- |
+| Acetaminophen  ... | — | 650 | 4.0 g |
+| Acetanilide and derivatives (except N-Acetyl-ρ-amino phenol)  ... | — | 65 | 195 |
+| Acetylsalicylic Acid  ... | — | 650 | 4.0 g |
+| Aconitine, its preparations and derivatives  ... | 0.2 | 0.1 | 0.1 |
+| Adonis vernalis  ... | — | 65 | 195 |
+| Amylocaine, its salts and derivatives when sold or recommended for opthalmic use  ... | 0.0 | 0.0 | 0.0 |
+| Amylocaine Hydrochloride, except when sold or recommended for ophthalmic use  ... | 1.0 | 0.0 | 0.0 |
+| Antimony, compounds of  ... | — | 3.3 | 13 |
+| Atropine, Methylatropine, and their salts  ... | 1.0 | 0.13 | 0.44 |
+| Belladonna and its preparations, on the basis of belladonna alkaloids  ... | 0.375 | 0.13 | 0.44 |
+| Benzene (Benzol)  ... | — | — | — |
+| Benzocaine  ... | 8.0 | 195 | 585 |
+| Beta-Naphthol  ... | — | 195 | 585 |
+| Butacaine, its salts and derivatives when sold or recommended for ophthalmic use  ... | 0.0 | 0.0 | 0.0 |
+| Butacaine Sulphate, except when sold or recommended for opthalmic use  ... | 1.0 | 0.0 | 0.0 |
+| Cadexomer Iodine  ... | 0.0 | 0.0 | 0.0 |
+| Cantharides, cantharidin, and their preparations, on the basis of cantharidin, except blisters  ... | 0.03 | 0.0 | 0.0 |
+| Cantharides, blisters only  ... | 0.2 | 0.0 | 0.0 |
+| Cedar Oil  ... | 25.0 | 0.0 | 0.0 |
+| Chlorbutol (not more often than every 4 hours)  ... | — | 325 | 975 |
+| Choline Salicylate  ... | — | 870 | 5.22 g |
+| Cinchocaine Hydrochloride, except suppositories  ... | 1.0 | 0.0 | 0.0 |
+| Cinchocaine Hydrochloride, suppositories only  ... | — | 11 | 11 |
+| Colchicine and its salts  ... | — | 0.55 | 1.65 |
+| Colchicum and its preparations, on the basis of colchicine  ... | — | 0.27 | 0.81 |
+| Croton Oil  ... | 10.0 | 0.0 | 0.0 |
+| Cyproheptadine and its salts — when sold or recommended for the promotion of weight gain | — | 0.0 | 0.0 |
+| Ephedrine and its salts  ... | — | 11 | 32.5 |
+| Ephedrine and its salts, sprays  ... | 1.0 | — | — |
+| Epinephrine and its salts, sprays  ... | 1.0 | — | — |
+| Gelseminine (Gelsemine) and its salts (not to be repeated within 4 hours)  ... | — | 0.55 | 1.65 |
+| Gelsemium and its preparations, on the basis of the crude drug  ... | — | 16.2 | 48.6 |
+| Hydrocyanic (Prussic) Acid as 2 per cent solution  ... | — | 0.062 ml | 0.31 ml |
+| Hydroquinone  ... | 2.0 | — | — |
+| Hyoscine (Scopolamine) and its salts  ... | 0.5 | 0.325 | 0.975 |
+| Hyoscine aminoxide hydrobromide  ... | 0.5 | 0.325 | 0.975 |
+| Hyoscyamine and its salts  ... | — | 0.325 | 0.975 |
+| Hyoscyamus and its preparations, on the basis of hyoscyamus alkaloids  ... | — | 0.073 | 0.22 |
+| Lobelia and its preparations, on the basis of the crude drug  ... | — | 130 | 390 |
+| Lobeline and its salts  ... | — | 2.0 | 6.0 |
+| Magnesium Salicylate  ... | — | 650 | 4.0 g |
+| Methyl Salicylate  ... | 30 | — | — |
+| Methylene Blue  ... | — | 130 | 390 |
+| Phenacetin  ... | — | 650 | 1.95 g |
+| Phenazone and compounds thereof  ... | — | 325 | 975 |
+| Phenol  ... | 2.0 | 32.5 | 260 |
+| Phenylpropanolamine when sold or recommended as an appetite depressent  ... | — | 0.0 | 0.0 |
+| Phosphorus  ... | — | 0.0 | 0.0 |
+| Podophyllin  ... | 0.0 | 0.0 | 0.0 |
+| Potassium Chlorate  ... | — | 325 | 975 |
+| Potassium Chlorate, gargle  ... | 2.5 | — | — |
+| Procaine and its salts  ... | — | — | — |
+| Proxymetacaine, its salts and derivatives when sold or recommended for ophthalmic use  ... | 0.0 | 0.0 | 0.0 |
+| Salicylamide  ... | — | 975 | 2.925 g |
+| Santonin  ... | — | 65 | 130 |
+| Selenium and its compounds  ... | 2.5 | 0.0 | 0.0 |
+| Sodium Chlorate  ... | — | 325 | 975 |
+| Sodium Fluoride  ... | — | 0.1 | 0.1 |
+| Sodium Salicylate  ... | — | 650 | 4.0 g |
+| Squill and its preparations, on the basis of crude drug  ... | — | 32.5 | 97.5 |
+| Stramonium and its preparations, on the basis of stramonium alkaloids  ... | — | 0.16 | 0.65 |
+| Strychnine and its salts  ... | — | 0.0 | 0.0 |
+| Tannic Acid  ... | — | 150 | 1 000 |
+| Tetracaine, its salts and derivatives when sold or recommended for ophthalmic use  ... | 0.0 | 0.0 | 0.0 |
+| Thiocyanates  ... | 0.0 | 0.0 | 0.0 |
+| Urethane  ... | 0.0 | 0.0 | 0.0 |
+
+Where drugs having similar physiological actions occur in combination, the dosage of each shall be proportionately reduced.
+
+Accurate dosagesmay be expressed in either metric units or imperial units. If the dosage is expressed in both systems, then an approximation may be used for one expression, but such approximation must precede or follow the accurate statement by which the product will be judged and must be in brackets.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/78-422, s. 1; SOR/80-544, s. 3; SOR/84-145, s. 1; SOR/85-715, s. 3; SOR/85-966, s. 2; SOR/88-94, s. 1; SOR/89-229, s. 2; SOR/89-548, s. 1
+- SOR/2026-113, s. 6
 
 </details>
 
@@ -14356,7 +14450,7 @@ The Minister’s power to make an order under section 21.32 of the Act in respec
 - (d) a drug described in Schedule C or D to the Act or Division 6 of Part C of these Regulations; or
 
 - (e) a drug for which a drug identification number has been assigned under subsection C.01.014.2(1) and in respect of which
-  - (i) the conditions of pharmaceutical production and quality control are suitable for controlling the identity, quality, purity, stability, safety, strength and potency of the drug,
+  - (i) the conditions of pharmaceutical production and quality control allow for controlling the identity, quality, purity, stability, safety, strength and potency of the drug,
   - (ii) all labels to be used in connection with the drug, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the drug, make proper claims in respect of the drug,
   - (iii) the drug can, without undue foreseeable risk to humans, be used for the purposes and under the conditions of use recommended by the manufacturer, and
   - (iv) the drug is effective for the purposes and under the conditions of use recommended by the manufacturer.
@@ -14382,6 +14476,7 @@ The Minister’s power to make an order under section 21.32 of the Act in respec
 <summary>Historical Note</summary>
 
 - SOR/92-131, s. 1; SOR/92-591, s. 2; SOR/94-689, s. 2(E); SOR/95-530, s. 2; SOR/98-423, s. 8; SOR/2011-88, s. 5; SOR/2014-158, s. 9; SOR/2018-69, s. 19(F)
+- SOR/2026-113, s. 7(E)
 
 </details>
 
@@ -14524,45 +14619,29 @@ No person shall sell mercuric chloride tablets for household use that are packag
 
 [Repealed, SOR/80-544, s. 6]
 
-#### Aminopyrine and Dipyrone
-
 ### C.01.131
 
-No person shall sell Aminopyrine or Dipyrone (a derivative of Aminopyrine) for oral or parenteral use, unless
-
-- (a) the inner label carries the statement:
-
-- (b) the outer label or the package insert carries the following statements:
-
-<details>
-<summary>Historical Note</summary>
-
-- SOR/2018-69, s. 34(F)
-
-</details>
+[Repealed, SOR/2026-113, s. 8]
 
 ### C.01.132
 
-No person shall disseminate to a practitioner promotional literature about Aminopyrine or Dipyrone unless the statements set out in section C.01.131 are included in such literature.
+[Repealed, SOR/2026-113, s. 8]
 
 ### C.01.133
 
-The provisions of sections C.01.131 and C.01.132 do not apply to preparations containing Aminopyrine or Dipyrone that are
-
-- (a) dispensed by a pharmacist pursuant to a prescription; or
-
-- (b) sold for veterinary use only.
+[Repealed, SOR/2026-113, s. 8]
 
 #### Coated Potassium Salts
 
 ### C.01.134
 
-No person shall sell coated tablets containing potassium salts, with or without thiazide diuretics, unless the inner label thereof or the package insert carries the following statement:
+No person shall sell coated tablets containing potassium salts, with or without thiazide diuretics, unless the inner label or the package insert carries the following statement:
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2018-69, s. 34(F)
+- SOR/2026-113, s. 9(E)
 
 </details>
 
@@ -14725,6 +14804,7 @@ No person shall sell for veterinary use a drug listed in the Table of Limits of 
 <summary>Historical Note</summary>
 
 - SOR/80-543, s. 5
+- SOR/2026-113, s. 10(F)
 
 </details>
 
@@ -15000,6 +15080,7 @@ If the Minister has reasonable grounds to believe that a veterinary health produ
 <summary>Historical Note</summary>
 
 - SOR/2017-76, s. 6
+- SOR/2026-113, s. 15(F)
 
 </details>
 
@@ -16177,9 +16258,21 @@ Every lot or batch of a drug shall be fabricated, packaged/labelled, tested and 
 
 (2) Every distributor referred to in paragraph C.01A.003(b) and importer shall make available to the Minister, on request, the results of testing performed on raw materials and packaging/labelling materials for each lot or batch of a drug that it distributes or imports.
 
-(3) Every fabricator shall maintain on their premises written specifications for all raw materials and adequate evidence of the testing of those raw materials referred to in section C.02.009 and of the test results.
+(3) Every fabricator shall maintain the following on their premises:
 
-(4) Every person who packages a drug shall maintain on their premises written specifications for all packaging materials and adequate evidence of the examination or testing of those materials referred to in section C.02.016 and of any test results.
+- (a) written specifications for all raw materials;
+
+- (b) evidence demonstrating that the testing of those raw materials was performed in accordance with the requirements set out in section C.02.009; and
+
+- (c) the results of those tests.
+
+(4) Every person who packages a drug shall maintain the following on their premises:
+
+- (a) written specifications for all packaging materials;
+
+- (b) evidence demonstrating that the examination or testing of those packaging materials was performed in accordance with the requirements set out in section C.02.016; and
+
+- (c) the results of those tests or examinations.
 
 (5) Every fabricator, packager/labeller and tester shall maintain on their premises in Canada detailed plans and specifications of each building in Canada where they fabricate, package/label or test drugs and a description of the design and construction of those buildings.
 
@@ -16190,6 +16283,7 @@ Every lot or batch of a drug shall be fabricated, packaged/labelled, tested and 
 
 - SOR/82-524, s. 3; SOR/89-174, ss. 3(F), 8(F); SOR/97-12, ss. 17, 52, 60; SOR/2013-74, s. 11; SOR/2017-259, s. 15; SOR/2018-69, s. 27
 - SOR/2024-238, s. 20
+- SOR/2026-113, s. 11
 
 </details>
 
@@ -18485,7 +18579,7 @@ Despite sections C.01.014, C.08.002, C.08.002.02 and C.08.003, no person shall s
 
 - (a) the person is authorized under this Division;
 
-- (b) the person complies with this Division and sections C.01.015, C.01.036, C.01.037 to C.01.040, C.01.040.2, C.01.064 to C.01.067, C.01.070, C.01.131, C.01.133 to C.01.136, and C.01.435; and
+- (b) the person complies with this Division and sections C.01.015, C.01.036, C.01.037 to C.01.040, C.01.040.2, C.01.064 to C.01.067, C.01.070, C.01.134 to C.01.136, and C.01.435; and
 
 - (c) if the drug is to be imported, the person has a representative in Canada who is responsible for the sale of the drug.
 
@@ -18493,6 +18587,7 @@ Despite sections C.01.014, C.08.002, C.08.002.02 and C.08.003, no person shall s
 <summary>Historical Note</summary>
 
 - SOR/2001-203, s. 4; SOR/2011-88, s. 7
+- SOR/2026-113, s. 12
 
 </details>
 
@@ -21712,6 +21807,7 @@ No person shall, on the label of or in any advertisement for a food, make any cl
 <summary>Historical Note</summary>
 
 - SOR/88-559, s. 32
+- SOR/2026-113, s. 13(F)
 
 </details>
 
@@ -21964,6 +22060,7 @@ No person shall, on the label of or in any advertisement for a food, make any cl
 <summary>Historical Note</summary>
 
 - SOR/84-300, s. 61(E); SOR/88-559, s. 34
+- SOR/2026-113, s. 14(F)
 
 </details>
 
@@ -28815,8 +28912,204 @@ Item 6 of Table II to section C.01A.008 of the Regulations is replaced by the fo
 
 (2) Paragraphs C.09.001(a) and (b) of the Regulations are replaced by the following:
 
-### — SOR/2026-72, s. 1
+### — SOR/2026-96, s. 1
 
 ### 1
 
-Part III of the schedule to Part J of the *Food and Drug Regulations*[^] is amended by adding the following:
+(1) The definition **discontinue** in subsection C.01.001(1) of the *Food and Drug Regulations*[^] is replaced by the following:
+
+(2) Subsection C.01.001(1) of the Regulations is amended by adding the following in alphabetical order:
+
+### — SOR/2026-96, s. 2
+
+### 2
+
+Section C.01.014.7 of the Regulations is renumbered as subsection C.01.014.7(1) and is amended by adding the following:
+
+### — SOR/2026-96, s. 3
+
+### 3
+
+Section C.01.014.71 of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 4
+
+### 4
+
+Section C.01.014.8 of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 5
+
+### 5
+
+(1) The portion of subsection C.01.014.9(1) of the Regulations before paragraph (b) is replaced by the following:
+
+(2) Paragraph C.01.014.9(2)(b) of the English version of the Regulations is replaced by the following:
+
+(3) Subsections C.01.014.9(3) and (4) of the Regulations are replaced by the following:
+
+### — SOR/2026-96, s. 6
+
+### 6
+
+(1) The portion of subsection C.01.014.10(1) of the Regulations before paragraph (b) is replaced by the following:
+
+(2) Paragraphs C.01.014.91(2)(a) and (b) of the Regulations are replaced by the following:
+
+(3) Subsection C.01.014.91(3) of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 7
+
+### 7
+
+Section C.01.014.11 of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 8
+
+### 8
+
+(1) The portion of subsection C.01.014.12(1) of the Regulations before paragraph (a) is replaced by the following:
+
+(2) Subsection C.01.014.93(1) of the Regulations is amended by adding the following after paragraph (a):
+
+(3) Paragraph C.01.014.93(1)(b) of the Regulations is amended by striking out “or” at the end of subparagraph (iii) and by replacing subparagraph (iv) with the following:
+
+(4) Subsection C.01.014.93(2) of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 9
+
+### 9
+
+Section C.01.014.13 of the Regulations is renumbered as section C.01.014.94.
+
+### — SOR/2026-96, s. 10
+
+### 10
+
+Subsection C.01.014.14(1) of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 11
+
+### 11
+
+Paragraph C.01.020.1(2)(c) of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 12
+
+### 12
+
+The Regulations are amended by adding the following before section C.10.001:
+
+### — SOR/2026-96, s. 13
+
+### 13
+
+Paragraph C.10.001(2)(b) of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 14
+
+### 14
+
+The Regulations are amended by adding the following after section C.10.003:
+
+### — SOR/2026-96, s. 15
+
+### 15
+
+(1) The portion of subsection C.10.004(1) of the Regulations before the first definition is replaced by the following:
+
+(2) The definition **drug** in subsection C.10.004(1) of the Regulations is repealed.
+
+(3) The definition **designated drug** in subsection C.10.004(1) of the Regulations is replaced by the following:
+
+(4) Subsection C.10.004(1) of the Regulations is amended by adding the following in alphabetical order:
+
+(5) Subsection C.10.004(2) of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 16
+
+### 16
+
+Section C.10.005 of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 17
+
+### 17
+
+(1) The portion of subsection C.10.006(1) of the Regulations before subparagraph (a)(i) is replaced by the following:
+
+(2) Paragraph C.10.006(1)(b) of the Regulations is replaced by the following:
+
+(3) The portion of paragraph C.10.006(1)(d) of the Regulations before subparagraph (i) is replaced by the following:
+
+(4) Subparagraphs C.10.006(1)(d)(iii) and (iv) of the Regulations are replaced by the following:
+
+(5) Paragraphs C.10.006(1)(e) to (g) of the Regulations are replaced by the following:
+
+(6) Subsection C.10.006(2) of the Regulations is repealed.
+
+### — SOR/2026-96, s. 18
+
+### 18
+
+Section C.10.007 of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 19
+
+### 19
+
+(1) The portion of subsection C.10.008(1) of the Regulations before paragraph (b) is replaced by the following:
+
+(2) Subparagraph C.10.008(1)(b)(i) of the Regulations is replaced by the following:
+
+(3) Subparagraph C.10.008(1)(b)(iii) of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 20
+
+### 20
+
+(1) Subsection C.10.009(1) of the Regulations is replaced by the following:
+
+(2) Subparagraph C.10.009(2)(b)(i) of the Regulations is replaced by the following:
+
+(3) Subsection C.10.009(3) of the Regulations is replaced by the following:
+
+(4) Subsection C.10.009(6) of the Regulations is repealed.
+
+### — SOR/2026-96, s. 21
+
+### 21
+
+Subsection C.10.010(3) of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 22
+
+### 22
+
+The Regulations are amended by adding the following after section C.10.010:
+
+### — SOR/2026-96, s. 23
+
+### 23
+
+Subsection C.10.011(2) of the Regulations is replaced by the following:
+
+### — SOR/2026-96, s. 24
+
+### 24
+
+The Regulations are amended by adding the following after section C.10.011:
+
+### — SOR/2026-96, s. 25
+
+### 25
+
+The Regulations are amended by replacing “designated drug” with “drug” in the following provisions:
+
+- (a) subparagraph C.10.006(1)(a)(ii);
+
+- (b) the portion of subparagraph C.10.006(1)(a)(iii) before clause (A);
+
+- (c) subparagraphs C.10.006(1)(a)(v) and (vi); and
+
+- (d) paragraph C.10.006(1)(c).

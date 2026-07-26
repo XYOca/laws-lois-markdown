@@ -169,30 +169,34 @@ Where the amount of a partial monthly pension referred to in subsection 3(3) of 
 
 ### 8
 
-(1) Where the amount of a full monthly pension or supplement is adjusted quarterly pursuant to subsection 7(2) or 12(2) of the Act,
+(1) When the amount of a benefit is adjusted quarterly under subsection 7(2), 12(2), 12.1(3), 22(4.2) or 22.1(4) of the Act,
 
-- (a) there shall be an adjustment to the nearest cent, in accordance with subsection (2), of the product obtained
-  - (i) by multiplying the amount referred to in paragraph 7(2)(a) of the Act by the ratio referred to in paragraph 7(2)(b) of the Act, or
-  - (ii) by multiplying the amount referred to in paragraph 12(2)(a) of the Act by the ratio referred to in paragraph 12(2)(b) of the Act; and
+- (a) there is a rounding off to the nearest cent, in accordance with subsection (2), of the product obtained by multiplying, as the case may be,
+  - (i) the amount referred to in paragraph 7(2)(a) of the Act by the ratio referred to in paragraph 7(2)(b) of the Act,
+  - (ii) the amount referred to in paragraph 12(2)(a) of the Act by the ratio referred to in paragraph 12(2)(b) of the Act,
+  - (iii) the amount referred to in paragraph 12.1(3)(a) of the Act by the ratio referred to in paragraph 12.1(3)(b) of the Act,
+  - (iv) the amount referred to in paragraph 22(4.2)(a) of the Act by the ratio referred to in paragraph 22(4.2)(b) of the Act, or
+  - (v) the amount referred to in paragraph 22.1(4)(a) of the Act by the ratio referred to in paragraph 22.1(4)(b) of the Act; and
 
-- (b) the ratios referred to in paragraph (a) shall be expressed as decimal fractions in accordance with subsection (3).
+- (b) any ratio referred to in paragraph (a) is expressed as a decimal number in accordance with subsection (3).
 
-(2) Where the product referred to in subparagraph (1)(a)(i), as increased under subsection 7.1(1) of the Act if applicable, or the product referred to in subparagraph (1)(a)(ii), contains a fraction of a dollar that is represented by three or more digits,
+(2) When the product obtained under subparagraph (1)(a)(i), as increased under subsection 7.1(1) of the Act, if applicable, or the product obtained under any one of subparagraphs (1)(a)(ii) to (v) contains a fraction of a dollar that is represented by three or more digits,
 
-- (a) if the third digit is less than 5, the third and subsequent digits shall be dropped; and,
+- (a) if the third digit is less than five, the third and subsequent digits are dropped; and
 
-- (b) if the third digit is 5 or greater than 5, the second digit shall be increased by 1 and the third and subsequent digits shall be dropped.
+- (b) if the third digit is five or greater than five, the second digit is to be increased by one and the third and subsequent digits are dropped.
 
-(3) Where the ratios referred to in paragraph (1)(a) contain a fraction that is less than 1, that fraction shall be expressed as a decimal fraction of four digits after the decimal point, and
+(3) Any ratio referred to in paragraph (1)(a) that is a decimal number represented by four digits after the decimal point is rounded as follows:
 
-- (a) where the fourth digit after the decimal point is less than 5, the fourth digit after the decimal point shall be dropped; and
+- (a) if the fourth digit after the decimal point is less than five, the fourth digit after the decimal point is dropped; and
 
-- (b) where the fourth digit after the decimal point is 5 or greater than 5, the third digit after the decimal point shall be increased by 1 and the fourth digit after the decimal point shall be dropped.
+- (b) if the fourth digit after the decimal point is five or greater than five, the third digit after the decimal point is increased by one and the fourth digit after the decimal point is dropped.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/90-813, s. 5; SOR/2013-23, s. 4
+- SOR/2026-129, s. 1
 
 </details>
 

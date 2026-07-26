@@ -1120,3 +1120,15 @@ Les marchandises classées dans les positions 98.04 ou 98.26 de la liste des dis
 ### 2
 
 L’article 82 de la même liste est abrogé.
+
+### — DORS/2026-120, art. 1
+
+### 1
+
+Le paragraphe 82(1) de la *Liste des marchandises d’importation contrôlée*[^] est remplacé par ce qui suit :
+
+### — DORS/2026-120, art. 2
+
+### 2
+
+L’article 82 de la même liste est abrogé.

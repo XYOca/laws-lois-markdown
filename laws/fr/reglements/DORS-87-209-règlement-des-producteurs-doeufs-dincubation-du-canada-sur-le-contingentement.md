@@ -138,12 +138,12 @@ n’excède pas le nombre total d’oeufs d’incubation de poulet de chair pré
 |  |  | Colonne I | Colonne II |
 | Article | Province | Commerce interprovincial et intraprovincial | Commerce d’exportation |
 | --- | --- | --- | --- |
-| 1 | Ontario | 298 089 211 | 0 |
-| 2 | Québec | 243 257 816 | 0 |
-| 3 | Manitoba | 38 508 100 | 0 |
-| 4 | Colombie-Britannique | 135 528 087 | 0 |
-| 5 | Saskatchewan | 33 472 262 | 0 |
-| 6 | Alberta | 105 055 112 | 0 |
+| 1 | Ontario | 316 747 951 | 0 |
+| 2 | Québec | 255 441 549 | 0 |
+| 3 | Manitoba | 41 081 528 | 0 |
+| 4 | Colombie-Britannique | 144 806 659 | 0 |
+| 5 | Saskatchewan | 35 387 536 | 0 |
+| 6 | Alberta | 112 597 072 | 0 |
 
 <details>
 <summary>Historical Note</summary>
@@ -170,5 +170,7 @@ n’excède pas le nombre total d’oeufs d’incubation de poulet de chair pré
 - DORS/2025-133, art. 1
 - DORS/2025-191, art. 1
 - DORS/2026-8, art. 1
+- DORS/2026-103, art. 1
+- DORS/2026-104, art. 1
 
 </details>
