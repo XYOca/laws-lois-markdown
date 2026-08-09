@@ -1,6 +1,6 @@
 # Lois fédérales
 
-_964 documents_
+_967 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -40,6 +40,7 @@ _964 documents_
 | A-6 | [Loi sur la commercialisation des produits agricoles](A-6-loi-sur-la-commercialisation-des-produits-agricoles.md) | Loi concernant la commercialisation des produits agricoles sur les marchés interprovincial et international |
 | A-8.8 | [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](A-8.8-loi-sur-les-sanctions-administratives-pécuniaires-en-matière-dagriculture-et-dag.md) | Loi établissant un régime de sanctions administratives pécuniaires pour l’application de la Loi sur la médiation en matière d’endettement agricole, de la Loi relative aux aliments du bétail, de la Loi sur les engrais, de la Loi sur la santé des animaux, de la Loi sur les produits antiparasitaires, de la Loi sur la protection des végétaux, de la Loi sur la salubrité des aliments au Canada et de la Loi sur les semences |
 | A-9 | [Loi sur le ministère de l’Agriculture et de l’Agroalimentaire](A-9-loi-sur-le-ministère-de-lagriculture-et-de-lagroalimentaire.md) | Loi concernant le ministère de l’Agriculture et de l’Agroalimentaire |
+| B-0.5 | [Loi sur des mesures de réforme concernant la mise en liberté sous caution et la détermination de la peine](B-0.5-loi-sur-des-mesures-de-réforme-concernant-la-mise-en-liberté-sous-caution-et-la.md) | Loi modifiant le Code criminel, la Loi sur le système de justice pénale pour les adolescents et la Loi sur la défense nationale (mise en liberté sous caution et détermination de la peine) |
 | B-1.01 | [Loi sur les banques](B-1.01-loi-sur-les-banques.md) | Loi sur les banques et les opérations bancaires |
 | B-1.5 | [Loi sur l’immunité de la Banque des règlements internationaux](B-1.5-loi-sur-limmunité-de-la-banque-des-règlements-internationaux.md) | Loi portant sur l’immunité de la Banque des règlements internationaux contre toute mesure étatique et en matière de juridiction civile des tribunaux |
 | B-1.7 | [Loi sur la poursuite des activités de la Banque de la Colombie-Britannique](B-1.7-loi-sur-la-poursuite-des-activités-de-la-banque-de-la-colombie-britannique.md) | Loi facilitant la poursuite des activités de la Banque de la Colombie-Britannique |
@@ -247,6 +248,7 @@ _964 documents_
 | C-45.9 | [Loi sur les crimes contre l’humanité et les crimes de guerre](C-45.9-loi-sur-les-crimes-contre-lhumanité-et-les-crimes-de-guerre.md) | Loi concernant le génocide, les crimes contre l’humanité et les crimes de guerre et visant la mise en oeuvre du Statut de Rome de la Cour pénale internationale, et modifiant certaines lois en conséquence |
 | C-46 | [Code criminel](C-46-code-criminel.md) | Loi concernant le droit criminel |
 | C-47 | [Loi sur le casier judiciaire](C-47-loi-sur-le-casier-judiciaire.md) | Loi relative à la suspension du casier judiciaire des condamnés qui se sont réadaptés |
+| C-47.4 | [Loi sur la protection des cybersystèmes essentiels](C-47.4-loi-sur-la-protection-des-cybersystèmes-essentiels.md) | Loi concernant la protection des cybersystèmes essentiels dans les secteurs sous réglementation fédérale |
 | C-49 | [Loi sur le paiement anticipé des récoltes](C-49-loi-sur-le-paiement-anticipé-des-récoltes.md) | Loi visant à faciliter le paiement par anticipation des récoltes |
 | C-49.6 | [Loi sur la dissolution ou la cession de sociétés d’État](C-49.6-loi-sur-la-dissolution-ou-la-cession-de-sociétés-détat.md) | Loi portant dissolution ou cession de sociétés d’État et modifiant certaines lois en conséquence |
 | C-49.8 | [Loi sur le ministère des Relations Couronne-Autochtones et des Affaires du Nord](C-49.8-loi-sur-le-ministère-des-relations-couronne-autochtones-et-des-affaires-du-nord.md) | Loi concernant le ministère des Relations Couronne-Autochtones et des Affaires du Nord |
@@ -263,6 +265,7 @@ _964 documents_
 | C-52.6 | [Loi sur les douanes](C-52.6-loi-sur-les-douanes.md) | Loi concernant les douanes |
 | C-53 | [Loi sur la compétence extracôtière du Canada pour les douanes et l’accise](C-53-loi-sur-la-compétence-extracôtière-du-canada-pour-les-douanes-et-laccise.md) | Loi portant application de la compétence du Canada en matière de douanes et d’accise à son plateau continental |
 | C-54.011 | [Tarif des douanes](C-54.011-tarif-des-douanes.md) | Loi concernant l’imposition de droits de douane et d’autres droits, la mise en oeuvre de la Convention internationale sur le Système harmonisé de désignation et de codification des marchandises et l’exonération de divers droits de douane ou autres, comportant des mesures connexes et modifiant ou abrogeant certaines lois en conséquence |
+| C-55.5 | [Loi concernant la cybersécurité, modifiant la Loi sur les télécommunications et apportant des modifications corrélatives à d’autres lois](C-55.5-loi-concernant-la-cybersécurité-modifiant-la-loi-sur-les-télécommunications-et-a.md) |  |
 | C-6 | [Loi canadienne sur la santé](C-6-loi-canadienne-sur-la-santé.md) | Loi concernant les contributions pécuniaires du Canada ainsi que les principes et conditions applicables aux services de santé assurés et aux services complémentaires de santé |
 | C-6.1 | [Loi sur le financement des soins de santé ainsi que du développement de la petite enfance et d’autres services sociaux au Canada](C-6.1-loi-sur-le-financement-des-soins-de-santé-ainsi-que-du-développement-de-la-petit.md) | Loi concernant l’octroi d’une aide financière supplémentaire pour les services de santé, les appareils médicaux et les techniques de communication et d’information en matière de santé, le développement de la petite enfance et d’autres services sociaux et modifiant la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces |
 | C-6.10 | [Loi sur la croissance économique et la prospérité — Canada-Honduras](C-6.10-loi-sur-la-croissance-économique-et-la-prospérité-canada-honduras.md) | Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République du Honduras, de l’Accord de coopération dans le domaine de l’environnement entre le Canada et la République du Honduras et de l’Accord de coopération dans le domaine du travail entre le Canada et la République du Honduras |

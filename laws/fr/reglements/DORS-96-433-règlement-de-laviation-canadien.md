@@ -6427,15 +6427,17 @@ Il est interdit à toute personne d’agir en qualité de membre d’équipage d
     - (F) l’annexe de l’article 724.108 de la norme 724 — *Exploitation d’un service aérien de navette — Hélicoptères*, dans le cas d’un hélicoptère exploité en vertu de la sous-partie 4 de la partie VII,
     - (G) les annexes I, II ou III de l’article 725.106 de la norme 725 — *Exploitation d’une entreprise de transport aérien — Avions*, dans le cas d’un avion exploité en vertu de la sous-partie 5 de la partie VII.
 
-(3.1) Il est interdit au titulaire d’une licence canadienne de pilote annotée d’une qualification de vol aux instruments ou à laquelle des avantages liés à une telle qualification sont attachés d’exercer les avantages de cette qualification, à moins qu’après le premier jour du 13^e^ mois suivant la date de réussite du test visé au paragraphe (3) et au cours des six mois précédant le vol le titulaire :
+(3.1) Il est interdit au titulaire d’une licence de pilote annotée d’une qualification de vol aux instruments ou à laquelle sont attachés des avantages liés à une telle qualification d’exercer les avantages de cette qualification, à moins d’avoir, après le premier jour du septième mois suivant la réussite de l’un ou l’autre des tests visés au paragraphe (3) et au cours des six mois précédant le vol, effectué six approches aux instruments, selon les minimums précisés dans la procédure d’approche aux instruments, à bord :
 
-- a) n’ait accumulé six heures de temps aux instruments;
+- a) soit d’un aéronef, dans des conditions météorologiques de vol aux instruments réelles ou simulées;
 
-- b) n’ait effectué six approches aux instruments à bord d’un aéronef dans des conditions météorologiques de vol aux instruments réelles ou simulées ou à bord d’un simulateur de niveau B, C ou D ou d’un dispositif d’entraînement au vol approuvé et configuré pour la même catégorie que l’aéronef :
-  - (i) soit sous la supervision d’une personne qui possède les qualifications visées au paragraphe 425.21(9) de la *Norme 425 — L’entraînement en vol*,
-  - (ii) soit en qualité d’instructeur de vol qui dispense la formation en vue de l’annotation d’une qualification de vol aux instruments sur une licence ou un permis de membre d’équipage de conduite.
+- b) soit d’un aéronef, dans des conditions météorologiques de vol aux instruments réelles ou simulées, en qualité d’instructeur de vol dispensant la formation en vue de l’annotation d’une qualification de vol aux instruments sur une licence de membre d’équipage de conduite;
 
-(3.2) Le titulaire d’une licence canadienne de pilote annotée d’une qualification de vol aux instruments ou à laquelle des avantages liés à une telle qualification sont attachés conserve pendant trois ans les documents démontrant sa conformité avec les exigences relatives à la mise à jour des connaissances applicables prévues aux paragraphes (3) ou (3.1).
+- c) soit d’un simulateur de vol complet de niveau B, C ou D du même groupe que l’aéronef précisé dans la licence de pilote;
+
+- d) soit d’un dispositif d’entraînement au vol, sous la supervision d’une personne qui possède les qualifications mentionnées au paragraphe 425.21(9) des normes de délivrance des licences du personnel.
+
+(3.2) Le titulaire d’une licence de pilote annotée d’une qualification de vol aux instruments ou à laquelle sont attachés des avantages liés à une telle qualification conserve pendant trois ans les documents démontrant sa conformité avec les exigences relatives à la mise à jour des connaissances applicables prévues aux paragraphes (3) ou (3.1).
 
 (4) Il est interdit au titulaire d’une licence de mécanicien navigant d’exercer les avantages visés à l’article 401.37, à moins qu’il ne satisfasse aux conditions suivantes :
 
@@ -8322,17 +8324,13 @@ La présente sous-partie s’applique aux personnes suivantes :
 
 (6.3) Le titulaire d’une licence de pilote professionnel ou d’une licence de pilote de ligne peut exercer les avantages d’une licence de pilote privé jusqu’à la fin de la période de validité applicable pour la licence de pilote privé précisée au paragraphe (6).
 
-(7) La fin de la période de validité d’un certificat médical délivré ou renouvelé en vertu du paragraphe (1) est calculée à compter du jour suivant le premier jour du mois qui suit, selon le cas :
+(7) La fin de la période de validité du certificat médical délivré ou renouvelé en vertu du paragraphe (1) est calculée à compter du premier jour du mois qui suit, selon le cas :
 
 - a) la date où le demandeur signe la déclaration médicale qui est présentée en vue de la délivrance ou du renouvellement du certificat médical;
 
 - b) la date où est effectué l’examen médical en vue de la délivrance ou du renouvellement du certificat médical.
 
-(8) La fin de la période de validité d’un certificat médical renouvelé en vertu du paragraphe (1.1) est calculée à compter, selon le cas :
-
-- a) du jour suivant la date où la période de validité précédente prend fin, si l’examen médical en vue du renouvellement a été effectué dans les 90 jours précédant la fin de cette période;
-
-- b) du jour suivant le premier jour du mois qui suit la date où est effectué l’examen médical en vue du renouvellement, si cet examen est effectué plus de 90 jours avant la fin de la période de validité précédente.
+(8) La fin de la période de validité du certificat médical renouvelé en vertu du paragraphe (1.1) est calculée à compter du premier jour du mois qui suit la date où est effectué l’examen médical en vue du renouvellement.
 
 (9) Le ministre inscrit sur le certificat médical une période de validité plus courte si, à la fois :
 
@@ -8351,6 +8349,7 @@ La présente sous-partie s’applique aux personnes suivantes :
 
 - DORS/2007-229, art. 2; DORS/2008-140, art. 5; DORS/2014-15, art. 15
 - DORS/2019-201, art. 1
+- DORS/2025-241, art. 26
 
 </details>
 

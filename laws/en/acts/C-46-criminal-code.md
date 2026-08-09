@@ -11781,6 +11781,21 @@ Every person is guilty of an indictable offence and liable to imprisonment for a
 
 </details>
 
+### 268.1 Sterilization
+
+(1) For greater certainty, a sterilization procedure is an act that wounds or maims a person for the purposes of subsection 268(1).
+
+**Definition of **sterilization procedure****
+
+(2) In this section, **sterilization procedure** means the severing, clipping, tying or cauterizing, in whole or in part, of the Fallopian tubes, ovaries or uterus of a person or any other procedure performed on a person that results in the permanent prevention of reproduction, regardless of whether the procedure is reversible through a subsequent surgical procedure.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 10, s. 1
+
+</details>
+
 ### 269 Unlawfully causing bodily harm
 
 Every one who unlawfully causes bodily harm to any person is guilty of
@@ -43787,6 +43802,32 @@ If an information has been laid under subsection 810(1) of the *Criminal Code* b
 
 The amendments made by this Act do not affect the validity of any proceedings, brought under the *Criminal Code* or any other Act of Parliament, that are related to section 163.1 of the *Criminal Code* and are ongoing on the day on which this Act comes into force. The amendments do not affect the validity of any document related to those proceedings and any reference to “child pornography” in such a document is to be read as a reference to “child sexual abuse and exploitation material”.
 
+### — 2026, c. 11, s. 56
+
+### 56 Words and expressions
+
+Unless the context requires otherwise, words and expressions used in sections 57 and 58 have the same meaning as in the *Criminal Code*.
+
+### — 2026, c. 11, s. 57
+
+### 57 Outstanding fines
+
+The provisions of the *Criminal Code*, as enacted by sections 41 and 42, apply to the proceeds of a fine that is unpaid on the day on which those sections come into force.
+
+### — 2026, c. 11, s. 58
+
+### 58 Clarification — certain offences
+
+(1) For greater certainty, the provisions of the *Criminal Code*, as enacted by sections 8, 9, 11, 37, 40 and 43, apply only with respect to an offence that is committed on or after the day on which those sections come into force.
+
+**Clarification — Parts XVI and XXVIII**
+
+(2) For greater certainty, the amendments to Parts XVI and XXVIII of the *Criminal Code* made by this Act apply with respect to any matter or proceeding under that Part XVI that is ongoing on the day on which section 12 comes into force.
+
+**Clarification — Application**
+
+(3) For greater certainty, the provisions of the *Criminal Code*, as enacted by sections 10, 34 to 36, 38 and 39, also apply with respect to any matter or proceeding that is ongoing on the day on which those sections come into force.
+
 
 ## AMENDMENTS NOT IN FORCE
 
@@ -43923,3 +43964,645 @@ Consent that is given in accordance with section 9 or 11 is irrevocable.
 ### 13 Application dismissed by Minister
 
 For greater certainty, the fact that the Minister dismissed an application under the old scheme does not prevent the applicant from applying under the new scheme.
+
+### — 2026, c. 11, s. 2
+
+### 2
+
+(1) Paragraph (c) of the definition **superior court of criminal jurisdiction** in section 2 of the *Criminal Code* is replaced by the following:
+
+(2) Paragraph (e) of the definition **superior court of criminal jurisdiction** in section 2 of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 3
+
+### 3
+
+The definition **superior court** in subsection 84(1) of the Act is amended by adding “and” at the end of paragraph (c) and by replacing paragraphs (d) and (e) with the following:
+
+### — 2026, c. 11, s. 4
+
+### 4
+
+Paragraph 145(5)(b) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 5
+
+### 5
+
+Paragraphs (c) and (d) of the definition **court** in subsection 164(8) of the Act are replaced by the following:
+
+### — 2026, c. 11, s. 6
+
+### 6
+
+(1) Paragraph 188(4)(c) of the Act is replaced by the following:
+
+(2) Paragraph 188(4)(e) of the Act is repealed.
+
+### — 2026, c. 11, s. 6.1
+
+### 6.1
+
+(1) Subsection 269.01(1) of the Act is replaced by the following:
+
+(2) The definition **public transit operator** in subsection 269.01(2) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 7
+
+### 7
+
+Paragraphs (c) and (d) of the definition **court** in subsection 320(8) of the Act are replaced by the following:
+
+### — 2026, c. 11, s. 8
+
+### 8
+
+Subsection 320.24(4) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 9
+
+### 9
+
+The Act is amended by adding the following after section 333.1:
+
+### — 2026, c. 11, s. 10
+
+### 10
+
+The Act is amended by adding the following after section 334:
+
+### — 2026, c. 11, s. 11
+
+### 11
+
+The Act is amended by adding the following after section 346:
+
+### — 2026, c. 11, s. 11.1
+
+### 11.1
+
+Paragraph 485.2(7)(c) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 12
+
+### 12
+
+The heading before section 493 of the French version of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 13
+
+### 13
+
+The Act is amended by adding the following after section 493:
+
+### — 2026, c. 11, s. 14
+
+### 14
+
+The Act is amended by adding the following after section 493.1:
+
+### — 2026, c. 11, s. 15
+
+### 15
+
+Section 495.1 of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 15.1
+
+### 15.1
+
+Subsection 500(2) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 15.2
+
+### 15.2
+
+Paragraph 501(1)(c) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 16
+
+### 16
+
+Subsection 502(2) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 17
+
+### 17
+
+The portion of subsection 503(1) of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 11, s. 18
+
+### 18
+
+Subsection 507(1) of the Act is amended by striking out “and” at the end of paragraph (a) and by adding the following after paragraph (a):
+
+### — 2026, c. 11, s. 19
+
+### 19
+
+Paragraph 507.1(3)(a) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 20
+
+### 20
+
+(1) Subsection 508(1) of the Act is amended by adding the following after paragraph (a):
+
+(2) Paragraph 508(1)(b) of the Act is amended by striking out “or” at the end of subparagraph (i), by striking out “and” at the end of subparagraph (ii), by adding “or” at the end of subparagraph (ii) and by adding the following after subparagraph (ii):
+
+### — 2026, c. 11, s. 20.1
+
+### 20.1
+
+Subsection 509(4) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 21
+
+### 21
+
+Section 511 of the Act is amended by adding the following after subsection (2):
+
+### — 2026, c. 11, s. 22
+
+### 22
+
+Section 512.3 of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 23
+
+### 23
+
+(1) Section 515 of the Act is amended by adding the following after subsection (2.03):
+
+(1.1) Section 515 of the Act is amended by adding the following after subsection (2.1):
+
+(2) Subsection 515(3) of the Act is amended by striking out “or” at the end of paragraph (a) and by adding the following after that paragraph (a):
+
+(3) Subsection 515(4.1) of the Act is replaced by the following:
+
+(4) Subsection 515(4.3) of the Act is amended by adding the following after paragraph (a):
+
+(5) Paragraph 515(4.3)(b) of the Act is amended by replacing “264” with “264, 346”.
+
+(6) Section 515 of the Act is amended by adding the following after subsection (4.3):
+
+(7) The portion of subsection 515(6) of the Act before paragraph (a) is replaced by the following:
+
+(8) Subparagraph 515(6)(a)(iv) of the English version of the Act is replaced by the following:
+
+(9) Paragraph 515(6)(a) of the Act is amended by striking out “or” at the end of subparagraph (vii) and by adding the following after subparagraph (viii):
+
+(10) Paragraph 515(6)(b.2) of the Act is replaced by the following:
+
+(11) Paragraph 515(10)(c) of the Act is amended by striking out “and” at the end of subparagraph (iii), by adding “and” at the end of subparagraph (iv) and by adding the following after subparagraph (iv):
+
+### — 2026, c. 11, s. 24
+
+### 24
+
+Section 516 of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 25
+
+### 25
+
+(1) Subsection 520(1) of the Act is replaced by the following:
+
+(2) Paragraph 520(7)(e) of the Act is replaced by the following:
+
+(3) Subsection 520(8) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 26
+
+### 26
+
+(1) Subsection 521(1) of the Act is replaced by the following:
+
+(2) Paragraph 521(8)(e) of the Act is replaced by the following:
+
+(3) Subsection 521(9) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 27
+
+### 27
+
+(1) Subsection 522(2) of the Act is replaced by the following:
+
+(2) Section 522 of the Act is amended by adding the following after subsection (3):
+
+### — 2026, c. 11, s. 28
+
+### 28
+
+(1) Subsection 523(1) of the Act replaced by the following:
+
+(2) Paragraph 523(2)(a) of the Act is replaced by the following:
+
+(3) Paragraph 523(2)(c) of the Act is replaced by the following:
+
+(4) Section 523 of the Act is amended by adding the following after subsection (2):
+
+### — 2026, c. 11, s. 29
+
+### 29
+
+(1) Paragraph 524(2)(b) of the Act is replaced by the following:
+
+(2) Paragraph 524(3)(b) of the Act is replaced by the following:
+
+(3) Subsection 524(4) of the Act is replaced by the following:
+
+(4) Section 524 of the Act is amended by adding the following after subsection (5):
+
+(5) Section 524 of the Act is amended by adding the following after subsection (6):
+
+(6) Subsections 524(9) and (10) of the Act are replaced by the following:
+
+### — 2026, c. 11, s. 30
+
+### 30
+
+(1) Section 525 of the Act is amended by adding the following after subsection (4):
+
+(2) Section 525 of the Act is amended by adding the following after subsection (5):
+
+### — 2026, c. 11, s. 31
+
+### 31
+
+The portion of subsection 527(5) of the English version of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 11, s. 32
+
+### 32
+
+Paragraph (h.1) of the definition **judge** in section 552 of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 33
+
+### 33
+
+Subparagraph 561(1)(b)(ii) of the French version of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 34
+
+### 34
+
+Subsection 672.5(13) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 34.1
+
+### 34.1
+
+The portion of subsection 680(1) of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 11, s. 35
+
+### 35
+
+Section 705 of the Act is amended by adding the following after subsection (3):
+
+### — 2026, c. 11, s. 36
+
+### 36
+
+The Act is amended by adding the following after section 705:
+
+### — 2026, c. 11, s. 37
+
+### 37
+
+Subsection 708(2) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 38
+
+### 38
+
+The Act is amended by adding the following after section 718.04:
+
+### — 2026, c. 11, s. 39
+
+### 39
+
+(1) Subparagraph 718.2(a)(iii.2) of the Act is replaced by the following:
+
+(2) Paragraph 718.2(a) of the Act is amended by striking out “and” at the end of subparagraph (vi), by adding “and” at the end of subparagraph (vii) and by adding the following after subparagraph (vii):
+
+### — 2026, c. 11, s. 40
+
+### 40
+
+Paragraph 718.3(4)(b) of the Act is amended by striking out “or” at the end of subparagraph (ii), by adding “or” at the end of subparagraph (iii) and by adding the following after subparagraph (iii):
+
+### — 2026, c. 11, s. 41
+
+### 41
+
+Section 734.5 of the Act is amended by striking out “or” at the end of paragraph (a), by adding “or” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+### — 2026, c. 11, s. 42
+
+### 42
+
+The Act is amended by adding the following after section 734.5:
+
+### — 2026, c. 11, s. 43
+
+### 43
+
+(1) Paragraph 742.1(c) of the Act is amended by striking out “or” at the end of subparagraph (ii) and by adding the following after subparagraph (ii):
+
+(2) Section 742.1 of the Act is amended by striking out “and” at the end of subparagraph (c)(iii) and by adding the following after paragraph (c):
+
+### — 2026, c. 11, s. 44
+
+### 44
+
+(1) Paragraph 745.6(3)(c) of the Act is repealed.
+
+(2) Paragraph 745.6(3)(e) of the Act is replaced by the following:
+
+### — 2026, c. 11, s. 45
+
+### 45
+
+(1) Paragraph 812(1)(c) of the Act is replaced by the following:
+
+(2) Paragraph 812(1)(g) of the Act is repealed.
+
+### — 2026, c. 11, s. 46
+
+### 46
+
+The reference to “The Trial Division of the Supreme Court” in column II of the schedule to Part XXV of the Act, opposite “Newfoundland and Labrador” in column I, is replaced by a reference to “The Supreme Court”.
+
+### — 2026, c. 11, s. 47
+
+### 47
+
+The paragraph of Form 6 of Part XXVIII of the Act that begins with “If you do not comply” and ends with “(Subsection 524(4) of the *Criminal Code*).” is replaced by the following:
+
+### — 2026, c. 11, s. 48
+
+### 48
+
+The paragraph of Form 6.2 of Part XXVIII of the Act that begins with “If you are on interim release” and ends with “(section 524 of the *Criminal Code*).” is replaced by the following:
+
+### — 2026, c. 11, s. 49
+
+### 49
+
+Paragraphs (d) and (e) of Form 8 of Part XXVIII of the Act are replaced by the following:
+
+### — 2026, c. 11, s. 50
+
+### 50
+
+The paragraph of section 6 of Form 9 of Part XXVIII of the Act that begins with “If you do not comply” and ends with “(subsection 524(4) of the *Criminal Code*).” is replaced by the following:
+
+### — 2026, c. 11, s. 51
+
+### 51
+
+(1) Section 7 of Form 10 of Part XXVIII of the Act is replaced by the following:
+
+(2) The paragraph of section 9 of Form 10 of Part XXVIII of the Act that begins with “If you do not comply” and ends with “(subsection 524(4) of the *Criminal Code*).” is replaced by the following:
+
+### — 2026, c. 11, s. 52
+
+### 52
+
+Part XXVIII of the Act is amended by adding the following after Form 10:
+
+### — 2026, c. 11, s. 53
+
+### 53
+
+The paragraph of item 8 of Form 11 of Part XXVIII of the Act that begins with “If you do not comply” and ends with “(subsection 524(4) of the *Criminal Code*).” is replaced by the following:
+
+### — 2026, c. 11, s. 54
+
+### 54
+
+Form 12 of Part XXVIII of the Act is amended by adding the following after section 7:
+
+### — 2026, c. 11, s. 55
+
+### 55
+
+Part XXVIII of the Act is amended by adding the following after Form 29:
+
+### — 2026, c. 11, s. 83
+
+### 83 Bill C-9
+
+(1) Subsections (2) to (6) apply if Bill C-9, introduced in the 1st session of the 45th Parliament and entitled the *Combatting Hate Act* (in this section referred to as the “other Act”), receives royal assent.
+
+(2) If subsection 9(1) of the other Act comes into force before subsection 23(3) of this Act, then that subsection 23(3) is amended by replacing the paragraphs 515(4.1)(h) to (k) that it enacts with the following:
+
+(3) If subsection 23(3) of this Act comes into force before subsection 9(1) of the other Act, then that subsection 9(1) is replaced by the following:
+
+(4) If subsection 9(1) of the other Act and subsection 23(3) of this Act come into force on the same day, then that subsection 9(1) is deemed to have come into force before that subsection 23(3) and subsection (2) applies as a consequence.
+
+(5) If subsection 23(5) of this Act comes into force before subsection 9(2) of the other Act, then that subsection 9(2) is amended by replacing the paragraph 515(4.3)(b) that it enacts with the following:
+
+(6) If subsection 9(2) of the other Act and subsection 23(5) of this Act come into force on the same day, then that subsection 9(2) is deemed to have come into force before that subsection 23(5).
+
+### — 2026, c. 12, s. 1
+
+### 1
+
+Section 231 of the *Criminal Code* is amended by adding the following after subsection (3):
+
+### — 2026, c. 12, s. 1.1
+
+### 1.1
+
+Section 236 of the Act is renumbered as subsection 236(1) and is amended by adding the following:
+
+### — 2026, c. 12, s. 2
+
+### 2
+
+The Act is amended by adding the following after section 263:
+
+### — 2026, c. 12, s. 3
+
+### 3
+
+The portion of subsection 490(2) of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 12, s. 4
+
+### 4
+
+Paragraph 515(6)(b.1) of the Act is replaced by the following:
+
+### — 2026, c. 12, s. 5
+
+### 5
+
+Section 662 of the Act is amended by adding the following after subsection (5):
+
+### — 2026, c. 12, s. 6
+
+### 6
+
+Paragraph (b) of the definition **sentence** in section 673 of the Act is replaced by the following:
+
+### — 2026, c. 12, s. 7
+
+### 7
+
+(1) Subsection 675(2) of the Act is replaced by the following:
+
+(2) Subsection 675(2.2) of the Act is replaced by the following:
+
+### — 2026, c. 12, s. 8
+
+### 8
+
+Subsection 676(4) of the Act is replaced by the following:
+
+### — 2026, c. 12, s. 9
+
+### 9
+
+Subsection 718.3(8) of the Act is repealed.
+
+### — 2026, c. 12, s. 10
+
+### 10
+
+The Act is amended by adding the following after section 726.1:
+
+### — 2026, c. 12, s. 11
+
+### 11
+
+Section 745 of the Act is amended by striking out “and” at the end of paragraph (c) and by adding the following after that paragraph:
+
+### — 2026, c. 12, s. 12
+
+### 12
+
+(1) The portion of section 745.1 of the Act before paragraph (a) is replaced by the following:
+
+(2) Paragraph 745.1(c) of the Act is replaced by the following:
+
+### — 2026, c. 12, s. 13
+
+### 13
+
+The Act is amended by adding the following after section 745.51:
+
+### — 2026, c. 12, s. 14
+
+### 14
+
+The portion of section 746 of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 12, s. 15
+
+### 15 Sentencing for manslaughter
+
+Subsection 236(2) of the *Criminal Code* does not apply with respect to an offence that is committed before the 30th day after the day on which this Act receives royal assent.
+
+### — 2026, c. 12, s. 16
+
+### 16 Period for further detention — subsection 490(2)
+
+Subsection 490(2) of the *Criminal Code*, as amended by section 3, applies with respect to any matter or proceeding that is ongoing on the 30th day after the day on which this Act receives royal assent.
+
+### — 2026, c. 12, s. 17
+
+### 17 Coordinating amendments with Bill C-16 — first degree murder
+
+(1) This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the *Protecting Victims Act* (in this section referred to as the “other Act”), receives royal assent.
+
+(2) If section 25 of the other Act comes into force before section 1 of this Act, then that section 1 is repealed.
+
+(3) If section 1 of this Act comes into force before section 25 of the other Act, then, on the day on which that section 25 comes into force, subsection 231(3.1) of the *Criminal Code* is repealed.
+
+(4) If section 25 of the other Act and section 1 of this Act come into force on the same day, then that section 1 is deemed never to have come into force and is repealed.
+
+### — 2026, c. 12, s. 18
+
+### 18 Coordinating amendments with Bill C-16 — manslaughter
+
+(1) This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the *Protecting Victims Act* (in this section referred to as the “other Act”), receives royal assent.
+
+(2) If section 26 of the other Act comes into force before section 1.1 of this Act, then that section 1.1 and section 15 of this Act are repealed.
+
+(3) If section 1.1 of this Act comes into force before section 26 of the other Act, then
+
+- (a) that section 26 is amended by replacing “Section 236 of the Act is renumbered as subsection 236(1) and is amended by adding” with “Subsection 236(2) of the Act is replaced by”; and
+
+- (b) section 98 of the other Act is replaced with the following:
+
+(4) If section 26 of the other Act and section 1.1 of this Act come into force on the same day, then that section 1.1 and section 15 of this Act are deemed never to have come into force and are repealed.
+
+(5) If section 55 of the other Act comes into force before section 6 of this Act, then that section 6 is repealed.
+
+(6) If section 6 of this Act comes into force before section 55 of the other Act, then that section 55 is repealed.
+
+(7) If section 55 of the other Act and section 6 of this Act come into force on the same day, then that section 6 is deemed never to have come into force and is repealed.
+
+(8) If section 56 of the other Act comes into force before section 7 of this Act, then that section 7 is repealed.
+
+(9) If section 56 of the other Act and section 7 of this Act come into force on the same day, then that section 7 is deemed never to have come into force and is repealed.
+
+(10) If section 57 of the other Act comes into force before section 8 of this Act, then that section 8 is repealed.
+
+(11) If section 57 of the other Act and section 8 of this Act come into force on the same day, then that section 8 is deemed never to have come into force and is repealed.
+
+(12) If section 72 of the other Act comes into force before section 11 of this Act, then that section 11 is repealed.
+
+(13) If section 11 of this Act comes into force before section 72 of the other Act, then that section 72 is amended by replacing “Section 745 of the Act is amended by striking out “and” at the end of paragraph (c) and by adding the following after that paragraph” with “Paragraph 745(c.1) of the Act is replaced by the following”.
+
+(14) If section 72 of the other Act and section 11 of this Act come into force on the same day, then that section 11 is deemed never to have come into force and is repealed.
+
+(15) If section 73 of the other Act comes into force before section 12 of this Act, then that section 12 is repealed.
+
+(16) If section 73 of the other Act and section 12 of this Act come into force on the same day, then that section 12 is deemed never to have come into force and is repealed.
+
+(17) If section 74 of the other Act comes into force before section 13 of this Act, then that section 13 is repealed.
+
+(18) If section 13 of this Act comes into force before section 74 of the other Act, then that section 74 is amended by replacing “The Act is amended by adding the following after section 745.51” with “Section 745.52 of the Act is replaced by the following”.
+
+(19) If section 74 of the other Act and section 13 of this Act come into force on the same day, then that section 13 is deemed never to have come into force and is repealed.
+
+(20) If section 75 of the other Act comes into force before section 14 of this Act, then that section 14 is repealed.
+
+(21) If section 14 of this Act comes into force before section 75 of the other Act, then that section 75 is repealed.
+
+(22) If section 75 of the other Act and section 14 of this Act come into force on the same day, then that section 14 is deemed never to have come into force and is repealed.
+
+### — 2026, c. 12, s. 19
+
+### 19 Coordinating amendments with Bill C-16 — intimate partner violence
+
+(1) This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the *Protecting Victims Act* (in this section referred to as the “other Act”), receives royal assent.
+
+(2) On the first day on which subsection 2(1) of the other Act and section 2 of this Act are in force, subsection 3.01(2) of the *Criminal Code* is amended by adding the following after paragraph (b):
+
+- (b.1) subsection 263.1(1);
+
+(3) If subsection 2(1) of the other Act comes into force before section 9 of this Act, then, on the day on which section 9 comes into force, paragraph 3.01(2)(g) of the *Criminal Code* is repealed.
+
+(4) If section 9 of this Act comes into force before subsection 2(1) of the other Act, then that subsection 2(1) is amended by repealing the paragraph 3.01(2)(g) that it enacts.
+
+(5) If subsection 2(1) of the other Act and section 9 of this Act come into force on the same day, then that section 9 is deemed to have come into force before that subsection 2(1) and subsection (4) applies as a consequence.
+
+### — 2026, c. 12, s. 20
+
+### 20 Coordinating amendments with Bill C-16 — further detention
+
+(1) This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the *Protecting Victims Act* (in this section referred to as the “other Act”), receives royal assent.
+
+(2) If section 44 of the other Act comes into force before section 3 of this Act, then that section 3 and section 16 of this Act are repealed.
+
+(3) If section 3 of this Act comes into force before section 44 of the other Act, then that section 44 and section 104 of the other Act are repealed.
+
+(4) If section 44 of the other Act and section 3 of this Act come into force on the same day, then that section 3 and section 16 of this Act are deemed never to have come into force and are repealed.

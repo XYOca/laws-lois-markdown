@@ -11602,6 +11602,21 @@ Est coupable d’un acte criminel passible d’un emprisonnement maximal de dix 
 
 </details>
 
+### 268.1 Stérilisation
+
+(1) Pour l’application du paragraphe 268(1), il est entendu qu’un acte de stérilisation constitue une blessure ou une mutilation.
+
+**Définition de **acte de stérilisation****
+
+(2) Au présent article, **acte de stérilisation** s’entend du sectionnement, de l’occlusion, de la ligature ou de la cautérisation de l’ensemble ou d’une partie des trompes de Fallope, des ovaires ou de l’utérus d’une personne ou de tout autre acte exécuté sur une personne qui a pour effet d’empêcher la procréation de façon définitive, que l’acte soit ou non réversible par une opération chirurgicale ultérieure.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 10, art. 1
+
+</details>
+
 ### 269 Lésions corporelles
 
 Quiconque cause illégalement des lésions corporelles à une personne est coupable :
@@ -43234,6 +43249,32 @@ Si une dénonciation est déposée en vertu du paragraphe 810(1) du *Code crimin
 
 Les modifications apportées par la présente loi ne portent pas atteinte à la validité de toute procédure qui est en cours à la date d’entrée en vigueur de la présente loi et qui est en lien avec l’article 163.1 du *Code criminel*, intentée en vertu du *Code criminel* ou d’une autre loi fédérale. De plus, elles ne portent pas atteinte à la validité de tout document lié à ces procédures, et tout renvoi à l’expression « pornographie juvénile » dans de tels documents vaut mention de « matériel d’abus et d’exploitation pédosexuels ».
 
+### — 2026, ch. 11, art. 56
+
+### 56 Terminologie
+
+Sauf indication contraire du contexte, les termes utilisés aux articles 57 et 58 s’entendent au sens du *Code criminel*.
+
+### — 2026, ch. 11, art. 57
+
+### 57 Amendes à payer
+
+Les dispositions du *Code criminel* édictées par les articles 41 et 42 s’appliquent à l’égard de tout produit d’une amende qui est à payer à la date d’entrée en vigueur de ces articles.
+
+### — 2026, ch. 11, art. 58
+
+### 58 Précision : certaines infractions
+
+(1) Il est entendu que les dispositions du *Code criminel* édictées par les articles 8, 9, 11, 37, 40 et 43 ne s’appliquent qu’à l’égard des infractions commises à la date d’entrée en vigueur de ces articles ou après cette date.
+
+**Précision : parties XVI et XXVIII**
+
+(2) Il est entendu que les modifications apportées par la présente loi aux parties XVI et XXVIII du *Code criminel* s’appliquent à l’égard de toute affaire ou procédure prévue par cette partie XVI qui est en cours à la date d’entrée en vigueur de l’article 12.
+
+**Précision : application**
+
+(3) Il est entendu que les dispositions du *Code criminel* édictées par les articles 10, 34 à 36, 38 et 39 s’appliquent également à l’égard de toute affaire ou procédure qui est en cours à la date d’entrée en vigueur de ces articles.
+
 
 ## MODIFICATIONS NON EN VIGUEUR
 
@@ -43370,3 +43411,645 @@ Le consentement donné au titre des articles 9 ou 11 est irrévocable.
 ### 13 Demande rejetée par le ministre
 
 Il est entendu que le rejet par le ministre d’une demande présentée en vertu de l’ancien régime n’empêche pas la présentation d’une demande en vertu du nouveau régime.
+
+### — 2026, ch. 11, art. 2
+
+### 2
+
+(1) L’alinéa c) de la définition de **cour supérieure de juridiction criminelle**, à l’article 2 du *Code criminel*, est remplacé par ce qui suit :
+
+(2) L’alinéa e) de la définition de **cour supérieure de juridiction criminelle**, à l’article 2 de la même loi, est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 3
+
+### 3
+
+Les alinéas d) et e) de la définition de **cour supérieure**, au paragraphe 84(1) de la même loi, sont remplacés par ce qui suit :
+
+### — 2026, ch. 11, art. 4
+
+### 4
+
+L’alinéa 145(5)b) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 5
+
+### 5
+
+Les alinéas c) et d) de la définition de **tribunal**, au paragraphe 164(8) de la même loi, sont remplacés par ce qui suit :
+
+### — 2026, ch. 11, art. 6
+
+### 6
+
+(1) L’alinéa 188(4)c) de la même loi est remplacé par ce qui suit :
+
+(2) L’alinéa 188(4)e) de la même loi est abrogé.
+
+### — 2026, ch. 11, art. 6.1
+
+### 6.1
+
+(1) Le paragraphe 269.01(1) de la même loi est remplacé par ce qui suit :
+
+(2) La définition de **conducteur de véhicule de transport en commun**, au paragraphe 269.01(2) de la même loi, est remplacée par ce qui suit :
+
+### — 2026, ch. 11, art. 7
+
+### 7
+
+Les alinéas c) et d) de la définition de **tribunal**, au paragraphe 320(8) de la même loi, sont remplacés par ce qui suit :
+
+### — 2026, ch. 11, art. 8
+
+### 8
+
+Le paragraphe 320.24(4) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 9
+
+### 9
+
+La même loi est modifiée par adjonction, après l’article 333.1, de ce qui suit :
+
+### — 2026, ch. 11, art. 10
+
+### 10
+
+La même loi est modifiée par adjonction, après l’article 334, de ce qui suit :
+
+### — 2026, ch. 11, art. 11
+
+### 11
+
+La même loi est modifiée par adjonction, après l’article 346, de ce qui suit :
+
+### — 2026, ch. 11, art. 11.1
+
+### 11.1
+
+L’alinéa 485.2(7)c) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 12
+
+### 12
+
+L’intertitre précédant l’article 493 de la version française de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 13
+
+### 13
+
+La même loi est modifiée par adjonction, après l’article 493, de ce qui suit :
+
+### — 2026, ch. 11, art. 14
+
+### 14
+
+La même loi est modifiée par adjonction, après l’article 493.1, de ce qui suit :
+
+### — 2026, ch. 11, art. 15
+
+### 15
+
+L’article 495.1 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 15.1
+
+### 15.1
+
+Le paragraphe 500(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 15.2
+
+### 15.2
+
+L’alinéa 501(1)c) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 16
+
+### 16
+
+Le paragraphe 502(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 17
+
+### 17
+
+Le passage du paragraphe 503(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 18
+
+### 18
+
+Le paragraphe 507(1) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+### — 2026, ch. 11, art. 19
+
+### 19
+
+L’alinéa 507.1(3)a) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 20
+
+### 20
+
+(1) Le paragraphe 508(1) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+(2) L’alinéa 508(1)b) de la même loi est modifié par adjonction, après le sous-alinéa (ii), de ce qui suit :
+
+### — 2026, ch. 11, art. 20.1
+
+### 20.1
+
+Le paragraphe 509(4) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 21
+
+### 21
+
+L’article 511 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+### — 2026, ch. 11, art. 22
+
+### 22
+
+L’article 512.3 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 23
+
+### 23
+
+(1) L’article 515 de la même loi est modifié par adjonction, après le paragraphe (2.03), de ce qui suit :
+
+(1.1) L’article 515 de la même loi est modifié par adjonction, après le paragraphe (2.1), de ce qui suit :
+
+(2) Le paragraphe 515(3) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+(3) Le paragraphe 515(4.1) de la même loi est remplacé par ce qui suit :
+
+(4) Le paragraphe 515(4.3) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+(5) L’alinéa 515(4.3)b) de la même loi est modifié par remplacement de « 264 » par « 264, 346 ».
+
+(6) L’article 515 de la même loi est modifié par adjonction, après le paragraphe (4.3), de ce qui suit :
+
+(7) Le passage du paragraphe 515(6) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(8) Le sous-alinéa 515(6)a)(iv) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+(9) L’alinéa 515(6)a) de la même loi est modifié par adjonction, après le sous-alinéa (viii), de ce qui suit :
+
+(10) L’alinéa 515(6)b.2) de la même loi est remplacé par ce qui suit :
+
+(11) L’alinéa 515(10)c) de la même loi est modifié par adjonction, après le sous-alinéa (iv), de ce qui suit :
+
+### — 2026, ch. 11, art. 24
+
+### 24
+
+L’article 516 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 25
+
+### 25
+
+(1) Le paragraphe 520(1) de la même loi est remplacé par ce qui suit :
+
+(2) L’alinéa 520(7)e) de la même loi est remplacé par ce qui suit :
+
+(3) Le paragraphe 520(8) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 26
+
+### 26
+
+(1) Le paragraphe 521(1) de la même loi est remplacé par ce qui suit :
+
+(2) L’alinéa 521(8)e) de la même loi est remplacé par ce qui suit :
+
+(3) Le paragraphe 521(9) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 27
+
+### 27
+
+(1) Le paragraphe 522(2) de la même loi est remplacé par ce qui suit :
+
+(2) L’article 522 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+### — 2026, ch. 11, art. 28
+
+### 28
+
+(1) Le paragraphe 523(1) de la même loi est remplacé par ce qui suit :
+
+(2) L’alinéa 523(2)a) de la même loi est remplacé par ce qui suit :
+
+(3) L’alinéa 523(2)c) de la même loi est remplacé par ce qui suit :
+
+(4) L’article 523 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+### — 2026, ch. 11, art. 29
+
+### 29
+
+(1) L’alinéa 524(2)b) de la même loi est remplacé par ce qui suit :
+
+(2) L’alinéa 524(3)b) de la même loi est remplacé par ce qui suit :
+
+(3) Le paragraphe 524(4) de la même loi est remplacé par ce qui suit :
+
+(4) L’article 524 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+(5) L’article 524 de la même loi est modifié par adjonction, après le paragraphe (6), de ce qui suit :
+
+(6) Les paragraphes 524(9) et (10) de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 11, art. 30
+
+### 30
+
+(1) L’article 525 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+(2) L’article 525 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+### — 2026, ch. 11, art. 31
+
+### 31
+
+Le passage du paragraphe 527(5) de la version anglaise de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 32
+
+### 32
+
+L’alinéa h.1) de la définition de **juge**, à l’article 552 de la même loi, est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 33
+
+### 33
+
+Le sous-alinéa 561(1)b)(ii) de la version française de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 34
+
+### 34
+
+Le paragraphe 672.5(13) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 34.1
+
+### 34.1
+
+Le passage du paragraphe 680(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 35
+
+### 35
+
+L’article 705 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+### — 2026, ch. 11, art. 36
+
+### 36
+
+La même loi est modifiée par adjonction, après l’article 705, de ce qui suit :
+
+### — 2026, ch. 11, art. 37
+
+### 37
+
+Le paragraphe 708(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 38
+
+### 38
+
+La même loi est modifiée par adjonction, après l’article 718.04, de ce qui suit :
+
+### — 2026, ch. 11, art. 39
+
+### 39
+
+(1) Le sous-alinéa 718.2a)(iii.2) de la même loi est remplacé par ce qui suit :
+
+(2) L’alinéa 718.2a) de la même loi est modifié par adjonction, après le sous-alinéa (vii), de ce qui suit :
+
+### — 2026, ch. 11, art. 40
+
+### 40
+
+L’alinéa 718.3(4)b) de la même loi est modifié par adjonction, après le sous-alinéa (iii), de ce qui suit :
+
+### — 2026, ch. 11, art. 41
+
+### 41
+
+L’article 734.5 de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+### — 2026, ch. 11, art. 42
+
+### 42
+
+La même loi est modifiée par adjonction, après l’article 734.5, de ce qui suit :
+
+### — 2026, ch. 11, art. 43
+
+### 43
+
+(1) L’alinéa 742.1c) de la même loi est modifié par adjonction, après le sous-alinéa (ii), de ce qui suit :
+
+(2) L’article 742.1 de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+### — 2026, ch. 11, art. 44
+
+### 44
+
+(1) L’alinéa 745.6(3)c) de la même loi est abrogé.
+
+(2) L’alinéa 745.6(3)e) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 45
+
+### 45
+
+(1) L’alinéa 812(1)c) de la même loi est remplacé par ce qui suit :
+
+(2) L’alinéa 812(1)g) de la même loi est abrogé.
+
+### — 2026, ch. 11, art. 46
+
+### 46
+
+Dans la colonne II de l’annexe de la partie XXV de la même loi, la mention « La Section de première instance de la Cour suprême », figurant en regard de la mention « Terre-Neuve-et-Labrador » dans la colonne I, est remplacée par la mention « La Cour suprême ».
+
+### — 2026, ch. 11, art. 47
+
+### 47
+
+Le paragraphe de la formule 6 de la partie XXVIII de la même loi commençant par « Si vous ne vous conformez pas » et se terminant par « (paragraphe 524(4) du *Code criminel*). » est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 48
+
+### 48
+
+Le paragraphe de la formule 6.2 de la partie XXVIII de la même loi commençant par « Si vous êtes en liberté provisoire » et se terminant par « (article 524 du *Code criminel*). » est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 49
+
+### 49
+
+Les alinéas d) et e) de la formule 8 de la partie XXVIII de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 11, art. 50
+
+### 50
+
+Le paragraphe de l’article 6 de la formule 9 de la partie XXVIII de la même loi commençant par « Si vous ne vous conformez pas » et se terminant par « (paragraphe 524(4) du *Code criminel*). » est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 51
+
+### 51
+
+(1) L’article 7 de la formule 10 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+(2) Le paragraphe de l’article 9 de la formule 10 de la partie XXVIII de la même loi commençant par « Si vous ne vous conformez pas » et se terminant par « (paragraphe 524(4) du *Code criminel*). » est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 52
+
+### 52
+
+La partie XXVIII de la même loi est modifiée par adjonction, après la formule 10, de ce qui suit :
+
+### — 2026, ch. 11, art. 53
+
+### 53
+
+Le paragraphe de l’article 8 de la formule 11 de la partie XXVIII de la même loi commençant par « Si vous ne vous conformez pas » et se terminant par « (paragraphe 524(4) du *Code criminel*). » est remplacé par ce qui suit :
+
+### — 2026, ch. 11, art. 54
+
+### 54
+
+La formule 12 de la partie XXVIII de la même loi est modifiée par adjonction, après l’article 7, de ce qui suit :
+
+### — 2026, ch. 11, art. 55
+
+### 55
+
+La partie XXVIII de la même loi est modifiée par adjonction, après la formule 29, de ce qui suit :
+
+### — 2026, ch. 11, art. 83
+
+### 83 Projet de loi C-9
+
+(1) Les paragraphes (2) à (6) s’appliquent en cas de sanction du projet de loi C-9, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à lutter contre la haine* (appelé « autre loi » au présent article).
+
+(2) Si le paragraphe 9(1) de l’autre loi entre en vigueur avant le paragraphe 23(3) de la présente loi, ce paragraphe 23(3) est modifié par remplacement des alinéas 515(4.1)h) à k) qui y sont édictés par ce qui suit :
+
+(3) Si le paragraphe 23(3) de la présente loi entre en vigueur avant le paragraphe 9(1) de l’autre loi, ce paragraphe 9(1) est remplacé par ce qui suit :
+
+(4) Si l’entrée en vigueur du paragraphe 9(1) de l’autre loi et celle du paragraphe 23(3) de la présente loi sont concomitantes, ce paragraphe 9(1) est réputé être entré en vigueur avant ce paragraphe 23(3), le paragraphe (2) s’appliquant en conséquence.
+
+(5) Si le paragraphe 23(5) de la présente loi entre en vigueur avant le paragraphe 9(2) de l’autre loi, ce paragraphe 9(2) est modifié par remplacement de l’alinéa 515(4.3)b) qui y est édicté par ce qui suit :
+
+(6) Si l’entrée en vigueur du paragraphe 9(2) de l’autre loi et celle du paragraphe 23(5) de la présente loi sont concomitantes, ce paragraphe 9(2) est réputé être entré en vigueur avant ce paragraphe 23(5).
+
+### — 2026, ch. 12, art. 1
+
+### 1
+
+L’article 231 du *Code criminel* est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+### — 2026, ch. 12, art. 1.1
+
+### 1.1
+
+L’article 236 de la même loi devient le paragraphe 236(1) et est modifié par adjonction de ce qui suit :
+
+### — 2026, ch. 12, art. 2
+
+### 2
+
+La même loi est modifiée par adjonction, après l’article 263, de ce qui suit :
+
+### — 2026, ch. 12, art. 3
+
+### 3
+
+Le passage du paragraphe 490(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 12, art. 4
+
+### 4
+
+L’alinéa 515(6)b.1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 12, art. 5
+
+### 5
+
+L’article 662 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+### — 2026, ch. 12, art. 6
+
+### 6
+
+L’alinéa b) de la définition de **sentence**, **peine** ou **condamnation**, à l’article 673 de la même loi, est remplacé par ce qui suit :
+
+### — 2026, ch. 12, art. 7
+
+### 7
+
+(1) Le paragraphe 675(2) de la même loi est remplacé par ce qui suit :
+
+(2) Le paragraphe 675(2.2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 12, art. 8
+
+### 8
+
+Le paragraphe 676(4) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 12, art. 9
+
+### 9
+
+Le paragraphe 718.3(8) de la même loi est abrogé.
+
+### — 2026, ch. 12, art. 10
+
+### 10
+
+La même loi est modifiée par adjonction, après l’article 726.1, de ce qui suit :
+
+### — 2026, ch. 12, art. 11
+
+### 11
+
+L’article 745 de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+### — 2026, ch. 12, art. 12
+
+### 12
+
+(1) Le passage de l’article 745.1 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(2) L’alinéa 745.1c) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 12, art. 13
+
+### 13
+
+La même loi est modifiée par adjonction, après l’article 745.51, de ce qui suit :
+
+### — 2026, ch. 12, art. 14
+
+### 14
+
+Le passage de l’article 746 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 12, art. 15
+
+### 15 Détermination de la peine — homicide involontaire coupable
+
+Le paragraphe 236(2) du *Code criminel* ne s’applique pas à l’égard d’une infraction commise avant le trentième jour suivant la date de sanction de la présente loi.
+
+### — 2026, ch. 12, art. 16
+
+### 16 Ordonnance de prolongation — paragraphe 490(2)
+
+Le paragraphe 490(2) du *Code criminel*, modifié par l’article 3, s’applique à l’égard de toute affaire ou procédure qui est en cours le trentième jour suivant la date de sanction de la présente loi.
+
+### — 2026, ch. 12, art. 17
+
+### 17 Dispositions de coordination avec le projet de loi C-16 — meurtre au premier degré
+
+(1) Le présent article s’applique en cas de sanction du projet de loi C-16, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à protéger les victimes* (appelé « autre loi » au présent article).
+
+(2) Si l’article 25 de l’autre loi entre en vigueur avant l’article 1 de la présente loi, cet article 1 est abrogé.
+
+(3) Si l’article 1 de la présente loi entre en vigueur avant l’article 25 de l’autre loi, à la date d’entrée en vigueur de cet article 25, le paragraphe 231(3.1) du *Code criminel* est abrogé.
+
+(4) Si l’entrée en vigueur de l’article 25 de l’autre loi et celle de l’article 1 de la présente loi sont concomitantes, cet article 1 est réputé ne pas être entré en vigueur et est abrogé.
+
+### — 2026, ch. 12, art. 18
+
+### 18 Dispositions de coordination avec le projet de loi C-16 — homicide involontaire coupable
+
+(1) *Le présent article s’applique en cas de sanction du projet de loi C-16, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à protéger les victimes* (appelé « autre loi » au présent article).*
+
+(2) Si l’article 26 de l’autre loi entre en vigueur avant l’article 1.1 de la présente loi, cet article 1.1 et l’article 15 de la présente loi sont abrogés.
+
+(3) Si l’article 1.1 de la présente loi entre en vigueur avant l’article 26 de l’autre loi :
+
+- a) à cet article 26, « L’article 236 de la même loi devient le paragraphe 236(1) et est modifié par adjonction de » est remplacé par « Le paragraphe 236(2) de la même loi est remplacé par »;
+
+- b) l’article 98 de l’autre loi est remplacé par ce qui suit :
+
+(4) Si l’entrée en vigueur de l’article 26 de l’autre loi et celle de l’article 1.1 de la présente loi sont concomitantes, cet article 1.1 et l’article 15 de la présente loi sont réputés ne pas être entrés en vigueur et sont abrogés.
+
+(5) Si l’article 55 de l’autre loi entre en vigueur avant l’article 6 de la présente loi, cet article 6 est abrogé.
+
+(6) Si l’article 6 de la présente loi entre en vigueur avant l’article 55 de l’autre loi, cet article 55 est abrogé.
+
+(7) Si l’entrée en vigueur de l’article 55 de l’autre loi et celle de l’article 6 de la présente loi sont concomitantes, cet article 6 est réputé ne pas être entré en vigueur et est abrogé.
+
+(8) Si l’article 56 de l’autre loi entre en vigueur avant l’article 7 de la présente loi, cet article 7 est abrogé.
+
+(9) Si l’entrée en vigueur de l’article 56 de l’autre loi et celle de l’article 7 de la présente loi sont concomitantes, cet article 7 est réputé ne pas être entré en vigueur et est abrogé.
+
+(10) Si l’article 57 de l’autre loi entre en vigueur avant l’article 8 de la présente loi, cet article 8 est abrogé.
+
+(11) Si l’entrée en vigueur de l’article 57 de l’autre loi et celle de l’article 8 de la présente loi sont concomitantes, cet article 8 est réputé ne pas être entré en vigueur et est abrogé.
+
+(12) Si l’article 72 de l’autre loi entre en vigueur avant l’article 11 de la présente loi, cet article 11 est abrogé.
+
+(13) Si l’article 11 de la présente loi entre en vigueur avant l’article 72 de l’autre loi, à cet article 72, « L’article 745 de la même loi est modifié par adjonction, après l’alinéa c), de » est remplacé par « L’alinéa 745c.1) de la même loi est remplacé par ».
+
+(14) Si l’entrée en vigueur de l’article 72 de l’autre loi et celle de l’article 11 de la présente loi sont concomitantes, cet article 11 est réputé ne pas être entré en vigueur et est abrogé.
+
+(15) Si l’article 73 de l’autre loi entre en vigueur avant l’article 12 de la présente loi, cet article 12 est abrogé.
+
+(16) Si l’entrée en vigueur de l’article 73 de l’autre loi et celle de l’article 12 de la présente loi sont concomitantes, cet article 12 est réputé ne pas être entré en vigueur et est abrogé.
+
+(17) Si l’article 74 de l’autre loi entre en vigueur avant l’article 13 de la présente loi, cet article 13 est abrogé.
+
+(18) Si l’article 13 de la présente loi entre en vigueur avant l’article 74 de l’autre loi, à cet article 74, « La même loi est modifiée par adjonction, après l’article 745.51, de » est remplacé par « L’article 745.52 de la même loi est remplacé par ».
+
+(19) Si l’entrée en vigueur de l’article 74 de l’autre loi et celle de l’article 13 de la présente loi sont concomitantes, cet article 13 est réputé ne pas être entré en vigueur et est abrogé.
+
+(20) Si l’article 75 de l’autre loi entre en vigueur avant l’article 14 de la présente loi, cet article 14 est abrogé.
+
+(21) Si l’article 14 de la présente loi entre en vigueur avant l’article 75 de l’autre loi, cet article 75 est abrogé.
+
+(22) Si l’entrée en vigueur de l’article 75 de l’autre loi et celle de l’article 14 de la présente loi sont concomitantes, cet article 14 est réputé ne pas être entré en vigueur et est abrogé.
+
+### — 2026, ch. 12, art. 19
+
+### 19 Dispositions de coordination avec le projet de loi C-16 — violence contre un partenaire intime
+
+(1) Le présent article s’applique en cas de sanction du projet de loi C-16, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à protéger les victimes* (appelé « autre loi » au présent article).
+
+(2) Dès le premier jour où le paragraphe 2(1) de l’autre loi et l’article 2 de la présente loi sont tous deux en vigueur, le paragraphe 3.01(2) du *Code criminel* est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+- b.1) le paragraphe 263.1(1);
+
+(3) Si le paragraphe 2(1) de l’autre loi entre en vigueur avant l’article 9 de la présente loi, à la date d’entrée en vigueur de cet article 9, l’alinéa 3.01(2)g) du *Code criminel* est abrogé.
+
+(4) Si l’article 9 de la présente loi entre en vigueur avant le paragraphe 2(1) de l’autre loi, ce paragraphe 2(1) est modifié par abrogation de l’alinéa 3.01(2)g) qui y est édicté.
+
+(5) Si l’entrée en vigueur du paragraphe 2(1) de l’autre loi et celle de l’article 9 de la présente loi sont concomitantes, cet article 9 est réputé être entré en vigueur avant ce paragraphe 2(1), le paragraphe (4) s’appliquant en conséquence.
+
+### — 2026, ch. 12, art. 20
+
+### 20 Dispositions de coordination avec le projet de loi C-16 — détention prolongée
+
+(1) Le présent article s’applique en cas de sanction du projet de loi C-16, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à protéger les victimes* (appelé « autre loi » au présent article).
+
+(2) Si l’article 44 de l’autre loi entre en vigueur avant l’article 3 de la présente loi, cet article 3 et l’article 16 de la présente loi sont abrogés.
+
+(3) Si l’article 3 de la présente loi entre en vigueur avant l’article 44 de l’autre loi, cet article 44 et l’article 104 de l’autre loi sont abrogés.
+
+(4) Si l’entrée en vigueur de l’article 44 de l’autre loi et celle de l’article 3 de la présente loi sont concomitantes, cet article 3 et l’article 16 de la présente loi sont réputés ne pas être entrés en vigueur et sont abrogés.

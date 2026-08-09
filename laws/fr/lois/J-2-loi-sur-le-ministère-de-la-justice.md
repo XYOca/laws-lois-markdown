@@ -111,6 +111,27 @@ Le ministre est le conseiller juridique officiel du gouverneur général et le j
 
 </details>
 
+### 4.3 Rapport annuel — mise en liberté provisoire par voie judiciaire
+
+(1) Chaque année, le ministre établit un rapport sur l’état du régime de mise en liberté provisoire par voie judiciaire au Canada et le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant le 1^er^ janvier.
+
+**Contenu**
+
+(2) Le rapport comprend :
+
+- a) des données sur les résultats relatifs à la mise en liberté provisoire par voie judiciaire, notamment en ce qui concerne l’observation des conditions de mise en liberté, la récidive chez les prévenus en liberté aux termes d’une ordonnance de mise en liberté, les taux de détention sous garde avant le procès et les incidents devant être portés à l’attention du public;
+
+- b) une analyse de l’efficacité des conditions de mise en liberté;
+
+- c) des données sur l’accessibilité de la mise en liberté provisoire par voie judiciaire et sur les disparités entre les groupes.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 11, art. 58.1
+
+</details>
+
 ## Pouvoirs et fonctions du procureur général
 
 ### 5 Attributions

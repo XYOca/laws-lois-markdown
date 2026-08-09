@@ -6425,15 +6425,17 @@ No person shall act as a flight crew member or exercise the privileges of a flig
     - (F) the schedule to section 724.108 of Standard 724 — *Commuter Operations — Helicopters*, in the case of helicopters operated under Subpart 4 of Part VII, or
     - (G) Schedule I, II or III to section 725.106 of Standard 725 — *Airline Operations — Aeroplanes*, in the case of aeroplanes operated under Subpart 5 of Part VII.
 
-(3.1) No holder of a Canadian pilot licence endorsed with an instrument rating or to which is attached instrument rating privileges shall exercise the privileges of the instrument rating unless, following the first day of the 13th month after the completion date of a test referred to in subsection (3) and within six months before the flight, the holder has
+(3.1) No holder of a pilot licence that is endorsed with an instrument rating or to which instrument rating privileges are attached shall exercise the privileges of the instrument rating unless, following the first day of the seventh month after the completion of a test or check referred to in subsection (3) and within six months before the flight, the holder has completed six instrument approaches in accordance with the minima specified in the instrument approach procedure
 
-- (a) acquired six hours of instrument time; and
+- (a) in an aircraft, in actual or simulated instrument meteorological conditions;
 
-- (b) completed six instrument approaches in an aircraft in actual or simulated instrument meteorological conditions, or in a Level B, C or D simulator or an approved flight training device configured for the same category as the aircraft
-  - (i) under the supervision of a person who holds the qualifications referred to in subsection 425.21(9) of Standard 425 — *Flight Training*, or
-  - (ii) while acting as a flight instructor conducting training in respect of the endorsement of a flight crew licence or permit with an instrument rating.
+- (b) in an aircraft, in actual or simulated instrument meteorological conditions, while acting as a flight instructor who is conducting training in respect of the endorsement of a flight crew licence with an instrument rating;
 
-(3.2) The holder of a Canadian pilot licence endorsed with an instrument rating or to which is attached instrument rating privileges shall retain a record of having met the applicable recency requirement set out in subsection (3) or (3.1) for three years.
+- (c) in a Level B, C or D full-flight simulator of the same group as the aircraft indicated on the pilot’s licence; or
+
+- (d) in a flight training device under the supervision of a person who holds the qualifications referred to in subsection 425.21(9) of the personnel licensing standards.
+
+(3.2) The holder of a pilot licence that is endorsed with an instrument rating or to which instrument rating privileges are attached shall retain a record of having met the applicable recency requirements set out in subsection (3) or (3.1) for three years.
 
 (4) No holder of a flight engineer licence shall exercise the privileges set out in section 401.37 unless
 
@@ -8326,11 +8328,7 @@ This Subpart applies to
 
 - (b) the day on which the medical examination for the issuance or renewal of the certificate is conducted.
 
-(8) The end of the validity period of a medical certificate that is renewed in accordance with subsection (1.1) is calculated from
-
-- (a) the day on which the preceding validity period ends if the medical examination for the renewal of the certificate is conducted within 90 days before the end of that validity period; or
-
-- (b) the first day of the month following the day on which the medical examination for the renewal of the certificate is conducted if the examination is conducted more than 90 days before the end of the preceding validity period.
+(8) The end of the validity period of a medical certificate that is renewed under subsection (1.1) is calculated from the first day of the month following the day on which the medical examination for the renewal of the certificate is conducted.
 
 (9) The Minister shall endorse a shorter validity period on a medical certificate if
 
@@ -8349,6 +8347,7 @@ This Subpart applies to
 
 - SOR/2007-229, s. 2; SOR/2008-140, s. 5; SOR/2014-15, s. 15
 - SOR/2019-201, s. 1
+- SOR/2025-241, s. 26
 
 </details>
 

@@ -12010,7 +12010,7 @@ Pour l’application des articles B.30.002 et B.30.003 :
 
 **arrêté d’urgence IVPD** L’*Arrêté d’urgence concernant l’importation, la vente et la publicité de drogues à utiliser relativement à la COVID-19*, pris le 16 septembre 2020 par la ministre et publié le 3 octobre 2020 dans la *Gazette du Canada*, Partie I; (**ISAD Interim Order**)
 
-**cesser** S’entend, à l’égard de la vente d’une drogue par le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue, du fait d’abandonner définitivement la vente de la drogue; (**discontinue**)
+**cesser** s’entend, à l’égard de la vente d’une drogue par le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue, du fait d’abandonner définitivement la vente de la drogue au Canada; (**discontinue**)
 
 **COVID-19** La maladie à coronavirus 2019; (**COVID-19**)
 
@@ -12054,6 +12054,8 @@ Pour l’application des articles B.30.002 et B.30.003 :
 
 **Liste D** Document intitulé *Liste de certaines drogues sans ordonnance pouvant être distribuées à titre d’échantillons* publié par le gouvernement du Canada sur son site Web, avec ses modifications successives; (**List D**)
 
+**Liste de drogues pour l’application des alinéas b) et c) de la définition de drogue au paragraphe C.01.014.8(1)** Le document intitulé *Liste de drogues pour l’application des alinéas b) et c) de la définition de **drogue** au paragraphe C.01.014.8(1) du Règlement sur les aliments et drogues*, avec ses modifications successives, publié par le gouvernement du Canada sur son site Web; (**List of Drugs for the Purposes of Paragraphs (b) and (c) of the Definition drug in Subsection C.01.014.8(1)**)
+
 **marque nominative** Dans le cas d’une drogue, le nom en français ou en anglais, avec ou sans le nom d’un fabricant, d’une personne morale, d’une société de personnes ou d’un particulier :
   - a) qui lui a été attribué par le fabricant;
   - b) sous lequel elle est vendue ou fait l’objet de publicité;
@@ -12072,6 +12074,8 @@ Pour l’application des articles B.30.002 et B.30.003 :
 **ordonnance** désigne un ordre délivré par un praticien, spécifiant une quantité donnée de quelque drogue ou mélange de drogues à dispenser à la personne nommée dans ladite ordonnance; (**prescription**)
 
 **parfum** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux ajouté à la drogue pour produire ou masquer une odeur; (**fragrance**)
+
+**pénurie** s’entend, à l’égard d’une drogue, d’une situation où le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue est incapable de répondre à la demande pour celle-ci au Canada; (**shortage**)
 
 **pharmacien** Personne qui :
   - a) d’une part, est autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien;
@@ -12152,6 +12156,7 @@ Pour l’application des articles B.30.002 et B.30.003 :
 - DORS/2021-46, art. 11(A)
 - DORS/2022-197, art. 8
 - DORS/2023-247, art. 1(F)
+- DORS/2026-96, art. 1
 
 </details>
 
@@ -12850,7 +12855,7 @@ Dans le cas où les renseignements visés au paragraphe C.01.014.1(2) ne sont pl
 
 ### C.01.014.7
 
-Le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue fournit au ministre, dans les trente jours suivant la cessation de la vente de cette drogue, les renseignements suivants :
+(1) Le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue fournit au ministre, dans les trente jours suivant la cessation de la vente de cette drogue, les renseignements suivants :
 
 - a) l’identification numérique attribuée à la drogue;
 
@@ -12858,21 +12863,25 @@ Le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.
 
 - c) la date limite d’utilisation la plus tardive attribuée à la drogue qu’il a vendue et le numéro de lot de celle-ci.
 
+(2) Le paragraphe (1) ne s’applique pas au produit de santé animale, à la **drogue destinée à l’étude** au sens de l’article C.03.301, ou à l’**aliment médicamenté** au sens du paragraphe 1(1) du *Règlement de 2024 sur les aliments du bétail*.
+
 <details>
 <summary>Historical Note</summary>
 
 - DORS/81-248, art. 2; DORS/2016-139, art. 5; DORS/2017-259, art. 8
+- DORS/2026-96, art. 2
 
 </details>
 
 ### C.01.014.71
 
-Si douze mois se sont écoulés depuis le jour où il a procédé à la dernière vente d’une **drogue** au sens de l’article C.01.014.8, le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue en avise le ministre par écrit dans les trente jours suivant la fin de cette période.
+Si douze mois se sont écoulés depuis le jour où il a procédé à la dernière vente d’une drogue au sens de l’alinéa a) de la définition de **drogue** au paragraphe C.01.014.8(1), le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue en avise le ministre par écrit dans les trente jours suivant la fin de cette période.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2017-259, art. 8
+- DORS/2026-96, art. 3
 
 </details>
 
@@ -12887,31 +12896,53 @@ S’il recommence à vendre la drogue après que douze mois se sont écoulés de
 
 </details>
 
+### C.01.014.73
+
+(1) Le ministre ne peut ajouter une drogue à la partie 1 de la Liste de drogues pour l’application des alinéas b) et c) de la définition de **drogue** au paragraphe C.01.014.8(1) que s’il a des motifs raisonnables de croire qu’une pénurie ou la cessation de la vente de la drogue, si elle survenait, pourrait présenter un risque de préjudice à la santé humaine.
+
+(2) Le ministre ne peut ajouter une catégorie de drogues à la partie 2 de la Liste de drogues pour l’application des alinéas b) et c) de la définition de **drogue** au paragraphe C.01.014.8(1) que s’il a des motifs raisonnables de croire qu’une pénurie ou la cessation de la vente de toute drogue appartenant à cette catégorie, si elle survenait, pourrait présenter un risque de préjudice à la santé humaine.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 4
+
+</details>
+
 ### C.01.014.8
 
-Les définitions qui suivent s’appliquent au présent article et aux articles C.01.014.9 à C.01.014.14.
+(1) Pour l’application des articles C.01.014.9 à C.01.014.95, à l’exception de l’article C.01.014.93, **drogue** s’entend des drogues ci-après auxquelles une identification numérique a été attribuée et n’a pas été annulée :
 
-**drogue** S’entend de l’une des drogues pour usage humain ci-après auxquelles une identification numérique a été attribuée :
-  - a) les drogues inscrites aux annexes I, II, III, IV ou V de la *Loi réglementant certaines drogues et autres substances*;
-  - b) les drogues sur ordonnance;
-  - c) les drogues visées aux annexes C ou D de la Loi;
-  - d) les drogues qui peuvent être vendues sans ordonnance mais à administrer uniquement sous la surveillance d’un praticien. (**drug**)
+- a) les drogues pour usage humain suivantes :
+  - (i) celles qui sont inscrites aux annexes I, II, III, IV ou V de la *Loi réglementant certaines drogues et autres substances*,
+  - (ii) celles qui sont des drogues sur ordonnance,
+  - (iii) celles qui sont visées aux annexes C ou D de la Loi,
+  - (iv) celles qui peuvent être vendues sans ordonnance mais qui sont à administrer uniquement sous la surveillance d’un praticien;
 
-**pénurie** S’entend, à l’égard d’une drogue, d’une situation où le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue est incapable de répondre à la demande pour cette drogue au Canada. (**shortage**)
+- b) les drogues figurant à la partie 1 de la Liste de drogues pour l’application des alinéas b) et c) de la définition de **drogue** au paragraphe C.01.014.8(1);
+
+- c) les drogues appartenant à une catégorie de drogues figurant à la partie 2 de cette liste.
+
+(2) Aux articles C.01.014.9 et C.01.014.91, **site Web désigné** s’entend :
+
+- a) si un hyperlien figure sur le site Web du gouvernement du Canada conformément à l’article C.01.014.92, du site Web tenu à jour aux termes d’un contrat conclu avec Sa Majesté du chef du Canada;
+
+- b) sinon, de la partie du site Web du gouvernement du Canada qui est présentée comme devant servir à afficher les renseignements visés aux articles C.01.014.9 et C.01.014.91.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2016-139, art. 5; DORS/2017-259, art. 8; DORS/2018-69, art. 17 et 40
 - DORS/2021-199, art. 1
+- DORS/2026-96, art. 4
 
 </details>
 
 ### C.01.014.9
 
-(1) S’il y a pénurie ou probabilité de pénurie d’une drogue, le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue affiche les renseignements ci-après, en français et en anglais, sur un site Web exploité à cette fin par un contractant avec lequel Sa Majesté du chef du Canada a conclu un contrat pour rendre cette information disponible au public :
+(1) Sous réserve du paragraphe (5), s’il y a pénurie ou probabilité de pénurie d’une drogue, le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue affiche les renseignements ci-après, en français et en anglais, sur le site Web désigné :
 
-- a) son nom, ainsi que ses numéro de téléphone, adresse électronique, adresse de site Web ou adresse postale ou tout autre renseignement permettant de communiquer avec lui;
+- a) ses nom et coordonnées;
 
 - b) l’identification numérique attribuée à la drogue;
 
@@ -12943,9 +12974,9 @@ Les définitions qui suivent s’appliquent au présent article et aux articles 
 
 - c) s’il n’a pas prévu la pénurie, dans les cinq jours qui suivent la date où il en constate l’existence.
 
-(3) Si les renseignements affichés changent, le fabricant les met à jour sur le site Web dans les deux jours suivant la date à laquelle il fait ou constate le changement.
+(3) Si les renseignements affichés changent, le fabricant les met à jour sur le site Web désigné dans les deux jours suivant la date à laquelle il fait ou constate le changement.
 
-(4) Dans les deux jours suivant la date à laquelle il est capable de répondre à la demande pour la drogue, le fabricant le signale sur le site Web.
+(4) Dans les deux jours suivant la date à laquelle il est capable de répondre à la demande pour la drogue, le fabricant le signale sur le site Web désigné.
 
 (5) Le présent article ne s’applique pas à l’égard de la pénurie d’une drogue qui résulte de la décision du fabricant d’en cesser la vente.
 
@@ -12954,14 +12985,15 @@ Les définitions qui suivent s’appliquent au présent article et aux articles 
 
 - DORS/2016-139, art. 5; DORS/2017-259, art. 9
 - DORS/2021-199, art. 2
+- DORS/2026-96, art. 5
 
 </details>
 
-### C.01.014.10
+### C.01.014.91
 
-(1) Si le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue décide de cesser la vente de la drogue, il affiche les renseignements ci-après, en français et en anglais, sur le site Web visé au paragraphe C.01.014.9(1) :
+(1) Si le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue décide de cesser la vente de la drogue, il affiche les renseignements ci-après, en français et en anglais, sur le site Web désigné :
 
-- a) son nom, ainsi que ses numéro de téléphone, adresse électronique, adresse de site Web ou adresse postale ou tout autre renseignement permettant de communiquer avec lui;
+- a) ses nom et coordonnées;
 
 - b) l’identification numérique attribuée à la drogue;
 
@@ -12985,54 +13017,62 @@ Les définitions qui suivent s’appliquent au présent article et aux articles 
 
 (2) Le fabricant affiche les renseignements :
 
-- a) s’il décide de cesser la vente de la drogue dans plus de six mois, au moins six mois avant la date de la cessation;
+- a) s’il décide de cesser la vente de la drogue dans plus de douze mois, au moins douze mois avant la date de la cessation;
 
-- b) s’il décide de cesser la vente de la drogue dans six mois ou moins, dans les cinq jours qui suivent la date à laquelle il prend cette décision.
+- b) s’il décide de cesser la vente de la drogue dans douze mois ou moins, dans les cinq jours qui suivent la date à laquelle il prend cette décision.
 
-(3) Si les renseignements affichés changent, le fabricant les met à jour sur le site Web dans les deux jours suivant la date à laquelle il fait ou constate le changement.
+(3) Si les renseignements affichés changent, le fabricant les met à jour sur le site Web désigné dans les cinq jours suivant la date à laquelle il fait ou constate le changement.
+
+(4) Il est entendu que le paragraphe (1) n’a pas pour effet de soustraire le fabricant à l’obligation de fournir des renseignements au ministre conformément à l’article C.01.014.7.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2016-139, art. 5; DORS/2017-259, art. 10
+- DORS/2026-96, art. 6
 
 </details>
 
-### C.01.014.11
+### C.01.014.92
 
-Le ministre veille à ce qu’un hyperlien menant au site Web visé au paragraphe C.01.014.9(1) figure sur le site Web du gouvernement du Canada.
+Si une personne tient à jour un site Web aux termes d’un contrat conclu avec Sa Majesté du chef du Canada pour afficher les renseignements visés aux articles C.01.014.9 et C.01.014.91, le ministre veille à ce qu’un hyperlien menant à ce site Web figure sur le site Web du gouvernement du Canada.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2016-139, art. 5; DORS/2017-259, art. 11
+- DORS/2026-96, art. 7
 
 </details>
 
-### C.01.014.12
+### C.01.014.93
 
-(1) Le ministre peut demander au fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue ou au titulaire d’une licence d’établissement concernant une drogue de lui fournir les renseignements qui relèvent du fabricant ou du titulaire s’il a des motifs raisonnables de croire que les conditions ci-après sont réunies :
+(1) Le ministre peut demander au fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue — ou au titulaire d’une licence d’établissement concernant une drogue à laquelle une identification numérique a été attribuée et n’a pas été annulée — de lui fournir les renseignements qui relèvent du fabricant ou du titulaire s’il a des motifs raisonnables de croire que les conditions ci-après sont réunies :
 
 - a) il y a pénurie ou risque de pénurie de la drogue;
+
+- a.1) une pénurie de la drogue, si elle survenait, pourrait présenter un risque de préjudice à la santé humaine;
 
 - b) les renseignements sont nécessaires afin d’établir ou d’évaluer, selon le cas :
   - (i) l’existence d’une pénurie ou d’un risque de pénurie de la drogue,
   - (ii) la raison d’une pénurie ou d’un risque de pénurie de la drogue,
   - (iii) les effets réels ou potentiels sur la santé humaine d’une pénurie de la drogue,
-  - (iv) les mesures qui pourraient être prises afin de prévenir ou d’atténuer une pénurie de la drogue;
+  - (iv) les mesures qui pourraient être prises afin de prévenir ou d’atténuer les risques de pénurie liés à la drogue,
+  - (v) les mesures qui pourraient être prises afin d’atténuer les répercussions d’une pénurie de la drogue;
 
 - c) le fabricant ou le titulaire ne fournira les renseignements que s’il est légalement tenu de le faire.
 
-(2) Le fabricant ou le titulaire transmet les renseignements au ministre par voie électronique, en la forme précisée ou jugée acceptable par ce dernier et dans le délai que celui-ci fixe.
+(2) Le fabricant ou le titulaire fournit les renseignements demandés au ministre selon les modalités — de temps ou autres — précisées par ce dernier.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 3
+- DORS/2026-96, art. 8
 
 </details>
 
-### C.01.014.13
+### C.01.014.94
 
 Le titulaire d’une licence d’établissement ne peut distribuer une drogue pour consommation ou usage à l’étranger, à moins qu’il n’ait des motifs raisonnables de croire que la distribution n’aura pas pour effet de causer ou d’aggraver une pénurie de la drogue.
 
@@ -13040,12 +13080,13 @@ Le titulaire d’une licence d’établissement ne peut distribuer une drogue po
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 3
+- DORS/2026-96, art. 9
 
 </details>
 
-### C.01.014.14
+### C.01.014.95
 
-(1) Le titulaire d’une licence d’établissement qui distribue une drogue pour consommation ou usage à l’étranger consigne immédiatement dans un dossier, de façon détaillée, les renseignements sur lesquels il s’est fondé pour conclure que la distribution n’est pas interdite par l’article C.01.014.13.
+(1) Le titulaire d’une licence d’établissement qui distribue une drogue pour consommation ou usage à l’étranger consigne immédiatement dans un dossier, de façon détaillée, les renseignements sur lesquels il s’est fondé pour conclure que la distribution n’est pas interdite par l’article C.01.014.94.
 
 (2) Le titulaire est tenu de conserver le dossier pendant au moins un an à compter de la date limite d’utilisation la plus tardive attribuée à la drogue qu’il a distribuée.
 
@@ -13053,6 +13094,7 @@ Le titulaire d’une licence d’établissement ne peut distribuer une drogue po
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 3
+- DORS/2026-96, art. 10
 
 </details>
 
@@ -13214,7 +13256,7 @@ L’article C.01.019 ne s’applique pas à l’égard des produits de santé an
 
 - b) la marque nominative, le nom propre ou le nom usuel de la drogue;
 
-- c) s’agissant d’une drogue importée en vertu du paragraphe C.10.001(2) ou de l’article C.10.006, tout code ou numéro d’identification qui lui est attribué dans le pays où sa vente a été autorisée;
+- c) s’agissant d’une drogue importée en vertu du paragraphe C.10.001(2) ou de l’article C.10.006 ou vendue en vertu du paragraphe C.10.007.1(1), tout code ou numéro d’identification qui lui a été attribué dans le pays où sa vente a été autorisée;
 
 - c.1) s’agissant d’une drogue dont la vente est autorisée en vertu du paragraphe C.11.003(1), son nom, son code, son numéro ou sa marque d’identification;
 
@@ -13257,6 +13299,7 @@ L’article C.01.019 ne s’applique pas à l’égard des produits de santé an
 - DORS/2019-190, art. 2
 - DORS/2021-199, art. 4
 - DORS/2023-18, art. 1
+- DORS/2026-96, art. 11
 
 </details>
 
@@ -20910,6 +20953,8 @@ Un produit de salicylate vendu sous forme de comprimé ou de capsule ou sous une
 
 ### Accès à des drogues — circonstances exceptionnelles
 
+#### Drogues pour besoins urgents en matière de santé publique
+
 ### C.10.001
 
 (1) Les définitions qui suivent s’appliquent au présent article et à l’article C.10.002.
@@ -20928,7 +20973,7 @@ Un produit de salicylate vendu sous forme de comprimé ou de capsule ou sous une
   - (i) de l’existence d’un besoin urgent en matière de santé publique pour un usage immédiat de la drogue dans le ressort du responsable,
   - (ii) de l’usage ou des fins auxquels la drogue est destinée;
 
-- b) la vente de la drogue est autorisée par une autorité réglementaire étrangère relevant des États-Unis, de la Suisse ou de l’Union européenne pour être utilisée pour le même usage ou aux mêmes fins que ceux visés au sous-alinéa a)(ii);
+- b) la vente de la drogue est autorisée par une autorité réglementaire étrangère relevant des États-Unis, du Royaume-Uni, de la Suisse ou de l’Union européenne pour être utilisée pour le même usage ou aux mêmes fins que ceux visés au sous-alinéa a)(ii);
 
 - c) la drogue fait partie de la même catégorie que celle visée par la licence;
 
@@ -20978,6 +21023,7 @@ Un produit de salicylate vendu sous forme de comprimé ou de capsule ou sous une
 - DORS/2017-133, art. 2
 - DORS/2023-18, art. 2
 - DORS/2024-238, art. 39
+- DORS/2026-96, art. 13
 
 </details>
 
@@ -21043,56 +21089,112 @@ Le titulaire qui importe une drogue en vertu du paragraphe C.10.001(2) en avise 
 
 </details>
 
+#### Drogues destinées aux importations et aux ventes exceptionnelles
+
 ### C.10.004
 
-(1) Les définitions qui suivent s’appliquent au présent article et aux articles C.10.005 à C.10.011.
+(1) Les définitions qui suivent s’appliquent au présent article et aux articles C.10.005 à C.10.013.
 
 **autorité réglementaire étrangère** S’entend au sens du paragraphe C.10.001(1). (**foreign regulatory authority**)
 
-**drogue** S’entend de l’une des drogues pour usage humain ci-après :
-  - a) les drogues inscrites aux annexes I, II, III, IV ou V de la *Loi réglementant certaines drogues et autres substances*;
-  - b) les drogues sur ordonnance;
-  - c) les drogues visées aux annexes C ou D de la Loi;
-  - d) les drogues qui peuvent être vendues sans ordonnance, mais à administrer uniquement sous la surveillance d’un praticien. (**drug**)
+**drogue**[Abrogée, DORS/2026-96, art. 15]
 
-**drogue désignée** Drogue figurant sur la *Liste des drogues destinées aux importations et aux ventes exceptionnelles*. (**designated drug**)
+**drogue désignée** Selon le cas :
+  - a) drogue figurant à la partie 1 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles;
+  - b) lot ou lot de fabrication d’une drogue figurant à la partie 2 de cette liste. (**designated drug**)
+
+**jour ouvrable** S’entend d’un jour autre que :
+  - a) le samedi;
+  - b) le dimanche ou un autre jour férié. (**business day**)
 
 **Liste des drogues destinées aux importations et aux ventes exceptionnelles** La *Liste des drogues destinées aux importations et aux ventes exceptionnelles*, avec ses modifications successives, publiée par le gouvernement du Canada sur son site Web. (**List of Drugs for Exceptional Importation and Sale**)
 
-(2) Aux articles C.10.006 et C.10.009, **bâtiment reconnu**, **certificat de lot**, **emballer-étiqueter**, **manufacturer** et **pays participant** s’entendent au sens du paragraphe C.01A.001(1).
+(2) Aux articles C.10.005 à C.10.013, **bâtiment reconnu**, **certificat de lot**, **emballer-étiqueter****, grossiste**, **importer**, **manufacturer** et **pays participant** s’entendent au sens du paragraphe C.01A.001(1).
+
+(3) Pour l’application du présent article et des articles C.10.006 et C.10.009 :
+
+- a) **spécifications** s’entend au sens de l’article C.02.002;
+
+- b) toute mention des spécifications vaut mention des spécifications auxquelles la drogue désignée doit être conforme dans le territoire relevant de la compétence de l’autorité réglementaire étrangère visée à l’alinéa C.10.006(1)b).
+
+(4) La définition de **date limite d’utilisation** au paragraphe C.01.001(1) ne s’applique pas à l’égard d’une drogue désignée visée au paragraphe C.10.007.4(1).
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 5
+- DORS/2026-96, art. 15
 
 </details>
 
 ### C.10.005
 
-(1) Le ministre ne peut ajouter une drogue à la *Liste des drogues destinées aux importations et aux ventes exceptionnelles* que s’il a des motifs raisonnables de croire que les conditions ci-après sont réunies :
+(1) Sous réserve du paragraphe (3), le ministre ne peut ajouter une drogue manufacturée à l’extérieur du Canada aux sous-parties 1 ou 2 de la partie 1 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles que si les conditions suivantes sont réunies :
 
-- a) il y a pénurie ou risque de pénurie d’une autre drogue à l’égard de laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01 ou à laquelle un numéro d’identification a été attribué en application du paragraphe C.01.014.2(1);
+- a) l’une ou l’autre des conditions ci-après s’applique à l’égard d’une autre drogue :
+  - (i) le ministre a des motifs raisonnables de croire qu’il y a pénurie ou risque de pénurie de l’autre drogue à laquelle une identification numérique a été attribuée en application du paragraphe C.01.014.2(1) et n’a pas été annulée,
+  - (ii) la vente de l’autre drogue a cessé;
 
-- b) la drogue qu’il envisage d’ajouter à cette liste peut remplacer la drogue visée à l’alinéa a).
+- b) le ministre a des motifs raisonnables de croire :
+  - (i) qu’une pénurie de l’autre drogue, si elle survenait — ou la cessation de la vente de celle-ci —, pourrait présenter un risque de préjudice à la santé humaine,
+  - (ii) que la drogue qu’il envisage d’ajouter à la liste peut remplacer l’autre drogue,
+  - (iii) que la vente de la drogue qu’il envisage d’ajouter à cette liste est autorisée par une autorité réglementaire étrangère sur le territoire relevant de sa compétence;
 
-(2) Au paragraphe (1), **pénurie** s’entend au sens de l’article C.01.014.8.
+- c) dans le cas visé au sous-alinéa a)(ii), la drogue qu’il envisage d’ajouter à cette liste est ajoutée au plus tard le jour qui suit de trente-six mois le jour de la cessation de la vente de l’autre drogue.
+
+(2) Sous réserve du paragraphe (3), le ministre ne peut ajouter un lot ou un lot de fabrication d’une drogue qui est manufacturé au Canada aux sous-parties 1 ou 2 de la partie 2 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles que si les conditions ci-après sont réunies :
+
+- a) l’une ou l’autre des conditions ci-après s’applique à l’égard d’une autre drogue :
+  - (i) le ministre a des motifs raisonnables de croire qu’il y a pénurie ou risque de pénurie de l’autre drogue à laquelle une identification numérique a été attribuée en application du paragraphe C.01.014.2(1) et n’a pas été annulée,
+  - (ii) la vente de l’autre drogue a cessé;
+
+- b) le ministre a des motifs raisonnables de croire :
+  - (i) qu’une pénurie de l’autre drogue, si elle survenait — ou la cessation de la vente de celle-ci —, pourrait présenter un risque de préjudice à la santé humaine,
+  - (ii) que le lot ou le lot de fabrication qu’il envisage d’ajouter à la liste répond aux conditions suivantes :
+    - (A) il peut remplacer l’autre drogue,
+    - (B) sa vente est autorisée par une autorité réglementaire étrangère sur le territoire relevant de sa compétence,
+    - (C) il est manufacturé pour consommation ou usage à l’étranger,
+    - (D) malgré le sous-alinéa (C), il n’est plus destiné à l’exportation.
+
+(3) Le ministre ne peut ajouter une drogue à la sous-partie 2 de la partie 1 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles — ou un lot ou un lot de fabrication d’une drogue à la sous-partie 2 de la partie 2 de cette liste que si les conditions ci-après sont réunies :
+
+- a) il s’agit d’une drogue pour usage humain;
+
+- b) la drogue n’est pas l’une des drogues suivantes :
+  - (i) les drogues figurant aux annexes I, II, III, IV ou V de la *Loi réglementant certaines drogues et autres substances*,
+  - (ii) les drogues sur ordonnance,
+  - (iii) les drogues visées aux annexes C ou D de la Loi,
+  - (iv) les drogues vendues sans ordonnance, mais à administrer uniquement sous la surveillance d’un praticien;
+
+- c) le ministre a des motifs raisonnables de croire que l’utilisation de la drogue peut causer un préjudice pour la santé humaine — ou poser un risque pour la santé publique — que la surveillance d’un praticien ou d’un pharmacien peut atténuer.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 5
+- DORS/2026-96, art. 16
+
+</details>
+
+### C.10.005.1
+
+Il est entendu que, dans le cas où un lot ou un lot de fabrication d’une drogue figure aux parties 1 ou 2 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles, les articles C.10.006 à C.10.013 ne s’appliquent qu’à l’égard de ce lot ou de ce lot de fabrication.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 16
 
 </details>
 
 ### C.10.006
 
-(1) Le titulaire d’une licence d’établissement autorisant l’importation d’une drogue peut importer une drogue désignée si les conditions ci-après sont réunies :
+(1) Malgré les articles A.01.040 et C.01.004.1, le titulaire d’une licence d’établissement autorisant l’importation d’une drogue peut importer une drogue désignée figurant à la partie 1 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles si les conditions ci-après sont réunies :
 
-- a) il fournit au ministre, par voie électronique, en la forme précisée ou jugée acceptable par celui-ci et au plus tard le troisième jour ouvrable précédant la date de l’importation de la drogue désignée, un avis contenant les renseignements suivants :
+- a) il fournit au ministre, selon les modalités précisées par celui-ci et au plus tard trois jours ouvrables avant la date de l’importation de la drogue, un avis contenant les renseignements suivants :
   - (i) ses nom et coordonnées,
-  - (ii) les nom et coordonnées de chaque manufacturier, emballeur-étiqueteur et analyste de la drogue désignée et l’adresse de chaque bâtiment où celle-ci est manufacturée, emballée-étiquetée ou analysée,
-  - (iii) à l’égard de la drogue désignée :
+  - (ii) les nom et coordonnées de chaque manufacturier, emballeur-étiqueteur et analyste de la drogue et l’adresse de chaque bâtiment où celle-ci est manufacturée, emballée-étiquetée ou analysée,
+  - (iii) à l’égard de la drogue :
     - (A) la marque nominative,
     - (B) les ingrédients médicinaux,
     - (C) la forme posologique,
@@ -21101,61 +21203,152 @@ Le titulaire qui importe une drogue en vertu du paragraphe C.10.001(2) en avise 
     - (F) tout code ou numéro d’identification qui lui est attribué dans le pays où sa vente est autorisée,
     - (G) une description détaillée de son mode d’emploi,
   - (iv) le point d’entrée prévu au Canada,
-  - (v) la date d’arrivée prévue de la cargaison de la drogue désignée,
-  - (vi) la quantité totale de la drogue désignée devant être importée à la date visée au sous-alinéa (v);
+  - (v) la date d’arrivée prévue de la cargaison de la drogue,
+  - (vi) la quantité totale de la drogue devant être importée à la date visée au sous-alinéa (v);
 
-- b) la vente de la drogue désignée est autorisée par une autorité réglementaire étrangère sur le territoire relevant de sa compétence;
+- b) il fournit au ministre une attestation, signée et datée par un individu ayant le pouvoir de lier le titulaire, qui confirme que celui-ci a en sa possession les spécifications établies à l’égard de la drogue ou qu’il a un accès direct à celles-ci;
 
-- c) la drogue désignée appartient à la même catégorie de drogues que celle pour laquelle la licence d’établissement a été délivrée;
+- c) la drogue appartient à la même catégorie de drogues que celle pour laquelle la licence d’établissement a été délivrée;
 
-- d) les renseignements ci-après concernant la drogue désignée figurent sur la *Liste des drogues destinées aux importations et aux ventes exceptionnelles* :
+- d) les renseignements ci-après concernant la drogue figurent à la partie 1 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles :
   - (i) le nom du titulaire,
   - (ii) les renseignements visés aux divisions a)(iii)(A) à (F),
-  - (iii) le nom de l’autorité réglementaire étrangère visée à l’alinéa b),
-  - (iv) la date après laquelle elle ne peut plus être importée;
+  - (iii) le nom de l’autorité réglementaire étrangère visée au sous-alinéa C.10.005(1)b)(iii),
+  - (iv) la limite maximale de la quantité totale de la drogue que le titulaire peut importer, le cas échéant,
+  - (v) la date après laquelle la drogue ne peut plus être importée, le cas échéant,
+  - (vi) le numéro du lot ou du lot de fabrication de la drogue, le cas échéant;
 
-- e) le numéro de lot de la drogue désignée figure sur la liste visée à l’alinéa d), le cas échéant;
+- e) [Abrogé, DORS/2026-96, art. 17]
 
-- f) la quantité totale de la drogue désignée que le titulaire importe n’excède pas la limite maximale figurant sur la liste visée à l’alinéa d) à l’égard de cette drogue, le cas échéant;
+- f) la quantité totale de la drogue que le titulaire importe n’excède pas la limite maximale visée au sous-alinéa d)(iv), le cas échéant;
 
-- g) la drogue désignée est importée à la date visée au sous-alinéa d)(iv) ou avant cette date;
+- g) la drogue est importée à la date visée au sous-alinéa d)(v) ou avant cette date, le cas échéant;
 
 - h) le titulaire a établi un plan qui prévoit les mesures envisagées pour se conformer aux exigences de l’article C.10.011.
 
-(2) Au paragraphe (1), **jour ouvrable** désigne un jour autre que :
-
-- a) le samedi;
-
-- b) le dimanche ou un autre jour férié.
+(2) [Abrogé, DORS/2026-96, art. 17]
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 5
+- DORS/2026-96, art. 17
+- DORS/2026-96, art. 25
 
 </details>
 
 ### C.10.007
 
-Les articles A.01.040, A.01.044 et C.01.004.1 ne s’appliquent pas à l’égard de l’importation d’une drogue désignée, en vertu de l’article C.10.006, par le titulaire d’une licence d’établissement.
+L’article A.01.044 ne s’applique pas à l’égard de l’importation d’une drogue désignée effectuée en vertu de l’article C.10.006.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 5
+- DORS/2026-96, art. 18
+
+</details>
+
+### C.10.007.1
+
+(1) Malgré les articles C.01.003, C.01.014 et C.08.002 et sous réserve des paragraphes (3), (4) et (6), le titulaire d’une licence d’établissement peut vendre une drogue désignée figurant à la partie 2 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles pour consommation ou usage au Canada si les conditions visées au paragraphe (2) sont réunies et si, selon le cas :
+
+- a) il est le distributeur de la drogue pour consommation ou usage à l’étranger;
+
+- b) il est un grossiste d’une drogue.
+
+(2) Les conditions sont les suivantes :
+
+- a) le titulaire fournit au ministre, selon les modalités précisées par celui-ci et au plus tard trois jours ouvrables avant la date à laquelle il commence à vendre la drogue désignée pour consommation ou usage au Canada, un avis contenant les renseignements suivants :
+  - (i) ses nom et coordonnées,
+  - (ii) les nom et coordonnées de chaque manufacturier, emballeur-étiqueteur et analyste de la drogue et l’adresse de chaque bâtiment où celle-ci est manufacturée, emballée-étiquetée ou analysée,
+  - (iii) à l’égard de la drogue :
+    - (A) sa marque nominative,
+    - (B) ses ingrédients médicinaux,
+    - (C) sa forme posologique,
+    - (D) sa concentration,
+    - (E) sa voie d’administration,
+    - (F) tout code ou numéro d’identification qui lui est attribué dans le pays où sa vente est autorisée,
+    - (G) une description détaillée de son mode d’emploi;
+
+- b) s’agissant d’un titulaire qui remplit la condition prévue à l’alinéa (1)b), si la drogue désignée est visée à l’un des alinéas a), c) et d) de la définition de **grossiste** au paragraphe C.01A.001(1), elle fait partie de la même catégorie que celle pour laquelle la licence d’établissement a été délivrée;
+
+- c) les renseignements ci-après concernant la drogue désignée figurent à la partie 2 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles :
+  - (i) le nom du titulaire,
+  - (ii) les renseignements visés aux divisions a)(iii)(A) à (F),
+  - (iii) le nom de l’autorité réglementaire étrangère visée à la division C.10.005(2)b)(ii)(B),
+  - (iv) la limite maximale de la quantité totale de la drogue que le titulaire peut vendre, le cas échéant,
+  - (v) la date après laquelle le titulaire ne peut plus vendre la drogue, le cas échéant,
+  - (vi) le numéro du lot ou du lot de fabrication de la drogue;
+
+- d) le titulaire veille à ce que les renseignements visés à la division a)(iii)(G) soient disponibles en français et en anglais de façon à permettre l’utilisation sécuritaire de la drogue désignée;
+
+- e) le titulaire a établi un plan qui prévoit les mesures envisagées pour se conformer aux exigences de l’alinéa d).
+
+(3) Le titulaire ne peut vendre, au total, la drogue désignée en une quantité qui excède la limite maximale visée au sous-alinéa (2)c)(iv), le cas échéant.
+
+(4) Le titulaire ne peut vendre la drogue désignée après la date visée au sous-alinéa (2)c)(v), le cas échéant.
+
+(5) Le titulaire veille à ce que les renseignements visés à la division (2)a)(iii)(G) soient disponibles conformément à l’alinéa (2)d) au moins jusqu’à la date limite d’utilisation la plus tardive attribuée à la drogue désignée qu’il a vendue.
+
+(6) Le présent article ne s’applique pas — à l’égard de la drogue désignée ayant été vendue par le titulaire en application du paragraphe (1) — à un autre titulaire d’une licence d’établissement qui vend la drogue.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 18
+
+</details>
+
+### C.10.007.2
+
+Malgré les articles C.01.003, C.01.014 et C.08.002, le manufacturier d’une drogue désignée qui n’est ni le distributeur de la drogue pour consommation ou usage à l’étranger ni un grossiste d’une drogue ne peut la vendre pour consommation ou usage au Canada qu’à ce distributeur ou à un tel grossiste.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 18
+
+</details>
+
+### C.10.007.3
+
+L’alinéa C.02.018(3)c) ne s’applique pas au titulaire d’une licence d’établissement à l’égard d’une drogue désignée qu’il vend en vertu du paragraphe C.10.007.1(1) ou de l’article C.10.007.2.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 18
+
+</details>
+
+### C.10.007.4
+
+(1) Sous réserve du paragraphe (2), les articles C.10.008 à C.10.013 s’appliquent à l’égard des drogues désignées suivantes :
+
+- a) celles qui sont importées en vertu de l’article C.10.006;
+
+- b) celles qui sont vendues en vertu du paragraphe C.10.007.1(1) ou de l’article C.10.007.2.
+
+(2) Les articles C.10.009 et C.10.010 ne s’appliquent pas à l’égard de la drogue désignée visée à l’alinéa (1)b).
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 18
 
 </details>
 
 ### C.10.008
 
-(1) Sous réserve des articles C.10.009 et C.10.010, la vente d’une drogue désignée qui est importée en vertu de l’article C.10.006 est exemptée de l’application des dispositions suivantes :
+(1) Sous réserve du paragraphe (3) et des articles C.10.007.3, C.10.009, C.10.010 et C.10.010.2, la vente d’une drogue désignée est exemptée de l’application des dispositions suivantes :
 
-- a) les articles A.01.015, A.01.017 et A.01.051;
+- a) les articles A.01.014 à A.01.017 et A.01.051;
 
 - b) les dispositions de la partie C, à l’exception :
-  - (i) des articles C.01.016, C.01.017, C.01.019 à C.01.020.1, C.01.040.3 à C.01.049.1 et C.01.051,
+  - (i) des articles C.01.016, C.01.017, C.01.019 à C.01.020.1 et C.01.040.3 à C.01.051.1,
   - (ii) des dispositions des titres 1A et 2,
-  - (iii) du présent article et des articles C.10.009 à C.10.011.
+  - (iii) des articles C.10.007.1 à C.10.013.
 
 (2) Pour l’application de l’article C.01.016, il est entendu que le fabricant d’une drogue désignée n’est tenu de se conformer qu’aux exigences prévues aux articles C.01.017 et C.01.019 à l’égard de la drogue.
 
@@ -21165,22 +21358,24 @@ Les articles A.01.040, A.01.044 et C.01.004.1 ne s’appliquent pas à l’égar
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 5
+- DORS/2026-96, art. 19
 
 </details>
 
 ### C.10.009
 
-(1) L’article C.02.019 ne s’applique pas au titulaire d’une licence d’établissement à l’égard d’une drogue désignée qu’il importe en vertu de l’article C.10.006.
+(1) Le présent article s’applique — mais l’alinéa C.02.018(3)c) et l’article C.02.019 ne s’appliquent pas — au titulaire d’une licence d’établissement à l’égard d’une drogue désignée qu’il importe en vertu de l’article C.10.006.
 
 (2) Le titulaire fait l’analyse du produit fini sur un échantillon de la drogue désignée prélevé :
 
 - a) soit après la réception de chaque lot ou lot de fabrication de la drogue désignée dans ses locaux au Canada;
 
 - b) soit avant la réception de chaque lot ou lot de fabrication de la drogue désignée dans ses locaux au Canada, si les conditions ci-après sont réunies :
-  - (i) il établit, à la satisfaction du ministre, que les lots ou les lots de fabrication de la drogue désignée qui lui ont été vendus par le vendeur du lot ou du lot de fabrication ont été fabriqués d’une façon constante selon les spécifications établies pour cette drogue et qu’ils y sont conformes de manière constante,
+  - (i) il a des preuves, que le ministre juge satisfaisantes dans l’intérêt de la santé du consommateur ou de l’acheteur, établissant que les lots ou les lots de fabrication de la drogue désignée qui lui ont été vendus par le vendeur du lot ou du lot de fabrication ont été fabriqués d’une façon constante selon les spécifications établies à l’égard de cette drogue et qu’ils y sont conformes de manière constante,
+  - (i.1) il effectue des analyses de vérification complètes à une fréquence que le ministre juge satisfaisante dans l’intérêt de la santé du consommateur ou de l’acheteur,
   - (ii) la drogue désignée n’a pas été transportée ou entreposée dans des conditions pouvant faire en sorte qu’elle ne soit plus conforme aux spécifications établies à son égard.
 
-(3) Toute mention des spécifications au paragraphe (2) vaut mention des spécifications auxquelles la drogue désignée doit être conforme dans le territoire relevant de la compétence de l’autorité réglementaire étrangère visée à l’alinéa C.10.006(1)b).
+(3) Le titulaire est tenu d’avoir en sa possession les spécifications établies à l’égard de la drogue désignée ou d’avoir un accès direct à celles-ci au moins jusqu’à la date limite d’utilisation la plus tardive attribuée à celle-ci.
 
 (4) Chaque lot ou lot de fabrication d’une drogue désignée que le titulaire reçoit dans ses locaux au Canada doit, lorsque la période de vie utile de cette drogue est de plus de trente jours, faire l’objet d’une inspection visuelle par celui-ci pour confirmer l’identité du produit.
 
@@ -21190,12 +21385,13 @@ Les articles A.01.040, A.01.044 et C.01.004.1 ne s’appliquent pas à l’égar
 
 - b) le titulaire conserve une copie du certificat de lot qu’il reçoit pour chaque lot ou lot de fabrication de la drogue désignée pendant au moins un an après la date limite d’utilisation du lot ou du lot de fabrication.
 
-(6) Au présent article, **spécifications** s’entend au sens de l’article C.02.002.
+(6) [Abrogé, DORS/2026-96, art. 20]
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 5
+- DORS/2026-96, art. 20
 
 </details>
 
@@ -21205,12 +21401,73 @@ Les articles A.01.040, A.01.044 et C.01.004.1 ne s’appliquent pas à l’égar
 
 (2) Le ministre peut demander au titulaire de lui fournir les dossiers visés aux alinéas C.02.020(1)a), b) et d) à l’égard de la drogue désignée.
 
-(3) Le titulaire transmet les dossiers au ministre par voie électronique, en la forme précisée ou jugée acceptable par ce dernier et dans le délai que celui-ci fixe.
+(3) Le titulaire fournit les dossiers au ministre selon les modalités — de temps ou autres — précisées par celui-ci.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 5
+- DORS/2026-96, art. 21
+
+</details>
+
+### C.10.010.1
+
+Le titulaire d’une licence d’établissement qui importe une drogue désignée en vertu de l’article C.10.006 — ou le titulaire d’une licence d’établissement qui vend une drogue désignée en vertu du paragraphe C.10.007.1(1) mais qui n’en est pas le fabricant — dans les quinze jours après avoir reçu communication de renseignements concernant toute réaction indésirable grave à la drogue, ou après en avoir pris connaissance, selon la première des deux éventualités à survenir, présente au ministre un rapport faisant état de ces renseignements, selon les modalités précisées par celui-ci, dans les cas suivants :
+
+- a) il s’agit d’une réaction indésirable grave survenue au Canada;
+
+- b) il s’agit d’une réaction indésirable grave et imprévue survenue à l’étranger.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 22
+
+</details>
+
+### C.10.010.2
+
+(1) Malgré le paragraphe C.01.050(4), l’article C.01.050 s’applique — à l’égard d’une drogue désignée — au titulaire d’une licence d’établissement qui importe la drogue en vertu de l’article C.10.006 ou au titulaire d’une licence d’établissement qui vend la drogue en vertu du paragraphe C.10.007.1(1), avec les adaptations nécessaires.
+
+(2) Toute mention d’une autorité réglementaire étrangère à l’alinéa applicable du paragraphe C.01.050(2) comprend celle de l’autorité réglementaire étrangère visée aux sous-alinéas C.10.006(1)d)(iii) ou C.10.007.1(2)c)(iii), selon le cas, si cette dernière n’est pas mentionnée dans l’une des parties A à C de la *Liste des autorités réglementaires étrangères pour l’application de l’article C.01.050 du Règlement sur les aliments et drogues*, publiée par le gouvernement du Canada sur son site Web, avec ses modifications successives.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 22
+
+</details>
+
+### C.10.010.3
+
+La drogue continue d’être considérée comme une drogue désignée pour l’application des articles C.10.010.1, C.10.010.2 et C.10.011 jusqu’à la date visée au paragraphe C.10.011(2) si elle est supprimée de la Liste des drogues destinées aux importations et aux ventes exceptionnelles avant cette date.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 22
+
+</details>
+
+### C.10.010.4
+
+(1) Il est interdit de vendre au détail une drogue désignée qui figure à la sous-partie 1 des parties 1 ou 2 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles à moins que les renseignements visés à la division C.10.006(1)a)(iii)(G) soient mis à la disposition de l’acheteur ou du consommateur en français et en anglais de l’une des façons suivantes :
+
+- a) ils accompagnent la drogue;
+
+- b) ils sont fournis par écrit à l’acheteur ou au consommateur au moment de la vente;
+
+- c) dans le cas où la drogue est accessible au public en libre-service, ils sont placés tout près de la drogue de façon à permettre à l’acheteur ou au consommateur d’en prendre un exemplaire.
+
+(2) Pour l’application du paragraphe (1), les versions française et anglaise des renseignements visés à la division C.10.006(1)a)(iii)(G) n’ont pas à être disponibles de la même façon.
+
+(3) Le paragraphe (1) ne s’applique pas à la vente d’une drogue désignée qui figure à la sous-partie 1 des parties 1 ou 2 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles par un pharmacien, conformément à une ordonnance, ou par un praticien.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 22
 
 </details>
 
@@ -21218,12 +21475,152 @@ Les articles A.01.040, A.01.044 et C.01.004.1 ne s’appliquent pas à l’égar
 
 (1) Le titulaire d’une licence d’établissement ne peut vendre une drogue désignée qu’il a importée en vertu de l’article C.10.006 à moins de veiller à ce que les renseignements visés à la division C.10.006(1)a)(iii)(G) soient disponibles en français et en anglais de façon à permettre l’utilisation sécuritaire de la drogue.
 
-(2) Le titulaire veille à ce que les renseignements soient disponibles conformément au paragraphe (1) au moins jusqu’à la fin de la journée à la date limite d’utilisation la plus tardive attribuée à la drogue désignée qu’il a importée.
+(2) Le titulaire veille à ce que les renseignements soient disponibles conformément au paragraphe (1) au moins jusqu’à la date limite d’utilisation la plus tardive attribuée à la drogue désignée qu’il a importée.
 
 <details>
 <summary>Historical Note</summary>
 
 - DORS/2021-199, art. 5
+- DORS/2026-96, art. 23
+
+</details>
+
+### C.10.012
+
+Le titulaire d’une licence d’établissement concernant une drogue ne peut vendre une drogue désignée figurant à la sous-partie 2 des parties 1 ou 2 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles qu’à un praticien, à un pharmacien, à un **hôpital** au sens du paragraphe C.01.020.1(4) ou à tout autre titulaire d’une licence d’établissement concernant une drogue.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
+
+</details>
+
+### C.10.013
+
+Le pharmacien ou toute personne travaillant sous la supervision de celui-ci ne peut vendre au détail une drogue désignée figurant à la sous-partie 2 des parties 1 ou 2 de la Liste des drogues destinées aux importations et aux ventes exceptionnelles que si la drogue n’est pas accessible au public en libre-service.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
+
+</details>
+
+#### Date limite d’utilisation reportée
+
+### C.10.014
+
+Les définitions qui suivent s’appliquent au présent article et aux articles C.10.015 à C.10.021.
+
+**date limite d’utilisation reportée** S’entend, à l’égard d’un lot ou lot de fabrication inscrit, de la date figurant à la colonne 2 de la Liste des drogues dont la date limite d’utilisation est reportée. (**extended expiration date**)
+
+**Liste des drogues dont la date limite d’utilisation est reportée** Le document intitulé *Liste des drogues dont la date limite d’utilisation est reportée*, avec ses modifications successives, publié par le gouvernement du Canada sur son site Web. (**List of Drugs with Extended Expiration Dates**)
+
+**lot ou lot de fabrication inscrit** Lot ou lot de fabrication d’une drogue figurant à la colonne 1 de la Liste des drogues dont la date limite d’utilisation est reportée. (**specified lot or batch**)
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
+
+</details>
+
+### C.10.015
+
+(1) Le ministre ne peut ajouter un lot ou un lot de fabrication d’une drogue à la colonne 1 de la Liste des drogues dont la date limite d’utilisation est reportée et une date à la colonne 2 de la liste à l’égard de ce lot ou lot de fabrication que si les conditions suivantes sont réunies :
+
+- a) une identification numérique a été attribuée à la drogue en application du paragraphe C.01.014.2(1) et n’a pas été annulée;
+
+- b) il a des motifs raisonnables de croire :
+  - (i) qu’il y a pénurie ou risque de pénurie de la drogue,
+  - (ii) qu’une pénurie de la drogue, si elle survenait, pourrait présenter un risque de préjudice à la santé humaine,
+  - (iii) que le lot ou le lot de fabrication de la drogue demeurera conforme aux spécifications établies à l’égard de celle-ci au moins jusqu’à la date qu’il envisage d’ajouter à la colonne 2.
+
+(2) Au paragraphe (1), **spécifications** s’entend au sens de l’article C.02.002.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
+
+</details>
+
+### C.10.016
+
+Les articles C.10.017 à C.10.021 s’appliquent à l’égard d’un lot ou lot de fabrication inscrit et à l’égard de la date limite reportée lorsque les renseignements ci-après figurent également sur la Liste des drogues dont la date limite d’utilisation est reportée :
+
+- a) la marque nominative de la drogue;
+
+- b) l’identification numérique attribuée à la drogue;
+
+- c) le nom du fabricant de la drogue;
+
+- d) la date limite d’utilisation du lot ou du lot de fabrication;
+
+- e) la date à laquelle le ministre a ajouté le lot ou le lot de fabrication à cette liste.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
+
+</details>
+
+### C.10.017
+
+Malgré la définition de **date limite d’utilisation** au paragraphe C.01.001(1), toute mention de la date limite d’utilisation aux dispositions de la présente partie — à l’exception de l’alinéa C.10.016d) — vaut mention, à l’égard d’un lot ou lot de fabrication inscrit, de la date limite d’utilisation reportée.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
+
+</details>
+
+### C.10.018
+
+Les sous-alinéas C.01.004(1)c)(v) et (3)b)(vii), l’alinéa C.04.009(2)e) et le sous-alinéa C.04.009(6)a)(ix) ne s’appliquent pas à l’égard d’un lot ou lot de fabrication inscrit.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
+
+</details>
+
+### C.10.019
+
+Les articles C.01.014 et C.08.003 ne s’appliquent pas à l’égard d’un lot ou lot de fabrication inscrit si la date limite d’utilisation reportée est le seul changement à l’égard du lot ou du lot de fabrication qui se rapporte aux renseignements déjà présentés au ministre relativement à la drogue.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
+
+</details>
+
+### C.10.020
+
+(1) Dans les cinq jours suivant la date à laquelle le lot ou lot de fabrication inscrit est ajouté à la Liste des drogues dont la date limite d’utilisation est reportée, le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue avise le titulaire d’une licence d’établissement à qui il a vendu le lot ou le lot de fabrication de la date limite d’utilisation reportée.
+
+(2) Le titulaire d’une licence d’établissement qui a vendu le lot ou lot de fabrication inscrit et qui a été avisé de la date limite d’utilisation reportée en avise toute autre personne à qui il a vendu le lot ou le lot de fabrication, dans les cinq jours suivant la date de l’avis.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
+
+</details>
+
+### C.10.021
+
+Il est interdit de vendre un lot ou lot de fabrication inscrit après sa date limite d’utilisation reportée.
+
+<details>
+<summary>Historical Note</summary>
+
+- DORS/2026-96, art. 24
 
 </details>
 
@@ -28237,7 +28634,7 @@ Malgré le présent règlement, la vodka peut être vendue, jusqu’au 13 décem
 
 - c) le ministre délivre, relativement à la présentation ou au supplément, un avis au fabricant en vertu de l’alinéa C.08.004(3)b) de ce règlement.
 
-### — DORS/2021-45, art. 20 modifié par DORS/2024-244, art. 43
+### — DORS/2021-45, art. 20 modifié par DORS/2024-244, art. 43, DORS/2026-96, art. 42
 
 ### 20
 
@@ -28245,7 +28642,7 @@ Le *Règlement sur les aliments et drogues* — à l’exception des disposition
 
 - a) les articles A.01.014, A.01.015, A.01.022 à A.01.043, A.01.050, A.01.051 et A.01.060.1 à A.01.068;
 
-- b) les articles C.01.004 à C.01.011, C.01.014.9, C.01.014.10, C.01.017 et C.01.019, le paragraphe C.01.020(1) et les articles C.01.020.1, C.01.040.3 à C.01.053, C.01.064 à C.01.069 et C.01.401;
+- b) les articles C.01.004 à C.01.011, C.01.014.9, C.01.014.91, C.01.017 et C.01.019, le paragraphe C.01.020(1) et les articles C.01.020.1, C.01.040.3 à C.01.053, C.01.064 à C.01.069 et C.01.401;
 
 - c) les dispositions du titre 1A et du titre 2 de la partie C;
 
@@ -28912,205 +29309,3 @@ L’article 6 du tableau II de l’article C.01A.008 du même règlement est rem
 (1) Le passage de l’article C.09.001 de la version française du même règlement précédant l’alinéa a) est remplacé par ce qui suit :
 
 (2) Les alinéas C.09.001a) et b) du même règlement sont remplacés par ce qui suit :
-
-### — DORS/2026-96, art. 1
-
-### 1
-
-(1) La définition de **cesser**, au paragraphe C.01.001(1) du *Règlement sur les aliments et drogues*[^], est remplacée par ce qui suit :
-
-(2) Le paragraphe C.01.001(1) du même règlement est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
-
-### — DORS/2026-96, art. 2
-
-### 2
-
-L’article C.01.014.7 du même règlement devient le paragraphe C.01.014.7(1) et est modifié par adjonction de ce qui suit :
-
-### — DORS/2026-96, art. 3
-
-### 3
-
-L’article C.01.014.71 du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 4
-
-### 4
-
-L’article C.01.014.8 du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 5
-
-### 5
-
-(1) Le passage du paragraphe C.01.014.9(1) du même règlement précédant l’alinéa b) est remplacé par ce qui suit :
-
-(2) L’alinéa C.01.014.9(2)b) de la version anglaise du même règlement est remplacé par ce qui suit :
-
-(3) Les paragraphes C.01.014.9(3) et (4) du même règlement sont remplacés par ce qui suit :
-
-### — DORS/2026-96, art. 6
-
-### 6
-
-(1) Le passage du paragraphe C.01.014.10(1) du même règlement précédant l’alinéa b) est remplacé par ce qui suit :
-
-(2) Les alinéas C.01.014.91(2)a) et b) du même règlement sont remplacés par ce qui suit :
-
-(3) Le paragraphe C.01.014.91(3) du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 7
-
-### 7
-
-L’article C.01.014.11 du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 8
-
-### 8
-
-(1) Le passage du paragraphe C.01.014.12(1) du même règlement précédant l’alinéa a) est remplacé par ce qui suit :
-
-(2) Le paragraphe C.01.014.93(1) du même règlement est modifié par adjonction, après l’alinéa a), de ce qui suit :
-
-(3) Le sous-alinéa C.01.014.93(1)b)(iv) du même règlement est remplacé par ce qui suit :
-
-(4) Le paragraphe C.01.014.93(2) du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 9
-
-### 9
-
-L’article C.01.014.13 du même règlement devient l’article C.01.014.94.
-
-### — DORS/2026-96, art. 10
-
-### 10
-
-Le paragraphe C.01.014.14(1) du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 11
-
-### 11
-
-L’alinéa C.01.020.1(2)c) du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 12
-
-### 12
-
-Le même règlement est modifié par adjonction, avant l’article C.10.001, de ce qui suit :
-
-### — DORS/2026-96, art. 13
-
-### 13
-
-L’alinéa C.10.001(2)b) du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 14
-
-### 14
-
-Le même règlement est modifié par adjonction, après l’article C.10.003, de ce qui suit :
-
-### — DORS/2026-96, art. 15
-
-### 15
-
-(1) Le passage du paragraphe C.10.004(1) du même règlement précédant la première définition est remplacé par ce qui suit :
-
-(2) La définition de **drogue**, au paragraphe C.10.004(1) du même règlement, est abrogée.
-
-(3) La définition de **drogue désignée**, au paragraphe C.10.004(1) du même règlement, est remplacée par ce qui suit :
-
-(4) Le paragraphe C.10.004(1) du même règlement est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
-
-(5) Le paragraphe C.10.004(2) du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 16
-
-### 16
-
-L’article C.10.005 du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 17
-
-### 17
-
-(1) Le passage du paragraphe C.10.006(1) du même règlement précédant le sous-alinéa a)(i) est remplacé par ce qui suit :
-
-(2) L’alinéa C.10.006(1)b) du même règlement est remplacé par ce qui suit :
-
-(3) Le passage de l’alinéa C.10.006(1)d) du même règlement précédant le sous-alinéa (i) est remplacé par ce qui suit :
-
-(4) Les sous-alinéas C.10.006(1)d)(iii) et (iv) du même règlement sont remplacés par ce qui suit :
-
-(5) Les alinéas C.10.006(1)e) à g) du même règlement sont remplacés par ce qui suit :
-
-(6) Le paragraphe C.10.006(2) du même règlement est abrogé.
-
-### — DORS/2026-96, art. 18
-
-### 18
-
-L’article C.10.007 du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 19
-
-### 19
-
-(1) Le passage du paragraphe C.10.008(1) du même règlement précédant l’alinéa b) est remplacé par ce qui suit :
-
-(2) Le sous-alinéa C.10.008(1)b)(i) du même règlement est remplacé par ce qui suit :
-
-(3) Le sous-alinéa C.10.008(1)b)(iii) du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 20
-
-### 20
-
-(1) Le paragraphe C.10.009(1) du même règlement est remplacé par ce qui suit :
-
-(2) Le sous-alinéa C.10.009(2)b)(i) du même règlement est remplacé par ce qui suit :
-
-(3) Le paragraphe C.10.009(3) du même règlement est remplacé par ce qui suit :
-
-(4) Le paragraphe C.10.009(6) du même règlement est abrogé.
-
-### — DORS/2026-96, art. 21
-
-### 21
-
-Le paragraphe C.10.010(3) du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 22
-
-### 22
-
-Le même règlement est modifié par adjonction, après l’article C.10.010, de ce qui suit :
-
-### — DORS/2026-96, art. 23
-
-### 23
-
-Le paragraphe C.10.011(2) du même règlement est remplacé par ce qui suit :
-
-### — DORS/2026-96, art. 24
-
-### 24
-
-Le même règlement est modifié par adjonction, après l’article C.10.011, de ce qui suit :
-
-### — DORS/2026-96, art. 25
-
-### 25
-
-Dans les passages ci-après du même règlement, « drogue désignée » est remplacé par « drogue » :
-
-- a) le sous-alinéa C.10.006(1)a)(ii);
-
-- b) le passage du sous-alinéa C.10.006(1)a)(iii) précédant la division (A);
-
-- c) les sous-alinéas C.10.006(1)a)(v) et (vi);
-
-- d) l’alinéa C.10.006(1)c).

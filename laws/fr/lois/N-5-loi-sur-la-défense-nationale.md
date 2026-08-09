@@ -12994,6 +12994,16 @@ La *Loi sur la défense nationale*, dans sa version antérieure à l’entrée e
 
 Les alinéas 203.1(2)c) et i) de la *Loi sur la défense nationale*, édictés respectivement par les alinéas 63(21)d) et e), s’appliquent seulement aux peines imposées à l’égard des actes commis à la date où ces alinéas 63(21)d) et e) ont produit leurs effets ou postérieurement.
 
+### — 2026, ch. 11, art. 82
+
+### 82 Précision : application
+
+(1) Il est entendu que les dispositions de la *Loi sur la défense nationale* édictées par les articles 79 et 80 s’appliquent également à l’égard de toute affaire ou procédure qui est en cours à la date d’entrée en vigueur de ces articles.
+
+**Précision : certaines infractions**
+
+(2) Il est entendu que l’article 302 de la *Loi sur la défense nationale* édicté par l’article 81 ne s’applique qu’à l’égard des infractions commises à la date d’entrée en vigueur de cet article 81 ou après cette date.
+
 
 ## MODIFICATIONS NON EN VIGUEUR
 
@@ -13014,3 +13024,21 @@ Le paragraphe 35(1) de la même loi est remplacé par ce qui suit :
 ### 46
 
 La même loi est modifiée par adjonction, après l’article 165.37, de ce qui suit :
+
+### — 2026, ch. 11, art. 79
+
+### 79
+
+L’alinéa 203.3a) de la *Loi sur la défense nationale* est modifié par adjonction, après le sous-alinéa (iv), de ce qui suit :
+
+### — 2026, ch. 11, art. 80
+
+### 80
+
+La même loi est modifiée par adjonction, après l’article 203.4, de ce qui suit :
+
+### — 2026, ch. 11, art. 81
+
+### 81
+
+Le passage de l’article 302 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :

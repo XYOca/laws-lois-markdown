@@ -111,6 +111,27 @@ The Minister is the official legal adviser of the Governor General and the legal
 
 </details>
 
+### 4.3 Annual report — judicial interim release
+
+(1) Every year, the Minister shall prepare a report on the state of judicial interim release in Canada and cause it to be tabled in each House of Parliament on any of the first 15 sitting days of that House after January 1.
+
+**Contents**
+
+(2) The report must include the following:
+
+- (a) data on judicial interim release outcomes, including in respect of compliance with release conditions, recidivism by accused at large on release orders, rates of detention in custody before trial and incidents requiring public attention;
+
+- (b) an analysis of the effectiveness of release conditions; and
+
+- (c) data on the accessibility of judicial interim release and disparities between different groups.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 11, s. 58.1
+
+</details>
+
 ## Powers, Duties and Functions of the Attorney General
 
 ### 5 Powers, duties and functions of Attorney General

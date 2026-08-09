@@ -12031,7 +12031,7 @@ For the purpose of sections B.30.002 and B.30.003,
 
 **COVID-19 drug** means a drug, other than a veterinary health product, that is manufactured, sold or represented for use in relation to COVID-19; (**drogue contre la COVID-19**)
 
-**discontinue** means, in respect of the sale of a drug by the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug, to permanently cease the sale of the drug; (**cesser**)
+**discontinue** means, in respect of the sale of a drug by the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug, to permanently cease the sale of the drug in Canada; (**cesser**)
 
 **expiration date** means
   - (a) in the case of a drug in dosage form, the earlier of the following dates, expressed at minimum as a year and month:
@@ -12058,6 +12058,8 @@ For the purpose of sections B.30.002 and B.30.003,
 **List C** means the document, entitled *List of Veterinary Health Products,* that is published by the Government of Canada on its website, as amended from time to time; (**Liste C**)
 
 **List D** means the document entitled *List of Certain Non-prescription Drugs for Distribution as Samples* that is published by the Government of Canada on its website, as amended from time to time; (**Liste D**)
+
+**List of Drugs for the Purposes of Paragraphs (b) and (c) of the Definition drug in Subsection C.01.014.8(1)** means the *List of Drugs for the Purposes of Paragraphs (b) and (c) of the Definition **drug** in Subsection C.01.014.8(1) of the Food and Drug Regulations* that is published by the Government of Canada on its website, as amended from time to time; (**Liste de drogues pour l’application des alinéas b) et c) de la définition de drogue au paragraphe C.01.014.8(1)**)
 
 **non-medicinal ingredient** means a substance — other than the pharmacologically active drug — that is added during the manufacturing process and that is present in the finished drug product; (**ingrédient non médicinal**)
 
@@ -12096,6 +12098,8 @@ For the purpose of sections B.30.002 and B.30.003,
 **serious adverse drug reaction** means a noxious and unintended response to a drug that occurs at any dose and that requires in-patient hospitalization or prolongation of existing hospitalization, causes congenital malformation, results in persistent or significant disability or incapacity, is life-threatening or results in death; (**réaction indésirable grave à une drogue**)
 
 **serious unexpected adverse drug reaction** means a serious adverse drug reaction that is not identified in nature, severity or frequency in the risk information set out on the label of the drug; (**réaction indésirable grave et imprévue à une drogue**)
+
+**shortage** means, in respect of a drug, a situation in which the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug is unable to meet the demand for the drug in Canada; (**pénurie**)
 
 **teaspoon** means, for the purpose of calculation of dosage, a volume of 5 cubic centimetres; (**cuillerée à thé**)
 
@@ -12148,6 +12152,7 @@ For the purpose of sections B.30.002 and B.30.003,
 - SOR/2021-46, s. 11(E)
 - SOR/2022-197, s. 8
 - SOR/2023-247, s. 1(F)
+- SOR/2026-96, s. 1
 
 </details>
 
@@ -12846,7 +12851,7 @@ If the information referred to in subsection C.01.014.1(2) in respect of a drug 
 
 ### C.01.014.7
 
-The manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug shall, within 30 days after the day on which they discontinue the sale of the drug, submit the following information to the Minister:
+(1) The manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug shall, within 30 days after the day on which they discontinue the sale of the drug, submit the following information to the Minister:
 
 - (a) the drug identification number assigned for the drug;
 
@@ -12854,21 +12859,25 @@ The manufacturer to whom a document was issued under subsection C.01.014.2(1) th
 
 - (c) the latest expiration date of the drug that the manufacturer sold and the lot number of that drug.
 
+(2) For greater certainty, subsection (1) does not remove the requirement for the manufacturer to post information under subsection C.01.014.91(1).
+
 <details>
 <summary>Historical Note</summary>
 
 - SOR/81-248, s. 2; SOR/2016-139, s. 5; SOR/2017-259, s. 8
+- SOR/2026-96, s. 2
 
 </details>
 
 ### C.01.014.71
 
-If a period of 12 months has elapsed since the day on which the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a **drug** as defined in section C.01.014.8 last sold the drug, the manufacturer shall so notify the Minister in writing within 30 days after the day on which that period ends.
+If 12 months have elapsed since the day on which the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug — within the meaning of paragraph (a) of the definition **drug** in subsection C.01.014.8(1) — last sold the drug, the manufacturer shall so notify the Minister, in writing, within 30 days after the day on which that period ends.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2017-259, s. 8
+- SOR/2026-96, s. 3
 
 </details>
 
@@ -12883,31 +12892,47 @@ If the manufacturer to whom a document was issued under subsection C.01.014.2(1)
 
 </details>
 
+### C.01.014.73
+
+(1) The Minister may add a drug to Part 1 of the List of Drugs for the Purposes of Paragraphs (b) and (c) of the Definition **drug** in Subsection C.01.014.8(1) only if the Minister has reasonable grounds to believe that a shortage or the discontinuation of sale of the drug, if it were to occur, could present a risk of injury to human health.
+
+(2) The Minister may add a class of drugs to Part 2 of the List of Drugs for the Purposes of Paragraphs (b) and (c) of the Definition **drug** in Subsection C.01.014.8(1) only if the Minister has reasonable grounds to believe that a shortage or the discontinuation of sale of any drug that belongs to that class, if it were to occur, could present a risk of injury to human health.
+
+
 ### C.01.014.8
 
-The following definitions apply in this section and in sections C.01.014.9 to C.01.014.14.
+(1) In sections C.01.014.9 to C.01.014.95, other than in section C.01.014.93, **drug** means any of the following drugs for which a drug identification number has been assigned and not been cancelled:
 
-**drug** means any of the following drugs for human use for which a drug identification number has been assigned:
-  - (a) drugs included in Schedule I, II, III, IV or V to the *Controlled Drugs and Substances Act*;
-  - (b) prescription drugs;
-  - (c) drugs that are listed in Schedule C or D to the Act; and
-  - (d) drugs that are permitted to be sold without a prescription but that are to be administered only under the supervision of a practitioner. (**drogue**)
+- (a) the following drugs for human use:
+  - (i) drugs included in Schedule I, II, III, IV or V to the *Controlled Drugs and Substances Act*,
+  - (ii) prescription drugs,
+  - (iii) drugs that are listed in Schedule C or D to the Act, and
+  - (iv) drugs that are permitted to be sold without a prescription but that are to be administered only under the supervision of a practitioner;
 
-**shortage**, in respect of a drug, means a situation in which the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug is unable to meet the demand for the drug in Canada. (**pénurie**)
+- (b) drugs that are set out in Part 1 of the List of Drugs for the Purposes of Paragraphs (b) and (c) of the Definition **drug** in Subsection C.01.014.8(1); and
+
+- (c) drugs that belong to a class of drugs that is set out in Part 2 of that list.
+
+(2) In sections C.01.014.9 and C.01.014.91, **designated website** means
+
+- (a) if a hyperlink is on the Government of Canada website in accordance with section C.01.014.92, the website that is maintained under contract with His Majesty in right of Canada; and
+
+- (b) if not, the part of the Government of Canada website that is represented as being for the purpose of posting information under sections C.01.014.9 and C.01.014.91.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2016-139, s. 5; SOR/2017-259, s. 8; SOR/2018-69, ss. 17, 40
 - SOR/2021-199, s. 1
+- SOR/2026-96, s. 4
 
 </details>
 
 ### C.01.014.9
 
-(1) If a shortage of a drug exists or is likely to occur, the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug shall post the following information in English and French on a website that is operated by a party for that purpose with whom Her Majesty in right of Canada has entered into a contract to make that information available to the public:
+(1) Subject to subsection (5), if a shortage of a drug exists or is likely to occur, the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug shall post the following information in English and French on the designated website:
 
-- (a) the manufacturer’s name and their telephone number, email address, website address, postal address or any other information that enables communication with them;
+- (a) the manufacturer’s name and contact information;
 
 - (b) the drug identification number assigned for the drug;
 
@@ -12935,13 +12960,13 @@ The following definitions apply in this section and in sections C.01.014.9 to C.
 
 - (a) if they anticipate that a shortage will begin in more than six months, at least six months before the day on which they anticipate it to begin;
 
-- (b) if they anticipate that a shortage will begin in six months or less, within five days after the day on which they anticipate it; or
+- (b) if they anticipate that a shortage will begin in six months or less, within five days after the day on which they make that determination; or
 
 - (c) if they did not anticipate the shortage, within five days after the day on which they become aware of it.
 
-(3) If any of the information that was posted by the manufacturer changes, they shall update that information on the website within two days after the day on which they make or become aware of the change.
+(3) If any of the information that was posted by the manufacturer changes, they shall update that information on the designated website within two days after the day on which they make or become aware of the change.
 
-(4) Within two days after the day on which the manufacturer is able to meet the demand for the drug, they shall post information on the website to that effect.
+(4) Within two days after the day on which the manufacturer is able to meet the demand for the drug, they shall post information on the designated website to that effect.
 
 (5) This section does not apply in respect of a shortage of a drug that results from a decision by the manufacturer to discontinue its sale.
 
@@ -12950,14 +12975,15 @@ The following definitions apply in this section and in sections C.01.014.9 to C.
 
 - SOR/2016-139, s. 5; SOR/2017-259, s. 9
 - SOR/2021-199, s. 2
+- SOR/2026-96, s. 5
 
 </details>
 
-### C.01.014.10
+### C.01.014.91
 
-(1) If the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug decides to discontinue the sale of the drug, they shall post the following information in English and French on the website referred to in subsection C.01.014.9(1):
+(1) If the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug decides to discontinue the sale of the drug, they shall post the following information in English and French on the designated website:
 
-- (a) the manufacturer’s name and their telephone number, email address, website address, postal address or any other information that enables communication with them;
+- (a) the manufacturer’s name and contact information;
 
 - (b) the drug identification number assigned for the drug;
 
@@ -12981,54 +13007,62 @@ The following definitions apply in this section and in sections C.01.014.9 to C.
 
 (2) The manufacturer shall post the information
 
-- (a) if they decide to discontinue the sale of the drug in more than six months, at least six months before the day on which they will discontinue its sale; and
+- (a) if they decide to discontinue the sale of the drug in more than 12 months, at least 12 months before the day on which they will discontinue its sale; and
 
-- (b) if they decide to discontinue the sale of the drug in six months or less, within five days after the day on which that decision is made.
+- (b) if they decide to discontinue the sale of the drug in 12 months or less, within five days after the day on which they make that decision.
 
-(3) If any of the information that was posted by the manufacturer changes, they shall update that information on the website within two days after the day on which they make or become aware of the change.
+(3) If any of the information that was posted by the manufacturer changes, they shall update that information on the designated website within five days after the day on which they make or become aware of the change.
+
+(4) For greater certainty, subsection (1) does not remove the requirement for the manufacturer to inform the Minister under section C.01.014.7.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2016-139, s. 5; SOR/2017-259, s. 10
+- SOR/2026-96, s. 6
 
 </details>
 
-### C.01.014.11
+### C.01.014.92
 
-The Minister shall ensure that a hyperlink to the website referred to in subsection C.01.014.9(1) is on the Government of Canada website.
+If a person maintains a website under contract with His Majesty in right of Canada for the purpose of posting information under sections C.01.014.9 and C.01.014.91, the Minister shall ensure that a hyperlink to that website is on the Government of Canada website.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2016-139, s. 5; SOR/2017-259, s. 11
+- SOR/2026-96, s. 7
 
 </details>
 
-### C.01.014.12
+### C.01.014.93
 
-(1) The Minister may request that the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug — or any person who holds an establishment licence in respect of a drug — provide the Minister with information that is in their control if the Minister has reasonable grounds to believe that
+(1) The Minister may request that the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug — or any person who holds an establishment licence in respect of a drug for which a drug identification number has been assigned and not been cancelled — provide the Minister with information that is in their control if the Minister has reasonable grounds to believe that
 
 - (a) there is a shortage or risk of shortage of the drug;
+
+- (a.1) a shortage of the drug, if it were to occur, could present a risk of injury to human health;
 
 - (b) the information is necessary to establish or assess
   - (i) the existence of a shortage or risk of shortage of the drug,
   - (ii) the reason for a shortage or risk of shortage of the drug,
-  - (iii) the effects or potential effects on human health of a shortage of the drug, or
-  - (iv) measures that could be taken to prevent or alleviate a shortage of the drug; and
+  - (iii) the effects or potential effects on human health of a shortage of the drug,
+  - (iv) measures that could be taken to prevent or mitigate shortage risks associated with the drug, or
+  - (v) measures that could be taken to mitigate the impacts of a shortage of the drug; and
 
 - (c) the manufacturer or licensee will not provide the information without a legal obligation to do so.
 
-(2) The manufacturer or licensee shall provide the requested information electronically in a format specified by or acceptable to the Minister within the time limit specified by the Minister.
+(2) The manufacturer or licensee shall provide the requested information in the time, form and manner specified by the Minister.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 3
+- SOR/2026-96, s. 8
 
 </details>
 
-### C.01.014.13
+### C.01.014.94
 
 No person who holds an establishment licence shall distribute a drug for consumption or use outside Canada unless the licensee has reasonable grounds to believe that the distribution will not cause or exacerbate a shortage of the drug.
 
@@ -13036,12 +13070,13 @@ No person who holds an establishment licence shall distribute a drug for consump
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 3
+- SOR/2026-96, s. 9
 
 </details>
 
-### C.01.014.14
+### C.01.014.95
 
-(1) If a person who holds an establishment licence distributes a drug for consumption or use outside Canada, the licensee shall immediately create a detailed record of the information that they relied on to determine that the distribution of the drug is not prohibited by section C.01.014.13.
+(1) If a person who holds an establishment licence distributes a drug for consumption or use outside Canada, the licensee shall immediately create a detailed record of the information that they relied on to determine that the distribution of the drug is not prohibited by section C.01.014.94.
 
 (2) The licensee shall retain the record for at least one year after the latest expiration date of the drug that they distributed.
 
@@ -13049,6 +13084,7 @@ No person who holds an establishment licence shall distribute a drug for consump
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 3
+- SOR/2026-96, s. 10
 
 </details>
 
@@ -13210,7 +13246,7 @@ Section C.01.019 does not apply in respect of a veterinary health product.
 
 - (b) the drug’s brand name, proper name or common name;
 
-- (c) in the case of a drug imported under subsection C.10.001(2) or section C.10.006, the identifying code or number of the drug, if any, assigned in the country in which the drug was authorized for sale;
+- (c) in the case of a drug imported under subsection C.10.001(2) or section C.10.006 or sold under subsection C.10.007.1(1), the identifying code or number of the drug, if any, assigned in the country in which the drug was authorized for sale;
 
 - (c.1) in the case of a drug whose sale has been authorized under subsection C.11.003(1), its identifying name, code, number or mark;
 
@@ -13253,6 +13289,7 @@ Section C.01.019 does not apply in respect of a veterinary health product.
 - SOR/2019-190, s. 2
 - SOR/2021-199, s. 4
 - SOR/2023-18, s. 1
+- SOR/2026-96, s. 11
 
 </details>
 
@@ -20912,6 +20949,8 @@ A salicylate product in the form of a tablet, capsule or other solid dosage form
 
 ### Access to Drugs in Exceptional Circumstances
 
+#### Drugs for an Urgent Public Health Need
+
 ### C.10.001
 
 (1) The following definitions apply in this section and in section C.10.002.
@@ -20930,7 +20969,7 @@ A salicylate product in the form of a tablet, capsule or other solid dosage form
   - (i) an urgent public health need for the immediate use of the drug within their jurisdiction, and
   - (ii) the intended use or purpose of the drug;
 
-- (b) the drug is authorized by a foreign regulatory authority in the United States, Switzerland or the European Union to be sold for the same use or purpose as that described under subparagraph (a)(ii);
+- (b) the drug is authorized by a foreign regulatory authority in the United States, the United Kingdom, Switzerland or the European Union to be sold for the same use or purpose as that described under subparagraph (a)(ii);
 
 - (c) the drug is in the same category as the category for which the licence was issued;
 
@@ -20980,6 +21019,7 @@ A salicylate product in the form of a tablet, capsule or other solid dosage form
 - SOR/2017-133, s. 2
 - SOR/2023-18, s. 2
 - SOR/2024-238, s. 39
+- SOR/2026-96, s. 13
 
 </details>
 
@@ -21045,56 +21085,112 @@ Every licensee who imports a drug under subsection C.10.001(2) must notify the M
 
 </details>
 
+#### Drugs for Exceptional Importation and Sale
+
 ### C.10.004
 
-(1) The following definitions apply in this section and in sections C.10.005 to C.10.011.
+(1) The following definitions apply in this section and in sections C.10.005 to C.10.013.
 
-**designated drug** means a drug that is set out in the *List of Drugs for Exceptional Importation and Sale*. (**drogue désignée**)
+**business day** means a day other than
+  - (a) a Saturday; or
+  - (b) a Sunday or other holiday. (**jour ouvrable**)
 
-**drug** means any of the following drugs for human use:
-  - (a) drugs included in Schedule I, II, III, IV or V to the *Controlled Drugs and Substances Act*;
-  - (b) prescription drugs;
-  - (c) drugs that are listed in Schedule C or D to the Act; and
-  - (d) drugs that are permitted to be sold without a prescription but that are to be administered only under the supervision of a practitioner. (**drogue**)
+**designated drug** means
+  - (a) a drug that is set out in Part 1 of the List of Drugs for Exceptional Importation and Sale; and
+  - (b) a lot or batch of a drug that is set out in Part 2 of that list. (**drogue désignée**)
+
+**drug**[Repealed, SOR/2026-96, s. 15]
 
 **foreign regulatory authority** has the same meaning as in subsection C.10.001(1). (**autorité réglementaire étrangère**)
 
 **List of Drugs for Exceptional Importation and Sale** means the *List of Drugs for Exceptional Importation and Sale* that is published by the Government of Canada on its website, as amended from time to time. (**Liste des drogues destinées aux importations et aux ventes exceptionnelles**)
 
-(2) In sections C.10.006 and C.10.009, **batch certificate**, **fabricate**, **MRA country**, **package/label** and **recognized building** have the same meanings as in subsection C.01A.001(1).
+(2) In sections C.10.005 to C.10.013, **batch certificate**, **fabricate**, **import**, **MRA country**, **package/label**, **recognized building** and **wholesaler** have the same meanings as in subsection C.01A.001(1).
+
+(3) In this section and sections C.10.006 and C.10.009,
+
+- (a) **specifications** has the same meaning as in section C.02.002; and
+
+- (b) a reference to specifications is a reference to the specifications with which the designated drug is required to comply within the jurisdiction of the foreign regulatory authority referred to in paragraph C.10.006(1)(b).
+
+(4) The definition **expiration date** in subsection C.01.001(1) does not apply in respect of a designated drug referred to in subsection C.10.007.4(1).
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 5
+- SOR/2026-96, s. 15
 
 </details>
 
 ### C.10.005
 
-(1) The Minister may add a drug to the *List of Drugs for Exceptional Importation and Sale* only if the Minister has reasonable grounds to believe that
+(1) Subject to subsection (3), the Minister may add a drug that is fabricated outside Canada to Subpart 1 or 2 of Part 1 of the List of Drugs for Exceptional Importation and Sale only if
 
-- (a) there is a shortage or risk of shortage of another drug for which a notice of compliance has been issued under section C.08.004 or C.08.004.01 or for which a drug identification number has been assigned under subsection C.01.014.2(1); and
+- (a) either of the following conditions is met in respect of another drug:
+  - (i) the Minister has reasonable grounds to believe that there is a shortage or risk of shortage of the other drug for which a drug identification number has been assigned under subsection C.01.014.2(1) and not been cancelled, or
+  - (ii) the sale of the other drug was discontinued;
 
-- (b) the drug to be added to that list can be substituted for the drug referred to in paragraph (a).
+- (b) the Minister has reasonable grounds to believe that
+  - (i) a shortage of the other drug if it were to occur, or the discontinuation of sale of it could present a risk of injury to human health,
+  - (ii) the drug to be added to that list can be substituted for the other drug, and
+  - (iii) the drug to be added to that list is authorized to be sold by a foreign regulatory authority within its jurisdiction; and
 
-(2) In subsection (1), **shortage** has the same meaning as in section C.01.014.8.
+- (c) in the case referred to in subparagraph (a)(ii), the drug to be added to that list is added on or before the day that is 36 months after the day on which the sale of the other drug was discontinued.
+
+(2) Subject to subsection (3), the Minister may add a lot or batch of a drug that is fabricated in Canada to Subpart 1 or 2 of Part 2 of the List of Drugs for Exceptional Importation and Sale only if
+
+- (a) either of the following conditions is met in respect of another drug:
+  - (i) the Minister has reasonable grounds to believe that there is a shortage or risk of shortage of the other drug for which a drug identification number has been assigned under subsection C.01.014.2(1) and not been cancelled, or
+  - (ii) the sale of the other drug was discontinued; and
+
+- (b) the Minister has reasonable grounds to believe that
+  - (i) a shortage of the other drug, if it were to occur, or the discontinuation of sale of it could present a risk of injury to human health, and
+  - (ii) the lot or batch of the drug to be added to that list meets the following conditions:
+    - (A) it can be substituted for the other drug,
+    - (B) it is authorized to be sold by a foreign regulatory authority within its jurisdiction,
+    - (C) it is fabricated for consumption or use outside Canada, and
+    - (D) despite clause (C), it is no longer intended for export.
+
+(3) The Minister may add a drug to Subpart 2 of Part 1 of the List of Drugs for Exceptional Importation and Sale — or a lot or batch of a drug to Subpart 2 of Part 2 of that list — only if
+
+- (a) the drug is for human use;
+
+- (b) the drug is not one of the following drugs:
+  - (i) a drug included in Schedule I, II, III, IV or V to the *Controlled Drugs and Substances Act*,
+  - (ii) a prescription drug,
+  - (iii) a drug listed in Schedule C or D to the Act, or
+  - (iv) a drug that is permitted to be sold without a prescription but that is to be administered only under the supervision of a practitioner; and
+
+- (c) the Minister has reasonable grounds to believe that use of the drug can cause injury to human health or present a risk to public health and the injury or risk can be mitigated by the supervision of a practitioner or pharmacist.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 5
+- SOR/2026-96, s. 16
+
+</details>
+
+### C.10.005.1
+
+For greater certainty, if a lot or batch of a drug is set out in Part 1 or 2 of the List of Drugs for Exceptional Importation and Sale, sections C.10.006 to C.10.013 apply only in respect of that lot or batch.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 16
 
 </details>
 
 ### C.10.006
 
-(1) A person who holds an establishment licence that authorizes the importation of a drug may import a designated drug if the following conditions are met:
+(1) Despite sections A.01.040 and C.01.004.1, a person who holds an establishment licence that authorizes the importation of a drug may import a designated drug set out in Part 1 of the List of Drugs for Exceptional Importation and Sale if the following conditions are met:
 
-- (a) the licensee provides the Minister, electronically in a format specified by or acceptable to the Minister and not later than the third business day before the day on which the designated drug is imported, with a notification that contains the following information:
+- (a) the licensee provides the Minister, in the form and manner specified by the Minister and not later than three business days before the day on which the drug is imported, with a notification that contains the following information:
   - (i) the licensee’s name and contact information,
-  - (ii) the name and contact information of each fabricator, packager/labeller and tester of the designated drug and the address of each building in which it is fabricated, packaged/labelled or tested,
-  - (iii) in respect of the designated drug,
+  - (ii) the name and contact information of each fabricator, packager/labeller and tester of the drug and the address of each building in which it is fabricated, packaged/labelled or tested,
+  - (iii) in respect of the drug,
     - (A) its brand name,
     - (B) its medicinal ingredients,
     - (C) its dosage form,
@@ -21103,61 +21199,146 @@ Every licensee who imports a drug under subsection C.10.001(2) must notify the M
     - (F) its identifying code or number, if any, assigned in the country in which it is authorized for sale, and
     - (G) a detailed description of its conditions of use,
   - (iv) the intended port of entry into Canada,
-  - (v) the estimated date of arrival of the shipment of the designated drug, and
-  - (vi) the total quantity of the designated drug that is intended to be imported on the date referred to in subparagraph (v);
+  - (v) the estimated date of arrival of the shipment of the drug, and
+  - (vi) the total quantity of the drug that is intended to be imported on the date referred to in subparagraph (v);
 
-- (b) the designated drug is authorized to be sold by a foreign regulatory authority within its jurisdiction;
+- (b) the licensee provides the Minister with an attestation, signed and dated by an individual who has authority to bind the licensee, that confirms that the licensee possesses or has immediate access to the specifications for the drug;
 
-- (c) the designated drug is in the same category as the category for which the establishment licence was issued;
+- (c) the drug is in the same category as the category for which the establishment licence was issued;
 
-- (d) the following information is set out in the *List of Drugs for Exceptional Importation and Sale* in respect of the designated drug:
+- (d) the following information in respect of the drug is set out in Part 1 of the List of Drugs for Exceptional Importation and Sale:
   - (i) the licensee’s name,
   - (ii) the information referred to in clauses (a)(iii)(A) to (F),
-  - (iii) the name of the foreign regulatory authority referred to in paragraph (b), and
-  - (iv) the date after which it may no longer be imported;
+  - (iii) the name of the foreign regulatory authority referred to in subparagraph C.10.005(1)(b)(iii),
+  - (iv) the maximum limit for the total quantity of the drug that the licensee may import, if applicable,
+  - (v) the date after which the drug may no longer be imported, if applicable, and
+  - (vi) the lot or batch number of the drug, if applicable;
 
-- (e) the lot number of the designated drug is set out in the list referred to in paragraph (d), if applicable;
+- (e) [Repealed, SOR/2026-96, s. 17]
 
-- (f) the total quantity of the designated drug that the licensee imports does not exceed the maximum limit specified in the list referred to in paragraph (d) in respect of the drug, if applicable;
+- (f) the total quantity of the drug that the licensee imports does not exceed the maximum limit referred to in subparagraph (d)(iv), if applicable;
 
-- (g) the designated drug is imported on or before the date referred to in subparagraph (d)(iv); and
+- (g) the drug is imported on or before the date referred to in subparagraph (d)(v), if applicable; and
 
 - (h) the licensee has prepared a plan that specifies the measures to be taken in order for the licensee to comply with section C.10.011.
 
-(2) In subsection (1), **business day** means a day other than
-
-- (a) a Saturday; or
-
-- (b) a Sunday or other holiday.
+(2) [Repealed, SOR/2026-96, s. 17]
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 5
+- SOR/2026-96, s. 17
+- SOR/2026-96, s. 25
 
 </details>
 
 ### C.10.007
 
-Sections A.01.040, A.01.044 and C.01.004.1 do not apply in respect of the importation, under section C.10.006, of a designated drug by a person who holds an establishment licence.
+Section A.01.044 does not apply in respect of the importation of a designated drug under section C.10.006.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 5
+- SOR/2026-96, s. 18
+
+</details>
+
+### C.10.007.1
+
+(1) Despite sections C.01.003, C.01.014 and C.08.002 and subject to subsections (3), (4) and (6), a person who holds an establishment licence may sell a designated drug that is set out in Part 2 of the List of Drugs for Exceptional Importation and Sale for consumption or use in Canada if the conditions set out in subsection (2) are met and, as the case may be,
+
+- (a) they are the distributor of the drug for consumption or use outside Canada; or
+
+- (b) they are a wholesaler of a drug.
+
+(2) The conditions are the following:
+
+- (a) the licensee provides the Minister, in the form and manner specified by the Minister and not later than three business days before the day on which the licensee first sells the designated drug for consumption or use in Canada, with a notification that contains the following information:
+  - (i) the licensee’s name and contact information,
+  - (ii) the name and contact information of each fabricator, packager/labeller and tester of the drug and the address of each building in which it is fabricated, packaged/labelled or tested, and
+  - (iii) in respect of the drug,
+    - (A) its brand name,
+    - (B) its medicinal ingredients,
+    - (C) its dosage form,
+    - (D) its strength,
+    - (E) its route of administration,
+    - (F) its identifying code or number, if any, assigned in the country in which it is authorized for sale, and
+    - (G) a detailed description of its conditions of use;
+
+- (b) if the licensee meets the condition set out in paragraph (1)(b) and the designated drug is referred to in any of paragraphs (a), (c) or (d) of the definition **wholesaler** in subsection C.01A.001(1), the drug is in the same category as the category for which the establishment licence was issued;
+
+- (c) the following information in respect of the designated drug is set out in Part 2 of the List of Drugs for Exceptional Importation and Sale:
+  - (i) the licensee’s name,
+  - (ii) the information referred to in clauses (a)(iii)(A) to (F),
+  - (iii) the name of the foreign regulatory authority referred to in clause C.10.005(2)(b)(ii)(B),
+  - (iv) the maximum limit on the total quantity of the drug that the licensee may sell, if applicable,
+  - (v) the date after which the licensee is no longer permitted to sell the drug, if applicable, and
+  - (vi) the lot or batch number of the drug;
+
+- (d) the licensee ensures that the information referred to in clause (a)(iii)(G) is available in English and French and in a manner that permits the safe use of the designated drug; and
+
+- (e) the licensee has prepared a plan that specifies the measures to be taken in order for them to comply with paragraph (d).
+
+(3) The licensee shall not sell, in total, the designated drug in a quantity that exceeds the maximum limit referred to in subparagraph (2)(c)(iv), if applicable.
+
+(4) The licensee shall not sell the designated drug after the date referred to in subparagraph (2)(c)(v), if applicable.
+
+(5) The licensee shall ensure that the information referred to in clause (2)(a)(iii)(G) is available in accordance with paragraph (2)(d) until at least the latest expiration date of the designated drug that they sold.
+
+(6) This section does not apply — in respect of a designated drug sold by the licensee under subsection (1) — to another person who holds an establishment licence and sells the drug.
+
+
+### C.10.007.2
+
+Despite sections C.01.003, C.01.014 and C.08.002, the fabricator of a designated drug who is neither the distributor of the drug for consumption or use outside Canada nor a wholesaler of the drug may sell the drug for consumption or use in Canada only to that distributor or such a wholesaler.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 18
+
+</details>
+
+### C.10.007.3
+
+Paragraph C.02.018(3)(c) does not apply to a person who holds an establishment licence in respect of a designated drug that they sell under subsection C.10.007.1(1) or section C.10.007.2.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 18
+
+</details>
+
+### C.10.007.4
+
+(1) Subject to subsection (2), sections C.10.008 to C.10.013 apply in respect of
+
+- (a) a designated drug that is imported under section C.10.006; and
+
+- (b) a designated drug that is sold under subsection C.10.007.1(1) or section C.10.007.2.
+
+(2) Sections C.10.009 and C.10.010 do not apply in respect of a designated drug referred to in paragraph (1)(b).
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 18
 
 </details>
 
 ### C.10.008
 
-(1) Subject to sections C.10.009 and C.10.010, a sale of a designated drug that is imported under section C.10.006 is exempt from the following provisions:
+(1) Subject to subsection (3) and sections C.10.007.3, C.10.009, C.10.010 and C.10.010.2, a sale of a designated drug is exempt from the following provisions:
 
-- (a) sections A.01.015, A.01.017 and A.01.051; and
+- (a) sections A.01.014 to A.01.017 and A.01.051; and
 
 - (b) the provisions of Part C other than
-  - (i) sections C.01.016, C.01.017, C.01.019 to C.01.020.1, C.01.040.3 to C.01.049.1 and C.01.051,
+  - (i) sections C.01.016, C.01.017, C.01.019 to C.01.020.1 and C.01.040.3 to C.01.051.1,
   - (ii) the provisions of Divisions 1A and 2, and
-  - (iii) this section and sections C.10.009 to C.10.011.
+  - (iii) sections C.10.007.1 to C.10.013.
 
 (2) For greater certainty, for the purposes of section C.01.016, the manufacturer of a designated drug is required to comply only with the requirements set out in sections C.01.017 and C.01.019 in respect of the drug.
 
@@ -21167,22 +21348,24 @@ Sections A.01.040, A.01.044 and C.01.004.1 do not apply in respect of the import
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 5
+- SOR/2026-96, s. 19
 
 </details>
 
 ### C.10.009
 
-(1) Section C.02.019 does not apply to a person who holds an establishment licence in respect of a designated drug that they import under section C.10.006.
+(1) This section applies — but paragraph C.02.018(3)(c) and section C.02.019 do not apply — to a person who holds an establishment licence in respect of a designated drug that they import under section C.10.006.
 
 (2) The licensee shall perform the finished product testing on a sample of the designated drug that is taken either
 
 - (a) after receipt of each lot or batch of the designated drug on their premises in Canada; or
 
 - (b) before receipt of each lot or batch of the designated drug on their premises in Canada if the following conditions are met:
-  - (i) the licensee has evidence satisfactory to the Minister to demonstrate that lots or batches of the designated drug sold to them by the vendor of the lot or batch are consistently manufactured in accordance with and consistently comply with the specifications for that drug, and
+  - (i) the licensee has evidence that the Minister considers satisfactory, in the interests of the health of the consumer or purchaser, to demonstrate that lots or batches of the designated drug sold to them by the vendor of the lot or batch are consistently manufactured in accordance with and consistently comply with the specifications for that drug,
+  - (i.1) the licensee undertakes periodic complete confirmatory testing, with a frequency that the Minister considers satisfactory, in the interests of the health of the consumer or purchaser, and
   - (ii) the designated drug has not been transported or stored under conditions that may affect its compliance with the specifications for that drug.
 
-(3) In subsection (2), a reference to specifications is a reference to the specifications with which the designated drug is required to comply within the jurisdiction of the foreign regulatory authority referred to in paragraph C.10.006(1)(b).
+(3) The licensee shall possess or have immediate access to the specifications for the designated drug until at least the latest expiration date of the designated drug.
 
 (4) If the licensee receives on their premises in Canada a lot or batch of a designated drug whose useful life is more than 30 days, they shall visually inspect the lot or batch to confirm the identity of the product.
 
@@ -21192,12 +21375,13 @@ Sections A.01.040, A.01.044 and C.01.004.1 do not apply in respect of the import
 
 - (b) they retain a copy of the batch certificate for each lot or batch of the designated drug that they receive for at least one year after the expiration date of the lot or batch.
 
-(6) In this section, **specifications** has the same meaning as in section C.02.002.
+(6) [Repealed, SOR/2026-96, s. 20]
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 5
+- SOR/2026-96, s. 20
 
 </details>
 
@@ -21207,12 +21391,67 @@ Sections A.01.040, A.01.044 and C.01.004.1 do not apply in respect of the import
 
 (2) The Minister may request that the licensee provide to the Minister any of the records referred to in paragraphs C.02.020(1)(a), (b) or (d) in respect of the designated drug.
 
-(3) The licensee shall provide the requested records electronically in a format specified by or acceptable to the Minister within the time limit specified by the Minister.
+(3) The licensee shall provide the requested records in the time, form and manner specified by the Minister.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 5
+- SOR/2026-96, s. 21
+
+</details>
+
+### C.10.010.1
+
+A person who holds an establishment licence and imports a designated drug under section C.10.006 — or a person who holds an establishment licence and sells a designated drug under subsection C.10.007.1(1) and is not the manufacturer of the drug — shall submit to the Minister, in the form and manner specified by the Minister, a report of all information relating to the following serious adverse drug reactions within 15 days after the day on which they receive or become aware of the information, whichever occurs first:
+
+- (a) any serious adverse drug reaction that has occurred in Canada with respect to the drug; and
+
+- (b) any serious unexpected adverse drug reaction that has occurred outside Canada with respect to the drug.
+
+
+### C.10.010.2
+
+(1) Despite subsection C.01.050(4), section C.01.050 applies — in respect of a designated drug — to a person who holds an establishment licence and imports the drug under section C.10.006 or a person who holds an establishment licence and sells the drug under subsection C.10.007.1(1), with any necessary modifications.
+
+(2) A reference to a foreign regulatory authority in the applicable paragraph of subsection C.01.050(2) includes a reference to the foreign regulatory authority referred to in subparagraph C.10.006(1)(d)(iii) or C.10.007.1(2)(c)(iii), as the case may be, if that foreign regulatory authority is not set out in any of Parts A to C of the *List of Foreign Regulatory Authorities for the Purposes of Section C.01.050 of the Food and Drug Regulations*, published by the Government of Canada on its website, as amended from time to time.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 22
+
+</details>
+
+### C.10.010.3
+
+A drug that is removed from the List of Drugs for Exceptional Importation and Sale before the date referred to in subsection C.10.011(2) continues to be considered a designated drug for the purposes of sections C.10.010.1, C.10.010.2 and C.10.011 until that date.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 22
+
+</details>
+
+### C.10.010.4
+
+(1) No person shall sell on a retail basis a designated drug that is set out in Subpart 1 of Part 1 or 2 of the List of Drugs for Exceptional Importation and Sale unless the information referred to in clause C.10.006(1)(a)(iii)(G) is available in English and French to the purchaser or consumer in any of the following manners:
+
+- (a) the information accompanies the drug;
+
+- (b) the information is provided in writing to the purchaser or consumer at the time of sale;
+
+- (c) in the case where the drug is accessible to the public for self-selection, copies of the information are placed adjacent to the drug in a manner that permits the purchaser or consumer to take one.
+
+(2) For the purposes of subsection (1), the English and French versions of the information referred to in clause C.10.006(1)(a)(iii)(G) need not be available in the same manner.
+
+(3) Subsection (1) does not apply to the sale of a designated drug that is set out in Subpart 1 of Part 1 or 2 of the List of Drugs for Exceptional Importation and Sale by a pharmacist under a prescription, or by a practitioner.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 22
 
 </details>
 
@@ -21220,12 +21459,140 @@ Sections A.01.040, A.01.044 and C.01.004.1 do not apply in respect of the import
 
 (1) A person who holds an establishment licence shall not sell a designated drug that they imported under section C.10.006 unless they ensure that the information referred to in clause C.10.006(1)(a)(iii)(G) is available in English and French and in a manner that permits the safe use of the drug.
 
-(2) The licensee shall ensure that the information is available in accordance with subsection (1) until at least the end of the day on the latest expiration date of the designated drug that they imported.
+(2) The licensee shall ensure that the information is available in accordance with subsection (1) until at least the latest expiration date of the designated drug that they imported.
 
 <details>
 <summary>Historical Note</summary>
 
 - SOR/2021-199, s. 5
+- SOR/2026-96, s. 23
+
+</details>
+
+### C.10.012
+
+A person who holds an establishment licence in respect of a drug shall not sell a designated drug set out in Subpart 2 of Part 1 or 2 of the List of Drugs for Exceptional Importation and Sale except to a practitioner, a pharmacist, a **hospital** as defined in subsection C.01.020.1(4) or another person who holds an establishment licence in respect of a drug.
+
+
+### C.10.013
+
+A pharmacist or a person working under a pharmacist’s supervision shall not sell a designated drug set out in Subpart 2 of Part 1 or 2 of the List of Drugs for Exceptional Importation and Sale on a retail basis unless the drug is not accessible to the public for self-selection.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 24
+
+</details>
+
+#### Extended Expiration Dates
+
+### C.10.014
+
+The following definitions apply in this section and in sections C.10.015 to C.10.021.
+
+**extended expiration date** means, in respect of a specified lot or batch, the date set out in column 2 of the List of Drugs with Extended Expiration Dates. (**date limite d’utilisation reportée**)
+
+**List of Drugs with Extended Expiration Dates** means the *List of Drugs with Extended Expiration Dates* that is published by the Government of Canada on its website, as amended from time to time. (**Liste des drogues dont la date limite d’utilisation est reportée**)
+
+**specified lot or batch** means a lot or batch of a drug set out in column 1 of the List of Drugs with Extended Expiration Dates. (**lot ou lot de fabrication inscrit**)
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 24
+
+</details>
+
+### C.10.015
+
+(1) The Minister may add a lot or batch of a drug to column 1 of the List of Drugs with Extended Expiration Dates and a date to column 2 of that list in relation to the lot or batch only if
+
+- (a) a drug identification number has been assigned to the drug under subsection C.01.014.2(1) and not been cancelled; and
+
+- (b) the Minister has reasonable grounds to believe that
+  - (i) there is a shortage or risk of shortage of the drug,
+  - (ii) a shortage of the drug, if it were to occur, could present a risk of injury to human health, and
+  - (iii) the lot or batch will comply with the specifications for that drug until at least the date to be added to column 2.
+
+(2) In subsection (1), **specifications** has the same meaning as in section C.02.002.
+
+
+### C.10.016
+
+Sections C.10.017 to C.10.021 apply in respect of a specified lot or batch and its extended expiration date if the following information is also set out in the List of Drugs with Extended Expiration Dates:
+
+- (a) the drug’s brand name;
+
+- (b) the drug identification number assigned to the drug;
+
+- (c) the name of the manufacturer of the drug;
+
+- (d) the expiration date of the lot or batch; and
+
+- (e) the date on which the Minister added the lot or batch to that list.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 24
+
+</details>
+
+### C.10.017
+
+Despite the definition **expiration date** in subsection C.01.001(1), a reference to an expiration date in the provisions of this Part — other than paragraph C.10.016(d) — is, in respect of a specified lot or batch, a reference to its extended expiration date.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 24
+
+</details>
+
+### C.10.018
+
+Subparagraphs C.01.004(1)(c)(v) and (3)(b)(vii), paragraph C.04.009(2)(e) and subparagraph C.04.009(6)(a)(ix) do not apply in respect of a specified lot or batch.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 24
+
+</details>
+
+### C.10.019
+
+Sections C.01.014 and C.08.003 do not apply in respect of a specified lot or batch if its extended expiration date is the only change in respect of the lot or batch that relates to the information previously provided to the Minister in connection with the drug.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 24
+
+</details>
+
+### C.10.020
+
+(1) Within five days after the day on which a specified lot or batch is added to the List of Drugs with Extended Expiration Dates, the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug shall notify any person who holds an establishment licence and to whom they sold the lot or batch of its extended expiration date.
+
+(2) Any person who holds an establishment licence, who has sold a specified lot or batch and who is notified of its extended expiration date shall, within five days after the day on which they are notified, notify any other person to whom they sold the lot or batch of that date.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 24
+
+</details>
+
+### C.10.021
+
+No person shall sell a specified lot or batch after its extended expiration date.
+
+<details>
+<summary>Historical Note</summary>
+
+- SOR/2026-96, s. 24
 
 </details>
 
@@ -28236,7 +28603,7 @@ Despite these Regulations, vodka may, until December 13, 2022, be sold in accord
 
 - (c) the Minister issues a notice to the manufacturer under paragraph C.08.004(3)(b) of those Regulations in respect of the submission or supplement.
 
-### — SOR/2021-45, s. 20 as amended by SOR/2024-244, s. 43
+### — SOR/2021-45, s. 20 as amended by SOR/2024-244, s. 43, SOR/2026-96, s.42
 
 ### 20
 
@@ -28244,7 +28611,7 @@ The *Food and Drug Regulations* — other than the following provisions — do n
 
 - (a) sections A.01.014, A.01.015, A.01.022 to A.01.043, A.01.050, A.01.051 and A.01.060.1 to A.01.068;
 
-- (b) sections C.01.004 to C.01.011, C.01.014.9, C.01.014.10, C.01.017 and C.01.019, subsection C.01.020(1) and sections C.01.020.1, C.01.040.3 to C.01.053, C.01.064 to C.01.069 and C.01.401;
+- (b) sections C.01.004 to C.01.011, C.01.014.9, C.01.014.91, C.01.017 and C.01.019, subsection C.01.020(1) and sections C.01.020.1, C.01.040.3 to C.01.053, C.01.064 to C.01.069 and C.01.401;
 
 - (c) the provisions of Divisions 1A and 2 of Part C;
 
@@ -28911,205 +29278,3 @@ Item 6 of Table II to section C.01A.008 of the Regulations is replaced by the fo
 (1) The portion of section C.09.001 of the French version of the Regulations before paragraph (a) is replaced by the following:
 
 (2) Paragraphs C.09.001(a) and (b) of the Regulations are replaced by the following:
-
-### — SOR/2026-96, s. 1
-
-### 1
-
-(1) The definition **discontinue** in subsection C.01.001(1) of the *Food and Drug Regulations*[^] is replaced by the following:
-
-(2) Subsection C.01.001(1) of the Regulations is amended by adding the following in alphabetical order:
-
-### — SOR/2026-96, s. 2
-
-### 2
-
-Section C.01.014.7 of the Regulations is renumbered as subsection C.01.014.7(1) and is amended by adding the following:
-
-### — SOR/2026-96, s. 3
-
-### 3
-
-Section C.01.014.71 of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 4
-
-### 4
-
-Section C.01.014.8 of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 5
-
-### 5
-
-(1) The portion of subsection C.01.014.9(1) of the Regulations before paragraph (b) is replaced by the following:
-
-(2) Paragraph C.01.014.9(2)(b) of the English version of the Regulations is replaced by the following:
-
-(3) Subsections C.01.014.9(3) and (4) of the Regulations are replaced by the following:
-
-### — SOR/2026-96, s. 6
-
-### 6
-
-(1) The portion of subsection C.01.014.10(1) of the Regulations before paragraph (b) is replaced by the following:
-
-(2) Paragraphs C.01.014.91(2)(a) and (b) of the Regulations are replaced by the following:
-
-(3) Subsection C.01.014.91(3) of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 7
-
-### 7
-
-Section C.01.014.11 of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 8
-
-### 8
-
-(1) The portion of subsection C.01.014.12(1) of the Regulations before paragraph (a) is replaced by the following:
-
-(2) Subsection C.01.014.93(1) of the Regulations is amended by adding the following after paragraph (a):
-
-(3) Paragraph C.01.014.93(1)(b) of the Regulations is amended by striking out “or” at the end of subparagraph (iii) and by replacing subparagraph (iv) with the following:
-
-(4) Subsection C.01.014.93(2) of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 9
-
-### 9
-
-Section C.01.014.13 of the Regulations is renumbered as section C.01.014.94.
-
-### — SOR/2026-96, s. 10
-
-### 10
-
-Subsection C.01.014.14(1) of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 11
-
-### 11
-
-Paragraph C.01.020.1(2)(c) of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 12
-
-### 12
-
-The Regulations are amended by adding the following before section C.10.001:
-
-### — SOR/2026-96, s. 13
-
-### 13
-
-Paragraph C.10.001(2)(b) of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 14
-
-### 14
-
-The Regulations are amended by adding the following after section C.10.003:
-
-### — SOR/2026-96, s. 15
-
-### 15
-
-(1) The portion of subsection C.10.004(1) of the Regulations before the first definition is replaced by the following:
-
-(2) The definition **drug** in subsection C.10.004(1) of the Regulations is repealed.
-
-(3) The definition **designated drug** in subsection C.10.004(1) of the Regulations is replaced by the following:
-
-(4) Subsection C.10.004(1) of the Regulations is amended by adding the following in alphabetical order:
-
-(5) Subsection C.10.004(2) of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 16
-
-### 16
-
-Section C.10.005 of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 17
-
-### 17
-
-(1) The portion of subsection C.10.006(1) of the Regulations before subparagraph (a)(i) is replaced by the following:
-
-(2) Paragraph C.10.006(1)(b) of the Regulations is replaced by the following:
-
-(3) The portion of paragraph C.10.006(1)(d) of the Regulations before subparagraph (i) is replaced by the following:
-
-(4) Subparagraphs C.10.006(1)(d)(iii) and (iv) of the Regulations are replaced by the following:
-
-(5) Paragraphs C.10.006(1)(e) to (g) of the Regulations are replaced by the following:
-
-(6) Subsection C.10.006(2) of the Regulations is repealed.
-
-### — SOR/2026-96, s. 18
-
-### 18
-
-Section C.10.007 of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 19
-
-### 19
-
-(1) The portion of subsection C.10.008(1) of the Regulations before paragraph (b) is replaced by the following:
-
-(2) Subparagraph C.10.008(1)(b)(i) of the Regulations is replaced by the following:
-
-(3) Subparagraph C.10.008(1)(b)(iii) of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 20
-
-### 20
-
-(1) Subsection C.10.009(1) of the Regulations is replaced by the following:
-
-(2) Subparagraph C.10.009(2)(b)(i) of the Regulations is replaced by the following:
-
-(3) Subsection C.10.009(3) of the Regulations is replaced by the following:
-
-(4) Subsection C.10.009(6) of the Regulations is repealed.
-
-### — SOR/2026-96, s. 21
-
-### 21
-
-Subsection C.10.010(3) of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 22
-
-### 22
-
-The Regulations are amended by adding the following after section C.10.010:
-
-### — SOR/2026-96, s. 23
-
-### 23
-
-Subsection C.10.011(2) of the Regulations is replaced by the following:
-
-### — SOR/2026-96, s. 24
-
-### 24
-
-The Regulations are amended by adding the following after section C.10.011:
-
-### — SOR/2026-96, s. 25
-
-### 25
-
-The Regulations are amended by replacing “designated drug” with “drug” in the following provisions:
-
-- (a) subparagraph C.10.006(1)(a)(ii);
-
-- (b) the portion of subparagraph C.10.006(1)(a)(iii) before clause (A);
-
-- (c) subparagraphs C.10.006(1)(a)(v) and (vi); and
-
-- (d) paragraph C.10.006(1)(c).

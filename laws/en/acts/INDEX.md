@@ -1,6 +1,6 @@
 # Federal Acts
 
-_964 documents_
+_967 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -40,6 +40,7 @@ _964 documents_
 | A-6 | [Agricultural Products Marketing Act](A-6-agricultural-products-marketing-act.md) | An Act to provide for the marketing of agricultural products in interprovincial and export trade |
 | A-8.8 | [Agriculture and Agri-Food Administrative Monetary Penalties Act](A-8.8-agriculture-and-agri-food-administrative-monetary-penalties-act.md) | An Act to establish a system of administrative monetary penalties for the enforcement of the Farm Debt Mediation Act, the Feeds Act, the Fertilizers Act, the Health of Animals Act, the Pest Control Products Act, the Plant Protection Act, the Safe Food for Canadians Act and the Seeds Act |
 | A-9 | [Department of Agriculture and Agri-Food Act](A-9-department-of-agriculture-and-agri-food-act.md) | An Act respecting the Department of Agriculture and Agri-Food |
+| B-0.5 | [Bail and Sentencing Reform Act](B-0.5-bail-and-sentencing-reform-act.md) | An Act to amend the Criminal Code, the Youth Criminal Justice Act and the National Defence Act (bail and sentencing) |
 | B-1.01 | [Bank Act](B-1.01-bank-act.md) | An Act respecting banks and banking |
 | B-1.5 | [Bank for International Settlements (Immunity) Act](B-1.5-bank-for-international-settlements-immunity-act.md) | An Act to provide immunity to the Bank for International Settlements from government measures and from civil judicial process |
 | B-1.7 | [Bank of British Columbia Business Continuation Act](B-1.7-bank-of-british-columbia-business-continuation-act.md) | An Act to facilitate the continuation of the business of the Bank of British Columbia |
@@ -247,6 +248,7 @@ _964 documents_
 | C-45.9 | [Crimes Against Humanity and War Crimes Act](C-45.9-crimes-against-humanity-and-war-crimes-act.md) | An Act respecting genocide, crimes against humanity and war crimes and to implement the Rome Statute of the International Criminal Court, and to make consequential amendments to other Acts |
 | C-46 | [Criminal Code](C-46-criminal-code.md) | An Act respecting the Criminal Law |
 | C-47 | [Criminal Records Act](C-47-criminal-records-act.md) | An Act to provide for the suspension of the records of persons who have been convicted of offences and have subsequently rehabilitated themselves |
+| C-47.4 | [Critical Cyber Systems Protection Act](C-47.4-critical-cyber-systems-protection-act.md) | An Act respecting the protection of critical cyber systems in the federally regulated sector |
 | C-49 | [Advance Payments for Crops Act](C-49-advance-payments-for-crops-act.md) | An Act to facilitate the making of advance payments for crops |
 | C-49.6 | [Crown Corporations Dissolution or Transfer Authorization Act](C-49.6-crown-corporations-dissolution-or-transfer-authorization-act.md) | An Act to provide for the dissolution or transfer of certain Crown corporations and to amend certain Acts in consequence thereof |
 | C-49.8 | [Department of Crown-Indigenous Relations and Northern Affairs Act](C-49.8-department-of-crown-indigenous-relations-and-northern-affairs-act.md) | An Act respecting the Department of Crown-Indigenous Relations and Northern Affairs |
@@ -263,6 +265,7 @@ _964 documents_
 | C-52.6 | [Customs Act](C-52.6-customs-act.md) | An Act respecting Customs |
 | C-53 | [Customs and Excise Offshore Application Act](C-53-customs-and-excise-offshore-application-act.md) | An Act to apply the customs and excise jurisdiction of Canada to the continental shelf of Canada |
 | C-54.011 | [Customs Tariff](C-54.011-customs-tariff.md) | An Act respecting the imposition of duties of customs and other charges, to give effect to the International Convention on the Harmonized Commodity Description and Coding System, to provide relief against the imposition of certain duties of customs or other charges, to provide for other related matters and to amend or repeal certain Acts in consequence thereof |
+| C-55.5 | [An Act respecting cyber security, amending the Telecommunications Act and making consequential amendments to other Acts](C-55.5-an-act-respecting-cyber-security-amending-the-telecommunications-act-and-making.md) |  |
 | C-6 | [Canada Health Act](C-6-canada-health-act.md) | An Act relating to cash contributions by Canada and relating to criteria and conditions in respect of insured health services and extended health care services |
 | C-6.1 | [Canada Health Care, Early Childhood Development and Other Social Services Funding Act](C-6.1-canada-health-care-early-childhood-development-and-other-social-services-funding.md) | An Act respecting the provision of increased funding for health care services, medical equipment, health information and communications technologies, early childhood development and other social services and to amend the Federal-Provincial Fiscal Arrangements Act |
 | C-6.10 | [Canada–Honduras Economic Growth and Prosperity Act](C-6.10-canadahonduras-economic-growth-and-prosperity-act.md) | An Act to implement the Free Trade Agreement between Canada and the Republic of Honduras, the Agreement on Environmental Cooperation between Canada and the Republic of Honduras and the Agreement on Labour Cooperation between Canada and the Republic of Honduras |

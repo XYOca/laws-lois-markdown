@@ -13179,6 +13179,16 @@ The *National Defence Act*, as it read immediately before the coming into force 
 
 Paragraphs 203.1(2)(c) and (i) of the *National Defence Act*, as enacted, respectively, by paragraphs 63(21)(d) and (e), apply only in respect of sentences imposed in respect of conduct engaged in on or after the day on which those paragraphs 63(21)(d) and (e) produce their effects.
 
+### — 2026, c. 11, s. 82
+
+### 82 Clarification — application
+
+(1) For greater certainty, the provisions of the *National Defence Act*, as enacted by sections 79 and 80, also apply with respect to any matter or proceeding that is ongoing on the day on which those sections come into force.
+
+**Clarification — certain offences**
+
+(2) For greater certainty, section 302 of the *National Defence Act*, as enacted by section 81, applies only with respect to an offence that is committed on or after the day on which that section 81 comes into force.
+
 
 ## AMENDMENTS NOT IN FORCE
 
@@ -13199,3 +13209,21 @@ Subsection 35(1) of the Act is replaced by the following:
 ### 46
 
 The Act is amended by adding the following after section 165.37:
+
+### — 2026, c. 11, s. 79
+
+### 79
+
+Paragraph 203.3(a) of the *National Defence Act* is amended by adding the following after subparagraph (iv):
+
+### — 2026, c. 11, s. 80
+
+### 80
+
+The Act is amended by adding the following after section 203.4:
+
+### — 2026, c. 11, s. 81
+
+### 81
+
+The portion of section 302 of the Act before paragraph (a) is replaced by the following:

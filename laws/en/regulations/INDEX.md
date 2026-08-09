@@ -1404,7 +1404,7 @@ _4878 documents_
 | SI/2026-23 | [SI-2026-23-SI-2026-23](SI-2026-23-SI-2026-23.md) | Order in Council Directing that the Annual Report of the Canadian Accessibility Standards Development Organization Be Discontinued |
 | SI/2026-27 | [SI-2026-27-SI-2026-27](SI-2026-27-SI-2026-27.md) | Remission Order in Respect of the 2016–2017 and 2019 Bovine Tuberculosis Outbreaks |
 | SI/2026-28 | [SI-2026-28-SI-2026-28](SI-2026-28-SI-2026-28.md) | Remission Order for Certain Fees Under the Passport and Other Travel Document Services Fees Regulations (March 31, 2026 to April 29, 2026) |
-| SI/2026-29 | [SI-2026-29-SI-2026-29](SI-2026-29-SI-2026-29.md) | Proclamation by the right Honourable Louise Arbour announcing the assumption of the powers and functions of Governor General and commander-in-chief of canada |
+| SI/2026-29 | [SI-2026-29-SI-2026-29](SI-2026-29-SI-2026-29.md) | Proclamation by the Right Honourable Louise Arbour announcing the assumption of the powers and functions of Governor General and Commander-in-Chief of Canada |
 | SI/2026-3 | [SI-2026-3-SI-2026-3](SI-2026-3-SI-2026-3.md) | Order Acknowledging Receipt of the Assessments Done Under Subsection 23(1) of the Species at Risk Act (American Marten, Newfoundland Population and Six Other Wildlife Species) |
 | SI/2026-5 | [SI-2026-5-SI-2026-5](SI-2026-5-SI-2026-5.md) | Order Transferring from the Department of Transport to the Department of National Defence the Control and Supervision of the Aircraft Services Directorate |
 | SI/2026-7 | [SI-2026-7-SI-2026-7](SI-2026-7-SI-2026-7.md) | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Afghanistan) Remission Order |
