@@ -1017,3 +1017,32 @@ Despite sections 27 and 27.1 of the *Bank of Canada Act*, any ascertained surplu
 - (a) the Bank of Canada’s retained earnings are equal to zero, and
 
 - (b) the ascertained surplus applied to the Bank of Canada’s retained earnings is equal to its losses arising from the purchase of Government of Canada securities as part of the Government of Canada Bond Purchase Program from April 1, 2020 to April 25, 2022.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 22, s. 20
+
+### 20
+
+(1) Section 2 of the *Bank of Canada Act* is amended by adding the following in alphabetical order:
+
+(2) Section 2 of the Act is amended by adding the following in alphabetical order:
+
+(3) The definition **entity subject to assessment fees** in section 2 of the Act is amended by adding, in alphabetical order, a reference to “accredited third-party service provider” in the list of entities.
+
+(4) Section 2 of the Act is amended by adding the following in alphabetical order:
+
+(5) The definition **entity subject to assessment fees** in section 2 of the Act is amended by adding, in alphabetical order, a reference to “clearing house” in the list of entities.
+
+(6) Section 2 of the Act is amended by adding the following in alphabetical order:
+
+(7) The definition **entity subject to assessment fees** in section 2 of the Act is amended by adding, in alphabetical order, a reference to “external complaints body” in the list of entities.
+
+(8) Section 2 of the Act is amended by adding the following in alphabetical order:
+
+(9) The definition **entity subject to assessment fees** in section 2 of the Act is amended by adding, in alphabetical order, a reference to “issuer” in the list of entities.
+
+(10) Section 2 of the Act is amended by adding the following in alphabetical order:
+
+(11) The definition **entity subject to assessment fees** in section 2 of the Act is amended by adding, in alphabetical order, a reference to “participating entity” in the list of entities.

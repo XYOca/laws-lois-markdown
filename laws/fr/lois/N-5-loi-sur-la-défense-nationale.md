@@ -13004,6 +13004,146 @@ Les alinéas 203.1(2)c) et i) de la *Loi sur la défense nationale*, édictés r
 
 (2) Il est entendu que l’article 302 de la *Loi sur la défense nationale* édicté par l’article 81 ne s’applique qu’à l’égard des infractions commises à la date d’entrée en vigueur de cet article 81 ou après cette date.
 
+### — 2026, ch. 16, art. 56
+
+### 56 Terminologie
+
+Les termes utilisés aux articles 57 à 65 s’entendent au sens de la *Loi sur la défense nationale*.
+
+### — 2026, ch. 16, art. 57
+
+### 57 Grand prévôt des Forces canadiennes
+
+(1) La personne qui occupe la charge de grand prévôt des Forces canadiennes à la date d’entrée en vigueur de l’article 4 :
+
+- a) continue d’exercer sa charge jusqu’à l’expiration du mandat pour lequel elle a été nommée, mais elle l’exerce à titre amovible et à titre de grand prévôt général;
+
+- b) pour la durée de ce mandat, est réputée avoir été nommée en vertu du paragraphe 18.3(1) de la *Loi sur la défense nationale*, dans sa version modifiée par cet article 4.
+
+**Absence de droit à réclamation**
+
+(2) Malgré les dispositions de tout contrat, accord ou décret, la personne visée au paragraphe (1) n’a aucun droit de réclamer ou de recevoir une compensation, des dommages-intérêts, une indemnité ou toute autre forme de dédommagement de Sa Majesté du chef du Canada ou de ses employés ou mandataires en raison des modifications apportées à la nature de sa nomination par ce paragraphe.
+
+**Enquête en cours**
+
+(3) Est poursuivie sous le régime des paragraphes 18.3(3) et (4) de la *Loi sur la défense nationale*, dans leur version antérieure à la date d’entrée en vigueur de l’article 4, toute enquête en cours commencée avant cette date sous le régime de ces paragraphes, avec les modifications suivantes :
+
+- a) le comité d’enquête transmet le rapport de ses conclusions et le dossier de l’enquête au ministre qui peut recommander au gouverneur en conseil de révoquer le grand prévôt général;
+
+- b) le pouvoir de prononcer la révocation mentionné à ce paragraphe 18.3(3) est exercé par le gouverneur en conseil.
+
+### — 2026, ch. 16, art. 58
+
+### 58 Lignes directrices et instructions générales : vice-chef d’état-major de la défense
+
+(1) Les lignes directrices établies en vertu du paragraphe 18.5(2) de la *Loi sur la défense nationale*, dans sa version antérieure à la date d’entrée en vigueur de l’article 6, et les instructions générales données en vertu de ce paragraphe qui s’appliquent à cette date sont réputées avoir été établies ou données par le ministre en vertu du paragraphe 18.5(2) de la *Loi sur la défense nationale*, dans sa version modifiée par cet article 6.
+
+**Copie au ministre**
+
+(2) Dans les meilleurs délais après la date d’entrée en vigueur de l’article 6, le vice-chef d’état-major de la défense transmet au ministre une copie des lignes directrices et des instructions visées au paragraphe (1).
+
+### — 2026, ch. 16, art. 59
+
+### 59 Lignes directrices et instructions spécifiques : vice-chef d’état-major de la défense
+
+Les lignes directrices établies en vertu du paragraphe 18.5(3) de la *Loi sur la défense nationale*, dans sa version antérieure à la date d’entrée en vigueur de l’article 6, et les instructions données en vertu de ce paragraphe qui s’appliquent à cette date cessent de s’appliquer.
+
+### — 2026, ch. 16, art. 60
+
+### 60 Transfert des enquêtes en cours
+
+Dans les meilleurs délais après la date d’entrée en vigueur de l’article 7, mais au plus tard soixante jours après cette date, les Forces canadiennes transfèrent aux autorités civiles compétentes la responsabilité des enquêtes qui sont en cours concernant toute infraction visée à l’un ou l’autre des alinéas 70d) à h) de la *Loi sur la défense nationale*, édictés par cet article 7, qui a été ou qui est présumée avoir été commise au Canada et pour laquelle aucune accusation n’a été portée au titre de cette loi et aucune dénonciation n’a été faite sous le régime du *Code criminel* avant cette date.
+
+### — 2026, ch. 16, art. 61
+
+### 61 Application de la *Loi sur la défense nationale*
+
+La *Loi sur la défense nationale*, dans sa version antérieure à la date d’entrée en vigueur de l’article 7, continue de s’appliquer à l’égard de toute infraction visée à l’un ou l’autre des alinéas 70d) à h) de cette loi, édictés par cet article 7, qui a été ou qui est présumée avoir été commise au Canada et pour laquelle une accusation a été portée au titre de cette loi ou une dénonciation a été faite sous le régime du *Code criminel* avant cette date.
+
+### — 2026, ch. 16, art. 62
+
+### 62 Manquements d’ordre militaire — juges militaires
+
+Il ne peut être donné suite, à la date d’entrée en vigueur de l’article 11 ou après cette date, à une accusation pour manquement d’ordre militaire portée contre un juge militaire avant cette date.
+
+### — 2026, ch. 16, art. 63
+
+### 63 Directeur des poursuites militaires
+
+(1) La personne qui occupe la charge de directeur des poursuites militaires à la date d’entrée en vigueur de l’article 15 :
+
+- a) continue d’exercer sa charge jusqu’à l’expiration du mandat pour lequel elle a été nommée;
+
+- b) pour la durée de ce mandat, est réputée avoir été nommée en vertu du paragraphe 165.1(1) de la *Loi sur la défense nationale*, dans sa version modifiée par cet article 15;
+
+- c) malgré le paragraphe 165.1(3) de la *Loi sur la défense nationale*, dans sa version modifiée par cet article 15, peut être nommée en vertu de ce paragraphe 165.1(1) pour un nouveau mandat unique d’une durée maximale de sept ans.
+
+**Enquête en cours**
+
+(2) Est poursuivie sous le régime des paragraphes 165.1(2) et (2.1) de la *Loi sur la défense nationale*, dans leur version antérieure à la date d’entrée en vigueur de l’article 15, toute enquête en cours commencée avant cette date sous le régime de ces paragraphes. Toutefois, le comité d’enquête transmet sa recommandation au gouverneur en conseil, et le pouvoir de prononcer la révocation mentionné à ce paragraphe 165.1(2) est exercé par le gouverneur en conseil.
+
+### — 2026, ch. 16, art. 64
+
+### 64 Lignes directrices et instructions spécifiques : juge-avocat général
+
+(1) Les lignes directrices établies en vertu du paragraphe 165.17(3) de la *Loi sur la défense nationale*, dans sa version antérieure à la date d’entrée en vigueur du paragraphe 17(1), et les instructions données en vertu de ce paragraphe qui s’appliquent à l’égard d’une poursuite en cours à cette date sont réputées avoir été établies ou données par le ministre en vertu du paragraphe 165.17(3) de la *Loi sur la défense nationale*, dans sa version modifiée par ce paragraphe 17(1).
+
+**Accessibilité au public**
+
+(2) Le paragraphe 165.17(5) de la *Loi sur la défense nationale*, dans sa version modifiée par le paragraphe 17(2), s’applique aux lignes directrices et aux instructions mentionnées au paragraphe (1).
+
+### — 2026, ch. 16, art. 65
+
+### 65 Directeur du service d’avocats de la défense
+
+(1) La personne qui occupe la charge de directeur du service d’avocats de la défense à la date d’entrée en vigueur de l’article 40 :
+
+- a) continue d’exercer sa charge jusqu’à l’expiration du mandat pour lequel elle a été nommée;
+
+- b) pour la durée de ce mandat, est réputée avoir été nommée en vertu du paragraphe 249.18(1) de la *Loi sur la défense nationale*, dans sa version modifiée par cet article 40;
+
+- c) malgré le paragraphe 249.18(3) de la *Loi sur la défense nationale*, dans sa version modifiée par cet article 40, peut être nommée en vertu de ce paragraphe 249.18(1) pour un nouveau mandat unique d’une durée maximale de sept ans.
+
+**Enquête en cours**
+
+(2) Est poursuivie sous le régime des paragraphes 249.18(2) et (2.1) de la *Loi sur la défense nationale*, dans leur version antérieure à la date d’entrée en vigueur de l’article 40, toute enquête en cours commencée avant cette date sous le régime de ces paragraphes. Toutefois, le comité d’enquête transmet sa recommandation au gouverneur en conseil, et le pouvoir de prononcer la révocation mentionné à ce paragraphe 249.18(2) est exercé par le gouverneur en conseil.
+
+### — 2026, ch. 16, art. 65.1
+
+### 65.1 Examen
+
+(1) Dans les trois ans suivant la date d’entrée en vigueur des articles 7 et 8, le ministre de la Défense nationale, en consultation avec le ministre de la Justice, veille à faire effectuer un examen indépendant des alinéas 70d) à h) et des articles 70.1 à 70.3 de la *Loi sur la défense nationale* et de leur application.
+
+**Rapport au Parlement**
+
+(2) Dans l’année suivant le début de l’examen, le ministre de la Défense nationale fait déposer un rapport de l’examen devant chaque chambre du Parlement.
+
+**Consultation**
+
+(3) Le rapport se fonde sur la consultation des autorités compétentes au sein des systèmes de justice militaire et civile, de victimes, de défenseurs, d’universitaires et de tout autre intervenant.
+
+**Contenu du rapport**
+
+(4) Le rapport comprend notamment les éléments suivants :
+
+- a) des statistiques sur le nombre de causes dans le cadre desquelles des infractions ont été poursuivies dans le système de justice civile en raison des alinéas 70d) à h) de la *Loi sur la défense nationale*, l’issue de ces causes et tout autre renseignement pertinent concernant l’application de ces alinéas et des articles 70.1 à 70.3 de cette loi;
+
+- b) une évaluation des services offerts aux membres des Forces armées canadiennes victimes d’infractions poursuivies dans le système de justice civile en raison des alinéas 70d) à h) de cette loi;
+
+- c) une évaluation des avantages et des inconvénients de l’application des alinéas 70d) à h) et des articles 70.1 à 70.3 de cette loi pour le système de justice militaire et les autorités de ce système et les mesures pouvant être prises pour remédier à ces inconvénients;
+
+- d) les mesures pouvant être prises pour améliorer l’accès à la justice pour les membres des Forces armées canadiennes en ce qui concerne les infractions visées aux alinéas 70d) à h) de cette loi;
+
+- e) l’avis du ministre de la Défense nationale sur la question de savoir si les alinéas 70d) à h) et les articles 70.1 à 70.3 de cette loi devraient être abrogés.
+
+**Renvoi**
+
+(5) Le rapport est renvoyé devant un comité du Sénat, de la Chambre des communes ou des deux chambres du Parlement désigné ou constitué pour l’examen du rapport.
+
+**Résolution — abrogation**
+
+(6) Si le rapport indique que le ministre de la Défense nationale est d’avis que les alinéas 70d) à h) et les articles 70.1 à 70.3 de la *Loi sur la défense nationale* devraient être abrogés, ce dernier peut faire déposer auprès du président du Sénat et du président de la Chambre des communes une motion visant l’adoption par chaque chambre du Parlement d’une résolution portant que la chambre partage l’avis du ministre et demande au gouvernement de déposer un projet de loi visant à abroger ces alinéas et articles.
+
 
 ## MODIFICATIONS NON EN VIGUEUR
 
@@ -13042,3 +13182,665 @@ La même loi est modifiée par adjonction, après l’article 203.4, de ce qui s
 ### 81
 
 Le passage de l’article 302 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 2
+
+### 2
+
+L’article 9.2 de la *Loi sur la défense nationale* est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+### — 2026, ch. 16, art. 3
+
+### 3
+
+(1) L’alinéa 12(3)a) de la même loi est remplacé par ce qui suit :
+
+(2) Le passage du paragraphe 12(4) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 4
+
+### 4
+
+Les paragraphes 18.3(1) à (4) de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 16, art. 5
+
+### 5
+
+L’alinéa 18.4a) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 6
+
+### 6
+
+Les articles 18.5 et 18.6 de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 16, art. 7
+
+### 7
+
+L’article 70 de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+### — 2026, ch. 16, art. 8
+
+### 8
+
+La même loi est modifiée par adjonction, après l’article 70, de ce qui suit :
+
+### — 2026, ch. 16, art. 9
+
+### 9
+
+(1) Le paragraphe 71.16(1) de la même loi est remplacé par ce qui suit :
+
+(2) Les alinéas 71.16(3)a) et b) de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 16, art. 11
+
+### 11
+
+La même loi est modifiée par adjonction, après l’article 162.5, de ce qui suit :
+
+### — 2026, ch. 16, art. 12
+
+### 12
+
+L’alinéa 162.9c) de la même loi est abrogé.
+
+### — 2026, ch. 16, art. 13
+
+### 13
+
+L’article 163 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+### — 2026, ch. 16, art. 14
+
+### 14
+
+L’article 163.4 de la version française de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 15
+
+### 15
+
+L’article 165.1 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 16
+
+### 16
+
+L’article 165.16 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 17
+
+### 17
+
+(1) Le paragraphe 165.17(3) de la même loi est remplacé par ce qui suit :
+
+(2) Les paragraphes 165.17(5) et (6) de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 16, art. 18
+
+### 18
+
+Le paragraphe 165.21(1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 19
+
+### 19
+
+(1) Le passage du paragraphe 165.22(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(2) Le paragraphe 165.22(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 20
+
+### 20
+
+(1) Le sous-alinéa 183.5(1)a)(i) de la même loi est remplacé par ce qui suit :
+
+(2) Les alinéas 183.5(2)a) et b) de la version française de la même loi sont remplacés par ce qui suit :
+
+(3) Le paragraphe 183.5(2) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+(4) Le paragraphe 183.5(4) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+(5) Le paragraphe 183.5(6) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 21
+
+### 21
+
+(1) Le paragraphe 183.6(4) de la même loi est remplacé par ce qui suit :
+
+(2) L’article 183.6 de la même loi est modifié par adjonction, après le paragraphe (6), de ce qui suit :
+
+(3) L’article 183.6 de la même loi est modifié par adjonction, après le paragraphe (9), de ce qui suit :
+
+### — 2026, ch. 16, art. 22
+
+### 22
+
+La même loi est modifiée par adjonction, après l’article 183.6, de ce qui suit :
+
+### — 2026, ch. 16, art. 23
+
+### 23
+
+(1) La définition de **infraction désignée**, à l’article 227 de la même loi, est remplacée par ce qui suit :
+
+(2) L’article 227 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+### — 2026, ch. 16, art. 24
+
+### 24
+
+L’article 227.01 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 25
+
+### 25
+
+(1) Le passage du paragraphe 227.02(2) de la même loi précédant l’alinéa c) est remplacé par ce qui suit :
+
+(2) Les paragraphes 227.02(2.1) à (5) de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 16, art. 26
+
+### 26
+
+La même loi est modifiée par adjonction, après l’article 227.02, de ce qui suit :
+
+### — 2026, ch. 16, art. 27
+
+### 27
+
+(1) L’alinéa 227.03(1)c) de la même loi est remplacé par ce qui suit :
+
+(2) Le paragraphe 227.03(3) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 28
+
+### 28
+
+Le paragraphe 227.04(1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 29
+
+### 29
+
+L’article 227.07 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+### — 2026, ch. 16, art. 30
+
+### 30
+
+L’article 227.09 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+### — 2026, ch. 16, art. 31
+
+### 31
+
+(1) Le passage du paragraphe 227.12(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(2) Les paragraphes 227.12(3) et (4) de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 16, art. 32
+
+### 32
+
+Le paragraphe 227.13(1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 33
+
+### 33
+
+L’alinéa 227.15(1)b) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 34
+
+### 34
+
+L’alinéa 227.18(1)b) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 35
+
+### 35
+
+La même loi est modifiée par adjonction, après l’article 227.21, de ce qui suit :
+
+### — 2026, ch. 16, art. 36
+
+### 36
+
+L’alinéa 230g) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 37
+
+### 37
+
+L’alinéa 230.1h) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 38
+
+### 38
+
+L’article 230.2 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 39
+
+### 39
+
+(1) Les paragraphes 240.5(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+(2) Les paragraphes 240.5(3) et (4) de la version française de la même loi sont remplacés par ce qui suit :
+
+(3) L’article 240.5 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+### — 2026, ch. 16, art. 40
+
+### 40
+
+L’article 249.18 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 41
+
+### 41
+
+La définition de **plainte pour ingérence**, à l’article 250 de la même loi, est remplacée par ce qui suit :
+
+### — 2026, ch. 16, art. 42
+
+### 42
+
+Le paragraphe 250.19(1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 43
+
+### 43
+
+Le paragraphe 250.26(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 44
+
+### 44
+
+Le paragraphe 250.49(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 45
+
+### 45
+
+Le paragraphe 250.5(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 46
+
+### 46
+
+L’article 303.1 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+### — 2026, ch. 16, art. 47
+
+### 47 Remplacement de « grand prévôt des Forces canadiennes » et « grand prévôt »
+
+(1) Dans les passages ci-après de la même loi, « grand prévôt des Forces canadiennes » et « grand prévôt » sont remplacés par « grand prévôt général » :
+
+- a) l’intertitre précédant l’article 18.3;
+
+- b) le paragraphe 18.3(5);
+
+- c) le passage de l’article 18.4 précédant l’alinéa a);
+
+- d) l’alinéa 215(2)c);
+
+- e) le paragraphe 227.04(3);
+
+- f) le sous-alinéa 227.05(1)d)(iii);
+
+- g) le paragraphe 227.07(1);
+
+- h) le paragraphe 227.08(4);
+
+- i) l’article 227.11;
+
+- j) le paragraphe 227.13(3);
+
+- k) le paragraphe 227.15(4);
+
+- l) le passage du paragraphe 227.15(5) précédant l’alinéa a);
+
+- m) le paragraphe 227.16(3);
+
+- n) le passage du paragraphe 227.18(1) précédant l’alinéa a);
+
+- o) le passage du paragraphe 227.18(2) précédant l’alinéa a);
+
+- p) le paragraphe 227.19(1);
+
+- q) le passage du paragraphe 227.19(2) précédant l’alinéa a);
+
+- r) l’article 227.21;
+
+- s) le paragraphe 240.5(3);
+
+- t) le paragraphe 250.21(1);
+
+- u) les sous-alinéas 250.21(2)c)(i) à (iii);
+
+- v) l’article 250.22;
+
+- w) le paragraphe 250.24(2);
+
+- x) l’article 250.25;
+
+- y) le paragraphe 250.26(1);
+
+- z) l’article 250.261;
+
+- z.1) le paragraphe 250.27(1);
+
+- z.2) le passage du paragraphe 250.27(4) précédant l’alinéa a);
+
+- z.3) le paragraphe 250.27(6);
+
+- z.4) le paragraphe 250.28(1);
+
+- z.5) le passage de l’article 250.29 précédant l’alinéa a);
+
+- z.6) le paragraphe 250.3(1);
+
+- z.7) le paragraphe 250.31(2);
+
+- z.8) le paragraphe 250.32(3);
+
+- z.9) les paragraphes 250.34(2) et (3);
+
+- z.91) les paragraphes 250.35(1) et (3);
+
+- z.92) l’alinéa 250.36e);
+
+- z.93) l’alinéa 250.37(1)d);
+
+- z.94) les paragraphes 250.38(3) et (5);
+
+- z.95) l’article 250.39;
+
+- z.96) le paragraphe 250.4(1);
+
+- z.97) l’article 250.48;
+
+- z.98) le paragraphe 250.49(1);
+
+- z.99) le paragraphe 250.53(2).
+
+**Remplacement de « Provost Marshal » — version anglaise**
+
+(2) Dans les passages ci-après de la version anglaise de la même loi, « Provost Marshal » est remplacé par « Provost Marshal General » :
+
+- a) le passage du paragraphe 250.27(5) précédant l’alinéa a);
+
+- b) le passage du paragraphe 250.28(2) précédant l’alinéa a);
+
+- c) le passage du paragraphe 250.28(3) précédant l’alinéa a);
+
+- d) les paragraphes 250.3(2) et (3).
+
+### — 2026, ch. 16, art. 54
+
+### 54
+
+L’article 13 de la *Loi visant à renforcer la justice militaire pour la défense du Canada* est abrogé.
+
+### — 2026, ch. 16, art. 66
+
+### 66 La présente loi
+
+Dès le premier jour où les articles 35 et 47 de la présente loi sont tous deux en vigueur :
+
+- a) le paragraphe 227.23(7) de la *Loi sur la défense nationale* est remplacé par ce qui suit :
+
+- b) le paragraphe 240.5(3) de la *Loi sur la défense nationale* est remplacé par ce qui suit :
+
+- c) les paragraphes 240.5(6) et (7) de la *Loi sur la défense nationale* sont remplacés par ce qui suit :
+
+### — 2026, ch. 16, art. 68
+
+### 68 2024, ch. 23
+
+Dès le premier jour où le paragraphe 1(1) de la *Loi modifiant le Code criminel et d’autres lois en conséquence (matériel d’abus et d’exploitation pédosexuels)*, chapitre 23 des Lois du Canada (2024), et l’article 7 de la présente loi sont tous deux en vigueur, le sous-alinéa 70d)(xi) de la *Loi sur la défense nationale* est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 144
+
+### 144
+
+(1) Les alinéas a) et b) de la définition de **infraction grave contre la personne**, au paragraphe 2(1) de la *Loi sur la défense nationale*, sont remplacés par ce qui suit :
+
+(2) Le paragraphe 2(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+### — 2026, ch. 19, art. 145
+
+### 145
+
+La même loi est modifiée par adjonction, après l’intertitre « Droits » suivant l’article 71.01, de ce qui suit :
+
+### — 2026, ch. 19, art. 146
+
+### 146
+
+(1) Le passage de l’article 71.02 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(2) L’article 71.02 de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+### — 2026, ch. 19, art. 147
+
+### 147
+
+Le passage de l’article 71.03 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 148
+
+### 148
+
+La même loi est modifiée par adjonction, après l’article 71.03, de ce qui suit :
+
+### — 2026, ch. 19, art. 149
+
+### 149
+
+Le passage du paragraphe 71.04(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 150
+
+### 150
+
+La même loi est modifiée par adjonction, après l’article 71.04, de ce qui suit :
+
+### — 2026, ch. 19, art. 151
+
+### 151
+
+L’article 71.08 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 152
+
+### 152
+
+La même loi est modifiée par adjonction, après l’article 119, de ce qui suit :
+
+### — 2026, ch. 19, art. 153
+
+### 153
+
+Le paragraphe 158.6(1.2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 154
+
+### 154
+
+Le paragraphe 159.7(3) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 155
+
+### 155
+
+L’intertitre précédant l’article 180.01 et les articles 180.01 à 180.08 de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 19, art. 156
+
+### 156
+
+(1) Les paragraphes 183.1(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+(2) Le paragraphe 183.1(6) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 157
+
+### 157
+
+(1) Les paragraphes 183.2(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+(2) Les paragraphes 183.2(5) et (6) de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 19, art. 158
+
+### 158
+
+Le paragraphe 183.3(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 159
+
+### 159
+
+L’article 189 de la même loi devient le paragraphe 189(1) et est modifié par adjonction de ce qui suit :
+
+### — 2026, ch. 19, art. 160
+
+### 160
+
+La même loi est modifiée par adjonction, après l’article 196.1, de ce qui suit :
+
+### — 2026, ch. 19, art. 161
+
+### 161
+
+L’alinéa 203.6(3)b) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 162
+
+### 162
+
+(1) L’article 203.71 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+(2) L’article 203.71 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+### — 2026, ch. 19, art. 163
+
+### 163
+
+(1) L’article 203.72 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+(2) Le passage du paragraphe 203.72(3) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(3) L’alinéa 203.72(3)b) de la même loi est remplacé par ce qui suit :
+
+(4) L’article 203.72 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+### — 2026, ch. 19, art. 164
+
+### 164
+
+La même loi est modifiée par adjonction, après l’article 203.72, de ce qui suit :
+
+### — 2026, ch. 19, art. 165
+
+### 165
+
+Le paragraphe 215(1.2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 166
+
+### 166
+
+L’alinéa 230i.1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 167
+
+### 167
+
+L’alinéa 230.1j.1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 168
+
+### 168
+
+Le paragraphe 248.3(3) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 169
+
+### 169
+
+(1) Le paragraphe 303(1) de la même loi est remplacé par ce qui suit :
+
+(2) Le paragraphe 303(3) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 170
+
+### 170
+
+La même loi est modifiée par adjonction, après l’article 303.1, de ce qui suit :
+
+### — 2026, ch. 19, art. 171
+
+### 171 Définitions
+
+Les définitions qui suivent s’appliquent aux articles 172 à 177.
+
+**date de référence** Le trentième jour suivant la date de sanction de la présente loi. (**commencement day**)
+
+**Loi** La *Loi sur la défense nationale*. (**Act**)
+
+### — 2026, ch. 19, art. 172
+
+### 172 Communication et admissibilité
+
+Les articles 180.001 à 180.21 de la Loi, édictés par l’article 155, les alinéas 230i.01) et i.1) de la Loi, dans leur version modifiée par l’article 166, les alinéas 230.1j.01) et j.1) de la Loi, dans leur version modifiée par l’article 167, et les paragraphes 303(1) et (3) de la Loi, dans leur version modifiée par l’article 169, ne s’appliquent qu’à l’égard d’une infraction d’ordre militaire pour laquelle une accusation est portée à la date de référence ou après celle-ci.
+
+### — 2026, ch. 19, art. 173
+
+### 173 Mesures visant à faciliter le témoignage
+
+Il est entendu que les articles 183.1, 183.2 et 183.3 de la Loi, modifiés respectivement par les articles 156, 157 et 158, s’appliquent à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 174
+
+### 174 Ajournement
+
+Il est entendu que le paragraphe 189(2) de la Loi s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 175
+
+### 175 Section 6.01
+
+Il est entendu que la section 6.01 de la Loi ne s’applique qu’à l’égard des infractions commises à la date de référence ou après celle-ci.
+
+### — 2026, ch. 19, art. 176
+
+### 176 Déclarations de la victime et de la collectivité et celle sur les répercussions militaires
+
+Il est entendu que l’alinéa 203.6(3)b), édicté par l’article 161, et les articles 203.71 et 203.72, modifiés respectivement par les articles 162 et 163, s’appliquent à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 177
+
+### 177 Ordonnance de non-communication
+
+Il est entendu que l’article 203.73 de la Loi ne s’applique que relativement à des infractions commises à la date de référence ou après celle-ci.
+
+### — 2026, ch. 19, art. 202
+
+### 202 Projet de loi C-11
+
+(1) Les paragraphes (2) et (3) s’appliquent en cas de sanction du projet de loi C-11, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi sur la modernisation du système de justice militaire* (appelé « autre loi » au présent article).
+
+(2) Dès le premier jour où l’article 4 de l’autre loi et l’article 150 de la présente loi sont tous deux en vigueur, l’alinéa 71.041b) de la *Loi sur la défense nationale* est remplacé par ce qui suit :
+
+(3) Dès le premier jour où l’article 7 de l’autre loi et le paragraphe 12(1) de la présente loi sont tous deux en vigueur, l’alinéa 70d) de la *Loi sur la défense nationale* est modifié par adjonction, après le sous-alinéa (viii), de ce qui suit :

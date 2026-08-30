@@ -43840,22 +43840,6 @@ La formule 12 de la partie XXVIII de la même loi est modifiée par adjonction, 
 
 La partie XXVIII de la même loi est modifiée par adjonction, après la formule 29, de ce qui suit :
 
-### — 2026, ch. 11, art. 83
-
-### 83 Projet de loi C-9
-
-(1) Les paragraphes (2) à (6) s’appliquent en cas de sanction du projet de loi C-9, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à lutter contre la haine* (appelé « autre loi » au présent article).
-
-(2) Si le paragraphe 9(1) de l’autre loi entre en vigueur avant le paragraphe 23(3) de la présente loi, ce paragraphe 23(3) est modifié par remplacement des alinéas 515(4.1)h) à k) qui y sont édictés par ce qui suit :
-
-(3) Si le paragraphe 23(3) de la présente loi entre en vigueur avant le paragraphe 9(1) de l’autre loi, ce paragraphe 9(1) est remplacé par ce qui suit :
-
-(4) Si l’entrée en vigueur du paragraphe 9(1) de l’autre loi et celle du paragraphe 23(3) de la présente loi sont concomitantes, ce paragraphe 9(1) est réputé être entré en vigueur avant ce paragraphe 23(3), le paragraphe (2) s’appliquant en conséquence.
-
-(5) Si le paragraphe 23(5) de la présente loi entre en vigueur avant le paragraphe 9(2) de l’autre loi, ce paragraphe 9(2) est modifié par remplacement de l’alinéa 515(4.3)b) qui y est édicté par ce qui suit :
-
-(6) Si l’entrée en vigueur du paragraphe 9(2) de l’autre loi et celle du paragraphe 23(5) de la présente loi sont concomitantes, ce paragraphe 9(2) est réputé être entré en vigueur avant ce paragraphe 23(5).
-
 ### — 2026, ch. 12, art. 1
 
 ### 1
@@ -43974,82 +43958,992 @@ Le paragraphe 490(2) du *Code criminel*, modifié par l’article 3, s’appliqu
 
 (4) Si l’entrée en vigueur de l’article 25 de l’autre loi et celle de l’article 1 de la présente loi sont concomitantes, cet article 1 est réputé ne pas être entré en vigueur et est abrogé.
 
-### — 2026, ch. 12, art. 18
+### — 2026, ch. 15, art. 2
 
-### 18 Dispositions de coordination avec le projet de loi C-16 — homicide involontaire coupable
+### 2
 
-(1) *Le présent article s’applique en cas de sanction du projet de loi C-16, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à protéger les victimes* (appelé « autre loi » au présent article).*
+L’alinéa a) de la définition de **infraction**, à l’article 183 du *Code criminel*, est modifié par adjonction, après le sous-alinéa (lxxi.1), de ce qui suit :
 
-(2) Si l’article 26 de l’autre loi entre en vigueur avant l’article 1.1 de la présente loi, cet article 1.1 et l’article 15 de la présente loi sont abrogés.
+### — 2026, ch. 15, art. 3
 
-(3) Si l’article 1.1 de la présente loi entre en vigueur avant l’article 26 de l’autre loi :
+### 3
 
-- a) à cet article 26, « L’article 236 de la même loi devient le paragraphe 236(1) et est modifié par adjonction de » est remplacé par « Le paragraphe 236(2) de la même loi est remplacé par »;
+Le paragraphe 318(3) de la même loi est remplacé par ce qui suit :
 
-- b) l’article 98 de l’autre loi est remplacé par ce qui suit :
+### — 2026, ch. 15, art. 4
 
-(4) Si l’entrée en vigueur de l’article 26 de l’autre loi et celle de l’article 1.1 de la présente loi sont concomitantes, cet article 1.1 et l’article 15 de la présente loi sont réputés ne pas être entrés en vigueur et sont abrogés.
+### 4
 
-(5) Si l’article 55 de l’autre loi entre en vigueur avant l’article 6 de la présente loi, cet article 6 est abrogé.
+(1) L’article 319 de la même loi est modifié par adjonction, après le paragraphe (2.1), de ce qui suit :
 
-(6) Si l’article 6 de la présente loi entre en vigueur avant l’article 55 de l’autre loi, cet article 55 est abrogé.
+(1.1) L’alinéa 319(3)b) de la même loi est abrogé.
 
-(7) Si l’entrée en vigueur de l’article 55 de l’autre loi et celle de l’article 6 de la présente loi sont concomitantes, cet article 6 est réputé ne pas être entré en vigueur et est abrogé.
+(1.2) L’alinéa 319(3.1)b) de la même loi est abrogé.
 
-(8) Si l’article 56 de l’autre loi entre en vigueur avant l’article 7 de la présente loi, cet article 7 est abrogé.
+(2) Les paragraphes 319(4) à (6) de la même loi sont remplacés par ce qui suit :
 
-(9) Si l’entrée en vigueur de l’article 56 de l’autre loi et celle de l’article 7 de la présente loi sont concomitantes, cet article 7 est réputé ne pas être entré en vigueur et est abrogé.
+(3) Le paragraphe 319(7) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
 
-(10) Si l’article 57 de l’autre loi entre en vigueur avant l’article 8 de la présente loi, cet article 8 est abrogé.
+### — 2026, ch. 15, art. 5
 
-(11) Si l’entrée en vigueur de l’article 57 de l’autre loi et celle de l’article 8 de la présente loi sont concomitantes, cet article 8 est réputé ne pas être entré en vigueur et est abrogé.
+### 5
 
-(12) Si l’article 72 de l’autre loi entre en vigueur avant l’article 11 de la présente loi, cet article 11 est abrogé.
+La même loi est modifiée par adjonction, après l’article 320.1, de ce qui suit :
 
-(13) Si l’article 11 de la présente loi entre en vigueur avant l’article 72 de l’autre loi, à cet article 72, « L’article 745 de la même loi est modifié par adjonction, après l’alinéa c), de » est remplacé par « L’alinéa 745c.1) de la même loi est remplacé par ».
+### — 2026, ch. 15, art. 6
 
-(14) Si l’entrée en vigueur de l’article 72 de l’autre loi et celle de l’article 11 de la présente loi sont concomitantes, cet article 11 est réputé ne pas être entré en vigueur et est abrogé.
+### 6
 
-(15) Si l’article 73 de l’autre loi entre en vigueur avant l’article 12 de la présente loi, cet article 12 est abrogé.
+La même loi est modifiée par adjonction, après l’article 423.2, de ce qui suit :
 
-(16) Si l’entrée en vigueur de l’article 73 de l’autre loi et celle de l’article 12 de la présente loi sont concomitantes, cet article 12 est réputé ne pas être entré en vigueur et est abrogé.
+### — 2026, ch. 15, art. 8
 
-(17) Si l’article 74 de l’autre loi entre en vigueur avant l’article 13 de la présente loi, cet article 13 est abrogé.
+### 8
 
-(18) Si l’article 13 de la présente loi entre en vigueur avant l’article 74 de l’autre loi, à cet article 74, « La même loi est modifiée par adjonction, après l’article 745.51, de » est remplacé par « L’article 745.52 de la même loi est remplacé par ».
+L’alinéa c) de la définition de **infraction secondaire**, à l’article 487.‍04 de la même loi, est modifié par adjonction, après le sous-alinéa (xi.01), de ce qui suit :
 
-(19) Si l’entrée en vigueur de l’article 74 de l’autre loi et celle de l’article 13 de la présente loi sont concomitantes, cet article 13 est réputé ne pas être entré en vigueur et est abrogé.
+### — 2026, ch. 15, art. 9, modifié par 2026, ch. 11, par. 83(3) et (5)
 
-(20) Si l’article 75 de l’autre loi entre en vigueur avant l’article 14 de la présente loi, cet article 14 est abrogé.
+### 9
 
-(21) Si l’article 14 de la présente loi entre en vigueur avant l’article 75 de l’autre loi, cet article 75 est abrogé.
+(1) Le paragraphe 515(4.1) de la même loi est modifié par adjonction, après l’alinéa g), de ce qui suit :
 
-(22) Si l’entrée en vigueur de l’article 75 de l’autre loi et celle de l’article 14 de la présente loi sont concomitantes, cet article 14 est réputé ne pas être entré en vigueur et est abrogé.
+(2) L’alinéa 515(4.3)b) de la même loi est remplacé par ce qui suit :
 
-### — 2026, ch. 12, art. 19
+### — 2026, ch. 15, art. 10
 
-### 19 Dispositions de coordination avec le projet de loi C-16 — violence contre un partenaire intime
+### 10
 
-(1) Le présent article s’applique en cas de sanction du projet de loi C-16, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à protéger les victimes* (appelé « autre loi » au présent article).
+L’article 662 de la même loi est modifié par adjonction, après le paragraphe (6), de ce qui suit :
 
-(2) Dès le premier jour où le paragraphe 2(1) de l’autre loi et l’article 2 de la présente loi sont tous deux en vigueur, le paragraphe 3.01(2) du *Code criminel* est modifié par adjonction, après l’alinéa b), de ce qui suit :
+### — 2026, ch. 15, art. 11
 
-- b.1) le paragraphe 263.1(1);
+### 11
 
-(3) Si le paragraphe 2(1) de l’autre loi entre en vigueur avant l’article 9 de la présente loi, à la date d’entrée en vigueur de cet article 9, l’alinéa 3.01(2)g) du *Code criminel* est abrogé.
+La même loi est modifiée par adjonction, après l’article 726.2, de ce qui suit :
 
-(4) Si l’article 9 de la présente loi entre en vigueur avant le paragraphe 2(1) de l’autre loi, ce paragraphe 2(1) est modifié par abrogation de l’alinéa 3.01(2)g) qui y est édicté.
+### — 2026, ch. 15, art. 11.1
 
-(5) Si l’entrée en vigueur du paragraphe 2(1) de l’autre loi et celle de l’article 9 de la présente loi sont concomitantes, cet article 9 est réputé être entré en vigueur avant ce paragraphe 2(1), le paragraphe (4) s’appliquant en conséquence.
+### 11.1 Précision — paragraphes 319(2) et (2.2)
 
-### — 2026, ch. 12, art. 20
+(1) Il est entendu que les paragraphes 319(2) et (2.2) du *Code criminel* n’ont pas pour effet d’interdire à une personne de communiquer une déclaration sur une question d’intérêt public, y compris une déclaration de nature éducationnelle, religieuse, politique ou scientifique faite dans le cadre d’une discussion, d’une publication ou d’un débat, si, ce faisant, elle ne fomente pas volontairement la haine contre un groupe identifiable.
 
-### 20 Dispositions de coordination avec le projet de loi C-16 — détention prolongée
+**Précision — paragraphe 319(2.1)**
 
-(1) Le présent article s’applique en cas de sanction du projet de loi C-16, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à protéger les victimes* (appelé « autre loi » au présent article).
+(2) Il est entendu que le paragraphe 319(2.1) du *Code criminel* n’a pas pour effet d’interdire à une personne de communiquer une déclaration sur une question d’intérêt public, y compris une déclaration de nature éducationnelle, religieuse, politique ou scientifique faite dans le cadre d’une discussion, d’une publication ou d’un débat, si, ce faisant, elle ne fomente pas volontairement l’antisémitisme en cautionnant, en niant ou en minimisant l’Holocauste.
 
-(2) Si l’article 44 de l’autre loi entre en vigueur avant l’article 3 de la présente loi, cet article 3 et l’article 16 de la présente loi sont abrogés.
+### — 2026, ch. 16, art. 48
 
-(3) Si l’article 3 de la présente loi entre en vigueur avant l’article 44 de l’autre loi, cet article 44 et l’article 104 de l’autre loi sont abrogés.
+### 48
 
-(4) Si l’entrée en vigueur de l’article 44 de l’autre loi et celle de l’article 3 de la présente loi sont concomitantes, cet article 3 et l’article 16 de la présente loi sont réputés ne pas être entrés en vigueur et sont abrogés.
+Le paragraphe 490.02(3) du *Code criminel* est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 49
+
+### 49
+
+Le paragraphe 490.022(4) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 50
+
+### 50
+
+(1) Les alinéas 490.04(1)a) et b) de la même loi sont remplacés par ce qui suit :
+
+(2) Le paragraphe 490.04(2) de la même loi est remplacé par ce qui suit :
+
+(3) L’alinéa 490.04(3)a) de la même loi est remplacé par ce qui suit :
+
+(4) Le passage du paragraphe 490.04(4) de la même loi précédant le sous-alinéa b)(i) est remplacé par ce qui suit :
+
+(5) Le paragraphe 490.04(8) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 51
+
+### 51
+
+(1) L’alinéa 490.05(1)a) de la même loi est remplacé par ce qui suit :
+
+(2) Les alinéas 490.05(1)c) et d) de la même loi sont remplacés par ce qui suit :
+
+(3) L’alinéa 490.05(3)a) de la même loi est remplacé par ce qui suit :
+
+(4) Le paragraphe 490.05(5) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+(5) Le paragraphe 490.05(5) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+### — 2026, ch. 16, art. 52
+
+### 52
+
+Le paragraphe 490.06(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 16, art. 53
+
+### 53
+
+À l’article 5 de la formule 52 de la partie XXVIII de la même loi « grand prévôt des Forces canadiennes » est remplacé par « grand prévôt général ».
+
+### — 2026, ch. 19, art. 2
+
+### 2
+
+(1) Le *Code criminel* est modifié par adjonction, après l’article 3, de ce qui suit :
+
+(2) Le paragraphe 3.01(1) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+### — 2026, ch. 19, art. 3
+
+### 3
+
+Le paragraphe 7(4.1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 3.1
+
+### 3.1
+
+La même loi est modifiée par adjonction, après l’article 11, de ce qui suit :
+
+### — 2026, ch. 19, art. 4
+
+### 4
+
+L’alinéa 109(1)b) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 5
+
+### 5
+
+Au paragraphe 113(4) de la même loi, « du paragraphe 810(3) » est remplacé par « des articles 810 ou 810.03 ».
+
+### — 2026, ch. 19, art. 6
+
+### 6
+
+L’article 150 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+### — 2026, ch. 19, art. 7
+
+### 7
+
+Le paragraphe 150.1(5) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 8
+
+### 8
+
+Dans le passage de l’article 151 de la version française de la même loi précédant l’alinéa a), « à des fins d’ordre sexuel » est remplacé par « dans un but sexuel ».
+
+### — 2026, ch. 19, art. 9
+
+### 9
+
+Le passage de l’article 152 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 10
+
+### 10
+
+(1) L’alinéa 153(1)a) de la version française de la même loi est remplacé par ce qui suit :
+
+(2) L’alinéa 153(1)b) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 11
+
+### 11
+
+Le passage du paragraphe 153.1(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 12
+
+### 12
+
+(1) L’article 160 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+(2) Le passage du paragraphe 160(4) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 13
+
+### 13
+
+(1) Le passage du paragraphe 161(1) de la même loi précédant l’alinéa a.1) est remplacé par ce qui suit :
+
+(2) Les alinéas 161(1)b) et c) de la même loi sont remplacés par ce qui suit :
+
+(3) L’alinéa 161(1.1)a) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 14
+
+### 14
+
+(1) Les alinéas 162(1)a) et b) de la même loi sont remplacés par ce qui suit :
+
+(2) L’alinéa 162(5)a) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 15
+
+### 15
+
+(1) L’alinéa 162.1(1)a) de la même loi est remplacé par ce qui suit :
+
+(2) Le paragraphe 162.1(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 16
+
+### 16
+
+Le paragraphe 162.2(1) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 17
+
+### 17
+
+(1) Le sous-alinéa 163.1(1)a)(ii) de la même loi est remplacé par ce qui suit :
+
+(2) L’article 163.1 de la même loi est modifié par adjonction, après le paragraphe (4.2), de ce qui suit :
+
+### — 2026, ch. 19, art. 18
+
+### 18
+
+(1) Les paragraphes 164(1) à (5) de la même loi sont remplacés par ce qui suit :
+
+(2) Le paragraphe 164(7) de la même loi est remplacé par ce qui suit :
+
+(3) Les définitions de **enregistrement voyeuriste**, **image intime**, **publicité de services sexuels** et **publicité de thérapie de conversion**, au paragraphe 164(8) de la même loi, sont abrogées.
+
+(4) Le paragraphe 164(8) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+### — 2026, ch. 19, art. 19
+
+### 19
+
+(1) Le passage du paragraphe 164.1(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(2) Le paragraphe 164.1(5) de la même loi est remplacé par ce qui suit :
+
+(3) Les paragraphes 164.1(7) et (8) de la même loi sont remplacés par ce qui suit :
+
+(4) L’article 164.1 de la même loi est modifié par adjonction, après le paragraphe (9), de ce qui suit :
+
+### — 2026, ch. 19, art. 20
+
+### 20
+
+La même loi est modifiée par adjonction, après l’article 169, de ce qui suit :
+
+### — 2026, ch. 19, art. 21
+
+### 21
+
+(1) Le sous-alinéa 171.1(5)a)(ii) de la même loi est remplacé par ce qui suit :
+
+(2) Les alinéas 171.1(5)b) et c) de la même loi sont remplacés par ce qui suit :
+
+(3) L’article 171.1 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+### — 2026, ch. 19, art. 22
+
+### 22
+
+L’alinéa 172.1(1)a) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 23
+
+### 23
+
+(1) Le passage du paragraphe 173(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(2) À l’alinéa 173(2)a) de la même loi, « deux ans » est remplacé par « dix ans ».
+
+(3) À l’alinéa 173(2)b) de la même loi, « six mois » est remplacé par « deux ans moins un jour ».
+
+### — 2026, ch. 19, art. 24
+
+### 24
+
+(1) L’alinéa a) de la définition de **infraction**, à l’article 183 de la même loi, est modifié par adjonction, après le sous-alinéa a)(xxvii), de ce qui suit :
+
+(2) Le sous-alinéa a)(xxvii.2) de la définition de **infraction**, à l’article 183 de la même loi, est remplacé par ce qui suit :
+
+(3) L’alinéa a) de la définition de **infraction**, à l’article 183 de la même loi, est modifié par adjonction, après le sous-alinéa a)(xxix), de ce qui suit :
+
+(4) L’alinéa a) de la définition de **infraction**, à l’article 183 de la même loi, est modifié par adjonction, après le sous-alinéa a)(xxxix.2), de ce qui suit :
+
+(5) L’alinéa a) de la définition de **infraction**, à l’article 183 de la même loi, est modifié par adjonction, après le sous-alinéa a)(xxxix.3), de ce qui suit :
+
+### — 2026, ch. 19, art. 25
+
+### 25
+
+Le paragraphe 231(6) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 26
+
+### 26
+
+L’article 236 de la même loi devient le paragraphe 236(1) et est modifié par adjonction de ce qui suit :
+
+### — 2026, ch. 19, art. 27
+
+### 27
+
+(1) Le paragraphe 264(1) de la même loi est remplacé par ce qui suit :
+
+(2) Le passage du paragraphe 264(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(3) Le paragraphe 264(2) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+(4) L’alinéa 264(2)d) de la même loi est remplacé par ce qui suit :
+
+(5) Le paragraphe 264(3) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+(6) L’alinéa 264(4)a) de la même loi est remplacé par ce qui suit :
+
+(7) L’article 264 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+### — 2026, ch. 19, art. 28
+
+### 28
+
+La même loi est modifiée par adjonction, après l’article 264, de ce qui suit :
+
+### — 2026, ch. 19, art. 29
+
+### 29
+
+À l’alinéa 271b) de la même loi, « dix-huit mois » est remplacé par « deux ans moins un jour ».
+
+### — 2026, ch. 19, art. 30
+
+### 30
+
+La même loi est modifiée par adjonction, après l’article 275, de ce qui suit  :
+
+### — 2026, ch. 19, art. 31
+
+### 31
+
+(1) Le passage du paragraphe 276(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(2) Le paragraphe 276(2) de la même loi est remplacé par ce qui suit :
+
+(3) Le paragraphe 276(4) de la version française de la même loi est remplacé par ce qui suit :
+
+(4) L’article 276 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+### — 2026, ch. 19, art. 32
+
+### 32
+
+La même loi est modifiée par adjonction, après l’article 276, de ce qui suit :
+
+### — 2026, ch. 19, art. 33
+
+### 33
+
+La même loi est modifiée par adjonction, après l’article 277, de ce qui suit :
+
+### — 2026, ch. 19, art. 34
+
+### 34
+
+Les articles 278.1 à 278.97 de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 19, art. 35
+
+### 35
+
+(1) Le paragraphe 279.04(2) de la même loi est remplacé par ce qui suit :
+
+(2) L’article 279.04 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+### — 2026, ch. 19, art. 36
+
+### 36
+
+Au paragraphe 286.1(2) de la même loi, « d’un emprisonnement maximal de dix ans » est remplacé par « d’un emprisonnement maximal de quatorze ans ».
+
+### — 2026, ch. 19, art. 37
+
+### 37
+
+L’article 346 de la même loi est modifié par adjonction, après le paragraphe (1.3), de ce qui suit :
+
+### — 2026, ch. 19, art. 38
+
+### 38
+
+(1) Les paragraphes 486.1(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+(2) Le paragraphe 486.1(2.1) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+(3) L’article 486.1 de la même loi est modifié par adjonction, après le paragraphe (6), de ce qui suit :
+
+### — 2026, ch. 19, art. 39
+
+### 39
+
+(1) Les paragraphes 486.2(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+(2) Le paragraphe 486.2(2.1) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+(3) Les paragraphes 486.2(5) et (6) de la même loi sont remplacés par ce qui suit :
+
+### — 2026, ch. 19, art. 40
+
+### 40
+
+(1) Le paragraphe 486.3(2) de la même loi est remplacé par ce qui suit :
+
+(2) L’article 486.3 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+### — 2026, ch. 19, art. 41
+
+### 41
+
+La même loi est modifiée par adjonction, après l’article 486.7, de ce qui suit :
+
+### — 2026, ch. 19, art. 42
+
+### 42
+
+L’alinéa c) de la définition de **infraction secondaire**, à l’article 487.04 de la même loi, est modifié par adjonction, après le sous-alinéa c)(v), de ce qui suit :
+
+### — 2026, ch. 19, art. 43
+
+### 43
+
+L’article 489.1 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+### — 2026, ch. 19, art. 44
+
+### 44
+
+Le passage du paragraphe 490(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 45
+
+### 45
+
+(1) Le sous-alinéa a)(x) de la définition de **infraction primaire**, au paragraphe 490.011(1) de la même loi, est remplacé par ce qui suit :
+
+(2) L’alinéa a) de la définition de **infraction secondaire**, au paragraphe 490.011(1) de la même loi, est modifié par adjonction, après le sous-alinéa a)(ix), de ce qui suit :
+
+### — 2026, ch. 19, art. 46
+
+### 46
+
+La même loi est modifiée par adjonction, après l’article 492.2, de ce qui suit :
+
+### — 2026, ch. 19, art. 47
+
+### 47
+
+Le paragraphe 507.1(9) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 48
+
+### 48
+
+(1) Le paragraphe 515(4.1) de la même loi est modifié par remplacement de « aux articles 264 (harcèlement criminel) ou » par « à l’article ».
+
+(2) L’alinéa 515(4.3)b) de la même loi est modifié par suppression de « 264 », avec les adaptations nécessaires.
+
+(3) L’alinéa 515(4.3)c) de la version française de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 49
+
+### 49
+
+L’article 537 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+### — 2026, ch. 19, art. 50
+
+### 50
+
+L’article 571 de la même loi devient le paragraphe 571(1) et est modifié par adjonction de ce qui suit :
+
+### — 2026, ch. 19, art. 51
+
+### 51
+
+L’article 645 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+### — 2026, ch. 19, art. 52
+
+### 52
+
+La même loi est modifiée par adjonction, après l’article 657.3, de ce qui suit :
+
+### — 2026, ch. 19, art. 53
+
+### 53
+
+La même loi est modifiée par adjonction, après l’article 672.501, de ce qui suit :
+
+### — 2026, ch. 19, art. 54
+
+### 54
+
+L’alinéa 672.81(1.3)a) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 55
+
+### 55
+
+L’alinéa b) de la définition de **sentence**, **peine** ou **condamnation**, à l’article 673 de la même loi, est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 56
+
+### 56
+
+(1) Le paragraphe 675(2) de la même loi est remplacé par ce qui suit :
+
+(2) Le paragraphe 675(2.2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 57
+
+### 57
+
+Le paragraphe 676(4) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 58
+
+### 58
+
+(1) Le paragraphe 699(5.1) de la même loi est remplacé par ce qui suit :
+
+(2) Le paragraphe 699(7) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 59
+
+### 59
+
+La même loi est modifiée par adjonction, après l’article 715.43, de ce qui suit :
+
+### — 2026, ch. 19, art. 60
+
+### 60
+
+La définition de **mesures de rechange**, à l’article 716 de la même loi, est abrogée.
+
+### — 2026, ch. 19, art. 61
+
+### 61
+
+L’intertitre précédant l’article 717 et les articles 717 à 717.4 de la même loi sont abrogés.
+
+### — 2026, ch. 19, art. 62
+
+### 62
+
+Le sous-alinéa 718.2a)(ii.2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 63
+
+### 63
+
+La même loi est modifiée par adjonction, après l’article 718.3, de ce qui suit :
+
+### — 2026, ch. 19, art. 64
+
+### 64
+
+Le paragraphe 720(2) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 65
+
+### 65
+
+L’alinéa 721(3)c) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 66
+
+### 66
+
+(1) L’alinéa 722(5)b) de la même loi est remplacé par ce qui suit :
+
+(2) Le paragraphe 722(7) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 67
+
+### 67
+
+(1) L’article 722.2 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+(2) L’alinéa 722.2(3)b) de la même loi est remplacé par ce qui suit :
+
+(3) Le paragraphe 722.2(4) de la même loi est remplacé par ce qui suit :
+
+(4) L’article 722.2 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+### — 2026, ch. 19, art. 68
+
+### 68
+
+La même loi est modifiée par adjonction, après l’article 726.2, de ce qui suit :
+
+### — 2026, ch. 19, art. 69
+
+### 69
+
+La même loi est modifiée par adjonction, après l’article 729.1, de ce qui suit :
+
+### — 2026, ch. 19, art. 70
+
+### 70
+
+L’alinéa 738(1)c) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 71
+
+### 71
+
+La même loi est modifiée par adjonction, après l’article 740, de ce qui suit :
+
+### — 2026, ch. 19, art. 72
+
+### 72
+
+L’article 745 de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+### — 2026, ch. 19, art. 73
+
+### 73
+
+(1) Le passage de l’article 745.1 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+(2) L’alinéa 745.1c) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 74
+
+### 74
+
+La même loi est modifiée par adjonction, après l’article 745.51, de ce qui suit :
+
+### — 2026, ch. 19, art. 75
+
+### 75
+
+Le passage de l’article 746 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 76
+
+### 76
+
+Les alinéas a) et b) de la définition de **sévices graves à la personne**, à l’article 752 de la même loi, sont remplacés par ce qui suit :
+
+### — 2026, ch. 19, art. 77
+
+### 77
+
+L’article 752.01 de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 78
+
+### 78
+
+À l’alinéa 753.1(2)a) de la même loi, « 152 (incitation à des contacts sexuels) ou 153 (exploitation sexuelle), aux paragraphes 163.1(2) (production de matériel d’abus et d’exploitation pédosexuels), 163.1(3) (distribution de matériel d’abus et d’exploitation pédosexuels), 163.1(4) (possession de matériel d’abus et d’exploitation pédosexuels) ou 163.1(4.1) (accès au matériel d’abus et d’exploitation pédosexuels), aux articles 170 » est remplacé par « 152 (incitation à des contacts sexuels ou à s’exhiber), 153 (exploitation sexuelle), 153.1 (exploitation sexuelle d’une personne handicapée), 163.1 (matériel d’abus et d’exploitation pédosexuels), 170 ».
+
+### — 2026, ch. 19, art. 79
+
+### 79
+
+L’article 803 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+### — 2026, ch. 19, art. 80
+
+### 80
+
+L’alinéa 810(1)b) de la version française de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 81
+
+### 81
+
+(1) Les paragraphes 810.03(1) à (5) de la même loi sont remplacés par ce qui suit :
+
+(2) Le passage du paragraphe 810.03(6) de la même loi précédant l’alinéa d) est remplacé par ce qui suit :
+
+(3) L’alinéa 810.03(6)e) de la même loi est remplacé par ce qui suit :
+
+(4) Le paragraphe 810.03(7) de la même loi est remplacé par ce qui suit :
+
+(5) Le paragraphe 810.03(8) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+(6) Les paragraphes 810.03(9) à (11) de la même loi sont remplacés par ce qui suit :
+
+(7) L’article 810.03 de la même loi est modifié par adjonction, après le paragraphe (12), de ce qui suit :
+
+### — 2026, ch. 19, art. 82
+
+### 82
+
+(1) Le paragraphe 810.1(1) de la même loi est remplacé par ce qui suit :
+
+(2) Le paragraphe 810.1(3.01) de la même loi est remplacé par ce qui suit :
+
+(3) L’alinéa 810.1(3.02)a) de la même loi est remplacé par ce qui suit :
+
+(4) L’alinéa 810.1(3.02)b) de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 83
+
+### 83
+
+L’article 824 de la même loi devient le paragraphe 824(1) et est modifié par adjonction de ce qui suit :
+
+### — 2026, ch. 19, art. 84
+
+### 84
+
+La formule 16.1 de la partie XXVIII de la même loi est remplacée par ce qui suit :
+
+### — 2026, ch. 19, art. 85
+
+### 85
+
+Les renvois qui suivent le titre « FORMULE 23 », à la formule 23 de la partie XXVIII de la même loi, sont remplacés par ce qui suit :
+
+### — 2026, ch. 19, art. 86
+
+### 86
+
+(1) Les alinéas e.2) à f.1) qui suivent l’intertitre « Liste de conditions » de la formule 32 de la partie XXVIIIde la même loi sont remplacés par ce qui suit :
+
+(2) L’alinéa j) qui suit l’intertitre « Liste de conditions » de la formule 32 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+(3) L’alinéa l) qui suit l’intertitre « Liste de conditions » de la formule 32 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+### — 2026, ch. 19, art. 87
+
+### 87 Peines minimales existantes
+
+Il est entendu que, à la suite de l’édiction de l’article 718.4 du *Code criminel*, les peines minimales prévues par cette loi ou toute autre loi fédérale sont opérantes.
+
+### — 2026, ch. 19, art. 94
+
+### 94 Remplacements — renvois à l’article 152 du *Code criminel*
+
+Dans les passages ci-après, « incitation à des contacts sexuels » est remplacé par « incitation à des contacts sexuels ou à s’exhiber » :
+
+- a) dans le *Code criminel* :
+  - (i) le sous-alinéa a)(i.2) de la définition de **infraction primaire** à l’article 487.04,
+  - (ii) le sous-alinéa 487.055(3)a)(ii),
+  - (iii) le sous-alinéa a)(iii) de la définition de **infraction primaire** au paragraphe 490.011(1),
+  - (iv) le sous-alinéa a)(ii) de la définition de **infraction primaire** à l’article 752;
+
+- b) le sous-alinéa 1a)(ii) de l’annexe 1 de la *Loi sur le casier judiciaire*;
+
+- c) dans la *Loi sur le système correctionnel et la mise en liberté sous condition* :
+  - (i) le sous-alinéa a)(ii) de la définition de **infraction d’ordre sexuel à l’égard d’un enfant** au paragraphe 129(9),
+  - (ii) l’alinéa 1f) de l’annexe I;
+
+- d) l’alinéa 1d) de l’annexe de la *Loi sur le système de justice pénale pour les adolescents*.
+
+### — 2026, ch. 19, art. 95
+
+### 95 Remplacements — renvois à l’article 153.1 du *Code criminel*
+
+Dans les passages ci-après, « exploitation d’une personne handicapée à des fins sexuelles », « personne en situation d’autorité par rapport à une personne ayant une déficience » et « personnes en situation d’autorité » sont remplacés par « exploitation sexuelle d’une personne handicapée » :
+
+- a) dans la version française du *Code criminel* :
+  - (i) le sous-alinéa a)(v) de la définition de **infraction primaire** au paragraphe 490.011(1),
+  - (ii) le sous-alinéa b)(v) de la définition de **infraction désignée** à l’article 752;
+
+- b) dans la version française de la *Loi sur le casier judiciaire* :
+  - (i) le sous-alinéa 2a)(i) de l’annexe 1,
+  - (ii) le sous-alinéa 1a)(i) de l’annexe 2;
+
+- c) l’alinéa 1g.1) de l’annexe I de la version française de la *Loi sur le système correctionnel et la mise en liberté sous condition*.
+
+### — 2026, ch. 19, art. 96
+
+### 96 Définitions
+
+Les définitions qui suivent s’appliquent aux articles 97 à 118.
+
+**date de référence** Le trentième jour suivant la date de sanction de la présente loi. (**commencement day**)
+
+**Loi** Le *Code criminel*. (**Act**)
+
+### — 2026, ch. 19, art. 97
+
+### 97 Infraction relative aux infractions d’ordre sexuel impliquant des enfants
+
+Il est entendu que le paragraphe 7(4.1) de la Loi, édicté par l’article 3, ne s’applique qu’à l’égard des faits commis à la date de référence ou après cette date.
+
+### — 2026, ch. 19, art. 98
+
+### 98 Détermination de la peine : homicide involontaire coupable
+
+Le paragraphe 236(2) de la Loi ne s’applique qu’à l’égard d’une infraction commise à la date de référence ou après cette date.
+
+### — 2026, ch. 19, art. 99
+
+### 99 Circonstance aggravante : harcèlement criminel
+
+Il est entendu que l’alinéa 264(4)a) de la Loi, édicté par le paragraphe 27(6), s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 100
+
+### 100 Communication et admissibilité
+
+Les paragraphes 276(1) et (2) de la Loi, modifiés par l’article 31, les articles 276.01 à 276.13 de la Loi, édictés par l’article 32, et les articles 278.1 à 278.38 de la Loi, édictés par l’article 34, ne s’appliquent qu’à l’égard d’une infraction pour laquelle une accusation est portée à la date de référence ou après cette date.
+
+### — 2026, ch. 19, art. 101
+
+### 101 Circonstance aggravante : extorsion
+
+Il est entendu que le paragraphe 346(1.4) de la Loi s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 102
+
+### 102 Mesures visant à faciliter le témoignage
+
+Il est entendu que les articles 486.1, 486.2 et 486.3 de la Loi, modifiés respectivement par les articles 38, 39 et 40, s’appliquent à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 103
+
+### 103 Exception à l’article 489.1
+
+Le paragraphe 489.1(4) de la Loi s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 104
+
+### 104 Ordonnance de prolongation : paragraphe 490(2)
+
+Le paragraphe 490(2) de la Loi, modifié par l’article 44, s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 105
+
+### 105 Partie XV.1
+
+Il est entendu que la partie XV.1 de la Loi ne s’applique qu’à l’égard des infractions commises à la date de référence ou après cette date.
+
+### — 2026, ch. 19, art. 106
+
+### 106 Non-application de l’article 507.1
+
+Le paragraphe 507.1(9) de la Loi, édicté par l’article 47, s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 107
+
+### 107 Mise en liberté provisoire par voie judiciaire
+
+Il est entendu que les alinéas 515(3)a) et b), (4.1)a), (4.3)c) et (6)b.1) et b.2) de la Loi, interprétés à la lumière de l’article 3.01 de la Loi, s’appliquent à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 108
+
+### 108 Ajournement
+
+Il est entendu que les paragraphes 537(1.001), 571(2), 645(3.1), 803(1.1) et 824(2) de la Loi s’appliquent à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 109
+
+### 109 Article 657.4
+
+Il est entendu que l’article 657.4 de la Loi s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 110
+
+### 110 Révocation ou modification de l’ordonnance de non-publication
+
+L’article 672.5011 de la Loi s’applique à l’égard des ordonnances rendues en vertu de l’article 672.501 de la Loi avant la date de référence.
+
+### — 2026, ch. 19, art. 111
+
+### 111 Mesures de rechange
+
+(1) Tout recours à des mesures de rechange à l’égard d’une personne à qui est imputée une infraction, en application de l’un des articles 717 à 717.4 de la Loi, dans leur version antérieure à la date de référence, est réputé être, à compter de cette date, un recours à des **mesures de rechange**, au sens de l’article 715.44 de la Loi.
+
+**Application**
+
+(2) Les dispositions édictées par les articles 59, 64 et 65 s’appliquent à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 112
+
+### 112 Déclarations de la victime et de la collectivité
+
+Il est entendu que les articles 722 et 722.2 de la Loi, modifiés respectivement par les articles 66 et 67, s’appliquent à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 113
+
+### 113 Mention : violence contre un partenaire intime
+
+Il est entendu que l’article 726.21 de la Loi s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 114
+
+### 114 Ordonnance de non-communication
+
+Il est entendu que l’article 729.2 de la Loi ne s’applique que relativement à des infractions commises à la date de référence ou après celle-ci.
+
+### — 2026, ch. 19, art. 115
+
+### 115 Ordonnance de dédommagement
+
+Il est entendu que l’article 740.1 de la Loi ne s’applique qu’aux ordonnances visées aux articles 732.1 ou 742.3 de la Loi, dans leur version à la date de référence, relativement à des infractions commises à cette date ou après celle-ci.
+
+### — 2026, ch. 19, art. 116
+
+### 116 Obligation du poursuivant d’aviser le tribunal
+
+L’article 752.01 de la Loi, édicté par l’article 77, ne s’applique qu’à l’égard des infractions commises à la date de référence ou après celle-ci.
+
+### — 2026, ch. 19, art. 117
+
+### 117 Engagements : article 810.03
+
+L’article 810.03 de la Loi, modifié par l’article 81, s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 118
+
+### 118 Engagement : article 810.1
+
+L’article 810.1 de la Loi, modifié par l’article 82, s’applique à l’égard de toute affaire ou procédure qui est en cours à la date de référence.
+
+### — 2026, ch. 19, art. 118.1
+
+### 118.1 Examen par le Sénat et la Chambre des communes
+
+Cinq ans après la date de sanction de la présente loi, ou aussitôt que possible après cette date, le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Sénat, la Chambre des communes ou le Sénat et la Chambre des communes, selon le cas, désignent ou constituent à cette fin, commence un examen approfondi de l’article 264.01 du *Code criminel* et de son application. L’examen considère, entre autres, la criminalisation d’un comportement contrôlant ou coercitif dans les relations autres que les relations entre partenaires intimes.
+
+### — 2026, ch. 19, art. 119
+
+### 119 Examen par le Sénat et la Chambre des communes
+
+Cinq ans après la date d’entrée en vigueur de la partie XV.1 du *Code criminel*, ou aussitôt que possible après cette date, le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Sénat, la Chambre des communes ou le Sénat et la Chambre des communes, selon le cas, désignent ou constituent à cette fin commence un examen approfondi des dispositions de cette partie et de son application.
+
+### — 2026, ch. 19, art. 201
+
+### 201 Projet de loi C-9
+
+(1) Les paragraphes (2) et (3) s’appliquent en cas de sanction du projet de loi C-9, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi visant à lutter contre la haine* (appelé « autre loi » au présent article).
+
+(2) Si le paragraphe 48(2) de la présente loi entre en vigueur avant le paragraphe 9(2) de l’autre loi, à la date d’entrée en vigueur de ce paragraphe 9(2), l’alinéa 515(4.3)b) du *Code criminel* est modifié par suppression de « 264 », avec les adaptations nécessaires.
+
+(3) Si l’entrée en vigueur du paragraphe 9(2) de l’autre loi et celle du paragraphe 48(2) de la présente loi sont concomitantes, ce paragraphe 9(2) est réputé être entré en vigueur avant ce paragraphe 48(2).
+
+(4) Dès le premier jour où l’article 11 de l’autre loi et l’article 68 de la présente loi sont tous deux en vigueur, l’article 726.21 du *Code criminel*, édicté par l’article 11 de l’autre loi, devient l’article 726.22 et, au besoin, est déplacé en conséquence.
+
+### — 2026, ch. 19, art. 203
+
+### 203 Projet de loi C-14
+
+(1) Les paragraphes (2) à (8) s’appliquent en cas de sanction du projet de loi C-14, déposé au cours de la 1^re^ session de la 45^e^ législature et intitulé *Loi sur des mesures de réforme concernant la mise en liberté sous caution et la détermination de la peine* (appelé « autre loi » au présent article).
+
+(2) Si le paragraphe 23(3) de l’autre loi entre en vigueur avant le paragraphe 48(1) de la présente loi, ce paragraphe 48(1) est remplacé par ce qui suit :
+
+(3) Si le paragraphe 48(1) de la présente loi entre en vigueur avant le paragraphe 23(3) de l’autre loi, à la date d’entrée en vigueur de ce paragraphe 23(3), l’alinéa 515(4.1)d) du *Code criminel* est abrogé.
+
+(4) Si l’entrée en vigueur du paragraphe 23(3) de l’autre loi et celle du paragraphe 48(1) de la présente loi sont concomitantes, ce paragraphe 23(3) est réputé être entré en vigueur avant ce paragraphe 48(1), le paragraphe (2) s’appliquant en conséquence.
+
+(5) Si le paragraphe 48(2) de la présente loi entre en vigueur avant le paragraphe 23(5) de l’autre loi, ce paragraphe 23(5) est remplacé par ce qui suit :
+
+(6) Si l’entrée en vigueur du paragraphe 23(5) de l’autre loi et celle du paragraphe 48(2) de la présente loi sont concomitantes, ce paragraphe 23(5) est réputé être entré en vigueur avant ce paragraphe 48(2).
+
+(7) Si l’article 124 de la présente loi entre en vigueur avant l’article 60 de l’autre loi, cet article 60 est abrogé.
+
+(8) Si l’entrée en vigueur de l’article 60 de l’autre loi et celle de l’article 124 de la présente loi sont concomitantes, cet article 60 est réputé être entré en vigueur avant cet article 124.

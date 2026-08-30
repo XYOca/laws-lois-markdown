@@ -137,7 +137,7 @@ Les définitions qui suivent s’appliquent à la présente loi.
   - b) qui a cessé d’acquitter ses obligations courantes dans le cours ordinaire des affaires au fur et à mesure de leur échéance;
   - c) dont la totalité des biens n’est pas suffisante, d’après une juste estimation, ou ne suffirait pas, s’il en était disposé lors d’une vente bien conduite par autorité de justice, pour permettre l’acquittement de toutes ses obligations échues ou à échoir. (**insolvent person**)
 
-**personne morale** Personne morale qui est autorisée à exercer des activités au Canada ou qui y a un établissement ou y possède des biens, ainsi que toute fiducie de revenu. Sont toutefois exclues les banques, banques étrangères autorisées au sens de l’article 2 de la *Loi sur les banques*, compagnies d’assurance, sociétés de fiducie ou sociétés de prêt constituées en personnes morales. (**corporation**)
+**personne morale** Personne morale qui est autorisée à exercer des activités au Canada ou qui y a un établissement ou y possède des biens, ainsi que toute fiducie de revenu. Sont toutefois exclues les banques, banques étrangères autorisées au sens de l’article 2 de la *Loi sur les banques*, compagnies d’assurance, sociétés de fiducie ou sociétés de prêt constituées en personnes morales ou établissements publics d’enseignement postsecondaire prescrits. (**corporation**)
 
 **prescrit**
   - a) Dans le cas de la forme de documents à prescrire au titre de la présente loi et des renseignements qui doivent y figurer, prescrit par le surintendant en application de l’alinéa 5(4) e);
@@ -181,6 +181,7 @@ Est également visée la proposition ou proposition de consommateur faite en vue
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. B-3, art. 2; L.R. (1985), ch. 31 (1^er^ suppl.), art. 69; 1992, ch. 1, art. 145(F), ch. 27, art. 3; 1995, ch. 1, art. 62; 1997, ch. 12, art. 1; 1999, ch. 28, art. 146, ch. 31, art. 17; 2000, ch. 12, art. 8; 2001, ch. 4, art. 25, ch. 9, art. 572; 2004, ch. 25, art. 7; 2005, ch. 3, art. 11, ch. 47, art. 2; 2007, ch. 29, art. 91, ch. 36, art. 1; 2012, ch. 31, art. 414; 2015, ch. 3, art. 6(F); 2018, ch. 10, art. 82
+- 2024, ch. 15, art. 273
 
 </details>
 
@@ -9907,12 +9908,3 @@ L’article 4.2, l’alinéa 67(1)b.3) et les paragraphes 101(1), (2.01), (2.1),
 ### 275 *Loi sur la faillite et l’insolvabilité*
 
 La définition de **personne morale**, à l’article 2 de la *Loi sur la faillite et l’insolvabilité*, édictée par l’article 273, ne s’applique qu’à l’égard des procédures intentées sous le régime de cette loi à la date d’entrée en vigueur de cet article 273 ou après cette date.
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-### — 2024, ch. 15, art. 273
-
-### 273
-
-La définition de **personne morale**, à l’article 2 de la *Loi sur la faillite et l’insolvabilité*, est remplacée par ce qui suit :

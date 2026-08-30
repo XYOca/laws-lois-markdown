@@ -1,6 +1,6 @@
 # Federal Acts
 
-_967 documents_
+_971 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -21,6 +21,7 @@ _967 documents_
 | A-11.5 | [Anti-Personnel Mines Convention Implementation Act](A-11.5-anti-personnel-mines-convention-implementation-act.md) | An Act to implement the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction |
 | A-11.7 | [Anti-terrorism Act](A-11.7-anti-terrorism-act.md) | An Act to amend the Criminal Code, the Official Secrets Act, the Canada Evidence Act, the Proceeds of Crime (Money Laundering) Act and other Acts, and to enact measures respecting the registration of charities, in order to combat terrorism |
 | A-11.9 | [Apprentice Loans Act](A-11.9-apprentice-loans-act.md) | An Act respecting the making of loans to apprentices |
+| A-11.91 | [Arab Heritage Month Act](A-11.91-arab-heritage-month-act.md) | An Act respecting Arab Heritage Month |
 | A-12 | [Arctic Waters Pollution Prevention Act](A-12-arctic-waters-pollution-prevention-act.md) | An Act to prevent pollution of areas of the arctic waters adjacent to the mainland and islands of the Canadian arctic |
 | A-12.8 | [Asian Infrastructure Investment Bank Agreement Act](A-12.8-asian-infrastructure-investment-bank-agreement-act.md) | An Act to provide for the membership of Canada in the Asian Infrastructure Investment Bank |
 | A-13 | [Asia-Pacific Foundation of Canada Act](A-13-asia-pacific-foundation-of-canada-act.md) | An Act to establish the Asia-Pacific Foundation of Canada |
@@ -87,6 +88,7 @@ _967 documents_
 | B-9.8596 | [Budget Implementation Act, 2024, No. 1](B-9.8596-budget-implementation-act-2024-no-1.md) | An Act to implement certain provisions of the budget tabled in Parliament on April 16, 2024 |
 | B-9.8598 | [Budget 2025 Implementation Act, No. 1](B-9.8598-budget-2025-implementation-act-no-1.md) | An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 |
 | B-9.86 | [Buffalo and Fort Erie Public Bridge Company Act](B-9.86-buffalo-and-fort-erie-public-bridge-company-act.md) | An Act respecting the Buffalo and Fort Erie Public Bridge Company |
+| B-9.87 | [Build Canada Homes Act](B-9.87-build-canada-homes-act.md) | An Act respecting the establishment of Build Canada Homes |
 | B-9.88 | [Building a Green Prairie Economy Act](B-9.88-building-a-green-prairie-economy-act.md) | An Act respecting the building of a green economy in the Prairies |
 | B-9.89 | [Building Canada Act](B-9.89-building-canada-act.md) | An Act respecting national interest projects |
 | B-9.9 | [Business Development Bank of Canada Act](B-9.9-business-development-bank-of-canada-act.md) | An Act to continue the Federal Business Development Bank under the name Business Development Bank of Canada |
@@ -595,6 +597,7 @@ _967 documents_
 | M-8 | [Ministries and Ministers of State Act](M-8-ministries-and-ministers-of-state-act.md) | An Act to provide for the establishment of Ministries of State and the appointment of Ministers of State |
 | M-8.6 | [Modernization of Benefits and Obligations Act](M-8.6-modernization-of-benefits-and-obligations-act.md) | An Act to modernize the Statutes of Canada in relation to benefits and obligations |
 | M-9 | [Motor Vehicle Fuel Consumption Standards Act](M-9-motor-vehicle-fuel-consumption-standards-act.md) | An Act respecting motor vehicle fuel consumption standards |
+| N-0.5 | [An Act to change the names of certain electoral districts, 2026](N-0.5-an-act-to-change-the-names-of-certain-electoral-districts-2026.md) |  |
 | N-1.4 | [National Acadian Day Act](N-1.4-national-acadian-day-act.md) | An Act respecting a National Acadian Day |
 | N-10.5 | [National Holocaust Monument Act](N-10.5-national-holocaust-monument-act.md) | An Act to establish a National Holocaust Monument |
 | N-10.7 | [National Horse of Canada Act](N-10.7-national-horse-of-canada-act.md) | An Act to provide for the recognition of the Canadian horse as the national horse of Canada |
@@ -762,6 +765,7 @@ _967 documents_
 | P-4.3 | [Payment Card Networks Act](P-4.3-payment-card-networks-act.md) | An Act respecting payment card networks |
 | P-4.4 | [Payment Clearing and Settlement Act](P-4.4-payment-clearing-and-settlement-act.md) | An Act respecting the regulation of systems for the clearing and settlement of payment obligations |
 | P-4.6 | [An Act respecting payments to a trust established to provide provinces and territories with funding for community development](P-4.6-an-act-respecting-payments-to-a-trust-established-to-provide-provinces-and-terri.md) |  |
+| P-4.7 | [An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply](P-4.7-an-act-to-authorize-certain-payments-to-be-made-out-of-the-consolidated-revenue.md) |  |
 | P-6 | [Pension Act](P-6-pension-act.md) | An Act to provide pensions and other benefits to or in respect of members of the Canadian naval, army and air forces and of the Canadian Forces |
 | P-6.7 | [Pension Benefits Division Act](P-6.7-pension-benefits-division-act.md) |  |
 | P-7.01 | [Pension Benefits Standards Act, 1985](P-7.01-pension-benefits-standards-act-1985.md) | An Act respecting pension plans organized and administered for the benefit of persons employed in connection with certain federal works, undertakings and businesses |

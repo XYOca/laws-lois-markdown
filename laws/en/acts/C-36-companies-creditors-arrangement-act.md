@@ -42,7 +42,7 @@ This Act may be cited as the *Companies’ Creditors Arrangement Act*.
 
 **collective agreement**, in relation to a debtor company, means a collective agreement within the meaning of the jurisdiction governing collective bargaining between the debtor company and a bargaining agent; (**convention collective**)
 
-**company** means any company, corporation or legal person incorporated by or under an Act of Parliament or of the legislature of a province, any incorporated company having assets or doing business in Canada, wherever incorporated, and any income trust, but does not include banks, authorized foreign banks within the meaning of section 2 of the *Bank Act*, telegraph companies, insurance companies and companies to which the *Trust and Loan Companies Act* applies; (**compagnie**)
+**company** means any company, corporation or legal person incorporated by or under an Act of Parliament or of the legislature of a province, any incorporated company having assets or doing business in Canada, wherever incorporated, and any income trust, but does not include banks, authorized foreign banks within the meaning of section 2 of the *Bank Act*, telegraph companies, insurance companies, companies to which the *Trust and Loan Companies Act* applies and prescribed public post-secondary educational institutions; (**compagnie**)
 
 **court** means
   - (a) in Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court,
@@ -110,6 +110,7 @@ This Act may be cited as the *Companies’ Creditors Arrangement Act*.
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. C-36, s. 2; R.S., 1985, c. 27 (2nd Supp.), s. 10; 1990, c. 17, s. 4; 1992, c. 27, s. 90; 1993, c. 34, s. 52; 1996, c. 6, s. 167; 1997, c. 12, s. 120(E); 1998, c. 30, s. 14; 1999, c. 3, s. 22, c. 28, s. 154; 2001, c. 9, s. 575; 2002, c. 7, s. 133; 2004, c. 25, s. 193; 2005, c. 3, s. 15, c. 47, s. 124; 2007, c. 29, s. 104, c. 36, ss. 61, 105; 2012, c. 31, s. 419; 2015, c. 3, s. 37; 2018, c. 10, s. 89
+- 2024, c. 15, s. 274
 
 </details>
 
@@ -2233,12 +2234,3 @@ Section 11.001, subsections 11.02(1) and 11.2(5) and sections 11.9 and 18.6 of t
 ### 276 *Companies’ Creditors Arrangement Act*
 
 The definition **company** in subsection 2(1) of the *Companies’ Creditors Arrangement Act*, as enacted by section 274, applies only in respect of proceedings that are commenced under that Act on or after the day on which that section 274 comes into force.
-
-
-## AMENDMENTS NOT IN FORCE
-
-### — 2024, c. 15, s. 274
-
-### 274
-
-The definition **company** in subsection 2(1) of the *Companies’ Creditors Arrangement Act* is replaced by the following:

@@ -59,7 +59,7 @@ In this Act,
 
 **common-law partnership** means the relationship between two persons who are common-law partners of each other; (**union de fait**)
 
-**corporation** means a company or legal person that is incorporated by or under an Act of Parliament or of the legislature of a province, an incorporated company, wherever incorporated, that is authorized to carry on business in Canada or has an office or property in Canada or an income trust, but does not include banks, authorized foreign banks within the meaning of section 2 of the *Bank Act*, insurance companies, trust companies or loan companies; (**personne morale**)
+**corporation** means a company or legal person that is incorporated by or under an Act of Parliament or of the legislature of a province, an incorporated company, wherever incorporated, that is authorized to carry on business in Canada or has an office or property in Canada or an income trust, but does not include banks, authorized foreign banks within the meaning of section 2 of the *Bank Act*, insurance companies, trust companies, loan companies or prescribed public post-secondary educational institutions; (**personne morale**)
 
 **court**, except in paragraphs 178(1)(a) and (a.1) and sections 204.1 to 204.3, means a court referred to in subsection 183(1) or (1.1) or a judge of that court, and includes a registrar when exercising the powers of the court conferred on a registrar under this Act; (**tribunal**)
 
@@ -181,6 +181,7 @@ and includes a proposal or consumer proposal, as the case may be, for a composit
 <summary>Historical Note</summary>
 
 - R.S., 1985, c. B-3, s. 2; R.S., 1985, c. 31 (1st Supp.), s. 69; 1992, c. 1, s. 145(F), c. 27, s. 3; 1995, c. 1, s. 62; 1997, c. 12, s. 1; 1999, c. 28, s. 146, c. 31, s. 17; 2000, c. 12, s. 8; 2001, c. 4, s. 25, c. 9, s. 572; 2004, c. 25, s. 7; 2005, c. 3, s. 11, c. 47, s. 2; 2007, c. 29, s. 91, c. 36, s. 1; 2012, c. 31, s. 414; 2015, c. 3, s. 6(F); 2018, c. 10, s. 82
+- 2024, c. 15, s. 273
 
 </details>
 
@@ -10340,12 +10341,3 @@ Section 4.2, paragraph 67(1)(b.3) and subsections 101(1), (2.01), (2.1), (3.1) a
 ### 275 *Bankruptcy and Insolvency Act*
 
 The definition **corporation** in section 2 of the *Bankruptcy and Insolvency Act*, as enacted by section 273, applies only in respect of proceedings that are commenced under that Act on or after the day on which that section 273 comes into force.
-
-
-## AMENDMENTS NOT IN FORCE
-
-### — 2024, c. 15, s. 273
-
-### 273
-
-The definition **corporation** in section 2 of the *Bankruptcy and Insolvency Act* is replaced by the following:

@@ -769,3 +769,24 @@ A reference to a record suspension in the following provisions, as enacted by th
 **Report to Parliament**
 
 (2) The committee referred to in subsection (1) must, within one year after the review is undertaken under that subsection, submit a report to the House or Houses of Parliament of which it is a committee, including a statement setting out any changes to the provisions that the committee recommends.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 19, par. 94(b)
+
+### 94 Replacement — references to section 152 of *Criminal Code*
+
+Every reference to “sexual touching” is replaced by a reference to “sexual touching or exposure” in the following provisions:
+
+- (b) in subparagraph 1(a)(ii) in Schedule 1 to the *Criminal Records Act*;
+
+### — 2026, c. 19, par. 95(b)
+
+### 95 Replacement — references to section 153.1 of *Criminal Code*
+
+In the following provisions, the references to “exploitation d’une personne handicapée à des fins sexuelles”, “personne en situation d’autorité par rapport à une personne ayant une déficience” and “personnes en situation d’autorité” are replaced by “exploitation sexuelle d’une personne handicapée”:
+
+- (b) in the French version of the *Criminal Records Act*:
+  - (i) subparagraph 2(a)(i) of Schedule 1, and
+  - (ii) subparagraph 1(a)(i) of Schedule 2; and

@@ -1,6 +1,6 @@
 # Règlements fédéraux
 
-_4878 documents_
+_4880 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -2220,6 +2220,8 @@ _4878 documents_
 | DORS/2026-124 | [DORS-2026-124-DORS-2026-124](DORS-2026-124-DORS-2026-124.md) | Règlement sur les règles d’origine (APÉGCI) |
 | DORS/2026-125 | [DORS-2026-125-DORS-2026-125](DORS-2026-125-DORS-2026-125.md) | Règlement sur les règles d’origine des marchandises occasionnelles (APÉGCI) |
 | DORS/2026-126 | [DORS-2026-126-DORS-2026-126](DORS-2026-126-DORS-2026-126.md) | Règlement sur la préférence tarifaire (APÉGCI) |
+| DORS/2026-133 | [DORS-2026-133-DORS-2026-133](DORS-2026-133-DORS-2026-133.md) | Règlement administratif n^o^ 10 de l’Association canadienne des paiements — PTR |
+| DORS/2026-135 | [DORS-2026-135-DORS-2026-135](DORS-2026-135-DORS-2026-135.md) | Décret imposant une surtaxe sur certaines conserves de légumes |
 | DORS/2026-34 | [DORS-2026-34-DORS-2026-34](DORS-2026-34-DORS-2026-34.md) | Décret de remise de la surtaxe sur les marchandises dérivées de l’acier |
 | DORS/2026-4 | [DORS-2026-4-DORS-2026-4](DORS-2026-4-DORS-2026-4.md) | Arrêté visant l’habitat essentiel du méné à grandes écailles (Macrhybopsis storeriana) populations des Grands Lacs et du haut Saint-Laurent |
 | DORS/2026-48 | [DORS-2026-48-DORS-2026-48](DORS-2026-48-DORS-2026-48.md) | Décret prolongeant la période de validité du Règlement sur le blocage des biens de dirigeants étrangers corrompus (Tunisie) |

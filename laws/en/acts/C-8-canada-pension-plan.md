@@ -6883,3 +6883,24 @@ The following definitions apply in sections 63 and 64.
 ### 196 Non-application — subsection 114(2) of *Canada Pension Plan*
 
 (1) Subsection 114(2) of the *Canada Pension Plan* does not apply in respect of the amendments to that Act contained in this Division.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 22, s. 41
+
+### 41
+
+Subsections 113.1(11.07) to (11.09) of the *Canada Pension Plan* are replaced by the following:
+
+### — 2026, c. 22, s. 42
+
+### 42
+
+Schedule 1 to the Act is amended by replacing “2003 and each subsequent year” in the column under the heading “Year” with “2003 to 2026”.
+
+### — 2026, c. 22, s. 43
+
+### 43
+
+Schedule 1 to the Act is amended by adding the following at the end of that Schedule:

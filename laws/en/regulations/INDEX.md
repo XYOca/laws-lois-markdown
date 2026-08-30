@@ -1,6 +1,6 @@
 # Federal Regulations
 
-_4878 documents_
+_4880 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -3467,6 +3467,8 @@ _4878 documents_
 | SOR/2026-124 | [SOR-2026-124-SOR-2026-124](SOR-2026-124-SOR-2026-124.md) | CICEPA Rules of Origin Regulations |
 | SOR/2026-125 | [SOR-2026-125-SOR-2026-125](SOR-2026-125-SOR-2026-125.md) | CICEPA Rules of Origin for Casual Goods Regulations |
 | SOR/2026-126 | [SOR-2026-126-SOR-2026-126](SOR-2026-126-SOR-2026-126.md) | CICEPA Tariff Preference Regulations |
+| SOR/2026-133 | [SOR-2026-133-SOR-2026-133](SOR-2026-133-SOR-2026-133.md) | Canadian Payments Association By-law No. 10 — RTR |
+| SOR/2026-135 | [SOR-2026-135-SOR-2026-135](SOR-2026-135-SOR-2026-135.md) | Certain Canned Vegetable Goods Surtax Order |
 | SOR/2026-34 | [SOR-2026-34-SOR-2026-34](SOR-2026-34-SOR-2026-34.md) | Steel Derivative Goods Surtax Remission Order |
 | SOR/2026-4 | [SOR-2026-4-SOR-2026-4](SOR-2026-4-SOR-2026-4.md) | Critical Habitat of the Silver Chub (Macrhybopsis storeriana) Great Lakes – Upper St. Lawrence Populations Order |
 | SOR/2026-48 | [SOR-2026-48-SOR-2026-48](SOR-2026-48-SOR-2026-48.md) | Order Extending the Application of the Freezing Assets of Corrupt Foreign Officials (Tunisia) Regulations |

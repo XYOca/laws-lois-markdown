@@ -989,3 +989,38 @@ Malgré les articles 27 et 27.1 de la *Loi sur la Banque du Canada*, tout excéd
 - a) les bénéfices non répartis atteignent zéro;
 
 - b) l’excédent constaté ainsi affecté est égal au total des pertes découlant de l’achat par la Banque du Canada, du 1^er^ avril 2020 au 25 avril 2022 inclusivement, de titres émis dans le cadre du Programme d’achat d’obligations du gouvernement du Canada.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 22, art. 20
+
+### 20
+
+(1) L’article 2 de la *Loi sur la Banque du Canada* est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+(2) L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+(3) La définition de **entité assujettie à des frais d’évaluation**, à l’article 2 de la même loi, est modifiée par adjonction, selon l’ordre alphabétique, de « tiers fournisseur de services accrédité » dans la liste des entités.
+
+(4) L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+(5) La définition de **entité assujettie à des frais d’évaluation**, à l’article 2 de la même loi, est modifiée par adjonction, selon l’ordre alphabétique, de « chambre de compensation » dans la liste des entités.
+
+(6) L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+(7) La définition de **entité assujettie à des frais d’évaluation**, à l’article 2 de la même loi, est modifiée par adjonction, selon l’ordre alphabétique, de « organisme externe de traitement des plaintes » dans la liste des entités.
+
+(8) L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+(9) La définition de **entité assujettie à des frais d’évaluation**, à l’article 2 de la même loi, est modifiée par adjonction, selon l’ordre alphabétique, de « émetteur » dans la liste des entités.
+
+(10) L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+(11) La définition de **entité assujettie à des frais d’évaluation**, à l’article 2 de la même loi, est modifiée par adjonction, selon l’ordre alphabétique, de « entité participante » dans la liste des entités.
+
+### — 2026, ch. 22, art. 21
+
+### 21
+
+La même loi est modifiée par adjonction, après l’article 30.1, de ce qui suit :

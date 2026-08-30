@@ -3314,6 +3314,14 @@ Bis the amount, rounded to the nearest one-thousandth, or, if the amount is equi
 
 (2.3) In respect of the inflationary adjusted year that is 2025, if the amount determined for B in paragraph (2)(a) without reference to this subsection is greater than 1.02, the description of B in that paragraph is deemed to be equal to 1.02.
 
+**Adjustment — 2026**
+
+(2.4) In respect of the inflationary adjusted year that is 2026, the description of B in paragraph (2)(a) is deemed to be equal to 1.02.
+
+**Adjustment — 2027**
+
+(2.5) In respect of the inflationary adjusted year that is 2027, if the amount determined for B in paragraph (2)(a) without reference to this subsection is greater than 1.02, the description of B in that paragraph is deemed to be equal to 1.02.
+
 **Rounding**
 
 (3) The adjusted rate determined under subsection (2) is to be rounded
@@ -3338,6 +3346,7 @@ Bis the amount, rounded to the nearest one-thousandth, or, if the amount is equi
 - 2017, c. 20, s. 42
 - 2023, c. 26, s. 124
 - 2024, c. 17, s. 113
+- 2026, c. 22, s. 12
 
 </details>
 
@@ -4801,6 +4810,9 @@ Sections 248, 252, 253 and 255 shall be read and construed as applying to denatu
 - 2024, c. 17, s. 114
 - 2024, c. 17, s. 115
 - 2024, c. 17, s. 116
+- 2026, c. 22, s. 13
+- 2026, c. 22, s. 14
+- 2026, c. 22, s. 15
 
 </details>
 
@@ -5000,3 +5012,24 @@ For the purposes of applying the provisions of the *Customs Act* and the *Excise
 ### 67
 
 For the purposes of applying the provisions of the *Customs Act* and the *Excise Act* that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount is to be determined and interest is to be computed on it as though sections 44 and 58 to 63 and subsections 64(1) and 65(1) had been assented to on March 23, 2017.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 22, ss. 13(4)
+
+### 13
+
+(4) Subsection (2) comes into force on April 1, 2028.
+
+### — 2026, c. 22, ss. 14(4)
+
+### 14
+
+(4) Subsection (2) comes into force on April 1, 2028.
+
+### — 2026, c. 22, ss. 15(4)
+
+### 15
+
+(4) Subsection (2) comes into force on April 1, 2028.

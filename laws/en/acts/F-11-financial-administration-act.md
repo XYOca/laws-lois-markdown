@@ -6187,3 +6187,9 @@ Schedule VII to the *Financial Administration Act* is amended by replacing “Co
 ### 16
 
 Schedule VII to the *Financial Administration Act* is amended by adding the following in alphabetical order:
+
+### — 2026, c. 18, s. 49
+
+### 49
+
+Part I of Schedule III to the *Financial Administration Act* is amended by adding the following in alphabetical order:

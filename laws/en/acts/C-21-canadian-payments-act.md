@@ -1363,6 +1363,21 @@ No action lies against Her Majesty, the Minister, any officer or employee of the
 
 </details>
 
+### 44.1 Immunity — Association, etc.
+
+(1) The Association, its directors, its officers, its employees and other individuals whose services are engaged by it have immunity from any civil liability, other than in contract, to which they would otherwise be subject for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties that under this Act are intended or authorized to be executed or performed.
+
+**Exception**
+
+(2) Despite subsection (1), the individuals referred to in that subsection are not relieved of any liability to the Association.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, c. 22, s. 37
+
+</details>
+
 ### 45 Compliance orders
 
 If a person fails to comply with a provision of this Act or a directive issued to it by the Minister under subsection 19.3(1) or 40(1) in connection with any matter under this Act, or a person to whom a request referred to in section 41 is directed fails to comply with the request, the Minister may apply to a superior court for an order directing the person to comply with the provision, directive or request and, on the application, the court may so order and make any further order it thinks fit.

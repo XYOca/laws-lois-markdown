@@ -3304,6 +3304,14 @@ Bla somme — arrêtée à la troisième décimale, les résultats ayant au moin
 
 (2.3) Pour l’année inflationniste qui est 2025, si la valeur de l’élément B de la première formule figurant à l’alinéa (2)a) compte non tenu du présent paragraphe est supérieure à 1,02, la valeur de cet élément est réputée être égale à 1,02.
 
+**Ajustement — 2026**
+
+(2.4) Pour l’année inflationniste qui est 2026, la valeur de l’élément B de la première formule figurant à l’alinéa (2)a) est réputée être égale à 1,02.
+
+**Ajustement — 2027**
+
+(2.5) Pour l’année inflationniste qui est 2027, si la valeur de l’élément B de la première formule figurant à l’alinéa (2)a) compte non tenu du présent paragraphe est supérieure à 1,02, la valeur de cet élément est réputée être égale à 1,02.
+
 **Arrondissement**
 
 (3) Le taux ajusté déterminé selon le paragraphe (2) est, selon le cas :
@@ -3328,6 +3336,7 @@ Bla somme — arrêtée à la troisième décimale, les résultats ayant au moin
 - 2017, ch. 20, art. 42
 - 2023, ch. 26, art. 124
 - 2024, ch. 17, art. 113
+- 2026, ch. 22, art. 12
 
 </details>
 
@@ -4783,6 +4792,9 @@ Les articles 248, 252, 253 et 255 s’appliquent à l’eau-de-vie dénaturée.
 - 2024, ch. 17, art. 114
 - 2024, ch. 17, art. 115
 - 2024, ch. 17, art. 116
+- 2026, ch. 22, art. 13
+- 2026, ch. 22, art. 14
+- 2026, ch. 22, art. 15
 
 </details>
 
@@ -4982,3 +4994,21 @@ Pour l’application des dispositions de la *Loi sur les douanes* et de la *Loi 
 ### 67
 
 Pour l’application des dispositions de la *Loi sur les douanes* et de la *Loi sur l’accise* qui prévoient le paiement d’intérêts, ou l’obligation d’en payer, relativement à une somme, cette somme est déterminée et les intérêts sont calculés comme si les articles 44 et 58 à 63 et les paragraphes 64(1) et 65(1) avaient été sanctionnés le 23 mars 2017.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 22, par. 13(2)
+
+
+(2) Aux alinéas 1a) à c) de la partie II.1 de l’annexe de la même loi, modifiés par le paragraphe (1), « 5 % » est remplacé par « 10 % ».
+
+### — 2026, ch. 22, par. 14(2)
+
+
+(2) Aux alinéas 2a) à c) de la partie II.1 de l’annexe de la même loi, modifiés par le paragraphe (1), « 10 % » est remplacé par « 20 % ».
+
+### — 2026, ch. 22, par. 15(2)
+
+
+(2) Aux alinéas 3a) à c) de la partie II.1 de l’annexe de la même loi, modifiés par le paragraphe (1), « 20 % » est remplacé par « 40 % ».

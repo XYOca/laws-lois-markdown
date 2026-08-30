@@ -4277,50 +4277,27 @@ Bis the percentage that is the total of(i)that proportion of 100% that the numbe
   - (i) that proportion of 40 per cent that the number of days in the taxation year that are in 1988 is of the number of days in the taxation year that are after 1987,
   - (ii) that proportion of 35 per cent that the number of days in the taxation year that are in 1989 is of the number of days in the taxation year, and
   - (iii) that proportion of 30 per cent that the number of days in the taxation year that are after 1989 is of the number of days in the taxation year
-  of the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);
+  of the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year), and
 
-- (ze) such amount as the taxpayer may claim in respect of property of Class 39 in Schedule II not exceeding that percentage which is the aggregate of
-  - (i) that proportion of 40 per cent that the number of days in the taxation year that are in 1988 is of the number of days in the taxation year that are after 1987,
-  - (ii) that proportion of 35 per cent that the number of days in the taxation year that are in 1989 is of the number of days in the taxation year,
-  - (iii) that proportion of 30 per cent that the number of days in the taxation year that are in 1990 is of the number of days in the taxation year, and
-  - (iv) that proportion of 25 per cent that the number of days in the taxation year that are after 1990 is of the number of days in the taxation year
-  of the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);
+- (ze) such amount as the taxpayer claims in respect of property that is an eligible greenhouse for which a separate class is prescribed by subsection 1101(5w) not exceeding the amount determined by the formula
 
-- (zf) such amount as the taxpayer may claim in respect of property of Class 40 in Schedule II not exceeding that percentage which is the aggregate of
-  - (i) that proportion of 40 per cent that the number of days in the taxation year that are in 1988 is of the number of days in the taxation year that are after 1987,
-  - (ii) that proportion of 35 per cent that the number of days in the taxation year that are in 1989 is of the number of days in the taxation year, and
-  - (iii) that proportion of 30 per cent that the number of days in the taxation year that are in 1990 is of the number of days in the taxation year
-  of the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);
+```
+A × B
+where
+Ais(i)if the greenhouse becomes available for use in the year, the undepreciated capital cost to the taxpayer of the property of that class as of the end of the year (before making any deduction under this subsection for the year), and(ii)in any other case, nil, and
+Bis, if the year ends(i)before 2030, 100%,(ii)in 2030 or 2031, 75%,(iii)in 2032 or 2033, 55%, and(iv)after 2033, 0%.
+```
 
-- (zg) where the taxpayer
-  - (i) has elected for the year in prescribed manner,
-  - (ii) was not in the year a large corporation, as defined in subsection 225.1(8) of the Act, or a partnership any member of which was such a corporation in a taxation year that included any time that is in the partnership’s year, and
-  - (iii) acquired property included in paragraph (f) of Class 10 in Schedule II
-    - (A) in the year,
-    - (B) after 1997 and before November 1999, and
-    - (C) for the purpose of replacing property that was acquired before 1998 that has a material risk of malfunctioning because of the change of the calendar year to 2000 and that is described in paragraph (f) of Class 10, or paragraph (o) of Class 12, in Schedule II,
-  such additional amount as the taxpayer claims in respect of all property described in subparagraph (iii) not exceeding the least of
-  - (iv) the amount, if any, by which $50,000 exceeds the total of
-    - (A) the total of all amounts each of which is an amount claimed by the taxpayer under this paragraph for a preceding taxation year,
-    - (B) the total of all amounts each of which is an amount claimed by the taxpayer for the year or a preceding taxation year under paragraph (zh), and
-    - (C) the total of all amounts each of which is an amount claimed under this paragraph or paragraph (zh) by a corporation for a taxation year in which it was associated with the taxpayer,
-  - (v) 85% of the capital cost to the taxpayer of all property described in subparagraph (iii), and
-  - (vi) the undepreciated capital cost to the taxpayer as of the end of the year (computed without reference to subsection (2) and after making all deductions claimed under other provisions of this subsection for the year but before making any deduction under this paragraph for the year) of property included in Class 10 in Schedule II; and
 
-- (zh) where the taxpayer
-  - (i) has elected for the year in prescribed manner,
-  - (ii) was not in the year a large corporation, as defined in subsection 225.1(8) of the Act, or a partnership any member of which was such a corporation in a taxation year that included any time that is in the partnership’s year, and
-  - (iii) acquired property included in paragraph (o) of Class 12 in Schedule II
-    - (A) in the year,
-    - (B) after 1997 and before November 1999, and
-    - (C) for the purpose of replacing property that was acquired before 1998 that has a material risk of malfunctioning because of the change of the calendar year to 2000 and that is described in paragraph (f) of Class 10, or paragraph (o) of Class 12, in Schedule II,
-  such additional amount as the taxpayer claims in respect of all property described in subparagraph (iii) not exceeding the least of
-  - (iv) the amount, if any, by which $50,000 exceeds the total of
-    - (A) the total of all amounts each of which is an amount claimed by the taxpayer under this paragraph for a preceding taxation year,
-    - (B) the total of all amounts each of which is an amount claimed by the taxpayer for the year or a preceding taxation year under paragraph (zg), and
-    - (C) the total of all amounts each of which is an amount claimed under this paragraph or paragraph (zg) by a corporation for a taxation year in which it was associated with the taxpayer,
-  - (v) 50% of the capital cost to the taxpayer of all property described in subparagraph (iii), and
-  - (vi) the undepreciated capital cost to the taxpayer as of the end of the year (computed without reference to subsection (2) and after making all deductions claimed under other provisions of this subsection for the year but before making any deduction under this paragraph for the year) of property included in Class 12 in Schedule II.
+- (zf) [Repealed, 2026, c. 22, s. 7]
+
+- (zg) [Repealed, 2026, c. 22, s. 7]
+
+- (zh) [Repealed, 2026, c. 22, s. 7]
+
+**Eligible greenhouses — first-year deductions**
+
+(1.02) If a deduction is available in respect of an eligible greenhouse of a taxpayer under paragraph (1)(ze) for a taxation year, then, despite any other provision in this section, the taxpayer may not deduct any other amount permitted under this Part in respect of the greenhouse for the year.
 
 (1.1) Despite subsections (0.1), (1) and (3), the amount deductible by a taxpayer for a taxation year in respect of a property that is a specified leasing property at the end of the year is the lesser of
 
@@ -4442,7 +4419,7 @@ the following rules apply:
 A(B) + A.1(B.1) − 0.5(C)
 where
 Ais, in respect of property of the class that became available for use by the taxpayer in the taxation year and that is accelerated investment incentive property or property acquired before 2025 that is included in any of Classes 54 to 56,(a)if the property is not included in paragraph (1)(v) or in any of Classes 12, 13, 14, 15, 43.1, 43.2, 53, 54, 55, 56 and 59 or in Class 43 in the circumstances described in paragraph (d),(i)1/2, for property that became available for use by the taxpayer before 2024, and(ii)nil, for property that became available for use by the taxpayer after 2023 (other than property referred to in any of paragraphs (c.1) to (c.3)),(b)if the class is Class 43.1,(i)2 1/3, for property that became available for use by the taxpayer before 2024,(ii)1 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)5/6, for property that became available for use by the taxpayer after 2025,(c)if the class is Class 43.2,(i)1, for property that became available for use by the taxpayer before 2024,(ii)1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)1/10, for property that became available for use by the taxpayer after 2025,(c.1)if the class is Class 44,(i)3, for property that was acquired and became available for use by the taxpayer after April 15, 2024 and before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(c.2)if the class is Class 46,(i)2 1/3, for property that was acquired and became available for use by the taxpayer after April 15, 2024 and before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(c.3)if the class is Class 50,(i)9/11, for property that was acquired and became available for use by the taxpayer after April 15, 2024 and before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(d)if the property is included in Class 53 or — for property acquired after 2025 — is included in Class 43 and would have been included in Class 53 if it had been acquired in 2025,(i)1, for property that became available for use by the taxpayer before 2024,(ii)1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)5/6, for property included in Class 43 that became available for use by the taxpayer after 2025, and(iv)1/10, for property included in Class 53 that became available for use by the taxpayer after 2025,(e)if the class is Class 54 or Class 56,(i)2 1/3, for property that became available for use by the taxpayer before 2024,(ii)1 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)5/6, for property that became available for use by the taxpayer after 2025,(f)if the class is Class 55,(i)1 1/2, for property that became available for use by the taxpayer before 2024,(ii)7/8, for property that became available for use by the taxpayer in 2024 or 2025, and(iii)3/8, for property that became available for use by the taxpayer after 2025, and(g)in any other case, nil;
-A.1is, in respect of property of the class that became available for use by the taxpayer in the taxation year and that is reaccelerated investment incentive property or property acquired after 2024 that is included in any of Classes 54 to 56,(a)if the property is not included in paragraph (1)(v) or in any of Classes 12, 13, 14, 15, 43.1, 44, 46, 50, 53, 54, 55, 56 and 59 or in Class 43 in the circumstances described in paragraph (f),(i)1/2, for property that became available for use by the taxpayer before 2030, and(ii)nil, for property that became available for use by the taxpayer after 2029,(b)if the class is Class 43.1,(i)2 1/3, for property that became available for use by the taxpayer before 2030,(ii)1 1/2, for property that became available for use by the taxpayer in 2030 or 2031, and(iii)5/6, for property that became available for use by the taxpayer after 2031,(c)if the class is Class 44,(i)3, for property that became available for use by the taxpayer before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(d)if the class is Class 46,(i)2 1/3, for property that became available for use by the taxpayer before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(e)if the class is Class 50,(i)9/11, for property that became available for use by the taxpayer before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(f)if the property is included in Class 53 or — for property acquired after 2025 — is included in Class 43 and would have been included in Class 53 if it had been acquired in 2025,(i)1, for property included in Class 53,(ii)2 1/3, for property included in Class 43 that became available for use by the taxpayer before 2030,(iii)1 1/2, for property included in Class 43 that became available for use by the taxpayer in 2030 or 2031,(iv)5/6, for property included in Class 43 that became available for use by the taxpayer after 2031,(g)if the class is Class 54 or Class 56,(i)2 1/3, for property that became available for use by the taxpayer before 2030,(ii)1 1/2, for property that became available for use by the taxpayer in 2030 or 2031, and(iii)5/6, for property that became available for use by the taxpayer after 2031,(h)if the class is Class 55,(i)1 1/2, for property that became available for use by the taxpayer before 2030,(ii)7/8, for property that became available for use by the taxpayer in 2030 or 2031, and(iii)3/8, for property that became available for use by the taxpayer after 2031, and(i)in any other case, nil;
+A.1is, in respect of property of the class that became available for use by the taxpayer in the taxation year and that is reaccelerated investment incentive property or property acquired after 2024 that is included in any of Classes 54 to 56,(a)if the property is not included in paragraph (1)(v) or (ze) or in any of Classes 12, 13, 14, 15, 43.1, 44, 46, 50, 53, 54, 55, 56 and 59 or in Class 43 in the circumstances described in paragraph (f),(i)1/2, for property that became available for use by the taxpayer before 2030, and(ii)nil, for property that became available for use by the taxpayer after 2029,(b)if the class is Class 43.1,(i)2 1/3, for property that became available for use by the taxpayer before 2030,(ii)1 1/2, for property that became available for use by the taxpayer in 2030 or 2031, and(iii)5/6, for property that became available for use by the taxpayer after 2031,(c)if the class is Class 44,(i)3, for property that became available for use by the taxpayer before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(d)if the class is Class 46,(i)2 1/3, for property that became available for use by the taxpayer before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(e)if the class is Class 50,(i)9/11, for property that became available for use by the taxpayer before 2027, and(ii)nil, for property that became available for use by the taxpayer after 2026,(f)if the property is included in Class 53 or — for property acquired after 2025 — is included in Class 43 and would have been included in Class 53 if it had been acquired in 2025,(i)1, for property included in Class 53,(ii)2 1/3, for property included in Class 43 that became available for use by the taxpayer before 2030,(iii)1 1/2, for property included in Class 43 that became available for use by the taxpayer in 2030 or 2031,(iv)5/6, for property included in Class 43 that became available for use by the taxpayer after 2031,(g)if the class is Class 54 or Class 56,(i)2 1/3, for property that became available for use by the taxpayer before 2030,(ii)1 1/2, for property that became available for use by the taxpayer in 2030 or 2031, and(iii)5/6, for property that became available for use by the taxpayer after 2031,(h)if the class is Class 55,(i)1 1/2, for property that became available for use by the taxpayer before 2030,(ii)7/8, for property that became available for use by the taxpayer in 2030 or 2031, and(iii)3/8, for property that became available for use by the taxpayer after 2031, and(i)in any other case, nil;
 Bis the amount determined, in respect of the class, by the formulaD − EwhereDis the total of all amounts, if any, each of which is an amount included in the description of A in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property of the class that became available for use by the taxpayer in the taxation year and that is accelerated investment incentive property or property acquired before 2025 that is included in any of Classes 54 to 56, andEis the amount, if any, by which the amount determined for G exceeds the amount determined for F in the description of C;
 B.1is the amount determined, in respect of the class, by the formulaD.1 − E.1whereD.1is the total of all amounts, if any, each of which is an amount included in the description of A in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property of the class that became available for use by the taxpayer in the taxation year and that is reaccelerated investment incentive property or property acquired after 2024 that is included in any of classes 54 to 56, andE.1is the amount, if any, by which the amount determined for G exceeds the amount determined for F; and
 Cis the amount determined, in respect of the class, by the formulaF − GwhereFis the total of all amounts each of which(a)is an amount added to the undepreciated capital cost to the taxpayer of property of the class(i)because of element A in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property (other than accelerated investment incentive property or reaccelerated investment incentive property) that was acquired, or became available for use, by the taxpayer in the taxation year, or(ii)because of element C or D in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of an amount that was repaid in the taxation year, and(b)is not in respect of(i)property included in paragraph (1)(v), in paragraph (w) of Class 10 or in any of paragraphs (a) to (c), (e) to (i), (k), (l) and (p) to (s) of Class 12,(ii)property included in any of Classes 13, 14, 15, 23, 24, 27, 29, 34, 52 and 54 to 56,(iii)where the taxpayer was a corporation described in subsection (16) throughout the taxation year, property that was specified leasing property of the taxpayer at that time,(iv)property that was deemed to have been acquired by the taxpayer in a preceding taxation year by reason of the application of paragraph 16.1(1)(b) of the Act in respect of a lease to which the property was subject immediately before the time at which the taxpayer last acquired the property, or(v)property considered to have become available for use by the taxpayer in the taxation year by reason of paragraph 13(27)(b) or (28)(c) of the Act, andGis the total of all amounts each of which is an amount deducted from the undepreciated capital cost to the taxpayer of property of the class(a)because of element F or G in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of property disposed of in the taxation year, or(b)because of element J in the definition **undepreciated capital cost** in subsection 13(21) of the Act in respect of an amount the taxpayer received or was entitled to receive in the taxation year.
@@ -4618,7 +4595,7 @@ the following rules apply:
 
 - (b) no amount shall be deducted under subsection (1) in respect of the property in computing the taxpayer’s income for any subsequent taxation year.
 
-(3) Where a taxation year is less than 12 months, the amount allowed as a deduction under this section, other than under subsection (0.1) and any of paragraphs (1)(c), (e), (f), (g), (m), (w), (x), (y) and (ya), shall not exceed that proportion of the maximum amount otherwise allowable that the number of days in the taxation year is of 365.
+(3) Where a taxation year is less than 12 months, the amount allowed as a deduction under this section, other than under subsection (0.1) and any of paragraphs (1)(c), (e), (f), (g), (m), (w), (x), (y), (ya) and (ze), shall not exceed that proportion of the maximum amount otherwise allowable that the number of days in the taxation year is of 365.
 
 (4) Reserved.
 
@@ -4926,6 +4903,7 @@ that would otherwise be specified energy property of the taxpayer shall be deeme
 - SOR/2024-231, s. 5
 - 2026, c. 3, s. 103
 - 2026, c. 3, s. 123(F)
+- 2026, c. 22, s. 7
 
 </details>
 
@@ -5271,6 +5249,8 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 (5v) A separate class is prescribed for one or more properties of a taxpayer that is property included in Class 49 in Schedule II if the taxpayer has (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property or properties were acquired) elected that this subsection apply to the property or properties.
 
+(5w) For the purposes of this Part, a separate class is prescribed for each eligible greenhouse of a taxpayer in respect of which the taxpayer has elected (in the taxpayer’s return of income under Part I of the Act for the taxation year in which the greenhouse is acquired) that this subsection apply.
+
 (6) A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
 
 <details>
@@ -5279,6 +5259,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F); SOR/2011-9, s. 2; 2013, c. 34, s. 384, c. 40, 101; SOR/2015-117, s. 2
 - 2026, c. 3, s. 104
+- 2026, c. 22, s. 8
 
 </details>
 
@@ -5517,9 +5498,9 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 
 (20) For the purposes of subsections 1100(2.2) and (19), 1101(lad) and 1102(14) (in this subsection referred to as the “relevant subsections”), where, but for this subsection, a taxpayer would be considered to be dealing not at arm’s length with another person as a result of a transaction or series of transactions the principal purpose of which may reasonably be considered to have been to cause one or more of the relevant subsections to apply in respect of the acquisition of a property, the taxpayer shall be considered to be dealing at arm’s length with the other person in respect of the acquisition of that property.
 
-(20.1) For the purposes of subsections 1100(0.3), (2.02) and (2.021) and 1104(3.1), (4) and (4.01), a particular person or partnership and another person or partnership shall be considered not to be dealing at arm’s length with each other in respect of the acquisition or ownership of a property if, in the absence of this subsection, they would be considered to be dealing at arm’s length with each other and it may reasonably be considered that the principal purpose of any transaction or event, or a series of transactions or events, is to cause
+(20.1) For the purposes of subsections 1100(0.3), (2.02) and (2.021) and 1104(2), (3.1), (4) and (4.01), a particular person or partnership and another person or partnership shall be considered not to be dealing at arm’s length with each other in respect of the acquisition or ownership of a property if, in the absence of this subsection, they would be considered to be dealing at arm’s length with each other and it may reasonably be considered that the principal purpose of any transaction or event, or a series of transactions or events, is to cause
 
-- (a) the property to qualify as accelerated investment incentive property, reaccelerated investment incentive property or immediate expensing property; or
+- (a) the property to qualify as accelerated investment incentive property, reaccelerated investment incentive property, immediate expensing property or an eligible greenhouse; or
 
 - (b) the particular person or partnership and the other person or partnership to satisfy the condition in subparagraph 1100(0.3)(c)(i) or subclause 1100(2.02)(a)(i)(C)(I) or (2.021)(a)(i)(C)(I).
 
@@ -5545,7 +5526,13 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 
 - (a) it is a prescribed condition that the motor vehicle has a battery capacity of at least 7 kWh; and
 
-- (b) the federal purchase incentive announced on March 19, 2019 is a prescribed program.
+- (b) the following are prescribed programs:
+  - (i) the federal purchase incentive announced on March 19, 2019, and
+  - (ii) the Electric Vehicle Affordability Program announced on February 5, 2026.
+
+(27) For the purposes of applying paragraph 1100(1)(ze) and subsection 1101(5w), the capital cost to a taxpayer of an addition to or an alteration of the taxpayer’s greenhouse is deemed to be the capital cost to the taxpayer of a separate greenhouse.
+
+(28) For the purposes of this Part and Schedule II, if a greenhouse of a taxpayer was under construction on November 4, 2025 and the greenhouse would be an **eligible greenhouse** (as defined in subsection 1104(2) if that definition were read without reference to its paragraph (b)), the portion, if any, of the capital cost of the greenhouse that was incurred by the taxpayer before November 4, 2025 and has not been deducted under paragraph 20(1)(a) of the Act is deemed to have been incurred by the taxpayer on November 4, 2025, unless the taxpayer elects (in the taxpayer’s return of income under Part I of the Act for the taxation year in which the greenhouse was acquired) that this subsection not apply to that cost.
 
 <details>
 <summary>Historical Note</summary>
@@ -5556,6 +5543,7 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 - 2021, c. 23, s. 85
 - 2022, c. 10, s. 35
 - 2026, c. 3, s. 105
+- 2026, c. 22, s. 9
 
 </details>
 
@@ -5722,6 +5710,16 @@ and, for the purposes of the application of this definition,
 **designated underground storage cost** of a taxpayer means any cost incurred by him after December 11, 1979 in respect of developing a well, mine or other similar underground property for the storage in Canada of petroleum, natural gas or other related hydrocarbons; (**coût désigné de stockage souterrain**)
 
 **development phase** of a taxpayer’s oil sands project means the acquisition, construction, fabrication or installation of a group of assets, by or on behalf of the taxpayer, that may reasonably be considered to constitute a discrete expansion in the capacity of the oil sands project when complete (including, for greater certainty, the initiation of a new oil sands project); (**phase de mise en valeur**)
+
+**eligible greenhouse** means a property of a taxpayer that
+  - (a) is located in Canada,
+  - (b) is acquired by the taxpayer after November 3, 2025,
+  - (c) is included in
+    - (i) Class 6 in Schedule II because of paragraph (d) of that Class, or
+    - (ii) Class 8 in Schedule II because of paragraph (m) of that Class, and
+  - (d) meets either of the following conditions:
+    - (i) the property is not a property in respect of which an amount has been deducted under paragraph 20(1)(a) or subsection 20(16) of the Act by any person or partnership for a taxation year ending before the time the property was acquired by the taxpayer, or
+    - (ii) the property was not
 
 **eligible liquefaction building** of a taxpayer, in respect of an eligible liquefaction facility of the taxpayer, means property (other than property that has been used or acquired for use for any purpose before it was acquired by the taxpayer or a residential building ) acquired by the taxpayer after February 19, 2015 and before 2025 that is included in Class 1 in Schedule II because of paragraph (q) of that Class and that is used as part of the eligible liquefaction facility; (**bâtiment de liquéfaction admissible**)
 
@@ -6220,6 +6218,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 - 2022, c. 10, s. 37
 - 2022, c. 10, s. 38
 - 2026, c. 3, s. 106
+- 2026, c. 22, s. 10
 
 </details>
 

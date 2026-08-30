@@ -1,6 +1,6 @@
 # Lois fédérales
 
-_967 documents_
+_971 documents_
 
 | # | Title | Description |
 | --- | --- | --- |
@@ -21,6 +21,7 @@ _967 documents_
 | A-11.5 | [Loi de mise en oeuvre de la Convention sur les mines antipersonnel](A-11.5-loi-de-mise-en-oeuvre-de-la-convention-sur-les-mines-antipersonnel.md) | Loi de mise en œuvre de la Convention sur l’interdiction de l’emploi, du stockage, de la production et du transfert des mines antipersonnel et sur leur destruction |
 | A-11.7 | [Loi antiterroriste](A-11.7-loi-antiterroriste.md) | Loi modifiant le Code criminel, la Loi sur les secrets officiels, la Loi sur la preuve au Canada, la Loi sur le recyclage des produits de la criminalité et d’autres lois, et édictant des mesures à l’égard de l’enregistrement des organismes de bienfaisance, en vue de combattre le terrorisme |
 | A-11.9 | [Loi sur les prêts aux apprentis](A-11.9-loi-sur-les-prêts-aux-apprentis.md) | Loi portant octroi de prêts aux apprentis |
+| A-11.91 | [Loi sur le Mois du patrimoine arabe](A-11.91-loi-sur-le-mois-du-patrimoine-arabe.md) | Loi instituant le Mois du patrimoine arabe |
 | A-12 | [Loi sur la prévention de la pollution des eaux arctiques](A-12-loi-sur-la-prévention-de-la-pollution-des-eaux-arctiques.md) | Loi sur la prévention de la pollution des zones des eaux arctiques contiguës au continent et aux îles de l’Arctique canadien |
 | A-12.8 | [Loi sur l’accord concernant la Banque asiatique d’investissement dans les infrastructures](A-12.8-loi-sur-laccord-concernant-la-banque-asiatique-dinvestissement-dans-les-infrastr.md) | Loi concernant l’adhésion du Canada à la Banque asiatique d’investissement dans les infrastructures |
 | A-13 | [Loi sur la Fondation Asie-Pacifique du Canada](A-13-loi-sur-la-fondation-asie-pacifique-du-canada.md) | Loi constituant la Fondation Asie-Pacifique du Canada |
@@ -87,6 +88,7 @@ _967 documents_
 | B-9.8596 | [Loi n^o^ 1 d’exécution du budget de 2024](B-9.8596-loi-no-1-dexécution-du-budget-de-2024.md) | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 16 avril 2024 |
 | B-9.8598 | [Loi n^o^ 1 d’exécution du budget de 2025](B-9.8598-loi-no-1-dexécution-du-budget-de-2025.md) | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 novembre 2025 |
 | B-9.86 | [Loi concernant la « Buffalo and Fort Erie Public Bridge Company »](B-9.86-loi-concernant-la-buffalo-and-fort-erie-public-bridge-company.md) |  |
+| B-9.87 | [Loi sur Maisons Canada](B-9.87-loi-sur-maisons-canada.md) | Loi concernant la constitution de Maisons Canada |
 | B-9.88 | [Loi sur le développement d’une économie verte dans les Prairies](B-9.88-loi-sur-le-développement-dune-économie-verte-dans-les-prairies.md) | Loi concernant le développement d’une économie verte dans les Prairies |
 | B-9.89 | [Loi visant à bâtir le Canada](B-9.89-loi-visant-à-bâtir-le-canada.md) | Loi concernant les projets d’intérêt national |
 | B-9.9 | [Loi sur la Banque de développement du Canada](B-9.9-loi-sur-la-banque-de-développement-du-canada.md) | Loi visant à maintenir la Banque fédérale de développement sous la dénomination de Banque de développement du Canada |
@@ -595,6 +597,7 @@ _967 documents_
 | M-8 | [Loi sur les départements et ministres d’État](M-8-loi-sur-les-départements-et-ministres-détat.md) | Loi concernant les départements et ministres d’État |
 | M-8.6 | [Loi sur la modernisation de certains régimes d’avantages et d’obligations](M-8.6-loi-sur-la-modernisation-de-certains-régimes-davantages-et-dobligations.md) | Loi visant à moderniser le régime d’avantages et d’obligations dans les Lois du Canada |
 | M-9 | [Loi sur les normes de consommation de carburant des véhicules automobiles](M-9-loi-sur-les-normes-de-consommation-de-carburant-des-véhicules-automobiles.md) | Loi concernant les normes de consommation de carburant des véhicules automobiles |
+| N-0.5 | [Loi de 2026 visant à changer le nom de certaines circonscriptions électorales](N-0.5-loi-de-2026-visant-à-changer-le-nom-de-certaines-circonscriptions-électorales.md) |  |
 | N-1.4 | [Loi sur la Journée de la fête nationale des Acadiens et des Acadiennes](N-1.4-loi-sur-la-journée-de-la-fête-nationale-des-acadiens-et-des-acadiennes.md) | Loi instituant la Journée de la fête nationale des Acadiens et des Acadiennes |
 | N-10.5 | [Loi sur le Monument national de l’Holocauste](N-10.5-loi-sur-le-monument-national-de-lholocauste.md) | Loi visant à ériger le Monument national de l’Holocauste |
 | N-10.7 | [Loi sur le cheval national du Canada](N-10.7-loi-sur-le-cheval-national-du-canada.md) | Loi portant reconnaissance du cheval canadien comme le cheval national du Canada |
@@ -762,6 +765,7 @@ _967 documents_
 | P-4.3 | [Loi sur les réseaux de cartes de paiement](P-4.3-loi-sur-les-réseaux-de-cartes-de-paiement.md) | Loi concernant les réseaux de cartes de paiement |
 | P-4.4 | [Loi sur la compensation et le règlement des paiements](P-4.4-loi-sur-la-compensation-et-le-règlement-des-paiements.md) | Loi régissant les systèmes de compensation et de règlement des paiements |
 | P-4.6 | [Loi concernant des paiements à une fiducie établie en vue de fournir du financement à des provinces et à des territoires pour le développement des collectivités](P-4.6-loi-concernant-des-paiements-à-une-fiducie-établie-en-vue-de-fournir-du-financem.md) |  |
+| P-4.7 | [Loi autorisant certains paiements sur le Trésor pour améliorer l’offre de logements](P-4.7-loi-autorisant-certains-paiements-sur-le-trésor-pour-améliorer-loffre-de-logemen.md) |  |
 | P-6 | [Loi sur les pensions](P-6-loi-sur-les-pensions.md) | Loi prévoyant des pensions et d’autres avantages pour certains membres des Forces canadiennes ou des forces navales, des forces de l’armée et des forces aériennes du Canada ou à l’égard de ces membres |
 | P-6.7 | [Loi sur le partage des prestations de retraite](P-6.7-loi-sur-le-partage-des-prestations-de-retraite.md) |  |
 | P-7.01 | [Loi de 1985 sur les normes de prestation de pension](P-7.01-loi-de-1985-sur-les-normes-de-prestation-de-pension.md) | Loi concernant les régimes de pension institués et gérés en faveur de personnes dont l’emploi est lié à des ouvrages, entreprises ou activités de compétence fédérale |

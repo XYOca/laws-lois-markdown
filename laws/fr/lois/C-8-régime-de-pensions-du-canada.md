@@ -6738,3 +6738,34 @@ Les définitions qui suivent s’appliquent aux articles 63 et 64.
 ### 196 Non-application du paragraphe 114(2) du *Régime de pensions du Canada*
 
 (1) Le paragraphe 114(2) du *Régime de pensions du Canada* ne s’applique pas aux modifications qui sont apportées à cette loi par la présente section.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 22, art. 41
+
+### 41
+
+Les paragraphes 113.1(11.07) à (11.09) du *Régime de pensions du Canada* sont remplacés par ce qui suit :
+
+### — 2026, ch. 22, art. 42
+
+### 42
+
+Dans la colonne intitulée « Année » de l’annexe 1 de la même loi, « 2003 et chaque année subséquente » est remplacé par « 2003 à 2026 ».
+
+### — 2026, ch. 22, art. 43
+
+### 43
+
+L’annexe 1 de la même loi est modifiée par adjonction, à la fin de cette annexe, de ce qui suit :
+
+### — 2026, ch. 22, art. 44
+
+### 44 Non-application du paragraphe 114(2) du *Régime de pensions du Canada*
+
+(1) Le paragraphe 114(2) du *Régime de pensions du Canada* ne s’applique pas aux modifications qui sont apportées à cette loi par la présente section.
+
+**Décret**
+
+(2) La présente section entre en vigueur, conformément au paragraphe 114(4) du *Régime de pensions du Canada*, à la date fixée par décret.

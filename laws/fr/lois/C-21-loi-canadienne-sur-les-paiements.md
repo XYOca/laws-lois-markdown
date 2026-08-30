@@ -1343,6 +1343,21 @@ Sa Majesté, le ministre, les dirigeants et les employés du ministère des Fina
 
 </details>
 
+### 44.1 Immunité — Association, etc.
+
+(1) L’Association, ses administrateurs, ses dirigeants, ses employés ainsi que les autres personnes physiques dont elle retient les services bénéficient de l’immunité en matière de responsabilité civile, à l’exception de la responsabilité civile contractuelle, pour les actes ou omissions commis de bonne foi dans l’exercice — autorisé ou requis — des pouvoirs et fonctions conférés sous le régime de la présente loi.
+
+**Exception**
+
+(2) Malgré le paragraphe (1), les personnes physiques qui y sont visées ne sont pas dégagées de leur responsabilité envers l’Association.
+
+<details>
+<summary>Historical Note</summary>
+
+- 2026, ch. 22, art. 37
+
+</details>
+
 ### 45 Ordonnance judiciaire
 
 Le ministre peut, après constatation du défaut, demander à une cour supérieure d’enjoindre à une personne de se conformer à la présente loi ou aux instructions données par lui aux termes des paragraphes 19.3(1) ou 40(1), ou à toute personne visée par une exigence formulée dans le cadre de l’article 41 de se conformer à celle-ci. Le tribunal peut agréer à la demande et rendre toute autre ordonnance qu’il juge indiquée.

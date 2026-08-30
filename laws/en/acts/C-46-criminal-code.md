@@ -44393,22 +44393,6 @@ Form 12 of Part XXVIII of the Act is amended by adding the following after secti
 
 Part XXVIII of the Act is amended by adding the following after Form 29:
 
-### — 2026, c. 11, s. 83
-
-### 83 Bill C-9
-
-(1) Subsections (2) to (6) apply if Bill C-9, introduced in the 1st session of the 45th Parliament and entitled the *Combatting Hate Act* (in this section referred to as the “other Act”), receives royal assent.
-
-(2) If subsection 9(1) of the other Act comes into force before subsection 23(3) of this Act, then that subsection 23(3) is amended by replacing the paragraphs 515(4.1)(h) to (k) that it enacts with the following:
-
-(3) If subsection 23(3) of this Act comes into force before subsection 9(1) of the other Act, then that subsection 9(1) is replaced by the following:
-
-(4) If subsection 9(1) of the other Act and subsection 23(3) of this Act come into force on the same day, then that subsection 9(1) is deemed to have come into force before that subsection 23(3) and subsection (2) applies as a consequence.
-
-(5) If subsection 23(5) of this Act comes into force before subsection 9(2) of the other Act, then that subsection 9(2) is amended by replacing the paragraph 515(4.3)(b) that it enacts with the following:
-
-(6) If subsection 9(2) of the other Act and subsection 23(5) of this Act come into force on the same day, then that subsection 9(2) is deemed to have come into force before that subsection 23(5).
-
 ### — 2026, c. 12, s. 1
 
 ### 1
@@ -44527,82 +44511,992 @@ Subsection 490(2) of the *Criminal Code*, as amended by section 3, applies with 
 
 (4) If section 25 of the other Act and section 1 of this Act come into force on the same day, then that section 1 is deemed never to have come into force and is repealed.
 
-### — 2026, c. 12, s. 18
+### — 2026, c. 15, s. 2
 
-### 18 Coordinating amendments with Bill C-16 — manslaughter
+### 2
 
-(1) This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the *Protecting Victims Act* (in this section referred to as the “other Act”), receives royal assent.
+Paragraph (a) of the definition **offence** in section 183 of the *Criminal Code* is amended by adding the following after subparagraph (lxxi.1):
 
-(2) If section 26 of the other Act comes into force before section 1.1 of this Act, then that section 1.1 and section 15 of this Act are repealed.
+### — 2026, c. 15, s. 3
 
-(3) If section 1.1 of this Act comes into force before section 26 of the other Act, then
+### 3
 
-- (a) that section 26 is amended by replacing “Section 236 of the Act is renumbered as subsection 236(1) and is amended by adding” with “Subsection 236(2) of the Act is replaced by”; and
+Subsection 318(3) of the Act is replaced by the following:
 
-- (b) section 98 of the other Act is replaced with the following:
+### — 2026, c. 15, s. 4
 
-(4) If section 26 of the other Act and section 1.1 of this Act come into force on the same day, then that section 1.1 and section 15 of this Act are deemed never to have come into force and are repealed.
+### 4
 
-(5) If section 55 of the other Act comes into force before section 6 of this Act, then that section 6 is repealed.
+(1) Section 319 of the Act is amended by adding the following after subsection (2.1):
 
-(6) If section 6 of this Act comes into force before section 55 of the other Act, then that section 55 is repealed.
+(1.1) Paragraph 319(3)(b) of the Act is repealed.
 
-(7) If section 55 of the other Act and section 6 of this Act come into force on the same day, then that section 6 is deemed never to have come into force and is repealed.
+(1.2) Paragraph 319(3.1)(b) of the Act is repealed.
 
-(8) If section 56 of the other Act comes into force before section 7 of this Act, then that section 7 is repealed.
+(2) Subsections 319(4) to (6) of the Act are replaced by the following:
 
-(9) If section 56 of the other Act and section 7 of this Act come into force on the same day, then that section 7 is deemed never to have come into force and is repealed.
+(3) Subsection 319(7) of the Act is amended by adding the following in alphabetical order:
 
-(10) If section 57 of the other Act comes into force before section 8 of this Act, then that section 8 is repealed.
+### — 2026, c. 15, s. 5
 
-(11) If section 57 of the other Act and section 8 of this Act come into force on the same day, then that section 8 is deemed never to have come into force and is repealed.
+### 5
 
-(12) If section 72 of the other Act comes into force before section 11 of this Act, then that section 11 is repealed.
+The Act is amended by adding the following after section 320.1:
 
-(13) If section 11 of this Act comes into force before section 72 of the other Act, then that section 72 is amended by replacing “Section 745 of the Act is amended by striking out “and” at the end of paragraph (c) and by adding the following after that paragraph” with “Paragraph 745(c.1) of the Act is replaced by the following”.
+### — 2026, c. 15, s. 6
 
-(14) If section 72 of the other Act and section 11 of this Act come into force on the same day, then that section 11 is deemed never to have come into force and is repealed.
+### 6
 
-(15) If section 73 of the other Act comes into force before section 12 of this Act, then that section 12 is repealed.
+The Act is amended by adding the following after section 423.2:
 
-(16) If section 73 of the other Act and section 12 of this Act come into force on the same day, then that section 12 is deemed never to have come into force and is repealed.
+### — 2026, c. 15, s. 8
 
-(17) If section 74 of the other Act comes into force before section 13 of this Act, then that section 13 is repealed.
+### 8
 
-(18) If section 13 of this Act comes into force before section 74 of the other Act, then that section 74 is amended by replacing “The Act is amended by adding the following after section 745.51” with “Section 745.52 of the Act is replaced by the following”.
+Paragraph (c) of the definition **secondary designated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (xi.01):
 
-(19) If section 74 of the other Act and section 13 of this Act come into force on the same day, then that section 13 is deemed never to have come into force and is repealed.
+### — 2026, c. 15, s. 9, as amended by 2026, c. 11, ss. 83(3), (5)
 
-(20) If section 75 of the other Act comes into force before section 14 of this Act, then that section 14 is repealed.
+### 9
 
-(21) If section 14 of this Act comes into force before section 75 of the other Act, then that section 75 is repealed.
+(1) Subsection 515(4.1) of the Act is amended by adding the following after paragraph (g):
 
-(22) If section 75 of the other Act and section 14 of this Act come into force on the same day, then that section 14 is deemed never to have come into force and is repealed.
+(2) Paragraph 515(4.3)(b) of the Act is replaced by the following:
 
-### — 2026, c. 12, s. 19
+### — 2026, c. 15, s. 10
 
-### 19 Coordinating amendments with Bill C-16 — intimate partner violence
+### 10
 
-(1) This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the *Protecting Victims Act* (in this section referred to as the “other Act”), receives royal assent.
+Section 662 of the Act is amended by adding the following after subsection (6):
 
-(2) On the first day on which subsection 2(1) of the other Act and section 2 of this Act are in force, subsection 3.01(2) of the *Criminal Code* is amended by adding the following after paragraph (b):
+### — 2026, c. 15, s. 11
 
-- (b.1) subsection 263.1(1);
+### 11
 
-(3) If subsection 2(1) of the other Act comes into force before section 9 of this Act, then, on the day on which section 9 comes into force, paragraph 3.01(2)(g) of the *Criminal Code* is repealed.
+The Act is amended by adding the following after section 726.2:
 
-(4) If section 9 of this Act comes into force before subsection 2(1) of the other Act, then that subsection 2(1) is amended by repealing the paragraph 3.01(2)(g) that it enacts.
+### — 2026, c. 15, s. 11.1
 
-(5) If subsection 2(1) of the other Act and section 9 of this Act come into force on the same day, then that section 9 is deemed to have come into force before that subsection 2(1) and subsection (4) applies as a consequence.
+### 11.1 Clarification — subsections 319(2) and (2.2)
 
-### — 2026, c. 12, s. 20
+(1) For greater certainty, nothing in subsection 319(2) or (2.2) of the *Criminal Code* shall be construed as prohibiting a person from communicating a statement on a matter of public interest, including an educational, religious, political or scientific statement made in the course of a discussion, publication or debate, if they do not wilfully promote hatred against an identifiable group by communicating the statement.
 
-### 20 Coordinating amendments with Bill C-16 — further detention
+**Clarification — subsection 319(2.1)**
 
-(1) This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the *Protecting Victims Act* (in this section referred to as the “other Act”), receives royal assent.
+(2) For greater certainty, nothing in subsection 319(2.1) of the *Criminal Code* shall be construed as prohibiting a person from communicating a statement on a matter of public interest, including an educational, religious, political or scientific statement made in the course of a discussion, publication or debate, if they do not wilfully promote antisemitism by condoning, denying or downplaying the Holocaust.
 
-(2) If section 44 of the other Act comes into force before section 3 of this Act, then that section 3 and section 16 of this Act are repealed.
+### — 2026, c. 16, s. 48
 
-(3) If section 3 of this Act comes into force before section 44 of the other Act, then that section 44 and section 104 of the other Act are repealed.
+### 48
 
-(4) If section 44 of the other Act and section 3 of this Act come into force on the same day, then that section 3 and section 16 of this Act are deemed never to have come into force and are repealed.
+Subsection 490.02(3) of the *Criminal Code* is replaced by the following:
+
+### — 2026, c. 16, s. 49
+
+### 49
+
+Subsection 490.022(4) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 50
+
+### 50
+
+(1) Paragraphs 490.04(1)(a) and (b) of the Act are replaced by the following:
+
+(2) Subsection 490.04(2) of the Act is replaced by the following:
+
+(3) Paragraph 490.04(3)(a) of the Act is replaced by the following:
+
+(4) The portion of paragraph 490.04(4) of the Act before subparagraph (b)(i) is replaced by the following:
+
+(5) Subsection 490.04(8) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 51
+
+### 51
+
+(1) Paragraph 490.05(1)(a) of the Act is replaced by the following:
+
+(2) Paragraphs 490.05(1)(c) and (d) of the Act are replaced by the following:
+
+(3) Paragraph 490.05(3)(a) of the Act is replaced by the following:
+
+(4) Subsection 490.05(5) of the Act is amended by adding the following after paragraph (a):
+
+(5) Subsection 490.05(5) of the Act is amended by adding the following after paragraph (b):
+
+### — 2026, c. 16, s. 52
+
+### 52
+
+Subsection 490.06(2) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 53
+
+### 53
+
+The Act is amended by replacing “Canadian Forces Provost Marshal” with “Provost Marshal General” in section 5 of Form 52 of Part XXVIII.
+
+### — 2026, c. 19, s. 2
+
+### 2
+
+(1) The *Criminal Code* is amended by adding the following after section 3:
+
+(2) Subsection 3.01(1) of the Act is amended by adding the following after paragraph (b):
+
+### — 2026, c. 19, s. 3
+
+### 3
+
+Subsection 7(4.1) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 3.1
+
+### 3.1
+
+The Act is amended by adding the following after section 11:
+
+### — 2026, c. 19, s. 4
+
+### 4
+
+Paragraph 109(1)(b) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 5
+
+### 5
+
+Subsection 113(4) of the Act is amended by replacing “subsection 810(3)” with “section 810 or 810.03”.
+
+### — 2026, c. 19, s. 6
+
+### 6
+
+Section 150 of the Act is amended by adding the following in alphabetical order:
+
+### — 2026, c. 19, s. 7
+
+### 7
+
+Subsection 150.1(5) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 8
+
+### 8
+
+The portion of section 151 of the French version of the Act before paragraph (a) is amended by replacing “à des fins d’ordre sexuel” by “dans un but sexuel”.
+
+### — 2026, c. 19, s. 9
+
+### 9
+
+The portion of section 152 of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 19, s. 10
+
+### 10
+
+(1) Paragraph 153(1)(a) of the French version of the Act is replaced by the following:
+
+(2) Subsection 153(1) of the Act is amended by striking out “or” at the end of paragraph (a) and by replacing paragraph (b) by the following:
+
+### — 2026, c. 19, s. 11
+
+### 11
+
+The portion of subsection 153.1(1) of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 19, s. 12
+
+### 12
+
+(1) Section 160 of the Act is amended by adding the following after subsection (3):
+
+(2) The portion of subsection 160(4) of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 19, s. 13
+
+### 13
+
+(1) The portion of subsection 161(1) of the Act before paragraph (a.1) is replaced by the following:
+
+(2) Paragraphs 161(1)(b) and (c) of the Act are replaced by the following:
+
+(3) Paragraph 161(1.1)(a) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 14
+
+### 14
+
+(1) Paragraphs 162(1)(a) and (b) of the Act are replaced by the following:
+
+(2) Paragraph 162(5)(a) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 15
+
+### 15
+
+(1) Paragraph 162.1(1)(a) of the Act is replaced by the following:
+
+(2) Subsection 162.1(2) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 16
+
+### 16
+
+Subsection 162.2(1) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 17
+
+### 17
+
+(1) Subparagraph 163.1(1)(a)(ii) of the Act is replaced by the following:
+
+(2) Section 163.1 of the Act is amended by adding the following after subsection (4.2):
+
+### — 2026, c. 19, s. 18
+
+### 18
+
+(1) Subsections 164(1) to (5) of the Act are replaced by the following:
+
+(2) Subsection 164(7) of the Act is replaced by the following:
+
+(3) The definitions **advertisement for conversion therapy**, **advertisement of sexual services**, **intimate image** and **voyeuristic recording** in subsection 164(8) of the Act are repealed.
+
+(4) Subsection 164(8) of the Act is amended by adding the following in alphabetical order:
+
+### — 2026, c. 19, s. 19
+
+### 19
+
+(1) The portion of subsection 164.1(1) of the Act before paragraph (a) is replaced by the following:
+
+(2) Subsection 164.1(5) of the Act is replaced by the following:
+
+(3) Subsections 164.1(7) and (8) of the Act are replaced by the following:
+
+(4) Section 164.1 of the Act is amended by adding the following after subsection (9):
+
+### — 2026, c. 19, s. 20
+
+### 20
+
+The Act is amended by adding the following after section 169:
+
+### — 2026, c. 19, s. 21
+
+### 21
+
+(1) Subparagraph 171.1(5)(a)(ii) of the Act is replaced by the following:
+
+(2) Paragraphs 171.1(5)(b) and (c) of the Act are replaced by the following:
+
+(3) Section 171.1 of the Act is amended by adding the following after subsection (5):
+
+### — 2026, c. 19, s. 22
+
+### 22
+
+Paragraph 172.1(1)(a) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 23
+
+### 23
+
+(1) The portion of subsection 173(2) of the Act before paragraph (a) is replaced by the following:
+
+(2) Paragraph 173(2)(a) of the Act is amended by replacing “a term of not more than two years” with “a term of not more than 10 years”.
+
+(3) Paragraph 173(2)(b) of the Act is amended by replacing “a term of not more than six months” with “a term of not more than two years less a day”.
+
+### — 2026, c. 19, s. 24
+
+### 24
+
+(1) Paragraph (a) of the definition **offence** in section 183 of the Act is amended by adding the following after subparagraph (xxvii):
+
+(2) Subparagraph (a)(xxvii.2) of the definition **offence** in section 183 of the Act is replaced by the following:
+
+(3) Paragraph (a) of the definition **offence** in section 183 of the Act is amended by adding the following after subparagraph (xxix):
+
+(4) Paragraph (a) of the definition **offence** in section 183 of the Act is amended by adding the following after subparagraph (xxxix.2):
+
+(5) Paragraph (a) of the definition **offence** in section 183 of the Act is amended by adding the following after subparagraph (xxxix.3):
+
+### — 2026, c. 19, s. 25
+
+### 25
+
+Subsection 231(6) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 26
+
+### 26
+
+Section 236 of the Act is renumbered as subsection 236(1) and is amended by adding the following:
+
+### — 2026, c. 19, s. 27
+
+### 27
+
+(1) Subsection 264(1) of the Act is replaced by the following:
+
+(2) The portion of subsection 264(2) of the Act before paragraph (a) is replaced by the following:
+
+(3) Subsection 264(2) of the Act is amended by adding the following after paragraph (a):
+
+(4) Paragraph 264(2)(d) of the Act is replaced by the following:
+
+(5) Subsection 264(3) of the English version of the Act is replaced by the following:
+
+(6) Paragraph 264(4)(a) of the Act is replaced by the following:
+
+(7) Section 264 of the Act is amended by adding the following after subsection (5):
+
+### — 2026, c. 19, s. 28
+
+### 28
+
+The Act is amended by adding the following after section 264:
+
+### — 2026, c. 19, s. 29
+
+### 29
+
+Paragraph 271(b) of the Act is amended by replacing “18 months” by “two years less a day”.
+
+### — 2026, c. 19, s. 30
+
+### 30
+
+The Act is amended by adding the following after section 275:
+
+### — 2026, c. 19, s. 31
+
+### 31
+
+(1) The portion of subsection 276(1) of the Act before paragraph (a) is replaced by the following:
+
+(2) Subsection 276(2) of the Act is replaced by the following:
+
+(3) Subsection 276(4) of the French version of the Act is replaced by the following:
+
+(4) Section 276 of the Act is amended by adding the following after subsection (4):
+
+### — 2026, c. 19, s. 32
+
+### 32
+
+The Act is amended by adding the following after section 276:
+
+### — 2026, c. 19, s. 33
+
+### 33
+
+The Act is amended by adding the following after section 277:
+
+### — 2026, c. 19, s. 34
+
+### 34
+
+Sections 278.1 to 278.97 of the Act are replaced by the following:
+
+### — 2026, c. 19, s. 35
+
+### 35
+
+(1) Subsection 279.04(2) of the Act is replaced by the following:
+
+(2) Section 279.04 of the Act is amended by adding the following after subsection (3):
+
+### — 2026, c. 19, s. 36
+
+### 36
+
+Subsection 286.1(2) of the Act is amended by replacing “a term of not more than 10 years” with “a term of not more than 14 years”.
+
+### — 2026, c. 19, s. 37
+
+### 37
+
+Section 346 of the Act is amended by adding the following after subsection (1.3):
+
+### — 2026, c. 19, s. 38
+
+### 38
+
+(1) Subsections 486.1(1) and (2) of the Act are replaced by the following:
+
+(2) Subsection 486.1(2.1) of the English version of the Act is replaced by the following:
+
+(3) Section 486.1 of the Act is amended by adding the following after subsection (6):
+
+### — 2026, c. 19, s. 39
+
+### 39
+
+(1) Subsections 486.2(1) and (2) of the Act are replaced by the following:
+
+(2) Subsections 486.2(2.1) of the English version of the Act is replaced by the following:
+
+(3) Subsections 486.2(5) and (6) of the Act are replaced by the following:
+
+### — 2026, c. 19, s. 40
+
+### 40
+
+(1) Subsection 486.3(2) of the Act is replaced by the following:
+
+(2) Section 486.3 of the Act is amended by adding the following after subsection (5):
+
+### — 2026, c. 19, s. 41
+
+### 41
+
+The Act is amended by adding the following after section 486.7:
+
+### — 2026, c. 19, s. 42
+
+### 42
+
+Paragraph (c) of the definition **secondary designated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (v):
+
+### — 2026, c. 19, s. 43
+
+### 43
+
+Section 489.1 of the Act is amended by adding the following after subsection (3):
+
+### — 2026, c. 19, s. 44
+
+### 44
+
+The portion of subsection 490(2) of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 19, s. 45
+
+### 45
+
+(1) Subparagraph (a)(x) of the definition **primary offence** in subsection 490.011(1) of the Act is replaced by the following:
+
+(2) Paragraph (a) of the definition **secondary offence** in subsection 490.011(1) of the Act is amended by adding the following after subparagraph (ix):
+
+### — 2026, c. 19, s. 46
+
+### 46
+
+The Act is amended by adding the following after section 492.2:
+
+### — 2026, c. 19, s. 47
+
+### 47
+
+Subsection 507.1(9) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 48
+
+### 48
+
+(1) Paragraph 515(4.1)(b) of the Act is repealed.
+
+(2) Paragraph 515(4.3)(b) of the Act is amended by deleting “264” and by making any necessary modifications as a consequence.
+
+(3) Paragraph 515(4.3)(c) of the French version of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 49
+
+### 49
+
+Section 537 of the Act is amended by adding the following after subsection (1):
+
+### — 2026, c. 19, s. 50
+
+### 50
+
+Section 571 of the Act is renumbered as subsection 571(1) and is amended by adding the following:
+
+### — 2026, c. 19, s. 51
+
+### 51
+
+Section 645 of the Act is amended by adding the following after subsection (3):
+
+### — 2026, c. 19, s. 52
+
+### 52
+
+The Act is amended by adding the following after section 657.3:
+
+### — 2026, c. 19, s. 53
+
+### 53
+
+The Act is amended by adding the following after section 672.501:
+
+### — 2026, c. 19, s. 54
+
+### 54
+
+Paragraph 672.81(1.3)(a) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 55
+
+### 55
+
+Paragraph (b) of the definition **sentence** in section 673 of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 56
+
+### 56
+
+(1) Subsection 675(2) of the Act is replaced by the following:
+
+(2) Subsection 675(2.2) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 57
+
+### 57
+
+Subsection 676(4) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 58
+
+### 58
+
+(1) Subsection 699(5.1) of the Act is replaced by the following:
+
+(2) Subsection 699(7) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 59
+
+### 59
+
+The Act is amended by adding the following after section 715.43:
+
+### — 2026, c. 19, s. 60
+
+### 60
+
+The definition **alternative measures** in section 716 of the Act is repealed.
+
+### — 2026, c. 19, s. 61
+
+### 61
+
+The heading before section 717 and sections 717 to 717.4 of the Act are repealed.
+
+### — 2026, c. 19, s. 62
+
+### 62
+
+Subparagraph 718.2(a)(ii.2) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 63
+
+### 63
+
+The Act is amended by adding the following after section 718.3:
+
+### — 2026, c. 19, s. 64
+
+### 64
+
+Subsection 720(2) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 65
+
+### 65
+
+Paragraph 721(3)(c) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 66
+
+### 66
+
+(1) Paragraph 722(5)(b) of the Act is replaced by the following:
+
+(2) Subsection 722(7) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 67
+
+### 67
+
+(1) Section 722.2 of the Act is amended by adding the following after subsection (1):
+
+(2) Paragraph 722.2(3)(b) of the Act is replaced by the following:
+
+(3) Subsection 722.2(4) of the Act is replaced by the following:
+
+(4) Section 722.2 of the Act is amended by adding the following after subsection (5):
+
+### — 2026, c. 19, s. 68
+
+### 68
+
+The Act is amended by adding the following after section 726.2:
+
+### — 2026, c. 19, s. 69
+
+### 69
+
+The Act is amended by adding the following after section 729.1:
+
+### — 2026, c. 19, s. 70
+
+### 70
+
+Paragraph 738(1)(c) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 71
+
+### 71
+
+The Act is amended by adding the following after section 740:
+
+### — 2026, c. 19, s. 72
+
+### 72
+
+Section 745 of the Act is amended by striking out “and” at the end of paragraph (c) and by adding the following after that paragraph:
+
+### — 2026, c. 19, s. 73
+
+### 73
+
+(1) The portion of section 745.1 of the Act before paragraph (a) is replaced by the following:
+
+(2) Paragraph 745.1(c) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 74
+
+### 74
+
+The Act is amended by adding the following after section 745.51:
+
+### — 2026, c. 19, s. 75
+
+### 75
+
+The portion of section 746 of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 19, s. 76
+
+### 76
+
+Paragraphs (a) and (b) of the definition **serious personal injury offence** in section 752 of the Act are replaced by the following:
+
+### — 2026, c. 19, s. 77
+
+### 77
+
+Section 752.01 of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 78
+
+### 78
+
+Paragraph 753.1(2)(a) of the Act is amended by replacing “152 (invitation to sexual touching) or 153 (sexual exploitation), subsection 163.1(2) (making child sexual abuse and exploitation material), 163.1(3) (distribution, etc., of child sexual abuse and exploitation material), 163.1(4) (possession of child sexual abuse and exploitation material) or 163.1(4.1) (accessing child sexual abuse and exploitation material), section 170” with “152 (invitation to sexual touching or exposure), 153 (sexual exploitation), 153.1 (sexual exploitation of person with disability), 163.1 (child sexual abuse and exploitation material), 170”.
+
+### — 2026, c. 19, s. 79
+
+### 79
+
+Section 803 of the Act is amended by adding the following after subsection (1):
+
+### — 2026, c. 19, s. 80
+
+### 80
+
+Paragraph 810(1)(b) of the French version of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 81
+
+### 81
+
+(1) Subsections 810.03(1) to (5) of the Act are replaced by the following:
+
+(2) The portion of subsection 810.03(6) of the Act before paragraph (d) is replaced by the following:
+
+(3) Paragraph 810.03(6)(e) of the Act is replaced by the following:
+
+(4) Subsection 810.03(7) of the Act is replaced by the following:
+
+(5) Subsection 810.03(8) of the English version of the Act is replaced by the following:
+
+(6) Subsections 810.03(9) to (11) of the Act are replaced by the following:
+
+(7) Section 810.03 is amended by adding the following after subsection (12):
+
+### — 2026, c. 19, s. 82
+
+### 82
+
+(1) Subsection 810.1(1) of the Act is replaced by the following:
+
+(2) Subsection 810.1(3.01) of the Act is replaced by the following:
+
+(3) Paragraph 810.1(3.02)(a) of the Act is replaced by the following:
+
+(4) Paragraph 810.1(3.02)(b) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 83
+
+### 83
+
+Section 824 of the Act is renumbered as subsection 824(1) and is amended by adding the following:
+
+### — 2026, c. 19, s. 84
+
+### 84
+
+Form 16.1 of Part XXVIII of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 85
+
+### 85
+
+Form 23 of Part XXVIII of the Act is amended by replacing the references after the heading “FORM 23” with the following:
+
+### — 2026, c. 19, s. 86
+
+### 86
+
+(1) Paragraphs (e.2) to (f.1) of Form 32 of Part XXVIII of the Act after the heading “List of Conditions” are replaced by the following:
+
+(2) Paragraph (j) of Form 32 of Part XXVIII of the Act after the heading “List of Conditions” is replaced by the following:
+
+(3) Paragraph (l) of Form 32 of Part XXVIII of the Act after the heading “List of Conditions” is replaced by the following:
+
+### — 2026, c. 19, s. 87
+
+### 87 Existing minimum punishments
+
+For greater certainty, following the enactment of section 718.4 of the *Criminal Code*, the operation of the minimum punishments that are set out in that Act or in any other Act of Parliament is affirmed.
+
+### — 2026, c. 19, s. 94
+
+### 94 Replacement — references to section 152 of *Criminal Code*
+
+Every reference to “sexual touching” is replaced by a reference to “sexual touching or exposure” in the following provisions:
+
+- (a) in the *Criminal Code*,
+  - (i) subparagraph (a)(i.2) of the definition **primary designated offence** in section 487.04,
+  - (ii) subparagraph 487.055(3)(a)(ii),
+  - (iii) subparagraph (a)(iii) of the definition **primary offence** in subsection 490.011(1), and
+  - (iv) subparagraph (a)(ii) of the definition **primary designated offence** in section 752;
+
+- (b) in subparagraph 1(a)(ii) in Schedule 1 to the *Criminal Records Act*;
+
+- (c) in the *Corrections and Conditional Release Act*,
+  - (i) subparagraph (a)(ii) of the definition **sexual offence involving a child** in subsection 129(9), and
+  - (ii) paragraph 1(f) in Schedule I; and
+
+- (d) in paragraph 1(d) in the schedule to the *Youth Criminal Justice Act*.
+
+### — 2026, c. 19, s. 95
+
+### 95 Replacement — references to section 153.1 of *Criminal Code*
+
+In the following provisions, the references to “exploitation d’une personne handicapée à des fins sexuelles”, “personne en situation d’autorité par rapport à une personne ayant une déficience” and “personnes en situation d’autorité” are replaced by “exploitation sexuelle d’une personne handicapée”:
+
+- (a) in the French version of the *Criminal Code*:
+  - (i) subparagraph (a)(v) of the definition **infraction primaire** in subsection 490.011(1), and
+  - (ii) subparagraph (b)(v) of the definition **infraction désignée** in section 752;
+
+- (b) in the French version of the *Criminal Records Act*:
+  - (i) subparagraph 2(a)(i) of Schedule 1, and
+  - (ii) subparagraph 1(a)(i) of Schedule 2; and
+
+- (c) paragraph 1(g.1) of Schedule I to the French version of the *Corrections and Conditional Release Act*.
+
+### — 2026, c. 19, s. 96
+
+### 96 Definitions
+
+The following definitions apply in sections 97 to 118.
+
+**Act** means the *Criminal Code*. (**Loi**)
+
+**commencement day** means the 30th day after the day on which this Act receives royal assent. (**date de référence**)
+
+### — 2026, c. 19, s. 97
+
+### 97 Offence in relation to sexual offences against children
+
+For greater certainty, subsection 7(4.1) of the Act, as enacted by section 3, applies only with respect to an act or omission that is committed on or after the commencement day.
+
+### — 2026, c. 19, s. 98
+
+### 98 Sentencing for manslaughter
+
+Subsection 236(2) of the Act applies only with respect to an offence that is committed on or after the commencement day.
+
+### — 2026, c. 19, s. 99
+
+### 99 Factors to be considered — criminal harassment
+
+For greater certainty, paragraph 264(4)(a) of the Act, as enacted by subsection 27(6), applies with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 100
+
+### 100 Production and admissibility
+
+Subsections 276(1) and (2) of the Act, as amended by section 31, sections 276.01 to 276.13 of the Act, as enacted by section 32, and sections 278.1 to 278.38 of the Act, as enacted by section 34, apply only to an offence in respect of which a charge is laid on or after the commencement day.
+
+### — 2026, c. 19, s. 101
+
+### 101 Aggravating factor — extortion
+
+For greater certainty, subsection 346(1.4) of the Act applies with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 102
+
+### 102 Testimonial aids
+
+For greater certainty, sections 486.1, 486.2 and 486.3 of the Act, as amended by sections 38, 39 and 40, respectively, apply with respect to any matter or proceeding that is ongoing on commencement day.
+
+### — 2026, c. 19, s. 103
+
+### 103 Exception to section 489.1
+
+Subsection 489.1(4) of the Act applies with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 104
+
+### 104 Period for further detention — subsection 490(2)
+
+Subsection 490(2) of the Act, as amended by section 44, applies with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 105
+
+### 105 Part XV.1
+
+For greater certainty, Part XV.1 of the Act applies only with respect to an offence that is committed on or after the commencement day.
+
+### — 2026, c. 19, s. 106
+
+### 106 Non-application of section 507.1
+
+Subsection 507.1(9) of the Act, as enacted by section 47, applies with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 107
+
+### 107 Judicial interim release
+
+For greater certainty, paragraphs 515(3)(a) and (b), (4.1)(a), (4.3)(c) and (6)(b.1) and (b.2) of the Act, as construed in application of section 3.01 of the Act, apply with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 108
+
+### 108 Adjournment
+
+For greater certainty, subsections 537(1.001), 571(2), 645(3.1), 803(1.1) and 824(2) of the Act apply with respect to any matter or proceeding that is ongoing on commencement day.
+
+### — 2026, c. 19, s. 109
+
+### 109 Section 657.4
+
+For greater certainty, section 657.4 of the Act applies with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 110
+
+### 110 Revocation or variation of order — non-publication
+
+Section 672.5011 of the Act applies with respect to orders that are made under section 672.501 of the Act before commencement day.
+
+### — 2026, c. 19, s. 111
+
+### 111 Alternative measure
+
+(1) An alternative measure used in respect of a person alleged to have committed an offence under any of sections 717 to 717.4 of the Act, as those sections read before the commencement day, is deemed, on or after the commencement day, to be an **alternative measure**, as defined in section 715.44 of the Act.
+
+**Application**
+
+(2) The provisions enacted by sections 59, 64 and 65 apply with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 112
+
+### 112 Victim and community impact statements
+
+For greater certainty, sections 722 and 722.2 of the Act, as amended by section 66 and 67, respectively, apply with respect to any matter or proceeding that is ongoing on commencement day.
+
+### — 2026, c. 19, s. 113
+
+### 113 Endorsement — intimate partner violence
+
+For greater certainty, section 726.21 of the Act applies with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 114
+
+### 114 Order prohibiting contact
+
+For greater certainty, section 729.2 of the Act applies only with respect to an offence that is committed on or after commencement day.
+
+### — 2026, c. 19, s. 115
+
+### 115 Restitution order
+
+For greater certainty, section 740.1 of the Act applies only with respect to an order referred to in section 732.1 or 742.3 of the Act, as that section read on commencement day, in respect of an offence that is committed on or after that day.
+
+### — 2026, c. 19, s. 116
+
+### 116 Prosecutor’s duty to advise court
+
+Section 752.01 of the Act, as enacted by section 77, applies only with respect to an offence that is committed on or after the commencement day.
+
+### — 2026, c. 19, s. 117
+
+### 117 Recognizances — section 810.03
+
+Section 810.03 of the Act, as amended by section 81, applies with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 118
+
+### 118 Recognizance — section 810.1
+
+Section 810.1 of the Act, as amended by section 82, applies with respect to any matter or proceeding that is ongoing on the commencement day.
+
+### — 2026, c. 19, s. 118.1
+
+### 118.1 Review by Senate and House of Commons
+
+Five years after the day on which this Act receives royal assent, or as soon as feasible after that day, a comprehensive review of section 264.01 of the *Criminal Code* and its operation is to be commenced by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate, the House of Commons or both Houses of Parliament, as the case may be, for that purpose. The review is to consider, among other things, the criminalization of coercive or controlling conduct in relationships other than intimate partner relationships.
+
+### — 2026, c. 19, s. 119
+
+### 119 Review by Senate and House of Commons
+
+Five years after the day on which Part XV.1 of the *Criminal Code* comes into force, or as soon as feasible after that day, a comprehensive review of the provisions and operation of that Part is to be commenced by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate, the House of Commons or both Houses of Parliament, as the case may be, for that purpose.
+
+### — 2026, c. 19, s. 201
+
+### 201 Bill C-9
+
+(1) Subsections (2) and (3) apply if Bill C-9, introduced in the 1st session of the 45th Parliament and entitled the *Combatting Hate Act* (in this section referred to as the “other Act”), receives royal assent.
+
+(2) If subsection 48(2) of this Act comes into force before subsection 9(2) of the other Act, then, on the day on which that subsection 9(2) comes into force, paragraph 515(4.3)(b) of the *Criminal Code* is amended by deleting “264” and by making any necessary modifications as a consequence.
+
+(3) If subsection 9(2) of the other Act comes into force on the same day as subsection 48(2) of this Act, then that subsection 9(2) is deemed to come into force before that subsection 48(2).
+
+(4) On the first day on which both section 11 of the other Act and section 68 of this Act are in force, section 726.21 of the *Criminal Code*, as enacted by section 11 of the other Act, is renumbered as section 726.22 and is repositioned accordingly if required.
+
+### — 2026, c. 19, s. 203
+
+### 203 Bill C-14
+
+(1) Subsections (2) to (8) apply if Bill C-14, introduced in the 1st session of the 45th Parliament and entitled the *Bail and Sentencing Reform Act* (in this section referred to as the “other Act”), receives royal assent.
+
+(2) If subsection 23(3) of the other Act comes into force before subsection 48(1) of this Act, then that subsection 48(1) is replaced by the following:
+
+(3) If subsection 48(1) of this Act comes into force before subsection 23(3) of the other Act, then, on the day on which that subsection 23(3) comes into force, paragraph 515(4.1)(d) of the *Criminal Code* is repealed.
+
+(4) If subsection 23(3) of the other Act comes into force on the same day as subsection 48(1) of this Act, then that subsection 23(3) is deemed to have come into force before that subsection 48(1) and subsection (2) applies as a consequence.
+
+(5) If subsection 48(2) of this Act comes into force before subsection 23(5) of the other Act, then that subsection 23(5) is replaced by the following:
+
+(6) If subsection 23(5) of the other Act comes into force on the same day as subsection 48(2) of this Act, then that subsection 23(5) is deemed to have come into force before that subsection 48(2).
+
+(7) If section 124 of this Act comes into force before section 60 of the other Act, then that section 60 is repealed.
+
+(8) If section 60 of the other Act and section 124 of this Act come into force on the same day, then that section 60 is deemed to have come into force before that section 124.

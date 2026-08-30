@@ -28560,6 +28560,16 @@ Section 7 does not apply in the case of any air conditioner described therein
 
 Diesel fuel and aviation fuel, other than aviation gasoline, $0.04 per litre.
 
+### 9.2
+
+If excise tax imposed under section 23 of the Act in respect of a quantity of unleaded gasoline, unleaded aviation gasoline, leaded aviation gasoline, diesel fuel or aviation fuel becomes payable at a time that is after April 19, 2026 and before September 8, 2026, the following rules apply in determining the amount of that tax:
+
+- (a) the reference to “$0.10” in paragraph 9(a) is to be read as a reference to “$0.00”;
+
+- (b) the reference to “$0.11” in paragraph 9(b) is to be read as a reference to “$0.00”; and
+
+- (c) the reference to “$0.04” in section 9.1 is to be read as a reference to “$0.00”.
+
 ### 10
 
 Section 6 does not apply to an automobile described in that section that is
@@ -28584,6 +28594,7 @@ Payment of the tax imposed by virtue of section 6 may be deferred in the case of
 
 - [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 - R.S., 1985, c. E-15, Sch. I; R.S., 1985, c. 15 (1st Supp.), s. 41, c. 7 (2nd Supp.), s. 52, c. 42 (3rd Supp.), s. 2, c. 12 (4th Supp.), s. 38; 1989, c. 22, s. 5; 1990, c. 45, ss. 13 to 15; 1993, c. 27, ss. 145, 146; 1995, c. 36, s. 8; 2005, c. 30, s. 25, c. 55, s. 1; 2006, c. 4, s. 89; 2007, c. 29, s. 44; 2012, c. 19, ss. 25 to 28
+- 2026, c. 22, s. 11
 
 </details>
 
@@ -29088,3 +29099,12 @@ If a supply is made between a person and a corporation that have jointly made an
 
 
 (8) If a person is, or would be in the absence of paragraph 256.2(7)(a) of the Act (as amended by subsection (5)), entitled to a rebate under subsection 256.2(3) of the Act (as amended by subsection (2)) in respect of the construction or substantial renovation of a residential complex or an addition to a multiple unit residential complex, if the construction or renovation is substantially completed before the day on which this Act receives royal assent, if the amount of the rebate is determined under subsection 256.2(3.2) of the Act (as amended by subsection (3)) and if the rebate is in respect of a taxable supply described in subsection 256.2(2.1) of the Act, the rebate may, despite paragraph 256.2(7)(a) of the Act (as amended by subsection (5)), be paid to the person if the person files an application for the rebate before the second anniversary of the day on which this Act receives royal assent.
+
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2026, c. 19, s. 88
+
+### 88
+
+Clause 295(5.04)(a)(i)(D) of the *Excise Tax Act* is replaced by the following:

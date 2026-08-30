@@ -765,3 +765,24 @@ Dans les dispositions ci-après, édictées par la présente partie, la mention 
 **Rapport au Parlement**
 
 (2) Dans l’année qui suit le début de son examen, le comité visé au paragraphe (1) remet à la chambre ou aux chambres l’ayant constitué ou désigné un rapport accompagné des modifications, s’il en est, qu’il recommande d’apporter aux dispositions.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 19, al. 94b)
+
+### 94 Remplacements — renvois à l’article 152 du *Code criminel*
+
+Dans les passages ci-après, « incitation à des contacts sexuels » est remplacé par « incitation à des contacts sexuels ou à s’exhiber » :
+
+- b) le sous-alinéa 1a)(ii) de l’annexe 1 de la *Loi sur le casier judiciaire*;
+
+### — 2026, ch. 19, al. 95b)
+
+### 95 Remplacements — renvois à l’article 153.1 du *Code criminel*
+
+Dans les passages ci-après, « exploitation d’une personne handicapée à des fins sexuelles », « personne en situation d’autorité par rapport à une personne ayant une déficience » et « personnes en situation d’autorité » sont remplacés par « exploitation sexuelle d’une personne handicapée » :
+
+- b) dans la version française de la *Loi sur le casier judiciaire* :
+  - (i) le sous-alinéa 2a)(i) de l’annexe 1,
+  - (ii) le sous-alinéa 1a)(i) de l’annexe 2;

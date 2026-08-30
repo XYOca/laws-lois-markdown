@@ -13189,6 +13189,146 @@ Paragraphs 203.1(2)(c) and (i) of the *National Defence Act*, as enacted, respec
 
 (2) For greater certainty, section 302 of the *National Defence Act*, as enacted by section 81, applies only with respect to an offence that is committed on or after the day on which that section 81 comes into force.
 
+### — 2026, c. 16, s. 56
+
+### 56 Words and expressions
+
+The words and expressions used in sections 57 to 65 have the same meaning as in the *National Defence Act*.
+
+### — 2026, c. 16, s. 57
+
+### 57 Canadian Forces Provost Marshal
+
+(1) The person who holds office as the Canadian Forces Provost Marshal immediately before the day on which section 4 comes into force
+
+- (a) continues, for the remainder of the term for which they were appointed, to hold office, but they hold office during pleasure and as the Provost Marshal General; and
+
+- (b) is deemed, for that term, to have been appointed under subsection 18.3(1) of the *National Defence Act*, as amended by that section 4.
+
+**No compensation**
+
+(2) Despite the provisions of any contract, agreement or order, the person referred to in subsection (1) has no right to claim or receive any compensation, damages, indemnity or other form of relief from His Majesty in right of Canada or from any employee or agent of His Majesty due to the changes made to their appointment by that subsection.
+
+**Inquiry continued**
+
+(3) An inquiry under subsections 18.3(3) and (4) of the *National Defence Act*, as they read immediately before the day on which section 4 comes into force, that, immediately before that day, had not been completed, is continued in accordance with those subsections except that
+
+- (a) the inquiry committee must provide a record of the inquiry and a report of its conclusions to the Minister, who may recommend to the Governor in Council that the Provost Marshal General be removed from office; and
+
+- (b) the Governor in Council has the power referred to in that subsection 18.3(3) to remove the Provost Marshal General from office.
+
+### — 2026, c. 16, s. 58
+
+### 58 General Instructions or guidelines by Vice Chief of Defence Staff
+
+(1) An instruction or guideline issued under subsection 18.5(2) of the *National Defence Act*, as it read immediately before the day on which section 6 comes into force, that is in effect immediately before that day is deemed to be an instruction or guideline issued by the Minister under subsection 18.5(2) of the *National Defence Act*, as amended by that section 6.
+
+**Copy to Minister**
+
+(2) The Vice Chief of the Defence Staff must provide the Minister with a copy of every instruction or guideline referred to in subsection (1) as soon as feasible after the day on which section 6 comes into force.
+
+### — 2026, c. 16, s. 59
+
+### 59 Specific Instructions or guidelines by Vice Chief of Defence Staff
+
+An instruction or guideline issued under subsection 18.5(3) of the *National Defence Act*, as it read immediately before the day on which section 6 comes into force, that is in effect immediately before that day ceases to be in effect.
+
+### — 2026, c. 16, s. 60
+
+### 60 Transfer of ongoing investigations
+
+As soon as feasible after the day on which section 7 comes into force, but no later than 60 days after that day, the Canadian Forces must transfer to the civilian authority having jurisdiction in the matter responsibility for any ongoing investigation into an offence referred to in any of paragraphs 70(d) to (h) of the *National Defence Act*, as enacted by that section 7, that was, or is alleged to have been, committed in Canada and for which a charge has not been laid under that Act or an information has not been laid under the *Criminal Code* before that day.
+
+### — 2026, c. 16, s. 61
+
+### 61 Application of *National Defence Act*
+
+The *National Defence Act*, as it read immediately before the day on which section 7 comes into force, continues to apply in respect of an offence referred to in any of paragraphs 70(d) to (h) of that Act, as enacted by that section 7, that was, or is alleged to have been, committed in Canada and for which a charge has been laid under that Act or an information has been laid under the *Criminal Code* before that day.
+
+### — 2026, c. 16, s. 62
+
+### 62 Military judges — service infractions
+
+No charge alleging the commission of a service infraction, laid before the day on which section 11 comes into force, is to be proceeded with against a military judge on or after that day.
+
+### — 2026, c. 16, s. 63
+
+### 63 Director of Military Prosecutions
+
+(1) The person who holds office as the Director of Military Prosecutions immediately before the day on which section 15 comes into force
+
+- (a) continues to hold office for the remainder of the term for which they were appointed;
+
+- (b) is deemed, for that term, to have been appointed under subsection 165.1(1) of the *National Defence Act*, as amended by that section 15; and
+
+- (c) is, despite subsection 165.1(3) of the *National Defence Act*, as amended by that section 15, eligible on the expiry of that term to be appointed under that subsection 165.1(1) for a single additional term of not more than seven years.
+
+**Inquiry continued**
+
+(2) An inquiry under subsections 165.1(2) and (2.1) of the *National Defence Act*, as they read immediately before the day on which section 15 comes into force, that, immediately before that day, had not been completed, is continued in accordance with those subsections except that the inquiry committee must make its recommendation to the Governor in Council and that the Governor in Council has the power referred to in that subsection 165.1(2) to remove the Director of Military Prosecutions from office.
+
+### — 2026, c. 16, s. 64
+
+### 64 Specific instructions or guidelines by Judge Advocate General
+
+(1) An instruction or guideline issued under subsection 165.17(3) of the *National Defence Act*, as it read immediately before the day on which subsection 17(1) comes into force, that applies in respect of a prosecution that, immediately before that day, had not been completed is deemed to be an instruction or guideline issued by the Minister under subsection 165.17(3) of the *National Defence Act*, as amended by that subsection 17(1).
+
+**Availability to public**
+
+(2) Subsection 165.17(5) of the *National Defence Act*, as amended by subsection 17(2), applies in respect of a specific instruction or guideline referred to in subsection (1).
+
+### — 2026, c. 16, s. 65
+
+### 65 Director of Defence Counsel Services
+
+(1) The person who holds office as the Director of Defence Counsel Services immediately before the day on which section 40 comes into force
+
+- (a) continues to hold office for the remainder of the term for which they were appointed;
+
+- (b) is deemed, for that term, to have been appointed under subsection 249.18(1) of the *National Defence Act*, as amended by that section 40; and
+
+- (c) is, despite subsection 249.18(3) of the *National Defence Act*, as amended by that section 40, eligible on the expiry of that term to be appointed under that subsection 249.18(1) for a single additional term of not more than seven years.
+
+**Inquiry continued**
+
+(2) An inquiry under subsections 249.18(2) and (2.1) of the *National Defence Act*, as they read immediately before the day on which section 40 comes into force, that, immediately before that day, had not been completed, is continued in accordance with those subsections except that the inquiry committee must make its recommendation to the Governor in Council and that the Governor in Council has the power referred to in that subsection 249.18(2) to remove the Director of Defence Counsel Services from office.
+
+### — 2026, c. 16, s. 65.1
+
+### 65.1 Review
+
+(1) Within three years after the day on which sections 7 and 8 come into force, the Minister of National Defence must, in consultation with the Minister of Justice, cause an independent review to be undertaken of paragraphs 70(d) to (h) and sections 70.1 to 70.3 of the *National Defence Act* and their application.
+
+**Report to Parliament**
+
+(2) Within one year after the review is undertaken, the Minister of National Defence must cause a report on the review to be tabled in each House of Parliament.
+
+**Consultations**
+
+(3) The report must be informed by consultations with appropriate authorities in the military and civilian justice systems, victims, advocates, scholars and other stakeholders.
+
+**Contents of report**
+
+(4) The report must include
+
+- (a) statistics on the number of cases involving offences that were prosecuted in the civilian justice system as a result of paragraphs 70(d) to (h) of the *National Defence Act*, the outcomes of those cases and any other relevant information respecting the application of those paragraphs and sections 70.1 to 70.3 of that Act;
+
+- (b) an evaluation of the services available for members of the Canadian Armed Forces who are victims of offences that were prosecuted in the civilian justice system as a result of paragraphs 70(d) to (h) of that Act;
+
+- (c) an evaluation of the advantages and disadvantages of the application of paragraphs 70(d) to (h) and sections 70.1 to 70.3 of that Act for the military justice system and the authorities in the military justice system, and measures that may be taken to address those disadvantages;
+
+- (d) measures that may be taken to enhance access to justice for members of the Canadian Armed Forces in relation to offences referred to in paragraphs 70(d) to (h) of that Act; and
+
+- (e) the Minister of National Defence’s opinion as to whether paragraphs 70(d) to (h) and sections 70.1 to 70.3 of that Act should be repealed.
+
+**Referral**
+
+(5) The report stands referred to the committee of the Senate, the House of Commons or both Houses of Parliament that may be designated or established for the purpose of reviewing the report.
+
+**Resolution — repeal**
+
+(6) If the report indicates that the Minister of National Defence is of the opinion that paragraphs 70(d) to (h) and sections 70.1 to 70.3 of the *National Defence Act* should be repealed, the Minister may cause to be filed with the Speaker of the Senate and the Speaker of the House of Commons a motion for the adoption by each House of Parliament of a resolution that that House agrees with the Minister’s opinion and calls on the government to introduce a bill to repeal those paragraphs and sections.
+
 
 ## AMENDMENTS NOT IN FORCE
 
@@ -13227,3 +13367,665 @@ The Act is amended by adding the following after section 203.4:
 ### 81
 
 The portion of section 302 of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 16, s. 2
+
+### 2
+
+Section 9.2 of the *National Defence Act* is amended by adding the following after subsection (1):
+
+### — 2026, c. 16, s. 3
+
+### 3
+
+(1) Paragraph 12(3)(a) of the Act is replaced by the following:
+
+(2) The portion of subsection 12(4) of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 16, s. 4
+
+### 4
+
+Subsections 18.3(1) to (4) of the Act are replaced by the following:
+
+### — 2026, c. 16, s. 5
+
+### 5
+
+Paragraph 18.4(a) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 6
+
+### 6
+
+Sections 18.5 and 18.6 of the Act are replaced by the following:
+
+### — 2026, c. 16, s. 7
+
+### 7
+
+Section 70 of the Act is amended by striking out “or” at the end of paragraph (b) and by adding the following after paragraph (c):
+
+### — 2026, c. 16, s. 8
+
+### 8
+
+The Act is amended by adding the following after section 70:
+
+### — 2026, c. 16, s. 9
+
+### 9
+
+(1) Subsection 71.16(1) of the Act is replaced by the following:
+
+(2) Paragraphs 71.16(3)(a) and (b) of the Act are replaced by the following:
+
+### — 2026, c. 16, s. 11
+
+### 11
+
+The Act is amended by adding the following after section 162.5:
+
+### — 2026, c. 16, s. 12
+
+### 12
+
+Paragraph 162.9(c) of the Act is repealed.
+
+### — 2026, c. 16, s. 13
+
+### 13
+
+Section 163 of the Act is amended by adding the following after subsection (2):
+
+### — 2026, c. 16, s. 14
+
+### 14
+
+Section 163.4 of the French version of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 15
+
+### 15
+
+Section 165.1 of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 16
+
+### 16
+
+Section 165.16 of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 17
+
+### 17
+
+(1) Subsection 165.17(3) of the Act is replaced by the following:
+
+(2) Subsections 165.17(5) and (6) of the Act are replaced by the following:
+
+### — 2026, c. 16, s. 18
+
+### 18
+
+Subsection 165.21(1) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 19
+
+### 19
+
+(1) The portion of subsection 165.22(1) of the Act before paragraph (a) is replaced by the following:
+
+(2) Subsection 165.22(2) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 20
+
+### 20
+
+(1) Subparagraph 183.5(1)(a)(i) of the Act is replaced by the following:
+
+(2) Paragraphs 183.5(2)(a) and (b) of the French version of the Act are replaced by the following:
+
+(3) Subsection 183.5(2) of the Act is amended by striking out “and” at the end of paragraph (a), by adding “and” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+(4) Subsection 183.5(4) of the Act is amended by striking out “and” at the end of paragraph (a), by adding “and” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+(5) Subsection 183.5(6) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 21
+
+### 21
+
+(1) Subsection 183.6(4) of the Act is replaced by the following:
+
+(2) Section 183.6 of the Act is amended by adding the following after subsection (6):
+
+(3) Section 183.6 of the Act is amended by adding the following after subsection (9):
+
+### — 2026, c. 16, s. 22
+
+### 22
+
+The Act is amended by adding the following after section 183.6:
+
+### — 2026, c. 16, s. 23
+
+### 23
+
+(1) The definition **designated offence** in section 227 of the Act is replaced by the following:
+
+(2) Section 227 of the Act is amended by adding the following in alphabetical order:
+
+### — 2026, c. 16, s. 24
+
+### 24
+
+Section 227.01 of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 25
+
+### 25
+
+(1) The portion of subsection 227.02(2) of the Act before paragraph (c) is replaced by the following:
+
+(2) Subsections 227.02(2.1) to (5) of the Act are replaced by the following:
+
+### — 2026, c. 16, s. 26
+
+### 26
+
+The Act is amended by adding the following after section 227.02:
+
+### — 2026, c. 16, s. 27
+
+### 27
+
+(1) Paragraph 227.03(1)(c) of the Act is replaced by the following:
+
+(2) Subsection 227.03(3) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 28
+
+### 28
+
+Subsection 227.04(1) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 29
+
+### 29
+
+Section 227.07 of the Act is amended by adding the following after subsection (2):
+
+### — 2026, c. 16, s. 30
+
+### 30
+
+Section 227.09 of the Act is amended by adding the following after subsection (3):
+
+### — 2026, c. 16, s. 31
+
+### 31
+
+(1) The portion of subsection 227.12(2) of the Act before paragraph (a) is replaced by the following:
+
+(2) Subsections 227.12(3) and (4) of the Act are replaced by the following:
+
+### — 2026, c. 16, s. 32
+
+### 32
+
+Subsection 227.13(1) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 33
+
+### 33
+
+Paragraph 227.15(1)(b) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 34
+
+### 34
+
+Paragraph 227.18(1)(b) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 35
+
+### 35
+
+The Act is amended by adding the following after section 227.21:
+
+### — 2026, c. 16, s. 36
+
+### 36
+
+Paragraph 230(g) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 37
+
+### 37
+
+Paragraph 230.1(h) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 38
+
+### 38
+
+Section 230.2 of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 39
+
+### 39
+
+(1) Subsections 240.5(1) and (2) of the Act are replaced by the following:
+
+(2) Subsections 240.5(3) and (4) of the French version of the Act are replaced by the following:
+
+(3) Section 240.5 of the Act is amended by adding the following after subsection (4):
+
+### — 2026, c. 16, s. 40
+
+### 40
+
+Section 249.18 of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 41
+
+### 41
+
+The definition **interference complaint** in section 250 of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 42
+
+### 42
+
+Subsection 250.19(1) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 43
+
+### 43
+
+Subsection 250.26(2) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 44
+
+### 44
+
+Subsection 250.49(2) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 45
+
+### 45
+
+Subsection 250.5(2) of the Act is replaced by the following:
+
+### — 2026, c. 16, s. 46
+
+### 46
+
+Section 303.1 of the Act is amended by adding the following after subsection (1):
+
+### — 2026, c. 16, s. 47
+
+### 47 Replacement of “Canadian Forces Provost Marshal” and “Provost Marshal”
+
+(1) The Act is amended by replacing “Canadian Forces Provost Marshal” and “Provost Marshal” with “Provost Marshal General” in the following provisions:
+
+- (a) the heading before section 18.3;
+
+- (b) subsection 18.3(5);
+
+- (c) the portion of section 18.4 before paragraph (a);
+
+- (d) paragraph 215(2)(c);
+
+- (e) subsection 227.04(3);
+
+- (f) subparagraph 227.05(1)(d)(iii);
+
+- (g) subsection 227.07(1);
+
+- (h) subsection 227.08(4);
+
+- (i) section 227.11;
+
+- (j) subsection 227.13(3);
+
+- (k) subsection 227.15(4);
+
+- (l) the portion of subsection 227.15(5) before paragraph (a);
+
+- (m) subsection 227.16(3);
+
+- (n) the portion of subsection 227.18(1) before paragraph (a);
+
+- (o) the portion of subsection 227.18(2) before paragraph (a);
+
+- (p) subsection 227.19(1);
+
+- (q) the portion of subsection 227.19(2) before paragraph (a);
+
+- (r) section 227.21;
+
+- (s) subsection 240.5(3);
+
+- (t) subsection 250.21(1);
+
+- (u) subparagraphs 250.21(2)(c)(i) to (iii);
+
+- (v) section 250.22;
+
+- (w) subsection 250.24(2);
+
+- (x) section 250.25;
+
+- (y) subsection 250.26(1);
+
+- (z) section 250.261;
+
+- (z.1) subsection 250.27(1);
+
+- (z.2) the portion of subsection 250.27(4) before paragraph (a);
+
+- (z.3) paragraph 250.27(6)(c);
+
+- (z.4) subsection 250.28(1);
+
+- (z.5) the portion of section 250.29 before paragraph (a);
+
+- (z.6) the portion of subsection 250.3(1) before paragraph (a);
+
+- (z.7) paragraphs 250.31(2)(a) and (b);
+
+- (z.8) subsection 250.32(3);
+
+- (z.9) subsections 250.34(2) and (3);
+
+- (z.91) subsections 250.35(1) and (3);
+
+- (z.92) paragraph 250.36(e);
+
+- (z.93) paragraph 250.37(1)(d);
+
+- (z.94) subsections 250.38(3) and (5);
+
+- (z.95) section 250.39;
+
+- (z.96) paragraph 250.4(1)(b);
+
+- (z.97) section 250.48;
+
+- (z.98) subsection 250.49(1); and
+
+- (z.99) subsection 250.53(2).
+
+**Replacement of “Provost Marshal” — English version**
+
+(2) The English version of the Act is amended by replacing “Provost Marshal” with “Provost Marshal General” in the following provisions:
+
+- (a) the portion of subsection 250.27(5) before paragraph (a);
+
+- (b) the portion of subsection 250.28(2) before paragraph (a);
+
+- (c) the portion of subsection 250.28(3) before paragraph (a); and
+
+- (d) subsections 250.3(2) and (3).
+
+### — 2026, c. 16, s. 54
+
+### 54
+
+Section 13 of the *Strengthening Military Justice in the Defence of Canada Act* is repealed.
+
+### — 2026, c. 16, s. 66
+
+### 66 This Act
+
+On the first day on which both sections 35 and 47 of this Act are in force,
+
+- (a) subsection 227.23(7) of the *National Defence Act* is replaced by the following:
+
+- (b) subsection 240.5(3) of the *National Defence Act* is replaced by the following:
+
+- (c) subsections 240.5(6) and (7) of the *National Defence Act* are replaced by the following:
+
+### — 2026, c. 16, s. 68
+
+### 68 2024, c. 23
+
+On the first day on which both subsection 1(1) of *An Act to amend the Criminal Code and to make consequential amendments to other Acts (child sexual abuse and exploitation material)*, chapter 23 of the Statutes of Canada, 2024, and section 7 of this Act are in force, subparagraph 70(d)(xi) of the *National Defence Act* is replaced by the following:
+
+### — 2026, c. 19, s. 144
+
+### 144
+
+(1) Paragraphs (a) and (b) of the definition **serious personal injury offence** in subsection 2(1) of the *National Defence Act* are replaced by the following:
+
+(2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
+
+### — 2026, c. 19, s. 145
+
+### 145
+
+The Act is amended by adding the following after the heading “Rights” after section 71.01:
+
+### — 2026, c. 19, s. 146
+
+### 146
+
+(1) The portion of section 71.02 of the Act before paragraph (a) is replaced by the following:
+
+(2) Section 71.02 of the Act is amended by striking out “and” at the end of paragraph (b), by adding “and” at the end of paragraph (c) and by adding the following after paragraph (c):
+
+### — 2026, c. 19, s. 147
+
+### 147
+
+The portion of section 71.03 of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 19, s. 148
+
+### 148
+
+The Act is amended by adding the following after section 71.03:
+
+### — 2026, c. 19, s. 149
+
+### 149
+
+The portion of subsection 71.04(1) of the Act before paragraph (a) is replaced by the following:
+
+### — 2026, c. 19, s. 150
+
+### 150
+
+The Act is amended by adding the following after section 71.04:
+
+### — 2026, c. 19, s. 151
+
+### 151
+
+Section 71.08 of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 152
+
+### 152
+
+The Act is amended by adding the following after section 119:
+
+### — 2026, c. 19, s. 153
+
+### 153
+
+Subsection 158.6(1.2) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 154
+
+### 154
+
+Subsection 159.7(3) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 155
+
+### 155
+
+The heading before section 180.01 and sections 180.01 to 180.08 of the Act are replaced by the following:
+
+### — 2026, c. 19, s. 156
+
+### 156
+
+(1) Subsections 183.1(1) and (2) of the Act are replaced by the following:
+
+(2) Subsection 183.1(6) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 157
+
+### 157
+
+(1) Subsections 183.2(1) and (2) of the Act are replaced by the following:
+
+(2) Subsections 183.2(5) and (6) of the Act are replaced by the following:
+
+### — 2026, c. 19, s. 158
+
+### 158
+
+Subsection 183.3(2) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 159
+
+### 159
+
+Section 189 of the Act is renumbered as subsection 189(1) and is amended by adding the following:
+
+### — 2026, c. 19, s. 160
+
+### 160
+
+The Act is amended by adding the following after section 196.1:
+
+### — 2026, c. 19, s. 161
+
+### 161
+
+Paragraph 203.6(3)(b) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 162
+
+### 162
+
+(1) Section 203.71 of the Act is amended by adding the following after subsection (1):
+
+(2) Section 203.71 of the Act is amended by adding the following after subsection (4):
+
+### — 2026, c. 19, s. 163
+
+### 163
+
+(1) Section 203.72 of the Act is amended by adding the following after subsection (1):
+
+(2) The portion of subsection 203.72(3) of the Act before paragraph (a) is replaced by the following:
+
+(3) Paragraph 203.72(3)(b) of the Act is replaced by the following:
+
+(4) Section 203.72 of the Act is amended by adding the following after subsection (5):
+
+### — 2026, c. 19, s. 164
+
+### 164
+
+The Act is amended by adding the following after section 203.72:
+
+### — 2026, c. 19, s. 165
+
+### 165
+
+Subsection 215(1.2) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 166
+
+### 166
+
+Paragraph 230(i.1) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 167
+
+### 167
+
+Paragraph 230.1(j.1) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 168
+
+### 168
+
+Subsection 248.3(3) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 169
+
+### 169
+
+(1) Subsection 303(1) of the Act is replaced by the following:
+
+(2) Subsection 303(3) of the Act is replaced by the following:
+
+### — 2026, c. 19, s. 170
+
+### 170
+
+The Act is amended by adding the following after section 303.1:
+
+### — 2026, c. 19, s. 171
+
+### 171 Definitions
+
+The following definitions apply in sections 172 to 177.
+
+**Act** means the *National Defence Act*. (**Loi**)
+
+**commencement day** means the 30th day after the day on which this Act receives royal assent. (**date de référence**)
+
+### — 2026, c. 19, s. 172
+
+### 172 Production and admissibility
+
+Sections 180.001 to 180.21 of the Act, as enacted by section 155, paragraphs 230(i.01) and (i.1) of the Act, as enacted by section 166, paragraphs 230.1(j.01) and (j.1) of the Act, as enacted by section 167 and subsections 303(1) and (3) of the Act, as enacted by section 169, apply only to a service offence in respect of which a charge is laid on or after the commencement day.
+
+### — 2026, c. 19, s. 173
+
+### 173 Testimonial aids
+
+For greater certainty, sections 183.1, 183.2 and 183.3 of the Act, as amended by sections 156, 157 and 158, respectively, apply with respect to any matter or proceeding that is ongoing on commencement day.
+
+### — 2026, c. 19, s. 174
+
+### 174 Adjournment
+
+For greater certainty, subsection 189(2) of the Act applies with respect to any matter or proceeding that is ongoing on commencement day.
+
+### — 2026, c. 19, s. 175
+
+### 175 Division 6.01
+
+For greater certainty, Division 6.01 of the Act applies only with respect to an offence that is committed on or after the commencement day.
+
+### — 2026, c. 19, s. 176
+
+### 176 Victim, military and community impact statements
+
+For greater certainty, paragraph 203.6(3)(b) of the Act, as enacted by section 161, and sections 203.71 and 203.72 of the Act, as amended by sections 162 and 163, respectively, apply with respect to any matter or proceeding that is ongoing on commencement day.
+
+### — 2026, c. 19, s. 177
+
+### 177 Order prohibiting contact
+
+For greater certainty, section 203.73 of the Act applies only with respect to an offence that is committed on or after commencement day.
+
+### — 2026, c. 19, s. 202
+
+### 202 Bill C-11
+
+(1) Subsections (2) and (3) apply if Bill C-11, introduced in the 1st session of the 45th Parliament and entitled the *Military Justice System Modernization Act* (in this section referred to as the “other Act”), receives royal assent.
+
+(2) On the first day on which both section 4 of the other Act and section 150 of this Act are in force, paragraph 71.041(b) of the *National Defence Act* is replaced by the following:
+
+(3) On the first day on which both section 7 of the other Act and subsection 12(1) of this Act are in force, paragraph 70(d) of the *National Defence Act* is amended by adding the following after subparagraph (viii):

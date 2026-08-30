@@ -4264,46 +4264,25 @@ Ble pourcentage qui correspond au total des proportions suivantes :(i)la propo
   - (ii) le produit de 35 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1989 et le nombre de jours de l’année d’imposition,
   - (iii) le produit de 30 % par le rapport entre le nombre de jours de l’année d’imposition qui sont postérieurs à 1989 et le nombre de jours de l’année d’imposition;
 
-- ze) au montant qu’il peut réclamer à l’égard des biens visés à la catégorie 39 de l’annexe II, ne dépassant pas le pourcentage de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition), qui correspond à la somme des produits suivants :
-  - (i) le produit de 40 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1988 et le nombre de jours de l’année d’imposition qui sont postérieurs à 1987,
-  - (ii) le produit de 35 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1989 et le nombre de jours de l’année d’imposition,
-  - (iii) le produit de 30 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1990 et le nombre de jours de l’année d’imposition,
-  - (iv) le produit de 25 % par le rapport entre le nombre de jours de l’année d’imposition qui sont postérieurs à 1990 et le nombre de jours de l’année d’imposition;
+- ze) au montant qu’il réclame à l’égard des biens qui constituent une serre admissible pour laquelle une catégorie distincte est prescrite par le paragraphe 1101(5w), ne dépassant pas la somme obtenue par la formule suivante :
 
-- zf) au montant qu’il peut réclamer à l’égard des biens visés à la catégorie 40 de l’annexe II, ne dépassant pas le pourcentage de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition), qui correspond à la somme des produits suivants :
-  - (i) le produit de 40 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1988 et le nombre de jours de l’année d’imposition qui sont postérieurs à 1987,
-  - (ii) le produit de 35 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1989 et le nombre de jours de l’année d’imposition,
-  - (iii) le produit de 30 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1990 et le nombre de jours de l’année d’imposition;
+```
+A × B
+où :
+Areprésente :(i)si la serre devient prête à être mise en service au cours de l’année, la fraction non amortie du coût en capital, pour le contribuable, des biens de cette catégorie à la fin de l’année (calculée avant d’effectuer toute déduction en vertu du présent paragraphe pour l’année),(ii)dans les autres cas, zéro,
+Bsi l’année prend fin :(i)avant 2030, 100 %,(ii)en 2030 ou 2031, 75 %,(iii)en 2032 ou 2033, 55 %,(iv)après 2033, 0 %.
+```
 
-- zg) lorsque le contribuable, à la fois :
-  - (i) en fait le choix pour l’année selon les modalités réglementaires,
-  - (ii) n’était pas au cours de l’année une grande société, au sens du paragraphe 225.1(8) de la Loi, ni une société de personnes dont l’un des associés était une telle société au cours d’une année d’imposition comprenant un moment de l’exercice de la société de personnes,
-  - (iii) a acquis un bien compris à l’alinéa f) de la catégorie 10 de l’annexe II, à la fois :
-    - (A) au cours de l’année,
-    - (B) après 1997 et avant novembre 1999,
-    - (C) en remplacement d’un bien acquis avant 1998 et compris à cet alinéa ou à l’alinéa o) de la catégorie 12 de cette annexe qui présente un risque important de défaillance en raison du passage à l’an 2000,
-  au montant supplémentaire qu’il déduit relativement à tous biens visés au sous-alinéa (iii), jusqu’à concurrence du moins élevé des montants suivants :
-  - (iv) l’excédent éventuel de 50 000 $ sur la somme des montants suivants :
-    - (A) le total des montants représentant chacun un montant qu’il a déduit en application du présent alinéa pour une année d’imposition antérieure,
-    - (B) le total des montants représentant chacun un montant qu’il a déduit en application de l’alinéa zh) pour l’année ou pour une année d’imposition antérieure,
-    - (C) le total des montants représentant chacun un montant qu’une société a déduit en application du présent alinéa ou de l’alinéa zh) pour une année d’imposition au cours de laquelle elle lui était associée,
-  - (v) le montant représentant 85 % du coût en capital, pour lui, de tous biens visés au sous-alinéa (iii),
-  - (vi) la fraction non amortie du coût en capital, pour lui à la fin de l’année, (calculée compte non tenu du paragraphe (2) et après toutes déductions demandées en application des autres dispositions du présent paragraphe pour l’année, mais avant toute déduction permise par le présent alinéa pour l’année) de biens compris dans la catégorie 10 de l’annexe II;
 
-- zh) lorsque le contribuable, à la fois :
-  - (i) en fait le choix pour l’année selon les modalités réglementaires,
-  - (ii) n’était pas au cours de l’année une grande société, au sens du paragraphe 225.1(8) de la Loi, ni une société de personnes dont l’un des associés était une telle société au cours d’une année d’imposition comprenant un moment de l’exercice de la société de personnes,
-  - (iii) a acquis un bien compris à l’alinéa o) de la catégorie 12 de l’annexe II, à la fois :
-    - (A) au cours de l’année,
-    - (B) après 1997 et avant novembre 1999,
-    - (C) en remplacement d’un bien acquis avant 1998 et compris à l’alinéa f) de la catégorie 10 de l’annexe II ou à l’alinéa o) de la catégorie 12 de cette annexe qui présente un risque important de défaillance en raison du passage à l’an 2000,
-  au montant supplémentaire qu’il déduit relativement à tous biens visés au sous-alinéa (iii), jusqu’à concurrence du moins élevé des montants suivants :
-  - (iv) l’excédent éventuel de 50 000 $ sur la somme des montants suivants :
-    - (A) le total des montants représentant chacun un montant qu’il a déduit en application du présent alinéa pour une année d’imposition antérieure,
-    - (B) le total des montants représentant chacun un montant qu’il a déduit en application de l’alinéa zg) pour l’année ou pour une année d’imposition antérieure,
-    - (C) le total des montants représentant chacun un montant qu’une société a déduit en application du présent alinéa ou de l’alinéa zg) pour une année d’imposition au cours de laquelle elle lui était associée,
-  - (v) le montant représentant 50 % du coût en capital, pour lui, de tous biens visés au sous-alinéa (iii),
-  - (vi) la fraction non amortie du coût en capital, pour lui à la fin de l’année, (calculée compte non tenu du paragraphe (2) et après toutes déductions demandées en application des autres dispositions du présent paragraphe pour l’année, mais avant toute déduction permise par le présent alinéa pour l’année) de biens compris dans la catégorie 12 de l’annexe II.
+- zf) [Abrogé, 2026, ch. 22, art. 7]
+
+- zg) [Abrogé, 2026, ch. 22, art. 7]
+
+- zh) [Abrogé, 2026, ch. 22, art. 7]
+
+**Serres admissibles — déductions pour la première année**
+
+(1.02) Malgré toute autre disposition du présent article, si une déduction peut être demandée relativement à une serre admissible d’un contribuable en vertu de l’alinéa (1)ze) pour une année d’imposition, le contribuable ne peut déduire aucun autre montant autorisé par la présente partie relativement à la serre pour l’année.
 
 (1.1) Malgré les paragraphes (0.1), (1) et (3), le montant déductible par un contribuable pour une année d’imposition relativement à un bien qui est un bien de location déterminé à la fin de l’année correspond au moins élevé des montants suivants :
 
@@ -4424,7 +4403,7 @@ les règles suivantes s’appliquent :
 A(B) + A.1(B.1) − 0,5(C)
 où :
 Areprésente, relativement à un bien de la catégorie qui devient prêt à être mis en service par le contribuable au cours de l’année d’imposition et qui est un bien relatif à l’incitatif à l’investissement accéléré ou un bien acquis avant 2025 qui est compris dans l’une des catégories 54 à 56,a)si le bien n’est pas compris à l’alinéa (1)v) ou dans l’une des catégories 12, 13, 14, 15, 43.1, 43.2, 53, 54, 55, 56 et 59 ou dans la catégorie 43 dans les circonstances prévues à l’alinéa d) :(i)0,5, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2023 (sauf les biens visés à l’un des alinéas c.1) à c.3)),b)s’agissant de la catégorie 43.1 :(i)2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,(ii)1 1/2, à l’égard de biens qui deviennent prêts à être mis en service en 2024 ou en 2025,(iii)5/6, à l’égard de biens qui deviennent prêts à être mis en service après 2025,c)s’agissant de la catégorie 43.2 :(i)1, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,(ii)0,5, à l’égard de biens qui deviennent prêts à être mis en service en 2024 ou en 2025,(iii)1/10, à l’égard de biens qui deviennent prêts à être mis en service après 2025,c.1)s’agissant de la catégorie 44 :(i)3, à l’égard de biens qui sont acquis et qui deviennent prêts à être mis en service après le 15 avril 2024 et avant 2027,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2026,c.2)s’agissant de la catégorie 46 :(i)2 1/3, à l’égard de biens qui sont acquis et qui deviennent prêts à être mis en service après le 15 avril 2024 et avant 2027,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2026,c.3)s’agissant de la catégorie 50 :(i)9/11, à l’égard de biens qui sont acquis et qui deviennent prêts à être mis en service après le 15 avril 2024 et avant 2027,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2026,d)si le bien est compris dans la catégorie 53 ou, à l’égard d’un bien acquis après 2025, est compris dans la catégorie 43 et aurait été compris dans la catégorie 53 s’il avait été acquis en 2025 :(i)1, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,(ii)0,5, à l’égard de biens qui deviennent prêts à être mis en service en 2024 ou en 2025,(iii)5/6, à l’égard de biens compris dans la catégorie 43 qui deviennent prêts à être mis en service après 2025,(iv)1/10, à l’égard de biens compris dans la catégorie 53 qui deviennent prêts à être mis en service après 2025,e)s’agissant de la catégorie 54 ou 56,(i)2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,(ii)1 1/2, à l’égard de biens qui deviennent prêts à être mis en service en 2024 ou en 2025,(iii)5/6, à l’égard de biens qui deviennent prêts à être mis en service après 2025,f)s’agissant de la catégorie 55 :(i)1 1/2, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,(ii)7/8, à l’égard de biens qui deviennent prêts à être mis en service en 2024 ou en 2025,(iii)3/8, à l’égard de biens qui deviennent prêts à être mis en service après 2025,g)0, dans les autres cas;
-A.1relativement à un bien de la catégorie qui devient prêt à être mis en service par le contribuable au cours de l’année d’imposition et qui est un bien relatif à l’incitatif à l’investissement réaccéléré ou un bien acquis après 2024 qui est compris dans l’une des catégories 54 à 56 :a)si le bien n’est pas compris à l’alinéa (1)v) ou dans l’une des catégories 12, 13, 14, 15, 43.1, 44, 46, 50, 53, 54, 55, 56 et 59 ou dans la catégorie 43 dans les circonstances prévues à l’alinéa f) :(i)0,5, à l’égard de biens qui deviennent prêts à être mis en service avant 2030,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2029,b)s’agissant de la catégorie 43.1 :(i)2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2030,(ii)1 1/2, à l’égard de biens qui deviennent prêts à être mis en service en 2030 ou en 2031,(iii)5/6, à l’égard de biens qui deviennent prêts à être mis en service après 2031,c)s’agissant de la catégorie 44 :(i)3, à l’égard de biens qui deviennent prêts à être mis en service avant 2027,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2026,d)s’agissant de la catégorie 46 :(i)2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2027,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2026,e)s’agissant de la catégorie 50 :(i)9/11, à l’égard de biens qui deviennent prêts à être mis en service avant 2027,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2026,f)si le bien est compris dans la catégorie 53 ou, à l’égard d’un bien acquis après 2025, est compris dans la catégorie 43 et aurait été compris dans la catégorie 53 s’il avait été acquis en 2025 :(i)1, à l’égard de biens compris dans la catégorie 53,(ii)2 1/3, à l’égard de biens compris dans la catégorie 43 qui deviennent prêts à être mis en service avant 2030,(iii)1 1/2, à l’égard de biens compris dans la catégorie 43 qui deviennent prêts à être mis en service en 2030 ou en 2031,(iv)5/6, à l’égard de biens compris dans la catégorie 43 qui deviennent prêts à être mis en service après 2031,g)s’agissant des catégories 54 ou 56 :(i)2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2030,(ii)1 1/2, à l’égard de biens qui deviennent prêts à être mis en service en 2030 ou en 2031,(iii)5/6, à l’égard de biens qui deviennent prêts à être mis en service après 2031,h)s’agissant de la catégorie 55 :(i)1 1/2, à l’égard de biens qui deviennent prêts à être mis en service avant 2030,(ii)7/8, à l’égard de biens qui deviennent prêts à être mis en service en 2030 ou en 2031,(iii)3/8, à l’égard de biens qui deviennent prêts à être mis en service après 2031,i)0, dans les autres cas;
+A.1relativement à un bien de la catégorie qui devient prêt à être mis en service par le contribuable au cours de l’année d’imposition et qui est un bien relatif à l’incitatif à l’investissement réaccéléré ou un bien acquis après 2024 qui est compris dans l’une des catégories 54 à 56 :a)si le bien n’est pas compris aux alinéas (1)v) ou ze) ou dans l’une des catégories 12, 13, 14, 15, 43.1, 44, 46, 50, 53, 54, 55, 56 et 59 ou dans la catégorie 43 dans les circonstances prévues à l’alinéa f) :(i)0,5, à l’égard de biens qui deviennent prêts à être mis en service avant 2030,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2029,b)s’agissant de la catégorie 43.1 :(i)2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2030,(ii)1 1/2, à l’égard de biens qui deviennent prêts à être mis en service en 2030 ou en 2031,(iii)5/6, à l’égard de biens qui deviennent prêts à être mis en service après 2031,c)s’agissant de la catégorie 44 :(i)3, à l’égard de biens qui deviennent prêts à être mis en service avant 2027,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2026,d)s’agissant de la catégorie 46 :(i)2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2027,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2026,e)s’agissant de la catégorie 50 :(i)9/11, à l’égard de biens qui deviennent prêts à être mis en service avant 2027,(ii)0, à l’égard de biens qui deviennent prêts à être mis en service après 2026,f)si le bien est compris dans la catégorie 53 ou, à l’égard d’un bien acquis après 2025, est compris dans la catégorie 43 et aurait été compris dans la catégorie 53 s’il avait été acquis en 2025 :(i)1, à l’égard de biens compris dans la catégorie 53,(ii)2 1/3, à l’égard de biens compris dans la catégorie 43 qui deviennent prêts à être mis en service avant 2030,(iii)1 1/2, à l’égard de biens compris dans la catégorie 43 qui deviennent prêts à être mis en service en 2030 ou en 2031,(iv)5/6, à l’égard de biens compris dans la catégorie 43 qui deviennent prêts à être mis en service après 2031,g)s’agissant des catégories 54 ou 56 :(i)2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2030,(ii)1 1/2, à l’égard de biens qui deviennent prêts à être mis en service en 2030 ou en 2031,(iii)5/6, à l’égard de biens qui deviennent prêts à être mis en service après 2031,h)s’agissant de la catégorie 55 :(i)1 1/2, à l’égard de biens qui deviennent prêts à être mis en service avant 2030,(ii)7/8, à l’égard de biens qui deviennent prêts à être mis en service en 2030 ou en 2031,(iii)3/8, à l’égard de biens qui deviennent prêts à être mis en service après 2031,i)0, dans les autres cas;
 Ble montant obtenu, à l’égard de la catégorie, par la formule suivante :D – Eoù :Dreprésente le total des montants dont chacun est un montant compris à l’élément A de la formule figurant à la définition de **fraction non amortie du coût en capital** au paragraphe 13(21) de la Loi au titre d’un bien relatif à l’incitatif à l’investissement accéléré ou d’un bien acquis avant 2025 qui est compris dans l’une des catégories 54 à 56 qui est devenu prêt à être mis en service par le contribuable au cours de l’année d’imposition,El’excédent éventuel de la valeur de l’élément G sur la valeur de l’élément F de la formule figurant à l’élément C;
 B.1le montant obtenu, à l’égard de la catégorie, par la formule suivante :D.1 − E.1où :D.1représente le total des montants dont chacun est un montant compris à l’élément A de la formule figurant à la définition de **fraction non amortie du coût en capital** au paragraphe 13(21) de la Loi au titre d’un bien relatif à l’incitatif à l’investissement réaccéléré ou d’un bien acquis après 2024 qui est compris dans l’une des catégories 54 à 56 et qui est devenu prêt à être mis en service par le contribuable au cours de l’année d’imposition,E.1l’excédent éventuel de la valeur de l’élément G sur la valeur de l’élément F;
 Cle montant obtenu, à l’égard de la catégorie, par la formule suivante :F – Goù :Freprésente le total des montants dont chacun, à la fois :a)est ajouté à la fraction non amortie du coût en capital, pour le contribuable, des biens de la catégorie par l’effet, selon le cas :(i)de l’élément A de la formule figurant à la définition de **fraction non amortie du coût en capital** au paragraphe 13(21) de la Loi, au titre d’un bien (sauf un bien relatif à l’incitatif à l’investissement accéléré ou un bien relatif à l’incitatif à l’investissement réaccéléré) acquis ou devenu prêt à être mis en service par le contribuable au cours de l’année d’imposition,(ii)des éléments C ou D de la formule figurant à la définition de **fraction non amortie du coût en capital** au paragraphe 13(21) de la Loi, au titre d’un montant remboursé au cours de l’année d’imposition,b)n’est pas relatif aux biens suivants :(i)ceux visés à l’alinéa (1)v), à l’alinéa w) de la catégorie 10 ou à l’un des alinéas a) à c), e) à i), k), l) et p) à s) de la catégorie 12,(ii)ceux compris dans l’une des catégories 13, 14, 15, 23, 24, 27, 29, 34, 52 et 54 à 56,(iii)dans le cas où le contribuable est une société visée au paragraphe (16) tout au long de l’année d’imposition, ceux qui constituent des biens de location déterminés du contribuable au moment en cause,(iv)ceux que le contribuable est réputé avoir acquis au cours d’une année d’imposition antérieure en application de l’alinéa 16.1(1)b) de la Loi relativement à un bail dont les biens faisaient l’objet immédiatement avant le moment auquel le contribuable les a acquis pour la dernière fois,(v)ceux qui sont considérés comme devenus prêts à être mis en service par le contribuable au cours de l’année d’imposition par l’effet des alinéas 13(27)b) ou (28)c) de la Loi,Gle total des montants dont chacun représente un montant qui est déduit de la fraction non amortie du coût en capital, pour le contribuable, des biens de la catégorie par l’effet, selon le cas :a)des éléments F ou G de la formule figurant à la définition de **fraction non amortie du coût en capital** au paragraphe 13(21) de la Loi, au titre de biens qui ont fait l’objet d’une disposition au cours de l’année d’imposition,b)de l’élément J de la formule figurant à la définition de **fraction non amortie du coût en capital** au paragraphe 13(21) de la Loi, au titre d’un montant que le contribuable a reçu ou avait le droit de recevoir au cours de l’année d’imposition.
@@ -4600,7 +4579,7 @@ les règles suivantes s’appliquent :
 
 - b) aucun montant n’est déduit à l’égard du bien en application du paragraphe (1) dans le calcul du revenu du contribuable pour une année d’imposition ultérieure.
 
-(3) Lorsqu’une année d’imposition compte moins de 12 mois, le montant accordé à titre de déduction en application du présent article, exception faite du paragraphe (0.1) et des alinéas (1)c), e), f), g), m), w), x), y) et ya), ne peut dépasser le produit du montant maximal autrement déductible par le rapport entre le nombre de jours de l’année d’imposition et 365.
+(3) Lorsqu’une année d’imposition compte moins de 12 mois, le montant accordé à titre de déduction en application du présent article, exception faite du paragraphe (0.1) et des alinéas (1)c), e), f), g), m), w), x), y), ya) et ze), ne peut dépasser le produit du montant maximal autrement déductible par le rapport entre le nombre de jours de l’année d’imposition et 365.
 
 (4) Réservé.
 
@@ -4899,6 +4878,7 @@ qui est en sus
 - DORS/2024-231, art. 5
 - 2026, ch. 3, art. 103
 - 2026, ch. 3, art. 123(F)
+- 2026, ch. 22, art. 7
 
 </details>
 
@@ -5240,6 +5220,8 @@ une catégorie distincte est prescrite pour les biens,
 
 (5v) Une catégorie distincte est prescrite pour un ou plusieurs biens d’un contribuable qui sont des biens compris dans la catégorie 49 de l’annexe II et à l’égard desquels le contribuable a fait un choix pour que le présent paragraphe s’applique. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle le ou les biens ont été acquis.
 
+(5w) Pour l’application de la présente partie, est comprise dans une catégorie distincte chaque serre admissible d’un contribuable à l’égard de laquelle il a choisi de se prévaloir du présent paragraphe dans sa déclaration de revenu en vertu de la partie I de la Loi pour l’année d’imposition dans laquelle la serre est acquise.
+
 (6) Dans la présente partie, un renvoi à une catégorie de l’annexe II comprend un renvoi aux catégories distinctes correspondantes qui sont prescrites par le présent article.
 
 <details>
@@ -5248,6 +5230,7 @@ une catégorie distincte est prescrite pour les biens,
 - [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.]
 - DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F), 78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2; DORS/2009-115, art. 2 et 13; DORS/2009-126, art. 2; DORS/2010-93, art. 13(F); DORS/2011-9, art. 2; 2013, ch. 34, art. 384, ch. 40, art. 101; DORS/2015-117, art. 2
 - 2026, ch. 3, art. 104
+- 2026, ch. 22, art. 8
 
 </details>
 
@@ -5486,9 +5469,9 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 
 (20) Pour l’application des paragraphes 1100(2.2) et (19), 1101(lad) et 1102(14), est réputé ne pas avoir un lien de dépendance avec une autre personne à l’égard de l’acquisition d’un bien le contribuable qui serait, s’il était fait abstraction du présent paragraphe, réputé avoir un lien de dépendance avec l’autre personne en raison d’une opération ou d’une série d’opérations dont il est raisonnable de croire que le principal objet était de faire en sorte qu’un ou plusieurs de ces paragraphes s’appliquent à l’acquisition du bien.
 
-(20.1) Pour l’application des paragraphes 1100(0.3), (2.02) et (2.021) et 1104(3.1), (4) et (4.01), sont réputées avoir un lien de dépendance à l’égard de l’acquisition ou de la détention d’un bien une personne ou société de personnes donnée et une autre personne ou société de personnes si, en l’absence du présent paragraphe, elles seraient considérées ne pas avoir de lien de dépendance entre elles et il est raisonnable de croire que le principal objet d’une opération ou d’un événement ou d’une série d’opérations ou d’événements est de faire en sorte :
+(20.1) Pour l’application des paragraphes 1100(0.3), (2.02) et (2.021) et 1104(2), (3.1), (4) et (4.01), sont réputées avoir un lien de dépendance à l’égard de l’acquisition ou de la détention d’un bien une personne ou société de personnes donnée et une autre personne ou société de personnes si, en l’absence du présent paragraphe, elles seraient considérées ne pas avoir de lien de dépendance entre elles et il est raisonnable de considérer que le principal objet d’une opération ou d’un événement ou d’une série d’opérations ou d’événements est de faire en sorte :
 
-- a) soit que ces biens soient admissibles à titre de biens relatifs à l’incitatif à l’investissement accéléré, de biens relatifs à l’incitatif à l’investissement réaccéléré ou de biens relatifs à la passation en charges immédiate;
+- a) soit que ces biens soient admissibles à titre de biens relatifs à l’incitatif à l’investissement accéléré, de biens relatifs à l’incitatif à l’investissement réaccéléré, de biens relatifs à la passation en charges immédiate ou de serres admissibles;
 
 - b) soit que la personne ou société de personnes donnée et l’autre personne ou société de personnes remplissent la condition énoncée au sous-alinéa 1100(0.3)c)(i) ou aux subdivisions 1100(2.02)a)(i)(C)(I) ou (2.021)a)(i)(C)(I).
 
@@ -5514,7 +5497,13 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 
 - a) est une condition visée par règlement le fait que le véhicule à moteur ait une capacité de batterie d’au moins 7 kWh;
 
-- b) est un programme visé par règlement l’incitatif fédéral à l’achat annoncé le 19 mars 2019.
+- b) sont visés par règlement les programmes suivants :
+  - (i) l’incitatif fédéral à l’achat annoncé le 19 mars 2019,
+  - (ii) le Programme pour des véhicules électriques abordables annoncé le 5 février 2026.
+
+(27) Pour l’application de l’alinéa 1100(1)ze) et du paragraphe 1101(5w), le coût en capital pour un contribuable d’un ajout ou d’une modification à une serre du contribuable est réputé être le coût en capital pour le contribuable d’une serre distincte.
+
+(28) Pour l’application de la présente partie et de l’annexe II, si une serre d’un contribuable était en construction le 4 novembre 2025 et que la serre constituerait une **serre admissible**, au sens du paragraphe 1104(2), mais compte non tenu de l’alinéa b) de cette définition, la partie du coût en capital de la serre que le contribuable a engagée avant cette date et qu’il n’a pas déduite en application de l’alinéa 20(1)a) de la Loi est réputée avoir été engagée par lui le 4 novembre 2025, sauf s’il choisit de soustraire ce coût à l’application du présent paragraphe dans sa déclaration de revenu en vertu de la partie I de la Loi pour l’année d’imposition dans laquelle la serre est acquise.
 
 <details>
 <summary>Historical Note</summary>
@@ -5525,6 +5514,7 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 - 2021, ch. 23, art. 85
 - 2022, ch. 10, art. 35
 - 2026, ch. 3, art. 105
+- 2026, ch. 22, art. 9
 
 </details>
 
@@ -5795,6 +5785,16 @@ et pour l’application de la présente définition :
 **route d’accès temporaire déterminée**
   - a) Route d’accès temporaire à un puits de pétrole ou de gaz au Canada;
   - b) route d’accès temporaire dont le coût représenterait des frais d’exploration au Canada par l’effet des alinéas f) ou g) de la définition de **frais d’exploration au Canada** au paragraphe 66.1(6) de la Loi s’il était fait abstraction des alinéas k.1) et l) de cette définition; (**specified temporary access road**)
+
+**serre admissible** Bien d’un contribuable qui, à la fois :
+  - a) est situé au Canada;
+  - b) est acquis par le contribuable après le 3 novembre 2025;
+  - c) est compris :
+    - (i) soit dans la catégorie 6 de l’annexe II par l’effet de son alinéa d),
+    - (ii) soit dans la catégorie 8 de l’annexe II par l’effet de son alinéa m);
+  - d) remplit l’une des conditions suivantes :
+    - (i) le bien n’est pas un bien relativement auquel un montant a été déduit en application de l’alinéa 20(1)a) ou du paragraphe 20(16) de la Loi par toute personne ou société de personnes pour une année d’imposition qui se termine avant le moment de son acquisition par le contribuable,
+    - (ii) le bien, selon le cas :
 
 **travaux préliminaires** Toute activité préalable à l’acquisition, à la construction, à la fabrication ou à l’installation, par un contribuable ou pour son compte, de biens désignés relativement au projet de sables bitumineux du contribuable, notamment :
   - a) l’obtention des permis ou des autorisations réglementaires;
@@ -6191,6 +6191,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 - 2022, ch. 10, art. 37
 - 2022, ch. 10, art. 38
 - 2026, ch. 3, art. 106
+- 2026, ch. 22, art. 10
 
 </details>
 

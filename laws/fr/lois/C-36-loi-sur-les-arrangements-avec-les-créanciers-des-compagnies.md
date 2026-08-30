@@ -40,7 +40,7 @@ type: "act"
 
 **biens aéronautiques**[Abrogée, 2012, ch. 31, art. 419]
 
-**compagnie** Toute personne morale constituée par une loi fédérale ou provinciale ou sous son régime et toute personne morale qui possède un actif ou exerce des activités au Canada, quel que soit l’endroit où elle a été constituée, ainsi que toute fiducie de revenu. La présente définition exclut les banques, les banques étrangères autorisées, au sens de l’article 2 de la *Loi sur les banques*, les compagnies de télégraphe, les compagnies d’assurances et les sociétés auxquelles s’applique la *Loi sur les sociétés de fiducie et de prêt*. (**company**)
+**compagnie** Toute personne morale constituée par une loi fédérale ou provinciale ou sous son régime et toute personne morale qui possède un actif ou exerce des activités au Canada, quel que soit l’endroit où elle a été constituée, ainsi que toute fiducie de revenu. La présente définition exclut les banques, les banques étrangères autorisées au sens de l’article 2 de la *Loi sur les banques*, les compagnies de télégraphe, les compagnies d’assurances, les sociétés auxquelles s’applique la *Loi sur les sociétés de fiducie et de prêt* et les établissements publics d’enseignement postsecondaire prévus par règlement. (**company**)
 
 **compagnie débitrice** Toute compagnie qui, selon le cas :
   - a) est en faillite ou est insolvable;
@@ -106,6 +106,7 @@ type: "act"
 <summary>Historical Note</summary>
 
 - L.R. (1985), ch. C-36, art. 2; L.R. (1985), ch. 27 (2^e^ suppl.), art. 10; 1990, ch. 17, art. 4; 1992, ch. 27, art. 90; 1993, ch. 34, art. 52; 1996, ch. 6, art. 167; 1997, ch. 12, art. 120(A); 1998, ch. 30, art. 14; 1999, ch. 3, art. 22, ch. 28, art. 154; 2001, ch. 9, art. 575; 2002, ch. 7, art. 133; 2004, ch. 25, art. 193; 2005, ch. 3, art. 15, ch. 47, art. 124; 2007, ch. 29, art. 104, ch. 36, art. 61 et 105; 2012, ch. 31, art. 419; 2015, ch. 3, art. 37; 2018, ch. 10, art. 89
+- 2024, ch. 15, art. 274
 
 </details>
 
@@ -2186,12 +2187,3 @@ L’article 11.001, les paragraphes 11.02(1) et 11.2(5) et les articles 11.9 et 
 ### 276 *Loi sur les arrangements avec les créanciers des compagnies*
 
 La définition de **compagnie**, au paragraphe 2(1) de la *Loi sur les arrangements avec les créanciers des compagnies*, édictée par l’article 274, ne s’applique qu’à l’égard des procédures intentées sous le régime de cette loi à la date d’entrée en vigueur de cet article 274 ou après cette date.
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-### — 2024, ch. 15, art. 274
-
-### 274
-
-La définition de **compagnie**, au paragraphe 2(1) de la *Loi sur les arrangements avec les créanciers des compagnies*, est remplacée par ce qui suit :

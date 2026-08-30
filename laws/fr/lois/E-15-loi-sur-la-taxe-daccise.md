@@ -27527,6 +27527,16 @@ L’article 7 ne s’applique pas dans le cas d’un climatiseur visé à cet ar
 
 Combustible diesel et carburant d’aviation, autre que l’essence d’aviation, 0,04 $ le litre.
 
+### 9.2
+
+Si la taxe d’accise imposée en vertu de l’article 23 de la présente loi relativement à une quantité d’essence sans plomb, d’essence d’aviation sans plomb, d’essence d’aviation avec plomb, de combustible diesel ou de carburant d’aviation devient payable à un moment qui est postérieur au 19 avril 2026 mais antérieur au 8 septembre 2026, les règles ci-après s’appliquent au calcul du montant de cette taxe :
+
+- a) la mention « 0,10 $ » à l’alinéa 9a) vaut mention de « 0,00 $ »;
+
+- b) la mention « 0,11 $ » à l’alinéa 9b) vaut mention de « 0,00 $ »;
+
+- c) la mention « 0,04 $ » à l’article 9.1 vaut mention de « 0,00 $ ».
+
 ### 10
 
 L’article 6 ne s’applique pas à une automobile visée à cet article qui est, selon le cas :
@@ -27551,6 +27561,7 @@ Le paiement de la taxe imposée en application de l’article 6 peut être diff�
 
 - [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.]
 - L.R. (1985), ch. E-15, ann. I; L.R. (1985), ch. 15 (1^er^ suppl.), art. 41, ch. 7 (2^e^ suppl.), art. 52, ch. 42 (3^e^ suppl.), art. 2, ch. 12 (4^e^ suppl.), art. 38; 1989, ch. 22, art. 5; 1990, ch. 45, art. 13 à 15; 1993, ch. 27, art. 145 et 146; 1995, ch. 36, art. 8; 2005, ch. 30, art. 25, ch. 55, art. 1; 2006, ch. 4, art. 89; 2007, ch. 29, art. 44; 2012, ch. 19, art. 25 à 28
+- 2026, ch. 22, art. 11
 
 </details>
 
@@ -28047,3 +28058,12 @@ Lorsqu’une fourniture est effectuée entre une personne et une personne morale
 
 
 (8) Si une personne a droit à un remboursement prévu au paragraphe 256.2(3) de la même loi (modifié par le paragraphe (2)) relativement à la construction ou aux rénovations majeures d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples, ou y aurait droit en l’absence de l’alinéa 256.2(7)a) de la même loi (modifié par le paragraphe (5)), si la construction ou les rénovations sont achevées en grande partie avant la date de sanction de la présente loi, si le montant du remboursement est déterminé en vertu du paragraphe 256.2(3.2) de la même loi (modifié par le paragraphe (3)) et si le remboursement est relatif à une fourniture taxable visée au paragraphe 256.2(2.1) de la même loi, le remboursement peut, malgré l’alinéa 256.2(7)a) de la même loi (modifié par le paragraphe (5)), être versé à la personne si celle-ci présente une demande de remboursement avant le deuxième anniversaire de la date de cette sanction.
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+### — 2026, ch. 19, art. 88
+
+### 88
+
+La division 295(5.04)a)(i)(D) de la *Loi sur la taxe d’accise* est remplacée par ce qui suit :
